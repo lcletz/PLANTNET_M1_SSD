@@ -32,7 +32,7 @@ def fetch_data(url):
                     print(line)
                 print("\n")
 
-def extract_and_save_data(zip_content, output_dir="extracted_data", num_lines=200): # num_lines à changer si besoin
+#def extract_and_save_data(zip_content, output_dir="extracted_data", num_lines=200): # num_lines à changer si besoin
     os.makedirs(output_dir, exist_ok=True)
     with zipfile.ZipFile(io.BytesIO(zip_content)) as z:
         for file_name in z.namelist():
@@ -49,6 +49,20 @@ def extract_and_save_data(zip_content, output_dir="extracted_data", num_lines=20
                         out_file.write(line)
             print(f"Saved first {num_lines} lines of {file_name} to {relative_path}")
 
+def extract_and_save_all_data(zip_content, output_dir="data"):
+    os.makedirs(output_dir, exist_ok=True)
+    with zipfile.ZipFile(io.BytesIO(zip_content)) as z:
+        for file_name in z.namelist():
+            if file_name.endswith('/'):
+                continue 
+            relative_path = os.path.join(output_dir, *file_name.split('/')[1:])
+            os.makedirs(os.path.dirname(relative_path), exist_ok=True)
+            with z.open(file_name) as f:
+                with open(relative_path, 'wb') as out_file:
+                    for line in f:
+                        out_file.write(line)
+            print(f"Saved {file_name} to {relative_path}")
+
 if __name__ == "__main__":
     url = "https://zenodo.org/record/10782465/files/plantnet_swe.zip"
     zip_content = fetch_data(url)
@@ -56,4 +70,5 @@ if __name__ == "__main__":
         print("Data fetched successfully:")
         #extract_and_print_headers(zip_content)
         #extract_and_print_data(zip_content)
-        extract_and_save_data(zip_content, num_lines=200)  # num_lines à changer si besoin
+        #extract_and_save_data(zip_content, num_lines=200)  # num_lines à changer si besoin
+        extract_and_save_all_data(zip_content)
