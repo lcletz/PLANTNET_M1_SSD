@@ -1,0 +1,175 @@
+---
+title: "Essai visualisation"
+author: "AIGOIN Emilie"
+date: "2025-02-05"
+output: html_document
+---
+
+```{r}
+
+# Chargement des packages
+
+library(tidyverse)
+library(jsonlite)
+
+```
+
+```{r}
+
+# Charger les fichiers JSON
+
+metadata <- fromJSON("plantnet300K_metadata.json", flatten = TRUE)
+species_id_name <- fromJSON("plantnet300K_species_id_2_name.json")
+
+```
+
+```{r}
+
+# Conservation des 20 000 premières données
+#metadata_court <- metadata[1:20000]
+#metadata_court[["}"]] <- NULL  # Ajout d'un élément vide avec "}" comme clé pour simuler la fermeture
+
+# Sélection de 20 000 données aléatoirement
+indices_aleatoires <- sample(1:(length(metadata)-1), 20000)
+metadata_court <- metadata[indices_aleatoires]
+metadata_court[["}"]] <- NULL
+
+# Transformer la liste en dataframe
+metadata_df <- do.call(rbind, lapply(names(metadata_court), function(id) {
+  data.frame(
+    id = id,
+    species_id = metadata_court[[id]]$species_id,
+    obs_id = metadata_court[[id]]$obs_id,
+    organ = metadata_court[[id]]$organ,
+    is_shareable = metadata_court[[id]]$is_shareable,
+    v1_id = metadata_court[[id]]$v1_id,
+    author = metadata_court[[id]]$author,
+    license = metadata_court[[id]]$license,
+    split = metadata_court[[id]]$split,
+    stringsAsFactors = FALSE
+  )
+}))
+
+species_df <- as_tibble(enframe(species_id_name, name = "species_id", value = "species_name"))
+
+```
+
+```{r}
+
+# Vérifier les premières lignes
+head(metadata_df)
+
+```
+
+```{r}
+
+# Graphique 1 : Nombre d'observations par split
+ggplot(metadata_df, aes(x = split)) +
+  geom_bar() +
+  labs(title = "Nombre d'observations par split", x = "Split", y = "Nombre d'observations") +
+  theme_minimal()
+
+```
+
+```{r}
+
+# Graphique 2 : Nombre d'observations par organ groupé
+ggplot(metadata_df, aes(x = organ)) +
+  geom_bar() +
+  labs(title = "Nombre d'observations par type d'organe", x = "Organ", y = "Nombre d'observations") +
+  theme_minimal()
+
+```
+
+```{r}
+
+# Graphique 3 : Nombre d'observations par species_id
+ggplot(metadata_df, aes(x = species_id)) +
+  geom_bar() +
+  labs(title = "Nombre d'observations par espèce", x = "Species ID", y = "Nombre d'observations") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+```
+
+```{r}
+
+# Fusionner df avec species_df pour ajouter les noms
+df <- metadata_df %>%
+  left_join(species_df, by = "species_id")
+
+# Sélectionner les 10 espèces les plus fréquentes
+top_species <- df %>%
+  count(species_id, species_name, sort = TRUE) %>%
+  top_n(10) %>%
+  # Créer une nouvelle colonne combinant ID et nom
+  mutate(species_label = paste0(species_id, " - ", species_name))
+
+# Graphique avec les 10 espèces les plus observées
+ggplot(top_species, aes(x = reorder(species_label, n), y = n)) +
+  geom_bar(stat = "identity", fill = "darkgreen") +
+  coord_flip() +
+  labs(title = "Top 10 des espèces les plus fréquentes", 
+       x = "Espèce", 
+       y = "Nombre d'observations") +
+  theme_minimal() +
+  theme(axis.text.y = element_text(size = 10)) # Ajuster la taille du texte si nécessaire
+
+```
+
+
+```{r}
+
+# Graphique 4 : Nombre d'observations par species_id et split
+ggplot(metadata_df, aes(x = species_id, fill = split)) +
+  geom_bar(position = "dodge") +
+  labs(title = "Nombre d'observations par espèce et split", x = "Species ID", y = "Nombre d'observations") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+```
+
+
+```{r}
+
+# Graphique 5 : Nombre d'observations par species_id et organ
+ggplot(metadata_df, aes(x = species_id, fill = organ)) +
+  geom_bar(position = "dodge") +
+  labs(title = "Nombre d'observations par espèce et organe", x = "Species ID", y = "Nombre d'observations") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+```
+
+```{r}
+
+# Matrice species_id x organ
+species_organ_matrix <- metadata_df %>%
+  count(species_id, organ) %>%
+  tidyr::spread(organ, n, fill = 0) %>%
+  column_to_rownames(var = "species_id")
+
+set.seed(123456)
+kmeans_result <- kmeans(species_organ_matrix, centers = 6)
+fviz_cluster(list(data = species_organ_matrix, cluster = kmeans_result$cluster))
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
