@@ -36,8 +36,20 @@ Here is a diagram of the architecture of our project, detailing the location of 
     │     └── converters/
     │           ├── classes.json     
     |           └── tasks.json
+    ├── multiple_data/
+    │     ├── 00/
+    |     |     |── 00
+    |     |     |     |── 10003830000.json
+    |     |     |     |── ...
+    |     |     |── 01
+    |     |     |── ...
+    |     |     |── 99
+    │     ├── 1000460000.json
+    │     ├── tasks.json
     ├── .gitignore
     ├── LICENSE  
     ├── README.md
     └── requirements.txt 
 ```
+
+The ‘multiple_data’ folder contains a sample of the prediction data for the list of species with their score for each observation in the dataset (rather than a single prediction score).
