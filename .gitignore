@@ -1,4 +1,10 @@
 *.pdf
 *~
-.DS_Store
 Thumbs.db
+
+# Fichiers R
+*.RData
+*.Rhistory
+
+# Fichiers système macOS
+.DS_Store

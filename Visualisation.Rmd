@@ -11,6 +11,8 @@ output: html_document
 
 library(tidyverse)
 library(jsonlite)
+library(ggplot2)
+library(factoextra)
 
 ```
 
@@ -107,7 +109,7 @@ top_species <- df %>%
 
 # Graphique avec les 10 espèces les plus observées
 ggplot(top_species, aes(x = reorder(species_label, n), y = n)) +
-  geom_bar(stat = "identity", fill = "darkgreen") +
+  geom_bar(stat = "identity", fill = "#b4a7d5ff") +
   coord_flip() +
   labs(title = "Top 10 des espèces les plus fréquentes", 
        x = "Espèce", 
@@ -155,6 +157,43 @@ fviz_cluster(list(data = species_organ_matrix, cluster = kmeans_result$cluster))
 
 ```
 
+```{r}
+# 1. Ajoutez les clusters aux données originales
+species_organ_with_clusters <- species_organ_matrix %>%
+  rownames_to_column(var = "species_id") %>%
+  mutate(cluster = kmeans_result$cluster)
+
+# 2. Calculez la moyenne de chaque organe par cluster
+cluster_organ_summary <- species_organ_with_clusters %>%
+  group_by(cluster) %>%
+  summarise(across(-species_id, mean)) %>%
+  arrange(cluster)
+
+# 3. Pour voir la distribution des organes dans chaque cluster
+cluster_organ_distribution <- species_organ_with_clusters %>%
+  pivot_longer(cols = -c(species_id, cluster), 
+              names_to = "organ", 
+              values_to = "count") %>%
+  group_by(cluster, organ) %>%
+  summarise(mean_count = mean(count),
+            total_count = sum(count)) %>%
+  arrange(cluster, desc(mean_count))
+
+# Visualisation de la distribution des organes par cluster
+ggplot(cluster_organ_distribution, 
+       aes(x = factor(cluster), y = mean_count, fill = organ)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  theme_minimal() +
+  labs(title = "Distribution moyenne des organes par cluster",
+       x = "Cluster",
+       y = "Nombre moyen d'échantillons")
+
+# Identifier l'organe dominant pour chaque cluster
+dominant_organ <- cluster_organ_distribution %>%
+  group_by(cluster) %>%
+  slice_max(order_by = mean_count, n = 1) %>%
+  select(cluster, organ, mean_count)
+```
 
 
 
