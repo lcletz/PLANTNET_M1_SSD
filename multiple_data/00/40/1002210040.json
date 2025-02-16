@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lagerstroemia indica L.",
+            "id": "1376509",
+            "score": 0.91194
+        },
+        {
+            "name": "Lagerstroemia speciosa (L.) Pers.",
+            "id": "1376510",
+            "score": 0.04474
+        },
+        {
+            "name": "Eugenia uniflora L.",
+            "id": "1382851",
+            "score": 0.00494
+        },
+        {
+            "name": "Ligustrum lucidum W.T.Aiton",
+            "id": "1393525",
+            "score": 0.00185
+        },
+        {
+            "name": "Inga laurina (Sw.) Willd.",
+            "id": "1404572",
+            "score": 0.00141
+        },
+        {
+            "name": "Ligustrum sinense Lour.",
+            "id": "1390584",
+            "score": 0.00101
+        }
+    ]
+}

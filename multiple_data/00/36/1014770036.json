@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Centaurea scabiosa L.",
+            "id": "1391037",
+            "score": 0.96512
+        },
+        {
+            "name": "Centaurea stoebe L.",
+            "id": "1391044",
+            "score": 0.005
+        },
+        {
+            "name": "Centaurea jacea L.",
+            "id": "1362427",
+            "score": 0.00281
+        },
+        {
+            "name": "Centaurea nigra L.",
+            "id": "1357438",
+            "score": 0.00169
+        },
+        {
+            "name": "Centaurea napifolia L.",
+            "id": "1357437",
+            "score": 0.00122
+        },
+        {
+            "name": "Centaurea phrygia L.",
+            "id": "1390981",
+            "score": 0.00102
+        }
+    ]
+}

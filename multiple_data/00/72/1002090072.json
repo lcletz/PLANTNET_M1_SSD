@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tanacetum vulgare L.",
+            "id": "1396512",
+            "score": 0.75659
+        },
+        {
+            "name": "Tanacetum macrophyllum (Waldst. & Kit.) Sch.Bip.",
+            "id": "1396507",
+            "score": 0.08637
+        },
+        {
+            "name": "Achillea filipendulina Lam.",
+            "id": "1392622",
+            "score": 0.07561
+        },
+        {
+            "name": "Tanacetum corymbosum (L.) Sch.Bip.",
+            "id": "1397508",
+            "score": 0.00951
+        },
+        {
+            "name": "Achillea macrophylla L.",
+            "id": "1393307",
+            "score": 0.00636
+        },
+        {
+            "name": "Achillea ageratum L.",
+            "id": "1357182",
+            "score": 0.00366
+        },
+        {
+            "name": "Achillea distans Waldst. & Kit. ex Willd.",
+            "id": "1392898",
+            "score": 0.00242
+        },
+        {
+            "name": "Papaver orientale L.",
+            "id": "1394404",
+            "score": 0.00242
+        },
+        {
+            "name": "Papaver rhoeas L.",
+            "id": "1363128",
+            "score": 0.00239
+        },
+        {
+            "name": "Onoclea sensibilis L.",
+            "id": "1394044",
+            "score": 0.00181
+        },
+        {
+            "name": "Onoclea struthiopteris (L.) Roth",
+            "id": "1737660",
+            "score": 0.00151
+        },
+        {
+            "name": "Rorippa amphibia (L.) Besser",
+            "id": "1358413",
+            "score": 0.0013
+        }
+    ]
+}

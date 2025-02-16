@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Platycladus orientalis (L.) Franco",
+            "id": "1394647",
+            "score": 0.84388
+        },
+        {
+            "name": "Thuja occidentalis L.",
+            "id": "1396760",
+            "score": 0.03873
+        },
+        {
+            "name": "Hesperocyparis macrocarpa (Hartw.) Bartel",
+            "id": "1432847",
+            "score": 0.01448
+        },
+        {
+            "name": "Chamaecyparis lawsoniana (A.Murray bis) Parl.",
+            "id": "1418584",
+            "score": 0.01121
+        },
+        {
+            "name": "Chamaecyparis obtusa (Siebold & Zucc.) Endl.",
+            "id": "1398639",
+            "score": 0.00888
+        },
+        {
+            "name": "Cupressus sempervirens L.",
+            "id": "1391488",
+            "score": 0.00797
+        },
+        {
+            "name": "Juniperus sabina L.",
+            "id": "1393367",
+            "score": 0.00591
+        },
+        {
+            "name": "Juniperus virginiana L.",
+            "id": "1393370",
+            "score": 0.00522
+        },
+        {
+            "name": "Hesperocyparis lusitanica (Mill.) Bartel",
+            "id": "1738619",
+            "score": 0.00161
+        },
+        {
+            "name": "Juniperus horizontalis Moench",
+            "id": "1388819",
+            "score": 0.00145
+        }
+    ]
+}

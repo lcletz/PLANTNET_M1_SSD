@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Acer pseudoplatanus L.",
+            "id": "1356460",
+            "score": 0.67241
+        },
+        {
+            "name": "Acer opalus Mill.",
+            "id": "1362399",
+            "score": 0.11853
+        },
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.01064
+        },
+        {
+            "name": "Acer platanoides L.",
+            "id": "1397301",
+            "score": 0.00592
+        },
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.00214
+        },
+        {
+            "name": "Humulus lupulus L.",
+            "id": "1356781",
+            "score": 0.00102
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Solanum americanum Mill.",
+            "id": "1360564",
+            "score": 0.41629
+        },
+        {
+            "name": "Solanum nigrum L.",
+            "id": "1356167",
+            "score": 0.35772
+        },
+        {
+            "name": "Solanum chenopodioides Lam.",
+            "id": "1356162",
+            "score": 0.09037
+        },
+        {
+            "name": "Solanum villosum Mill.",
+            "id": "1361993",
+            "score": 0.04629
+        },
+        {
+            "name": "Solanum physalifolium Rusby",
+            "id": "1396327",
+            "score": 0.01896
+        },
+        {
+            "name": "Solanum douglasii Dunal",
+            "id": "1438373",
+            "score": 0.00449
+        },
+        {
+            "name": "Solanum carolinense L.",
+            "id": "1396320",
+            "score": 0.00228
+        },
+        {
+            "name": "Physalis angulata L.",
+            "id": "1356152",
+            "score": 0.00185
+        },
+        {
+            "name": "Solanum scabrum Mill.",
+            "id": "1379665",
+            "score": 0.00137
+        }
+    ]
+}

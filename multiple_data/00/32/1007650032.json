@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iberis umbellata L.",
+            "id": "1363926",
+            "score": 0.94519
+        },
+        {
+            "name": "Lobularia maritima (L.) Desv.",
+            "id": "1363882",
+            "score": 0.0041
+        },
+        {
+            "name": "Iberis amara L.",
+            "id": "1358322",
+            "score": 0.0023
+        },
+        {
+            "name": "Iberis linifolia L.",
+            "id": "1393268",
+            "score": 0.00185
+        },
+        {
+            "name": "Meniocus linifolius (Stephan ex Willd.) DC.",
+            "id": "1744311",
+            "score": 0.00103
+        }
+    ]
+}

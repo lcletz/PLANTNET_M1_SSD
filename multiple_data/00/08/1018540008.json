@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Arnica montana L.",
+            "id": "1396472",
+            "score": 0.59703
+        },
+        {
+            "name": "Senecio doronicum (L.) L.",
+            "id": "1396191",
+            "score": 0.01016
+        },
+        {
+            "name": "Doronicum clusii (All.) Tausch",
+            "id": "1391755",
+            "score": 0.00332
+        },
+        {
+            "name": "Ranunculus bullatus L.",
+            "id": "1360194",
+            "score": 0.00318
+        },
+        {
+            "name": "Hieracium murorum L.",
+            "id": "1393025",
+            "score": 0.00135
+        },
+        {
+            "name": "Crepis pontana (L.) Dalla Torre",
+            "id": "1505553",
+            "score": 0.00125
+        }
+    ]
+}

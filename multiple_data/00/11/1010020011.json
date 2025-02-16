@@ -1,0 +1,60 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Iris × germanica L.",
+            "id": "1556750",
+            "score": 0.26415
+        },
+        {
+            "name": "Iris pallida Lam.",
+            "id": "1361541",
+            "score": 0.24132
+        },
+        {
+            "name": "Iris lutescens Lam.",
+            "id": "1362462",
+            "score": 0.2141
+        },
+        {
+            "name": "Iris sibirica L.",
+            "id": "1393304",
+            "score": 0.01896
+        },
+        {
+            "name": "Iris spuria L.",
+            "id": "1361544",
+            "score": 0.00983
+        },
+        {
+            "name": "Iris perrieri Simonet ex N.Service",
+            "id": "1398243",
+            "score": 0.00776
+        },
+        {
+            "name": "Iris aphylla L.",
+            "id": "1393299",
+            "score": 0.00222
+        },
+        {
+            "name": "Iris pseudacorus L.",
+            "id": "1361543",
+            "score": 0.00189
+        },
+        {
+            "name": "Iris florentina L.",
+            "id": "1722421",
+            "score": 0.00187
+        },
+        {
+            "name": "Iris foetidissima L.",
+            "id": "1361540",
+            "score": 0.00139
+        },
+        {
+            "name": "Iris planifolia (Mill.) T.Durand & Schinz",
+            "id": "1556855",
+            "score": 0.00114
+        }
+    ]
+}

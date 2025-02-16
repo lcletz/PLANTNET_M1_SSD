@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sorbaria sorbifolia (L.) A.Braun",
+            "id": "1396352",
+            "score": 0.85571
+        },
+        {
+            "name": "Spiraea alba Du Roi",
+            "id": "1396390",
+            "score": 0.06922
+        },
+        {
+            "name": "Sorbaria tomentosa (Lindl.) Rehder",
+            "id": "1396353",
+            "score": 0.00192
+        },
+        {
+            "name": "Spiraea tomentosa L.",
+            "id": "1396389",
+            "score": 0.00188
+        },
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.00154
+        },
+        {
+            "name": "Rhus typhina L.",
+            "id": "1395193",
+            "score": 0.00132
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.00107
+        }
+    ]
+}

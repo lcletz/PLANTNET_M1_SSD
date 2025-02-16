@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cerastium glomeratum Thuill.",
+            "id": "1356697",
+            "score": 0.89179
+        },
+        {
+            "name": "Cerastium semidecandrum L.",
+            "id": "1356835",
+            "score": 0.013
+        },
+        {
+            "name": "Cerastium fontanum Baumg.",
+            "id": "1356277",
+            "score": 0.00382
+        },
+        {
+            "name": "Cerastium brachypetalum Desp. ex Pers.",
+            "id": "1391078",
+            "score": 0.00208
+        },
+        {
+            "name": "Arenaria serpyllifolia L.",
+            "id": "1362019",
+            "score": 0.00124
+        },
+        {
+            "name": "Origanum onites L.",
+            "id": "1358844",
+            "score": 0.00122
+        },
+        {
+            "name": "Cerastium regelii Ostenf.",
+            "id": "1411404",
+            "score": 0.0011
+        }
+    ]
+}

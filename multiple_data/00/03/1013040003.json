@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus serrulata Lindl.",
+            "id": "1394953",
+            "score": 0.92322
+        },
+        {
+            "name": "Prunus triloba Lindl.",
+            "id": "1398678",
+            "score": 0.02968
+        },
+        {
+            "name": "Prunus × subhirtella Miq.",
+            "id": "1721663",
+            "score": 0.00485
+        },
+        {
+            "name": "Prunus × yedoensis Matsum.",
+            "id": "1668075",
+            "score": 0.00284
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.00144
+        }
+    ]
+}

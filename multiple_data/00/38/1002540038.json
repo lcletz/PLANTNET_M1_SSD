@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ocimum basilicum L.",
+            "id": "1361975",
+            "score": 0.84377
+        },
+        {
+            "name": "Ocimum americanum L.",
+            "id": "1419267",
+            "score": 0.08974
+        },
+        {
+            "name": "Ocimum campechianum Mill.",
+            "id": "1406351",
+            "score": 0.00852
+        },
+        {
+            "name": "Ocimum kilimandscharicum Gürke",
+            "id": "1561124",
+            "score": 0.00547
+        },
+        {
+            "name": "Ocimum × africanum Lour.",
+            "id": "1561102",
+            "score": 0.00295
+        },
+        {
+            "name": "Ocimum gratissimum L.",
+            "id": "1408426",
+            "score": 0.00251
+        },
+        {
+            "name": "Ocimum tenuiflorum L.",
+            "id": "1377338",
+            "score": 0.00122
+        }
+    ]
+}

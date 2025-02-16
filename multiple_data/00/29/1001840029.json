@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cydonia oblonga Mill.",
+            "id": "1363999",
+            "score": 0.86625
+        },
+        {
+            "name": "Malus sylvestris (L.) Mill.",
+            "id": "1420379",
+            "score": 0.0087
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.00832
+        },
+        {
+            "name": "Malus domestica (Suckow) Borkh.",
+            "id": "1729464",
+            "score": 0.00593
+        },
+        {
+            "name": "Crataegus germanica (L.) Kuntze",
+            "id": "1391434",
+            "score": 0.00202
+        },
+        {
+            "name": "Magnolia × soulangeana Soul.-Bod.",
+            "id": "1591282",
+            "score": 0.00146
+        }
+    ]
+}

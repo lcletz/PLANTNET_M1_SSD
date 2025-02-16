@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Geum urbanum L.",
+            "id": "1360300",
+            "score": 0.89825
+        },
+        {
+            "name": "Geum macrophyllum Willd.",
+            "id": "1398509",
+            "score": 0.06338
+        },
+        {
+            "name": "Potentilla indica (Andrews) Th.Wolf",
+            "id": "1721637",
+            "score": 0.00406
+        },
+        {
+            "name": "Geum sylvaticum Pourr.",
+            "id": "1360299",
+            "score": 0.00396
+        },
+        {
+            "name": "Geum aleppicum Jacq.",
+            "id": "1412165",
+            "score": 0.00163
+        },
+        {
+            "name": "Geum hispidum Fr.",
+            "id": "1392606",
+            "score": 0.00137
+        },
+        {
+            "name": "Geum pyrenaicum Mill.",
+            "id": "1392611",
+            "score": 0.00112
+        }
+    ]
+}

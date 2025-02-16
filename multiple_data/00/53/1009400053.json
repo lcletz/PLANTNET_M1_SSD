@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.95682
+        },
+        {
+            "name": "Syringa reticulata (Blume) H.Hara",
+            "id": "1609522",
+            "score": 0.01154
+        },
+        {
+            "name": "Alnus cordata (Loisel.) Duby",
+            "id": "1397307",
+            "score": 0.00269
+        },
+        {
+            "name": "Cydonia oblonga Mill.",
+            "id": "1363999",
+            "score": 0.00178
+        },
+        {
+            "name": "Lonicera caprifolium L.",
+            "id": "1393632",
+            "score": 0.00104
+        }
+    ]
+}

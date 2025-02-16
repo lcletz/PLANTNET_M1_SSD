@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.94815
+        },
+        {
+            "name": "Stachys alpina L.",
+            "id": "1397502",
+            "score": 0.0045
+        },
+        {
+            "name": "Stachys sylvatica L.",
+            "id": "1358950",
+            "score": 0.00313
+        },
+        {
+            "name": "Betonica officinalis L.",
+            "id": "1400126",
+            "score": 0.00289
+        },
+        {
+            "name": "Teucrium canadense L.",
+            "id": "1414011",
+            "score": 0.00125
+        }
+    ]
+}

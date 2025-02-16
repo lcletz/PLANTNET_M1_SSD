@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cornus sanguinea L.",
+            "id": "1397356",
+            "score": 0.78319
+        },
+        {
+            "name": "Cornus amomum Mill.",
+            "id": "1418488",
+            "score": 0.02391
+        },
+        {
+            "name": "Cornus sericea L.",
+            "id": "1397902",
+            "score": 0.01374
+        },
+        {
+            "name": "Rhamnus cathartica L.",
+            "id": "1360262",
+            "score": 0.01088
+        },
+        {
+            "name": "Aronia melanocarpa (Michx.) Elliott",
+            "id": "1398450",
+            "score": 0.00231
+        },
+        {
+            "name": "Cornus mas L.",
+            "id": "1391354",
+            "score": 0.00161
+        },
+        {
+            "name": "Cornus foemina Mill.",
+            "id": "1441713",
+            "score": 0.00115
+        }
+    ]
+}

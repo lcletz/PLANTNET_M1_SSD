@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Artemisia absinthium L.",
+            "id": "1357268",
+            "score": 0.93951
+        },
+        {
+            "name": "Artemisia arborescens L.",
+            "id": "1396742",
+            "score": 0.01087
+        },
+        {
+            "name": "Artemisia vallesiaca All.",
+            "id": "1396899",
+            "score": 0.00176
+        },
+        {
+            "name": "Artemisia annua L.",
+            "id": "1382106",
+            "score": 0.00127
+        },
+        {
+            "name": "Artemisia stelleriana Besser",
+            "id": "1413704",
+            "score": 0.00122
+        },
+        {
+            "name": "Tanacetum parthenium (L.) Sch.Bip.",
+            "id": "1396511",
+            "score": 0.0012
+        },
+        {
+            "name": "Artemisia vulgaris L.",
+            "id": "1364152",
+            "score": 0.00111
+        }
+    ]
+}

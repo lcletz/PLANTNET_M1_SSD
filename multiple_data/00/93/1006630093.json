@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Petroselinum crispum (Mill.) Fuss",
+            "id": "1363214",
+            "score": 0.55786
+        },
+        {
+            "name": "Aethusa cynapium L.",
+            "id": "1360608",
+            "score": 0.06014
+        },
+        {
+            "name": "Apium graveolens L.",
+            "id": "1363218",
+            "score": 0.02471
+        },
+        {
+            "name": "Conium maculatum L.",
+            "id": "1363216",
+            "score": 0.02462
+        },
+        {
+            "name": "Peucedanum alsaticum L.",
+            "id": "1458331",
+            "score": 0.00712
+        },
+        {
+            "name": "Smyrnium olusatrum L.",
+            "id": "1360801",
+            "score": 0.00365
+        },
+        {
+            "name": "Oenanthe crocata L.",
+            "id": "1360761",
+            "score": 0.00148
+        },
+        {
+            "name": "Coriandrum sativum L.",
+            "id": "1363224",
+            "score": 0.00135
+        }
+    ]
+}

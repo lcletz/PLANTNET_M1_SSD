@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Humulus lupulus L.",
+            "id": "1356781",
+            "score": 0.89118
+        },
+        {
+            "name": "Rubus idaeus L.",
+            "id": "1395507",
+            "score": 0.00573
+        },
+        {
+            "name": "Hydrastis canadensis L.",
+            "id": "1412293",
+            "score": 0.00547
+        },
+        {
+            "name": "Rubus spectabilis Pursh",
+            "id": "1395613",
+            "score": 0.003
+        },
+        {
+            "name": "Rubus caesius L.",
+            "id": "1360354",
+            "score": 0.00258
+        },
+        {
+            "name": "Rubus pruinosus Arrh.",
+            "id": "1389311",
+            "score": 0.00238
+        },
+        {
+            "name": "Rubus occidentalis L.",
+            "id": "1413531",
+            "score": 0.00166
+        },
+        {
+            "name": "Humulus scandens (Lour.) Merr.",
+            "id": "1418380",
+            "score": 0.00148
+        },
+        {
+            "name": "Vitis vinifera L.",
+            "id": "1356217",
+            "score": 0.00114
+        },
+        {
+            "name": "Rubus nemoralis P.J.Müll.",
+            "id": "1395553",
+            "score": 0.00101
+        }
+    ]
+}

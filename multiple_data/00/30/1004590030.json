@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Papaver somniferum L.",
+            "id": "1363130",
+            "score": 0.93721
+        },
+        {
+            "name": "Papaver rhoeas L.",
+            "id": "1363128",
+            "score": 0.01069
+        },
+        {
+            "name": "Clusia rosea Jacq.",
+            "id": "1418447",
+            "score": 0.00784
+        },
+        {
+            "name": "Feijoa sellowiana (O.Berg) O.Berg",
+            "id": "1392255",
+            "score": 0.00119
+        },
+        {
+            "name": "Papaver orientale L.",
+            "id": "1394404",
+            "score": 0.0011
+        }
+    ]
+}

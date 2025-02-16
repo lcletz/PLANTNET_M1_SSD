@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Verbena officinalis L.",
+            "id": "1360860",
+            "score": 0.97697
+        },
+        {
+            "name": "Malva alcea L.",
+            "id": "1359635",
+            "score": 0.00625
+        },
+        {
+            "name": "Verbena brasiliensis Vell.",
+            "id": "1378797",
+            "score": 0.00251
+        },
+        {
+            "name": "Verbena hastata L.",
+            "id": "1398136",
+            "score": 0.00235
+        },
+        {
+            "name": "Verbena halei Small",
+            "id": "1439504",
+            "score": 0.00212
+        },
+        {
+            "name": "Malva moschata L.",
+            "id": "1393748",
+            "score": 0.00197
+        },
+        {
+            "name": "Verbena litoralis Kunth",
+            "id": "1398545",
+            "score": 0.00179
+        }
+    ]
+}

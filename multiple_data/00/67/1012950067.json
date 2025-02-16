@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.63947
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.25596
+        },
+        {
+            "name": "Prunus serrulata Lindl.",
+            "id": "1394953",
+            "score": 0.04656
+        },
+        {
+            "name": "Prunus × yedoensis Matsum.",
+            "id": "1668075",
+            "score": 0.00955
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00879
+        },
+        {
+            "name": "Prunus × subhirtella Miq.",
+            "id": "1721663",
+            "score": 0.0066
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.00458
+        },
+        {
+            "name": "Prunus sargentii Rehder",
+            "id": "1420426",
+            "score": 0.00198
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.00194
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.0014
+        }
+    ]
+}

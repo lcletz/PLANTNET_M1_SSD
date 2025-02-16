@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Yucca gloriosa L.",
+            "id": "1362946",
+            "score": 0.82988
+        },
+        {
+            "name": "Yucca filamentosa L.",
+            "id": "1397243",
+            "score": 0.09083
+        },
+        {
+            "name": "Yucca aloifolia L.",
+            "id": "1398112",
+            "score": 0.02896
+        },
+        {
+            "name": "Yucca flaccida Haw.",
+            "id": "1409149",
+            "score": 0.0023
+        },
+        {
+            "name": "Yucca glauca Nutt.",
+            "id": "1414249",
+            "score": 0.00114
+        }
+    ]
+}

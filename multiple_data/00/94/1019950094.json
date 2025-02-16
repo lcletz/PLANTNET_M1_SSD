@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Tamarix gallica L.",
+            "id": "1364090",
+            "score": 0.46297
+        },
+        {
+            "name": "Tamarix ramosissima Ledeb.",
+            "id": "1364085",
+            "score": 0.11161
+        },
+        {
+            "name": "Tamarix canariensis Willd.",
+            "id": "1364089",
+            "score": 0.09345
+        },
+        {
+            "name": "Tamarix parviflora DC.",
+            "id": "1364093",
+            "score": 0.05896
+        },
+        {
+            "name": "Tamarix africana Poir.",
+            "id": "1360582",
+            "score": 0.02573
+        },
+        {
+            "name": "Tamarix boveana Bunge",
+            "id": "1360583",
+            "score": 0.00306
+        },
+        {
+            "name": "Calluna vulgaris (L.) Hull",
+            "id": "1358501",
+            "score": 0.00134
+        }
+    ]
+}

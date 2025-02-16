@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Geranium sylvaticum L.",
+            "id": "1392599",
+            "score": 0.90872
+        },
+        {
+            "name": "Geranium pratense L.",
+            "id": "1397394",
+            "score": 0.02018
+        },
+        {
+            "name": "Geranium maculatum L.",
+            "id": "1412160",
+            "score": 0.0141
+        },
+        {
+            "name": "Geranium platypetalum Fisch. & C.A.Mey.",
+            "id": "1398511",
+            "score": 0.00276
+        },
+        {
+            "name": "Geranium palustre L.",
+            "id": "1392591",
+            "score": 0.00159
+        },
+        {
+            "name": "Geranium rivulare Vill.",
+            "id": "1392595",
+            "score": 0.00113
+        }
+    ]
+}

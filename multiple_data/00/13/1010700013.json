@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Arum italicum Mill.",
+            "id": "1360989",
+            "score": 0.95205
+        },
+        {
+            "name": "Arum pictum L.f.",
+            "id": "1396965",
+            "score": 0.00326
+        },
+        {
+            "name": "Arum maculatum L.",
+            "id": "1396952",
+            "score": 0.00242
+        },
+        {
+            "name": "Arum hygrophilum Boiss.",
+            "id": "1360988",
+            "score": 0.00125
+        },
+        {
+            "name": "Dracunculus vulgaris Schott",
+            "id": "1360995",
+            "score": 0.00112
+        }
+    ]
+}

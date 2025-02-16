@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cercis siliquastrum L.",
+            "id": "1359162",
+            "score": 0.8132
+        },
+        {
+            "name": "Cercis canadensis L.",
+            "id": "1397806",
+            "score": 0.12136
+        },
+        {
+            "name": "Prunus serrulata Lindl.",
+            "id": "1394953",
+            "score": 0.00757
+        },
+        {
+            "name": "Tamarix ramosissima Ledeb.",
+            "id": "1364085",
+            "score": 0.00314
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00282
+        },
+        {
+            "name": "Cercis chinensis Bunge",
+            "id": "1418915",
+            "score": 0.00156
+        }
+    ]
+}

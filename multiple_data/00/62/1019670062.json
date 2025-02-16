@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Anchusa azurea Mill.",
+            "id": "1363832",
+            "score": 0.91715
+        },
+        {
+            "name": "Anchusa officinalis L.",
+            "id": "1394038",
+            "score": 0.22866
+        },
+        {
+            "name": "Echium italicum L.",
+            "id": "1356663",
+            "score": 0.03904
+        },
+        {
+            "name": "Echium vulgare L.",
+            "id": "1363850",
+            "score": 0.02049
+        },
+        {
+            "name": "Anchusa arvensis (L.) M.Bieb.",
+            "id": "1477188",
+            "score": 0.00296
+        },
+        {
+            "name": "Echium asperrimum Lam.",
+            "id": "1356646",
+            "score": 0.00166
+        },
+        {
+            "name": "Plantago lagopus L.",
+            "id": "1359959",
+            "score": 0.00143
+        },
+        {
+            "name": "Pilosella cymosa (L.) F.W.Schultz & Sch.Bip.",
+            "id": "1394573",
+            "score": 0.00115
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euonymus alatus (Thunb.) Siebold",
+            "id": "1412016",
+            "score": 0.94034
+        },
+        {
+            "name": "Parrotia persica C.A.Mey.",
+            "id": "1738716",
+            "score": 0.01039
+        },
+        {
+            "name": "Viburnum plicatum Thunb.",
+            "id": "1397609",
+            "score": 0.00507
+        },
+        {
+            "name": "Euonymus europaeus L.",
+            "id": "1392236",
+            "score": 0.002
+        },
+        {
+            "name": "Euonymus phellomanus Loes.",
+            "id": "1443553",
+            "score": 0.00198
+        }
+    ]
+}

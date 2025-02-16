@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.95159
+        },
+        {
+            "name": "Acer japonicum Thunb.",
+            "id": "1390723",
+            "score": 0.01364
+        },
+        {
+            "name": "Acer pseudoplatanus L.",
+            "id": "1356460",
+            "score": 0.00209
+        },
+        {
+            "name": "Acer macrophyllum Pursh",
+            "id": "1412158",
+            "score": 0.00186
+        },
+        {
+            "name": "Acer circinatum Pursh",
+            "id": "1411917",
+            "score": 0.00143
+        },
+        {
+            "name": "Acer rubrum L.",
+            "id": "1398406",
+            "score": 0.00138
+        },
+        {
+            "name": "Platanus orientalis L.",
+            "id": "1362358",
+            "score": 0.00126
+        }
+    ]
+}

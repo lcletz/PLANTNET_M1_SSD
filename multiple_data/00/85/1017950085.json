@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pseudodictamnus mediterraneus Salmaki & Siadati",
+            "id": "1738638",
+            "score": 0.70915
+        },
+        {
+            "name": "Pseudodictamnus acetabulosus (L.) Salmaki & Siadati",
+            "id": "1745656",
+            "score": 0.18137
+        },
+        {
+            "name": "Pseudodictamnus hirsutus (Willd.) Salmaki & Siadati",
+            "id": "1743236",
+            "score": 0.0556
+        },
+        {
+            "name": "Helichrysum petiolare Hilliard & B.L.Burtt",
+            "id": "1417838",
+            "score": 0.00259
+        },
+        {
+            "name": "Coleus hadiensis (Forssk.) A.J.Paton",
+            "id": "1747832",
+            "score": 0.00236
+        },
+        {
+            "name": "Marrubium vulgare L.",
+            "id": "1356123",
+            "score": 0.00208
+        },
+        {
+            "name": "Marrubium supinum L.",
+            "id": "1358782",
+            "score": 0.00124
+        }
+    ]
+}

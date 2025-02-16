@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Podranea ricasoliana (Tanfani) Sprague",
+            "id": "1388692",
+            "score": 0.86857
+        },
+        {
+            "name": "Campsis radicans (L.) Bureau",
+            "id": "1390680",
+            "score": 0.01064
+        },
+        {
+            "name": "Campsis grandiflora (Thunb.) K.Schum.",
+            "id": "1390679",
+            "score": 0.00518
+        },
+        {
+            "name": "Tecoma stans (L.) Juss. ex Kunth",
+            "id": "1400150",
+            "score": 0.00189
+        },
+        {
+            "name": "Rosa gallica L.",
+            "id": "1360338",
+            "score": 0.00173
+        },
+        {
+            "name": "Rosa canina L.",
+            "id": "1360334",
+            "score": 0.00104
+        }
+    ]
+}

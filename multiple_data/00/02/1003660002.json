@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ribes nigrum L.",
+            "id": "1395200",
+            "score": 0.90151
+        },
+        {
+            "name": "Ribes rubrum L.",
+            "id": "1397543",
+            "score": 0.02234
+        },
+        {
+            "name": "Ribes sanguineum Pursh",
+            "id": "1395204",
+            "score": 0.0177
+        },
+        {
+            "name": "Ribes uva-crispa L.",
+            "id": "1358684",
+            "score": 0.0039
+        },
+        {
+            "name": "Ribes americanum Mill.",
+            "id": "1413471",
+            "score": 0.00131
+        },
+        {
+            "name": "Ribes cereum Douglas",
+            "id": "1413473",
+            "score": 0.00128
+        }
+    ]
+}

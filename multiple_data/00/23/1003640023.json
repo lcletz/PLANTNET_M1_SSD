@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Quercus coccifera L.",
+            "id": "1358613",
+            "score": 0.95599
+        },
+        {
+            "name": "Quercus berberidifolia Liebm.",
+            "id": "1437093",
+            "score": 0.00622
+        },
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.00444
+        },
+        {
+            "name": "Quercus faginea Lam.",
+            "id": "1358614",
+            "score": 0.00313
+        },
+        {
+            "name": "Quercus pungens Liebm.",
+            "id": "1437146",
+            "score": 0.00223
+        },
+        {
+            "name": "Quercus vaseyana Buckley",
+            "id": "1437160",
+            "score": 0.00212
+        }
+    ]
+}

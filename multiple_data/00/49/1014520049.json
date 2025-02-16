@@ -1,0 +1,90 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Chamaecyparis lawsoniana (A.Murray bis) Parl.",
+            "id": "1418584",
+            "score": 0.30251
+        },
+        {
+            "name": "Hesperocyparis lusitanica (Mill.) Bartel",
+            "id": "1738619",
+            "score": 0.26978
+        },
+        {
+            "name": "Cupressus sempervirens L.",
+            "id": "1391488",
+            "score": 0.04565
+        },
+        {
+            "name": "Hesperocyparis macrocarpa (Hartw.) Bartel",
+            "id": "1432847",
+            "score": 0.03596
+        },
+        {
+            "name": "Thuja plicata Donn ex D.Don",
+            "id": "1418597",
+            "score": 0.03452
+        },
+        {
+            "name": "Thuja occidentalis L.",
+            "id": "1396760",
+            "score": 0.03008
+        },
+        {
+            "name": "Juniperus virginiana L.",
+            "id": "1393370",
+            "score": 0.02592
+        },
+        {
+            "name": "Juniperus thurifera L.",
+            "id": "1393369",
+            "score": 0.02316
+        },
+        {
+            "name": "Juniperus sabina L.",
+            "id": "1393367",
+            "score": 0.02152
+        },
+        {
+            "name": "Platycladus orientalis (L.) Franco",
+            "id": "1394647",
+            "score": 0.01252
+        },
+        {
+            "name": "Sequoiadendron giganteum (Lindl.) J.Buchholz",
+            "id": "1396214",
+            "score": 0.01095
+        },
+        {
+            "name": "Tamarix canariensis Willd.",
+            "id": "1364089",
+            "score": 0.0029
+        },
+        {
+            "name": "Taxodium distichum (L.) Rich.",
+            "id": "1396709",
+            "score": 0.00209
+        },
+        {
+            "name": "Juniperus phoenicea L.",
+            "id": "1393366",
+            "score": 0.002
+        },
+        {
+            "name": "Ulmus laevis Pall.",
+            "id": "1396951",
+            "score": 0.00156
+        },
+        {
+            "name": "Elaeagnus angustifolia L.",
+            "id": "1358494",
+            "score": 0.00035
+        },
+        {
+            "name": "Schinus molle L.",
+            "id": "1363642",
+            "score": 0.00031
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lilium bulbiferum L.",
+            "id": "1393532",
+            "score": 0.90111
+        },
+        {
+            "name": "Lilium lancifolium Thunb.",
+            "id": "1393528",
+            "score": 0.0259
+        },
+        {
+            "name": "Lilium candidum L.",
+            "id": "1361623",
+            "score": 0.00925
+        },
+        {
+            "name": "Lilium longiflorum Thunb.",
+            "id": "1408290",
+            "score": 0.00582
+        },
+        {
+            "name": "Hemerocallis lilioasphodelus L.",
+            "id": "1392749",
+            "score": 0.00355
+        },
+        {
+            "name": "Hemerocallis minor Mill.",
+            "id": "1420862",
+            "score": 0.00209
+        },
+        {
+            "name": "Tulipa sylvestris L.",
+            "id": "1361626",
+            "score": 0.0019
+        },
+        {
+            "name": "Lilium parryi S.Watson",
+            "id": "1588933",
+            "score": 0.00102
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Gentiana cruciata L.",
+            "id": "1397392",
+            "score": 0.9611
+        },
+        {
+            "name": "Gentiana macrophylla Pall.",
+            "id": "1549119",
+            "score": 0.00198
+        },
+        {
+            "name": "Gentiana dahurica Fisch.",
+            "id": "1419097",
+            "score": 0.00125
+        },
+        {
+            "name": "Gentiana parryi Engelm.",
+            "id": "1443953",
+            "score": 0.00112
+        },
+        {
+            "name": "Gentiana septemfida Pall.",
+            "id": "1419099",
+            "score": 0.00105
+        }
+    ]
+}

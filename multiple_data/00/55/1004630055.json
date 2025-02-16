@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Equisetum sylvaticum L.",
+            "id": "1391994",
+            "score": 0.91447
+        },
+        {
+            "name": "Equisetum telmateia Ehrh.",
+            "id": "1356398",
+            "score": 0.02899
+        },
+        {
+            "name": "Equisetum pratense Ehrh.",
+            "id": "1391990",
+            "score": 0.00767
+        },
+        {
+            "name": "Equisetum arvense L.",
+            "id": "1356394",
+            "score": 0.00586
+        },
+        {
+            "name": "Equisetum palustre L.",
+            "id": "1391989",
+            "score": 0.00419
+        },
+        {
+            "name": "Equisetum fluviatile L.",
+            "id": "1356395",
+            "score": 0.00319
+        },
+        {
+            "name": "Elegia capensis (Burm.f.) Schelpe",
+            "id": "1665058",
+            "score": 0.0022
+        }
+    ]
+}

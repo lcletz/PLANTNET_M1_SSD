@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hydrangea macrophylla (Thunb.) Ser.",
+            "id": "1361819",
+            "score": 0.77549
+        },
+        {
+            "name": "Hydrangea arborescens L.",
+            "id": "1393222",
+            "score": 0.034
+        },
+        {
+            "name": "Hydrangea paniculata Siebold",
+            "id": "1393223",
+            "score": 0.00587
+        },
+        {
+            "name": "Viburnum macrocephalum Fortune",
+            "id": "1398542",
+            "score": 0.00165
+        },
+        {
+            "name": "Viburnum plicatum Thunb.",
+            "id": "1397609",
+            "score": 0.00131
+        }
+    ]
+}

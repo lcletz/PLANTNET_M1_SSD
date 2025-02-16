@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Berberis aquifolium Pursh",
+            "id": "1400122",
+            "score": 0.60019
+        },
+        {
+            "name": "Berberis repens Lindl.",
+            "id": "1398614",
+            "score": 0.01319
+        },
+        {
+            "name": "Berberis japonica (Thunb.) Spreng.",
+            "id": "1721496",
+            "score": 0.01196
+        },
+        {
+            "name": "Berberis darwinii Hook.",
+            "id": "1400115",
+            "score": 0.00798
+        },
+        {
+            "name": "Ilex opaca Aiton",
+            "id": "1420705",
+            "score": 0.00407
+        },
+        {
+            "name": "Berberis bealei Fortune",
+            "id": "1721495",
+            "score": 0.00142
+        },
+        {
+            "name": "Berberis pinnata Lag.",
+            "id": "1398613",
+            "score": 0.00141
+        }
+    ]
+}

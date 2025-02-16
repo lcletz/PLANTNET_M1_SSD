@@ -1,0 +1,35 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Rosa gallica L.",
+            "id": "1360338",
+            "score": 0.14549
+        },
+        {
+            "name": "Rosa abietina Gren. ex Christ",
+            "id": "1741909",
+            "score": 0.01815
+        },
+        {
+            "name": "Rosa pendulina L.",
+            "id": "1395329",
+            "score": 0.00259
+        },
+        {
+            "name": "Rosa glauca Pourr.",
+            "id": "1668240",
+            "score": 0.00208
+        },
+        {
+            "name": "Rosa sempervirens L.",
+            "id": "1360348",
+            "score": 0.00128
+        },
+        {
+            "name": "Rosa moschata Herrm.",
+            "id": "1360344",
+            "score": 0.00105
+        }
+    ]
+}

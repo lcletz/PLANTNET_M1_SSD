@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Centaurea cyanus L.",
+            "id": "1411387",
+            "score": 0.4939
+        },
+        {
+            "name": "Centaurea sulphurea Willd.",
+            "id": "1357457",
+            "score": 0.00754
+        },
+        {
+            "name": "Gilia capitata Sims",
+            "id": "1394722",
+            "score": 0.00291
+        },
+        {
+            "name": "Nigella damascena L.",
+            "id": "1360185",
+            "score": 0.00152
+        },
+        {
+            "name": "Catananche caerulea L.",
+            "id": "1357392",
+            "score": 0.00111
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salix eleagnos Scop.",
+            "id": "1395785",
+            "score": 0.70408
+        },
+        {
+            "name": "Salix rosmarinifolia L.",
+            "id": "1397871",
+            "score": 0.25421
+        },
+        {
+            "name": "Salix viminalis L.",
+            "id": "1395903",
+            "score": 0.01306
+        },
+        {
+            "name": "Hippophae rhamnoides L.",
+            "id": "1392777",
+            "score": 0.00299
+        },
+        {
+            "name": "Salix exigua Nutt.",
+            "id": "1413598",
+            "score": 0.00109
+        }
+    ]
+}

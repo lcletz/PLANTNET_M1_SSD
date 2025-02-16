@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Laurus nobilis L.",
+            "id": "1363362",
+            "score": 0.85411
+        },
+        {
+            "name": "Laurus azorica (Seub.) Franco",
+            "id": "1359057",
+            "score": 0.09609
+        },
+        {
+            "name": "Pittosporum undulatum Vent.",
+            "id": "1356064",
+            "score": 0.00503
+        },
+        {
+            "name": "Euclea divinorum Hiern",
+            "id": "1372008",
+            "score": 0.00121
+        },
+        {
+            "name": "Prunus lusitanica L.",
+            "id": "1360322",
+            "score": 0.00113
+        }
+    ]
+}

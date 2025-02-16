@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Nicotiana sylvestris Speg.",
+            "id": "1398133",
+            "score": 0.80084
+        },
+        {
+            "name": "Nicotiana tabacum L.",
+            "id": "1356159",
+            "score": 0.10761
+        },
+        {
+            "name": "Nicotiana alata Link & Otto",
+            "id": "1361885",
+            "score": 0.0052
+        },
+        {
+            "name": "Nicotiana rustica L.",
+            "id": "1356160",
+            "score": 0.0024
+        },
+        {
+            "name": "Nicotiana paniculata L.",
+            "id": "1361886",
+            "score": 0.00229
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus serotina Ehrh.",
+            "id": "1370859",
+            "score": 0.8734
+        },
+        {
+            "name": "Prunus lusitanica L.",
+            "id": "1360322",
+            "score": 0.00799
+        },
+        {
+            "name": "Cinnamomum camphora (L.) J.Presl",
+            "id": "1389656",
+            "score": 0.00362
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.00307
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.00262
+        },
+        {
+            "name": "Diospyros virginiana L.",
+            "id": "1389362",
+            "score": 0.00223
+        },
+        {
+            "name": "Alnus japonica (Thunb.) Steud.",
+            "id": "1398105",
+            "score": 0.00161
+        },
+        {
+            "name": "Alnus cordata (Loisel.) Duby",
+            "id": "1397307",
+            "score": 0.00146
+        },
+        {
+            "name": "Salix pentandra L.",
+            "id": "1395852",
+            "score": 0.00143
+        }
+    ]
+}

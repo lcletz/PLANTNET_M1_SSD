@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus × fruticans Weihe",
+            "id": "1667948",
+            "score": 0.41236
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.23933
+        },
+        {
+            "name": "Vaccinium uliginosum L.",
+            "id": "1396970",
+            "score": 0.08651
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.00557
+        },
+        {
+            "name": "Berberis aquifolium Pursh",
+            "id": "1400122",
+            "score": 0.00343
+        },
+        {
+            "name": "Rhamnus cathartica L.",
+            "id": "1360262",
+            "score": 0.0022
+        },
+        {
+            "name": "Juniperus communis L.",
+            "id": "1393364",
+            "score": 0.00213
+        },
+        {
+            "name": "Cornus amomum Mill.",
+            "id": "1418488",
+            "score": 0.00211
+        },
+        {
+            "name": "Lonicera caerulea L.",
+            "id": "1393631",
+            "score": 0.00176
+        },
+        {
+            "name": "Vaccinium corymbosum L.",
+            "id": "1396966",
+            "score": 0.00159
+        },
+        {
+            "name": "Viburnum rufidulum Raf.",
+            "id": "1417599",
+            "score": 0.00124
+        },
+        {
+            "name": "Cornus sericea L.",
+            "id": "1397902",
+            "score": 0.00118
+        }
+    ]
+}

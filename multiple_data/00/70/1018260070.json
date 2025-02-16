@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.57151
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.34959
+        },
+        {
+            "name": "Prunus × yedoensis Matsum.",
+            "id": "1668075",
+            "score": 0.0036
+        },
+        {
+            "name": "Prunus pensylvanica L.f.",
+            "id": "1420421",
+            "score": 0.00316
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.00301
+        },
+        {
+            "name": "Frangula alnus Mill.",
+            "id": "1360257",
+            "score": 0.00274
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.0021
+        },
+        {
+            "name": "Rhamnus alpina L.",
+            "id": "1360261",
+            "score": 0.00175
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.00135
+        },
+        {
+            "name": "Prunus fruticosa Pall.",
+            "id": "1394939",
+            "score": 0.0013
+        }
+    ]
+}

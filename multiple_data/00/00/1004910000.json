@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.5783
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.10112
+        },
+        {
+            "name": "Prunus × fruticans Weihe",
+            "id": "1667948",
+            "score": 0.09372
+        },
+        {
+            "name": "Vaccinium uliginosum L.",
+            "id": "1396970",
+            "score": 0.01898
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.01493
+        },
+        {
+            "name": "Prunus insititia L.",
+            "id": "1360321",
+            "score": 0.0124
+        },
+        {
+            "name": "Rhamnus saxatilis Jacq.",
+            "id": "1395158",
+            "score": 0.00516
+        },
+        {
+            "name": "Aronia melanocarpa (Michx.) Elliott",
+            "id": "1398450",
+            "score": 0.00245
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00201
+        },
+        {
+            "name": "Prunus salicina Lindl.",
+            "id": "1420425",
+            "score": 0.0014
+        },
+        {
+            "name": "Rhamnus cathartica L.",
+            "id": "1360262",
+            "score": 0.00138
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.00133
+        }
+    ]
+}

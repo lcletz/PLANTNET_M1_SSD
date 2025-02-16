@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salix caprea L.",
+            "id": "1395765",
+            "score": 0.62922
+        },
+        {
+            "name": "Salix hastata L.",
+            "id": "1397478",
+            "score": 0.31587
+        },
+        {
+            "name": "Salix cinerea L.",
+            "id": "1362486",
+            "score": 0.01743
+        },
+        {
+            "name": "Salix appendiculata Vill.",
+            "id": "1395742",
+            "score": 0.01165
+        },
+        {
+            "name": "Salix atrocinerea Brot.",
+            "id": "1360451",
+            "score": 0.00648
+        },
+        {
+            "name": "Salix aurita L.",
+            "id": "1395745",
+            "score": 0.0059
+        },
+        {
+            "name": "Salix myrsinifolia Salisb.",
+            "id": "1395843",
+            "score": 0.00202
+        },
+        {
+            "name": "Salix pentandra L.",
+            "id": "1395852",
+            "score": 0.00132
+        }
+    ]
+}

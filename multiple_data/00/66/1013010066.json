@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.9372
+        },
+        {
+            "name": "Aesculus turbinata Blume",
+            "id": "1420609",
+            "score": 0.00345
+        },
+        {
+            "name": "Aesculus × carnea Zeyh.",
+            "id": "1420608",
+            "score": 0.00326
+        },
+        {
+            "name": "Aesculus indica (Wall. ex Cambess.) Hook.",
+            "id": "1685363",
+            "score": 0.00208
+        },
+        {
+            "name": "Aesculus parviflora Walter",
+            "id": "1398239",
+            "score": 0.00194
+        },
+        {
+            "name": "Aesculus chinensis Bunge",
+            "id": "1685360",
+            "score": 0.00136
+        },
+        {
+            "name": "Aesculus glabra Willd.",
+            "id": "1390602",
+            "score": 0.00116
+        }
+    ]
+}

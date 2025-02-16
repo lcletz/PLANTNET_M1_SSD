@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Juglans nigra L.",
+            "id": "1393337",
+            "score": 0.85399
+        },
+        {
+            "name": "Juglans cinerea L.",
+            "id": "1412349",
+            "score": 0.03366
+        },
+        {
+            "name": "Fraxinus americana L.",
+            "id": "1397619",
+            "score": 0.01619
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.01154
+        },
+        {
+            "name": "Juglans mandshurica Maxim.",
+            "id": "1419240",
+            "score": 0.01102
+        },
+        {
+            "name": "Fraxinus pennsylvanica Marshall",
+            "id": "1392363",
+            "score": 0.00773
+        },
+        {
+            "name": "Pterocarya fraxinifolia (Poir.) Spach",
+            "id": "1394969",
+            "score": 0.00416
+        },
+        {
+            "name": "Styphnolobium japonicum (L.) Schott",
+            "id": "1369068",
+            "score": 0.00392
+        },
+        {
+            "name": "Juglans regia L.",
+            "id": "1358713",
+            "score": 0.00328
+        },
+        {
+            "name": "Juglans microcarpa Berland.",
+            "id": "1419241",
+            "score": 0.00319
+        },
+        {
+            "name": "Juglans major (Torr.) A.Heller",
+            "id": "1766303",
+            "score": 0.00273
+        },
+        {
+            "name": "Pterocarya stenoptera C.DC.",
+            "id": "1390588",
+            "score": 0.00244
+        },
+        {
+            "name": "Juglans californica S.Watson",
+            "id": "1765805",
+            "score": 0.00228
+        },
+        {
+            "name": "Fraxinus angustifolia Vahl",
+            "id": "1362009",
+            "score": 0.00146
+        },
+        {
+            "name": "Ulmus americana L.",
+            "id": "1390323",
+            "score": 0.00117
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salvia uliginosa Benth.",
+            "id": "1388783",
+            "score": 0.89346
+        },
+        {
+            "name": "Salvia azurea Michx. ex Vahl",
+            "id": "1562399",
+            "score": 0.00266
+        },
+        {
+            "name": "Salvia nemorosa L.",
+            "id": "1397479",
+            "score": 0.00182
+        },
+        {
+            "name": "Penstemon humilis Nutt. ex A.Gray",
+            "id": "1816119",
+            "score": 0.00176
+        },
+        {
+            "name": "Penstemon pruinosus Douglas",
+            "id": "1815591",
+            "score": 0.00143
+        },
+        {
+            "name": "Salvia × sylvestris L.",
+            "id": "1563105",
+            "score": 0.00108
+        }
+    ]
+}

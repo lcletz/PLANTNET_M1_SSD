@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Taxodium distichum (L.) Rich.",
+            "id": "1396709",
+            "score": 0.82389
+        },
+        {
+            "name": "Vachellia farnesiana (L.) Wight & Arn.",
+            "id": "1409148",
+            "score": 0.01781
+        },
+        {
+            "name": "Leucaena leucocephala (Lam.) de Wit",
+            "id": "1363651",
+            "score": 0.00389
+        },
+        {
+            "name": "Vachellia caven (Molina) Seigler & Ebinger",
+            "id": "1422693",
+            "score": 0.00274
+        },
+        {
+            "name": "Larix decidua Mill.",
+            "id": "1397422",
+            "score": 0.00139
+        },
+        {
+            "name": "Jacaranda mimosifolia D.Don",
+            "id": "1400148",
+            "score": 0.00105
+        }
+    ]
+}

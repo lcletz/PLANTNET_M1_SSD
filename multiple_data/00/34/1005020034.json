@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lantana camara L.",
+            "id": "1360857",
+            "score": 0.92248
+        },
+        {
+            "name": "Lantana montevidensis (Spreng.) Briq.",
+            "id": "1408866",
+            "score": 0.01508
+        },
+        {
+            "name": "Lantana trifolia L.",
+            "id": "1406412",
+            "score": 0.00613
+        },
+        {
+            "name": "Lantana × strigocamara R.W.Sanders",
+            "id": "1696454",
+            "score": 0.00475
+        },
+        {
+            "name": "Lantana canescens Kunth",
+            "id": "1406410",
+            "score": 0.003
+        },
+        {
+            "name": "Lantana horrida Kunth",
+            "id": "1696398",
+            "score": 0.00263
+        },
+        {
+            "name": "Lantana megapotamica (Spreng.) Tronc.",
+            "id": "1696415",
+            "score": 0.00135
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vicia bithynica (L.) L.",
+            "id": "1359551",
+            "score": 0.96975
+        },
+        {
+            "name": "Lathyrus hirsutus L.",
+            "id": "1363800",
+            "score": 0.00239
+        },
+        {
+            "name": "Vicia sativa L.",
+            "id": "1359575",
+            "score": 0.00162
+        },
+        {
+            "name": "Vicia lathyroides L.",
+            "id": "1363677",
+            "score": 0.00116
+        },
+        {
+            "name": "Vicia lutea L.",
+            "id": "1359565",
+            "score": 0.00069
+        },
+        {
+            "name": "Lathyrus clymenum L.",
+            "id": "1363799",
+            "score": 0.00045
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Papaver somniferum L.",
+            "id": "1363130",
+            "score": 0.95774
+        },
+        {
+            "name": "Papaver orientale L.",
+            "id": "1394404",
+            "score": 0.0015
+        },
+        {
+            "name": "Papaver dubium L.",
+            "id": "1363129",
+            "score": 0.00135
+        }
+    ]
+}

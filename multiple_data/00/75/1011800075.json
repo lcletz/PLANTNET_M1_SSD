@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rosa rugosa Thunb.",
+            "id": "1395343",
+            "score": 0.9049
+        },
+        {
+            "name": "Rosa villosa L.",
+            "id": "1395371",
+            "score": 0.00876
+        },
+        {
+            "name": "Rosa rubiginosa L.",
+            "id": "1363996",
+            "score": 0.00597
+        },
+        {
+            "name": "Rosa pendulina L.",
+            "id": "1395329",
+            "score": 0.00379
+        },
+        {
+            "name": "Rosa gallica L.",
+            "id": "1360338",
+            "score": 0.00351
+        },
+        {
+            "name": "Rosa canina L.",
+            "id": "1360334",
+            "score": 0.00252
+        },
+        {
+            "name": "Rosa glauca Pourr.",
+            "id": "1668240",
+            "score": 0.00055
+        },
+        {
+            "name": "Rosa chinensis Jacq.",
+            "id": "1395231",
+            "score": 0.00048
+        }
+    ]
+}

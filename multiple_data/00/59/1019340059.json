@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Echinophora spinosa L.",
+            "id": "1360701",
+            "score": 0.9653
+        },
+        {
+            "name": "Visnaga daucoides Gaertn.",
+            "id": "1362719",
+            "score": 0.00672
+        },
+        {
+            "name": "Seseli tortuosum L.",
+            "id": "1360798",
+            "score": 0.00517
+        },
+        {
+            "name": "Cachrys libanotis L.",
+            "id": "1360660",
+            "score": 0.00215
+        },
+        {
+            "name": "Laserpitium gallicum L.",
+            "id": "1393441",
+            "score": 0.00166
+        },
+        {
+            "name": "Anthemis maritima L.",
+            "id": "1357227",
+            "score": 0.00043
+        },
+        {
+            "name": "Falcaria vulgaris Bernh.",
+            "id": "1361891",
+            "score": 0.00039
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagus orientalis Lipsky",
+            "id": "1547791",
+            "score": 0.67777
+        },
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.28624
+        },
+        {
+            "name": "Carpinus orientalis Mill.",
+            "id": "1398832",
+            "score": 0.01691
+        },
+        {
+            "name": "Fagus grandifolia Ehrh.",
+            "id": "1412056",
+            "score": 0.00432
+        },
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.00115
+        }
+    ]
+}

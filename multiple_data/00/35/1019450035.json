@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Dimorphotheca pluvialis (L.) Moench",
+            "id": "1391733",
+            "score": 0.68655
+        },
+        {
+            "name": "Dimorphotheca fruticosa (L.) DC.",
+            "id": "1744843",
+            "score": 0.22284
+        },
+        {
+            "name": "Dimorphotheca sinuata DC.",
+            "id": "1374876",
+            "score": 0.0291
+        },
+        {
+            "name": "Anemone hortensis L.",
+            "id": "1363110",
+            "score": 0.00278
+        }
+    ]
+}

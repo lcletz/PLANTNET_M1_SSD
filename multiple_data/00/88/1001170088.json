@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dimorphotheca ecklonis DC.",
+            "id": "1748142",
+            "score": 0.42361
+        },
+        {
+            "name": "Dimorphotheca pluvialis (L.) Moench",
+            "id": "1391733",
+            "score": 0.06298
+        },
+        {
+            "name": "Dimorphotheca fruticosa (L.) DC.",
+            "id": "1744843",
+            "score": 0.05432
+        },
+        {
+            "name": "Anemone hortensis L.",
+            "id": "1363110",
+            "score": 0.00354
+        },
+        {
+            "name": "Dimorphotheca sinuata DC.",
+            "id": "1374876",
+            "score": 0.0033
+        }
+    ]
+}

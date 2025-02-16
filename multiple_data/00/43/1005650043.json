@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Microthlaspi perfoliatum (L.) F.K.Mey.",
+            "id": "1393827",
+            "score": 0.34864
+        },
+        {
+            "name": "Lepidium campestre (L.) R.Br.",
+            "id": "1393487",
+            "score": 0.09369
+        },
+        {
+            "name": "Capsella bursa-pastoris (L.) Medik.",
+            "id": "1363910",
+            "score": 0.08546
+        },
+        {
+            "name": "Lepidium hirtum (L.) Sm.",
+            "id": "1358351",
+            "score": 0.03391
+        },
+        {
+            "name": "Arabidopsis thaliana (L.) Heynh.",
+            "id": "1363915",
+            "score": 0.00262
+        },
+        {
+            "name": "Draba muralis L.",
+            "id": "1358264",
+            "score": 0.00188
+        },
+        {
+            "name": "Draba verna L.",
+            "id": "1391786",
+            "score": 0.00148
+        }
+    ]
+}

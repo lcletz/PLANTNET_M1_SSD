@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.95356
+        },
+        {
+            "name": "Sorbus aucuparia L.",
+            "id": "1362987",
+            "score": 0.00556
+        },
+        {
+            "name": "Sorbus americana Marshall",
+            "id": "1413868",
+            "score": 0.00314
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.00211
+        }
+    ]
+}

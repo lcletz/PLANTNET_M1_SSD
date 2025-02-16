@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Heracleum sphondylium L.",
+            "id": "1360744",
+            "score": 0.57205
+        },
+        {
+            "name": "Heracleum sibiricum L.",
+            "id": "1392757",
+            "score": 0.31254
+        },
+        {
+            "name": "Heracleum mantegazzianum Sommier & Levier",
+            "id": "1392753",
+            "score": 0.02848
+        },
+        {
+            "name": "Heracleum maximum W.Bartram",
+            "id": "1389108",
+            "score": 0.01415
+        },
+        {
+            "name": "Angelica sylvestris L.",
+            "id": "1394591",
+            "score": 0.00326
+        },
+        {
+            "name": "Conium maculatum L.",
+            "id": "1363216",
+            "score": 0.00128
+        },
+        {
+            "name": "Siler montanum Crantz",
+            "id": "1741693",
+            "score": 0.00114
+        }
+    ]
+}

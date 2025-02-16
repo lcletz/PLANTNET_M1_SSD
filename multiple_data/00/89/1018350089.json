@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Rhamnus saxatilis Jacq.",
+            "id": "1395158",
+            "score": 0.94433
+        },
+        {
+            "name": "Rhamnus lycioides L.",
+            "id": "1360267",
+            "score": 0.00435
+        },
+        {
+            "name": "Prunus × fruticans Weihe",
+            "id": "1667948",
+            "score": 0.0026
+        },
+        {
+            "name": "Prunus prostrata Labill.",
+            "id": "1360325",
+            "score": 0.00233
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.00232
+        },
+        {
+            "name": "Rhamnus cathartica L.",
+            "id": "1360262",
+            "score": 0.00145
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00109
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.00072
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Origanum vulgare L.",
+            "id": "1358846",
+            "score": 0.48767
+        },
+        {
+            "name": "Origanum majorana L.",
+            "id": "1356133",
+            "score": 0.39882
+        },
+        {
+            "name": "Origanum onites L.",
+            "id": "1358844",
+            "score": 0.02226
+        },
+        {
+            "name": "Thymus serpyllum L.",
+            "id": "1362246",
+            "score": 0.02124
+        },
+        {
+            "name": "Thymus pulegioides L.",
+            "id": "1396792",
+            "score": 0.00712
+        },
+        {
+            "name": "Thymus vulgaris L.",
+            "id": "1356108",
+            "score": 0.00544
+        },
+        {
+            "name": "Origanum laevigatum Boiss.",
+            "id": "1561174",
+            "score": 0.00117
+        }
+    ]
+}

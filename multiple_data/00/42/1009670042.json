@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pinus halepensis Mill.",
+            "id": "1397460",
+            "score": 0.87233
+        },
+        {
+            "name": "Pinus pinea L.",
+            "id": "1394612",
+            "score": 0.03921
+        },
+        {
+            "name": "Pinus pinaster Aiton",
+            "id": "1394611",
+            "score": 0.02561
+        },
+        {
+            "name": "Pinus sylvestris L.",
+            "id": "1394617",
+            "score": 0.01303
+        },
+        {
+            "name": "Pinus strobus L.",
+            "id": "1394616",
+            "score": 0.00678
+        },
+        {
+            "name": "Pinus brutia Ten.",
+            "id": "1398092",
+            "score": 0.00665
+        },
+        {
+            "name": "Pinus resinosa Aiton",
+            "id": "1390041",
+            "score": 0.0028
+        },
+        {
+            "name": "Pinus nigra J.F.Arnold",
+            "id": "1419915",
+            "score": 0.00233
+        },
+        {
+            "name": "Pinus bungeana Zucc. ex Endl.",
+            "id": "1390017",
+            "score": 0.00108
+        }
+    ]
+}

@@ -1,0 +1,385 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.45109
+        },
+        {
+            "name": "Prunus japonica Thunb.",
+            "id": "1394940",
+            "score": 0.30484
+        },
+        {
+            "name": "Prunus brigantina Vill.",
+            "id": "1394945",
+            "score": 0.06942
+        },
+        {
+            "name": "Celastrus orbiculatus Thunb.",
+            "id": "1390975",
+            "score": 0.06796
+        },
+        {
+            "name": "Lippia alba (Mill.) N.E.Br. ex Britton & P.Wilson",
+            "id": "1420825",
+            "score": 0.05385
+        },
+        {
+            "name": "Spiraea douglasii Hook.",
+            "id": "1396399",
+            "score": 0.0336
+        },
+        {
+            "name": "Lonicera caerulea L.",
+            "id": "1393631",
+            "score": 0.01445
+        },
+        {
+            "name": "Prunus × fruticans Weihe",
+            "id": "1667948",
+            "score": 0.01413
+        },
+        {
+            "name": "Celastrus scandens L.",
+            "id": "1390974",
+            "score": 0.01042
+        },
+        {
+            "name": "Spiraea alba Du Roi",
+            "id": "1396390",
+            "score": 0.01037
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00922
+        },
+        {
+            "name": "Deutzia scabra Thunb.",
+            "id": "1391675",
+            "score": 0.00882
+        },
+        {
+            "name": "Vaccinium corymbosum L.",
+            "id": "1396966",
+            "score": 0.00591
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.00585
+        },
+        {
+            "name": "Euonymus alatus (Thunb.) Siebold",
+            "id": "1412016",
+            "score": 0.00584
+        },
+        {
+            "name": "Salix aurita L.",
+            "id": "1395745",
+            "score": 0.0053
+        },
+        {
+            "name": "Prunus triloba Lindl.",
+            "id": "1398678",
+            "score": 0.00439
+        },
+        {
+            "name": "Prunus insititia L.",
+            "id": "1360321",
+            "score": 0.00371
+        },
+        {
+            "name": "Euonymus latifolius (L.) Mill.",
+            "id": "1392238",
+            "score": 0.0037
+        },
+        {
+            "name": "Spiraea cantoniensis Lour.",
+            "id": "1396397",
+            "score": 0.00312
+        },
+        {
+            "name": "Deutzia gracilis Siebold & Zucc.",
+            "id": "1391671",
+            "score": 0.00309
+        },
+        {
+            "name": "Berberis vulgaris L.",
+            "id": "1356603",
+            "score": 0.00301
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.00292
+        },
+        {
+            "name": "Lonicera fragrantissima Lindl. & Paxton",
+            "id": "1389306",
+            "score": 0.00227
+        },
+        {
+            "name": "Lycium barbarum L.",
+            "id": "1360557",
+            "score": 0.00223
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.0019
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.00176
+        },
+        {
+            "name": "Spiraea salicifolia L.",
+            "id": "1396405",
+            "score": 0.00168
+        },
+        {
+            "name": "Spiraea chamaedryfolia L.",
+            "id": "1396398",
+            "score": 0.00163
+        },
+        {
+            "name": "Philadelphus coronarius L.",
+            "id": "1394509",
+            "score": 0.00154
+        },
+        {
+            "name": "Chaenomeles speciosa (Sweet) Nakai",
+            "id": "1391104",
+            "score": 0.00134
+        },
+        {
+            "name": "Spiraea tomentosa L.",
+            "id": "1396389",
+            "score": 0.0013
+        },
+        {
+            "name": "Spiraea japonica L.f.",
+            "id": "1396400",
+            "score": 0.00129
+        },
+        {
+            "name": "Prunus glandulosa Thunb.",
+            "id": "1413348",
+            "score": 0.00126
+        },
+        {
+            "name": "Buddleja japonica Hemsl.",
+            "id": "1389573",
+            "score": 0.00123
+        },
+        {
+            "name": "Prunus mume (Siebold) Siebold & Zucc.",
+            "id": "1420419",
+            "score": 0.00121
+        },
+        {
+            "name": "Forsythia viridissima Lindl.",
+            "id": "1398098",
+            "score": 0.0012
+        },
+        {
+            "name": "Prunus salicina Lindl.",
+            "id": "1420425",
+            "score": 0.00111
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.00107
+        },
+        {
+            "name": "Philadelphus pubescens Loisel.",
+            "id": "1398588",
+            "score": 0.00106
+        },
+        {
+            "name": "Berberis koreana Palib.",
+            "id": "1417949",
+            "score": 0.00098
+        },
+        {
+            "name": "Salix caprea L.",
+            "id": "1395765",
+            "score": 0.00093
+        },
+        {
+            "name": "Lonicera caprifolium L.",
+            "id": "1393632",
+            "score": 0.00091
+        },
+        {
+            "name": "Spiraea × billardii Hérincq",
+            "id": "1844858",
+            "score": 0.00084
+        },
+        {
+            "name": "Calycanthus floridus L.",
+            "id": "1398326",
+            "score": 0.00069
+        },
+        {
+            "name": "Forsythia suspensa (Thunb.) Vahl",
+            "id": "1392356",
+            "score": 0.00068
+        },
+        {
+            "name": "Clethra alnifolia L.",
+            "id": "1398480",
+            "score": 0.00067
+        },
+        {
+            "name": "Sida rhombifolia L.",
+            "id": "1359645",
+            "score": 0.00059
+        },
+        {
+            "name": "Philadelphus lewisii Pursh",
+            "id": "1413040",
+            "score": 0.00057
+        },
+        {
+            "name": "Callicarpa bodinieri H.Lév.",
+            "id": "1419250",
+            "score": 0.00055
+        },
+        {
+            "name": "Philadelphus × virginalis Rehder",
+            "id": "1844555",
+            "score": 0.00052
+        },
+        {
+            "name": "Lonicera xylosteum L.",
+            "id": "1393639",
+            "score": 0.00051
+        },
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.00047
+        },
+        {
+            "name": "Lonicera japonica Thunb.",
+            "id": "1356786",
+            "score": 0.00046
+        },
+        {
+            "name": "Salix cinerea L.",
+            "id": "1362486",
+            "score": 0.00045
+        },
+        {
+            "name": "Salix hastata L.",
+            "id": "1397478",
+            "score": 0.0004
+        },
+        {
+            "name": "Lippia origanoides Kunth",
+            "id": "1406414",
+            "score": 0.00038
+        },
+        {
+            "name": "Symphoricarpos albus (L.) S.F.Blake",
+            "id": "1397506",
+            "score": 0.00035
+        },
+        {
+            "name": "Solanum laciniatum Aiton",
+            "id": "1360570",
+            "score": 0.00034
+        },
+        {
+            "name": "Lonicera tatarica L.",
+            "id": "1393638",
+            "score": 0.00034
+        },
+        {
+            "name": "Euonymus occidentalis Nutt. ex Torr.",
+            "id": "1412021",
+            "score": 0.00034
+        },
+        {
+            "name": "Lycium chinense Mill.",
+            "id": "1393699",
+            "score": 0.00034
+        },
+        {
+            "name": "Hydrangea paniculata Siebold",
+            "id": "1393223",
+            "score": 0.00033
+        },
+        {
+            "name": "Symphyotrichum cordifolium (L.) G.L.Nesom",
+            "id": "1389527",
+            "score": 0.00032
+        },
+        {
+            "name": "Styrax officinalis L.",
+            "id": "1396476",
+            "score": 0.00032
+        },
+        {
+            "name": "Berberis amurensis Rupr.",
+            "id": "1475451",
+            "score": 0.00032
+        },
+        {
+            "name": "Salix triandra L.",
+            "id": "1360459",
+            "score": 0.00032
+        },
+        {
+            "name": "Berberis thunbergii DC.",
+            "id": "1400119",
+            "score": 0.00031
+        },
+        {
+            "name": "Deutzia staminea R.Br. ex Wall.",
+            "id": "1554916",
+            "score": 0.00031
+        },
+        {
+            "name": "Buddleja davidii Franch.",
+            "id": "1365253",
+            "score": 0.0003
+        },
+        {
+            "name": "Passiflora edulis Sims",
+            "id": "1356048",
+            "score": 0.0003
+        },
+        {
+            "name": "Spiraea nipponica Maxim.",
+            "id": "1398563",
+            "score": 0.00029
+        },
+        {
+            "name": "Symphoricarpos orbiculatus Moench",
+            "id": "1398555",
+            "score": 0.00029
+        },
+        {
+            "name": "Philadelphus henryi Koehne",
+            "id": "1555011",
+            "score": 0.00029
+        },
+        {
+            "name": "Staphylea pinnata L.",
+            "id": "1396437",
+            "score": 0.00028
+        },
+        {
+            "name": "Phyllanthus tenellus Roxb.",
+            "id": "1356003",
+            "score": 0.00028
+        }
+    ]
+}

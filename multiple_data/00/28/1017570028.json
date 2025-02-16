@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.40304
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.34902
+        },
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.10753
+        },
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.07473
+        },
+        {
+            "name": "Morus macroura Miq.",
+            "id": "1429529",
+            "score": 0.00297
+        },
+        {
+            "name": "Dombeya acutangula Cav.",
+            "id": "1377992",
+            "score": 0.0019
+        },
+        {
+            "name": "Tilia americana L.",
+            "id": "1397800",
+            "score": 0.00176
+        },
+        {
+            "name": "Tilia platyphyllos Scop.",
+            "id": "1396802",
+            "score": 0.0013
+        }
+    ]
+}

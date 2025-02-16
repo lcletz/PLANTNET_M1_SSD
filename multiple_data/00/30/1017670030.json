@@ -1,0 +1,390 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sinapis alba L.",
+            "id": "1363889",
+            "score": 0.47479
+        },
+        {
+            "name": "Rapistrum rugosum (L.) All.",
+            "id": "1363879",
+            "score": 0.16811
+        },
+        {
+            "name": "Erucastrum nasturtiifolium (Poir.) O.E.Schulz",
+            "id": "1392096",
+            "score": 0.15065
+        },
+        {
+            "name": "Hirschfeldia incana (L.) Lagr.-Foss.",
+            "id": "1363911",
+            "score": 0.0788
+        },
+        {
+            "name": "Rhamphospermum arvense (L.) Andrz. ex Besser",
+            "id": "1737463",
+            "score": 0.0432
+        },
+        {
+            "name": "Sisymbrium loeselii L.",
+            "id": "1396308",
+            "score": 0.03629
+        },
+        {
+            "name": "Jacobaea erratica (Bertol.) Fourr.",
+            "id": "1362687",
+            "score": 0.03308
+        },
+        {
+            "name": "Eruca vesicaria (L.) Cav.",
+            "id": "1356328",
+            "score": 0.02984
+        },
+        {
+            "name": "Coincya monensis (L.) Greuter & Burdet",
+            "id": "1358222",
+            "score": 0.02809
+        },
+        {
+            "name": "Raphanus raphanistrum L.",
+            "id": "1363901",
+            "score": 0.02364
+        },
+        {
+            "name": "Rhamphospermum nigrum (L.) Al-Shehbaz",
+            "id": "1737676",
+            "score": 0.01587
+        },
+        {
+            "name": "Sisymbrium orientale L.",
+            "id": "1363898",
+            "score": 0.01197
+        },
+        {
+            "name": "Rhamphospermum pubescens (L.) Al-Shehbaz",
+            "id": "1743907",
+            "score": 0.01173
+        },
+        {
+            "name": "Loasa tricolor Ker Gawl.",
+            "id": "1589487",
+            "score": 0.01109
+        },
+        {
+            "name": "Alyssum montanum L.",
+            "id": "1362251",
+            "score": 0.01081
+        },
+        {
+            "name": "Cucumis ficifolius A.Rich.",
+            "id": "1418560",
+            "score": 0.00959
+        },
+        {
+            "name": "Convolvulus althaeoides L.",
+            "id": "1364016",
+            "score": 0.00871
+        },
+        {
+            "name": "Erodium laciniatum (Cav.) Willd.",
+            "id": "1355998",
+            "score": 0.00572
+        },
+        {
+            "name": "Diplotaxis virgata (Cav.) DC.",
+            "id": "1358260",
+            "score": 0.00522
+        },
+        {
+            "name": "Distimake dissectus (Jacq.) A.R.Simões & Staples",
+            "id": "1718847",
+            "score": 0.00474
+        },
+        {
+            "name": "Sisymbrium officinale (L.) Scop.",
+            "id": "1363897",
+            "score": 0.00442
+        },
+        {
+            "name": "Diplotaxis erucoides (L.) DC.",
+            "id": "1363878",
+            "score": 0.00408
+        },
+        {
+            "name": "Brassica juncea (L.) Czern.",
+            "id": "1363904",
+            "score": 0.00403
+        },
+        {
+            "name": "Solanum triflorum Nutt.",
+            "id": "1396330",
+            "score": 0.00382
+        },
+        {
+            "name": "Ambrosia maritima L.",
+            "id": "1355903",
+            "score": 0.0038
+        },
+        {
+            "name": "Erodium botrys (Cav.) Bertol.",
+            "id": "1355991",
+            "score": 0.00376
+        },
+        {
+            "name": "Prunella × intermedia Link",
+            "id": "1562253",
+            "score": 0.00357
+        },
+        {
+            "name": "Diplotaxis tenuifolia (L.) DC.",
+            "id": "1358257",
+            "score": 0.00353
+        },
+        {
+            "name": "Sisymbrium irio L.",
+            "id": "1363896",
+            "score": 0.00339
+        },
+        {
+            "name": "Bunias erucago L.",
+            "id": "1363920",
+            "score": 0.00332
+        },
+        {
+            "name": "Brassica barrelieri (L.) Janka",
+            "id": "1358194",
+            "score": 0.00311
+        },
+        {
+            "name": "Solanum lycopersicum L.",
+            "id": "1396325",
+            "score": 0.00291
+        },
+        {
+            "name": "Erucastrum gallicum (Willd.) O.E.Schulz",
+            "id": "1392093",
+            "score": 0.0028
+        },
+        {
+            "name": "Urospermum picroides (L.) Scop. ex F.W.Schmidt",
+            "id": "1396956",
+            "score": 0.00279
+        },
+        {
+            "name": "Diplotaxis muralis (L.) DC.",
+            "id": "1363875",
+            "score": 0.00272
+        },
+        {
+            "name": "Prunella laciniata (L.) L.",
+            "id": "1358854",
+            "score": 0.00271
+        },
+        {
+            "name": "Hibiscus trionum L.",
+            "id": "1363941",
+            "score": 0.00253
+        },
+        {
+            "name": "Cleonia lusitanica (L.) L.",
+            "id": "1358740",
+            "score": 0.00249
+        },
+        {
+            "name": "Dipsacus ferox Loisel.",
+            "id": "1358453",
+            "score": 0.00235
+        },
+        {
+            "name": "Biscutella didyma L.",
+            "id": "1358185",
+            "score": 0.00231
+        },
+        {
+            "name": "Carduus crispus L.",
+            "id": "1390725",
+            "score": 0.00226
+        },
+        {
+            "name": "Haloragis stricta R.Br. ex Benth.",
+            "id": "1554451",
+            "score": 0.00225
+        },
+        {
+            "name": "Parthenium hysterophorus L.",
+            "id": "1374228",
+            "score": 0.00201
+        },
+        {
+            "name": "Cucumis maderaspatanus L.",
+            "id": "1384461",
+            "score": 0.00195
+        },
+        {
+            "name": "Convolvulus erubescens Sims",
+            "id": "1422331",
+            "score": 0.00188
+        },
+        {
+            "name": "Verbena bracteata Cav. ex Lag. & Rodr.",
+            "id": "1414168",
+            "score": 0.00183
+        },
+        {
+            "name": "Centaurea iberica Trevir. ex Spreng.",
+            "id": "1397697",
+            "score": 0.00183
+        },
+        {
+            "name": "Ambrosia acanthicarpa Hook.",
+            "id": "1412023",
+            "score": 0.00173
+        },
+        {
+            "name": "Brassica fruticulosa Cirillo",
+            "id": "1358196",
+            "score": 0.00171
+        },
+        {
+            "name": "Senecio lividus L.",
+            "id": "1357862",
+            "score": 0.00168
+        },
+        {
+            "name": "Solanum grayi Rose",
+            "id": "1691706",
+            "score": 0.00166
+        },
+        {
+            "name": "Coincya tournefortii (Gouan) Alcaraz, T.E.Díaz, Rivas Mart. & Sánchez-Gómez",
+            "id": "1726144",
+            "score": 0.00158
+        },
+        {
+            "name": "Diplotaxis ibicensis (Pau) Gómez-Campo",
+            "id": "1743307",
+            "score": 0.00155
+        },
+        {
+            "name": "Prunella × bicolor Beck",
+            "id": "1562248",
+            "score": 0.0015
+        },
+        {
+            "name": "Coccinia adoensis (Hochst. ex A.Rich.) Cogn.",
+            "id": "1748777",
+            "score": 0.00147
+        },
+        {
+            "name": "Brassica rapa L.",
+            "id": "1363906",
+            "score": 0.00143
+        },
+        {
+            "name": "Solanum angustifolium Mill.",
+            "id": "1691401",
+            "score": 0.0014
+        },
+        {
+            "name": "Vella pseudocytisus L.",
+            "id": "1358443",
+            "score": 0.00137
+        },
+        {
+            "name": "Erodium malacoides (L.) L'Hér.",
+            "id": "1358654",
+            "score": 0.00134
+        },
+        {
+            "name": "Cephalaria transsylvanica (L.) Schrad.",
+            "id": "1741816",
+            "score": 0.00132
+        },
+        {
+            "name": "Blumenbachia insignis Schrad.",
+            "id": "1398462",
+            "score": 0.00128
+        },
+        {
+            "name": "Brassica procumbens (Poir.) O.E.Schulz",
+            "id": "1389525",
+            "score": 0.00127
+        },
+        {
+            "name": "Sinapis flexuosa Poir.",
+            "id": "1358424",
+            "score": 0.00127
+        },
+        {
+            "name": "Sisymbrium austriacum Jacq.",
+            "id": "1358428",
+            "score": 0.00121
+        },
+        {
+            "name": "Dichrocephala integrifolia (L.f.) Kuntze",
+            "id": "1399576",
+            "score": 0.00117
+        },
+        {
+            "name": "Prunella grandiflora (L.) Turra",
+            "id": "1737424",
+            "score": 0.00115
+        },
+        {
+            "name": "Anisodontea capensis (L.) D.M.Bates",
+            "id": "1419404",
+            "score": 0.00111
+        },
+        {
+            "name": "Cucumis prophetarum L.",
+            "id": "1358449",
+            "score": 0.00111
+        },
+        {
+            "name": "Momordica charantia L.",
+            "id": "1399937",
+            "score": 0.0011
+        },
+        {
+            "name": "Jacobaea aquatica (Hill) G.Gaertn., B.Mey. & Scherb.",
+            "id": "1737650",
+            "score": 0.00105
+        },
+        {
+            "name": "Centaurea aspera L.",
+            "id": "1357401",
+            "score": 0.00103
+        },
+        {
+            "name": "Jacobaea vulgaris Gaertn.",
+            "id": "1362040",
+            "score": 0.00098
+        },
+        {
+            "name": "Cucumis myriocarpus Naudin",
+            "id": "1398486",
+            "score": 0.00095
+        },
+        {
+            "name": "Tordylium maximum L.",
+            "id": "1396812",
+            "score": 0.00093
+        },
+        {
+            "name": "Dicranostigma leptopodum (Maxim.) Fedde",
+            "id": "1639631",
+            "score": 0.00076
+        },
+        {
+            "name": "Solanum corneliomulleri J.F.Macbr.",
+            "id": "1838898",
+            "score": 0.0006
+        },
+        {
+            "name": "Ambrosia artemisiifolia L.",
+            "id": "1355901",
+            "score": 0.00038
+        }
+    ]
+}

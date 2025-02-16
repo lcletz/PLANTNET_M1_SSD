@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Crassula ovata (Mill.) Druce",
+            "id": "1363615",
+            "score": 0.82035
+        },
+        {
+            "name": "Crassula arborescens (Mill.) Willd.",
+            "id": "1418509",
+            "score": 0.03936
+        },
+        {
+            "name": "Crassula multicava Lem.",
+            "id": "1363618",
+            "score": 0.01807
+        },
+        {
+            "name": "Sedum dendroideum Moc. & Sessé ex DC.",
+            "id": "1389308",
+            "score": 0.00554
+        },
+        {
+            "name": "Sedum praealtum A.DC.",
+            "id": "1529305",
+            "score": 0.0025
+        },
+        {
+            "name": "Polycarpon polycarpoides (Biv.) Zodda",
+            "id": "1394725",
+            "score": 0.00244
+        },
+        {
+            "name": "Sedum cepaea L.",
+            "id": "1358103",
+            "score": 0.00226
+        }
+    ]
+}

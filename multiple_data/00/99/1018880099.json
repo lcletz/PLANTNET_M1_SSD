@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Helminthotheca echioides (L.) Holub",
+            "id": "1357635",
+            "score": 0.62684
+        },
+        {
+            "name": "Crepis setosa Haller f.",
+            "id": "1361760",
+            "score": 0.12361
+        },
+        {
+            "name": "Picris hieracioides L.",
+            "id": "1364160",
+            "score": 0.02618
+        },
+        {
+            "name": "Crepis foetida L.",
+            "id": "1355870",
+            "score": 0.00851
+        },
+        {
+            "name": "Scolymus grandiflorus Desf.",
+            "id": "1357847",
+            "score": 0.00256
+        },
+        {
+            "name": "Hieracium amplexicaule L.",
+            "id": "1357643",
+            "score": 0.00209
+        },
+        {
+            "name": "Sonchus asper (L.) Hill",
+            "id": "1357875",
+            "score": 0.00187
+        },
+        {
+            "name": "Picris rhagadioloides (L.) Desf.",
+            "id": "1357783",
+            "score": 0.00182
+        },
+        {
+            "name": "Crepis vesicaria L.",
+            "id": "1357549",
+            "score": 0.00132
+        }
+    ]
+}

@@ -1,0 +1,280 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hirschfeldia incana (L.) Lagr.-Foss.",
+            "id": "1363911",
+            "score": 0.78282
+        },
+        {
+            "name": "Rapistrum rugosum (L.) All.",
+            "id": "1363879",
+            "score": 0.23119
+        },
+        {
+            "name": "Rhamphospermum arvense (L.) Andrz. ex Besser",
+            "id": "1737463",
+            "score": 0.02737
+        },
+        {
+            "name": "Raphanus raphanistrum L.",
+            "id": "1363901",
+            "score": 0.02334
+        },
+        {
+            "name": "Betonica officinalis L.",
+            "id": "1400126",
+            "score": 0.01918
+        },
+        {
+            "name": "Jacobaea erratica (Bertol.) Fourr.",
+            "id": "1362687",
+            "score": 0.01301
+        },
+        {
+            "name": "Brassica fruticulosa Cirillo",
+            "id": "1358196",
+            "score": 0.01219
+        },
+        {
+            "name": "Diplotaxis tenuifolia (L.) DC.",
+            "id": "1358257",
+            "score": 0.0119
+        },
+        {
+            "name": "Mentha suaveolens Ehrh.",
+            "id": "1358789",
+            "score": 0.0119
+        },
+        {
+            "name": "Scabiosa columbaria L.",
+            "id": "1361926",
+            "score": 0.01182
+        },
+        {
+            "name": "Sisymbrium officinale (L.) Scop.",
+            "id": "1363897",
+            "score": 0.01121
+        },
+        {
+            "name": "Erucastrum nasturtiifolium (Poir.) O.E.Schulz",
+            "id": "1392096",
+            "score": 0.01054
+        },
+        {
+            "name": "Cyanthillium cinereum (L.) H.Rob.",
+            "id": "1405308",
+            "score": 0.00995
+        },
+        {
+            "name": "Diplotaxis erucoides (L.) DC.",
+            "id": "1363878",
+            "score": 0.00823
+        },
+        {
+            "name": "Brassica barrelieri (L.) Janka",
+            "id": "1358194",
+            "score": 0.00753
+        },
+        {
+            "name": "Coincya tournefortii (Gouan) Alcaraz, T.E.Díaz, Rivas Mart. & Sánchez-Gómez",
+            "id": "1726144",
+            "score": 0.00647
+        },
+        {
+            "name": "Verbascum blattaria L.",
+            "id": "1364060",
+            "score": 0.0062
+        },
+        {
+            "name": "Salvia lyrata L.",
+            "id": "1437804",
+            "score": 0.00613
+        },
+        {
+            "name": "Salvia verbenaca L.",
+            "id": "1356115",
+            "score": 0.00444
+        },
+        {
+            "name": "Scabiosa atropurpurea L.",
+            "id": "1396055",
+            "score": 0.00386
+        },
+        {
+            "name": "Salvia pratensis L.",
+            "id": "1395913",
+            "score": 0.00373
+        },
+        {
+            "name": "Brassica napus L.",
+            "id": "1363908",
+            "score": 0.0036
+        },
+        {
+            "name": "Moricandia arvensis (L.) DC.",
+            "id": "1358386",
+            "score": 0.00345
+        },
+        {
+            "name": "Brassica rapa L.",
+            "id": "1363906",
+            "score": 0.00329
+        },
+        {
+            "name": "Eruca vesicaria (L.) Cav.",
+            "id": "1356328",
+            "score": 0.00307
+        },
+        {
+            "name": "Clinopodium vulgare L.",
+            "id": "1358742",
+            "score": 0.00298
+        },
+        {
+            "name": "Erucastrum gallicum (Willd.) O.E.Schulz",
+            "id": "1392093",
+            "score": 0.00296
+        },
+        {
+            "name": "Senecio lividus L.",
+            "id": "1357862",
+            "score": 0.00295
+        },
+        {
+            "name": "Diplotaxis muralis (L.) DC.",
+            "id": "1363875",
+            "score": 0.00273
+        },
+        {
+            "name": "Elephantopus elatus Bertol.",
+            "id": "1442865",
+            "score": 0.00216
+        },
+        {
+            "name": "Mentha × villosa Huds.",
+            "id": "1560698",
+            "score": 0.00195
+        },
+        {
+            "name": "Primula veris L.",
+            "id": "1360145",
+            "score": 0.00195
+        },
+        {
+            "name": "Scabiosa cinerea Lapeyr. ex Lam.",
+            "id": "1397487",
+            "score": 0.00186
+        },
+        {
+            "name": "Jacobaea aquatica (Hill) G.Gaertn., B.Mey. & Scherb.",
+            "id": "1737650",
+            "score": 0.00167
+        },
+        {
+            "name": "Salvia × sylvestris L.",
+            "id": "1563105",
+            "score": 0.00156
+        },
+        {
+            "name": "Sisymbrium orientale L.",
+            "id": "1363898",
+            "score": 0.00155
+        },
+        {
+            "name": "Verbascum virgatum Stokes",
+            "id": "1364058",
+            "score": 0.0015
+        },
+        {
+            "name": "Salvia aegyptiaca L.",
+            "id": "1356119",
+            "score": 0.00149
+        },
+        {
+            "name": "Sisymbrium irio L.",
+            "id": "1363896",
+            "score": 0.00146
+        },
+        {
+            "name": "Ajuga reptans L.",
+            "id": "1358718",
+            "score": 0.00144
+        },
+        {
+            "name": "Bunias erucago L.",
+            "id": "1363920",
+            "score": 0.00137
+        },
+        {
+            "name": "Succisa pratensis Moench",
+            "id": "1358491",
+            "score": 0.00131
+        },
+        {
+            "name": "Scabiosa triandra L.",
+            "id": "1396063",
+            "score": 0.00127
+        },
+        {
+            "name": "Rumex pulcher L.",
+            "id": "1356314",
+            "score": 0.00125
+        },
+        {
+            "name": "Salvia verticillata L.",
+            "id": "1397480",
+            "score": 0.00124
+        },
+        {
+            "name": "Sisymbrium altissimum L.",
+            "id": "1358427",
+            "score": 0.0012
+        },
+        {
+            "name": "Pulicaria odora (L.) Rchb.",
+            "id": "1357805",
+            "score": 0.00117
+        },
+        {
+            "name": "Knautia arvensis (L.) Coult.",
+            "id": "1362327",
+            "score": 0.00116
+        },
+        {
+            "name": "Scrophularia auriculata L.",
+            "id": "1360495",
+            "score": 0.0011
+        },
+        {
+            "name": "Stachys recta L.",
+            "id": "1396435",
+            "score": 0.00109
+        },
+        {
+            "name": "Mantisalca salmantica (L.) Briq. & Cavill.",
+            "id": "1364108",
+            "score": 0.00107
+        },
+        {
+            "name": "Verbascum boerhavii L.",
+            "id": "1360520",
+            "score": 0.00107
+        },
+        {
+            "name": "Verbena officinalis L.",
+            "id": "1360860",
+            "score": 0.00106
+        },
+        {
+            "name": "Draba muralis L.",
+            "id": "1358264",
+            "score": 0.00102
+        },
+        {
+            "name": "Borago officinalis L.",
+            "id": "1363835",
+            "score": 0.00098
+        }
+    ]
+}

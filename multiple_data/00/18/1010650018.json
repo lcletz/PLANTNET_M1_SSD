@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Papaver rhoeas L.",
+            "id": "1363128",
+            "score": 0.74604
+        },
+        {
+            "name": "Papaver orientale L.",
+            "id": "1394404",
+            "score": 0.1048
+        },
+        {
+            "name": "Papaver setiferum Goldblatt",
+            "id": "1737543",
+            "score": 0.03105
+        },
+        {
+            "name": "Roemeria argemone (L.) C.Morales, R.Mend. & Romero García",
+            "id": "1737479",
+            "score": 0.0163
+        },
+        {
+            "name": "Papaver dubium L.",
+            "id": "1363129",
+            "score": 0.00423
+        },
+        {
+            "name": "Roemeria sicula (Guss.) ined.",
+            "id": "1739196",
+            "score": 0.00234
+        },
+        {
+            "name": "Papaver somniferum L.",
+            "id": "1363130",
+            "score": 0.00177
+        },
+        {
+            "name": "Gaillardia aristata Pursh",
+            "id": "1392412",
+            "score": 0.00119
+        }
+    ]
+}

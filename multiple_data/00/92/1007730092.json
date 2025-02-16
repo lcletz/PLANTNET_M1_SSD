@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lagurus ovatus L.",
+            "id": "1363433",
+            "score": 0.92598
+        },
+        {
+            "name": "Polypogon monspeliensis (L.) Desf.",
+            "id": "1363402",
+            "score": 0.01181
+        },
+        {
+            "name": "Plantago lagopus L.",
+            "id": "1359959",
+            "score": 0.00296
+        },
+        {
+            "name": "Cynosurus echinatus L.",
+            "id": "1363504",
+            "score": 0.00218
+        },
+        {
+            "name": "Melica ciliata L.",
+            "id": "1361329",
+            "score": 0.00146
+        },
+        {
+            "name": "Trifolium arvense L.",
+            "id": "1359485",
+            "score": 0.00139
+        },
+        {
+            "name": "Briza maxima L.",
+            "id": "1363440",
+            "score": 0.00129
+        },
+        {
+            "name": "Crepis foetida L.",
+            "id": "1355870",
+            "score": 0.00115
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Arbutus andrachne L.",
+            "id": "1395933",
+            "score": 0.48345
+        },
+        {
+            "name": "Arbutus unedo L.",
+            "id": "1358500",
+            "score": 0.34718
+        },
+        {
+            "name": "Arbutus × andrachnoides Link",
+            "id": "1537929",
+            "score": 0.01466
+        },
+        {
+            "name": "Arbutus menziesii Pursh",
+            "id": "1413017",
+            "score": 0.0041
+        },
+        {
+            "name": "Arbutus canariensis Veill. ex Duhamel",
+            "id": "1358498",
+            "score": 0.00241
+        },
+        {
+            "name": "Arbutus xalapensis Kunth",
+            "id": "1435308",
+            "score": 0.00193
+        }
+    ]
+}

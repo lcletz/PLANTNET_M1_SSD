@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Papaver somniferum L.",
+            "id": "1363130",
+            "score": 0.8778
+        },
+        {
+            "name": "Papaver rhoeas L.",
+            "id": "1363128",
+            "score": 0.00538
+        },
+        {
+            "name": "Papaver orientale L.",
+            "id": "1394404",
+            "score": 0.00335
+        },
+        {
+            "name": "Papaver alpinum L.",
+            "id": "1394399",
+            "score": 0.00195
+        },
+        {
+            "name": "Roemeria sicula (Guss.) ined.",
+            "id": "1739196",
+            "score": 0.00127
+        },
+        {
+            "name": "Papaver croceum Ledeb.",
+            "id": "1394401",
+            "score": 0.00106
+        }
+    ]
+}

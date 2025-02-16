@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Liriodendron tulipifera L.",
+            "id": "1393614",
+            "score": 0.59448
+        },
+        {
+            "name": "Liriodendron chinense (Hemsl.) Sarg.",
+            "id": "1591102",
+            "score": 0.2514
+        },
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.00394
+        },
+        {
+            "name": "Acer monspessulanum L.",
+            "id": "1356457",
+            "score": 0.00314
+        },
+        {
+            "name": "Acer buergerianum Miq.",
+            "id": "1390598",
+            "score": 0.00133
+        },
+        {
+            "name": "Magnolia virginiana L.",
+            "id": "1389430",
+            "score": 0.00103
+        }
+    ]
+}

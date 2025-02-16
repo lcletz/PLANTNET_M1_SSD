@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.55622
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.17682
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.01988
+        },
+        {
+            "name": "Ficus carica L.",
+            "id": "1363142",
+            "score": 0.00257
+        },
+        {
+            "name": "Acer pseudoplatanus L.",
+            "id": "1356460",
+            "score": 0.0004
+        }
+    ]
+}

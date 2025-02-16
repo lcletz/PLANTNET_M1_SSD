@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lythrum salicaria L.",
+            "id": "1356023",
+            "score": 0.85541
+        },
+        {
+            "name": "Lythrum virgatum L.",
+            "id": "1393714",
+            "score": 0.09574
+        },
+        {
+            "name": "Hyssopus officinalis L.",
+            "id": "1358747",
+            "score": 0.00191
+        },
+        {
+            "name": "Lythrum junceum Banks & Sol.",
+            "id": "1359612",
+            "score": 0.00164
+        },
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.00124
+        }
+    ]
+}

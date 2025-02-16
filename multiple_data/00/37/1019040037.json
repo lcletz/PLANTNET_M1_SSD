@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Acer pseudoplatanus L.",
+            "id": "1356460",
+            "score": 0.75924
+        },
+        {
+            "name": "Acer opalus Mill.",
+            "id": "1362399",
+            "score": 0.02561
+        },
+        {
+            "name": "Ribes nigrum L.",
+            "id": "1395200",
+            "score": 0.00231
+        },
+        {
+            "name": "Ribes petraeum Wulfen",
+            "id": "1358683",
+            "score": 0.00113
+        }
+    ]
+}

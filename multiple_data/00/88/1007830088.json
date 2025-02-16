@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.77263
+        },
+        {
+            "name": "Fagus orientalis Lipsky",
+            "id": "1547791",
+            "score": 0.05743
+        },
+        {
+            "name": "Fagus grandifolia Ehrh.",
+            "id": "1412056",
+            "score": 0.02795
+        },
+        {
+            "name": "Fagus × taurica Popl.",
+            "id": "1547792",
+            "score": 0.00505
+        },
+        {
+            "name": "Fagus crenata Blume",
+            "id": "1419065",
+            "score": 0.00459
+        },
+        {
+            "name": "Fagus lucida Rehder & E.H.Wilson",
+            "id": "1547790",
+            "score": 0.0021
+        },
+        {
+            "name": "Fagus engleriana Seemen ex Diels",
+            "id": "1547786",
+            "score": 0.0014
+        },
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.00116
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.88023
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.01985
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.01578
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00939
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00666
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.00196
+        },
+        {
+            "name": "Prunus serotina Ehrh.",
+            "id": "1370859",
+            "score": 0.00147
+        },
+        {
+            "name": "Prunus × fruticans Weihe",
+            "id": "1667948",
+            "score": 0.00124
+        },
+        {
+            "name": "Prunus umbellata Elliott",
+            "id": "1436948",
+            "score": 0.00114
+        },
+        {
+            "name": "Prunus brigantina Vill.",
+            "id": "1394945",
+            "score": 0.0011
+        }
+    ]
+}

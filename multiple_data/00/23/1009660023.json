@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lamium hybridum Vill.",
+            "id": "1358751",
+            "score": 0.5399
+        },
+        {
+            "name": "Lamium purpureum L.",
+            "id": "1358752",
+            "score": 0.42502
+        },
+        {
+            "name": "Lamium maculatum (L.) L.",
+            "id": "1393425",
+            "score": 0.00337
+        },
+        {
+            "name": "Stachys arvensis (L.) L.",
+            "id": "1396422",
+            "score": 0.00126
+        },
+        {
+            "name": "Galeopsis bifida Boenn.",
+            "id": "1392420",
+            "score": 0.00115
+        }
+    ]
+}

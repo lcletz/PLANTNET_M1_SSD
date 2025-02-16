@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phacelia tanacetifolia Benth.",
+            "id": "1363358",
+            "score": 0.93285
+        },
+        {
+            "name": "Phacelia cicutaria Greene",
+            "id": "1436091",
+            "score": 0.0109
+        },
+        {
+            "name": "Phacelia distans Benth.",
+            "id": "1436110",
+            "score": 0.00277
+        },
+        {
+            "name": "Artemisia annua L.",
+            "id": "1382106",
+            "score": 0.00206
+        },
+        {
+            "name": "Phacelia ramosissima Douglas ex Lehm.",
+            "id": "1413032",
+            "score": 0.00113
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Tanacetum parthenium (L.) Sch.Bip.",
+            "id": "1396511",
+            "score": 0.96016
+        },
+        {
+            "name": "Tanacetum corymbosum (L.) Sch.Bip.",
+            "id": "1397508",
+            "score": 0.00163
+        },
+        {
+            "name": "Chrysanthemum indicum L.",
+            "id": "1391154",
+            "score": 0.00156
+        },
+        {
+            "name": "Chamaemelum nobile (L.) All.",
+            "id": "1357465",
+            "score": 0.00107
+        }
+    ]
+}

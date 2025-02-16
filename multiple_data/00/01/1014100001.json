@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fraxinus angustifolia Vahl",
+            "id": "1362009",
+            "score": 0.93441
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.03287
+        },
+        {
+            "name": "Fraxinus pennsylvanica Marshall",
+            "id": "1392363",
+            "score": 0.0081
+        },
+        {
+            "name": "Fraxinus ornus L.",
+            "id": "1362963",
+            "score": 0.00439
+        },
+        {
+            "name": "Fraxinus uhdei (Wenz.) Lingelsh.",
+            "id": "1419623",
+            "score": 0.00151
+        }
+    ]
+}

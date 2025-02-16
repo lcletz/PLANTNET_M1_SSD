@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lupinus polyphyllus Lindl.",
+            "id": "1367432",
+            "score": 0.78228
+        },
+        {
+            "name": "Lupinus × regalis (Anon.) Bergmans",
+            "id": "1844396",
+            "score": 0.11355
+        },
+        {
+            "name": "Lupinus perennis L.",
+            "id": "1367431",
+            "score": 0.02944
+        },
+        {
+            "name": "Lupinus albus L.",
+            "id": "1363703",
+            "score": 0.0109
+        },
+        {
+            "name": "Lupinus angustifolius L.",
+            "id": "1363699",
+            "score": 0.0049
+        },
+        {
+            "name": "Onobrychis viciifolia Scop.",
+            "id": "1363793",
+            "score": 0.00116
+        },
+        {
+            "name": "Lupinus arboreus Sims",
+            "id": "1393654",
+            "score": 0.00103
+        }
+    ]
+}

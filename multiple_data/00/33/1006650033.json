@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.82082
+        },
+        {
+            "name": "Fagus grandifolia Ehrh.",
+            "id": "1412056",
+            "score": 0.06526
+        },
+        {
+            "name": "Fagus orientalis Lipsky",
+            "id": "1547791",
+            "score": 0.06224
+        },
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.00403
+        },
+        {
+            "name": "Fagus japonica Maxim.",
+            "id": "1547788",
+            "score": 0.00174
+        },
+        {
+            "name": "Rubus ulmifolius Schott",
+            "id": "1360358",
+            "score": 0.00165
+        },
+        {
+            "name": "Fagus crenata Blume",
+            "id": "1419065",
+            "score": 0.00162
+        },
+        {
+            "name": "Corylopsis pauciflora Siebold & Zucc.",
+            "id": "1419161",
+            "score": 0.00116
+        }
+    ]
+}

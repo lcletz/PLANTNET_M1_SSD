@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cucurbita moschata Duchesne",
+            "id": "1399145",
+            "score": 0.46377
+        },
+        {
+            "name": "Cucurbita maxima Duchesne",
+            "id": "1391483",
+            "score": 0.3991
+        },
+        {
+            "name": "Cucurbita pepo L.",
+            "id": "1384485",
+            "score": 0.10252
+        },
+        {
+            "name": "Cucumis melo L.",
+            "id": "1363647",
+            "score": 0.00336
+        },
+        {
+            "name": "Sicyos edulis Jacq.",
+            "id": "1722531",
+            "score": 0.00104
+        }
+    ]
+}

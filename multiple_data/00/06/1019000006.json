@@ -1,0 +1,35 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Papaver alpinum L.",
+            "id": "1394399",
+            "score": 0.02546
+        },
+        {
+            "name": "Ranunculus amplexicaulis L.",
+            "id": "1395049",
+            "score": 0.00372
+        },
+        {
+            "name": "Anemonoides sylvestris (L.) Galasso, Banfi & Soldano",
+            "id": "1737523",
+            "score": 0.00303
+        },
+        {
+            "name": "Paeonia mascula (L.) Mill.",
+            "id": "1359758",
+            "score": 0.00297
+        },
+        {
+            "name": "Argemone mexicana L.",
+            "id": "1356300",
+            "score": 0.00145
+        },
+        {
+            "name": "Cistus ladanifer L.",
+            "id": "1357103",
+            "score": 0.0014
+        }
+    ]
+}

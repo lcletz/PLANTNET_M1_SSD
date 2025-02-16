@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.86663
+        },
+        {
+            "name": "Fraxinus velutina Torr.",
+            "id": "1443766",
+            "score": 0.00782
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.00639
+        },
+        {
+            "name": "Fraxinus americana L.",
+            "id": "1397619",
+            "score": 0.00242
+        },
+        {
+            "name": "Fraxinus ornus L.",
+            "id": "1362963",
+            "score": 0.0019
+        },
+        {
+            "name": "Acer cissifolium (Siebold & Zucc.) K.Koch",
+            "id": "1390599",
+            "score": 0.00178
+        },
+        {
+            "name": "Fraxinus latifolia Benth.",
+            "id": "1412090",
+            "score": 0.00146
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Quercus rubra L.",
+            "id": "1395035",
+            "score": 0.42033
+        },
+        {
+            "name": "Quercus petraea (Matt.) Liebl.",
+            "id": "1419076",
+            "score": 0.08077
+        },
+        {
+            "name": "Quercus robur L.",
+            "id": "1357413",
+            "score": 0.06339
+        },
+        {
+            "name": "Quercus lusitanica Lam.",
+            "id": "1358615",
+            "score": 0.01203
+        },
+        {
+            "name": "Quercus pubescens Willd.",
+            "id": "1395026",
+            "score": 0.00603
+        },
+        {
+            "name": "Quercus faginea Lam.",
+            "id": "1358614",
+            "score": 0.00552
+        },
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.00325
+        },
+        {
+            "name": "Quercus pyrenaica Willd.",
+            "id": "1358616",
+            "score": 0.0031
+        },
+        {
+            "name": "Larix kaempferi (Lamb.) Carrière",
+            "id": "1701758",
+            "score": 0.00277
+        },
+        {
+            "name": "Castanea crenata Siebold & Zucc.",
+            "id": "1390962",
+            "score": 0.0024
+        },
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.00238
+        },
+        {
+            "name": "Quercus cerris L.",
+            "id": "1395020",
+            "score": 0.00227
+        },
+        {
+            "name": "Castanea sativa Mill.",
+            "id": "1358610",
+            "score": 0.00212
+        },
+        {
+            "name": "Thuja plicata Donn ex D.Don",
+            "id": "1418597",
+            "score": 0.00165
+        },
+        {
+            "name": "Quercus canariensis Willd.",
+            "id": "1358612",
+            "score": 0.00143
+        }
+    ]
+}

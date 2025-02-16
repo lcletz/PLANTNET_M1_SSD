@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Epilobium hirsutum L.",
+            "id": "1361947",
+            "score": 0.91289
+        },
+        {
+            "name": "Epilobium parviflorum Schreb.",
+            "id": "1359686",
+            "score": 0.03473
+        },
+        {
+            "name": "Oenothera rosea L'Hér. ex Aiton",
+            "id": "1361957",
+            "score": 0.0028
+        },
+        {
+            "name": "Epilobium amurense Hausskn.",
+            "id": "1609641",
+            "score": 0.00213
+        },
+        {
+            "name": "Epilobium tetragonum L.",
+            "id": "1359688",
+            "score": 0.00147
+        },
+        {
+            "name": "Epilobium ciliatum Raf.",
+            "id": "1391890",
+            "score": 0.00131
+        },
+        {
+            "name": "Epilobium palustre L.",
+            "id": "1359685",
+            "score": 0.00105
+        }
+    ]
+}

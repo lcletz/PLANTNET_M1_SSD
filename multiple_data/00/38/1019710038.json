@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Euphorbia peplus L.",
+            "id": "1355969",
+            "score": 0.86107
+        },
+        {
+            "name": "Euphorbia helioscopia L.",
+            "id": "1355964",
+            "score": 0.00202
+        },
+        {
+            "name": "Euphorbia dulcis L.",
+            "id": "1392156",
+            "score": 0.00163
+        },
+        {
+            "name": "Euphorbia amygdaloides L.",
+            "id": "1358525",
+            "score": 0.00146
+        },
+        {
+            "name": "Euphorbia marginata Pursh",
+            "id": "1392172",
+            "score": 0.00101
+        }
+    ]
+}

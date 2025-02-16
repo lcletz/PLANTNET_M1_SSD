@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Arrhenatherum elatius (L.) P.Beauv. ex J.Presl & C.Presl",
+            "id": "1396638",
+            "score": 0.85913
+        },
+        {
+            "name": "Trisetum flavescens (L.) P.Beauv.",
+            "id": "1396889",
+            "score": 0.03959
+        },
+        {
+            "name": "Bromus hordeaceus L.",
+            "id": "1356286",
+            "score": 0.00347
+        },
+        {
+            "name": "Arrhenatherum album (Vahl) Clayton",
+            "id": "1361175",
+            "score": 0.00246
+        },
+        {
+            "name": "Lolium arundinaceum (Schreb.) Darbysh.",
+            "id": "1720971",
+            "score": 0.00236
+        },
+        {
+            "name": "Lolium pratense (Huds.) Darbysh.",
+            "id": "1737440",
+            "score": 0.00227
+        },
+        {
+            "name": "Bromus erectus Huds.",
+            "id": "1414354",
+            "score": 0.00171
+        },
+        {
+            "name": "Bromus arvensis L.",
+            "id": "1397525",
+            "score": 0.00114
+        },
+        {
+            "name": "Bromus inermis Leyss.",
+            "id": "1414356",
+            "score": 0.001
+        }
+    ]
+}

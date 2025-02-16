@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Solanum bonariense L.",
+            "id": "1360565",
+            "score": 0.58844
+        },
+        {
+            "name": "Solanum laxum Spreng.",
+            "id": "1356173",
+            "score": 0.34245
+        },
+        {
+            "name": "Solanum crispum Ruiz & Pav.",
+            "id": "1691574",
+            "score": 0.00601
+        },
+        {
+            "name": "Jasminum polyanthum Franch.",
+            "id": "1383126",
+            "score": 0.00331
+        },
+        {
+            "name": "Solanum seaforthianum Andrews",
+            "id": "1379566",
+            "score": 0.00108
+        }
+    ]
+}

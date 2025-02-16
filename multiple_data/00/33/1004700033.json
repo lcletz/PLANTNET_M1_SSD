@@ -1,0 +1,480 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Agrostis capillaris L.",
+            "id": "1361133",
+            "score": 0.69387
+        },
+        {
+            "name": "Carex paniculata L.",
+            "id": "1361074",
+            "score": 0.09994
+        },
+        {
+            "name": "Poa nemoralis L.",
+            "id": "1361376",
+            "score": 0.06904
+        },
+        {
+            "name": "Eriophorum angustifolium Honck.",
+            "id": "1392059",
+            "score": 0.05145
+        },
+        {
+            "name": "Poa palustris L.",
+            "id": "1394677",
+            "score": 0.04681
+        },
+        {
+            "name": "Juncus conglomeratus L.",
+            "id": "1361574",
+            "score": 0.04252
+        },
+        {
+            "name": "Avenella flexuosa (L.) Drejer",
+            "id": "1400084",
+            "score": 0.03748
+        },
+        {
+            "name": "Deschampsia cespitosa (L.) P.Beauv.",
+            "id": "1391666",
+            "score": 0.03494
+        },
+        {
+            "name": "Juncus tenuis Willd.",
+            "id": "1363332",
+            "score": 0.03448
+        },
+        {
+            "name": "Juncus effusus L.",
+            "id": "1363328",
+            "score": 0.03084
+        },
+        {
+            "name": "Eriophorum vaginatum L.",
+            "id": "1392067",
+            "score": 0.0292
+        },
+        {
+            "name": "Agrostis perennans (Walter) Tuck.",
+            "id": "1406526",
+            "score": 0.0226
+        },
+        {
+            "name": "Carex flacca Schreb.",
+            "id": "1361055",
+            "score": 0.02258
+        },
+        {
+            "name": "Allium carinatum L.",
+            "id": "1392528",
+            "score": 0.01891
+        },
+        {
+            "name": "Carex brizoides L.",
+            "id": "1390778",
+            "score": 0.01558
+        },
+        {
+            "name": "Carex spicata Huds.",
+            "id": "1361082",
+            "score": 0.0152
+        },
+        {
+            "name": "Carex leporina L.",
+            "id": "1362424",
+            "score": 0.01226
+        },
+        {
+            "name": "Allium vineale L.",
+            "id": "1360945",
+            "score": 0.01226
+        },
+        {
+            "name": "Carex pilulifera L.",
+            "id": "1361077",
+            "score": 0.01209
+        },
+        {
+            "name": "Agrostis gigantea Roth",
+            "id": "1363472",
+            "score": 0.01164
+        },
+        {
+            "name": "Agrostis stolonifera L.",
+            "id": "1356321",
+            "score": 0.01143
+        },
+        {
+            "name": "Juncus inflexus L.",
+            "id": "1363329",
+            "score": 0.01136
+        },
+        {
+            "name": "Poa trivialis L.",
+            "id": "1363459",
+            "score": 0.00873
+        },
+        {
+            "name": "Allium oleraceum L.",
+            "id": "1392704",
+            "score": 0.00778
+        },
+        {
+            "name": "Eleocharis palustris (L.) Roem. & Schult.",
+            "id": "1363275",
+            "score": 0.0075
+        },
+        {
+            "name": "Festuca rubra L.",
+            "id": "1361284",
+            "score": 0.00742
+        },
+        {
+            "name": "Aira elegans Willd. ex Roem. & Schult.",
+            "id": "1722465",
+            "score": 0.00726
+        },
+        {
+            "name": "Aira caryophyllea L.",
+            "id": "1363452",
+            "score": 0.00724
+        },
+        {
+            "name": "Carex remota L.",
+            "id": "1361080",
+            "score": 0.00719
+        },
+        {
+            "name": "Calamagrostis epigejos (L.) Roth",
+            "id": "1379532",
+            "score": 0.00694
+        },
+        {
+            "name": "Carex pallescens L.",
+            "id": "1361072",
+            "score": 0.00668
+        },
+        {
+            "name": "Bolboschoenus maritimus (L.) Palla",
+            "id": "1362194",
+            "score": 0.00632
+        },
+        {
+            "name": "Festuca heterophylla Lam.",
+            "id": "1392309",
+            "score": 0.00602
+        },
+        {
+            "name": "Carex flava L.",
+            "id": "1361056",
+            "score": 0.006
+        },
+        {
+            "name": "Carex nigra (L.) Reichard",
+            "id": "1361069",
+            "score": 0.006
+        },
+        {
+            "name": "Molinia caerulea (L.) Moench",
+            "id": "1363593",
+            "score": 0.00572
+        },
+        {
+            "name": "Brachypodium pinnatum (L.) P.Beauv.",
+            "id": "1388809",
+            "score": 0.00543
+        },
+        {
+            "name": "Sesleria caerulea (L.) Ard.",
+            "id": "1397494",
+            "score": 0.0053
+        },
+        {
+            "name": "Juncus compressus Jacq.",
+            "id": "1362325",
+            "score": 0.00516
+        },
+        {
+            "name": "Carex tomentosa L.",
+            "id": "1390921",
+            "score": 0.00504
+        },
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.00498
+        },
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.00493
+        },
+        {
+            "name": "Carex divulsa Stokes",
+            "id": "1361050",
+            "score": 0.00478
+        },
+        {
+            "name": "Cyperus longus L.",
+            "id": "1356294",
+            "score": 0.00477
+        },
+        {
+            "name": "Juncus acutiflorus Ehrh. ex Hoffm.",
+            "id": "1361568",
+            "score": 0.00442
+        },
+        {
+            "name": "Schoenoplectus lacustris (L.) Palla",
+            "id": "1361104",
+            "score": 0.0043
+        },
+        {
+            "name": "Milium effusum L.",
+            "id": "1393828",
+            "score": 0.00394
+        },
+        {
+            "name": "Carex divisa Huds.",
+            "id": "1363282",
+            "score": 0.00392
+        },
+        {
+            "name": "Sporobolus indicus (L.) R.Br.",
+            "id": "1396416",
+            "score": 0.00367
+        },
+        {
+            "name": "Carex hirta L.",
+            "id": "1361058",
+            "score": 0.00367
+        },
+        {
+            "name": "Schoenus nigricans L.",
+            "id": "1363287",
+            "score": 0.00357
+        },
+        {
+            "name": "Carex rostrata Stokes",
+            "id": "1390902",
+            "score": 0.00342
+        },
+        {
+            "name": "Carex elata All.",
+            "id": "1361052",
+            "score": 0.00339
+        },
+        {
+            "name": "Carex muricata L.",
+            "id": "1361068",
+            "score": 0.00327
+        },
+        {
+            "name": "Carex pairae F.W.Schultz",
+            "id": "1390880",
+            "score": 0.00325
+        },
+        {
+            "name": "Calamagrostis arundinacea (L.) Roth",
+            "id": "1389603",
+            "score": 0.00309
+        },
+        {
+            "name": "Scirpoides holoschoenus (L.) Soják",
+            "id": "1361106",
+            "score": 0.00294
+        },
+        {
+            "name": "Carex longii Mack.",
+            "id": "1411203",
+            "score": 0.00279
+        },
+        {
+            "name": "Agrostis castellana Boiss. & Reut.",
+            "id": "1361134",
+            "score": 0.00272
+        },
+        {
+            "name": "Carex echinata Murray",
+            "id": "1361051",
+            "score": 0.00266
+        },
+        {
+            "name": "Carex pulicaris L.",
+            "id": "1390898",
+            "score": 0.00265
+        },
+        {
+            "name": "Lolium perenne L.",
+            "id": "1363475",
+            "score": 0.00254
+        },
+        {
+            "name": "Festuca armoricana Kerguélen",
+            "id": "1392264",
+            "score": 0.00251
+        },
+        {
+            "name": "Carex binervis Sm.",
+            "id": "1361043",
+            "score": 0.0025
+        },
+        {
+            "name": "Carex caryophyllea Latourr.",
+            "id": "1390782",
+            "score": 0.00229
+        },
+        {
+            "name": "Cyperus eragrostis Lam.",
+            "id": "1363293",
+            "score": 0.00228
+        },
+        {
+            "name": "Calamagrostis arenaria (L.) Roth",
+            "id": "1722433",
+            "score": 0.00226
+        },
+        {
+            "name": "Carex baldensis L.",
+            "id": "1390768",
+            "score": 0.00223
+        },
+        {
+            "name": "Scirpus cyperinus (L.) Kunth",
+            "id": "1413732",
+            "score": 0.0022
+        },
+        {
+            "name": "Cynodon dactylon (L.) Pers.",
+            "id": "1363526",
+            "score": 0.00218
+        },
+        {
+            "name": "Carex arenaria L.",
+            "id": "1390761",
+            "score": 0.0021
+        },
+        {
+            "name": "Carex diandra Schrank",
+            "id": "1390800",
+            "score": 0.00205
+        },
+        {
+            "name": "Carex vesicaria L.",
+            "id": "1390931",
+            "score": 0.00197
+        },
+        {
+            "name": "Cyperus rotundus L.",
+            "id": "1361090",
+            "score": 0.00194
+        },
+        {
+            "name": "Cynosurus cristatus L.",
+            "id": "1361225",
+            "score": 0.0019
+        },
+        {
+            "name": "Juncus squarrosus L.",
+            "id": "1361585",
+            "score": 0.00189
+        },
+        {
+            "name": "Lolium arundinaceum (Schreb.) Darbysh.",
+            "id": "1720971",
+            "score": 0.00187
+        },
+        {
+            "name": "Lolium pratense (Huds.) Darbysh.",
+            "id": "1737440",
+            "score": 0.00179
+        },
+        {
+            "name": "Carex sylvatica Huds.",
+            "id": "1363283",
+            "score": 0.00179
+        },
+        {
+            "name": "Pinus strobus L.",
+            "id": "1394616",
+            "score": 0.0017
+        },
+        {
+            "name": "Eleocharis tiarata Gómez-Laur.",
+            "id": "1533303",
+            "score": 0.00168
+        },
+        {
+            "name": "Carex disticha Huds.",
+            "id": "1390803",
+            "score": 0.00166
+        },
+        {
+            "name": "Anthericum ramosum L.",
+            "id": "1394759",
+            "score": 0.00166
+        },
+        {
+            "name": "Carex canescens L.",
+            "id": "1390780",
+            "score": 0.00165
+        },
+        {
+            "name": "Arrhenatherum elatius (L.) P.Beauv. ex J.Presl & C.Presl",
+            "id": "1396638",
+            "score": 0.00148
+        },
+        {
+            "name": "Luzula campestris (L.) DC.",
+            "id": "1361592",
+            "score": 0.00147
+        },
+        {
+            "name": "Eragrostis unioloides (Retz.) Nees ex Steud.",
+            "id": "1363565",
+            "score": 0.0014
+        },
+        {
+            "name": "Melica ciliata L.",
+            "id": "1361329",
+            "score": 0.00136
+        },
+        {
+            "name": "Trichophorum cespitosum (L.) Hartm.",
+            "id": "1396838",
+            "score": 0.0013
+        },
+        {
+            "name": "Blysmus compressus (L.) Panz. ex Link",
+            "id": "1400181",
+            "score": 0.00123
+        },
+        {
+            "name": "Juncus subnodulosus Schrank",
+            "id": "1361587",
+            "score": 0.00115
+        },
+        {
+            "name": "Cyperus strigosus L.",
+            "id": "1399577",
+            "score": 0.00115
+        },
+        {
+            "name": "Sporobolus heterolepis (A.Gray) A.Gray",
+            "id": "1815696",
+            "score": 0.00115
+        },
+        {
+            "name": "Carex praecox Schreb.",
+            "id": "1390890",
+            "score": 0.00114
+        },
+        {
+            "name": "Carex vulpinoidea Michx.",
+            "id": "1390934",
+            "score": 0.00111
+        }
+    ]
+}

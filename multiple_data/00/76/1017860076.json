@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Helminthotheca echioides (L.) Holub",
+            "id": "1357635",
+            "score": 0.89484
+        },
+        {
+            "name": "Picris hieracioides L.",
+            "id": "1364160",
+            "score": 0.01245
+        },
+        {
+            "name": "Hypochaeris radicata L.",
+            "id": "1355872",
+            "score": 0.00318
+        },
+        {
+            "name": "Crepis setosa Haller f.",
+            "id": "1361760",
+            "score": 0.00218
+        },
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.00167
+        },
+        {
+            "name": "Cirsium arvense (L.) Scop.",
+            "id": "1355936",
+            "score": 0.00126
+        },
+        {
+            "name": "Centaurea aspera L.",
+            "id": "1357401",
+            "score": 0.00102
+        }
+    ]
+}

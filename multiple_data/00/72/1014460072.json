@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Medicago sativa L.",
+            "id": "1363732",
+            "score": 0.90727
+        },
+        {
+            "name": "Medicago × varia Martyn",
+            "id": "1581623",
+            "score": 0.02756
+        },
+        {
+            "name": "Medicago falcata L.",
+            "id": "1363729",
+            "score": 0.00203
+        },
+        {
+            "name": "Trigonella foenum-graecum L.",
+            "id": "1363680",
+            "score": 0.00144
+        },
+        {
+            "name": "Astragalus onobrychis L.",
+            "id": "1359139",
+            "score": 0.0012
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pyrus spinosa Forssk.",
+            "id": "1395014",
+            "score": 0.96763
+        },
+        {
+            "name": "Pyrus salicifolia Pall.",
+            "id": "1395004",
+            "score": 0.00585
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.00528
+        },
+        {
+            "name": "Pyrus elaeagrifolia Pall.",
+            "id": "1745199",
+            "score": 0.00271
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.00192
+        },
+        {
+            "name": "Pyrus nivalis Jacq.",
+            "id": "1395009",
+            "score": 0.00133
+        },
+        {
+            "name": "Pyrus cordata Desv.",
+            "id": "1360328",
+            "score": 0.00101
+        }
+    ]
+}

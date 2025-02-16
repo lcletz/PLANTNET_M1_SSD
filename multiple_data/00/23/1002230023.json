@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Triticum aestivum L.",
+            "id": "1363483",
+            "score": 0.95699
+        },
+        {
+            "name": "Zea mays L.",
+            "id": "1363500",
+            "score": 0.0019
+        },
+        {
+            "name": "Eleusine tristachya (Lam.) Lam.",
+            "id": "1363413",
+            "score": 0.00138
+        },
+        {
+            "name": "Triticum turgidum L.",
+            "id": "1363487",
+            "score": 0.0013
+        },
+        {
+            "name": "Phalaris aquatica L.",
+            "id": "1363489",
+            "score": 0.00114
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Drosera rotundifolia L.",
+            "id": "1391796",
+            "score": 0.94045
+        },
+        {
+            "name": "Drosera capillaris Poir.",
+            "id": "1405265",
+            "score": 0.02218
+        },
+        {
+            "name": "Drosera brevifolia Pursh",
+            "id": "1407139",
+            "score": 0.00377
+        },
+        {
+            "name": "Drosera anglica Huds.",
+            "id": "1411820",
+            "score": 0.00324
+        },
+        {
+            "name": "Drosera intermedia Hayne",
+            "id": "1391793",
+            "score": 0.00162
+        },
+        {
+            "name": "Drosera madagascariensis DC.",
+            "id": "1383982",
+            "score": 0.0011
+        },
+        {
+            "name": "Drosera uniflora Willd.",
+            "id": "1536408",
+            "score": 0.00107
+        }
+    ]
+}

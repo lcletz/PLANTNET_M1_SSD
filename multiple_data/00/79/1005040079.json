@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Corylus cornuta Marshall",
+            "id": "1411559",
+            "score": 0.71411
+        },
+        {
+            "name": "Corylus avellana L.",
+            "id": "1391368",
+            "score": 0.20735
+        },
+        {
+            "name": "Corylus maxima Mill.",
+            "id": "1391369",
+            "score": 0.01417
+        },
+        {
+            "name": "Alnus incana (L.) Moench",
+            "id": "1397308",
+            "score": 0.00911
+        },
+        {
+            "name": "Corylus colurna L.",
+            "id": "1397579",
+            "score": 0.00765
+        },
+        {
+            "name": "Alnus alnobetula (Ehrh.) K.Koch",
+            "id": "1392943",
+            "score": 0.00571
+        },
+        {
+            "name": "Hamamelis virginiana L.",
+            "id": "1397621",
+            "score": 0.00255
+        },
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.00221
+        },
+        {
+            "name": "Corylus americana Walter",
+            "id": "1411558",
+            "score": 0.00139
+        }
+    ]
+}

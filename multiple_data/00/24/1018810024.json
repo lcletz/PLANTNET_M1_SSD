@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Salvia pratensis L.",
+            "id": "1395913",
+            "score": 0.91013
+        },
+        {
+            "name": "Salvia × sylvestris L.",
+            "id": "1563105",
+            "score": 0.032
+        },
+        {
+            "name": "Salvia verbenaca L.",
+            "id": "1356115",
+            "score": 0.00547
+        },
+        {
+            "name": "Horminum pyrenaicum L.",
+            "id": "1393213",
+            "score": 0.00253
+        },
+        {
+            "name": "Salvia argentea L.",
+            "id": "1358860",
+            "score": 0.00213
+        },
+        {
+            "name": "Campanula spicata L.",
+            "id": "1390675",
+            "score": 0.00147
+        },
+        {
+            "name": "Salvia nemorosa L.",
+            "id": "1397479",
+            "score": 0.00132
+        }
+    ]
+}

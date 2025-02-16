@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Jasminum polyanthum Franch.",
+            "id": "1383126",
+            "score": 0.7785
+        },
+        {
+            "name": "Jasminum officinale L.",
+            "id": "1359673",
+            "score": 0.13217
+        },
+        {
+            "name": "Jasminum grandiflorum L.",
+            "id": "1359672",
+            "score": 0.00969
+        },
+        {
+            "name": "Pandorea jasminoides (Lindl.) K.Schum.",
+            "id": "1408456",
+            "score": 0.00367
+        },
+        {
+            "name": "Nandina domestica Thunb.",
+            "id": "1409295",
+            "score": 0.00142
+        }
+    ]
+}

@@ -1,0 +1,415 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Acacia acanthaster Maslin",
+            "id": "1567891",
+            "score": 0.43867
+        },
+        {
+            "name": "Robinia pseudoacacia L.",
+            "id": "1363698",
+            "score": 0.27406
+        },
+        {
+            "name": "Robinia viscosa Michx. ex Vent.",
+            "id": "1742844",
+            "score": 0.1938
+        },
+        {
+            "name": "Pongamia pinnata (L.) Pierre",
+            "id": "1408557",
+            "score": 0.15216
+        },
+        {
+            "name": "Styphnolobium japonicum (L.) Schott",
+            "id": "1369068",
+            "score": 0.06683
+        },
+        {
+            "name": "Clitoria ternatea L.",
+            "id": "1362003",
+            "score": 0.02361
+        },
+        {
+            "name": "Desmodium paniculatum (L.) DC.",
+            "id": "1411731",
+            "score": 0.01556
+        },
+        {
+            "name": "Canavalia cathartica Thouars",
+            "id": "1366546",
+            "score": 0.01364
+        },
+        {
+            "name": "Lablab purpureus (L.) Sweet",
+            "id": "1359263",
+            "score": 0.01304
+        },
+        {
+            "name": "Centrosema pubescens Benth.",
+            "id": "1368938",
+            "score": 0.00982
+        },
+        {
+            "name": "Lathyrus odoratus L.",
+            "id": "1363802",
+            "score": 0.00951
+        },
+        {
+            "name": "Vigna unguiculata (L.) Walp.",
+            "id": "1359585",
+            "score": 0.00808
+        },
+        {
+            "name": "Robinia hispida L.",
+            "id": "1395210",
+            "score": 0.00759
+        },
+        {
+            "name": "Lathyrus sativus L.",
+            "id": "1363804",
+            "score": 0.00716
+        },
+        {
+            "name": "Hardenbergia violacea (Schneev.) Stearn",
+            "id": "1578332",
+            "score": 0.00708
+        },
+        {
+            "name": "Psophocarpus tetragonolobus (L.) DC.",
+            "id": "1368993",
+            "score": 0.00705
+        },
+        {
+            "name": "Wisteria sinensis (Sims) DC.",
+            "id": "1422166",
+            "score": 0.00693
+        },
+        {
+            "name": "Baphia nitida G.Lodd.",
+            "id": "1719800",
+            "score": 0.00543
+        },
+        {
+            "name": "Lathyrus clymenum L.",
+            "id": "1363799",
+            "score": 0.00539
+        },
+        {
+            "name": "Wisteria floribunda (Willd.) DC.",
+            "id": "1397228",
+            "score": 0.00509
+        },
+        {
+            "name": "Baphia bequaertii De Wild.",
+            "id": "1368327",
+            "score": 0.00494
+        },
+        {
+            "name": "Derris trifoliata Lour.",
+            "id": "1367788",
+            "score": 0.0048
+        },
+        {
+            "name": "Lotus tetragonolobus L.",
+            "id": "1393649",
+            "score": 0.0046
+        },
+        {
+            "name": "Tephrosia noctiflora Bojer ex Baker",
+            "id": "1368052",
+            "score": 0.00455
+        },
+        {
+            "name": "Crotalaria verrucosa L.",
+            "id": "1367369",
+            "score": 0.00433
+        },
+        {
+            "name": "Desmodium uncinatum (Jacq.) DC.",
+            "id": "1366583",
+            "score": 0.00413
+        },
+        {
+            "name": "Centrosema plumieri (Turpin ex Pers.) Benth.",
+            "id": "1405694",
+            "score": 0.00403
+        },
+        {
+            "name": "Vigna vexillata (L.) A.Rich.",
+            "id": "1406692",
+            "score": 0.00397
+        },
+        {
+            "name": "Antirrhinum graniticum Rothm.",
+            "id": "1400022",
+            "score": 0.00377
+        },
+        {
+            "name": "Lathyrus oleraceus Lam.",
+            "id": "1741625",
+            "score": 0.00375
+        },
+        {
+            "name": "Gliricidia sepium (Jacq.) Kunth",
+            "id": "1748498",
+            "score": 0.00368
+        },
+        {
+            "name": "Myrospermum frutescens Jacq.",
+            "id": "1423643",
+            "score": 0.00365
+        },
+        {
+            "name": "Cladrastis kentukea (Dum.Cours.) Rudd",
+            "id": "1418918",
+            "score": 0.00363
+        },
+        {
+            "name": "Vicia lutea L.",
+            "id": "1359565",
+            "score": 0.00355
+        },
+        {
+            "name": "Vicia hybrida L.",
+            "id": "1359562",
+            "score": 0.00348
+        },
+        {
+            "name": "Canavalia rosea (Sw.) DC.",
+            "id": "1366543",
+            "score": 0.00343
+        },
+        {
+            "name": "Aganope stuhlmannii (Taub.) Adema",
+            "id": "1381427",
+            "score": 0.00332
+        },
+        {
+            "name": "Tephrosia villosa (L.) Pers.",
+            "id": "1356329",
+            "score": 0.0033
+        },
+        {
+            "name": "Galactia elliottii Nutt.",
+            "id": "1443822",
+            "score": 0.00323
+        },
+        {
+            "name": "Clitoria javitensis (Kunth) Benth.",
+            "id": "1423716",
+            "score": 0.00293
+        },
+        {
+            "name": "Sesbania grandiflora (L.) Poir.",
+            "id": "1408698",
+            "score": 0.00293
+        },
+        {
+            "name": "Cicer arietinum L.",
+            "id": "1363794",
+            "score": 0.0029
+        },
+        {
+            "name": "Dendrolobium umbellatum (L.) Benth.",
+            "id": "1407923",
+            "score": 0.00279
+        },
+        {
+            "name": "Lathyrus tingitanus L.",
+            "id": "1359283",
+            "score": 0.00278
+        },
+        {
+            "name": "Tephrosia candida DC.",
+            "id": "1368134",
+            "score": 0.00273
+        },
+        {
+            "name": "Strophostyles helvola (L.) Elliott",
+            "id": "1413937",
+            "score": 0.00273
+        },
+        {
+            "name": "Vicia grandiflora Scop.",
+            "id": "1397092",
+            "score": 0.0027
+        },
+        {
+            "name": "Cercis canadensis L.",
+            "id": "1397806",
+            "score": 0.00258
+        },
+        {
+            "name": "Tephrosia pumila (Lam.) Pers.",
+            "id": "1408760",
+            "score": 0.00256
+        },
+        {
+            "name": "Phaseolus vulgaris L.",
+            "id": "1394501",
+            "score": 0.0024
+        },
+        {
+            "name": "Canavalia gladiata (Jacq.) DC.",
+            "id": "1409435",
+            "score": 0.00239
+        },
+        {
+            "name": "Swainsona galegifolia (Andrews) R.Br.",
+            "id": "1586761",
+            "score": 0.00232
+        },
+        {
+            "name": "Baphia massaiensis Taub.",
+            "id": "1432556",
+            "score": 0.00227
+        },
+        {
+            "name": "Sesbania punicea (Cav.) Benth.",
+            "id": "1368199",
+            "score": 0.00213
+        },
+        {
+            "name": "Angraecum eburneum Bory",
+            "id": "1379531",
+            "score": 0.00202
+        },
+        {
+            "name": "Platymiscium pinnatum (Jacq.) Dugand",
+            "id": "1402873",
+            "score": 0.00192
+        },
+        {
+            "name": "Cercis occidentalis Torr. ex A.Gray",
+            "id": "1397805",
+            "score": 0.00189
+        },
+        {
+            "name": "Tephrosia purpurea (L.) Pers.",
+            "id": "1359476",
+            "score": 0.00189
+        },
+        {
+            "name": "Lamprocapnos spectabilis (L.) Fukuhara",
+            "id": "1419840",
+            "score": 0.00166
+        },
+        {
+            "name": "Bauhinia acuminata L.",
+            "id": "1366771",
+            "score": 0.00165
+        },
+        {
+            "name": "Cercis siliquastrum L.",
+            "id": "1359162",
+            "score": 0.00161
+        },
+        {
+            "name": "Burmannia bicolor Mart.",
+            "id": "1407648",
+            "score": 0.0016
+        },
+        {
+            "name": "Platymiscium floribundum Vogel",
+            "id": "1584394",
+            "score": 0.00157
+        },
+        {
+            "name": "Canavalia ensiformis (L.) DC.",
+            "id": "1366542",
+            "score": 0.00148
+        },
+        {
+            "name": "Centrosema virginianum (L.) Benth.",
+            "id": "1368939",
+            "score": 0.00143
+        },
+        {
+            "name": "Aniseia martinicensis (Jacq.) Choisy",
+            "id": "1368260",
+            "score": 0.0014
+        },
+        {
+            "name": "Neustanthus phaseoloides (Roxb.) Benth.",
+            "id": "1719113",
+            "score": 0.00134
+        },
+        {
+            "name": "Lathyrus angulatus L.",
+            "id": "1359266",
+            "score": 0.00131
+        },
+        {
+            "name": "Thymus capitellatus Hoffmanns. & Link",
+            "id": "1564502",
+            "score": 0.00126
+        },
+        {
+            "name": "Crotalaria mitchellii Benth.",
+            "id": "1575805",
+            "score": 0.00126
+        },
+        {
+            "name": "Macrotyloma axillare (E.Mey.) Verdc.",
+            "id": "1408337",
+            "score": 0.00123
+        },
+        {
+            "name": "Bikkia tetrandra (L.f.) A.Rich.",
+            "id": "1427079",
+            "score": 0.00123
+        },
+        {
+            "name": "Coursetia brachyrhachis Harms",
+            "id": "1575429",
+            "score": 0.00118
+        },
+        {
+            "name": "Hardenbergia comptoniana (Andrews) Benth.",
+            "id": "1578330",
+            "score": 0.00118
+        },
+        {
+            "name": "Lathyrus ochrus (L.) DC.",
+            "id": "1359279",
+            "score": 0.00111
+        },
+        {
+            "name": "Oxytropis campestris (L.) DC.",
+            "id": "1397451",
+            "score": 0.0011
+        },
+        {
+            "name": "Hedychium coronarium J.Koenig",
+            "id": "1403746",
+            "score": 0.00109
+        },
+        {
+            "name": "Cenostigma pluviosum (DC.) Gagnon & G.P.Lewis",
+            "id": "1735429",
+            "score": 0.00107
+        },
+        {
+            "name": "Crotalaria micans Link",
+            "id": "1367365",
+            "score": 0.00107
+        },
+        {
+            "name": "Desmodium incanum (Sw.) DC.",
+            "id": "1366560",
+            "score": 0.00107
+        },
+        {
+            "name": "Sesbania vesicaria (Jacq.) Elliott",
+            "id": "1438152",
+            "score": 0.00104
+        },
+        {
+            "name": "Pleurolobus gangeticus (L.) J.St.-Hil. ex H.Ohashi & K.Ohashi",
+            "id": "1719554",
+            "score": 0.00104
+        }
+    ]
+}

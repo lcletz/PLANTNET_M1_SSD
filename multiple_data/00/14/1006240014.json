@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Equisetum arvense L.",
+            "id": "1356394",
+            "score": 0.7361
+        },
+        {
+            "name": "Equisetum telmateia Ehrh.",
+            "id": "1356398",
+            "score": 0.07308
+        },
+        {
+            "name": "Equisetum palustre L.",
+            "id": "1391989",
+            "score": 0.03602
+        },
+        {
+            "name": "Equisetum pratense Ehrh.",
+            "id": "1391990",
+            "score": 0.02408
+        },
+        {
+            "name": "Equisetum fluviatile L.",
+            "id": "1356395",
+            "score": 0.02398
+        },
+        {
+            "name": "Equisetum sylvaticum L.",
+            "id": "1391994",
+            "score": 0.00718
+        },
+        {
+            "name": "Equisetum myriochaetum Schltdl. & Cham.",
+            "id": "1706075",
+            "score": 0.00129
+        }
+    ]
+}

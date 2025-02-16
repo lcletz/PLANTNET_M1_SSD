@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Gladiolus italicus Mill.",
+            "id": "1361535",
+            "score": 0.9476
+        },
+        {
+            "name": "Gladiolus palustris Gaudin",
+            "id": "1392623",
+            "score": 0.0238
+        },
+        {
+            "name": "Gladiolus illyricus W.D.J.Koch",
+            "id": "1398759",
+            "score": 0.01421
+        },
+        {
+            "name": "Gladiolus communis L.",
+            "id": "1361533",
+            "score": 0.00377
+        },
+        {
+            "name": "Gladiolus persicus Boiss.",
+            "id": "1556488",
+            "score": 0.00123
+        }
+    ]
+}

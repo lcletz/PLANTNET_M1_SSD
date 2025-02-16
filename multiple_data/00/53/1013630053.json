@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Robinia pseudoacacia L.",
+            "id": "1363698",
+            "score": 0.83851
+        },
+        {
+            "name": "Robinia viscosa Michx. ex Vent.",
+            "id": "1742844",
+            "score": 0.20582
+        },
+        {
+            "name": "Acacia acanthaster Maslin",
+            "id": "1567891",
+            "score": 0.13705
+        },
+        {
+            "name": "Robinia hispida L.",
+            "id": "1395210",
+            "score": 0.0206
+        },
+        {
+            "name": "Cladrastis kentukea (Dum.Cours.) Rudd",
+            "id": "1418918",
+            "score": 0.00724
+        },
+        {
+            "name": "Styphnolobium japonicum (L.) Schott",
+            "id": "1369068",
+            "score": 0.00306
+        },
+        {
+            "name": "Moringa oleifera Lam.",
+            "id": "1366224",
+            "score": 0.00214
+        },
+        {
+            "name": "Abrus precatorius L.",
+            "id": "1402792",
+            "score": 0.00137
+        },
+        {
+            "name": "Amorpha fruticosa L.",
+            "id": "1393787",
+            "score": 0.00106
+        }
+    ]
+}

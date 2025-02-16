@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rheum × hybridum Murray",
+            "id": "1432206",
+            "score": 0.52883
+        },
+        {
+            "name": "Rheum rhabarbarum L.",
+            "id": "1413454",
+            "score": 0.27432
+        },
+        {
+            "name": "Rheum rhaponticum L.",
+            "id": "1395161",
+            "score": 0.08274
+        },
+        {
+            "name": "Rumex alpinus L.",
+            "id": "1395643",
+            "score": 0.03623
+        },
+        {
+            "name": "Rheum officinale Baill.",
+            "id": "1420152",
+            "score": 0.01427
+        },
+        {
+            "name": "Rheum compactum L.",
+            "id": "1658537",
+            "score": 0.00886
+        },
+        {
+            "name": "Rheum palmatum L.",
+            "id": "1398842",
+            "score": 0.00293
+        },
+        {
+            "name": "Rumex confertus Willd.",
+            "id": "1398843",
+            "score": 0.00151
+        },
+        {
+            "name": "Rumex longifolius DC.",
+            "id": "1395667",
+            "score": 0.00124
+        },
+        {
+            "name": "Rheum ribes L.",
+            "id": "1425471",
+            "score": 0.00101
+        }
+    ]
+}

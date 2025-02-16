@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bryonia cretica L.",
+            "id": "1358446",
+            "score": 0.84278
+        },
+        {
+            "name": "Bryonia alba L.",
+            "id": "1389570",
+            "score": 0.06128
+        },
+        {
+            "name": "Diplocyclos palmatus (L.) C.Jeffrey",
+            "id": "1410297",
+            "score": 0.00181
+        },
+        {
+            "name": "Bryonia verrucosa Aiton",
+            "id": "1529567",
+            "score": 0.00154
+        },
+        {
+            "name": "Momordica balsamina L.",
+            "id": "1384418",
+            "score": 0.00124
+        },
+        {
+            "name": "Coccinia grandis (L.) Voigt",
+            "id": "1363157",
+            "score": 0.00121
+        },
+        {
+            "name": "Melothria pendula L.",
+            "id": "1401361",
+            "score": 0.001
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lythrum salicaria L.",
+            "id": "1356023",
+            "score": 0.88618
+        },
+        {
+            "name": "Lythrum virgatum L.",
+            "id": "1393714",
+            "score": 0.06285
+        },
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.00779
+        },
+        {
+            "name": "Lythrum hyssopifolia L.",
+            "id": "1356024",
+            "score": 0.00206
+        },
+        {
+            "name": "Veronica spicata L.",
+            "id": "1397522",
+            "score": 0.00151
+        }
+    ]
+}

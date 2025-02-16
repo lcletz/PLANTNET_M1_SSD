@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salvia verbenaca L.",
+            "id": "1356115",
+            "score": 0.65385
+        },
+        {
+            "name": "Salvia pratensis L.",
+            "id": "1395913",
+            "score": 0.12352
+        },
+        {
+            "name": "Salvia × sylvestris L.",
+            "id": "1563105",
+            "score": 0.0946
+        },
+        {
+            "name": "Stachys sylvatica L.",
+            "id": "1358950",
+            "score": 0.01431
+        },
+        {
+            "name": "Salvia verticillata L.",
+            "id": "1397480",
+            "score": 0.01206
+        },
+        {
+            "name": "Salvia glutinosa L.",
+            "id": "1395911",
+            "score": 0.00692
+        },
+        {
+            "name": "Salvia lyrata L.",
+            "id": "1437804",
+            "score": 0.0028
+        },
+        {
+            "name": "Stachys bullata Benth.",
+            "id": "1438593",
+            "score": 0.00114
+        },
+        {
+            "name": "Scutellaria columnae All.",
+            "id": "1358885",
+            "score": 0.00111
+        },
+        {
+            "name": "Stachys alpina L.",
+            "id": "1397502",
+            "score": 0.00101
+        }
+    ]
+}

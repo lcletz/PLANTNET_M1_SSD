@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus dulcis (Mill.) D.A.Webb",
+            "id": "1394948",
+            "score": 0.68902
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.01653
+        },
+        {
+            "name": "Prunus mume (Siebold) Siebold & Zucc.",
+            "id": "1420419",
+            "score": 0.00942
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.00499
+        },
+        {
+            "name": "Prunus tomentosa Thunb.",
+            "id": "1413354",
+            "score": 0.00471
+        },
+        {
+            "name": "Prunus persica (L.) Batsch",
+            "id": "1363997",
+            "score": 0.00356
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00286
+        },
+        {
+            "name": "Prunus sargentii Rehder",
+            "id": "1420426",
+            "score": 0.00196
+        },
+        {
+            "name": "Prunus subhirtella Miq.",
+            "id": "1394942",
+            "score": 0.00181
+        }
+    ]
+}

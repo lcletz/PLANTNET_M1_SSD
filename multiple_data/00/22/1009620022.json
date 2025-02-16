@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Saponaria officinalis L.",
+            "id": "1356803",
+            "score": 0.91762
+        },
+        {
+            "name": "Saponaria caespitosa DC.",
+            "id": "1395928",
+            "score": 0.00861
+        },
+        {
+            "name": "Atocion armeria (L.) Raf.",
+            "id": "1398690",
+            "score": 0.00404
+        },
+        {
+            "name": "Saponaria bellidifolia Sm.",
+            "id": "1395926",
+            "score": 0.0018
+        },
+        {
+            "name": "Silene latifolia Poir.",
+            "id": "1357009",
+            "score": 0.00142
+        }
+    ]
+}

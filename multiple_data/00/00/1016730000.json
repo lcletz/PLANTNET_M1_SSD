@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viburnum rugosum Pers.",
+            "id": "1722512",
+            "score": 0.50277
+        },
+        {
+            "name": "Viburnum tinus L.",
+            "id": "1356793",
+            "score": 0.40331
+        },
+        {
+            "name": "Viburnum davidi Franch.",
+            "id": "1774594",
+            "score": 0.00414
+        },
+        {
+            "name": "Bourreria andrieuxii (A.DC.) Hemsl.",
+            "id": "1820344",
+            "score": 0.00167
+        },
+        {
+            "name": "Psorospermum febrifugum Spach",
+            "id": "1373912",
+            "score": 0.00131
+        }
+    ]
+}

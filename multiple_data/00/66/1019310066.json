@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Geranium sylvaticum L.",
+            "id": "1392599",
+            "score": 0.66954
+        },
+        {
+            "name": "Geranium palustre L.",
+            "id": "1392591",
+            "score": 0.06733
+        },
+        {
+            "name": "Geranium pratense L.",
+            "id": "1397394",
+            "score": 0.06021
+        },
+        {
+            "name": "Geranium rivulare Vill.",
+            "id": "1392595",
+            "score": 0.00821
+        },
+        {
+            "name": "Geranium phaeum L.",
+            "id": "1392592",
+            "score": 0.00343
+        },
+        {
+            "name": "Geranium ibericum Cav.",
+            "id": "1397393",
+            "score": 0.00338
+        },
+        {
+            "name": "Geranium argenteum L.",
+            "id": "1392579",
+            "score": 0.00224
+        },
+        {
+            "name": "Geranium sibiricum L.",
+            "id": "1392598",
+            "score": 0.0022
+        },
+        {
+            "name": "Geranium pyrenaicum Burm.f.",
+            "id": "1397395",
+            "score": 0.00127
+        }
+    ]
+}

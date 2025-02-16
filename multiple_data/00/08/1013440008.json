@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Orchis mascula (L.) L.",
+            "id": "1361682",
+            "score": 0.76092
+        },
+        {
+            "name": "Orchis olbiensis Reut. ex Gren.",
+            "id": "1361683",
+            "score": 0.11738
+        },
+        {
+            "name": "Anacamptis laxiflora (Lam.) R.M.Bateman, Pridgeon & M.W.Chase",
+            "id": "1393873",
+            "score": 0.00379
+        },
+        {
+            "name": "Dactylorhiza elata (Poir.) Soó",
+            "id": "1361640",
+            "score": 0.00345
+        },
+        {
+            "name": "Anacamptis palustris (Jacq.) R.M.Bateman, Pridgeon & M.W.Chase",
+            "id": "1393879",
+            "score": 0.00226
+        },
+        {
+            "name": "Anacamptis morio (L.) R.M.Bateman, Pridgeon & M.W.Chase",
+            "id": "1393877",
+            "score": 0.00198
+        }
+    ]
+}

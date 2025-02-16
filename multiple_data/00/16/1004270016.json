@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aconitum lycoctonum L.",
+            "id": "1395010",
+            "score": 0.9799
+        },
+        {
+            "name": "Aconitum vulparia Rchb.",
+            "id": "1360146",
+            "score": 0.00391
+        },
+        {
+            "name": "Aconitum variegatum L.",
+            "id": "1396228",
+            "score": 0.00158
+        },
+        {
+            "name": "Aconitum napellus L.",
+            "id": "1395208",
+            "score": 0.00122
+        },
+        {
+            "name": "Aconitum septentrionale Koelle",
+            "id": "1663152",
+            "score": 0.00107
+        }
+    ]
+}

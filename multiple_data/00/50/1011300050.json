@@ -1,0 +1,360 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunella vulgaris L.",
+            "id": "1356109",
+            "score": 0.19644
+        },
+        {
+            "name": "Plantago lanceolata L.",
+            "id": "1356066",
+            "score": 0.1567
+        },
+        {
+            "name": "Phyteuma nigrum F.W.Schmidt",
+            "id": "1394547",
+            "score": 0.06405
+        },
+        {
+            "name": "Phyteuma spicatum L.",
+            "id": "1394555",
+            "score": 0.02433
+        },
+        {
+            "name": "Plantago argentea Chaix",
+            "id": "1394627",
+            "score": 0.01912
+        },
+        {
+            "name": "Campanula patula L.",
+            "id": "1390669",
+            "score": 0.0097
+        },
+        {
+            "name": "Phyteuma betonicifolium Vill.",
+            "id": "1394536",
+            "score": 0.00818
+        },
+        {
+            "name": "Crepis biennis L.",
+            "id": "1391445",
+            "score": 0.00708
+        },
+        {
+            "name": "Setaria pumila (Poir.) Roem. & Schult.",
+            "id": "1363386",
+            "score": 0.00705
+        },
+        {
+            "name": "Anacamptis pyramidalis (L.) Rich.",
+            "id": "1361634",
+            "score": 0.00675
+        },
+        {
+            "name": "Verbena hastata L.",
+            "id": "1398136",
+            "score": 0.0052
+        },
+        {
+            "name": "Prunella grandiflora (L.) Turra",
+            "id": "1737424",
+            "score": 0.0051
+        },
+        {
+            "name": "Scabiosa columbaria L.",
+            "id": "1361926",
+            "score": 0.00486
+        },
+        {
+            "name": "Prunella laciniata (L.) L.",
+            "id": "1358854",
+            "score": 0.00467
+        },
+        {
+            "name": "Equisetum arvense L.",
+            "id": "1356394",
+            "score": 0.00405
+        },
+        {
+            "name": "Carex spicata Huds.",
+            "id": "1361082",
+            "score": 0.00392
+        },
+        {
+            "name": "Verbena officinalis L.",
+            "id": "1360860",
+            "score": 0.00362
+        },
+        {
+            "name": "Carex otrubae Podp.",
+            "id": "1390879",
+            "score": 0.0036
+        },
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.00356
+        },
+        {
+            "name": "Gymnadenia conopsea (L.) R.Br.",
+            "id": "1392661",
+            "score": 0.00335
+        },
+        {
+            "name": "Viola arvensis Murray",
+            "id": "1356214",
+            "score": 0.00331
+        },
+        {
+            "name": "Galium aparine L.",
+            "id": "1360385",
+            "score": 0.00295
+        },
+        {
+            "name": "Geranium dissectum L.",
+            "id": "1356007",
+            "score": 0.00282
+        },
+        {
+            "name": "Phyteuma ovatum Honck.",
+            "id": "1394551",
+            "score": 0.00279
+        },
+        {
+            "name": "Centaurea nigra L.",
+            "id": "1357438",
+            "score": 0.00269
+        },
+        {
+            "name": "Triodanis perfoliata (L.) Nieuwl.",
+            "id": "1414099",
+            "score": 0.00257
+        },
+        {
+            "name": "Carex distans L.",
+            "id": "1356275",
+            "score": 0.00254
+        },
+        {
+            "name": "Ajuga reptans L.",
+            "id": "1358718",
+            "score": 0.00242
+        },
+        {
+            "name": "Liatris spicata (L.) Willd.",
+            "id": "1398122",
+            "score": 0.0024
+        },
+        {
+            "name": "Scutellaria galericulata L.",
+            "id": "1396137",
+            "score": 0.00219
+        },
+        {
+            "name": "Jasione montana L.",
+            "id": "1356766",
+            "score": 0.00218
+        },
+        {
+            "name": "Sisyrinchium angustifolium Mill.",
+            "id": "1396314",
+            "score": 0.00218
+        },
+        {
+            "name": "Betonica officinalis L.",
+            "id": "1400126",
+            "score": 0.00216
+        },
+        {
+            "name": "Setaria verticillata (L.) P.Beauv.",
+            "id": "1396252",
+            "score": 0.0021
+        },
+        {
+            "name": "Centaurea nervosa Willd.",
+            "id": "1391023",
+            "score": 0.00205
+        },
+        {
+            "name": "Centaurea jacea L.",
+            "id": "1362427",
+            "score": 0.00191
+        },
+        {
+            "name": "Phyteuma orbiculare L.",
+            "id": "1394548",
+            "score": 0.00188
+        },
+        {
+            "name": "Carex hirta L.",
+            "id": "1361058",
+            "score": 0.00186
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.00182
+        },
+        {
+            "name": "Carex vulpina L.",
+            "id": "1390933",
+            "score": 0.00178
+        },
+        {
+            "name": "Carex vulpinoidea Michx.",
+            "id": "1390934",
+            "score": 0.00176
+        },
+        {
+            "name": "Plantago major L.",
+            "id": "1356067",
+            "score": 0.00176
+        },
+        {
+            "name": "Salvia pratensis L.",
+            "id": "1395913",
+            "score": 0.00176
+        },
+        {
+            "name": "Campanula glomerata L.",
+            "id": "1390663",
+            "score": 0.00174
+        },
+        {
+            "name": "Scabiosa lucida Vill.",
+            "id": "1397488",
+            "score": 0.00174
+        },
+        {
+            "name": "Reseda luteola L.",
+            "id": "1363978",
+            "score": 0.00168
+        },
+        {
+            "name": "Lamium hybridum Vill.",
+            "id": "1358751",
+            "score": 0.00166
+        },
+        {
+            "name": "Verbena brasiliensis Vell.",
+            "id": "1378797",
+            "score": 0.00163
+        },
+        {
+            "name": "Lythrum salicaria L.",
+            "id": "1356023",
+            "score": 0.00161
+        },
+        {
+            "name": "Viola tricolor L.",
+            "id": "1356215",
+            "score": 0.00159
+        },
+        {
+            "name": "Centaurea nigrescens Willd.",
+            "id": "1391025",
+            "score": 0.00156
+        },
+        {
+            "name": "Crepis capillaris (L.) Wallr.",
+            "id": "1355869",
+            "score": 0.00147
+        },
+        {
+            "name": "Centaurea cyanus L.",
+            "id": "1411387",
+            "score": 0.00145
+        },
+        {
+            "name": "Rumex acetosa L.",
+            "id": "1360120",
+            "score": 0.00144
+        },
+        {
+            "name": "Ranunculus acris L.",
+            "id": "1360187",
+            "score": 0.00144
+        },
+        {
+            "name": "Senecio squalidus L.",
+            "id": "1357867",
+            "score": 0.00142
+        },
+        {
+            "name": "Knautia arvensis (L.) Coult.",
+            "id": "1362327",
+            "score": 0.00142
+        },
+        {
+            "name": "Plantago ovata Forssk.",
+            "id": "1356072",
+            "score": 0.00136
+        },
+        {
+            "name": "Echinochloa crus-galli (L.) P.Beauv.",
+            "id": "1391823",
+            "score": 0.0013
+        },
+        {
+            "name": "Campanula rapunculus L.",
+            "id": "1356752",
+            "score": 0.00128
+        },
+        {
+            "name": "Orobanche elatior Sutton",
+            "id": "1394332",
+            "score": 0.00128
+        },
+        {
+            "name": "Carex flacca Schreb.",
+            "id": "1361055",
+            "score": 0.00121
+        },
+        {
+            "name": "Knautia dipsacifolia Kreutzer",
+            "id": "1491358",
+            "score": 0.0012
+        },
+        {
+            "name": "Bistorta officinalis Delarbre",
+            "id": "1400175",
+            "score": 0.0012
+        },
+        {
+            "name": "Campanula rotundifolia L.",
+            "id": "1362422",
+            "score": 0.00118
+        },
+        {
+            "name": "Ajuga genevensis L.",
+            "id": "1391853",
+            "score": 0.0011
+        },
+        {
+            "name": "Dactylorhiza majalis (Rchb.) P.F.Hunt & Summerh.",
+            "id": "1391596",
+            "score": 0.00109
+        },
+        {
+            "name": "Succisa pratensis Moench",
+            "id": "1358491",
+            "score": 0.00108
+        },
+        {
+            "name": "Phyteuma scorzonerifolium Vill.",
+            "id": "1394553",
+            "score": 0.00105
+        },
+        {
+            "name": "Ranunculus repens L.",
+            "id": "1360222",
+            "score": 0.00103
+        },
+        {
+            "name": "Erigeron strigosus Muhl. ex Willd.",
+            "id": "1411968",
+            "score": 0.00102
+        }
+    ]
+}

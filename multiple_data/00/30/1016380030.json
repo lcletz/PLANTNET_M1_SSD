@@ -1,0 +1,455 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Thymbra capitata (L.) Cav.",
+            "id": "1359029",
+            "score": 0.23819
+        },
+        {
+            "name": "Erica arborea L.",
+            "id": "1358503",
+            "score": 0.18922
+        },
+        {
+            "name": "Calluna vulgaris (L.) Hull",
+            "id": "1358501",
+            "score": 0.09139
+        },
+        {
+            "name": "Erica umbellata L.",
+            "id": "1358514",
+            "score": 0.06353
+        },
+        {
+            "name": "Parastrephia quadrangularis (Meyen) Cabrera",
+            "id": "1516735",
+            "score": 0.0573
+        },
+        {
+            "name": "Erica scoparia L.",
+            "id": "1358511",
+            "score": 0.05643
+        },
+        {
+            "name": "Erica manipuliflora Salisb.",
+            "id": "1399165",
+            "score": 0.05096
+        },
+        {
+            "name": "Erica reunionensis E.G.H.Oliv.",
+            "id": "1408038",
+            "score": 0.03828
+        },
+        {
+            "name": "Erica australis L.",
+            "id": "1358504",
+            "score": 0.03438
+        },
+        {
+            "name": "Juniperus phoenicea L.",
+            "id": "1393366",
+            "score": 0.02551
+        },
+        {
+            "name": "Artemisia herba-alba Asso",
+            "id": "1357277",
+            "score": 0.025
+        },
+        {
+            "name": "Juniperus turbinata Guss.",
+            "id": "1743226",
+            "score": 0.02413
+        },
+        {
+            "name": "Coleonema pulchrum Hook.",
+            "id": "1682437",
+            "score": 0.02139
+        },
+        {
+            "name": "Thymelaea hirsuta (L.) Endl.",
+            "id": "1360595",
+            "score": 0.01551
+        },
+        {
+            "name": "Allenrolfea patagonica (Moq.) Kuntze",
+            "id": "1450479",
+            "score": 0.01418
+        },
+        {
+            "name": "Juniperus sabina L.",
+            "id": "1393367",
+            "score": 0.01179
+        },
+        {
+            "name": "Salicornia fruticosa (L.) L.",
+            "id": "1722522",
+            "score": 0.01103
+        },
+        {
+            "name": "Seriphium passerinoides Lam.",
+            "id": "1763029",
+            "score": 0.01102
+        },
+        {
+            "name": "Corema conradii (Torr.) Torr. ex Loudon",
+            "id": "1411537",
+            "score": 0.0087
+        },
+        {
+            "name": "Baccharis pilularis DC.",
+            "id": "1440015",
+            "score": 0.00803
+        },
+        {
+            "name": "Schizogyne sericea (L.f.) DC.",
+            "id": "1519422",
+            "score": 0.00772
+        },
+        {
+            "name": "Empetrum nigrum L.",
+            "id": "1391868",
+            "score": 0.00569
+        },
+        {
+            "name": "Veronica cupressoides Hook.f.",
+            "id": "1419957",
+            "score": 0.00556
+        },
+        {
+            "name": "Chuquiraga avellanedae Lorentz",
+            "id": "1503620",
+            "score": 0.00477
+        },
+        {
+            "name": "Suaeda vera Forssk. ex J.F.Gmel.",
+            "id": "1397505",
+            "score": 0.00472
+        },
+        {
+            "name": "Pteropyrum aucheri Jaub. & Spach",
+            "id": "1658526",
+            "score": 0.00447
+        },
+        {
+            "name": "Microcachrys tetragona (Hook.) Hook.f.",
+            "id": "1701865",
+            "score": 0.0038
+        },
+        {
+            "name": "Sarcobatus vermiculatus (Hook.) Torr.",
+            "id": "1413667",
+            "score": 0.00377
+        },
+        {
+            "name": "Erica azorica Hochst. ex Seub.",
+            "id": "1748135",
+            "score": 0.00374
+        },
+        {
+            "name": "Melaleuca armillaris (Sol. ex Gaertn.) Sm.",
+            "id": "1419565",
+            "score": 0.0037
+        },
+        {
+            "name": "Erica madagascariensis (H.Perrier) Dorr & E.G.H.Oliv.",
+            "id": "1539096",
+            "score": 0.00366
+        },
+        {
+            "name": "Erica jumellei (H.Perrier) Dorr & E.G.H.Oliv.",
+            "id": "1539024",
+            "score": 0.00354
+        },
+        {
+            "name": "Erica tristis Bartl.",
+            "id": "1539411",
+            "score": 0.00333
+        },
+        {
+            "name": "Thymus carnosus Boiss.",
+            "id": "1398822",
+            "score": 0.00296
+        },
+        {
+            "name": "Selaginella bigelovii Underw.",
+            "id": "1710189",
+            "score": 0.0028
+        },
+        {
+            "name": "Genista pilosa L.",
+            "id": "1392521",
+            "score": 0.00279
+        },
+        {
+            "name": "Purshia tridentata (Pursh) DC.",
+            "id": "1413386",
+            "score": 0.00272
+        },
+        {
+            "name": "Salsola drummondii Ulbr.",
+            "id": "1451830",
+            "score": 0.00269
+        },
+        {
+            "name": "Satureja intricata Lange",
+            "id": "1398783",
+            "score": 0.00264
+        },
+        {
+            "name": "Erica comorensis (Engl.) Dorr & E.G.H.Oliv.",
+            "id": "1538799",
+            "score": 0.0026
+        },
+        {
+            "name": "Genista desoleana Vals.",
+            "id": "1392512",
+            "score": 0.00259
+        },
+        {
+            "name": "Limonium tuberculatum (Boiss.) Kuntze",
+            "id": "1363966",
+            "score": 0.00252
+        },
+        {
+            "name": "Melaleuca ericifolia Sm.",
+            "id": "1605582",
+            "score": 0.00251
+        },
+        {
+            "name": "Thymus vulgaris L.",
+            "id": "1356108",
+            "score": 0.00247
+        },
+        {
+            "name": "Sarcopoterium spinosum (L.) Spach",
+            "id": "1360363",
+            "score": 0.00234
+        },
+        {
+            "name": "Ononis tridentata L.",
+            "id": "1359435",
+            "score": 0.00229
+        },
+        {
+            "name": "Baccharis patagonica Hook. & Arn.",
+            "id": "1500723",
+            "score": 0.00222
+        },
+        {
+            "name": "Leptospermum rupestre Hook.f.",
+            "id": "1605384",
+            "score": 0.00212
+        },
+        {
+            "name": "Juncus maritimus Lam.",
+            "id": "1361581",
+            "score": 0.00212
+        },
+        {
+            "name": "Euphorbia spinosa L.",
+            "id": "1358592",
+            "score": 0.00209
+        },
+        {
+            "name": "Pyrostria phyllanthoidea (Baill.) Bridson",
+            "id": "1371912",
+            "score": 0.00208
+        },
+        {
+            "name": "Rhamnus lycioides L.",
+            "id": "1360267",
+            "score": 0.00198
+        },
+        {
+            "name": "Erica vagans L.",
+            "id": "1361800",
+            "score": 0.00186
+        },
+        {
+            "name": "Santolina chamaecyparissus L.",
+            "id": "1395922",
+            "score": 0.00174
+        },
+        {
+            "name": "Parastrephia lucida (Meyen) Cabrera",
+            "id": "1516734",
+            "score": 0.00173
+        },
+        {
+            "name": "Melaleuca thymifolia Sm.",
+            "id": "1605731",
+            "score": 0.00173
+        },
+        {
+            "name": "Erica galioides Lam.",
+            "id": "1408036",
+            "score": 0.00169
+        },
+        {
+            "name": "Leschenaultia biloba Lindl.",
+            "id": "1810125",
+            "score": 0.00159
+        },
+        {
+            "name": "Thymus piperella L.",
+            "id": "1361833",
+            "score": 0.00158
+        },
+        {
+            "name": "Soda oppositifolia (Desf.) Akhani",
+            "id": "1743354",
+            "score": 0.00153
+        },
+        {
+            "name": "Cistus clusii Dunal",
+            "id": "1357098",
+            "score": 0.00153
+        },
+        {
+            "name": "Leptospermum rotundifolium (Maiden & Betche) F.A.Rodway",
+            "id": "1605383",
+            "score": 0.0015
+        },
+        {
+            "name": "Salvia dentata Aiton",
+            "id": "1562546",
+            "score": 0.00146
+        },
+        {
+            "name": "Ozothamnus leptophyllus (G.Forst.) Breitw. & J.M.Ward",
+            "id": "1417873",
+            "score": 0.00146
+        },
+        {
+            "name": "Baccharis melanopotamica Speg.",
+            "id": "1500672",
+            "score": 0.00145
+        },
+        {
+            "name": "Erica coarctata J.C.Wendl.",
+            "id": "1538793",
+            "score": 0.0014
+        },
+        {
+            "name": "Herniaria fruticosa L.",
+            "id": "1362319",
+            "score": 0.00134
+        },
+        {
+            "name": "Melaleuca maxwellii (F.Muell.) Craven & R.D.Edwards",
+            "id": "1809704",
+            "score": 0.00133
+        },
+        {
+            "name": "Anthyllis cytisoides L.",
+            "id": "1359082",
+            "score": 0.00131
+        },
+        {
+            "name": "Rhodanthe oppositifolia (S.Moore) Paul G.Wilson",
+            "id": "1518704",
+            "score": 0.00129
+        },
+        {
+            "name": "Erica arborescens (Willd.) E.G.H.Oliv.",
+            "id": "1408035",
+            "score": 0.00129
+        },
+        {
+            "name": "Brachypodium distachyon (L.) P.Beauv.",
+            "id": "1388770",
+            "score": 0.00129
+        },
+        {
+            "name": "Leschenaultia floribunda Benth.",
+            "id": "1810127",
+            "score": 0.00127
+        },
+        {
+            "name": "Rhamnus alaternus L.",
+            "id": "1360260",
+            "score": 0.00126
+        },
+        {
+            "name": "Thymus hyemalis Lange",
+            "id": "1359039",
+            "score": 0.00126
+        },
+        {
+            "name": "Erica mannii (Hook.f.) Beentje",
+            "id": "1539105",
+            "score": 0.00117
+        },
+        {
+            "name": "Purshia glandulosa Curran",
+            "id": "1437047",
+            "score": 0.00115
+        },
+        {
+            "name": "Pleurophora patagonica Speg.",
+            "id": "1591074",
+            "score": 0.00115
+        },
+        {
+            "name": "Quercus coccifera L.",
+            "id": "1358613",
+            "score": 0.00115
+        },
+        {
+            "name": "Thesium compressum Boiss. & Heldr.",
+            "id": "1768632",
+            "score": 0.00114
+        },
+        {
+            "name": "Philotheca buxifolia (Sm.) Paul G.Wilson",
+            "id": "1805473",
+            "score": 0.00114
+        },
+        {
+            "name": "Hudsonia tomentosa Nutt.",
+            "id": "1412290",
+            "score": 0.00114
+        },
+        {
+            "name": "Homoranthus virgatus A.Cunn. ex S.Schauer",
+            "id": "1804622",
+            "score": 0.00111
+        },
+        {
+            "name": "Erica cinerea L.",
+            "id": "1358507",
+            "score": 0.00111
+        },
+        {
+            "name": "Lagarostrobos franklinii (Hook.f.) Quinn",
+            "id": "1420118",
+            "score": 0.0011
+        },
+        {
+            "name": "Caroxylon vermiculatum (L.) Akhani & Roalson",
+            "id": "1362940",
+            "score": 0.0011
+        },
+        {
+            "name": "Artemisia santonicum L.",
+            "id": "1499826",
+            "score": 0.00109
+        },
+        {
+            "name": "Thryptomene saxicola (A.Cunn.) Schauer",
+            "id": "1809455",
+            "score": 0.00106
+        },
+        {
+            "name": "Juniperus virginiana L.",
+            "id": "1393370",
+            "score": 0.00105
+        },
+        {
+            "name": "Melaleuca nesophila F.Muell.",
+            "id": "1605653",
+            "score": 0.00102
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.75994
+        },
+        {
+            "name": "Fagus orientalis Lipsky",
+            "id": "1547791",
+            "score": 0.10403
+        },
+        {
+            "name": "Fagus grandifolia Ehrh.",
+            "id": "1412056",
+            "score": 0.04236
+        },
+        {
+            "name": "Fagus × taurica Popl.",
+            "id": "1547792",
+            "score": 0.01347
+        },
+        {
+            "name": "Fagus japonica Maxim.",
+            "id": "1547788",
+            "score": 0.0069
+        },
+        {
+            "name": "Betula utilis D.Don",
+            "id": "1400127",
+            "score": 0.00217
+        },
+        {
+            "name": "Fagus crenata Blume",
+            "id": "1419065",
+            "score": 0.00213
+        },
+        {
+            "name": "Betula lenta L.",
+            "id": "1414284",
+            "score": 0.00185
+        },
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.00148
+        },
+        {
+            "name": "Fagus hayatae Palib. ex Hayata",
+            "id": "1547787",
+            "score": 0.00132
+        },
+        {
+            "name": "Fagus lucida Rehder & E.H.Wilson",
+            "id": "1547790",
+            "score": 0.00107
+        },
+        {
+            "name": "Nothofagus alpina (Poepp. & Endl.) Oerst.",
+            "id": "1419595",
+            "score": 0.00103
+        }
+    ]
+}

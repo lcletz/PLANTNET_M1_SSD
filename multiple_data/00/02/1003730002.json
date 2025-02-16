@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Sanguisorba minor Scop.",
+            "id": "1356303",
+            "score": 0.58417
+        },
+        {
+            "name": "Sanguisorba verrucosa (Link ex G.Don) Ces.",
+            "id": "1669707",
+            "score": 0.12441
+        },
+        {
+            "name": "Sanguisorba rupicola (Boiss. & Reut.) A.Braun & C.D.Bouché",
+            "id": "1744015",
+            "score": 0.00567
+        },
+        {
+            "name": "Sanguisorba officinalis L.",
+            "id": "1395920",
+            "score": 0.00535
+        },
+        {
+            "name": "Jasione laevis Lam.",
+            "id": "1397413",
+            "score": 0.00159
+        },
+        {
+            "name": "Jasione montana L.",
+            "id": "1356766",
+            "score": 0.00153
+        },
+        {
+            "name": "Plantago atrata Hoppe",
+            "id": "1394630",
+            "score": 0.00119
+        }
+    ]
+}

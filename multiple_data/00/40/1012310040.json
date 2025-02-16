@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Mentha longifolia (L.) L.",
+            "id": "1356107",
+            "score": 0.35679
+        },
+        {
+            "name": "Mentha arvensis L.",
+            "id": "1358785",
+            "score": 0.14678
+        },
+        {
+            "name": "Mentha spicata L.",
+            "id": "1358788",
+            "score": 0.0652
+        },
+        {
+            "name": "Mentha aquatica L.",
+            "id": "1356105",
+            "score": 0.03112
+        },
+        {
+            "name": "Mentha suaveolens Ehrh.",
+            "id": "1358789",
+            "score": 0.00849
+        },
+        {
+            "name": "Mentha × piperita L.",
+            "id": "1560691",
+            "score": 0.00792
+        },
+        {
+            "name": "Monarda didyma L.",
+            "id": "1397732",
+            "score": 0.0029
+        },
+        {
+            "name": "Mentha pulegium L.",
+            "id": "1356106",
+            "score": 0.00206
+        },
+        {
+            "name": "Clinopodium vulgare L.",
+            "id": "1358742",
+            "score": 0.001
+        },
+        {
+            "name": "Monarda fistulosa L.",
+            "id": "1397733",
+            "score": 0.001
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Equisetum telmateia Ehrh.",
+            "id": "1356398",
+            "score": 0.83768
+        },
+        {
+            "name": "Equisetum fluviatile L.",
+            "id": "1356395",
+            "score": 0.05514
+        },
+        {
+            "name": "Equisetum arvense L.",
+            "id": "1356394",
+            "score": 0.03845
+        },
+        {
+            "name": "Equisetum sylvaticum L.",
+            "id": "1391994",
+            "score": 0.01583
+        },
+        {
+            "name": "Equisetum palustre L.",
+            "id": "1391989",
+            "score": 0.00402
+        },
+        {
+            "name": "Casuarina cunninghamiana Miq.",
+            "id": "1361847",
+            "score": 0.00288
+        },
+        {
+            "name": "Pinus halepensis Mill.",
+            "id": "1397460",
+            "score": 0.00127
+        },
+        {
+            "name": "Pinus pinaster Aiton",
+            "id": "1394611",
+            "score": 0.00114
+        }
+    ]
+}

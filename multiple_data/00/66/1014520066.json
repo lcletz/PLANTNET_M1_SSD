@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cedrus atlantica (Endl.) Manetti ex Carrière",
+            "id": "1419901",
+            "score": 0.40959
+        },
+        {
+            "name": "Cedrus libani A.Rich.",
+            "id": "1390973",
+            "score": 0.1312
+        },
+        {
+            "name": "Cedrus deodara (Roxb. ex D.Don) G.Don",
+            "id": "1390972",
+            "score": 0.01288
+        },
+        {
+            "name": "Larix kaempferi (Lamb.) Carrière",
+            "id": "1701758",
+            "score": 0.00149
+        },
+        {
+            "name": "Larix decidua Mill.",
+            "id": "1397422",
+            "score": 0.00105
+        }
+    ]
+}

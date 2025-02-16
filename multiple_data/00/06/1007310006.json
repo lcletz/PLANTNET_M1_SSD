@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ajuga genevensis L.",
+            "id": "1391853",
+            "score": 0.53616
+        },
+        {
+            "name": "Ajuga reptans L.",
+            "id": "1358718",
+            "score": 0.29963
+        },
+        {
+            "name": "Ajuga pyramidalis L.",
+            "id": "1389405",
+            "score": 0.03838
+        },
+        {
+            "name": "Ajuga × hybrida A.Kern.",
+            "id": "1558601",
+            "score": 0.02385
+        },
+        {
+            "name": "Ajuga decumbens Thunb.",
+            "id": "1558595",
+            "score": 0.00409
+        },
+        {
+            "name": "Salvia farinacea Benth.",
+            "id": "1377389",
+            "score": 0.00171
+        },
+        {
+            "name": "Salvia procurrens Benth.",
+            "id": "1562938",
+            "score": 0.00112
+        }
+    ]
+}

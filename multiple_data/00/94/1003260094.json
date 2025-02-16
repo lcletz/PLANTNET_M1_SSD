@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Eranthis hyemalis (L.) Salisb.",
+            "id": "1392020",
+            "score": 0.82659
+        },
+        {
+            "name": "Trollius laxus Salisb.",
+            "id": "1414121",
+            "score": 0.00619
+        },
+        {
+            "name": "Anemonoides ranunculoides (L.) Holub",
+            "id": "1737522",
+            "score": 0.00552
+        },
+        {
+            "name": "Ranunculus fascicularis Muhl. ex Bigelow",
+            "id": "1413420",
+            "score": 0.00345
+        },
+        {
+            "name": "Eranthis longistipitata Regel",
+            "id": "1664321",
+            "score": 0.00265
+        },
+        {
+            "name": "Aconitum plicatum Köhler ex Rchb.",
+            "id": "1663106",
+            "score": 0.0021
+        },
+        {
+            "name": "Eranthis pinnatifida Maxim.",
+            "id": "1664322",
+            "score": 0.00204
+        },
+        {
+            "name": "Ranunculus ficaria L.",
+            "id": "1413421",
+            "score": 0.00174
+        },
+        {
+            "name": "Viola sheltonii Torr.",
+            "id": "1439633",
+            "score": 0.00115
+        },
+        {
+            "name": "Ranunculus auricomus L.",
+            "id": "1395053",
+            "score": 0.00109
+        },
+        {
+            "name": "Ranunculus muricatus L.",
+            "id": "1363972",
+            "score": 0.00108
+        },
+        {
+            "name": "Ranunculus marschlinsii Steud.",
+            "id": "1395106",
+            "score": 0.00104
+        }
+    ]
+}

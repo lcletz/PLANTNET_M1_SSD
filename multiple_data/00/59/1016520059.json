@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rhus typhina L.",
+            "id": "1395193",
+            "score": 0.8872
+        },
+        {
+            "name": "Rhus glabra L.",
+            "id": "1397601",
+            "score": 0.01427
+        },
+        {
+            "name": "Pistacia chinensis Bunge",
+            "id": "1419331",
+            "score": 0.00292
+        },
+        {
+            "name": "Pistacia terebinthus L.",
+            "id": "1356567",
+            "score": 0.00252
+        },
+        {
+            "name": "Populus alba L.",
+            "id": "1364046",
+            "score": 0.00232
+        },
+        {
+            "name": "Rhus coriaria L.",
+            "id": "1356570",
+            "score": 0.00169
+        },
+        {
+            "name": "Populus × canescens (Aiton) Sm.",
+            "id": "1683819",
+            "score": 0.00148
+        },
+        {
+            "name": "Ceratonia siliqua L.",
+            "id": "1363660",
+            "score": 0.00109
+        }
+    ]
+}

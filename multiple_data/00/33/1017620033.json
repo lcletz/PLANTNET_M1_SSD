@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Asphodelus albus Mill.",
+            "id": "1397256",
+            "score": 0.82415
+        },
+        {
+            "name": "Asphodelus macrocarpus Parl.",
+            "id": "1361019",
+            "score": 0.06909
+        },
+        {
+            "name": "Asphodelus ramosus L.",
+            "id": "1361020",
+            "score": 0.04553
+        },
+        {
+            "name": "Asphodelus fistulosus L.",
+            "id": "1361017",
+            "score": 0.00386
+        },
+        {
+            "name": "Asphodelus cerasifer J.Gay",
+            "id": "1743220",
+            "score": 0.00281
+        },
+        {
+            "name": "Asphodelus aestivus Brot.",
+            "id": "1698923",
+            "score": 0.00206
+        },
+        {
+            "name": "Asphodelus lusitanicus Cout.",
+            "id": "1698927",
+            "score": 0.00155
+        }
+    ]
+}

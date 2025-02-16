@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Prenanthes purpurea L.",
+            "id": "1394894",
+            "score": 0.95314
+        },
+        {
+            "name": "Hieracium prenanthoides Vill.",
+            "id": "1393092",
+            "score": 0.12061
+        },
+        {
+            "name": "Cerinthe glabra Mill.",
+            "id": "1391100",
+            "score": 0.0014
+        },
+        {
+            "name": "Euphorbia platyphyllos L.",
+            "id": "1355986",
+            "score": 0.001
+        },
+        {
+            "name": "Mentha longifolia (L.) L.",
+            "id": "1356107",
+            "score": 0.00098
+        }
+    ]
+}

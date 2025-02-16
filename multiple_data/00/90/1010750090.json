@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Geranium sanguineum L.",
+            "id": "1392597",
+            "score": 0.92595
+        },
+        {
+            "name": "Geranium argenteum L.",
+            "id": "1392579",
+            "score": 0.01303
+        },
+        {
+            "name": "Geranium pusillum L.",
+            "id": "1392594",
+            "score": 0.01146
+        },
+        {
+            "name": "Geranium palustre L.",
+            "id": "1392591",
+            "score": 0.00425
+        },
+        {
+            "name": "Geranium columbinum L.",
+            "id": "1358671",
+            "score": 0.00186
+        },
+        {
+            "name": "Geranium dissectum L.",
+            "id": "1356007",
+            "score": 0.00171
+        },
+        {
+            "name": "Geranium molle L.",
+            "id": "1356008",
+            "score": 0.0016
+        },
+        {
+            "name": "Geranium sylvaticum L.",
+            "id": "1392599",
+            "score": 0.00118
+        }
+    ]
+}

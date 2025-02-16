@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phlomis lychnitis L.",
+            "id": "1394527",
+            "score": 0.94967
+        },
+        {
+            "name": "Bellardia trixago (L.) All.",
+            "id": "1426015",
+            "score": 0.0021
+        },
+        {
+            "name": "Phlomis fruticosa L.",
+            "id": "1394526",
+            "score": 0.00174
+        },
+        {
+            "name": "Phlomis herba-venti L.",
+            "id": "1358851",
+            "score": 0.00169
+        },
+        {
+            "name": "Phlomis viscosa Poir.",
+            "id": "1425387",
+            "score": 0.00109
+        }
+    ]
+}

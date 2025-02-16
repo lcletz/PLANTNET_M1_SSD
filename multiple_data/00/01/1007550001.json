@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Acer palmatum Thunb.",
+            "id": "1390731",
+            "score": 0.84587
+        },
+        {
+            "name": "Acer japonicum Thunb.",
+            "id": "1390723",
+            "score": 0.03708
+        },
+        {
+            "name": "Hibiscus acetosella Welw. ex Hiern",
+            "id": "1370453",
+            "score": 0.00507
+        },
+        {
+            "name": "Acer longipes Franch. ex Rehder",
+            "id": "1685288",
+            "score": 0.00273
+        },
+        {
+            "name": "Acer cappadocicum Gled.",
+            "id": "1397300",
+            "score": 0.00199
+        },
+        {
+            "name": "Hibiscus sabdariffa L.",
+            "id": "1363940",
+            "score": 0.00139
+        },
+        {
+            "name": "Ricinus communis L.",
+            "id": "1358609",
+            "score": 0.00123
+        },
+        {
+            "name": "Acer platanoides L.",
+            "id": "1397301",
+            "score": 0.001
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium repens L.",
+            "id": "1363740",
+            "score": 0.65329
+        },
+        {
+            "name": "Trifolium hybridum L.",
+            "id": "1359497",
+            "score": 0.23217
+        },
+        {
+            "name": "Trifolium fragiferum L.",
+            "id": "1356278",
+            "score": 0.02617
+        },
+        {
+            "name": "Trifolium nigrescens Viv.",
+            "id": "1363739",
+            "score": 0.01552
+        },
+        {
+            "name": "Trifolium pratense L.",
+            "id": "1359517",
+            "score": 0.00924
+        },
+        {
+            "name": "Trifolium resupinatum L.",
+            "id": "1359519",
+            "score": 0.003
+        },
+        {
+            "name": "Medicago polymorpha L.",
+            "id": "1363731",
+            "score": 0.00279
+        },
+        {
+            "name": "Trifolium medium L.",
+            "id": "1397514",
+            "score": 0.00154
+        },
+        {
+            "name": "Trifolium pallescens Schreb.",
+            "id": "1396858",
+            "score": 0.00118
+        },
+        {
+            "name": "Medicago arabica (L.) Huds.",
+            "id": "1359333",
+            "score": 0.00102
+        }
+    ]
+}

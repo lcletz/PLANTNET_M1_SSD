@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Photinia serratifolia (Desf.) Kalkman",
+            "id": "1420392",
+            "score": 0.66686
+        },
+        {
+            "name": "Photinia × fraseri Dress",
+            "id": "1780757",
+            "score": 0.05057
+        },
+        {
+            "name": "Prunus serotina Ehrh.",
+            "id": "1370859",
+            "score": 0.00419
+        },
+        {
+            "name": "Prunus persica (L.) Batsch",
+            "id": "1363997",
+            "score": 0.00323
+        },
+        {
+            "name": "Amelanchier canadensis (L.) Medik.",
+            "id": "1397734",
+            "score": 0.00201
+        },
+        {
+            "name": "Prunus lusitanica L.",
+            "id": "1360322",
+            "score": 0.00139
+        },
+        {
+            "name": "Prunus laurocerasus L.",
+            "id": "1394952",
+            "score": 0.001
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dipsacus fullonum L.",
+            "id": "1358454",
+            "score": 0.69425
+        },
+        {
+            "name": "Dipsacus sativus (L.) Honck.",
+            "id": "1391749",
+            "score": 0.20809
+        },
+        {
+            "name": "Dipsacus laciniatus L.",
+            "id": "1391747",
+            "score": 0.01093
+        },
+        {
+            "name": "Impatiens glandulifera Royle",
+            "id": "1393275",
+            "score": 0.00197
+        },
+        {
+            "name": "Lactuca sativa L.",
+            "id": "1364172",
+            "score": 0.00159
+        },
+        {
+            "name": "Guizotia abyssinica (L.f.) Cass.",
+            "id": "1392658",
+            "score": 0.00135
+        },
+        {
+            "name": "Bunias orientalis L.",
+            "id": "1389581",
+            "score": 0.00107
+        }
+    ]
+}

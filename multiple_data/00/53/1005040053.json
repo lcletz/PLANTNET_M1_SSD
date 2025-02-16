@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tanacetum parthenium (L.) Sch.Bip.",
+            "id": "1396511",
+            "score": 0.83467
+        },
+        {
+            "name": "Tanacetum corymbosum (L.) Sch.Bip.",
+            "id": "1397508",
+            "score": 0.01861
+        },
+        {
+            "name": "Chrysanthemum indicum L.",
+            "id": "1391154",
+            "score": 0.01195
+        },
+        {
+            "name": "Callistephus chinensis (L.) Nees",
+            "id": "1390640",
+            "score": 0.00562
+        },
+        {
+            "name": "Chrysanthemum × morifolium (Ramat.) Hemsl.",
+            "id": "1719982",
+            "score": 0.0047
+        },
+        {
+            "name": "Chamaemelum nobile (L.) All.",
+            "id": "1357465",
+            "score": 0.00436
+        },
+        {
+            "name": "Achillea ptarmica L.",
+            "id": "1393773",
+            "score": 0.0026
+        },
+        {
+            "name": "Leucanthemum vulgare Lam.",
+            "id": "1393513",
+            "score": 0.00227
+        },
+        {
+            "name": "Ranunculus alpestris L.",
+            "id": "1397471",
+            "score": 0.00117
+        },
+        {
+            "name": "Ranunculus aconitifolius L.",
+            "id": "1395045",
+            "score": 0.00105
+        }
+    ]
+}

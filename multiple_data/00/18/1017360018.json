@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Silphium perfoliatum L.",
+            "id": "1396301",
+            "score": 0.93083
+        },
+        {
+            "name": "Silphium integrifolium Michx.",
+            "id": "1413808",
+            "score": 0.008
+        },
+        {
+            "name": "Silphium terebinthinaceum Jacq.",
+            "id": "1413811",
+            "score": 0.00442
+        },
+        {
+            "name": "Silphium laciniatum L.",
+            "id": "1413809",
+            "score": 0.00218
+        },
+        {
+            "name": "Ligularia sibirica (L.) Cass.",
+            "id": "1393524",
+            "score": 0.00108
+        }
+    ]
+}

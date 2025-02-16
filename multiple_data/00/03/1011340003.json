@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dipsacus sativus (L.) Honck.",
+            "id": "1391749",
+            "score": 0.60476
+        },
+        {
+            "name": "Dipsacus fullonum L.",
+            "id": "1358454",
+            "score": 0.31871
+        },
+        {
+            "name": "Dipsacus laciniatus L.",
+            "id": "1391747",
+            "score": 0.0249
+        },
+        {
+            "name": "Xanthium strumarium L.",
+            "id": "1355898",
+            "score": 0.00111
+        },
+        {
+            "name": "Dipsacus ferox Loisel.",
+            "id": "1358453",
+            "score": 0.00101
+        },
+        {
+            "name": "Dipsacus pilosus L.",
+            "id": "1391748",
+            "score": 0.00101
+        }
+    ]
+}

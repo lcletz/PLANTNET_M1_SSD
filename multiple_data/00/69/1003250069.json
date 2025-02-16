@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pseudotsuga menziesii (Mirb.) Franco",
+            "id": "1394967",
+            "score": 0.97903
+        },
+        {
+            "name": "Larix decidua Mill.",
+            "id": "1397422",
+            "score": 0.00776
+        },
+        {
+            "name": "Picea abies (L.) H.Karst.",
+            "id": "1397459",
+            "score": 0.00116
+        },
+        {
+            "name": "Pinus strobus L.",
+            "id": "1394616",
+            "score": 0.00104
+        }
+    ]
+}

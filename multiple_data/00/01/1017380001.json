@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Juglans regia L.",
+            "id": "1358713",
+            "score": 0.82517
+        },
+        {
+            "name": "Juglans × intermedia Jacques",
+            "id": "1844333",
+            "score": 0.11343
+        },
+        {
+            "name": "Juglans cinerea L.",
+            "id": "1412349",
+            "score": 0.00848
+        },
+        {
+            "name": "Cedrela salvadorensis Standl.",
+            "id": "1600540",
+            "score": 0.00539
+        },
+        {
+            "name": "Juglans mandshurica Maxim.",
+            "id": "1419240",
+            "score": 0.00514
+        },
+        {
+            "name": "Juglans nigra L.",
+            "id": "1393337",
+            "score": 0.00367
+        },
+        {
+            "name": "Pistacia terebinthus L.",
+            "id": "1356567",
+            "score": 0.00209
+        },
+        {
+            "name": "Fraxinus americana L.",
+            "id": "1397619",
+            "score": 0.00114
+        }
+    ]
+}

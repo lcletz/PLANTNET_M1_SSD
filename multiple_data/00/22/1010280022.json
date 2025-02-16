@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Eschscholzia californica Cham.",
+            "id": "1363125",
+            "score": 0.86404
+        },
+        {
+            "name": "Eschscholzia caespitosa Benth.",
+            "id": "1443494",
+            "score": 0.0672
+        },
+        {
+            "name": "Calochortus kennedyi Porter",
+            "id": "1440422",
+            "score": 0.00251
+        },
+        {
+            "name": "Eschscholzia lobbii Greene",
+            "id": "1443498",
+            "score": 0.00232
+        },
+        {
+            "name": "Ranunculus gramineus L.",
+            "id": "1360204",
+            "score": 0.00141
+        },
+        {
+            "name": "Glaucium flavum Crantz",
+            "id": "1359804",
+            "score": 0.00112
+        }
+    ]
+}

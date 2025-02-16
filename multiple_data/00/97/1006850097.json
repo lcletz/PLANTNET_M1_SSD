@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.5722
+        },
+        {
+            "name": "Fagus orientalis Lipsky",
+            "id": "1547791",
+            "score": 0.31758
+        },
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.00398
+        },
+        {
+            "name": "Betula utilis D.Don",
+            "id": "1400127",
+            "score": 0.00282
+        },
+        {
+            "name": "Betula nigra L.",
+            "id": "1390590",
+            "score": 0.00274
+        },
+        {
+            "name": "Ficus tequendamae Dugand",
+            "id": "1602255",
+            "score": 0.00151
+        },
+        {
+            "name": "Cordia myxa L.",
+            "id": "1369999",
+            "score": 0.00127
+        },
+        {
+            "name": "Alnus glutinosa (L.) Gaertn.",
+            "id": "1356608",
+            "score": 0.00104
+        }
+    ]
+}

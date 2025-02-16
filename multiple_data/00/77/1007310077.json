@@ -1,0 +1,95 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Melissa officinalis L.",
+            "id": "1358784",
+            "score": 0.85337
+        },
+        {
+            "name": "Verbena urticifolia L.",
+            "id": "1398544",
+            "score": 0.01515
+        },
+        {
+            "name": "Mentha suaveolens Ehrh.",
+            "id": "1358789",
+            "score": 0.01336
+        },
+        {
+            "name": "Mentha spicata L.",
+            "id": "1358788",
+            "score": 0.0056
+        },
+        {
+            "name": "Ageratum conyzoides L.",
+            "id": "1355899",
+            "score": 0.00479
+        },
+        {
+            "name": "Mentha arvensis L.",
+            "id": "1358785",
+            "score": 0.00439
+        },
+        {
+            "name": "Melittis melissophyllum L.",
+            "id": "1397437",
+            "score": 0.00328
+        },
+        {
+            "name": "Ballota nigra L.",
+            "id": "1358722",
+            "score": 0.00269
+        },
+        {
+            "name": "Mentha × rotundifolia (L.) Huds.",
+            "id": "1560693",
+            "score": 0.00212
+        },
+        {
+            "name": "Veronica montana L.",
+            "id": "1359979",
+            "score": 0.00184
+        },
+        {
+            "name": "Galeopsis tetrahit L.",
+            "id": "1392433",
+            "score": 0.00162
+        },
+        {
+            "name": "Salvia microphylla Kunth",
+            "id": "1356117",
+            "score": 0.00132
+        },
+        {
+            "name": "Clinopodium nepeta (L.) Kuntze",
+            "id": "1391306",
+            "score": 0.00127
+        },
+        {
+            "name": "Lamium galeobdolon (L.) L.",
+            "id": "1361823",
+            "score": 0.0012
+        },
+        {
+            "name": "Lantana viburnoides (Forssk.) Vahl",
+            "id": "1362014",
+            "score": 0.00104
+        },
+        {
+            "name": "Scutellaria altissima L.",
+            "id": "1396136",
+            "score": 0.00104
+        },
+        {
+            "name": "Lamium album L.",
+            "id": "1393423",
+            "score": 0.00101
+        },
+        {
+            "name": "Galeopsis bifida Boenn.",
+            "id": "1392420",
+            "score": 0.001
+        }
+    ]
+}

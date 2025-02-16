@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.33985
+        },
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.18688
+        },
+        {
+            "name": "Cicuta virosa L.",
+            "id": "1391163",
+            "score": 0.08557
+        },
+        {
+            "name": "Sambucus ebulus L.",
+            "id": "1356276",
+            "score": 0.06664
+        },
+        {
+            "name": "Grevillea robusta A.Cunn. ex R.Br.",
+            "id": "1394929",
+            "score": 0.0342
+        },
+        {
+            "name": "Sambucus canadensis L.",
+            "id": "1356462",
+            "score": 0.02361
+        },
+        {
+            "name": "Lyonothamnus floribundus A.Gray",
+            "id": "1818359",
+            "score": 0.00388
+        },
+        {
+            "name": "Sambucus palmensis Link",
+            "id": "1356465",
+            "score": 0.00198
+        },
+        {
+            "name": "Pimpinella major (L.) Huds.",
+            "id": "1394592",
+            "score": 0.00179
+        },
+        {
+            "name": "Sambucus australis Cham. & Schltdl.",
+            "id": "1447814",
+            "score": 0.00173
+        },
+        {
+            "name": "Paeonia officinalis L.",
+            "id": "1362842",
+            "score": 0.00152
+        },
+        {
+            "name": "Eriogonum arborescens Greene",
+            "id": "1443207",
+            "score": 0.00151
+        },
+        {
+            "name": "Rubus nemoralis P.J.Müll.",
+            "id": "1395553",
+            "score": 0.00148
+        },
+        {
+            "name": "Angelica razulii Gouan",
+            "id": "1394580",
+            "score": 0.00113
+        },
+        {
+            "name": "Eriogonum giganteum S.Watson",
+            "id": "1398810",
+            "score": 0.00113
+        }
+    ]
+}

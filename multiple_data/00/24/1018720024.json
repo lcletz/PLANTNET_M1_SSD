@@ -1,0 +1,45 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Iris foetidissima L.",
+            "id": "1361540",
+            "score": 0.01333
+        },
+        {
+            "name": "Anthericum liliago L.",
+            "id": "1360998",
+            "score": 0.01181
+        },
+        {
+            "name": "Hemerocallis lilioasphodelus L.",
+            "id": "1392749",
+            "score": 0.00906
+        },
+        {
+            "name": "Luzula sylvatica (Huds.) Gaudin",
+            "id": "1397430",
+            "score": 0.00804
+        },
+        {
+            "name": "Carex pendula Huds.",
+            "id": "1361075",
+            "score": 0.00674
+        },
+        {
+            "name": "Anthericum ramosum L.",
+            "id": "1394759",
+            "score": 0.00656
+        },
+        {
+            "name": "Hemerocallis fulva (L.) L.",
+            "id": "1392748",
+            "score": 0.00532
+        },
+        {
+            "name": "Cyperus alternifolius L.",
+            "id": "1362441",
+            "score": 0.00148
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Mentha aquatica L.",
+            "id": "1356105",
+            "score": 0.8437
+        },
+        {
+            "name": "Mentha pulegium L.",
+            "id": "1356106",
+            "score": 0.02598
+        },
+        {
+            "name": "Mentha spicata L.",
+            "id": "1358788",
+            "score": 0.01615
+        },
+        {
+            "name": "Mentha arvensis L.",
+            "id": "1358785",
+            "score": 0.0132
+        },
+        {
+            "name": "Mentha longifolia (L.) L.",
+            "id": "1356107",
+            "score": 0.00587
+        },
+        {
+            "name": "Origanum vulgare L.",
+            "id": "1358846",
+            "score": 0.00312
+        },
+        {
+            "name": "Mentha × piperita L.",
+            "id": "1560691",
+            "score": 0.00288
+        },
+        {
+            "name": "Mentha suaveolens Ehrh.",
+            "id": "1358789",
+            "score": 0.00268
+        },
+        {
+            "name": "Thymus serpyllum L.",
+            "id": "1362246",
+            "score": 0.00106
+        }
+    ]
+}

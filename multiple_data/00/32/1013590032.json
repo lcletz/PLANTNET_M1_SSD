@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Melia azedarach L.",
+            "id": "1363624",
+            "score": 0.91338
+        },
+        {
+            "name": "Azadirachta indica A.Juss.",
+            "id": "1405342",
+            "score": 0.01365
+        },
+        {
+            "name": "Toona ciliata M.Roem.",
+            "id": "1419485",
+            "score": 0.00227
+        },
+        {
+            "name": "Melia volkensii Gürke",
+            "id": "1366008",
+            "score": 0.00121
+        },
+        {
+            "name": "Trichilia martiana C.DC.",
+            "id": "1402314",
+            "score": 0.00118
+        }
+    ]
+}

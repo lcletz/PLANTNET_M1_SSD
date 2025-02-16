@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Juglans regia L.",
+            "id": "1358713",
+            "score": 0.8781
+        },
+        {
+            "name": "Juglans nigra L.",
+            "id": "1393337",
+            "score": 0.01843
+        },
+        {
+            "name": "Juglans mandshurica Maxim.",
+            "id": "1419240",
+            "score": 0.01614
+        },
+        {
+            "name": "Juglans cinerea L.",
+            "id": "1412349",
+            "score": 0.00821
+        },
+        {
+            "name": "Carya illinoinensis (Wangenh.) K.Koch",
+            "id": "1407788",
+            "score": 0.001
+        }
+    ]
+}

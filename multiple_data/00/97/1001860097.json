@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tanacetum parthenium (L.) Sch.Bip.",
+            "id": "1396511",
+            "score": 0.85961
+        },
+        {
+            "name": "Artemisia annua L.",
+            "id": "1382106",
+            "score": 0.04262
+        },
+        {
+            "name": "Artemisia vulgaris L.",
+            "id": "1364152",
+            "score": 0.00619
+        },
+        {
+            "name": "Anthriscus cerefolium (L.) Hoffm.",
+            "id": "1360613",
+            "score": 0.00515
+        },
+        {
+            "name": "Coriandrum sativum L.",
+            "id": "1363224",
+            "score": 0.0042
+        },
+        {
+            "name": "Geranium robertianum L.",
+            "id": "1356017",
+            "score": 0.00231
+        },
+        {
+            "name": "Chrysanthemum indicum L.",
+            "id": "1391154",
+            "score": 0.0016
+        },
+        {
+            "name": "Myrrhis odorata (L.) Scop.",
+            "id": "1393910",
+            "score": 0.00116
+        },
+        {
+            "name": "Phacelia tanacetifolia Benth.",
+            "id": "1363358",
+            "score": 0.00103
+        }
+    ]
+}

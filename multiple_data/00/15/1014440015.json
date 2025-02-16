@@ -1,0 +1,480 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phalaris minor Retz.",
+            "id": "1363492",
+            "score": 0.65326
+        },
+        {
+            "name": "Phalaris canariensis L.",
+            "id": "1363491",
+            "score": 0.12885
+        },
+        {
+            "name": "Phalaris aquatica L.",
+            "id": "1363489",
+            "score": 0.05972
+        },
+        {
+            "name": "Hordeum murinum L.",
+            "id": "1361307",
+            "score": 0.0526
+        },
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.04739
+        },
+        {
+            "name": "Cynosurus echinatus L.",
+            "id": "1363504",
+            "score": 0.02746
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.02113
+        },
+        {
+            "name": "Ranunculus lingua L.",
+            "id": "1395101",
+            "score": 0.01717
+        },
+        {
+            "name": "Holcus lanatus L.",
+            "id": "1363460",
+            "score": 0.01665
+        },
+        {
+            "name": "Stellaria graminea L.",
+            "id": "1396446",
+            "score": 0.01658
+        },
+        {
+            "name": "Rostraria cristata (L.) Tzvelev",
+            "id": "1361394",
+            "score": 0.01655
+        },
+        {
+            "name": "Lagurus ovatus L.",
+            "id": "1363433",
+            "score": 0.0165
+        },
+        {
+            "name": "Bromus hordeaceus L.",
+            "id": "1356286",
+            "score": 0.01507
+        },
+        {
+            "name": "Aeluropus lagopoides (L.) Thwaites",
+            "id": "1426065",
+            "score": 0.01065
+        },
+        {
+            "name": "Lathyrus pratensis L.",
+            "id": "1363803",
+            "score": 0.0102
+        },
+        {
+            "name": "Knautia integrifolia (Honck. ex L.) Bertol.",
+            "id": "1743313",
+            "score": 0.00892
+        },
+        {
+            "name": "Phalaris brachystachys Link",
+            "id": "1363495",
+            "score": 0.00883
+        },
+        {
+            "name": "Silene noctiflora L.",
+            "id": "1363341",
+            "score": 0.00868
+        },
+        {
+            "name": "Crepis micrantha Czerep.",
+            "id": "1357538",
+            "score": 0.00836
+        },
+        {
+            "name": "Hordeum vulgare L.",
+            "id": "1363481",
+            "score": 0.00719
+        },
+        {
+            "name": "Polypogon viridis (Gouan) Breistr.",
+            "id": "1363403",
+            "score": 0.00658
+        },
+        {
+            "name": "Silene vulgaris (Moench) Garcke",
+            "id": "1357059",
+            "score": 0.00654
+        },
+        {
+            "name": "Linum grandiflorum Desf.",
+            "id": "1359594",
+            "score": 0.00628
+        },
+        {
+            "name": "Setaria pumila (Poir.) Roem. & Schult.",
+            "id": "1363386",
+            "score": 0.00544
+        },
+        {
+            "name": "Plantago lagopus L.",
+            "id": "1359959",
+            "score": 0.00512
+        },
+        {
+            "name": "Camelina sativa (L.) Crantz",
+            "id": "1358207",
+            "score": 0.00492
+        },
+        {
+            "name": "Anthoxanthum odoratum L.",
+            "id": "1363461",
+            "score": 0.00468
+        },
+        {
+            "name": "Setaria verticillata (L.) P.Beauv.",
+            "id": "1396252",
+            "score": 0.00431
+        },
+        {
+            "name": "Myosotis scorpioides L.",
+            "id": "1393897",
+            "score": 0.00391
+        },
+        {
+            "name": "Phalaris paradoxa L.",
+            "id": "1363493",
+            "score": 0.00366
+        },
+        {
+            "name": "Ranunculus flammula L.",
+            "id": "1360203",
+            "score": 0.00361
+        },
+        {
+            "name": "Lathyrus hirsutus L.",
+            "id": "1363800",
+            "score": 0.00354
+        },
+        {
+            "name": "Linum usitatissimum L.",
+            "id": "1356040",
+            "score": 0.00345
+        },
+        {
+            "name": "Phalaris coerulescens Desf.",
+            "id": "1361357",
+            "score": 0.00305
+        },
+        {
+            "name": "Helenium puberulum DC.",
+            "id": "1444285",
+            "score": 0.00296
+        },
+        {
+            "name": "Phleum arenarium L.",
+            "id": "1361361",
+            "score": 0.00271
+        },
+        {
+            "name": "Digitaria sanguinalis (L.) Scop.",
+            "id": "1363424",
+            "score": 0.00262
+        },
+        {
+            "name": "Knautia arvernensis (Briq.) Szabó",
+            "id": "1393377",
+            "score": 0.00262
+        },
+        {
+            "name": "Silene nutans L.",
+            "id": "1357026",
+            "score": 0.00248
+        },
+        {
+            "name": "Reseda alba L.",
+            "id": "1360231",
+            "score": 0.00245
+        },
+        {
+            "name": "Bunias erucago L.",
+            "id": "1363920",
+            "score": 0.0024
+        },
+        {
+            "name": "Rabelera holostea (L.) M.T.Sharples & E.A.Tripp",
+            "id": "1737674",
+            "score": 0.00239
+        },
+        {
+            "name": "Stellaria palustris Ehrh. ex Hoffm.",
+            "id": "1721301",
+            "score": 0.00234
+        },
+        {
+            "name": "Eleusine tristachya (Lam.) Lam.",
+            "id": "1363413",
+            "score": 0.00228
+        },
+        {
+            "name": "Lamarckia aurea (L.) Moench",
+            "id": "1363507",
+            "score": 0.00226
+        },
+        {
+            "name": "Buphthalmum salicifolium L.",
+            "id": "1397329",
+            "score": 0.00226
+        },
+        {
+            "name": "Dactyloctenium radulans (R.Br.) P.Beauv.",
+            "id": "1394692",
+            "score": 0.00225
+        },
+        {
+            "name": "Knautia arvensis (L.) Coult.",
+            "id": "1362327",
+            "score": 0.00211
+        },
+        {
+            "name": "Hordeum marinum Huds.",
+            "id": "1361306",
+            "score": 0.00199
+        },
+        {
+            "name": "Dalea candida Willd.",
+            "id": "1576363",
+            "score": 0.00198
+        },
+        {
+            "name": "Silene apetala Willd.",
+            "id": "1356952",
+            "score": 0.00195
+        },
+        {
+            "name": "Poa bulbosa L.",
+            "id": "1363456",
+            "score": 0.00192
+        },
+        {
+            "name": "Pentanema britannica (L.) D.Gut.Larr., Santos-Vicente, Anderb., E.Rico & M.M.Mart.Ort.",
+            "id": "1737666",
+            "score": 0.00191
+        },
+        {
+            "name": "Succisella inflexa (Kluk) Beck",
+            "id": "1396480",
+            "score": 0.00187
+        },
+        {
+            "name": "Melica ciliata L.",
+            "id": "1361329",
+            "score": 0.00185
+        },
+        {
+            "name": "Knautia dipsacifolia Kreutzer",
+            "id": "1491358",
+            "score": 0.00184
+        },
+        {
+            "name": "Trisetaria panicea (Lam.) Paunero",
+            "id": "1361446",
+            "score": 0.00179
+        },
+        {
+            "name": "Phleum bertolonii DC.",
+            "id": "1653859",
+            "score": 0.00178
+        },
+        {
+            "name": "Alopecurus pratensis L.",
+            "id": "1362406",
+            "score": 0.00175
+        },
+        {
+            "name": "Trifolium alexandrinum L.",
+            "id": "1363735",
+            "score": 0.00174
+        },
+        {
+            "name": "Epilobium palustre L.",
+            "id": "1359685",
+            "score": 0.00171
+        },
+        {
+            "name": "Trifolium patens Schreb.",
+            "id": "1359514",
+            "score": 0.0017
+        },
+        {
+            "name": "Secale cereale L.",
+            "id": "1363451",
+            "score": 0.00169
+        },
+        {
+            "name": "Silene dichotoma Ehrh.",
+            "id": "1356984",
+            "score": 0.00165
+        },
+        {
+            "name": "Sporobolus schoenoides (L.) P.M.Peterson",
+            "id": "1741600",
+            "score": 0.00165
+        },
+        {
+            "name": "Tragopogon pratensis L.",
+            "id": "1396832",
+            "score": 0.00164
+        },
+        {
+            "name": "Setaria italica (L.) P.Beauv.",
+            "id": "1396251",
+            "score": 0.00163
+        },
+        {
+            "name": "Persicaria lapathifolia (L.) Delarbre",
+            "id": "1356091",
+            "score": 0.0016
+        },
+        {
+            "name": "Gomphrena serrata L.",
+            "id": "1421299",
+            "score": 0.00158
+        },
+        {
+            "name": "Pfaffia glomerata (Spreng.) Pedersen",
+            "id": "1404088",
+            "score": 0.00154
+        },
+        {
+            "name": "Trifolium squamosum L.",
+            "id": "1359524",
+            "score": 0.0015
+        },
+        {
+            "name": "Polypogon monspeliensis (L.) Desf.",
+            "id": "1363402",
+            "score": 0.00147
+        },
+        {
+            "name": "Cynosurus cristatus L.",
+            "id": "1361225",
+            "score": 0.00146
+        },
+        {
+            "name": "Crepis setosa Haller f.",
+            "id": "1361760",
+            "score": 0.00139
+        },
+        {
+            "name": "Fritillaria gussichiae (Degen & Dörfl.) Rix",
+            "id": "1588635",
+            "score": 0.00138
+        },
+        {
+            "name": "Centaurium erythraea Rafn",
+            "id": "1358624",
+            "score": 0.00137
+        },
+        {
+            "name": "Linum trigynum L.",
+            "id": "1359603",
+            "score": 0.00135
+        },
+        {
+            "name": "Erigeron strigosus Muhl. ex Willd.",
+            "id": "1411968",
+            "score": 0.00134
+        },
+        {
+            "name": "Cenchrus mezianus (Leeke) Morrone",
+            "id": "1381396",
+            "score": 0.00133
+        },
+        {
+            "name": "Setaria viridis (L.) P.Beauv.",
+            "id": "1425584",
+            "score": 0.00133
+        },
+        {
+            "name": "Valeriana dentata (L.) All.",
+            "id": "1722519",
+            "score": 0.00131
+        },
+        {
+            "name": "Biscutella auriculata L.",
+            "id": "1358182",
+            "score": 0.0013
+        },
+        {
+            "name": "Allium scorodoprasum L.",
+            "id": "1360935",
+            "score": 0.00128
+        },
+        {
+            "name": "Scorzonera laciniata L.",
+            "id": "1437978",
+            "score": 0.00125
+        },
+        {
+            "name": "Holcus mollis L.",
+            "id": "1361302",
+            "score": 0.00124
+        },
+        {
+            "name": "Berteroa incana (L.) DC.",
+            "id": "1397327",
+            "score": 0.00123
+        },
+        {
+            "name": "Alopecurus rendlei Eig",
+            "id": "1361159",
+            "score": 0.00122
+        },
+        {
+            "name": "Scorpiurus muricatus L.",
+            "id": "1363791",
+            "score": 0.00122
+        },
+        {
+            "name": "Succisa pratensis Moench",
+            "id": "1358491",
+            "score": 0.00121
+        },
+        {
+            "name": "Echinolaena inflexa (Poir.) Chase",
+            "id": "1403017",
+            "score": 0.00117
+        },
+        {
+            "name": "Briza maxima L.",
+            "id": "1363440",
+            "score": 0.00117
+        },
+        {
+            "name": "Dactyloctenium aegyptium (L.) Willd.",
+            "id": "1363544",
+            "score": 0.00114
+        },
+        {
+            "name": "Aegilops geniculata Roth",
+            "id": "1361117",
+            "score": 0.00113
+        },
+        {
+            "name": "Linum alpinum Jacq.",
+            "id": "1393605",
+            "score": 0.00113
+        },
+        {
+            "name": "Capsella bursa-pastoris (L.) Medik.",
+            "id": "1363910",
+            "score": 0.00112
+        }
+    ]
+}

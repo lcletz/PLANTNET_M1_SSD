@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phlomis fruticosa L.",
+            "id": "1394526",
+            "score": 0.5382
+        },
+        {
+            "name": "Phlomis russeliana (Sims) Lag. ex Benth.",
+            "id": "1561364",
+            "score": 0.39763
+        },
+        {
+            "name": "Phlomis purpurea L.",
+            "id": "1358852",
+            "score": 0.00183
+        },
+        {
+            "name": "Marrubium vulgare L.",
+            "id": "1356123",
+            "score": 0.00165
+        },
+        {
+            "name": "Leucas urticifolia (Vahl) Sm.",
+            "id": "1560564",
+            "score": 0.00131
+        }
+    ]
+}

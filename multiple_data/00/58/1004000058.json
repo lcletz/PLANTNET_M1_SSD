@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bromus hordeaceus L.",
+            "id": "1356286",
+            "score": 0.97129
+        },
+        {
+            "name": "Bromus racemosus L.",
+            "id": "1361203",
+            "score": 0.00892
+        },
+        {
+            "name": "Bromus secalinus L.",
+            "id": "1361206",
+            "score": 0.0042
+        },
+        {
+            "name": "Bromus squarrosus L.",
+            "id": "1361207",
+            "score": 0.00267
+        }
+    ]
+}

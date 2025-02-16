@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Allium schoenoprasum L.",
+            "id": "1392774",
+            "score": 0.8767
+        },
+        {
+            "name": "Allium lusitanicum Lam.",
+            "id": "1392657",
+            "score": 0.06247
+        },
+        {
+            "name": "Allium lineare L.",
+            "id": "1392651",
+            "score": 0.00357
+        },
+        {
+            "name": "Armeria alpina (DC.) Willd.",
+            "id": "1647128",
+            "score": 0.00355
+        },
+        {
+            "name": "Allium flavum L.",
+            "id": "1362404",
+            "score": 0.00112
+        }
+    ]
+}

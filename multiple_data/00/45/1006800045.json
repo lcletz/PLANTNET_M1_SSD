@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Eruca vesicaria (L.) Cav.",
+            "id": "1356328",
+            "score": 0.60936
+        },
+        {
+            "name": "Raphanus raphanistrum L.",
+            "id": "1363901",
+            "score": 0.02548
+        },
+        {
+            "name": "Brassica barrelieri (L.) Janka",
+            "id": "1358194",
+            "score": 0.00466
+        },
+        {
+            "name": "Moricandia arvensis (L.) DC.",
+            "id": "1358386",
+            "score": 0.00306
+        },
+        {
+            "name": "Brassica juncea (L.) Czern.",
+            "id": "1363904",
+            "score": 0.00169
+        },
+        {
+            "name": "Lobelia angulata G.Forst.",
+            "id": "1429193",
+            "score": 0.00121
+        }
+    ]
+}

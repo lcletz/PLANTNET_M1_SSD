@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Crambe maritima L.",
+            "id": "1391425",
+            "score": 0.96823
+        },
+        {
+            "name": "Brassica oleracea L.",
+            "id": "1363909",
+            "score": 0.01148
+        },
+        {
+            "name": "Eryngium maritimum L.",
+            "id": "1360719",
+            "score": 0.00256
+        },
+        {
+            "name": "Brassica napus L.",
+            "id": "1363908",
+            "score": 0.00104
+        }
+    ]
+}

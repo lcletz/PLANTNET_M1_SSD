@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Veronica polita Fr.",
+            "id": "1359981",
+            "score": 0.56368
+        },
+        {
+            "name": "Veronica persica Poir.",
+            "id": "1364065",
+            "score": 0.19212
+        },
+        {
+            "name": "Veronica hederifolia L.",
+            "id": "1364064",
+            "score": 0.06546
+        },
+        {
+            "name": "Veronica agrestis L.",
+            "id": "1364061",
+            "score": 0.06245
+        },
+        {
+            "name": "Veronica filiformis Sm.",
+            "id": "1397048",
+            "score": 0.05091
+        },
+        {
+            "name": "Veronica arvensis L.",
+            "id": "1364063",
+            "score": 0.01277
+        },
+        {
+            "name": "Veronica beccabunga L.",
+            "id": "1364067",
+            "score": 0.0016
+        },
+        {
+            "name": "Veronica montana L.",
+            "id": "1359979",
+            "score": 0.00115
+        },
+        {
+            "name": "Veronica verna L.",
+            "id": "1359988",
+            "score": 0.00104
+        }
+    ]
+}

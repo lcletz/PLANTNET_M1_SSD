@@ -1,0 +1,425 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Thymus praecox Opiz",
+            "id": "1397512",
+            "score": 0.37655
+        },
+        {
+            "name": "Gentiana brachyphylla Vill.",
+            "id": "1392541",
+            "score": 0.28458
+        },
+        {
+            "name": "Thymus serpyllum L.",
+            "id": "1362246",
+            "score": 0.1518
+        },
+        {
+            "name": "Gentiana sierrae Briq.",
+            "id": "1358632",
+            "score": 0.09317
+        },
+        {
+            "name": "Thymus nervosus J.Gay ex Willk.",
+            "id": "1396784",
+            "score": 0.08921
+        },
+        {
+            "name": "Gentiana nivalis L.",
+            "id": "1392552",
+            "score": 0.07106
+        },
+        {
+            "name": "Thymus pulegioides L.",
+            "id": "1396792",
+            "score": 0.0696
+        },
+        {
+            "name": "Thymus embergeri Roussine",
+            "id": "1396779",
+            "score": 0.04255
+        },
+        {
+            "name": "Gentiana verna L.",
+            "id": "1397535",
+            "score": 0.02786
+        },
+        {
+            "name": "Polygala alpina (DC.) Steud.",
+            "id": "1397465",
+            "score": 0.01736
+        },
+        {
+            "name": "Gentiana bavarica L.",
+            "id": "1392539",
+            "score": 0.01661
+        },
+        {
+            "name": "Gentianella germanica (Willd.) Börner",
+            "id": "1392569",
+            "score": 0.0122
+        },
+        {
+            "name": "Gentianella campestris (L.) Börner",
+            "id": "1392568",
+            "score": 0.01152
+        },
+        {
+            "name": "Gentiana pumila Jacq.",
+            "id": "1392558",
+            "score": 0.01119
+        },
+        {
+            "name": "Arenaria ciliata L.",
+            "id": "1396097",
+            "score": 0.00976
+        },
+        {
+            "name": "Gentiana utriculosa L.",
+            "id": "1392566",
+            "score": 0.00971
+        },
+        {
+            "name": "Polygala vulgaris L.",
+            "id": "1394742",
+            "score": 0.00921
+        },
+        {
+            "name": "Thymus herba-barona Loisel.",
+            "id": "1396780",
+            "score": 0.00913
+        },
+        {
+            "name": "Thymus vulgaris L.",
+            "id": "1356108",
+            "score": 0.00662
+        },
+        {
+            "name": "Gentiana alpina Vill.",
+            "id": "1392535",
+            "score": 0.00653
+        },
+        {
+            "name": "Thymus dolomiticus H.J.Coste",
+            "id": "1396776",
+            "score": 0.00627
+        },
+        {
+            "name": "Potentilla aurea L.",
+            "id": "1397466",
+            "score": 0.00577
+        },
+        {
+            "name": "Euphrasia alpina Lam.",
+            "id": "1392198",
+            "score": 0.00548
+        },
+        {
+            "name": "Lysimachia maritima (L.) Galasso, Banfi & Soldano",
+            "id": "1388890",
+            "score": 0.00527
+        },
+        {
+            "name": "Gentianopsis ciliata (L.) Ma",
+            "id": "1392574",
+            "score": 0.00501
+        },
+        {
+            "name": "Viola calcarata L.",
+            "id": "1397129",
+            "score": 0.00472
+        },
+        {
+            "name": "Potentilla crantzii (Crantz) Beck ex Fritsch",
+            "id": "1394840",
+            "score": 0.0044
+        },
+        {
+            "name": "Pedicularis kerneri Dalla Torre",
+            "id": "1394438",
+            "score": 0.00429
+        },
+        {
+            "name": "Trifolium occidentale Coombe",
+            "id": "1396857",
+            "score": 0.00428
+        },
+        {
+            "name": "Primula integrifolia L.",
+            "id": "1394911",
+            "score": 0.0037
+        },
+        {
+            "name": "Oxytropis campestris (L.) DC.",
+            "id": "1397451",
+            "score": 0.00368
+        },
+        {
+            "name": "Thymus nitens Lamotte",
+            "id": "1396785",
+            "score": 0.00307
+        },
+        {
+            "name": "Gentiana acaulis L.",
+            "id": "1392534",
+            "score": 0.00301
+        },
+        {
+            "name": "Gentiana clusii Perr. & Songeon",
+            "id": "1549015",
+            "score": 0.00268
+        },
+        {
+            "name": "Polygala calcarea F.W.Schultz",
+            "id": "1394730",
+            "score": 0.00247
+        },
+        {
+            "name": "Thymus richardii Pers.",
+            "id": "1389010",
+            "score": 0.00244
+        },
+        {
+            "name": "Saponaria caespitosa DC.",
+            "id": "1395928",
+            "score": 0.0023
+        },
+        {
+            "name": "Selaginella selaginoides (L.) P.Beauv. ex Schrank & Mart.",
+            "id": "1396169",
+            "score": 0.00228
+        },
+        {
+            "name": "Jasione crispa (Pourr.) Samp.",
+            "id": "1356764",
+            "score": 0.00221
+        },
+        {
+            "name": "Astragalus alpinus L.",
+            "id": "1397324",
+            "score": 0.00204
+        },
+        {
+            "name": "Cerastium alpinum L.",
+            "id": "1391074",
+            "score": 0.00196
+        },
+        {
+            "name": "Taraxacum pyrenaicum Reut.",
+            "id": "1396663",
+            "score": 0.00193
+        },
+        {
+            "name": "Satureja montana L.",
+            "id": "1361829",
+            "score": 0.00192
+        },
+        {
+            "name": "Polygala alpestris Rchb.",
+            "id": "1397464",
+            "score": 0.00185
+        },
+        {
+            "name": "Gentiana pyrenaica L.",
+            "id": "1392561",
+            "score": 0.00182
+        },
+        {
+            "name": "Lysimachia arvensis (L.) U.Manns & Anderb.",
+            "id": "1388913",
+            "score": 0.00181
+        },
+        {
+            "name": "Sherardia arvensis L.",
+            "id": "1364029",
+            "score": 0.0018
+        },
+        {
+            "name": "Trifolium alpinum L.",
+            "id": "1396843",
+            "score": 0.0018
+        },
+        {
+            "name": "Globularia cordifolia L.",
+            "id": "1392628",
+            "score": 0.00177
+        },
+        {
+            "name": "Satureja hortensis L.",
+            "id": "1395936",
+            "score": 0.0017
+        },
+        {
+            "name": "Gentianella ramosa (Hegetschw.) Holub",
+            "id": "1392571",
+            "score": 0.00169
+        },
+        {
+            "name": "Viola rupestris F.W.Schmidt",
+            "id": "1397524",
+            "score": 0.00169
+        },
+        {
+            "name": "Thymus alpestris (Čelak.) Tausch ex A.Kern.",
+            "id": "1741560",
+            "score": 0.00162
+        },
+        {
+            "name": "Thymus × citriodorus (Pers.) Schreb.",
+            "id": "1564513",
+            "score": 0.00153
+        },
+        {
+            "name": "Thymus camphoratus Hoffmanns. & Link",
+            "id": "1398815",
+            "score": 0.00152
+        },
+        {
+            "name": "Arenaria purpurascens Ramond ex DC.",
+            "id": "1396185",
+            "score": 0.00148
+        },
+        {
+            "name": "Centaurium littorale (Turner) Gilmour",
+            "id": "1397346",
+            "score": 0.00147
+        },
+        {
+            "name": "Daphne cneorum L.",
+            "id": "1391649",
+            "score": 0.00146
+        },
+        {
+            "name": "Armeria filicaulis (Boiss.) Boiss.",
+            "id": "1359995",
+            "score": 0.00145
+        },
+        {
+            "name": "Cerastium pumilum Curtis",
+            "id": "1356833",
+            "score": 0.00137
+        },
+        {
+            "name": "Cerastium arvense L.",
+            "id": "1356817",
+            "score": 0.00136
+        },
+        {
+            "name": "Thymbra capitata (L.) Cav.",
+            "id": "1359029",
+            "score": 0.0013
+        },
+        {
+            "name": "Silene acaulis (L.) Jacq.",
+            "id": "1396272",
+            "score": 0.00128
+        },
+        {
+            "name": "Thymus odoratissimus Mill.",
+            "id": "1390074",
+            "score": 0.00126
+        },
+        {
+            "name": "Viola bubanii Timb.-Lagr.",
+            "id": "1397126",
+            "score": 0.00125
+        },
+        {
+            "name": "Lysimachia foemina (Mill.) U.Manns & Anderb.",
+            "id": "1389369",
+            "score": 0.0012
+        },
+        {
+            "name": "Viola lutea Huds.",
+            "id": "1397161",
+            "score": 0.00119
+        },
+        {
+            "name": "Pedicularis verticillata L.",
+            "id": "1394451",
+            "score": 0.00117
+        },
+        {
+            "name": "Dianthus hyssopifolius L.",
+            "id": "1391697",
+            "score": 0.00116
+        },
+        {
+            "name": "Genista pilosa L.",
+            "id": "1392521",
+            "score": 0.00116
+        },
+        {
+            "name": "Oxytropis montana (L.) DC.",
+            "id": "1741645",
+            "score": 0.00116
+        },
+        {
+            "name": "Romulea bulbocodium (L.) Sebast. & Mauri",
+            "id": "1361552",
+            "score": 0.00113
+        },
+        {
+            "name": "Sideritis hyssopifolia L.",
+            "id": "1362495",
+            "score": 0.00112
+        },
+        {
+            "name": "Trifolium pallescens Schreb.",
+            "id": "1396858",
+            "score": 0.00112
+        },
+        {
+            "name": "Origanum vulgare L.",
+            "id": "1358846",
+            "score": 0.00108
+        },
+        {
+            "name": "Dianthus deltoides L.",
+            "id": "1397368",
+            "score": 0.00105
+        },
+        {
+            "name": "Erigeron uniflorus L.",
+            "id": "1397378",
+            "score": 0.00101
+        },
+        {
+            "name": "Geranium cinereum Cav.",
+            "id": "1362453",
+            "score": 0.001
+        },
+        {
+            "name": "Orobanche alba Stephan ex Willd.",
+            "id": "1394326",
+            "score": 0.001
+        },
+        {
+            "name": "Euphrasia minima Jacq. ex DC.",
+            "id": "1397381",
+            "score": 0.00095
+        },
+        {
+            "name": "Lysimachia monelli (L.) U.Manns & Anderb.",
+            "id": "1742349",
+            "score": 0.00094
+        },
+        {
+            "name": "Ajuga pyramidalis L.",
+            "id": "1389405",
+            "score": 0.00075
+        },
+        {
+            "name": "Lamium hybridum Vill.",
+            "id": "1358751",
+            "score": 0.00063
+        },
+        {
+            "name": "Pedicularis sylvatica L.",
+            "id": "1359740",
+            "score": 0.00052
+        }
+    ]
+}

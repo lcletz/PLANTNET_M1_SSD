@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cistus albidus L.",
+            "id": "1357096",
+            "score": 0.88441
+        },
+        {
+            "name": "Phlomis purpurea L.",
+            "id": "1358852",
+            "score": 0.00825
+        },
+        {
+            "name": "Salvia fruticosa Mill.",
+            "id": "1358866",
+            "score": 0.00365
+        },
+        {
+            "name": "Cerastium tomentosum L.",
+            "id": "1391092",
+            "score": 0.00359
+        },
+        {
+            "name": "Cistus crispus L.",
+            "id": "1357100",
+            "score": 0.00296
+        },
+        {
+            "name": "Phlomis lychnitis L.",
+            "id": "1394527",
+            "score": 0.00196
+        },
+        {
+            "name": "Artemisia ludoviciana Nutt.",
+            "id": "1396735",
+            "score": 0.00172
+        },
+        {
+            "name": "Salvia officinalis L.",
+            "id": "1356118",
+            "score": 0.00115
+        },
+        {
+            "name": "Cistus creticus L.",
+            "id": "1357099",
+            "score": 0.00112
+        },
+        {
+            "name": "Stachys byzantina K.Koch",
+            "id": "1396424",
+            "score": 0.00108
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bartsia alpina L.",
+            "id": "1400101",
+            "score": 0.93191
+        },
+        {
+            "name": "Lamium purpureum L.",
+            "id": "1358752",
+            "score": 0.0018
+        },
+        {
+            "name": "Salvia verticillata L.",
+            "id": "1397480",
+            "score": 0.00179
+        },
+        {
+            "name": "Clinopodium alpinum (L.) Kuntze",
+            "id": "1391304",
+            "score": 0.00126
+        },
+        {
+            "name": "Scutellaria galericulata L.",
+            "id": "1396137",
+            "score": 0.00118
+        }
+    ]
+}

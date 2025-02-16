@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Erica lusitanica Rudolphi",
+            "id": "1392024",
+            "score": 0.63146
+        },
+        {
+            "name": "Erica arborea L.",
+            "id": "1358503",
+            "score": 0.157
+        },
+        {
+            "name": "Calluna vulgaris (L.) Hull",
+            "id": "1358501",
+            "score": 0.00482
+        },
+        {
+            "name": "Erica vagans L.",
+            "id": "1361800",
+            "score": 0.00255
+        },
+        {
+            "name": "Erica imbricata L.",
+            "id": "1538989",
+            "score": 0.00172
+        },
+        {
+            "name": "Erica cinerea L.",
+            "id": "1358507",
+            "score": 0.00126
+        }
+    ]
+}

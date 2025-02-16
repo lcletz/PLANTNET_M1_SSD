@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Narcissus spp.",
+            "id": "1419152",
+            "score": 0.90673
+        },
+        {
+            "name": "Rosa foetida Herrm.",
+            "id": "1395284",
+            "score": 0.01272
+        },
+        {
+            "name": "Narcissus jonquilla L.",
+            "id": "1360962",
+            "score": 0.00949
+        },
+        {
+            "name": "Narcissus pseudonarcissus L.",
+            "id": "1360968",
+            "score": 0.00435
+        },
+        {
+            "name": "Tulipa gesneriana L.",
+            "id": "1396919",
+            "score": 0.0036
+        },
+        {
+            "name": "Tulipa sylvestris L.",
+            "id": "1361626",
+            "score": 0.0029
+        },
+        {
+            "name": "Cochlospermum vitifolium (Willd.) Spreng.",
+            "id": "1377199",
+            "score": 0.00192
+        }
+    ]
+}

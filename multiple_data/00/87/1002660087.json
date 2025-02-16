@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Mentha aquatica L.",
+            "id": "1356105",
+            "score": 0.89272
+        },
+        {
+            "name": "Mentha arvensis L.",
+            "id": "1358785",
+            "score": 0.03366
+        },
+        {
+            "name": "Mentha pulegium L.",
+            "id": "1356106",
+            "score": 0.02423
+        },
+        {
+            "name": "Mentha spicata L.",
+            "id": "1358788",
+            "score": 0.00233
+        },
+        {
+            "name": "Mentha × verticillata L.",
+            "id": "1560697",
+            "score": 0.0017
+        },
+        {
+            "name": "Mentha longifolia (L.) L.",
+            "id": "1356107",
+            "score": 0.0013
+        },
+        {
+            "name": "Blephilia ciliata (L.) Raf. ex Benth.",
+            "id": "1816904",
+            "score": 0.00127
+        },
+        {
+            "name": "Mentha suaveolens Ehrh.",
+            "id": "1358789",
+            "score": 0.00101
+        }
+    ]
+}

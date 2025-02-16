@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Solanum elaeagnifolium Cav.",
+            "id": "1356163",
+            "score": 0.91625
+        },
+        {
+            "name": "Solanum sturtianum F.Muell.",
+            "id": "1806259",
+            "score": 0.00393
+        },
+        {
+            "name": "Solanum esuriale Lindl.",
+            "id": "1806230",
+            "score": 0.0021
+        },
+        {
+            "name": "Solanum dimidiatum Raf.",
+            "id": "1389721",
+            "score": 0.00133
+        },
+        {
+            "name": "Solanum hindsianum Benth.",
+            "id": "1438379",
+            "score": 0.00119
+        }
+    ]
+}

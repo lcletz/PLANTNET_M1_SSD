@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viburnum plicatum Thunb.",
+            "id": "1397609",
+            "score": 0.86554
+        },
+        {
+            "name": "Viburnum lantanoides Michx.",
+            "id": "1414186",
+            "score": 0.04524
+        },
+        {
+            "name": "Viburnum opulus L.",
+            "id": "1361743",
+            "score": 0.01357
+        },
+        {
+            "name": "Rhodotypos scandens (Thunb.) Makino",
+            "id": "1395192",
+            "score": 0.00171
+        },
+        {
+            "name": "Hydrangea arborescens L.",
+            "id": "1393222",
+            "score": 0.00141
+        },
+        {
+            "name": "Viburnum trilobum Marshall",
+            "id": "1397611",
+            "score": 0.00134
+        },
+        {
+            "name": "Hydrangea paniculata Siebold",
+            "id": "1393223",
+            "score": 0.00106
+        },
+        {
+            "name": "Hydrangea petiolaris Siebold & Zucc.",
+            "id": "1398621",
+            "score": 0.00105
+        }
+    ]
+}

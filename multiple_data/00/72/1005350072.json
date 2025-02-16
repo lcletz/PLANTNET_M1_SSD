@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Asplenium nidus L.",
+            "id": "1390496",
+            "score": 0.95308
+        },
+        {
+            "name": "Asplenium scolopendrium L.",
+            "id": "1356357",
+            "score": 0.00853
+        },
+        {
+            "name": "Asplenium antiquum Makino",
+            "id": "1702249",
+            "score": 0.00289
+        },
+        {
+            "name": "Phlebodium aureum (L.) J.Sm.",
+            "id": "1400653",
+            "score": 0.00137
+        },
+        {
+            "name": "Rhabdophyllum affine (Hook.f.) Tiegh.",
+            "id": "1748442",
+            "score": 0.00112
+        }
+    ]
+}

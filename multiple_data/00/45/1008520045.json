@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.83851
+        },
+        {
+            "name": "Aesculus glabra Willd.",
+            "id": "1390602",
+            "score": 0.10212
+        },
+        {
+            "name": "Aesculus californica (Spach) Nutt.",
+            "id": "1440633",
+            "score": 0.01837
+        },
+        {
+            "name": "Castanea sativa Mill.",
+            "id": "1358610",
+            "score": 0.00348
+        },
+        {
+            "name": "Aesculus flava Sol.",
+            "id": "1398407",
+            "score": 0.00304
+        },
+        {
+            "name": "Castanea crenata Siebold & Zucc.",
+            "id": "1390962",
+            "score": 0.00249
+        },
+        {
+            "name": "Aesculus pavia L.",
+            "id": "1389544",
+            "score": 0.00164
+        },
+        {
+            "name": "Macropsychanthus violaceus (Mart. ex Benth.) L.P.Queiroz & Snak",
+            "id": "1822754",
+            "score": 0.00143
+        }
+    ]
+}

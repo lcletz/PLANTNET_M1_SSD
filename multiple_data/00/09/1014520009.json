@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Styphnolobium japonicum (L.) Schott",
+            "id": "1369068",
+            "score": 0.4182
+        },
+        {
+            "name": "Gymnocladus dioicus (L.) K.Koch",
+            "id": "1745442",
+            "score": 0.00531
+        },
+        {
+            "name": "Glycyrrhiza glabra L.",
+            "id": "1363659",
+            "score": 0.00157
+        },
+        {
+            "name": "Gleditsia sinensis Lam.",
+            "id": "1428562",
+            "score": 0.0015
+        },
+        {
+            "name": "Azadirachta indica A.Juss.",
+            "id": "1405342",
+            "score": 0.00116
+        }
+    ]
+}

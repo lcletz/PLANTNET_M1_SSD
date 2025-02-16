@@ -1,0 +1,400 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rubus saxatilis L.",
+            "id": "1395601",
+            "score": 0.25237
+        },
+        {
+            "name": "Rubus caesius L.",
+            "id": "1360354",
+            "score": 0.20866
+        },
+        {
+            "name": "Rubus pruinosus Arrh.",
+            "id": "1389311",
+            "score": 0.11702
+        },
+        {
+            "name": "Rosa arvensis Huds.",
+            "id": "1395253",
+            "score": 0.05858
+        },
+        {
+            "name": "Rubus ursinus Cham. & Schltdl.",
+            "id": "1413541",
+            "score": 0.03268
+        },
+        {
+            "name": "Rubus canescens DC.",
+            "id": "1395431",
+            "score": 0.01525
+        },
+        {
+            "name": "Rubus argutus Link",
+            "id": "1421896",
+            "score": 0.01439
+        },
+        {
+            "name": "Anemonastrum narcissiflorum (L.) Holub",
+            "id": "1741807",
+            "score": 0.01386
+        },
+        {
+            "name": "Anemonoides sylvestris (L.) Galasso, Banfi & Soldano",
+            "id": "1737523",
+            "score": 0.00954
+        },
+        {
+            "name": "Rubus camptostachys G.Braun",
+            "id": "1395430",
+            "score": 0.0077
+        },
+        {
+            "name": "Holodiscus discolor (Pursh) Maxim.",
+            "id": "1395391",
+            "score": 0.0073
+        },
+        {
+            "name": "Rosa multiflora Thunb.",
+            "id": "1360345",
+            "score": 0.00707
+        },
+        {
+            "name": "Rosa spinosissima L.",
+            "id": "1360350",
+            "score": 0.0068
+        },
+        {
+            "name": "Rubus fruticosus L.",
+            "id": "1395477",
+            "score": 0.0064
+        },
+        {
+            "name": "Allium neapolitanum Cirillo",
+            "id": "1360925",
+            "score": 0.00615
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.00595
+        },
+        {
+            "name": "Anemonoides nemorosa (L.) Holub",
+            "id": "1737521",
+            "score": 0.00594
+        },
+        {
+            "name": "Rubus arcticus L.",
+            "id": "1413517",
+            "score": 0.00593
+        },
+        {
+            "name": "Geum laciniatum Murray",
+            "id": "1392604",
+            "score": 0.00491
+        },
+        {
+            "name": "Rubus occidentalis L.",
+            "id": "1413531",
+            "score": 0.0045
+        },
+        {
+            "name": "Geranium rivulare Vill.",
+            "id": "1392595",
+            "score": 0.00399
+        },
+        {
+            "name": "Potentilla montana Brot.",
+            "id": "1360312",
+            "score": 0.00394
+        },
+        {
+            "name": "Rubus spectabilis Pursh",
+            "id": "1395613",
+            "score": 0.00382
+        },
+        {
+            "name": "Filipendula vulgaris Moench",
+            "id": "1360297",
+            "score": 0.00378
+        },
+        {
+            "name": "Rubus pubescens Raf.",
+            "id": "1413537",
+            "score": 0.00373
+        },
+        {
+            "name": "Anemonoides quinquefolia (L.) Holub",
+            "id": "1815461",
+            "score": 0.00343
+        },
+        {
+            "name": "Rubus nemoralis P.J.Müll.",
+            "id": "1395553",
+            "score": 0.00343
+        },
+        {
+            "name": "Kerria japonica (L.) DC.",
+            "id": "1393375",
+            "score": 0.003
+        },
+        {
+            "name": "Rubus scaber Weihe",
+            "id": "1395602",
+            "score": 0.0029
+        },
+        {
+            "name": "Geum rivale L.",
+            "id": "1392614",
+            "score": 0.00283
+        },
+        {
+            "name": "Rosa corymbifera Borkh.",
+            "id": "1360335",
+            "score": 0.00264
+        },
+        {
+            "name": "Aconitum lycoctonum L.",
+            "id": "1395010",
+            "score": 0.00263
+        },
+        {
+            "name": "Allium massaessylum Batt. & Trab.",
+            "id": "1362020",
+            "score": 0.00259
+        },
+        {
+            "name": "Rosa banksiae R.Br.",
+            "id": "1420444",
+            "score": 0.0025
+        },
+        {
+            "name": "Rubus hispidus L.",
+            "id": "1413524",
+            "score": 0.00234
+        },
+        {
+            "name": "Pimpinella major (L.) Huds.",
+            "id": "1394592",
+            "score": 0.00234
+        },
+        {
+            "name": "Scandosorbus intermedia (Ehrh.) Sennikov",
+            "id": "1737669",
+            "score": 0.00234
+        },
+        {
+            "name": "Althaea officinalis L.",
+            "id": "1359625",
+            "score": 0.00214
+        },
+        {
+            "name": "Anemonoides apennina (L.) Holub",
+            "id": "1737519",
+            "score": 0.0021
+        },
+        {
+            "name": "Orlaya grandiflora (L.) Hoffm.",
+            "id": "1360771",
+            "score": 0.00206
+        },
+        {
+            "name": "Philadelphus coronarius L.",
+            "id": "1394509",
+            "score": 0.00205
+        },
+        {
+            "name": "Prunus serrulata Lindl.",
+            "id": "1394953",
+            "score": 0.00196
+        },
+        {
+            "name": "Crataegus monogyna Jacq.",
+            "id": "1363988",
+            "score": 0.00195
+        },
+        {
+            "name": "Rubus elegantispinosus (A.Schumach.) H.E.Weber",
+            "id": "1395466",
+            "score": 0.00195
+        },
+        {
+            "name": "Viburnum opulus L.",
+            "id": "1361743",
+            "score": 0.00192
+        },
+        {
+            "name": "Rosa canina L.",
+            "id": "1360334",
+            "score": 0.00183
+        },
+        {
+            "name": "Scabiosa ochroleuca L.",
+            "id": "1358478",
+            "score": 0.00182
+        },
+        {
+            "name": "Ranunculus aconitifolius L.",
+            "id": "1395045",
+            "score": 0.00179
+        },
+        {
+            "name": "Rubus idaeus L.",
+            "id": "1395507",
+            "score": 0.00178
+        },
+        {
+            "name": "Silene latifolia Poir.",
+            "id": "1357009",
+            "score": 0.00169
+        },
+        {
+            "name": "Aquilegia vulgaris L.",
+            "id": "1360155",
+            "score": 0.00163
+        },
+        {
+            "name": "Papaver alpinum L.",
+            "id": "1394399",
+            "score": 0.00152
+        },
+        {
+            "name": "Geranium sylvaticum L.",
+            "id": "1392599",
+            "score": 0.00148
+        },
+        {
+            "name": "Rosa sempervirens L.",
+            "id": "1360348",
+            "score": 0.00148
+        },
+        {
+            "name": "Geranium maculatum L.",
+            "id": "1412160",
+            "score": 0.00144
+        },
+        {
+            "name": "Geranium pratense L.",
+            "id": "1397394",
+            "score": 0.00138
+        },
+        {
+            "name": "Geranium versicolor L.",
+            "id": "1392600",
+            "score": 0.00137
+        },
+        {
+            "name": "Aconitum variegatum L.",
+            "id": "1396228",
+            "score": 0.00132
+        },
+        {
+            "name": "Helianthemum apenninum (L.) Mill.",
+            "id": "1357126",
+            "score": 0.0013
+        },
+        {
+            "name": "Rabelera holostea (L.) M.T.Sharples & E.A.Tripp",
+            "id": "1737674",
+            "score": 0.00128
+        },
+        {
+            "name": "Rhododendron maximum L.",
+            "id": "1398409",
+            "score": 0.00127
+        },
+        {
+            "name": "Crataegus germanica (L.) Kuntze",
+            "id": "1391434",
+            "score": 0.00125
+        },
+        {
+            "name": "Hepatica nobilis Schreb.",
+            "id": "1412241",
+            "score": 0.00122
+        },
+        {
+            "name": "Ranunculus alpestris L.",
+            "id": "1397471",
+            "score": 0.00122
+        },
+        {
+            "name": "Geranium sanguineum L.",
+            "id": "1392597",
+            "score": 0.00122
+        },
+        {
+            "name": "Armeria leucocephala Salzm. ex W.D.J.Koch",
+            "id": "1396362",
+            "score": 0.00118
+        },
+        {
+            "name": "Rosa tomentosa Sm.",
+            "id": "1395366",
+            "score": 0.00118
+        },
+        {
+            "name": "Thalictrum tuberosum L.",
+            "id": "1396750",
+            "score": 0.00115
+        },
+        {
+            "name": "Fragaria vesca L.",
+            "id": "1363991",
+            "score": 0.00109
+        },
+        {
+            "name": "Malus domestica (Suckow) Borkh.",
+            "id": "1729464",
+            "score": 0.00108
+        },
+        {
+            "name": "Delphinium elatum L.",
+            "id": "1380238",
+            "score": 0.00106
+        },
+        {
+            "name": "Rubus trivialis Michx.",
+            "id": "1420467",
+            "score": 0.00102
+        },
+        {
+            "name": "Jasminum sambac (L.) Aiton",
+            "id": "1383127",
+            "score": 0.00102
+        },
+        {
+            "name": "Malva alcea L.",
+            "id": "1359635",
+            "score": 0.00102
+        },
+        {
+            "name": "Portulaca grandiflora Hook.",
+            "id": "1383052",
+            "score": 0.00101
+        },
+        {
+            "name": "Isopyrum thalictroides L.",
+            "id": "1393321",
+            "score": 0.001
+        },
+        {
+            "name": "Rubus flagellaris Willd.",
+            "id": "1413520",
+            "score": 0.00097
+        },
+        {
+            "name": "Agrimonia rostellata Wallr.",
+            "id": "1441442",
+            "score": 0.00096
+        },
+        {
+            "name": "Rubus ulmifolius Schott",
+            "id": "1360358",
+            "score": 0.00094
+        }
+    ]
+}

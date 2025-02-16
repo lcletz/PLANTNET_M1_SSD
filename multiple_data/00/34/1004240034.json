@@ -1,0 +1,300 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Quercus rubra L.",
+            "id": "1395035",
+            "score": 0.67091
+        },
+        {
+            "name": "Quercus velutina Lam.",
+            "id": "1398376",
+            "score": 0.11034
+        },
+        {
+            "name": "Quercus palustris Münchh.",
+            "id": "1397592",
+            "score": 0.01618
+        },
+        {
+            "name": "Quercus nigra L.",
+            "id": "1389501",
+            "score": 0.01233
+        },
+        {
+            "name": "Quercus gravesii Sudw.",
+            "id": "1437114",
+            "score": 0.01186
+        },
+        {
+            "name": "Quercus canbyi Trel.",
+            "id": "1548144",
+            "score": 0.01058
+        },
+        {
+            "name": "Quercus bicolor Willd.",
+            "id": "1413402",
+            "score": 0.00849
+        },
+        {
+            "name": "Quercus shumardii Buckley",
+            "id": "1413409",
+            "score": 0.00712
+        },
+        {
+            "name": "Castanea sativa Mill.",
+            "id": "1358610",
+            "score": 0.00681
+        },
+        {
+            "name": "Quercus macrocarpa Michx.",
+            "id": "1413406",
+            "score": 0.00577
+        },
+        {
+            "name": "Quercus coccinea Münchh.",
+            "id": "1397716",
+            "score": 0.00542
+        },
+        {
+            "name": "Quercus ilicifolia Wangenh.",
+            "id": "1397874",
+            "score": 0.00499
+        },
+        {
+            "name": "Quercus robur L.",
+            "id": "1357413",
+            "score": 0.00498
+        },
+        {
+            "name": "Quercus castaneifolia C.A.Mey.",
+            "id": "1390589",
+            "score": 0.00391
+        },
+        {
+            "name": "Quercus texana Buckley",
+            "id": "1437155",
+            "score": 0.00295
+        },
+        {
+            "name": "Quercus falcata Michx.",
+            "id": "1419072",
+            "score": 0.00251
+        },
+        {
+            "name": "Acer rubrum L.",
+            "id": "1398406",
+            "score": 0.00236
+        },
+        {
+            "name": "Acer platanoides L.",
+            "id": "1397301",
+            "score": 0.00224
+        },
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.00223
+        },
+        {
+            "name": "Quercus xalapensis Bonpl.",
+            "id": "1548559",
+            "score": 0.00222
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.00208
+        },
+        {
+            "name": "Quercus sartorii Liebm.",
+            "id": "1819752",
+            "score": 0.00184
+        },
+        {
+            "name": "Albizia julibrissin Durazz.",
+            "id": "1391958",
+            "score": 0.00174
+        },
+        {
+            "name": "Schinus terebinthifolia Raddi",
+            "id": "1396078",
+            "score": 0.00148
+        },
+        {
+            "name": "Acer palmatum Thunb.",
+            "id": "1390731",
+            "score": 0.00136
+        },
+        {
+            "name": "Tilia cordata Mill.",
+            "id": "1396797",
+            "score": 0.00134
+        },
+        {
+            "name": "Platanus occidentalis L.",
+            "id": "1398530",
+            "score": 0.0013
+        },
+        {
+            "name": "Acer tataricum L.",
+            "id": "1398270",
+            "score": 0.0013
+        },
+        {
+            "name": "Quercus pagoda Raf.",
+            "id": "1437139",
+            "score": 0.00123
+        },
+        {
+            "name": "Senna siamea (Lam.) H.S.Irwin & Barneby",
+            "id": "1408690",
+            "score": 0.00115
+        },
+        {
+            "name": "Quercus marilandica (L.) Münchh.",
+            "id": "1548363",
+            "score": 0.00114
+        },
+        {
+            "name": "Quercus arkansana Sarg.",
+            "id": "1437091",
+            "score": 0.00108
+        },
+        {
+            "name": "Quercus petraea (Matt.) Liebl.",
+            "id": "1419076",
+            "score": 0.00097
+        },
+        {
+            "name": "Quercus cerris L.",
+            "id": "1395020",
+            "score": 0.00095
+        },
+        {
+            "name": "Guazuma ulmifolia Lam.",
+            "id": "1378186",
+            "score": 0.00085
+        },
+        {
+            "name": "Fraxinus angustifolia Vahl",
+            "id": "1362009",
+            "score": 0.00077
+        },
+        {
+            "name": "Cupania vernalis Cambess.",
+            "id": "1685731",
+            "score": 0.00073
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.00073
+        },
+        {
+            "name": "Tilia platyphyllos Scop.",
+            "id": "1396802",
+            "score": 0.00067
+        },
+        {
+            "name": "Alnus glutinosa (L.) Gaertn.",
+            "id": "1356608",
+            "score": 0.00065
+        },
+        {
+            "name": "Grevillea robusta A.Cunn. ex R.Br.",
+            "id": "1394929",
+            "score": 0.00059
+        },
+        {
+            "name": "Alnus incana (L.) Moench",
+            "id": "1397308",
+            "score": 0.00054
+        },
+        {
+            "name": "Ulmus glabra Huds.",
+            "id": "1397552",
+            "score": 0.00053
+        },
+        {
+            "name": "Tilia tomentosa Moench",
+            "id": "1396803",
+            "score": 0.00051
+        },
+        {
+            "name": "Melia azedarach L.",
+            "id": "1363624",
+            "score": 0.00048
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00047
+        },
+        {
+            "name": "Juglans regia L.",
+            "id": "1358713",
+            "score": 0.00045
+        },
+        {
+            "name": "Leucaena leucocephala (Lam.) de Wit",
+            "id": "1363651",
+            "score": 0.00044
+        },
+        {
+            "name": "Acacia dealbata Link",
+            "id": "1363764",
+            "score": 0.0004
+        },
+        {
+            "name": "Aria edulis (Willd.) M.Roem.",
+            "id": "1737559",
+            "score": 0.00037
+        },
+        {
+            "name": "Pinus strobus L.",
+            "id": "1394616",
+            "score": 0.00037
+        },
+        {
+            "name": "Cedrela odorata L.",
+            "id": "1365961",
+            "score": 0.00034
+        },
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.00031
+        },
+        {
+            "name": "Acacia mearnsii De Wild.",
+            "id": "1363770",
+            "score": 0.00031
+        },
+        {
+            "name": "Quercus pubescens Willd.",
+            "id": "1395026",
+            "score": 0.0003
+        },
+        {
+            "name": "Tilia americana L.",
+            "id": "1397800",
+            "score": 0.0003
+        },
+        {
+            "name": "Salix atrocinerea Brot.",
+            "id": "1360451",
+            "score": 0.00029
+        },
+        {
+            "name": "Fraxinus americana L.",
+            "id": "1397619",
+            "score": 0.00028
+        },
+        {
+            "name": "Tamarix gallica L.",
+            "id": "1364090",
+            "score": 0.00027
+        }
+    ]
+}

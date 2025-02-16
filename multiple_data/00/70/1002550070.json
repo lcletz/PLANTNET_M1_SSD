@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Zinnia elegans Jacq.",
+            "id": "1374114",
+            "score": 0.693
+        },
+        {
+            "name": "Zinnia peruviana (L.) L.",
+            "id": "1374113",
+            "score": 0.24582
+        },
+        {
+            "name": "Zinnia haageana Regel",
+            "id": "1397251",
+            "score": 0.01606
+        },
+        {
+            "name": "Zinnia angustifolia Kunth",
+            "id": "1397249",
+            "score": 0.00234
+        },
+        {
+            "name": "Zinnia acerosa (DC.) A.Gray",
+            "id": "1526828",
+            "score": 0.00168
+        }
+    ]
+}

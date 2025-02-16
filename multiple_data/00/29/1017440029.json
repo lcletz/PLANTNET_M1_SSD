@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Anchusa azurea Mill.",
+            "id": "1363832",
+            "score": 0.88021
+        },
+        {
+            "name": "Anchusa arvensis (L.) M.Bieb.",
+            "id": "1477188",
+            "score": 0.01374
+        },
+        {
+            "name": "Anchusa undulata L.",
+            "id": "1356619",
+            "score": 0.00672
+        },
+        {
+            "name": "Anchusa officinalis L.",
+            "id": "1394038",
+            "score": 0.00611
+        },
+        {
+            "name": "Anchusa crispa Viv.",
+            "id": "1394000",
+            "score": 0.00107
+        }
+    ]
+}

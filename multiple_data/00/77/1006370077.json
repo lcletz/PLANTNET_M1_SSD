@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.86507
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.01173
+        },
+        {
+            "name": "Sambucus canadensis L.",
+            "id": "1356462",
+            "score": 0.00203
+        },
+        {
+            "name": "Angelica archangelica L.",
+            "id": "1397313",
+            "score": 0.00163
+        },
+        {
+            "name": "Angelica sylvestris L.",
+            "id": "1394591",
+            "score": 0.00142
+        },
+        {
+            "name": "Sambucus ebulus L.",
+            "id": "1356276",
+            "score": 0.00126
+        },
+        {
+            "name": "Angelica atropurpurea L.",
+            "id": "1399920",
+            "score": 0.00113
+        },
+        {
+            "name": "Rosa agrestis Savi",
+            "id": "1360330",
+            "score": 0.00105
+        }
+    ]
+}

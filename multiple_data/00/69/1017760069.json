@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Primula veris L.",
+            "id": "1360145",
+            "score": 0.74036
+        },
+        {
+            "name": "Primula × polyantha Mill.",
+            "id": "1661341",
+            "score": 0.0313
+        },
+        {
+            "name": "Primula elatior (L.) Hill",
+            "id": "1394906",
+            "score": 0.01827
+        },
+        {
+            "name": "Primula auricula L.",
+            "id": "1394898",
+            "score": 0.01319
+        },
+        {
+            "name": "Primula palinuri Petagna",
+            "id": "1399370",
+            "score": 0.00511
+        },
+        {
+            "name": "Aurinia corymbosa Griseb.",
+            "id": "1479480",
+            "score": 0.00278
+        }
+    ]
+}

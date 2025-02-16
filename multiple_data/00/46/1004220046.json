@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stellaria graminea L.",
+            "id": "1396446",
+            "score": 0.84225
+        },
+        {
+            "name": "Stellaria nemorum L.",
+            "id": "1382174",
+            "score": 0.02744
+        },
+        {
+            "name": "Stellaria longifolia Muhl. ex Willd.",
+            "id": "1413925",
+            "score": 0.00938
+        },
+        {
+            "name": "Stellaria crassifolia Ehrh.",
+            "id": "1413921",
+            "score": 0.00885
+        },
+        {
+            "name": "Stellaria palustris Ehrh. ex Hoffm.",
+            "id": "1721301",
+            "score": 0.00863
+        },
+        {
+            "name": "Stellaria alsine Grimm",
+            "id": "1357080",
+            "score": 0.00189
+        },
+        {
+            "name": "Rabelera holostea (L.) M.T.Sharples & E.A.Tripp",
+            "id": "1737674",
+            "score": 0.00167
+        }
+    ]
+}

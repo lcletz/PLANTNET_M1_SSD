@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Cucurbita moschata Duchesne",
+            "id": "1399145",
+            "score": 0.36305
+        },
+        {
+            "name": "Cucurbita pepo L.",
+            "id": "1384485",
+            "score": 0.19185
+        },
+        {
+            "name": "Cucumis melo L.",
+            "id": "1363647",
+            "score": 0.04657
+        },
+        {
+            "name": "Cucurbita ficifolia Bouché",
+            "id": "1384482",
+            "score": 0.00251
+        }
+    ]
+}

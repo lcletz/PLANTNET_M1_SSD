@@ -1,0 +1,20 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sorghum bicolor (L.) Moench",
+            "id": "1356240",
+            "score": 0.90893
+        },
+        {
+            "name": "Panicum miliaceum L.",
+            "id": "1363446",
+            "score": 0.0171
+        },
+        {
+            "name": "Zea mays L.",
+            "id": "1363500",
+            "score": 0.00241
+        }
+    ]
+}

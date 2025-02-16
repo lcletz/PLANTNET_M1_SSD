@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Centaurea aspera L.",
+            "id": "1357401",
+            "score": 0.82499
+        },
+        {
+            "name": "Centaurea paniculata L.",
+            "id": "1362429",
+            "score": 0.09666
+        },
+        {
+            "name": "Centaurea napifolia L.",
+            "id": "1357437",
+            "score": 0.01824
+        },
+        {
+            "name": "Centaurea stoebe L.",
+            "id": "1391044",
+            "score": 0.01706
+        },
+        {
+            "name": "Centaurea jacea L.",
+            "id": "1362427",
+            "score": 0.00411
+        },
+        {
+            "name": "Centaurea sphaerocephala L.",
+            "id": "1357456",
+            "score": 0.00274
+        },
+        {
+            "name": "Centaurea alba L.",
+            "id": "1362275",
+            "score": 0.00224
+        },
+        {
+            "name": "Centaurea calcitrapa L.",
+            "id": "1355884",
+            "score": 0.00136
+        },
+        {
+            "name": "Centaurea deusta Ten.",
+            "id": "1399522",
+            "score": 0.00124
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Salvia pratensis L.",
+            "id": "1395913",
+            "score": 0.9269
+        },
+        {
+            "name": "Salvia × sylvestris L.",
+            "id": "1563105",
+            "score": 0.02294
+        },
+        {
+            "name": "Salvia verticillata L.",
+            "id": "1397480",
+            "score": 0.00659
+        },
+        {
+            "name": "Salvia sclarea L.",
+            "id": "1358876",
+            "score": 0.00486
+        },
+        {
+            "name": "Verbascum nigrum L.",
+            "id": "1397520",
+            "score": 0.00409
+        },
+        {
+            "name": "Salvia nemorosa L.",
+            "id": "1397479",
+            "score": 0.00252
+        },
+        {
+            "name": "Salvia verbenaca L.",
+            "id": "1356115",
+            "score": 0.00239
+        }
+    ]
+}

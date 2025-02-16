@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Crataegus germanica (L.) Kuntze",
+            "id": "1391434",
+            "score": 0.71853
+        },
+        {
+            "name": "Cydonia oblonga Mill.",
+            "id": "1363999",
+            "score": 0.00295
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.00271
+        },
+        {
+            "name": "Cormus domestica (L.) Spach",
+            "id": "1738846",
+            "score": 0.00188
+        },
+        {
+            "name": "Rosa arvensis Huds.",
+            "id": "1395253",
+            "score": 0.00182
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.00161
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.00114
+        }
+    ]
+}

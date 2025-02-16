@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Verbascum pulverulentum Vill.",
+            "id": "1360539",
+            "score": 0.77005
+        },
+        {
+            "name": "Verbascum lychnitis L.",
+            "id": "1360531",
+            "score": 0.00956
+        },
+        {
+            "name": "Verbascum sinuatum L.",
+            "id": "1360542",
+            "score": 0.00457
+        },
+        {
+            "name": "Verbascum densiflorum Bertol.",
+            "id": "1360523",
+            "score": 0.00212
+        },
+        {
+            "name": "Verbascum chaixii Vill.",
+            "id": "1397519",
+            "score": 0.00101
+        }
+    ]
+}

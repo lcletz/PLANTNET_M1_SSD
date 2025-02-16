@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Daphne mezereum L.",
+            "id": "1391652",
+            "score": 0.86724
+        },
+        {
+            "name": "Ilex decidua Walter",
+            "id": "1420661",
+            "score": 0.01975
+        },
+        {
+            "name": "Daphne alpina L.",
+            "id": "1391648",
+            "score": 0.00613
+        },
+        {
+            "name": "Ilex vomitoria Aiton",
+            "id": "1420734",
+            "score": 0.00264
+        },
+        {
+            "name": "Lonicera pyrenaica L.",
+            "id": "1356791",
+            "score": 0.00199
+        },
+        {
+            "name": "Daphne pseudomezereum A.Gray",
+            "id": "1693468",
+            "score": 0.0017
+        },
+        {
+            "name": "Lycium barbarum L.",
+            "id": "1360557",
+            "score": 0.00168
+        },
+        {
+            "name": "Daphne laureola L.",
+            "id": "1360590",
+            "score": 0.00104
+        }
+    ]
+}

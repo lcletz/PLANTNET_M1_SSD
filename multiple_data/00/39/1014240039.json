@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.76064
+        },
+        {
+            "name": "Cichorium endivia L.",
+            "id": "1364163",
+            "score": 0.1245
+        },
+        {
+            "name": "Cichorium pumilum Jacq.",
+            "id": "1357496",
+            "score": 0.01563
+        },
+        {
+            "name": "Cicerbita plumieri (L.) Kirschl.",
+            "id": "1738967",
+            "score": 0.00297
+        },
+        {
+            "name": "Chondrilla juncea L.",
+            "id": "1357492",
+            "score": 0.00228
+        },
+        {
+            "name": "Phyteuma orbiculare L.",
+            "id": "1394548",
+            "score": 0.00119
+        },
+        {
+            "name": "Phyteuma betonicifolium Vill.",
+            "id": "1394536",
+            "score": 0.00111
+        }
+    ]
+}

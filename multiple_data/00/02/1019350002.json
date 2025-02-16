@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Rumex obtusifolius L.",
+            "id": "1360132",
+            "score": 0.56126
+        },
+        {
+            "name": "Rumex × acutus L.",
+            "id": "1737469",
+            "score": 0.35467
+        },
+        {
+            "name": "Rumex conglomeratus Murray",
+            "id": "1356078",
+            "score": 0.01578
+        },
+        {
+            "name": "Rumex alpinus L.",
+            "id": "1395643",
+            "score": 0.01108
+        },
+        {
+            "name": "Rumex sanguineus L.",
+            "id": "1395686",
+            "score": 0.01081
+        },
+        {
+            "name": "Rumex crispus L.",
+            "id": "1356079",
+            "score": 0.00667
+        },
+        {
+            "name": "Rumex patientia L.",
+            "id": "1360135",
+            "score": 0.00401
+        },
+        {
+            "name": "Rumex acetosa L.",
+            "id": "1360120",
+            "score": 0.00108
+        }
+    ]
+}

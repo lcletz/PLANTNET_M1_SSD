@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Asplenium trichomanes L.",
+            "id": "1356361",
+            "score": 0.91731
+        },
+        {
+            "name": "Asplenium alatum Humb. & Bonpl. ex Willd.",
+            "id": "1401384",
+            "score": 0.02799
+        },
+        {
+            "name": "Asplenium bipartitum Bory ex Willd.",
+            "id": "1408790",
+            "score": 0.00146
+        },
+        {
+            "name": "Asplenium resiliens Kunze",
+            "id": "1401390",
+            "score": 0.00146
+        },
+        {
+            "name": "Asplenium adulterinum Milde",
+            "id": "1397435",
+            "score": 0.00132
+        },
+        {
+            "name": "Asplenium viride Huds.",
+            "id": "1356362",
+            "score": 0.00126
+        }
+    ]
+}

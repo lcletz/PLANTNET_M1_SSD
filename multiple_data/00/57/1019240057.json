@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.55656
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.28193
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.00294
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.00251
+        },
+        {
+            "name": "Rhamnus alpina L.",
+            "id": "1360261",
+            "score": 0.00109
+        }
+    ]
+}

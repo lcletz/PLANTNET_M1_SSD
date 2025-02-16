@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dipsacus sativus (L.) Honck.",
+            "id": "1391749",
+            "score": 0.54195
+        },
+        {
+            "name": "Dipsacus fullonum L.",
+            "id": "1358454",
+            "score": 0.40123
+        },
+        {
+            "name": "Dipsacus laciniatus L.",
+            "id": "1391747",
+            "score": 0.01529
+        },
+        {
+            "name": "Cirsium heterophyllum (L.) Hill",
+            "id": "1391209",
+            "score": 0.00296
+        },
+        {
+            "name": "Lactuca virosa L.",
+            "id": "1355868",
+            "score": 0.00124
+        },
+        {
+            "name": "Cirsium oleraceum (L.) Scop.",
+            "id": "1391226",
+            "score": 0.00104
+        }
+    ]
+}

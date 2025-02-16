@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trollius europaeus L.",
+            "id": "1397516",
+            "score": 0.9813
+        },
+        {
+            "name": "Trollius chinensis Bunge",
+            "id": "1398548",
+            "score": 0.00528
+        },
+        {
+            "name": "Aconitum napellus L.",
+            "id": "1395208",
+            "score": 0.00443
+        },
+        {
+            "name": "Aconitum lycoctonum L.",
+            "id": "1395010",
+            "score": 0.00243
+        },
+        {
+            "name": "Ranunculus montanus Willd.",
+            "id": "1362363",
+            "score": 0.0016
+        },
+        {
+            "name": "Aconitum variegatum L.",
+            "id": "1396228",
+            "score": 0.00148
+        },
+        {
+            "name": "Ranunculus acris L.",
+            "id": "1360187",
+            "score": 0.00143
+        },
+        {
+            "name": "Ranunculus aconitifolius L.",
+            "id": "1395045",
+            "score": 0.00141
+        },
+        {
+            "name": "Geranium pratense L.",
+            "id": "1397394",
+            "score": 0.00108
+        },
+        {
+            "name": "Trollius asiaticus L.",
+            "id": "1420318",
+            "score": 0.00102
+        }
+    ]
+}

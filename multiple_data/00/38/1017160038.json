@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Allium ursinum L.",
+            "id": "1397306",
+            "score": 0.89186
+        },
+        {
+            "name": "Allium canadense L.",
+            "id": "1411691",
+            "score": 0.00658
+        },
+        {
+            "name": "Allium neapolitanum Cirillo",
+            "id": "1360925",
+            "score": 0.00386
+        },
+        {
+            "name": "Allium tuberosum Rottler ex Spreng.",
+            "id": "1418843",
+            "score": 0.00377
+        },
+        {
+            "name": "Allium nigrum L.",
+            "id": "1360926",
+            "score": 0.00352
+        },
+        {
+            "name": "Allium trifoliatum Cirillo",
+            "id": "1360943",
+            "score": 0.00262
+        },
+        {
+            "name": "Allium cepa L.",
+            "id": "1358140",
+            "score": 0.00139
+        },
+        {
+            "name": "Allium subhirsutum L.",
+            "id": "1360938",
+            "score": 0.00106
+        },
+        {
+            "name": "Allium victorialis L.",
+            "id": "1392891",
+            "score": 0.00106
+        },
+        {
+            "name": "Allium triquetrum L.",
+            "id": "1358113",
+            "score": 0.00103
+        }
+    ]
+}

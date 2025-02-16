@@ -1,0 +1,60 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagus orientalis Lipsky",
+            "id": "1547791",
+            "score": 0.46879
+        },
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.39069
+        },
+        {
+            "name": "Fagus grandifolia Ehrh.",
+            "id": "1412056",
+            "score": 0.07892
+        },
+        {
+            "name": "Carpinus kawakamii Hayata",
+            "id": "1476265",
+            "score": 0.00549
+        },
+        {
+            "name": "Alnus serrulata (Aiton) Willd.",
+            "id": "1411837",
+            "score": 0.00243
+        },
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.0024
+        },
+        {
+            "name": "Carpinus orientalis Mill.",
+            "id": "1398832",
+            "score": 0.00182
+        },
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.0018
+        },
+        {
+            "name": "Betula nigra L.",
+            "id": "1390590",
+            "score": 0.00173
+        },
+        {
+            "name": "Carpinus caroliniana Walter",
+            "id": "1411338",
+            "score": 0.00123
+        },
+        {
+            "name": "Nothofagus alessandrii Espinosa",
+            "id": "1608020",
+            "score": 0.00109
+        }
+    ]
+}

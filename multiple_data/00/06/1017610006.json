@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Marrubium supinum L.",
+            "id": "1358782",
+            "score": 0.91996
+        },
+        {
+            "name": "Marrubium vulgare L.",
+            "id": "1356123",
+            "score": 0.01056
+        },
+        {
+            "name": "Marrubium incanum Desr.",
+            "id": "1393754",
+            "score": 0.00255
+        },
+        {
+            "name": "Stachys cretica L.",
+            "id": "1396426",
+            "score": 0.00234
+        },
+        {
+            "name": "Clinopodium vulgare L.",
+            "id": "1358742",
+            "score": 0.00182
+        },
+        {
+            "name": "Stachys germanica L.",
+            "id": "1358939",
+            "score": 0.00153
+        },
+        {
+            "name": "Onobrychis stenorhiza DC.",
+            "id": "1389397",
+            "score": 0.00103
+        }
+    ]
+}

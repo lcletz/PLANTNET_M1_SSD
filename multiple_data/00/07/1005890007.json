@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Filipendula ulmaria (L.) Maxim.",
+            "id": "1392353",
+            "score": 0.91022
+        },
+        {
+            "name": "Rubus camptostachys G.Braun",
+            "id": "1395430",
+            "score": 0.00576
+        },
+        {
+            "name": "Rubus idaeus L.",
+            "id": "1395507",
+            "score": 0.0042
+        },
+        {
+            "name": "Rubus caesius L.",
+            "id": "1360354",
+            "score": 0.00344
+        },
+        {
+            "name": "Rubus phoenicolasius Maxim.",
+            "id": "1395394",
+            "score": 0.00296
+        },
+        {
+            "name": "Rubus occidentalis L.",
+            "id": "1413531",
+            "score": 0.00218
+        },
+        {
+            "name": "Rubus ulmifolius Schott",
+            "id": "1360358",
+            "score": 0.0013
+        }
+    ]
+}

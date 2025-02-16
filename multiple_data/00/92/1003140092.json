@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Polypodium virginianum L.",
+            "id": "1413245",
+            "score": 0.45755
+        },
+        {
+            "name": "Polypodium vulgare L.",
+            "id": "1356433",
+            "score": 0.41409
+        },
+        {
+            "name": "Polypodium cambricum L.",
+            "id": "1356431",
+            "score": 0.02705
+        },
+        {
+            "name": "Polypodium californicum Kaulf.",
+            "id": "1436820",
+            "score": 0.01141
+        },
+        {
+            "name": "Polypodium interjectum Shivas",
+            "id": "1356432",
+            "score": 0.00669
+        },
+        {
+            "name": "Polypodium appalachianum Haufler & Windham",
+            "id": "1413240",
+            "score": 0.00329
+        },
+        {
+            "name": "Polypodium amorphum Suksd.",
+            "id": "1413239",
+            "score": 0.00142
+        }
+    ]
+}

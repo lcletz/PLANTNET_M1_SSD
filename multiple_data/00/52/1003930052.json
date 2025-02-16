@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Asplenium scolopendrium L.",
+            "id": "1356357",
+            "score": 0.91833
+        },
+        {
+            "name": "Asplenium nidus L.",
+            "id": "1390496",
+            "score": 0.00994
+        },
+        {
+            "name": "Elaphoglossum macropodium T.Moore",
+            "id": "1750250",
+            "score": 0.00224
+        },
+        {
+            "name": "Microsorum punctatum (L.) Copel.",
+            "id": "1380657",
+            "score": 0.00159
+        },
+        {
+            "name": "Asplenium antiquum Makino",
+            "id": "1702249",
+            "score": 0.00125
+        }
+    ]
+}

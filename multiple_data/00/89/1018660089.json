@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Sedum acre L.",
+            "id": "1358094",
+            "score": 0.88412
+        },
+        {
+            "name": "Sedum sexangulare L.",
+            "id": "1396165",
+            "score": 0.04317
+        },
+        {
+            "name": "Sedum annuum L.",
+            "id": "1396145",
+            "score": 0.00275
+        },
+        {
+            "name": "Sedum anglicum Huds.",
+            "id": "1362489",
+            "score": 0.00118
+        },
+        {
+            "name": "Sedum alpestre Vill.",
+            "id": "1396144",
+            "score": 0.00114
+        }
+    ]
+}

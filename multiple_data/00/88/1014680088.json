@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ferula communis L.",
+            "id": "1363236",
+            "score": 0.95842
+        },
+        {
+            "name": "Thapsia garganica L.",
+            "id": "1360808",
+            "score": 0.00981
+        },
+        {
+            "name": "Thapsia villosa L.",
+            "id": "1360811",
+            "score": 0.00361
+        },
+        {
+            "name": "Ferula glauca L.",
+            "id": "1361892",
+            "score": 0.00359
+        },
+        {
+            "name": "Angelica atropurpurea L.",
+            "id": "1399920",
+            "score": 0.00341
+        },
+        {
+            "name": "Ferula arrigonii Bocchieri",
+            "id": "1392256",
+            "score": 0.00167
+        }
+    ]
+}

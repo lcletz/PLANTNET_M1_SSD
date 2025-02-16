@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.51459
+        },
+        {
+            "name": "Pyrus cordata Desv.",
+            "id": "1360328",
+            "score": 0.32654
+        },
+        {
+            "name": "Pyrus bourgaeana Decne.",
+            "id": "1360327",
+            "score": 0.00655
+        },
+        {
+            "name": "Populus balsamifera L.",
+            "id": "1394775",
+            "score": 0.00529
+        },
+        {
+            "name": "Pyrus spinosa Forssk.",
+            "id": "1395014",
+            "score": 0.00263
+        },
+        {
+            "name": "Alnus cordata (Loisel.) Duby",
+            "id": "1397307",
+            "score": 0.00108
+        }
+    ]
+}

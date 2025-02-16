@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Clematis flammula L.",
+            "id": "1360159",
+            "score": 0.94939
+        },
+        {
+            "name": "Clematis microphylla DC.",
+            "id": "1663688",
+            "score": 0.0234
+        },
+        {
+            "name": "Clematis brachiata Thunb.",
+            "id": "1363971",
+            "score": 0.00312
+        },
+        {
+            "name": "Clematis recta L.",
+            "id": "1391298",
+            "score": 0.00256
+        },
+        {
+            "name": "Clematis vitalba L.",
+            "id": "1360161",
+            "score": 0.00121
+        },
+        {
+            "name": "Clematis aristata R.Br. ex Ker Gawl.",
+            "id": "1663534",
+            "score": 0.00115
+        }
+    ]
+}

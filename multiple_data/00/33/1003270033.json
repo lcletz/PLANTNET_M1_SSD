@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Alnus glutinosa (L.) Gaertn.",
+            "id": "1356608",
+            "score": 0.94245
+        },
+        {
+            "name": "Alnus incana (L.) Moench",
+            "id": "1397308",
+            "score": 0.0111
+        },
+        {
+            "name": "Corylus avellana L.",
+            "id": "1391368",
+            "score": 0.00576
+        },
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.00546
+        },
+        {
+            "name": "Betula pendula Roth",
+            "id": "1356609",
+            "score": 0.00521
+        },
+        {
+            "name": "Alnus serrulata (Aiton) Willd.",
+            "id": "1411837",
+            "score": 0.00365
+        },
+        {
+            "name": "Alnus hirsuta (Spach) Rupr.",
+            "id": "1476135",
+            "score": 0.00185
+        },
+        {
+            "name": "Alnus alnobetula (Ehrh.) K.Koch",
+            "id": "1392943",
+            "score": 0.00151
+        },
+        {
+            "name": "Betula pubescens Ehrh.",
+            "id": "1362746",
+            "score": 0.00118
+        },
+        {
+            "name": "Alnus japonica (Thunb.) Steud.",
+            "id": "1398105",
+            "score": 0.00105
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Acer pseudoplatanus L.",
+            "id": "1356460",
+            "score": 0.54745
+        },
+        {
+            "name": "Acer opalus Mill.",
+            "id": "1362399",
+            "score": 0.04721
+        },
+        {
+            "name": "Acer platanoides L.",
+            "id": "1397301",
+            "score": 0.04206
+        },
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.01882
+        },
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.0062
+        },
+        {
+            "name": "Acer cappadocicum Gled.",
+            "id": "1397300",
+            "score": 0.0057
+        }
+    ]
+}

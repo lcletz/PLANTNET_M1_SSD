@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Juglans regia L.",
+            "id": "1358713",
+            "score": 0.94779
+        },
+        {
+            "name": "Magnolia denudata Desr.",
+            "id": "1393717",
+            "score": 0.00291
+        },
+        {
+            "name": "Juglans nigra L.",
+            "id": "1393337",
+            "score": 0.00234
+        },
+        {
+            "name": "Juglans mandshurica Maxim.",
+            "id": "1419240",
+            "score": 0.00158
+        },
+        {
+            "name": "Populus lasiocarpa Oliv.",
+            "id": "1398586",
+            "score": 0.00127
+        }
+    ]
+}

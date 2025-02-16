@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viburnum tinus L.",
+            "id": "1356793",
+            "score": 0.92944
+        },
+        {
+            "name": "Viburnum rugosum Pers.",
+            "id": "1722512",
+            "score": 0.02333
+        },
+        {
+            "name": "Gaultheria shallon Pursh",
+            "id": "1392505",
+            "score": 0.00446
+        },
+        {
+            "name": "Lonicera japonica Thunb.",
+            "id": "1356786",
+            "score": 0.00353
+        },
+        {
+            "name": "Viburnum nudum L.",
+            "id": "1414188",
+            "score": 0.00143
+        },
+        {
+            "name": "Aronia melanocarpa (Michx.) Elliott",
+            "id": "1398450",
+            "score": 0.00142
+        },
+        {
+            "name": "Diervilla lonicera Mill.",
+            "id": "1411760",
+            "score": 0.00103
+        }
+    ]
+}

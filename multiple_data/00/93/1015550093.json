@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cedrus atlantica (Endl.) Manetti ex Carrière",
+            "id": "1419901",
+            "score": 0.42721
+        },
+        {
+            "name": "Cedrus libani A.Rich.",
+            "id": "1390973",
+            "score": 0.20947
+        },
+        {
+            "name": "Picea pungens Engelm.",
+            "id": "1394563",
+            "score": 0.01925
+        },
+        {
+            "name": "Cedrus deodara (Roxb. ex D.Don) G.Don",
+            "id": "1390972",
+            "score": 0.01614
+        },
+        {
+            "name": "Larix decidua Mill.",
+            "id": "1397422",
+            "score": 0.00202
+        }
+    ]
+}

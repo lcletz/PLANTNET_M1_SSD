@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Stellaria palustris Ehrh. ex Hoffm.",
+            "id": "1721301",
+            "score": 0.69205
+        },
+        {
+            "name": "Rabelera holostea (L.) M.T.Sharples & E.A.Tripp",
+            "id": "1737674",
+            "score": 0.09171
+        },
+        {
+            "name": "Moehringia ciliata (Scop.) Dalla Torre",
+            "id": "1393846",
+            "score": 0.05288
+        },
+        {
+            "name": "Stellaria nemorum L.",
+            "id": "1382174",
+            "score": 0.00164
+        },
+        {
+            "name": "Gypsophila elegans M.Bieb.",
+            "id": "1392676",
+            "score": 0.00106
+        }
+    ]
+}

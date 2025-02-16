@@ -1,0 +1,85 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Lactuca serriola L.",
+            "id": "1364173",
+            "score": 0.60919
+        },
+        {
+            "name": "Lactuca virosa L.",
+            "id": "1355868",
+            "score": 0.39903
+        },
+        {
+            "name": "Lactuca saligna L.",
+            "id": "1357681",
+            "score": 0.05937
+        },
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.02884
+        },
+        {
+            "name": "Lactuca quercina L.",
+            "id": "1397421",
+            "score": 0.01896
+        },
+        {
+            "name": "Lactuca sativa L.",
+            "id": "1364172",
+            "score": 0.00802
+        },
+        {
+            "name": "Cirsium heterophyllum (L.) Hill",
+            "id": "1391209",
+            "score": 0.00737
+        },
+        {
+            "name": "Sonchus palustris L.",
+            "id": "1361781",
+            "score": 0.00582
+        },
+        {
+            "name": "Sonchus oleraceus L.",
+            "id": "1364170",
+            "score": 0.00273
+        },
+        {
+            "name": "Pseudopodospermum hispanicum (L.) Zaika, Sukhor. & N.Kilian",
+            "id": "1739189",
+            "score": 0.00217
+        },
+        {
+            "name": "Chondrilla juncea L.",
+            "id": "1357492",
+            "score": 0.00174
+        },
+        {
+            "name": "Sonchus maritimus L.",
+            "id": "1364169",
+            "score": 0.00163
+        },
+        {
+            "name": "Hypochaeris glabra L.",
+            "id": "1355871",
+            "score": 0.00148
+        },
+        {
+            "name": "Cicerbita plumieri (L.) Kirschl.",
+            "id": "1738967",
+            "score": 0.00139
+        },
+        {
+            "name": "Isatis tinctoria L.",
+            "id": "1358340",
+            "score": 0.00106
+        },
+        {
+            "name": "Lactuca perennis L.",
+            "id": "1397420",
+            "score": 0.00102
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.89606
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.03345
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.01463
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.00472
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00439
+        },
+        {
+            "name": "Prunus pensylvanica L.f.",
+            "id": "1420421",
+            "score": 0.00314
+        }
+    ]
+}

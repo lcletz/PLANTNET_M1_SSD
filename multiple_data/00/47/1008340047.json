@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Echinacea purpurea (L.) Moench",
+            "id": "1398120",
+            "score": 0.79359
+        },
+        {
+            "name": "Echinacea angustifolia DC.",
+            "id": "1411839",
+            "score": 0.11936
+        },
+        {
+            "name": "Echinacea tennesseensis (Beadle) Small",
+            "id": "1442775",
+            "score": 0.00447
+        },
+        {
+            "name": "Echinacea pallida (Nutt.) Nutt.",
+            "id": "1411840",
+            "score": 0.00365
+        },
+        {
+            "name": "Gaillardia pulchella Foug.",
+            "id": "1364122",
+            "score": 0.00148
+        },
+        {
+            "name": "Zinnia haageana Regel",
+            "id": "1397251",
+            "score": 0.00131
+        },
+        {
+            "name": "Helianthus giganteus L.",
+            "id": "1389511",
+            "score": 0.00125
+        },
+        {
+            "name": "Gaillardia aristata Pursh",
+            "id": "1392412",
+            "score": 0.00109
+        }
+    ]
+}

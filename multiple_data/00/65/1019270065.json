@@ -1,0 +1,30 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Viburnum opulus L.",
+            "id": "1361743",
+            "score": 0.14195
+        },
+        {
+            "name": "Ribes rubrum L.",
+            "id": "1397543",
+            "score": 0.00945
+        },
+        {
+            "name": "Ribes alpinum L.",
+            "id": "1358682",
+            "score": 0.0053
+        },
+        {
+            "name": "Ribes petraeum Wulfen",
+            "id": "1358683",
+            "score": 0.00246
+        },
+        {
+            "name": "Dioscorea communis (L.) Caddick & Wilkin",
+            "id": "1361109",
+            "score": 0.00165
+        }
+    ]
+}

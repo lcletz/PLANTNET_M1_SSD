@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia helioscopia L.",
+            "id": "1355964",
+            "score": 0.87838
+        },
+        {
+            "name": "Euphorbia serrata L.",
+            "id": "1355971",
+            "score": 0.01671
+        },
+        {
+            "name": "Euphorbia platyphyllos L.",
+            "id": "1355986",
+            "score": 0.00371
+        },
+        {
+            "name": "Euphorbia hyberna L.",
+            "id": "1392167",
+            "score": 0.00188
+        },
+        {
+            "name": "Euphorbia amygdaloides L.",
+            "id": "1358525",
+            "score": 0.0018
+        },
+        {
+            "name": "Euphorbia hirsuta L.",
+            "id": "1358561",
+            "score": 0.00129
+        },
+        {
+            "name": "Euphorbia flavicoma DC.",
+            "id": "1392161",
+            "score": 0.00109
+        },
+        {
+            "name": "Euphorbia peplus L.",
+            "id": "1355969",
+            "score": 0.00106
+        },
+        {
+            "name": "Euphorbia dulcis L.",
+            "id": "1392156",
+            "score": 0.00103
+        },
+        {
+            "name": "Euphorbia nicaeensis All.",
+            "id": "1358572",
+            "score": 0.00101
+        }
+    ]
+}

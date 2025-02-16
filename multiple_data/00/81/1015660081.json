@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tagetes erecta L.",
+            "id": "1374048",
+            "score": 0.73802
+        },
+        {
+            "name": "Tagetes tenuifolia Cav.",
+            "id": "1389492",
+            "score": 0.08341
+        },
+        {
+            "name": "Tagetes multiflora Kunth",
+            "id": "1404359",
+            "score": 0.00659
+        },
+        {
+            "name": "Coreopsis grandiflora Hogg ex Sweet",
+            "id": "1391349",
+            "score": 0.00594
+        },
+        {
+            "name": "Tagetes lunulata Ortega",
+            "id": "1522377",
+            "score": 0.00331
+        },
+        {
+            "name": "Tagetes subulata Cerv.",
+            "id": "1522394",
+            "score": 0.00266
+        },
+        {
+            "name": "Tagetes micrantha Cav.",
+            "id": "1438869",
+            "score": 0.00118
+        }
+    ]
+}

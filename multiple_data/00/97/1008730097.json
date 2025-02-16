@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stachys recta L.",
+            "id": "1396435",
+            "score": 0.91916
+        },
+        {
+            "name": "Stachys annua (L.) L.",
+            "id": "1358932",
+            "score": 0.0148
+        },
+        {
+            "name": "Galeopsis segetum Neck.",
+            "id": "1392430",
+            "score": 0.00474
+        },
+        {
+            "name": "Stachys spinulosa Sm.",
+            "id": "1564112",
+            "score": 0.00285
+        },
+        {
+            "name": "Galeopsis ladanum L.",
+            "id": "1362451",
+            "score": 0.00222
+        },
+        {
+            "name": "Sideritis hyssopifolia L.",
+            "id": "1362495",
+            "score": 0.00139
+        },
+        {
+            "name": "Sideritis hirsuta L.",
+            "id": "1358906",
+            "score": 0.00107
+        }
+    ]
+}

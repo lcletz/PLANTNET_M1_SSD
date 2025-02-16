@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dianthus barbatus L.",
+            "id": "1397367",
+            "score": 0.95984
+        },
+        {
+            "name": "Dianthus chinensis L.",
+            "id": "1398495",
+            "score": 0.02771
+        },
+        {
+            "name": "Dianthus caryophyllus L.",
+            "id": "1356843",
+            "score": 0.00125
+        },
+        {
+            "name": "Dianthus plumarius L.",
+            "id": "1391707",
+            "score": 0.00111
+        }
+    ]
+}

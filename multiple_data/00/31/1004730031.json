@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cyperus alternifolius L.",
+            "id": "1362441",
+            "score": 0.87798
+        },
+        {
+            "name": "Cyperus papyrus L.",
+            "id": "1361089",
+            "score": 0.03919
+        },
+        {
+            "name": "Cyperus albostriatus Schrad.",
+            "id": "1418618",
+            "score": 0.01368
+        },
+        {
+            "name": "Cyperus alterniflorus R.Br.",
+            "id": "1532634",
+            "score": 0.00979
+        },
+        {
+            "name": "Cyperus tenuis Sw.",
+            "id": "1410239",
+            "score": 0.00405
+        },
+        {
+            "name": "Cyperus diffusus Vahl",
+            "id": "1407905",
+            "score": 0.00245
+        }
+    ]
+}

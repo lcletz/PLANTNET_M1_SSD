@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Perilla frutescens (L.) Britton",
+            "id": "1398591",
+            "score": 0.91862
+        },
+        {
+            "name": "Coleus scutellarioides (L.) Benth.",
+            "id": "1748897",
+            "score": 0.00303
+        },
+        {
+            "name": "Amaranthus tricolor L.",
+            "id": "1363257",
+            "score": 0.00179
+        },
+        {
+            "name": "Plectranthus fruticosus L'Hér.",
+            "id": "1356104",
+            "score": 0.00177
+        },
+        {
+            "name": "Impatiens textorii Miq.",
+            "id": "1721578",
+            "score": 0.00149
+        }
+    ]
+}

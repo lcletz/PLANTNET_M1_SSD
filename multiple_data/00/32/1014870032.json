@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Centaurea cyanus L.",
+            "id": "1411387",
+            "score": 0.54016
+        },
+        {
+            "name": "Centaurea sulphurea Willd.",
+            "id": "1357457",
+            "score": 0.01463
+        },
+        {
+            "name": "Centaurea debeauxii Godr. & Gren.",
+            "id": "1502503",
+            "score": 0.00162
+        },
+        {
+            "name": "Centaurea napifolia L.",
+            "id": "1357437",
+            "score": 0.00128
+        },
+        {
+            "name": "Centaurea triumfettii All.",
+            "id": "1426115",
+            "score": 0.00106
+        },
+        {
+            "name": "Centaurea semidecurrens Jord.",
+            "id": "1743762",
+            "score": 0.001
+        }
+    ]
+}

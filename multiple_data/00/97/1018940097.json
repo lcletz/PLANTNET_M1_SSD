@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Salicornia europaea L.",
+            "id": "1363191",
+            "score": 0.93415
+        },
+        {
+            "name": "Salicornia perennis Mill.",
+            "id": "1722521",
+            "score": 0.00868
+        },
+        {
+            "name": "Salicornia fruticosa (L.) L.",
+            "id": "1722522",
+            "score": 0.00671
+        },
+        {
+            "name": "Salicornia × marshallii (Lambinon & Vanderp.) Stace",
+            "id": "1738887",
+            "score": 0.0034
+        },
+        {
+            "name": "Salicornia procumbens Sm.",
+            "id": "1395727",
+            "score": 0.00157
+        },
+        {
+            "name": "Salicornia obscura P.W.Ball & Tutin",
+            "id": "1395726",
+            "score": 0.00103
+        }
+    ]
+}

@@ -1,0 +1,320 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cynodon dactylon (L.) Pers.",
+            "id": "1363526",
+            "score": 0.29606
+        },
+        {
+            "name": "Poa annua L.",
+            "id": "1363455",
+            "score": 0.22175
+        },
+        {
+            "name": "Digitaria sanguinalis (L.) Scop.",
+            "id": "1363424",
+            "score": 0.05167
+        },
+        {
+            "name": "Eleusine indica (L.) Gaertn.",
+            "id": "1361245",
+            "score": 0.04657
+        },
+        {
+            "name": "Lolium perenne L.",
+            "id": "1363475",
+            "score": 0.03135
+        },
+        {
+            "name": "Hordeum murinum L.",
+            "id": "1361307",
+            "score": 0.01583
+        },
+        {
+            "name": "Setaria verticillata (L.) P.Beauv.",
+            "id": "1396252",
+            "score": 0.01216
+        },
+        {
+            "name": "Thinopyrum intermedium (Host) Barkworth & D.R.Dewey",
+            "id": "1741590",
+            "score": 0.01033
+        },
+        {
+            "name": "Dactyloctenium aegyptium (L.) Willd.",
+            "id": "1363544",
+            "score": 0.00701
+        },
+        {
+            "name": "Setaria pumila (Poir.) Roem. & Schult.",
+            "id": "1363386",
+            "score": 0.00634
+        },
+        {
+            "name": "Paspalum distichum L.",
+            "id": "1363497",
+            "score": 0.00572
+        },
+        {
+            "name": "Echinochloa crus-galli (L.) P.Beauv.",
+            "id": "1391823",
+            "score": 0.00538
+        },
+        {
+            "name": "Stenotaphrum secundatum (Walter) Kuntze",
+            "id": "1363543",
+            "score": 0.00496
+        },
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.00491
+        },
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.00461
+        },
+        {
+            "name": "Anthoxanthum odoratum L.",
+            "id": "1363461",
+            "score": 0.00427
+        },
+        {
+            "name": "Echinochloa colonum (L.) Link",
+            "id": "1424916",
+            "score": 0.00391
+        },
+        {
+            "name": "Eragrostis superba Peyr.",
+            "id": "1365439",
+            "score": 0.00351
+        },
+        {
+            "name": "Elymus repens (L.) Gould",
+            "id": "1411890",
+            "score": 0.00351
+        },
+        {
+            "name": "Sisyrinchium rosulatum E.P.Bicknell",
+            "id": "1396317",
+            "score": 0.00341
+        },
+        {
+            "name": "Avena sativa L.",
+            "id": "1363469",
+            "score": 0.00321
+        },
+        {
+            "name": "Bromus hordeaceus L.",
+            "id": "1356286",
+            "score": 0.00277
+        },
+        {
+            "name": "Cyperus rotundus L.",
+            "id": "1361090",
+            "score": 0.00265
+        },
+        {
+            "name": "Paspalum dilatatum Poir.",
+            "id": "1363496",
+            "score": 0.00239
+        },
+        {
+            "name": "Sporobolus alopecuroides (Piller & Mitterp.) P.M.Peterson",
+            "id": "1741599",
+            "score": 0.00235
+        },
+        {
+            "name": "Allium cepa L.",
+            "id": "1358140",
+            "score": 0.00203
+        },
+        {
+            "name": "Cenchrus stramineus (Peter) Morrone",
+            "id": "1381403",
+            "score": 0.00198
+        },
+        {
+            "name": "Hordeum vulgare L.",
+            "id": "1363481",
+            "score": 0.00189
+        },
+        {
+            "name": "Cenchrus mezianus (Leeke) Morrone",
+            "id": "1381396",
+            "score": 0.00188
+        },
+        {
+            "name": "Brachypodium sylvaticum (Huds.) P.Beauv.",
+            "id": "1389018",
+            "score": 0.00179
+        },
+        {
+            "name": "Triticum aestivum L.",
+            "id": "1363483",
+            "score": 0.00177
+        },
+        {
+            "name": "Eriochloa barbatus (Trin.) S.Yadav & M.R.Almeida",
+            "id": "1748210",
+            "score": 0.00175
+        },
+        {
+            "name": "Poa compressa L.",
+            "id": "1361369",
+            "score": 0.00172
+        },
+        {
+            "name": "Setaria italica (L.) P.Beauv.",
+            "id": "1396251",
+            "score": 0.00172
+        },
+        {
+            "name": "Alopecurus myosuroides Huds.",
+            "id": "1361157",
+            "score": 0.00171
+        },
+        {
+            "name": "Cenchrus longispinus (Hack.) Fernald",
+            "id": "1362928",
+            "score": 0.00166
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.00165
+        },
+        {
+            "name": "Avena barbata Pott ex Link",
+            "id": "1363467",
+            "score": 0.00164
+        },
+        {
+            "name": "Eragrostis minor Host",
+            "id": "1363555",
+            "score": 0.0016
+        },
+        {
+            "name": "Alopecurus pratensis L.",
+            "id": "1362406",
+            "score": 0.00159
+        },
+        {
+            "name": "Avena fatua L.",
+            "id": "1363468",
+            "score": 0.00156
+        },
+        {
+            "name": "Tragus racemosus (L.) All.",
+            "id": "1363420",
+            "score": 0.00154
+        },
+        {
+            "name": "Bromus sterilis L.",
+            "id": "1414366",
+            "score": 0.00153
+        },
+        {
+            "name": "Sorghum halepense (L.) Pers.",
+            "id": "1363508",
+            "score": 0.00151
+        },
+        {
+            "name": "Polygonum aviculare L.",
+            "id": "1356084",
+            "score": 0.00149
+        },
+        {
+            "name": "Allium sativum L.",
+            "id": "1358126",
+            "score": 0.00148
+        },
+        {
+            "name": "Triticum monococcum L.",
+            "id": "1363485",
+            "score": 0.00144
+        },
+        {
+            "name": "Cenchrus ciliaris L.",
+            "id": "1363463",
+            "score": 0.00142
+        },
+        {
+            "name": "Aegilops geniculata Roth",
+            "id": "1361117",
+            "score": 0.00139
+        },
+        {
+            "name": "Lolium rigidum Gaudin",
+            "id": "1363476",
+            "score": 0.00136
+        },
+        {
+            "name": "Chloris nutans (Stapf) P.M.Peterson",
+            "id": "1728594",
+            "score": 0.00134
+        },
+        {
+            "name": "Allium ascalonicum L.",
+            "id": "1399935",
+            "score": 0.0013
+        },
+        {
+            "name": "Eragrostis cilianensis (All.) Vignolo ex Janch.",
+            "id": "1363551",
+            "score": 0.00126
+        },
+        {
+            "name": "Rostraria cristata (L.) Tzvelev",
+            "id": "1361394",
+            "score": 0.00125
+        },
+        {
+            "name": "Brachypodium distachyon (L.) P.Beauv.",
+            "id": "1388770",
+            "score": 0.00121
+        },
+        {
+            "name": "Festuca myuros L.",
+            "id": "1720968",
+            "score": 0.00119
+        },
+        {
+            "name": "Digitaria ciliaris (Retz.) Koeler",
+            "id": "1363421",
+            "score": 0.00119
+        },
+        {
+            "name": "Agrostis stolonifera L.",
+            "id": "1356321",
+            "score": 0.00117
+        },
+        {
+            "name": "Bromus catharticus Vahl",
+            "id": "1407739",
+            "score": 0.00117
+        },
+        {
+            "name": "Phalaris canariensis L.",
+            "id": "1363491",
+            "score": 0.00109
+        },
+        {
+            "name": "Polypogon monspeliensis (L.) Desf.",
+            "id": "1363402",
+            "score": 0.00108
+        },
+        {
+            "name": "Catapodium rigidum (L.) C.E.Hubb.",
+            "id": "1390967",
+            "score": 0.00105
+        },
+        {
+            "name": "Crithopsis delileana (Schult.) Roshev.",
+            "id": "1361216",
+            "score": 0.00103
+        }
+    ]
+}

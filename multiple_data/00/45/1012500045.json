@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Circaea lutetiana L.",
+            "id": "1359680",
+            "score": 0.93469
+        },
+        {
+            "name": "Circaea canadensis (L.) Hill",
+            "id": "1747265",
+            "score": 0.01315
+        },
+        {
+            "name": "Circaea alpina L.",
+            "id": "1397350",
+            "score": 0.0082
+        },
+        {
+            "name": "Arisaema triphyllum (L.) Schott",
+            "id": "1413262",
+            "score": 0.00247
+        },
+        {
+            "name": "Circaea × intermedia Ehrh.",
+            "id": "1609596",
+            "score": 0.00108
+        },
+        {
+            "name": "Amaranthus retroflexus L.",
+            "id": "1356476",
+            "score": 0.00107
+        },
+        {
+            "name": "Impatiens parviflora DC.",
+            "id": "1393277",
+            "score": 0.00105
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Mercurialis annua L.",
+            "id": "1355990",
+            "score": 0.94724
+        },
+        {
+            "name": "Mercurialis perennis L.",
+            "id": "1358605",
+            "score": 0.00471
+        },
+        {
+            "name": "Amaranthus retroflexus L.",
+            "id": "1356476",
+            "score": 0.00212
+        },
+        {
+            "name": "Mentha arvensis L.",
+            "id": "1358785",
+            "score": 0.0013
+        }
+    ]
+}

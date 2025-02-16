@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Mentha aquatica L.",
+            "id": "1356105",
+            "score": 0.82623
+        },
+        {
+            "name": "Mentha pulegium L.",
+            "id": "1356106",
+            "score": 0.03557
+        },
+        {
+            "name": "Mentha arvensis L.",
+            "id": "1358785",
+            "score": 0.02631
+        },
+        {
+            "name": "Mentha × piperita L.",
+            "id": "1560691",
+            "score": 0.01159
+        },
+        {
+            "name": "Mentha × verticillata L.",
+            "id": "1560697",
+            "score": 0.00601
+        },
+        {
+            "name": "Clinopodium gracile (Benth.) Kuntze",
+            "id": "1441541",
+            "score": 0.00393
+        },
+        {
+            "name": "Clinopodium vulgare L.",
+            "id": "1358742",
+            "score": 0.00275
+        },
+        {
+            "name": "Mentha spicata L.",
+            "id": "1358788",
+            "score": 0.00136
+        },
+        {
+            "name": "Monarda didyma L.",
+            "id": "1397732",
+            "score": 0.00122
+        },
+        {
+            "name": "Origanum majorana L.",
+            "id": "1356133",
+            "score": 0.00114
+        }
+    ]
+}

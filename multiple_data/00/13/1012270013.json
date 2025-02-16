@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Mirabilis jalapa L.",
+            "id": "1362100",
+            "score": 0.88974
+        },
+        {
+            "name": "Mirabilis multiflora (Torr.) A.Gray",
+            "id": "1816076",
+            "score": 0.01878
+        },
+        {
+            "name": "Boerhavia diffusa L.",
+            "id": "1361985",
+            "score": 0.00285
+        },
+        {
+            "name": "Rhododendron ferrugineum L.",
+            "id": "1397475",
+            "score": 0.00246
+        },
+        {
+            "name": "Portulaca grandiflora Hook.",
+            "id": "1383052",
+            "score": 0.00158
+        },
+        {
+            "name": "Boerhavia coccinea Mill.",
+            "id": "1407733",
+            "score": 0.00158
+        }
+    ]
+}

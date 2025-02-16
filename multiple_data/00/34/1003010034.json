@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Acer monspessulanum L.",
+            "id": "1356457",
+            "score": 0.96721
+        },
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.00499
+        },
+        {
+            "name": "Acer buergerianum Miq.",
+            "id": "1390598",
+            "score": 0.00311
+        },
+        {
+            "name": "Acer sempervirens L.",
+            "id": "1390601",
+            "score": 0.00278
+        },
+        {
+            "name": "Acer opalus Mill.",
+            "id": "1362399",
+            "score": 0.00145
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ageratum houstonianum Mill.",
+            "id": "1355900",
+            "score": 0.7331
+        },
+        {
+            "name": "Ageratum conyzoides L.",
+            "id": "1355899",
+            "score": 0.04768
+        },
+        {
+            "name": "Conoclinium coelestinum DC.",
+            "id": "1777761",
+            "score": 0.04528
+        },
+        {
+            "name": "Erigeron philadelphicus L.",
+            "id": "1392052",
+            "score": 0.00338
+        },
+        {
+            "name": "Mentha pulegium L.",
+            "id": "1356106",
+            "score": 0.00115
+        }
+    ]
+}

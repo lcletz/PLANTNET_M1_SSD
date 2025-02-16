@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Koelreuteria paniculata Laxm.",
+            "id": "1397985",
+            "score": 0.83401
+        },
+        {
+            "name": "Cardiospermum grandiflorum Sw.",
+            "id": "1364050",
+            "score": 0.02008
+        },
+        {
+            "name": "Staphylea pinnata L.",
+            "id": "1396437",
+            "score": 0.00464
+        },
+        {
+            "name": "Cardiospermum halicacabum L.",
+            "id": "1360468",
+            "score": 0.00408
+        },
+        {
+            "name": "Melianthus major L.",
+            "id": "1419487",
+            "score": 0.00366
+        },
+        {
+            "name": "Colutea arborescens L.",
+            "id": "1362283",
+            "score": 0.00173
+        },
+        {
+            "name": "Urvillea rufescens Cambess.",
+            "id": "1686568",
+            "score": 0.0012
+        }
+    ]
+}

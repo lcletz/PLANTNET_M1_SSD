@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus webbii (Spach) Fritsch",
+            "id": "1744599",
+            "score": 0.50658
+        },
+        {
+            "name": "Prunus amygdalus Batsch",
+            "id": "1722605",
+            "score": 0.05998
+        },
+        {
+            "name": "Pyrus spinosa Forssk.",
+            "id": "1395014",
+            "score": 0.01259
+        },
+        {
+            "name": "Rhamnus saxatilis Jacq.",
+            "id": "1395158",
+            "score": 0.01112
+        },
+        {
+            "name": "Prunus tenella Batsch",
+            "id": "1394954",
+            "score": 0.00548
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.00444
+        },
+        {
+            "name": "Prunus × fruticans Weihe",
+            "id": "1667948",
+            "score": 0.00296
+        },
+        {
+            "name": "Prunus persica (L.) Batsch",
+            "id": "1363997",
+            "score": 0.00295
+        },
+        {
+            "name": "Pyrus salicifolia Pall.",
+            "id": "1395004",
+            "score": 0.00248
+        },
+        {
+            "name": "Prunus brigantina Vill.",
+            "id": "1394945",
+            "score": 0.00234
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.0019
+        },
+        {
+            "name": "Prunus cocomilia Ten.",
+            "id": "1399013",
+            "score": 0.00186
+        },
+        {
+            "name": "Prunus salicina Lindl.",
+            "id": "1420425",
+            "score": 0.00165
+        },
+        {
+            "name": "Prunus lycioides (Spach) C.K.Schneid.",
+            "id": "1667988",
+            "score": 0.00147
+        },
+        {
+            "name": "Prunus argentea (Lam.) Rehder",
+            "id": "1769360",
+            "score": 0.00129
+        }
+    ]
+}

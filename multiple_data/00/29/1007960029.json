@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aronia melanocarpa (Michx.) Elliott",
+            "id": "1398450",
+            "score": 0.92898
+        },
+        {
+            "name": "Aronia arbutifolia (L.) Pers.",
+            "id": "1413527",
+            "score": 0.02445
+        },
+        {
+            "name": "Aronia × prunifolia (Marshall) Rehder",
+            "id": "1666795",
+            "score": 0.00324
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00169
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.00128
+        },
+        {
+            "name": "Crataegus persimilis Sarg.",
+            "id": "1391430",
+            "score": 0.00105
+        },
+        {
+            "name": "Chaenomeles japonica (Thunb.) Lindl. ex Spach",
+            "id": "1391103",
+            "score": 0.00104
+        }
+    ]
+}

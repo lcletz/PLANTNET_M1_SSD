@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ficaria verna Huds.",
+            "id": "1360181",
+            "score": 0.30567
+        },
+        {
+            "name": "Ranunculus repens L.",
+            "id": "1360222",
+            "score": 0.00548
+        },
+        {
+            "name": "Caltha palustris L.",
+            "id": "1397332",
+            "score": 0.00229
+        },
+        {
+            "name": "Anemone ranunculoides L.",
+            "id": "1397312",
+            "score": 0.00221
+        },
+        {
+            "name": "Eranthis hyemalis (L.) Salisb.",
+            "id": "1392020",
+            "score": 0.00214
+        }
+    ]
+}

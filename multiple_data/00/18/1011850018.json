@@ -1,0 +1,60 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Capsicum annuum L.",
+            "id": "1361992",
+            "score": 0.50401
+        },
+        {
+            "name": "Capsicum chinense Jacq.",
+            "id": "1377886",
+            "score": 0.28745
+        },
+        {
+            "name": "Capsicum baccatum L.",
+            "id": "1420706",
+            "score": 0.02767
+        },
+        {
+            "name": "Capsicum frutescens L.",
+            "id": "1356148",
+            "score": 0.01233
+        },
+        {
+            "name": "Solanum pseudocapsicum L.",
+            "id": "1356168",
+            "score": 0.0112
+        },
+        {
+            "name": "Solanum lycopersicum L.",
+            "id": "1396325",
+            "score": 0.00614
+        },
+        {
+            "name": "Solanum elaeagnifolium Cav.",
+            "id": "1356163",
+            "score": 0.00311
+        },
+        {
+            "name": "Solanum melongena L.",
+            "id": "1356172",
+            "score": 0.00229
+        },
+        {
+            "name": "Capsicum eximium Hunz.",
+            "id": "1690262",
+            "score": 0.00199
+        },
+        {
+            "name": "Capsicum pubescens Ruiz & Pav.",
+            "id": "1420707",
+            "score": 0.00138
+        },
+        {
+            "name": "Solanum carolinense L.",
+            "id": "1396320",
+            "score": 0.00125
+        }
+    ]
+}

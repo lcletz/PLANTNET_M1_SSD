@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.6439
+        },
+        {
+            "name": "Prunus × fruticans Weihe",
+            "id": "1667948",
+            "score": 0.23344
+        },
+        {
+            "name": "Vaccinium uliginosum L.",
+            "id": "1396970",
+            "score": 0.01984
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.0108
+        },
+        {
+            "name": "Rhamnus saxatilis Jacq.",
+            "id": "1395158",
+            "score": 0.00699
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00644
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00114
+        },
+        {
+            "name": "Prunus insititia L.",
+            "id": "1360321",
+            "score": 0.0011
+        }
+    ]
+}

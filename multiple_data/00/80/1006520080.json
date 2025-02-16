@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bryonia cretica L.",
+            "id": "1358446",
+            "score": 0.66378
+        },
+        {
+            "name": "Bryonia alba L.",
+            "id": "1389570",
+            "score": 0.20866
+        },
+        {
+            "name": "Acanthus mollis L.",
+            "id": "1356448",
+            "score": 0.00461
+        },
+        {
+            "name": "Coccinia grandis (L.) Voigt",
+            "id": "1363157",
+            "score": 0.00427
+        },
+        {
+            "name": "Petasites frigidus (L.) Fr.",
+            "id": "1413018",
+            "score": 0.00413
+        },
+        {
+            "name": "Cucurbita pepo L.",
+            "id": "1384485",
+            "score": 0.0027
+        },
+        {
+            "name": "Acanthus spinosus L.",
+            "id": "1356449",
+            "score": 0.00122
+        },
+        {
+            "name": "Leontodon hispidus L.",
+            "id": "1357697",
+            "score": 0.00112
+        }
+    ]
+}

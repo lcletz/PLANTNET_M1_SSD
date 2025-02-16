@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hordeum vulgare L.",
+            "id": "1363481",
+            "score": 0.87459
+        },
+        {
+            "name": "Triticum turgidum L.",
+            "id": "1363487",
+            "score": 0.02774
+        },
+        {
+            "name": "Hordeum jubatum L.",
+            "id": "1397404",
+            "score": 0.00333
+        },
+        {
+            "name": "Taeniatherum caput-medusae (L.) Nevski",
+            "id": "1361437",
+            "score": 0.00274
+        },
+        {
+            "name": "Bromus diandrus Roth",
+            "id": "1414353",
+            "score": 0.0025
+        },
+        {
+            "name": "Triticum aestivum L.",
+            "id": "1363483",
+            "score": 0.00206
+        },
+        {
+            "name": "Stipa barrancaensis F.A.Roig",
+            "id": "1655329",
+            "score": 0.00147
+        },
+        {
+            "name": "Cenchrus biflorus Roxb.",
+            "id": "1363462",
+            "score": 0.00104
+        }
+    ]
+}

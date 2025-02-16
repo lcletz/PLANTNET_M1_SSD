@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Mespilus germanica L.",
+            "id": "1408975",
+            "score": 0.43939
+        },
+        {
+            "name": "Malus sylvestris (L.) Mill.",
+            "id": "1420379",
+            "score": 0.00142
+        },
+        {
+            "name": "Cydonia oblonga Mill.",
+            "id": "1363999",
+            "score": 0.00123
+        },
+        {
+            "name": "Diospyros lotus L.",
+            "id": "1391736",
+            "score": 0.00122
+        },
+        {
+            "name": "Styrax officinalis L.",
+            "id": "1396476",
+            "score": 0.00105
+        }
+    ]
+}

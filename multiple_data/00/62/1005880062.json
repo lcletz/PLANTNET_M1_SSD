@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Caltha palustris L.",
+            "id": "1397332",
+            "score": 0.90338
+        },
+        {
+            "name": "Ranunculus montanus Willd.",
+            "id": "1362363",
+            "score": 0.01069
+        },
+        {
+            "name": "Ranunculus thora L.",
+            "id": "1395132",
+            "score": 0.00813
+        },
+        {
+            "name": "Ranunculus bullatus L.",
+            "id": "1360194",
+            "score": 0.00451
+        },
+        {
+            "name": "Ranunculus ficaria L.",
+            "id": "1413421",
+            "score": 0.00447
+        },
+        {
+            "name": "Ranunculus sardous Crantz",
+            "id": "1360223",
+            "score": 0.00131
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.60516
+        },
+        {
+            "name": "Fagus orientalis Lipsky",
+            "id": "1547791",
+            "score": 0.33009
+        },
+        {
+            "name": "Fagus grandifolia Ehrh.",
+            "id": "1412056",
+            "score": 0.02749
+        },
+        {
+            "name": "Fagus crenata Blume",
+            "id": "1419065",
+            "score": 0.00698
+        },
+        {
+            "name": "Fagus japonica Maxim.",
+            "id": "1547788",
+            "score": 0.00533
+        },
+        {
+            "name": "Fagus engleriana Seemen ex Diels",
+            "id": "1547786",
+            "score": 0.00229
+        },
+        {
+            "name": "Hamamelis virginiana L.",
+            "id": "1397621",
+            "score": 0.0012
+        }
+    ]
+}

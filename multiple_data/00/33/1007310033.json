@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pieris japonica (Thunb.) D.Don ex G.Don",
+            "id": "1392031",
+            "score": 0.71704
+        },
+        {
+            "name": "Kalmia latifolia L.",
+            "id": "1398517",
+            "score": 0.00482
+        },
+        {
+            "name": "Arbutus unedo L.",
+            "id": "1358500",
+            "score": 0.00451
+        },
+        {
+            "name": "Pieris formosa (Wall.) D.Don",
+            "id": "1392030",
+            "score": 0.00293
+        },
+        {
+            "name": "Arbutus andrachne L.",
+            "id": "1395933",
+            "score": 0.00193
+        },
+        {
+            "name": "Pyracantha coccinea M.Roem.",
+            "id": "1394994",
+            "score": 0.00109
+        }
+    ]
+}

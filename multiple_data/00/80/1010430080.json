@@ -1,0 +1,480 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cornus florida L.",
+            "id": "1397618",
+            "score": 0.92385
+        },
+        {
+            "name": "Cornus mas L.",
+            "id": "1391354",
+            "score": 0.0396
+        },
+        {
+            "name": "Magnolia denudata Desr.",
+            "id": "1393717",
+            "score": 0.01954
+        },
+        {
+            "name": "Cornus sericea L.",
+            "id": "1397902",
+            "score": 0.01917
+        },
+        {
+            "name": "Cornus nuttallii Audubon ex Torr. & A.Gray",
+            "id": "1528093",
+            "score": 0.01605
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.01524
+        },
+        {
+            "name": "Cornus rugosa Lam.",
+            "id": "1411550",
+            "score": 0.01114
+        },
+        {
+            "name": "Ostrya carpinifolia Scop.",
+            "id": "1394357",
+            "score": 0.01109
+        },
+        {
+            "name": "Diospyros kaki L.f.",
+            "id": "1391735",
+            "score": 0.00946
+        },
+        {
+            "name": "Salix babylonica L.",
+            "id": "1360452",
+            "score": 0.00909
+        },
+        {
+            "name": "Pyrus cordata Desv.",
+            "id": "1360328",
+            "score": 0.0069
+        },
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.0065
+        },
+        {
+            "name": "Cotinus coggygria Scop.",
+            "id": "1391375",
+            "score": 0.0054
+        },
+        {
+            "name": "Pyrus calleryana Decne.",
+            "id": "1395003",
+            "score": 0.00388
+        },
+        {
+            "name": "Quercus faginea Lam.",
+            "id": "1358614",
+            "score": 0.0034
+        },
+        {
+            "name": "Ulmus glabra Huds.",
+            "id": "1397552",
+            "score": 0.0033
+        },
+        {
+            "name": "Diospyros virginiana L.",
+            "id": "1389362",
+            "score": 0.00296
+        },
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.00277
+        },
+        {
+            "name": "Cercis canadensis L.",
+            "id": "1397806",
+            "score": 0.00261
+        },
+        {
+            "name": "Salix triandra L.",
+            "id": "1360459",
+            "score": 0.00254
+        },
+        {
+            "name": "Rhamnus cathartica L.",
+            "id": "1360262",
+            "score": 0.00253
+        },
+        {
+            "name": "Cornus kousa Bürger ex Hance",
+            "id": "1720853",
+            "score": 0.00242
+        },
+        {
+            "name": "Cornus alba L.",
+            "id": "1397617",
+            "score": 0.00232
+        },
+        {
+            "name": "Sambucus canadensis L.",
+            "id": "1356462",
+            "score": 0.00218
+        },
+        {
+            "name": "Cornus alternifolia L.f.",
+            "id": "1406479",
+            "score": 0.00217
+        },
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.00215
+        },
+        {
+            "name": "Pyrus spinosa Forssk.",
+            "id": "1395014",
+            "score": 0.00208
+        },
+        {
+            "name": "Crataegus azarolus L.",
+            "id": "1360290",
+            "score": 0.00203
+        },
+        {
+            "name": "Crataegus monogyna Jacq.",
+            "id": "1363988",
+            "score": 0.00198
+        },
+        {
+            "name": "Corylus avellana L.",
+            "id": "1391368",
+            "score": 0.00195
+        },
+        {
+            "name": "Diospyros lotus L.",
+            "id": "1391736",
+            "score": 0.00182
+        },
+        {
+            "name": "Olea europaea L.",
+            "id": "1359676",
+            "score": 0.00169
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00168
+        },
+        {
+            "name": "Magnolia × soulangeana Soul.-Bod.",
+            "id": "1591282",
+            "score": 0.00166
+        },
+        {
+            "name": "Magnolia acuminata (L.) L.",
+            "id": "1412655",
+            "score": 0.0016
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.00156
+        },
+        {
+            "name": "Ulmus minor Mill.",
+            "id": "1360607",
+            "score": 0.00154
+        },
+        {
+            "name": "Salix euxina I.V.Belyaeva",
+            "id": "1684004",
+            "score": 0.00149
+        },
+        {
+            "name": "Viburnum prunifolium L.",
+            "id": "1417592",
+            "score": 0.00146
+        },
+        {
+            "name": "Cornus sanguinea L.",
+            "id": "1397356",
+            "score": 0.00141
+        },
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.00139
+        },
+        {
+            "name": "Salix caprea L.",
+            "id": "1395765",
+            "score": 0.00139
+        },
+        {
+            "name": "Photinia serratifolia (Desf.) Kalkman",
+            "id": "1420392",
+            "score": 0.00129
+        },
+        {
+            "name": "Tabebuia heterophylla (DC.) Britton",
+            "id": "1388715",
+            "score": 0.00125
+        },
+        {
+            "name": "Acer monspessulanum L.",
+            "id": "1356457",
+            "score": 0.00125
+        },
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.0011
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.0011
+        },
+        {
+            "name": "Salix × pendulina Wender.",
+            "id": "1684175",
+            "score": 0.0011
+        },
+        {
+            "name": "Halesia carolina L.",
+            "id": "1420753",
+            "score": 0.00099
+        },
+        {
+            "name": "Lonicera alpigena L.",
+            "id": "1393630",
+            "score": 0.00098
+        },
+        {
+            "name": "Quercus vaseyana Buckley",
+            "id": "1437160",
+            "score": 0.00098
+        },
+        {
+            "name": "Phillyrea latifolia L.",
+            "id": "1359678",
+            "score": 0.00097
+        },
+        {
+            "name": "Vitex agnus-castus L.",
+            "id": "1356208",
+            "score": 0.00095
+        },
+        {
+            "name": "Piper hispidum Sw.",
+            "id": "1402950",
+            "score": 0.00095
+        },
+        {
+            "name": "Fraxinus ornus L.",
+            "id": "1362963",
+            "score": 0.00089
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00086
+        },
+        {
+            "name": "Salix atrocinerea Brot.",
+            "id": "1360451",
+            "score": 0.00085
+        },
+        {
+            "name": "Cercis occidentalis Torr. ex A.Gray",
+            "id": "1397805",
+            "score": 0.00085
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.00083
+        },
+        {
+            "name": "Catalpa bignonioides Walter",
+            "id": "1388727",
+            "score": 0.00083
+        },
+        {
+            "name": "Prunus americana Marshall",
+            "id": "1413346",
+            "score": 0.00081
+        },
+        {
+            "name": "Magnolia stellata (Siebold & Zucc.) Maxim.",
+            "id": "1393722",
+            "score": 0.00081
+        },
+        {
+            "name": "Quercus petraea (Matt.) Liebl.",
+            "id": "1419076",
+            "score": 0.00081
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.00078
+        },
+        {
+            "name": "Davidia involucrata Baill.",
+            "id": "1419609",
+            "score": 0.00075
+        },
+        {
+            "name": "Fraxinus angustifolia Vahl",
+            "id": "1362009",
+            "score": 0.00068
+        },
+        {
+            "name": "Salix pentandra L.",
+            "id": "1395852",
+            "score": 0.00068
+        },
+        {
+            "name": "Acer × coriaceum Bosc ex Tausch.",
+            "id": "1685252",
+            "score": 0.00066
+        },
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.00066
+        },
+        {
+            "name": "Crataegus rhipidophylla Gand.",
+            "id": "1363068",
+            "score": 0.00064
+        },
+        {
+            "name": "Robinia pseudoacacia L.",
+            "id": "1363698",
+            "score": 0.00063
+        },
+        {
+            "name": "Quercus virginiana Mill.",
+            "id": "1419081",
+            "score": 0.00062
+        },
+        {
+            "name": "Prunus serrulata Lindl.",
+            "id": "1394953",
+            "score": 0.00062
+        },
+        {
+            "name": "Quercus pubescens Willd.",
+            "id": "1395026",
+            "score": 0.00062
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.00062
+        },
+        {
+            "name": "Sassafras albidum (Nutt.) Nees",
+            "id": "1413669",
+            "score": 0.00061
+        },
+        {
+            "name": "Crataegus submollis Sarg.",
+            "id": "1391431",
+            "score": 0.00059
+        },
+        {
+            "name": "Cotinus obovatus Raf.",
+            "id": "1419269",
+            "score": 0.00057
+        },
+        {
+            "name": "Acer tataricum L.",
+            "id": "1398270",
+            "score": 0.00056
+        },
+        {
+            "name": "Elaeagnus multiflora Thunb.",
+            "id": "1397955",
+            "score": 0.00055
+        },
+        {
+            "name": "Tamarix parviflora DC.",
+            "id": "1364093",
+            "score": 0.00055
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.00053
+        },
+        {
+            "name": "Rosa banksiae R.Br.",
+            "id": "1420444",
+            "score": 0.00051
+        },
+        {
+            "name": "Prunus ilicifolia (Nutt. ex Hook. & Arn.) D.Dietr.",
+            "id": "1420413",
+            "score": 0.00049
+        },
+        {
+            "name": "Asimina triloba (L.) Dunal",
+            "id": "1413867",
+            "score": 0.00048
+        },
+        {
+            "name": "Viscum album L.",
+            "id": "1361900",
+            "score": 0.00048
+        },
+        {
+            "name": "Tamarix gallica L.",
+            "id": "1364090",
+            "score": 0.00045
+        },
+        {
+            "name": "Magnolia kobus DC.",
+            "id": "1393719",
+            "score": 0.00045
+        },
+        {
+            "name": "Cotoneaster coriaceus Franch.",
+            "id": "1390095",
+            "score": 0.00045
+        },
+        {
+            "name": "Actinidia chinensis Planch.",
+            "id": "1397151",
+            "score": 0.00045
+        },
+        {
+            "name": "Cercis siliquastrum L.",
+            "id": "1359162",
+            "score": 0.00044
+        },
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.00044
+        },
+        {
+            "name": "Salix eleagnos Scop.",
+            "id": "1395785",
+            "score": 0.00043
+        },
+        {
+            "name": "Tabebuia roseoalba (Ridl.) Sandwith",
+            "id": "1476995",
+            "score": 0.00043
+        },
+        {
+            "name": "Pyrus salicifolia Pall.",
+            "id": "1395004",
+            "score": 0.00042
+        }
+    ]
+}

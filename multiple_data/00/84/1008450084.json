@@ -1,0 +1,115 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Phyllostachys aurea (André) Rivière & C.Rivière",
+            "id": "1723194",
+            "score": 0.32371
+        },
+        {
+            "name": "Salix viminalis L.",
+            "id": "1395903",
+            "score": 0.09599
+        },
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.00892
+        },
+        {
+            "name": "Acacia retinodes Schltdl.",
+            "id": "1363778",
+            "score": 0.00359
+        },
+        {
+            "name": "Acacia longifolia (Andrews) Willd.",
+            "id": "1363769",
+            "score": 0.0025
+        },
+        {
+            "name": "Salix purpurea L.",
+            "id": "1360457",
+            "score": 0.00234
+        },
+        {
+            "name": "Salix × fragilis L.",
+            "id": "1684017",
+            "score": 0.00169
+        },
+        {
+            "name": "Arundo donax L.",
+            "id": "1363442",
+            "score": 0.00164
+        },
+        {
+            "name": "Phalaris arundinacea L.",
+            "id": "1363490",
+            "score": 0.00153
+        },
+        {
+            "name": "Artemisia dracunculus L.",
+            "id": "1362645",
+            "score": 0.00146
+        },
+        {
+            "name": "Artemisia verlotiorum Lamotte",
+            "id": "1357291",
+            "score": 0.00123
+        },
+        {
+            "name": "Salix triandra L.",
+            "id": "1360459",
+            "score": 0.00122
+        },
+        {
+            "name": "Salix eleagnos Scop.",
+            "id": "1395785",
+            "score": 0.00118
+        },
+        {
+            "name": "Polygonatum verticillatum (L.) All.",
+            "id": "1394745",
+            "score": 0.00104
+        },
+        {
+            "name": "Bassia scoparia (L.) A.J.Scott",
+            "id": "1418499",
+            "score": 0.00099
+        },
+        {
+            "name": "Chaerophyllum bulbosum L.",
+            "id": "1397349",
+            "score": 0.00093
+        },
+        {
+            "name": "Vitex agnus-castus L.",
+            "id": "1356208",
+            "score": 0.00087
+        },
+        {
+            "name": "Cannabis sativa L.",
+            "id": "1356780",
+            "score": 0.00071
+        },
+        {
+            "name": "Fraxinus angustifolia Vahl",
+            "id": "1362009",
+            "score": 0.00055
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.00052
+        },
+        {
+            "name": "Salix × pendulina Wender.",
+            "id": "1684175",
+            "score": 0.00047
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.00042
+        }
+    ]
+}

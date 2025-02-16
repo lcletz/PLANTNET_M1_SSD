@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Robinia pseudoacacia L.",
+            "id": "1363698",
+            "score": 0.731
+        },
+        {
+            "name": "Acacia acanthaster Maslin",
+            "id": "1567891",
+            "score": 0.09256
+        },
+        {
+            "name": "Robinia viscosa Michx. ex Vent.",
+            "id": "1742844",
+            "score": 0.05654
+        },
+        {
+            "name": "Robinia hispida L.",
+            "id": "1395210",
+            "score": 0.01294
+        },
+        {
+            "name": "Styphnolobium japonicum (L.) Schott",
+            "id": "1369068",
+            "score": 0.0034
+        },
+        {
+            "name": "Cladrastis kentukea (Dum.Cours.) Rudd",
+            "id": "1418918",
+            "score": 0.00136
+        }
+    ]
+}

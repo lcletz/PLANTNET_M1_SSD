@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Genista sagittalis L.",
+            "id": "1392524",
+            "score": 0.94181
+        },
+        {
+            "name": "Genista tinctoria L.",
+            "id": "1392527",
+            "score": 0.01068
+        },
+        {
+            "name": "Genista germanica L.",
+            "id": "1392515",
+            "score": 0.00359
+        },
+        {
+            "name": "Genista hispanica L.",
+            "id": "1392516",
+            "score": 0.00327
+        },
+        {
+            "name": "Genista pilosa L.",
+            "id": "1392521",
+            "score": 0.00272
+        },
+        {
+            "name": "Spartium junceum L.",
+            "id": "1363706",
+            "score": 0.00137
+        },
+        {
+            "name": "Genista delphinensis Verl.",
+            "id": "1392511",
+            "score": 0.00102
+        }
+    ]
+}

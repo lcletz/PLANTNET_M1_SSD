@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tanacetum parthenium (L.) Sch.Bip.",
+            "id": "1396511",
+            "score": 0.8965
+        },
+        {
+            "name": "Tanacetum corymbosum (L.) Sch.Bip.",
+            "id": "1397508",
+            "score": 0.01624
+        },
+        {
+            "name": "Anthemis cotula L.",
+            "id": "1364155",
+            "score": 0.00845
+        },
+        {
+            "name": "Chamaemelum nobile (L.) All.",
+            "id": "1357465",
+            "score": 0.00173
+        },
+        {
+            "name": "Anthemis arvensis L.",
+            "id": "1364154",
+            "score": 0.00136
+        },
+        {
+            "name": "Matricaria chamomilla L.",
+            "id": "1362332",
+            "score": 0.0012
+        }
+    ]
+}

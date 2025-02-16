@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Saxifraga aizoides L.",
+            "id": "1395940",
+            "score": 0.94915
+        },
+        {
+            "name": "Saxifraga aphylla Sternb.",
+            "id": "1397895",
+            "score": 0.00465
+        },
+        {
+            "name": "Sedum alpestre Vill.",
+            "id": "1396144",
+            "score": 0.00264
+        },
+        {
+            "name": "Saxifraga exarata Vill.",
+            "id": "1395973",
+            "score": 0.00066
+        },
+        {
+            "name": "Saxifraga moschata Wulfen",
+            "id": "1396015",
+            "score": 0.00051
+        },
+        {
+            "name": "Sedum sexangulare L.",
+            "id": "1396165",
+            "score": 0.00047
+        },
+        {
+            "name": "Teucrium aureum Schreb.",
+            "id": "1397509",
+            "score": 0.00041
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Malva alcea L.",
+            "id": "1359635",
+            "score": 0.4671
+        },
+        {
+            "name": "Malva moschata L.",
+            "id": "1393748",
+            "score": 0.32268
+        },
+        {
+            "name": "Malva tournefortiana L.",
+            "id": "1359641",
+            "score": 0.05185
+        },
+        {
+            "name": "Althaea officinalis L.",
+            "id": "1359625",
+            "score": 0.0038
+        },
+        {
+            "name": "Malva thuringiaca (L.) Vis.",
+            "id": "1362903",
+            "score": 0.00217
+        },
+        {
+            "name": "Malva hispanica L.",
+            "id": "1359637",
+            "score": 0.00187
+        },
+        {
+            "name": "Malva neglecta Wallr.",
+            "id": "1363944",
+            "score": 0.00184
+        }
+    ]
+}

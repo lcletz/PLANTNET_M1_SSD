@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ricinus communis L.",
+            "id": "1358609",
+            "score": 0.82783
+        },
+        {
+            "name": "Datura stramonium L.",
+            "id": "1360549",
+            "score": 0.00858
+        },
+        {
+            "name": "Xanthium strumarium L.",
+            "id": "1355898",
+            "score": 0.00239
+        },
+        {
+            "name": "Cucumis anguria L.",
+            "id": "1404600",
+            "score": 0.00145
+        },
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.0014
+        },
+        {
+            "name": "Sicyos edulis Jacq.",
+            "id": "1722531",
+            "score": 0.00107
+        },
+        {
+            "name": "Datura wrightii Regel",
+            "id": "1399913",
+            "score": 0.00101
+        }
+    ]
+}

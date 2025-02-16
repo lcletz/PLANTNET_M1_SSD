@@ -1,0 +1,465 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Crataegus azarolus L.",
+            "id": "1360290",
+            "score": 0.48564
+        },
+        {
+            "name": "Crataegus monogyna Jacq.",
+            "id": "1363988",
+            "score": 0.27281
+        },
+        {
+            "name": "Strychnos madagascariensis Poir.",
+            "id": "1373352",
+            "score": 0.05833
+        },
+        {
+            "name": "Pyrus spinosa Forssk.",
+            "id": "1395014",
+            "score": 0.04123
+        },
+        {
+            "name": "Crataegus × sinaica Boiss.",
+            "id": "1667368",
+            "score": 0.03013
+        },
+        {
+            "name": "Crataegus ambigua C.A.Mey. ex A.K.Becker",
+            "id": "1667167",
+            "score": 0.02413
+        },
+        {
+            "name": "Crataegus pentagyna Waldst. & Kit. ex Willd.",
+            "id": "1667322",
+            "score": 0.02106
+        },
+        {
+            "name": "Crataegus rhipidophylla Gand.",
+            "id": "1363068",
+            "score": 0.02066
+        },
+        {
+            "name": "Rhamnus staddo A.Rich.",
+            "id": "1666035",
+            "score": 0.02066
+        },
+        {
+            "name": "Crataegus pinnatifida Bunge",
+            "id": "1420354",
+            "score": 0.01825
+        },
+        {
+            "name": "Crataegus marshallii Eggl.",
+            "id": "1441803",
+            "score": 0.01613
+        },
+        {
+            "name": "Commiphora madagascariensis Jacq.",
+            "id": "1365807",
+            "score": 0.01361
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.00979
+        },
+        {
+            "name": "Ilex decidua Walter",
+            "id": "1420661",
+            "score": 0.00926
+        },
+        {
+            "name": "Crataegus laevigata (Poir.) DC.",
+            "id": "1360293",
+            "score": 0.00898
+        },
+        {
+            "name": "Securidaca longepedunculata Fresen.",
+            "id": "1748468",
+            "score": 0.00678
+        },
+        {
+            "name": "Searsia pyroides (Burch.) Moffett",
+            "id": "1454474",
+            "score": 0.00675
+        },
+        {
+            "name": "Crataegus granatensis Boiss.",
+            "id": "1360291",
+            "score": 0.00563
+        },
+        {
+            "name": "Ormocarpum trichocarpum (Taub.) Engl.",
+            "id": "1366414",
+            "score": 0.00546
+        },
+        {
+            "name": "Crataegus laciniata Ucria",
+            "id": "1360292",
+            "score": 0.00477
+        },
+        {
+            "name": "Crataegus pseudoheterophylla Pojark.",
+            "id": "1667335",
+            "score": 0.00432
+        },
+        {
+            "name": "Crataegus × macrocarpa Hegetschw.",
+            "id": "1667287",
+            "score": 0.00396
+        },
+        {
+            "name": "Adelia ricinella L.",
+            "id": "1542722",
+            "score": 0.00353
+        },
+        {
+            "name": "Crataegus pontica K.Koch",
+            "id": "1746848",
+            "score": 0.0033
+        },
+        {
+            "name": "Sideroxylon lanuginosum Michx.",
+            "id": "1438248",
+            "score": 0.00307
+        },
+        {
+            "name": "Scutia myrtina (Burm.f.) Kurz",
+            "id": "1424211",
+            "score": 0.00303
+        },
+        {
+            "name": "Ribes speciosum Pursh",
+            "id": "1395196",
+            "score": 0.00297
+        },
+        {
+            "name": "Crataegus orientalis Pall. ex M.Bieb.",
+            "id": "1667314",
+            "score": 0.00278
+        },
+        {
+            "name": "Lycium europaeum L.",
+            "id": "1356147",
+            "score": 0.00268
+        },
+        {
+            "name": "Crataegus crus-galli L.",
+            "id": "1391433",
+            "score": 0.00231
+        },
+        {
+            "name": "Crataegus nitida (Engelm. ex Britton & N.E.Br.) Sarg.",
+            "id": "1667309",
+            "score": 0.00228
+        },
+        {
+            "name": "Commiphora africana (A.Rich.) Engl.",
+            "id": "1748489",
+            "score": 0.00222
+        },
+        {
+            "name": "Grewia tenax (Forssk.) Fiori",
+            "id": "1594093",
+            "score": 0.00196
+        },
+        {
+            "name": "Rhamnus lycioides L.",
+            "id": "1360267",
+            "score": 0.00196
+        },
+        {
+            "name": "Forestiera pubescens Nutt.",
+            "id": "1419617",
+            "score": 0.00191
+        },
+        {
+            "name": "Ginkgo biloba L.",
+            "id": "1392617",
+            "score": 0.00155
+        },
+        {
+            "name": "Cercocarpus montanus Raf.",
+            "id": "1420342",
+            "score": 0.00137
+        },
+        {
+            "name": "Searsia crenulata (A.Rich.) Moffett",
+            "id": "1748469",
+            "score": 0.00136
+        },
+        {
+            "name": "Ribes quercetorum Greene",
+            "id": "1437377",
+            "score": 0.00134
+        },
+        {
+            "name": "Crataegus calpodendron (Ehrh.) Medik.",
+            "id": "1411574",
+            "score": 0.00131
+        },
+        {
+            "name": "Crataegus × media Bechst.",
+            "id": "1667293",
+            "score": 0.00125
+        },
+        {
+            "name": "Crataegus douglasii Lindl.",
+            "id": "1411585",
+            "score": 0.00124
+        },
+        {
+            "name": "Lycium barbarum L.",
+            "id": "1360557",
+            "score": 0.0012
+        },
+        {
+            "name": "Dalbergia melanoxylon Guill. & Perr.",
+            "id": "1363743",
+            "score": 0.0012
+        },
+        {
+            "name": "Duranta erecta L.",
+            "id": "1378717",
+            "score": 0.00118
+        },
+        {
+            "name": "Pyrus bourgaeana Decne.",
+            "id": "1360327",
+            "score": 0.00115
+        },
+        {
+            "name": "Searsia pentaphylla (Jacq.) F.A.Barkley ex Moffett",
+            "id": "1746783",
+            "score": 0.00114
+        },
+        {
+            "name": "Paliurus spina-christi Mill.",
+            "id": "1360259",
+            "score": 0.00109
+        },
+        {
+            "name": "Pyracantha coccinea M.Roem.",
+            "id": "1394994",
+            "score": 0.00109
+        },
+        {
+            "name": "Seseli cantabricum Lange",
+            "id": "1396242",
+            "score": 0.00108
+        },
+        {
+            "name": "Quercus fusiformis Small",
+            "id": "1437108",
+            "score": 0.00104
+        },
+        {
+            "name": "Haplocoelum foliolosum (Hiern) Bullock",
+            "id": "1431765",
+            "score": 0.00102
+        },
+        {
+            "name": "Campanula precatoria Timb.-Lagr.",
+            "id": "1390672",
+            "score": 0.00101
+        },
+        {
+            "name": "Schinus longifolia (Lindl.) Speg.",
+            "id": "1454434",
+            "score": 0.00092
+        },
+        {
+            "name": "Commiphora glandulosa Schinz",
+            "id": "1365420",
+            "score": 0.00088
+        },
+        {
+            "name": "Celtis tala Gillies ex Planch.",
+            "id": "1490867",
+            "score": 0.00086
+        },
+        {
+            "name": "Searsia burchellii (Sond. ex Engl.) Moffett",
+            "id": "1422579",
+            "score": 0.00086
+        },
+        {
+            "name": "Zanthoxylum clava-herculis L.",
+            "id": "1439772",
+            "score": 0.00078
+        },
+        {
+            "name": "Combretum mossambicense (Klotzsch) Engl.",
+            "id": "1381340",
+            "score": 0.00077
+        },
+        {
+            "name": "Searsia tenuinervis (Engl.) Moffett",
+            "id": "1454476",
+            "score": 0.00077
+        },
+        {
+            "name": "Euonymus europaeus L.",
+            "id": "1392236",
+            "score": 0.0007
+        },
+        {
+            "name": "Ehretia rigida (Thunb.) Druce",
+            "id": "1422516",
+            "score": 0.00069
+        },
+        {
+            "name": "Gymnosporia senegalensis (Lam.) Loes.",
+            "id": "1422538",
+            "score": 0.00068
+        },
+        {
+            "name": "Rhamnus cathartica L.",
+            "id": "1360262",
+            "score": 0.00068
+        },
+        {
+            "name": "Combretum apiculatum Sond.",
+            "id": "1422499",
+            "score": 0.00066
+        },
+        {
+            "name": "Hibiscus syriacus L.",
+            "id": "1392770",
+            "score": 0.00066
+        },
+        {
+            "name": "Turraea mombassana Hiern ex C.DC.",
+            "id": "1751694",
+            "score": 0.00066
+        },
+        {
+            "name": "Prunus × fruticans Weihe",
+            "id": "1667948",
+            "score": 0.00064
+        },
+        {
+            "name": "Haematoxylum campechianum L.",
+            "id": "1366974",
+            "score": 0.00063
+        },
+        {
+            "name": "Senegalia senegal (L.) Britton",
+            "id": "1422597",
+            "score": 0.00063
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.00062
+        },
+        {
+            "name": "Azima tetracantha Lam.",
+            "id": "1372610",
+            "score": 0.00055
+        },
+        {
+            "name": "Strychnos spinosa Lam.",
+            "id": "1373356",
+            "score": 0.00055
+        },
+        {
+            "name": "Grewia similis K.Schum.",
+            "id": "1594082",
+            "score": 0.00051
+        },
+        {
+            "name": "Berberis vulgaris L.",
+            "id": "1356603",
+            "score": 0.0005
+        },
+        {
+            "name": "Berberis aristata DC.",
+            "id": "1475461",
+            "score": 0.0005
+        },
+        {
+            "name": "Scolopia zeyheri (Nees) Szyszył.",
+            "id": "1422578",
+            "score": 0.00048
+        },
+        {
+            "name": "Robinia neomexicana A.Gray",
+            "id": "1399024",
+            "score": 0.00047
+        },
+        {
+            "name": "Catunaregam taylorii (S.Moore) Bridson",
+            "id": "1671340",
+            "score": 0.00046
+        },
+        {
+            "name": "Discaria chacaye (G.Don) Tortosa",
+            "id": "1665664",
+            "score": 0.00045
+        },
+        {
+            "name": "Gymnosporia putterlickioides Loes.",
+            "id": "1370279",
+            "score": 0.00045
+        },
+        {
+            "name": "Ceanothus cuneatus (Hook.) Nutt.",
+            "id": "1440974",
+            "score": 0.00045
+        },
+        {
+            "name": "Strychnos pungens Soler.",
+            "id": "1373355",
+            "score": 0.00042
+        },
+        {
+            "name": "Calicotome villosa (Poir.) Link",
+            "id": "1359161",
+            "score": 0.00042
+        },
+        {
+            "name": "Gymnosporia buxifolia (L.) Szyszył.",
+            "id": "1422536",
+            "score": 0.00041
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.00041
+        },
+        {
+            "name": "Malus spontanea (Makino) Makino",
+            "id": "1667546",
+            "score": 0.0004
+        },
+        {
+            "name": "Albizia anthelmintica (A.Rich.) Brongn.",
+            "id": "1751488",
+            "score": 0.0004
+        },
+        {
+            "name": "Searsia undulata (Jacq.) T.S.Yi, A.J.Mill. & J.Wen",
+            "id": "1454478",
+            "score": 0.0004
+        },
+        {
+            "name": "Maclura pomifera (Raf.) C.K.Schneid.",
+            "id": "1393715",
+            "score": 0.00039
+        },
+        {
+            "name": "Eremospatha cabrae (De Wild. & T.Durand) De Wild.",
+            "id": "1469533",
+            "score": 0.00031
+        },
+        {
+            "name": "Crataegus mollis (Torr. & A.Gray) Scheele",
+            "id": "1667300",
+            "score": 0.00031
+        }
+    ]
+}

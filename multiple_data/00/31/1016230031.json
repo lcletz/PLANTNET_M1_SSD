@@ -1,0 +1,480 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ligustrum vulgare L.",
+            "id": "1359675",
+            "score": 0.59367
+        },
+        {
+            "name": "Ligustrum sinense Lour.",
+            "id": "1390584",
+            "score": 0.10707
+        },
+        {
+            "name": "Hypericum glandulosum Aiton",
+            "id": "1358697",
+            "score": 0.05567
+        },
+        {
+            "name": "Ligustrum ovalifolium Hassk.",
+            "id": "1393526",
+            "score": 0.03952
+        },
+        {
+            "name": "Eugenia pyriformis Cambess.",
+            "id": "1419556",
+            "score": 0.02861
+        },
+        {
+            "name": "Punica granatum L.",
+            "id": "1359616",
+            "score": 0.02524
+        },
+        {
+            "name": "Ligustrum obtusifolium Siebold & Zucc.",
+            "id": "1419628",
+            "score": 0.02471
+        },
+        {
+            "name": "Eugenia involucrata DC.",
+            "id": "1419554",
+            "score": 0.01942
+        },
+        {
+            "name": "Fontanesia philliraeoides Labill.",
+            "id": "1746108",
+            "score": 0.01882
+        },
+        {
+            "name": "Hypericum canariense L.",
+            "id": "1358691",
+            "score": 0.0173
+        },
+        {
+            "name": "Murraya paniculata (L.) Jack",
+            "id": "1372599",
+            "score": 0.01407
+        },
+        {
+            "name": "Erythroxylum novogranatense (D.Morris) Hieron.",
+            "id": "1409610",
+            "score": 0.00987
+        },
+        {
+            "name": "Syzygium paniculatum Gaertn.",
+            "id": "1419587",
+            "score": 0.00863
+        },
+        {
+            "name": "Ligustrum quihoui Carrière",
+            "id": "1419629",
+            "score": 0.00843
+        },
+        {
+            "name": "Erythroxylum coca Lam.",
+            "id": "1382304",
+            "score": 0.0072
+        },
+        {
+            "name": "Myrtus communis L.",
+            "id": "1359662",
+            "score": 0.00715
+        },
+        {
+            "name": "Buckleya distichophylla (Nutt.) Torr.",
+            "id": "1440315",
+            "score": 0.00639
+        },
+        {
+            "name": "Pereskia aculeata Mill.",
+            "id": "1409195",
+            "score": 0.00608
+        },
+        {
+            "name": "Memecylon edule Roxb.",
+            "id": "1429438",
+            "score": 0.00528
+        },
+        {
+            "name": "Buxus sempervirens L.",
+            "id": "1356729",
+            "score": 0.00522
+        },
+        {
+            "name": "Veronica stricta Banks & Sol. ex Benth.",
+            "id": "1812801",
+            "score": 0.00477
+        },
+        {
+            "name": "Hypericum calycinum L.",
+            "id": "1393241",
+            "score": 0.00475
+        },
+        {
+            "name": "Hypericum xylosteifolium (Spach) N.Robson",
+            "id": "1555508",
+            "score": 0.00462
+        },
+        {
+            "name": "Coreopsis tripteris L.",
+            "id": "1411539",
+            "score": 0.00452
+        },
+        {
+            "name": "Veronica salicifolia G.Forst.",
+            "id": "1646772",
+            "score": 0.00416
+        },
+        {
+            "name": "Ligustrum robustum (Roxb.) Blume",
+            "id": "1419630",
+            "score": 0.00396
+        },
+        {
+            "name": "Euphorbia palustris L.",
+            "id": "1392178",
+            "score": 0.00357
+        },
+        {
+            "name": "Hypericum patulum Thunb.",
+            "id": "1398513",
+            "score": 0.00354
+        },
+        {
+            "name": "Coriaria myrtifolia L.",
+            "id": "1358024",
+            "score": 0.00353
+        },
+        {
+            "name": "Trichilia havanensis Jacq.",
+            "id": "1600801",
+            "score": 0.00347
+        },
+        {
+            "name": "Jasminum mesnyi Hance",
+            "id": "1383124",
+            "score": 0.00338
+        },
+        {
+            "name": "Memecylon umbellatum Burm.f.",
+            "id": "1426515",
+            "score": 0.0033
+        },
+        {
+            "name": "Kalmia angustifolia L.",
+            "id": "1398516",
+            "score": 0.00329
+        },
+        {
+            "name": "Myrrhinium atropurpureum Schott",
+            "id": "1419575",
+            "score": 0.00306
+        },
+        {
+            "name": "Myrciaria glazioviana (Kiaersk.) G.M.Barroso ex Sobral",
+            "id": "1606350",
+            "score": 0.00287
+        },
+        {
+            "name": "Ligustrum tschonoskii Decne.",
+            "id": "1433901",
+            "score": 0.00281
+        },
+        {
+            "name": "Simaba polyphylla (Cavalcante) W.W.Thomas",
+            "id": "1405156",
+            "score": 0.0027
+        },
+        {
+            "name": "Eugenia brasiliensis Lam.",
+            "id": "1382889",
+            "score": 0.00264
+        },
+        {
+            "name": "Santalum album L.",
+            "id": "1408653",
+            "score": 0.0024
+        },
+        {
+            "name": "Ziziphus jujuba Mill.",
+            "id": "1360271",
+            "score": 0.00232
+        },
+        {
+            "name": "Citrus japonica Thunb.",
+            "id": "1420517",
+            "score": 0.00229
+        },
+        {
+            "name": "Rubia tinctorum L.",
+            "id": "1360434",
+            "score": 0.00228
+        },
+        {
+            "name": "Buddleja alternifolia Maxim.",
+            "id": "1397799",
+            "score": 0.00221
+        },
+        {
+            "name": "Pittosporum heterophyllum Franch.",
+            "id": "1390596",
+            "score": 0.0022
+        },
+        {
+            "name": "Allamanda cathartica L.",
+            "id": "1369872",
+            "score": 0.0022
+        },
+        {
+            "name": "Ligustrum japonicum Thunb.",
+            "id": "1397735",
+            "score": 0.00217
+        },
+        {
+            "name": "Citrus × aurantium L.",
+            "id": "1403435",
+            "score": 0.00216
+        },
+        {
+            "name": "Ligustrum compactum (Wall. ex G.Don) Hook.f. & Thomson ex Brandis",
+            "id": "1609333",
+            "score": 0.002
+        },
+        {
+            "name": "Syzygium myrtifolium Walp.",
+            "id": "1607287",
+            "score": 0.00196
+        },
+        {
+            "name": "Xylopia brasiliensis Spreng.",
+            "id": "1456240",
+            "score": 0.00179
+        },
+        {
+            "name": "Deutzia scabra Thunb.",
+            "id": "1391675",
+            "score": 0.00175
+        },
+        {
+            "name": "Sideroxylon canariense Leyens, Lobin & A.Santos",
+            "id": "1687392",
+            "score": 0.00175
+        },
+        {
+            "name": "Veronica elliptica G.Forst.",
+            "id": "1646703",
+            "score": 0.0017
+        },
+        {
+            "name": "Nandina domestica Thunb.",
+            "id": "1409295",
+            "score": 0.00169
+        },
+        {
+            "name": "Pimenta dioica (L.) Merr.",
+            "id": "1382914",
+            "score": 0.00164
+        },
+        {
+            "name": "Simarouba amara Aubl.",
+            "id": "1403544",
+            "score": 0.00163
+        },
+        {
+            "name": "Gentiana makinoi Kusn.",
+            "id": "1549122",
+            "score": 0.00159
+        },
+        {
+            "name": "Guarea costata A.Juss.",
+            "id": "1402302",
+            "score": 0.00152
+        },
+        {
+            "name": "Polysphaeria multiflora Hiern",
+            "id": "1408552",
+            "score": 0.00149
+        },
+        {
+            "name": "Baptisia × bicolor Greenm. & Larisey",
+            "id": "1817049",
+            "score": 0.00145
+        },
+        {
+            "name": "Hypericum beanii N.Robson",
+            "id": "1393237",
+            "score": 0.00145
+        },
+        {
+            "name": "Eugenia candolleana DC.",
+            "id": "1604347",
+            "score": 0.00144
+        },
+        {
+            "name": "Sorbaria sorbifolia (L.) A.Braun",
+            "id": "1396352",
+            "score": 0.00144
+        },
+        {
+            "name": "Glycyrrhiza glabra L.",
+            "id": "1363659",
+            "score": 0.00142
+        },
+        {
+            "name": "Comandra umbellata (L.) Nutt.",
+            "id": "1411519",
+            "score": 0.00134
+        },
+        {
+            "name": "Fraxinus latifolia Benth.",
+            "id": "1412090",
+            "score": 0.00129
+        },
+        {
+            "name": "Fraxinus pennsylvanica Marshall",
+            "id": "1392363",
+            "score": 0.00124
+        },
+        {
+            "name": "Sambucus australis Cham. & Schltdl.",
+            "id": "1447814",
+            "score": 0.00122
+        },
+        {
+            "name": "Hypericum prolificum L.",
+            "id": "1412313",
+            "score": 0.00121
+        },
+        {
+            "name": "Staphylea pinnata L.",
+            "id": "1396437",
+            "score": 0.00121
+        },
+        {
+            "name": "Lafoensia glyptocarpa Koehne",
+            "id": "1590970",
+            "score": 0.00121
+        },
+        {
+            "name": "Elaeagnus umbellata Thunb.",
+            "id": "1391838",
+            "score": 0.0012
+        },
+        {
+            "name": "Deutzia gracilis Siebold & Zucc.",
+            "id": "1391671",
+            "score": 0.00119
+        },
+        {
+            "name": "Viburnum carlesii Hemsl.",
+            "id": "1397080",
+            "score": 0.00118
+        },
+        {
+            "name": "Colea floribunda Bojer",
+            "id": "1759883",
+            "score": 0.00117
+        },
+        {
+            "name": "Jasminum officinale L.",
+            "id": "1359673",
+            "score": 0.00116
+        },
+        {
+            "name": "Sarcococca coriacea (Hook.) Sweet",
+            "id": "1729413",
+            "score": 0.00116
+        },
+        {
+            "name": "Wisteriopsis reticulata (Benth.) J.Compton & Schrire",
+            "id": "1778416",
+            "score": 0.00116
+        },
+        {
+            "name": "Hypericum hypericoides (L.) Crantz",
+            "id": "1433158",
+            "score": 0.00114
+        },
+        {
+            "name": "Matayba elaeagnoides Radlk.",
+            "id": "1686043",
+            "score": 0.00113
+        },
+        {
+            "name": "Syzygium smithii (Poir.) Nied.",
+            "id": "1419588",
+            "score": 0.00109
+        },
+        {
+            "name": "Phellodendron amurense Rupr.",
+            "id": "1413037",
+            "score": 0.00109
+        },
+        {
+            "name": "Styphnolobium japonicum (L.) Schott",
+            "id": "1369068",
+            "score": 0.00108
+        },
+        {
+            "name": "Choisya ternata Kunth",
+            "id": "1364041",
+            "score": 0.00107
+        },
+        {
+            "name": "Smilax laurifolia L.",
+            "id": "1438358",
+            "score": 0.00105
+        },
+        {
+            "name": "Rhus copallinum L.",
+            "id": "1413464",
+            "score": 0.00104
+        },
+        {
+            "name": "Gypsophila pilosa Huds.",
+            "id": "1356863",
+            "score": 0.00104
+        },
+        {
+            "name": "Bryobium hyacinthoides (Blume) Y.P.Ng & P.J.Cribb",
+            "id": "1611962",
+            "score": 0.00103
+        },
+        {
+            "name": "Psidium friedrichsthalianum (O.Berg) Nied.",
+            "id": "1419579",
+            "score": 0.00103
+        },
+        {
+            "name": "Solanum laxum Spreng.",
+            "id": "1356173",
+            "score": 0.00101
+        },
+        {
+            "name": "Pavetta opulina (G.Forst.) DC.",
+            "id": "1677358",
+            "score": 0.00101
+        },
+        {
+            "name": "Forsteronia acouci (Aubl.) A.DC.",
+            "id": "1401938",
+            "score": 0.00101
+        },
+        {
+            "name": "Polygala myrtifolia L.",
+            "id": "1360101",
+            "score": 0.001
+        },
+        {
+            "name": "Plinia cauliflora (Mart.) Kausel",
+            "id": "1419577",
+            "score": 0.001
+        },
+        {
+            "name": "Gentiana andrewsii Griseb.",
+            "id": "1412138",
+            "score": 0.00099
+        }
+    ]
+}

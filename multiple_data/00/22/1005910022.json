@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Arum italicum Mill.",
+            "id": "1360989",
+            "score": 0.80493
+        },
+        {
+            "name": "Arum maculatum L.",
+            "id": "1396952",
+            "score": 0.0865
+        },
+        {
+            "name": "Arum cylindraceum Gasp.",
+            "id": "1396937",
+            "score": 0.01069
+        },
+        {
+            "name": "Colchicum autumnale L.",
+            "id": "1362438",
+            "score": 0.00265
+        },
+        {
+            "name": "Zantedeschia aethiopica (L.) Spreng.",
+            "id": "1363264",
+            "score": 0.00169
+        },
+        {
+            "name": "Podophyllum peltatum L.",
+            "id": "1413174",
+            "score": 0.00153
+        }
+    ]
+}

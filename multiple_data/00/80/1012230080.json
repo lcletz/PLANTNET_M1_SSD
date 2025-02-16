@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.51383
+        },
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.16765
+        },
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.1042
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.09567
+        },
+        {
+            "name": "Celtis occidentalis L.",
+            "id": "1397796",
+            "score": 0.00236
+        },
+        {
+            "name": "Broussonetia papyrifera (L.) L'Hér. ex Vent.",
+            "id": "1362912",
+            "score": 0.00215
+        },
+        {
+            "name": "Guazuma ulmifolia Lam.",
+            "id": "1378186",
+            "score": 0.00169
+        },
+        {
+            "name": "Humulus lupulus L.",
+            "id": "1356781",
+            "score": 0.00147
+        },
+        {
+            "name": "Morus cathayana Hemsl.",
+            "id": "1602328",
+            "score": 0.0012
+        }
+    ]
+}

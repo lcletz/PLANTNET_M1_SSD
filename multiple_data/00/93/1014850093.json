@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Artemisia absinthium L.",
+            "id": "1357268",
+            "score": 0.92249
+        },
+        {
+            "name": "Artemisia maritima L.",
+            "id": "1397320",
+            "score": 0.00885
+        },
+        {
+            "name": "Artemisia austriaca Jacq.",
+            "id": "1396748",
+            "score": 0.00734
+        },
+        {
+            "name": "Artemisia arborescens L.",
+            "id": "1396742",
+            "score": 0.00655
+        },
+        {
+            "name": "Artemisia frigida Willd.",
+            "id": "1413631",
+            "score": 0.00622
+        },
+        {
+            "name": "Artemisia pontica L.",
+            "id": "1357285",
+            "score": 0.00417
+        },
+        {
+            "name": "Artemisia ludoviciana Nutt.",
+            "id": "1396735",
+            "score": 0.00313
+        },
+        {
+            "name": "Artemisia alba Turra",
+            "id": "1357269",
+            "score": 0.00288
+        },
+        {
+            "name": "Artemisia campestris L.",
+            "id": "1357275",
+            "score": 0.00153
+        },
+        {
+            "name": "Artemisia stelleriana Besser",
+            "id": "1413704",
+            "score": 0.00103
+        }
+    ]
+}

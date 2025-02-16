@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Berberis repens Lindl.",
+            "id": "1398614",
+            "score": 0.90868
+        },
+        {
+            "name": "Berberis aquifolium Pursh",
+            "id": "1400122",
+            "score": 0.02649
+        },
+        {
+            "name": "Berberis pinnata Lag.",
+            "id": "1398613",
+            "score": 0.00849
+        },
+        {
+            "name": "Berberis nervosa Pursh",
+            "id": "1815603",
+            "score": 0.00307
+        },
+        {
+            "name": "Berberis darwinii Hook.",
+            "id": "1400115",
+            "score": 0.00104
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Lythrum salicaria L.",
+            "id": "1356023",
+            "score": 0.54748
+        },
+        {
+            "name": "Lythrum virgatum L.",
+            "id": "1393714",
+            "score": 0.36394
+        },
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.00252
+        },
+        {
+            "name": "Odontites vernus (Bellardi) Dumort.",
+            "id": "1393989",
+            "score": 0.00226
+        }
+    ]
+}

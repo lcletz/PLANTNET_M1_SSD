@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vicia hybrida L.",
+            "id": "1359562",
+            "score": 0.94825
+        },
+        {
+            "name": "Vicia pannonica Crantz",
+            "id": "1363675",
+            "score": 0.01423
+        },
+        {
+            "name": "Vicia lutea L.",
+            "id": "1359565",
+            "score": 0.01002
+        },
+        {
+            "name": "Vicia melanops Sm.",
+            "id": "1397100",
+            "score": 0.0042
+        },
+        {
+            "name": "Vicia sativa L.",
+            "id": "1359575",
+            "score": 0.00167
+        }
+    ]
+}

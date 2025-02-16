@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Abies grandis (Douglas ex D.Don) Lindl.",
+            "id": "1391871",
+            "score": 0.75806
+        },
+        {
+            "name": "Abies alba Mill.",
+            "id": "1397299",
+            "score": 0.17581
+        },
+        {
+            "name": "Abies balsamea (L.) Mill.",
+            "id": "1398265",
+            "score": 0.01278
+        },
+        {
+            "name": "Pseudotsuga menziesii (Mirb.) Franco",
+            "id": "1394967",
+            "score": 0.0102
+        },
+        {
+            "name": "Tsuga heterophylla (Raf.) Sarg.",
+            "id": "1396904",
+            "score": 0.00241
+        },
+        {
+            "name": "Taxus contorta Griff.",
+            "id": "1728702",
+            "score": 0.00182
+        },
+        {
+            "name": "Tsuga canadensis (L.) Carrière",
+            "id": "1398279",
+            "score": 0.00145
+        },
+        {
+            "name": "Taxus baccata L.",
+            "id": "1396710",
+            "score": 0.00139
+        }
+    ]
+}

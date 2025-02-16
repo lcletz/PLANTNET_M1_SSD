@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Malus sylvestris Mill.",
+            "id": "1364002",
+            "score": 0.16781
+        },
+        {
+            "name": "Malus pumila Mill.",
+            "id": "1362849",
+            "score": 0.15899
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.00531
+        },
+        {
+            "name": "Sorbus torminalis (L.) Crantz",
+            "id": "1360366",
+            "score": 0.00348
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.0034
+        },
+        {
+            "name": "Sorbus aria (L.) Crantz",
+            "id": "1360364",
+            "score": 0.00304
+        },
+        {
+            "name": "Amelanchier ovalis Medik.",
+            "id": "1360275",
+            "score": 0.00244
+        },
+        {
+            "name": "Cydonia oblonga Mill.",
+            "id": "1363999",
+            "score": 0.00243
+        },
+        {
+            "name": "Rhamnus cathartica L.",
+            "id": "1360262",
+            "score": 0.00219
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.00169
+        },
+        {
+            "name": "Pyrus spinosa Forssk.",
+            "id": "1395014",
+            "score": 0.00161
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.0011
+        }
+    ]
+}

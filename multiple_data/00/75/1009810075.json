@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dimorphotheca ecklonis DC.",
+            "id": "1748142",
+            "score": 0.32437
+        },
+        {
+            "name": "Dimorphotheca pluvialis (L.) Moench",
+            "id": "1391733",
+            "score": 0.26527
+        },
+        {
+            "name": "Dimorphotheca fruticosa (L.) DC.",
+            "id": "1744843",
+            "score": 0.06032
+        },
+        {
+            "name": "Dimorphotheca sinuata DC.",
+            "id": "1374876",
+            "score": 0.00863
+        },
+        {
+            "name": "Dimorphotheca jucunda E.Phillips",
+            "id": "1506253",
+            "score": 0.0086
+        },
+        {
+            "name": "Arctotis venusta Norl.",
+            "id": "1355873",
+            "score": 0.00186
+        },
+        {
+            "name": "Arctotis stoechadifolia P.J.Bergius",
+            "id": "1499416",
+            "score": 0.00183
+        }
+    ]
+}

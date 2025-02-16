@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Artemisia vulgaris L.",
+            "id": "1364152",
+            "score": 0.81877
+        },
+        {
+            "name": "Artemisia verlotiorum Lamotte",
+            "id": "1357291",
+            "score": 0.08668
+        },
+        {
+            "name": "Artemisia campestris L.",
+            "id": "1357275",
+            "score": 0.01626
+        },
+        {
+            "name": "Artemisia princeps Pamp.",
+            "id": "1499799",
+            "score": 0.00288
+        },
+        {
+            "name": "Artemisia annua L.",
+            "id": "1382106",
+            "score": 0.0015
+        },
+        {
+            "name": "Rubus nemoralis P.J.Müll.",
+            "id": "1395553",
+            "score": 0.0012
+        },
+        {
+            "name": "Artemisia ludoviciana Nutt.",
+            "id": "1396735",
+            "score": 0.00105
+        }
+    ]
+}

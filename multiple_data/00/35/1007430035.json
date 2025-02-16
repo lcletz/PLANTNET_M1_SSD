@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Solanum dulcamara L.",
+            "id": "1360566",
+            "score": 0.94846
+        },
+        {
+            "name": "Solanum crispum Ruiz & Pav.",
+            "id": "1691574",
+            "score": 0.00275
+        },
+        {
+            "name": "Solanum americanum Mill.",
+            "id": "1360564",
+            "score": 0.0019
+        },
+        {
+            "name": "Solanum septemlobum Bunge",
+            "id": "1692168",
+            "score": 0.00187
+        },
+        {
+            "name": "Solanum tuberosum L.",
+            "id": "1356171",
+            "score": 0.00115
+        }
+    ]
+}

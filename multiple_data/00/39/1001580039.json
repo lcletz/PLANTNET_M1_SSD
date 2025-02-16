@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phytolacca americana L.",
+            "id": "1356062",
+            "score": 0.87344
+        },
+        {
+            "name": "Phytolacca bogotensis Kunth",
+            "id": "1436467",
+            "score": 0.02071
+        },
+        {
+            "name": "Phytolacca acinosa Roxb.",
+            "id": "1394558",
+            "score": 0.01426
+        },
+        {
+            "name": "Phytolacca icosandra L.",
+            "id": "1406199",
+            "score": 0.00111
+        },
+        {
+            "name": "Phytolacca octandra L.",
+            "id": "1376694",
+            "score": 0.00101
+        }
+    ]
+}

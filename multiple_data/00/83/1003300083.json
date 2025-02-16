@@ -1,0 +1,475 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Scrophularia canina L.",
+            "id": "1360497",
+            "score": 0.01872
+        },
+        {
+            "name": "Potentilla pusilla Host",
+            "id": "1667816",
+            "score": 0.0141
+        },
+        {
+            "name": "Arracacia xanthorrhiza Bancr.",
+            "id": "1399928",
+            "score": 0.01323
+        },
+        {
+            "name": "Artemisia lactiflora Wall. ex DC.",
+            "id": "1417767",
+            "score": 0.01264
+        },
+        {
+            "name": "Valeriana phu L.",
+            "id": "1363004",
+            "score": 0.01186
+        },
+        {
+            "name": "Scilla vindobonensis Speta",
+            "id": "1473232",
+            "score": 0.01115
+        },
+        {
+            "name": "Rudbeckia laciniata L.",
+            "id": "1395639",
+            "score": 0.01091
+        },
+        {
+            "name": "Dahlia × cultorum Thorsrud & Reisaeter",
+            "id": "1844132",
+            "score": 0.00799
+        },
+        {
+            "name": "Hibiscus acetosella Welw. ex Hiern",
+            "id": "1370453",
+            "score": 0.00757
+        },
+        {
+            "name": "Acaena elongata L.",
+            "id": "1666234",
+            "score": 0.00625
+        },
+        {
+            "name": "Geum aleppicum Jacq.",
+            "id": "1412165",
+            "score": 0.0059
+        },
+        {
+            "name": "Astilbe glaberrima Nakai",
+            "id": "1687638",
+            "score": 0.00584
+        },
+        {
+            "name": "Bidens bipinnata L.",
+            "id": "1364141",
+            "score": 0.0056
+        },
+        {
+            "name": "Chionanthus pubescens Kunth",
+            "id": "1609069",
+            "score": 0.00549
+        },
+        {
+            "name": "Anisomeles heyneana Benth.",
+            "id": "1558669",
+            "score": 0.00509
+        },
+        {
+            "name": "Inula candida (L.) Cass.",
+            "id": "1512320",
+            "score": 0.00461
+        },
+        {
+            "name": "Alternanthera sessilis (L.) R.Br. ex DC.",
+            "id": "1393406",
+            "score": 0.00431
+        },
+        {
+            "name": "Senecio trifurcatus (G.Forst.) Less.",
+            "id": "1521026",
+            "score": 0.00427
+        },
+        {
+            "name": "Dahlia merckii Lehm.",
+            "id": "1505898",
+            "score": 0.00421
+        },
+        {
+            "name": "Geranium robertianum L.",
+            "id": "1356017",
+            "score": 0.00383
+        },
+        {
+            "name": "Ranunculus repens L.",
+            "id": "1360222",
+            "score": 0.00375
+        },
+        {
+            "name": "Astilbe japonica (C.Morren & Decne.) A.Gray",
+            "id": "1398452",
+            "score": 0.00371
+        },
+        {
+            "name": "Serratula tinctoria L.",
+            "id": "1357870",
+            "score": 0.00355
+        },
+        {
+            "name": "Ptychotis saxifraga (L.) Loret & Barrandon",
+            "id": "1394971",
+            "score": 0.00346
+        },
+        {
+            "name": "Potentilla norvegica L.",
+            "id": "1394867",
+            "score": 0.00339
+        },
+        {
+            "name": "Rubus nemoralis P.J.Müll.",
+            "id": "1395553",
+            "score": 0.00338
+        },
+        {
+            "name": "Pedicularis centranthera A.Gray",
+            "id": "1816101",
+            "score": 0.00336
+        },
+        {
+            "name": "Potentilla intermedia L.",
+            "id": "1394857",
+            "score": 0.00324
+        },
+        {
+            "name": "Cardamine scutata Thunb.",
+            "id": "1479880",
+            "score": 0.00322
+        },
+        {
+            "name": "Paeonia cambessedesii (Willk.) Willk.",
+            "id": "1638030",
+            "score": 0.00304
+        },
+        {
+            "name": "Pedicularis semibarbata A.Gray",
+            "id": "1816699",
+            "score": 0.00304
+        },
+        {
+            "name": "Lamprocapnos spectabilis (L.) Fukuhara",
+            "id": "1419840",
+            "score": 0.00294
+        },
+        {
+            "name": "Pedicularis densiflora Benth.",
+            "id": "1637019",
+            "score": 0.00287
+        },
+        {
+            "name": "Arabis scabra All.",
+            "id": "1395844",
+            "score": 0.00277
+        },
+        {
+            "name": "Cryptotaenia japonica Hassk.",
+            "id": "1419754",
+            "score": 0.00264
+        },
+        {
+            "name": "Lysimachia barystachys Bunge",
+            "id": "1434389",
+            "score": 0.00262
+        },
+        {
+            "name": "Bidens subalternans DC.",
+            "id": "1400143",
+            "score": 0.00252
+        },
+        {
+            "name": "Pleurospermum austriacum (L.) Hoffm.",
+            "id": "1394648",
+            "score": 0.00251
+        },
+        {
+            "name": "Sanicula saxatilis Greene",
+            "id": "1437843",
+            "score": 0.00238
+        },
+        {
+            "name": "Ranunculus cantoniensis DC.",
+            "id": "1664447",
+            "score": 0.00231
+        },
+        {
+            "name": "Ramonda nathaliae Pančić & Petrovič",
+            "id": "1419136",
+            "score": 0.00219
+        },
+        {
+            "name": "Tinantia pringlei (S.Watson) Rohweder",
+            "id": "1497623",
+            "score": 0.00207
+        },
+        {
+            "name": "Artemisia indica Willd.",
+            "id": "1499660",
+            "score": 0.00206
+        },
+        {
+            "name": "Tagetes erecta L.",
+            "id": "1374048",
+            "score": 0.00204
+        },
+        {
+            "name": "Acaena caespitosa Gillies ex Hook. & Arn.",
+            "id": "1666232",
+            "score": 0.00202
+        },
+        {
+            "name": "Juncus pygmaeus Rich. ex Thuill.",
+            "id": "1393350",
+            "score": 0.00202
+        },
+        {
+            "name": "Alchemilla glaucescens Wallr.",
+            "id": "1392137",
+            "score": 0.00199
+        },
+        {
+            "name": "Cardamine angustata O.E.Schulz",
+            "id": "1479723",
+            "score": 0.00197
+        },
+        {
+            "name": "Geum canadense Jacq.",
+            "id": "1412167",
+            "score": 0.00192
+        },
+        {
+            "name": "Haloragis erecta (Murray) Oken",
+            "id": "1554448",
+            "score": 0.0019
+        },
+        {
+            "name": "Scrophularia peregrina L.",
+            "id": "1360507",
+            "score": 0.00185
+        },
+        {
+            "name": "Potentilla supina L.",
+            "id": "1363992",
+            "score": 0.00181
+        },
+        {
+            "name": "Hydrophyllum virginianum L.",
+            "id": "1393226",
+            "score": 0.00178
+        },
+        {
+            "name": "Potentilla crantzii (Crantz) Beck ex Fritsch",
+            "id": "1394840",
+            "score": 0.00176
+        },
+        {
+            "name": "Sanicula graveolens Poepp. ex DC.",
+            "id": "1413663",
+            "score": 0.00172
+        },
+        {
+            "name": "Saxifraga cuneata Willd.",
+            "id": "1395967",
+            "score": 0.00171
+        },
+        {
+            "name": "Pachysandra axillaris Franch.",
+            "id": "1486360",
+            "score": 0.00166
+        },
+        {
+            "name": "Potentilla tommasiniana F.W.Schultz",
+            "id": "1667872",
+            "score": 0.00164
+        },
+        {
+            "name": "Aconitum carmichaelii Debeaux",
+            "id": "1420275",
+            "score": 0.00162
+        },
+        {
+            "name": "Amaranthus cruentus L.",
+            "id": "1363249",
+            "score": 0.00154
+        },
+        {
+            "name": "Bidens triplinervia Kunth",
+            "id": "1423180",
+            "score": 0.00151
+        },
+        {
+            "name": "Paeonia brownii Douglas ex Hook.",
+            "id": "1435480",
+            "score": 0.0015
+        },
+        {
+            "name": "Valeriana calcitrapae L.",
+            "id": "1722514",
+            "score": 0.00149
+        },
+        {
+            "name": "Eryngium vesiculosum Labill.",
+            "id": "1457629",
+            "score": 0.00142
+        },
+        {
+            "name": "Botrychium dissectum Spreng.",
+            "id": "1414314",
+            "score": 0.00142
+        },
+        {
+            "name": "Artemisia vulgaris L.",
+            "id": "1364152",
+            "score": 0.0014
+        },
+        {
+            "name": "Campanula wanneri Rochel",
+            "id": "1489326",
+            "score": 0.00138
+        },
+        {
+            "name": "Ligusticum scothicum L.",
+            "id": "1737456",
+            "score": 0.00137
+        },
+        {
+            "name": "Anarrhinum bellidifolium (L.) Willd.",
+            "id": "1393976",
+            "score": 0.00134
+        },
+        {
+            "name": "Aquilegia viridiflora Pall.",
+            "id": "1420297",
+            "score": 0.00133
+        },
+        {
+            "name": "Dahlia pinnata Cav.",
+            "id": "1391643",
+            "score": 0.00132
+        },
+        {
+            "name": "Ranunculus fascicularis Muhl. ex Bigelow",
+            "id": "1413420",
+            "score": 0.00129
+        },
+        {
+            "name": "Polygonum cilinode Michx.",
+            "id": "1413210",
+            "score": 0.00129
+        },
+        {
+            "name": "Lepidium graminifolium L.",
+            "id": "1358349",
+            "score": 0.00127
+        },
+        {
+            "name": "Actaea simplex (DC.) Wormsk. ex Prantl",
+            "id": "1420284",
+            "score": 0.00124
+        },
+        {
+            "name": "Leonurus sibiricus L.",
+            "id": "1397956",
+            "score": 0.00122
+        },
+        {
+            "name": "Sporobolus neglectus Nash",
+            "id": "1396417",
+            "score": 0.00119
+        },
+        {
+            "name": "Begonia dregei Otto & A.Dietr.",
+            "id": "1754385",
+            "score": 0.00115
+        },
+        {
+            "name": "Cardamine parviflora L.",
+            "id": "1363885",
+            "score": 0.00114
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.00113
+        },
+        {
+            "name": "Rubus bertramii G.Braun",
+            "id": "1668564",
+            "score": 0.00113
+        },
+        {
+            "name": "Phedimus middendorffianus (Maxim.) 't Hart",
+            "id": "1528977",
+            "score": 0.00109
+        },
+        {
+            "name": "Patrinia heterophylla Bunge",
+            "id": "1491478",
+            "score": 0.00109
+        },
+        {
+            "name": "Geranium purpureum Vill.",
+            "id": "1356012",
+            "score": 0.00109
+        },
+        {
+            "name": "Viola jooi Janka",
+            "id": "1697323",
+            "score": 0.00108
+        },
+        {
+            "name": "Eryngium campestre L.",
+            "id": "1360711",
+            "score": 0.00107
+        },
+        {
+            "name": "Sporobolus indicus (L.) R.Br.",
+            "id": "1396416",
+            "score": 0.00106
+        },
+        {
+            "name": "Acaena splendens Hook. & Arn.",
+            "id": "1666248",
+            "score": 0.00106
+        },
+        {
+            "name": "Senecio leucostachys Baker",
+            "id": "1520401",
+            "score": 0.00106
+        },
+        {
+            "name": "Heuchera pubescens Pursh",
+            "id": "1432922",
+            "score": 0.00101
+        },
+        {
+            "name": "Cymopterus purpureus S.Watson",
+            "id": "1457287",
+            "score": 0.001
+        },
+        {
+            "name": "Livistona nitida Rodd",
+            "id": "1469942",
+            "score": 0.001
+        },
+        {
+            "name": "Acaena microphylla Hook.f.",
+            "id": "1420333",
+            "score": 0.001
+        },
+        {
+            "name": "Lobelia × speciosa Sweet",
+            "id": "1490111",
+            "score": 0.001
+        }
+    ]
+}

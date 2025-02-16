@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hordeum murinum L.",
+            "id": "1361307",
+            "score": 0.85025
+        },
+        {
+            "name": "Hordeum marinum Huds.",
+            "id": "1361306",
+            "score": 0.04657
+        },
+        {
+            "name": "Hordeum vulgare L.",
+            "id": "1363481",
+            "score": 0.0081
+        },
+        {
+            "name": "Hordeum secalinum Schreb.",
+            "id": "1361308",
+            "score": 0.00467
+        },
+        {
+            "name": "Hordeum pusillum Nutt.",
+            "id": "1393202",
+            "score": 0.00422
+        },
+        {
+            "name": "Crithopsis delileana (Schult.) Roshev.",
+            "id": "1361216",
+            "score": 0.00124
+        },
+        {
+            "name": "Hordeum jubatum L.",
+            "id": "1397404",
+            "score": 0.00114
+        },
+        {
+            "name": "Cynosurus echinatus L.",
+            "id": "1363504",
+            "score": 0.00102
+        }
+    ]
+}

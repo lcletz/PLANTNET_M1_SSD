@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lycopersicon esculentum Mill.",
+            "id": "1356179",
+            "score": 0.3221
+        },
+        {
+            "name": "Solanum villosum Mill.",
+            "id": "1361993",
+            "score": 0.00405
+        },
+        {
+            "name": "Solanum aethiopicum L.",
+            "id": "1356174",
+            "score": 0.00263
+        },
+        {
+            "name": "Capsicum annuum L.",
+            "id": "1361992",
+            "score": 0.00185
+        }
+    ]
+}

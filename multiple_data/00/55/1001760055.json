@@ -1,0 +1,330 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Centaurea melitensis L.",
+            "id": "1355885",
+            "score": 0.17848
+        },
+        {
+            "name": "Centaurea aspera L.",
+            "id": "1357401",
+            "score": 0.09048
+        },
+        {
+            "name": "Centaurea solstitialis L.",
+            "id": "1355886",
+            "score": 0.06204
+        },
+        {
+            "name": "Leontodon hispidus L.",
+            "id": "1357697",
+            "score": 0.03512
+        },
+        {
+            "name": "Hypochaeris glabra L.",
+            "id": "1355871",
+            "score": 0.03216
+        },
+        {
+            "name": "Biscutella laevigata L.",
+            "id": "1362417",
+            "score": 0.03115
+        },
+        {
+            "name": "Hypochaeris radicata L.",
+            "id": "1355872",
+            "score": 0.02779
+        },
+        {
+            "name": "Leontodon saxatilis Lam.",
+            "id": "1357700",
+            "score": 0.0238
+        },
+        {
+            "name": "Centaurea calcitrapa L.",
+            "id": "1355884",
+            "score": 0.01584
+        },
+        {
+            "name": "Picris hieracioides L.",
+            "id": "1364160",
+            "score": 0.01582
+        },
+        {
+            "name": "Leontodon crispus Vill.",
+            "id": "1397425",
+            "score": 0.01275
+        },
+        {
+            "name": "Centaurea paniculata L.",
+            "id": "1362429",
+            "score": 0.01244
+        },
+        {
+            "name": "Crepis foetida L.",
+            "id": "1355870",
+            "score": 0.0107
+        },
+        {
+            "name": "Reichardia picroides (L.) Roth",
+            "id": "1357815",
+            "score": 0.01018
+        },
+        {
+            "name": "Campanula spicata L.",
+            "id": "1390675",
+            "score": 0.00975
+        },
+        {
+            "name": "Biscutella lima Rchb.",
+            "id": "1398226",
+            "score": 0.00913
+        },
+        {
+            "name": "Leontodon tuberosus L.",
+            "id": "1357702",
+            "score": 0.00816
+        },
+        {
+            "name": "Cirsium arvense (L.) Scop.",
+            "id": "1355936",
+            "score": 0.00644
+        },
+        {
+            "name": "Verbascum sinuatum L.",
+            "id": "1360542",
+            "score": 0.0062
+        },
+        {
+            "name": "Leuzea conifera (L.) DC.",
+            "id": "1743327",
+            "score": 0.00513
+        },
+        {
+            "name": "Limonium sinuatum (L.) Mill.",
+            "id": "1360075",
+            "score": 0.00423
+        },
+        {
+            "name": "Jurinea mollis (L.) Rchb.",
+            "id": "1399639",
+            "score": 0.00382
+        },
+        {
+            "name": "Capsella bursa-pastoris (L.) Medik.",
+            "id": "1363910",
+            "score": 0.00368
+        },
+        {
+            "name": "Dichasianthus runcinatus (Lag. ex DC.) V.I.Dorof.",
+            "id": "1743322",
+            "score": 0.00352
+        },
+        {
+            "name": "Erigeron bonariensis L.",
+            "id": "1355905",
+            "score": 0.00339
+        },
+        {
+            "name": "Cirsium vulgare (Savi) Ten.",
+            "id": "1355937",
+            "score": 0.00331
+        },
+        {
+            "name": "Hedypnois rhagadioloides (L.) F.W.Schmidt",
+            "id": "1392699",
+            "score": 0.00293
+        },
+        {
+            "name": "Cirsium tuberosum (L.) All.",
+            "id": "1391250",
+            "score": 0.00291
+        },
+        {
+            "name": "Reichardia tingitana (L.) Roth",
+            "id": "1355941",
+            "score": 0.00266
+        },
+        {
+            "name": "Carlina vulgaris L.",
+            "id": "1390949",
+            "score": 0.00256
+        },
+        {
+            "name": "Tolpis staticifolia (All.) Sch.Bip.",
+            "id": "1396809",
+            "score": 0.00246
+        },
+        {
+            "name": "Erigeron floribundus (Kunth) Sch.Bip.",
+            "id": "1388806",
+            "score": 0.00243
+        },
+        {
+            "name": "Tyrimnus leucographus (L.) Cass.",
+            "id": "1357951",
+            "score": 0.00233
+        },
+        {
+            "name": "Helminthotheca echioides (L.) Holub",
+            "id": "1357635",
+            "score": 0.00223
+        },
+        {
+            "name": "Cirsium hookerianum Nutt.",
+            "id": "1411468",
+            "score": 0.00216
+        },
+        {
+            "name": "Centaurea jacea L.",
+            "id": "1362427",
+            "score": 0.00215
+        },
+        {
+            "name": "Biscutella valentina (Loefl. ex L.) Heywood",
+            "id": "1388918",
+            "score": 0.00212
+        },
+        {
+            "name": "Chondrilla juncea L.",
+            "id": "1357492",
+            "score": 0.0021
+        },
+        {
+            "name": "Crepis mollis (Jacq.) Asch.",
+            "id": "1391455",
+            "score": 0.00206
+        },
+        {
+            "name": "Campanula sibirica L.",
+            "id": "1399130",
+            "score": 0.00205
+        },
+        {
+            "name": "Diplotaxis erucoides (L.) DC.",
+            "id": "1363878",
+            "score": 0.00203
+        },
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.00199
+        },
+        {
+            "name": "Carduus defloratus L.",
+            "id": "1397340",
+            "score": 0.00187
+        },
+        {
+            "name": "Campanula rapunculus L.",
+            "id": "1356752",
+            "score": 0.00182
+        },
+        {
+            "name": "Crepis vesicaria L.",
+            "id": "1357549",
+            "score": 0.00179
+        },
+        {
+            "name": "Jasione montana L.",
+            "id": "1356766",
+            "score": 0.00179
+        },
+        {
+            "name": "Mantisalca salmantica (L.) Briq. & Cavill.",
+            "id": "1364108",
+            "score": 0.00177
+        },
+        {
+            "name": "Scorzoneroides autumnalis (L.) Moench",
+            "id": "1396117",
+            "score": 0.00165
+        },
+        {
+            "name": "Crepis setosa Haller f.",
+            "id": "1361760",
+            "score": 0.00164
+        },
+        {
+            "name": "Crepis albida Vill.",
+            "id": "1357521",
+            "score": 0.00162
+        },
+        {
+            "name": "Erigeron canadensis L.",
+            "id": "1392041",
+            "score": 0.00159
+        },
+        {
+            "name": "Carduus nutans L.",
+            "id": "1357350",
+            "score": 0.00157
+        },
+        {
+            "name": "Erysimum odoratum Ehrh.",
+            "id": "1392121",
+            "score": 0.00155
+        },
+        {
+            "name": "Carduus nigrescens Vill.",
+            "id": "1390740",
+            "score": 0.00155
+        },
+        {
+            "name": "Centaurea diffusa Lam.",
+            "id": "1390997",
+            "score": 0.00149
+        },
+        {
+            "name": "Reseda luteola L.",
+            "id": "1363978",
+            "score": 0.00127
+        },
+        {
+            "name": "Biscutella cichoriifolia Loisel.",
+            "id": "1400156",
+            "score": 0.00121
+        },
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.00121
+        },
+        {
+            "name": "Diplotaxis muralis (L.) DC.",
+            "id": "1363875",
+            "score": 0.00119
+        },
+        {
+            "name": "Campanula alpestris All.",
+            "id": "1390652",
+            "score": 0.00117
+        },
+        {
+            "name": "Dysphania multifida (L.) Mosyakin & Clemants",
+            "id": "1388788",
+            "score": 0.00115
+        },
+        {
+            "name": "Erigeron acris L.",
+            "id": "1357568",
+            "score": 0.00115
+        },
+        {
+            "name": "Anthericum ramosum L.",
+            "id": "1394759",
+            "score": 0.00112
+        },
+        {
+            "name": "Hieracium gouanii Arv.-Touv.",
+            "id": "1392936",
+            "score": 0.00107
+        },
+        {
+            "name": "Carduus pycnocephalus L.",
+            "id": "1357351",
+            "score": 0.00102
+        }
+    ]
+}

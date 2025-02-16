@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Helleborus foetidus L.",
+            "id": "1360182",
+            "score": 0.80079
+        },
+        {
+            "name": "Helleborus viridis L.",
+            "id": "1397399",
+            "score": 0.03535
+        },
+        {
+            "name": "Lupinus angustifolius L.",
+            "id": "1363699",
+            "score": 0.00977
+        },
+        {
+            "name": "Cicuta virosa L.",
+            "id": "1391163",
+            "score": 0.00325
+        },
+        {
+            "name": "Lupinus polyphyllus Lindl.",
+            "id": "1367432",
+            "score": 0.00206
+        },
+        {
+            "name": "Astrantia minor L.",
+            "id": "1398471",
+            "score": 0.00146
+        },
+        {
+            "name": "Falcaria vulgaris Bernh.",
+            "id": "1361891",
+            "score": 0.00115
+        },
+        {
+            "name": "Helleborus lividus Aiton",
+            "id": "1397536",
+            "score": 0.00103
+        }
+    ]
+}

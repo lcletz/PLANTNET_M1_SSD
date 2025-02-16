@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Galium verum L.",
+            "id": "1360422",
+            "score": 0.88056
+        },
+        {
+            "name": "Galium arenarium Loisel.",
+            "id": "1392440",
+            "score": 0.04158
+        },
+        {
+            "name": "Galium lucidum All.",
+            "id": "1360398",
+            "score": 0.00334
+        },
+        {
+            "name": "Galium montis-arerae Merxm. & Ehrend.",
+            "id": "1673205",
+            "score": 0.00318
+        },
+        {
+            "name": "Galium × pomeranicum Retz.",
+            "id": "1673274",
+            "score": 0.00177
+        },
+        {
+            "name": "Asparagus acutifolius L.",
+            "id": "1361000",
+            "score": 0.00153
+        },
+        {
+            "name": "Galium corsicum Spreng.",
+            "id": "1392452",
+            "score": 0.0011
+        }
+    ]
+}

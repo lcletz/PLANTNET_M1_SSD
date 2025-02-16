@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.70735
+        },
+        {
+            "name": "Aesculus × carnea Zeyh.",
+            "id": "1420608",
+            "score": 0.05212
+        },
+        {
+            "name": "Aesculus pavia L.",
+            "id": "1389544",
+            "score": 0.02597
+        },
+        {
+            "name": "Aesculus glabra Willd.",
+            "id": "1390602",
+            "score": 0.01061
+        },
+        {
+            "name": "Ulmus glabra Huds.",
+            "id": "1397552",
+            "score": 0.00598
+        },
+        {
+            "name": "Aesculus turbinata Blume",
+            "id": "1420609",
+            "score": 0.00529
+        },
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.00121
+        },
+        {
+            "name": "Aesculus flava Sol.",
+            "id": "1398407",
+            "score": 0.00117
+        }
+    ]
+}

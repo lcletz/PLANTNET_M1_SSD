@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.89345
+        },
+        {
+            "name": "Fagus grandifolia Ehrh.",
+            "id": "1412056",
+            "score": 0.02941
+        },
+        {
+            "name": "Fagus orientalis Lipsky",
+            "id": "1547791",
+            "score": 0.02785
+        },
+        {
+            "name": "Dipterocarpus sublamellatus Foxw.",
+            "id": "1428051",
+            "score": 0.01014
+        },
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.00902
+        },
+        {
+            "name": "Hamamelis virginiana L.",
+            "id": "1397621",
+            "score": 0.00433
+        }
+    ]
+}

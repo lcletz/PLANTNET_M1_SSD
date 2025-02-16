@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rosa rugosa Thunb.",
+            "id": "1395343",
+            "score": 0.91081
+        },
+        {
+            "name": "Rosa pendulina L.",
+            "id": "1395329",
+            "score": 0.00759
+        },
+        {
+            "name": "Rosa rubiginosa L.",
+            "id": "1363996",
+            "score": 0.00319
+        },
+        {
+            "name": "Rosa gallica L.",
+            "id": "1360338",
+            "score": 0.00317
+        },
+        {
+            "name": "Rosa woodsii Lindl.",
+            "id": "1413515",
+            "score": 0.00226
+        },
+        {
+            "name": "Rosa villosa L.",
+            "id": "1395371",
+            "score": 0.00171
+        },
+        {
+            "name": "Rosa virginiana Mill.",
+            "id": "1413514",
+            "score": 0.0015
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Polypodium cambricum L.",
+            "id": "1356431",
+            "score": 0.93787
+        },
+        {
+            "name": "Polypodium vulgare L.",
+            "id": "1356433",
+            "score": 0.02191
+        },
+        {
+            "name": "Polypodium californicum Kaulf.",
+            "id": "1436820",
+            "score": 0.01387
+        },
+        {
+            "name": "Polypodium interjectum Shivas",
+            "id": "1356432",
+            "score": 0.00269
+        },
+        {
+            "name": "Phymatosorus scolopendria (Burm.f.) Pic.Serm.",
+            "id": "1410302",
+            "score": 0.0017
+        },
+        {
+            "name": "Asplenium alatum Humb. & Bonpl. ex Willd.",
+            "id": "1401384",
+            "score": 0.00101
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.94226
+        },
+        {
+            "name": "Pyrus cordata Desv.",
+            "id": "1360328",
+            "score": 0.00483
+        },
+        {
+            "name": "Alnus cordata (Loisel.) Duby",
+            "id": "1397307",
+            "score": 0.00394
+        },
+        {
+            "name": "Amelanchier ovalis Medik.",
+            "id": "1360275",
+            "score": 0.00278
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.00268
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.00168
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00138
+        },
+        {
+            "name": "Prunus serotina Ehrh.",
+            "id": "1370859",
+            "score": 0.00136
+        },
+        {
+            "name": "Aronia melanocarpa (Michx.) Elliott",
+            "id": "1398450",
+            "score": 0.0011
+        }
+    ]
+}

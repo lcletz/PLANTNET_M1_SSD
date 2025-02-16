@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.94819
+        },
+        {
+            "name": "Aesculus glabra Willd.",
+            "id": "1390602",
+            "score": 0.02183
+        },
+        {
+            "name": "Aesculus pavia L.",
+            "id": "1389544",
+            "score": 0.01227
+        },
+        {
+            "name": "Aesculus turbinata Blume",
+            "id": "1420609",
+            "score": 0.00669
+        },
+        {
+            "name": "Aesculus × carnea Zeyh.",
+            "id": "1420608",
+            "score": 0.00333
+        },
+        {
+            "name": "Castanea sativa Mill.",
+            "id": "1358610",
+            "score": 0.00113
+        },
+        {
+            "name": "Acer pseudoplatanus L.",
+            "id": "1356460",
+            "score": 0.00051
+        }
+    ]
+}

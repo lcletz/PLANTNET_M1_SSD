@@ -1,0 +1,430 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lobelia erinus L.",
+            "id": "1356018",
+            "score": 0.07147
+        },
+        {
+            "name": "Arabis alpina L.",
+            "id": "1363887",
+            "score": 0.04403
+        },
+        {
+            "name": "Dimorphotheca ecklonis DC.",
+            "id": "1748142",
+            "score": 0.02703
+        },
+        {
+            "name": "Tagetes erecta L.",
+            "id": "1374048",
+            "score": 0.02551
+        },
+        {
+            "name": "Aubrieta deltoidea (L.) DC.",
+            "id": "1399865",
+            "score": 0.02244
+        },
+        {
+            "name": "Blitum virgatum L.",
+            "id": "1356500",
+            "score": 0.01907
+        },
+        {
+            "name": "Callistephus chinensis (L.) Nees",
+            "id": "1390640",
+            "score": 0.01786
+        },
+        {
+            "name": "Cyclanthera pedata (L.) Schrad.",
+            "id": "1384544",
+            "score": 0.01575
+        },
+        {
+            "name": "Eruca vesicaria (L.) Cav.",
+            "id": "1356328",
+            "score": 0.01454
+        },
+        {
+            "name": "Dimorphotheca sinuata DC.",
+            "id": "1374876",
+            "score": 0.01314
+        },
+        {
+            "name": "Emilia sonchifolia (L.) DC.",
+            "id": "1373553",
+            "score": 0.01288
+        },
+        {
+            "name": "Chenopodiastrum murale (L.) S.Fuentes, Uotila & Borsch",
+            "id": "1389974",
+            "score": 0.01057
+        },
+        {
+            "name": "Dimorphotheca fruticosa (L.) DC.",
+            "id": "1744843",
+            "score": 0.00992
+        },
+        {
+            "name": "Cucumis melo L.",
+            "id": "1363647",
+            "score": 0.00812
+        },
+        {
+            "name": "Arabidopsis thaliana (L.) Heynh.",
+            "id": "1363915",
+            "score": 0.00806
+        },
+        {
+            "name": "Matthiola longipetala (Vent.) DC.",
+            "id": "1356293",
+            "score": 0.0079
+        },
+        {
+            "name": "Saxifraga cuneifolia L.",
+            "id": "1397547",
+            "score": 0.00771
+        },
+        {
+            "name": "Kalanchoe laciniata (L.) DC.",
+            "id": "1363607",
+            "score": 0.00768
+        },
+        {
+            "name": "Raphanus raphanistrum L.",
+            "id": "1363901",
+            "score": 0.00766
+        },
+        {
+            "name": "Oscularia deltoides (L.) Schwantes",
+            "id": "1394352",
+            "score": 0.00759
+        },
+        {
+            "name": "Crepis bursifolia L.",
+            "id": "1357526",
+            "score": 0.00752
+        },
+        {
+            "name": "Dimorphotheca pluvialis (L.) Moench",
+            "id": "1391733",
+            "score": 0.00638
+        },
+        {
+            "name": "Erechtites hieraciifolius (L.) Raf. ex DC.",
+            "id": "1389921",
+            "score": 0.00592
+        },
+        {
+            "name": "Saxifraga tridactylites L.",
+            "id": "1360489",
+            "score": 0.00526
+        },
+        {
+            "name": "Papaver rhoeas L.",
+            "id": "1363128",
+            "score": 0.00515
+        },
+        {
+            "name": "Lactuca sativa L.",
+            "id": "1364172",
+            "score": 0.00497
+        },
+        {
+            "name": "Kalanchoe daigremontiana Raym.-Hamet & H.Perrier",
+            "id": "1399973",
+            "score": 0.00468
+        },
+        {
+            "name": "Emilia fosbergii Nicolson",
+            "id": "1403917",
+            "score": 0.0046
+        },
+        {
+            "name": "Rorippa sylvestris (L.) Besser",
+            "id": "1358416",
+            "score": 0.00459
+        },
+        {
+            "name": "Cucumis sativus L.",
+            "id": "1384472",
+            "score": 0.00404
+        },
+        {
+            "name": "Citrullus lanatus (Thunb.) Matsum. & Nakai",
+            "id": "1363148",
+            "score": 0.00388
+        },
+        {
+            "name": "Hylotelephium telephioides (Michx.) H.Ohba",
+            "id": "1815841",
+            "score": 0.00374
+        },
+        {
+            "name": "Draba verna L.",
+            "id": "1391786",
+            "score": 0.00372
+        },
+        {
+            "name": "Senecio vulgaris L.",
+            "id": "1364138",
+            "score": 0.00359
+        },
+        {
+            "name": "Eryngium foetidum L.",
+            "id": "1384694",
+            "score": 0.00327
+        },
+        {
+            "name": "Diplotaxis muralis (L.) DC.",
+            "id": "1363875",
+            "score": 0.00311
+        },
+        {
+            "name": "Iberis umbellata L.",
+            "id": "1363926",
+            "score": 0.00281
+        },
+        {
+            "name": "Lobularia maritima (L.) Desv.",
+            "id": "1363882",
+            "score": 0.0027
+        },
+        {
+            "name": "Phyla nodiflora (L.) Greene",
+            "id": "1360859",
+            "score": 0.00269
+        },
+        {
+            "name": "Senecio angulatus L.f.",
+            "id": "1396186",
+            "score": 0.00263
+        },
+        {
+            "name": "Glebionis segetum (L.) Fourr.",
+            "id": "1357603",
+            "score": 0.00258
+        },
+        {
+            "name": "Osteospermum vaillantii (Decne.) Norl.",
+            "id": "1747886",
+            "score": 0.00255
+        },
+        {
+            "name": "Arabidopsis arenosa (L.) Lawalrée",
+            "id": "1389345",
+            "score": 0.00253
+        },
+        {
+            "name": "Centaurea cyanus L.",
+            "id": "1411387",
+            "score": 0.00253
+        },
+        {
+            "name": "Sonchus tenerrimus L.",
+            "id": "1364171",
+            "score": 0.00233
+        },
+        {
+            "name": "Baculellum articulatum (L.f.) L.V.Ozerova & A.C.Timonin",
+            "id": "1758360",
+            "score": 0.00229
+        },
+        {
+            "name": "Solanum lycopersicum L.",
+            "id": "1396325",
+            "score": 0.00193
+        },
+        {
+            "name": "Solanum triflorum Nutt.",
+            "id": "1396330",
+            "score": 0.00192
+        },
+        {
+            "name": "Coleus prostratus (Gürke) A.J.Paton",
+            "id": "1751461",
+            "score": 0.00191
+        },
+        {
+            "name": "Chorispora tenella (Pall.) DC.",
+            "id": "1358215",
+            "score": 0.00187
+        },
+        {
+            "name": "Arabis caucasica Willd.",
+            "id": "1479393",
+            "score": 0.00185
+        },
+        {
+            "name": "Strigosella africana (L.) Botsch.",
+            "id": "1741690",
+            "score": 0.00183
+        },
+        {
+            "name": "Baccharis dracunculifolia DC.",
+            "id": "1404365",
+            "score": 0.00182
+        },
+        {
+            "name": "Senecio leucanthemifolius Poir.",
+            "id": "1357861",
+            "score": 0.00172
+        },
+        {
+            "name": "Tridax procumbens L.",
+            "id": "1374112",
+            "score": 0.00168
+        },
+        {
+            "name": "Scaevola aemula R.Br.",
+            "id": "1419146",
+            "score": 0.00161
+        },
+        {
+            "name": "Bellis perennis L.",
+            "id": "1357317",
+            "score": 0.00154
+        },
+        {
+            "name": "Hylotelephium spectabile (Boreau) H.Ohba",
+            "id": "1389217",
+            "score": 0.00144
+        },
+        {
+            "name": "Maytenus boaria Molina",
+            "id": "1423469",
+            "score": 0.00144
+        },
+        {
+            "name": "Kalanchoe serrata Mannoni & Boiteau",
+            "id": "1528906",
+            "score": 0.00143
+        },
+        {
+            "name": "Campanula lasiocarpa Cham.",
+            "id": "1414415",
+            "score": 0.00137
+        },
+        {
+            "name": "Rubia fruticosa Aiton",
+            "id": "1360432",
+            "score": 0.00136
+        },
+        {
+            "name": "Kalanchoe sexangularis N.E.Br.",
+            "id": "1418534",
+            "score": 0.00136
+        },
+        {
+            "name": "Dendrophorbium peregrinum (Griseb.) C.Jeffrey",
+            "id": "1833270",
+            "score": 0.00136
+        },
+        {
+            "name": "Mesembryanthemum crystallinum L.",
+            "id": "1356044",
+            "score": 0.00131
+        },
+        {
+            "name": "Chenopodium giganteum D.Don",
+            "id": "1408973",
+            "score": 0.00129
+        },
+        {
+            "name": "Dysphania ambrosioides (L.) Mosyakin & Clemants",
+            "id": "1388787",
+            "score": 0.00127
+        },
+        {
+            "name": "Kalanchoe synsepala Baker",
+            "id": "1528913",
+            "score": 0.00127
+        },
+        {
+            "name": "Hypochaeris oligocephala (Svent. & Bramw.) Lack",
+            "id": "1722660",
+            "score": 0.00125
+        },
+        {
+            "name": "Chrysanthemum indicum L.",
+            "id": "1391154",
+            "score": 0.00122
+        },
+        {
+            "name": "Erysimum odoratum Ehrh.",
+            "id": "1392121",
+            "score": 0.00122
+        },
+        {
+            "name": "Oxybasis glauca (L.) S.Fuentes, Uotila & Borsch",
+            "id": "1389979",
+            "score": 0.00119
+        },
+        {
+            "name": "Centaurea aspera L.",
+            "id": "1357401",
+            "score": 0.00118
+        },
+        {
+            "name": "Crepis foetida L.",
+            "id": "1355870",
+            "score": 0.00117
+        },
+        {
+            "name": "Arctotheca calendula (L.) Levyns",
+            "id": "1355927",
+            "score": 0.00117
+        },
+        {
+            "name": "Eclipta prostrata (L.) L.",
+            "id": "1364146",
+            "score": 0.00115
+        },
+        {
+            "name": "Crepis sancta (L.) Bornm.",
+            "id": "1357546",
+            "score": 0.00113
+        },
+        {
+            "name": "Saponaria ocymoides L.",
+            "id": "1361747",
+            "score": 0.00111
+        },
+        {
+            "name": "Lactuca muralis (L.) E.Mey.",
+            "id": "1737633",
+            "score": 0.00109
+        },
+        {
+            "name": "Chenopodium album L.",
+            "id": "1363173",
+            "score": 0.00106
+        },
+        {
+            "name": "Kalanchoe ceratophylla Haw.",
+            "id": "1408258",
+            "score": 0.00105
+        },
+        {
+            "name": "Blitum capitatum L.",
+            "id": "1400180",
+            "score": 0.00104
+        },
+        {
+            "name": "Urospermum picroides (L.) Scop. ex F.W.Schmidt",
+            "id": "1396956",
+            "score": 0.00102
+        },
+        {
+            "name": "Dysphania pumilio (R.Br.) Mosyakin & Clemants",
+            "id": "1388786",
+            "score": 0.00101
+        },
+        {
+            "name": "Cleretum bellidiforme (Burm.f.) G.D.Rowley",
+            "id": "1757175",
+            "score": 0.00101
+        }
+    ]
+}

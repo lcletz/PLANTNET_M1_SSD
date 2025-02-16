@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Campanula glomerata L.",
+            "id": "1390663",
+            "score": 0.93357
+        },
+        {
+            "name": "Campanula rapunculoides L.",
+            "id": "1383635",
+            "score": 0.02737
+        },
+        {
+            "name": "Verbascum nigrum L.",
+            "id": "1397520",
+            "score": 0.00562
+        },
+        {
+            "name": "Campanula medium L.",
+            "id": "1390666",
+            "score": 0.00276
+        },
+        {
+            "name": "Campanula latifolia L.",
+            "id": "1390665",
+            "score": 0.00242
+        },
+        {
+            "name": "Solidago virgaurea L.",
+            "id": "1357872",
+            "score": 0.00105
+        }
+    ]
+}

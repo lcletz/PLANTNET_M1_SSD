@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Arctium lappa L.",
+            "id": "1396002",
+            "score": 0.52498
+        },
+        {
+            "name": "Arctium minus (Hill) Bernh.",
+            "id": "1357244",
+            "score": 0.37133
+        },
+        {
+            "name": "Arctium nemorosum Lej.",
+            "id": "1396028",
+            "score": 0.03443
+        },
+        {
+            "name": "Arctium tomentosum Mill.",
+            "id": "1396054",
+            "score": 0.02797
+        },
+        {
+            "name": "Xanthium strumarium L.",
+            "id": "1355898",
+            "score": 0.00941
+        },
+        {
+            "name": "Xanthium orientale L.",
+            "id": "1361786",
+            "score": 0.00125
+        }
+    ]
+}

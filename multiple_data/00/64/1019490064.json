@@ -1,0 +1,60 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Quercus rubra L.",
+            "id": "1395035",
+            "score": 0.65206
+        },
+        {
+            "name": "Quercus robur L.",
+            "id": "1357413",
+            "score": 0.05957
+        },
+        {
+            "name": "Quercus pubescens Willd.",
+            "id": "1395026",
+            "score": 0.02995
+        },
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.02124
+        },
+        {
+            "name": "Quercus petraea (Matt.) Liebl.",
+            "id": "1419076",
+            "score": 0.01928
+        },
+        {
+            "name": "Quercus cerris L.",
+            "id": "1395020",
+            "score": 0.01093
+        },
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.00919
+        },
+        {
+            "name": "Quercus pyrenaica Willd.",
+            "id": "1358616",
+            "score": 0.00498
+        },
+        {
+            "name": "Quercus coccifera L.",
+            "id": "1358613",
+            "score": 0.00419
+        },
+        {
+            "name": "Quercus faginea Lam.",
+            "id": "1358614",
+            "score": 0.00258
+        },
+        {
+            "name": "Corylus avellana L.",
+            "id": "1391368",
+            "score": 0.00126
+        }
+    ]
+}

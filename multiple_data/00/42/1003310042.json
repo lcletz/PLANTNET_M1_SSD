@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pinus canariensis Sweet ex Spreng.",
+            "id": "1398680",
+            "score": 0.40995
+        },
+        {
+            "name": "Pinus pinea L.",
+            "id": "1394612",
+            "score": 0.00256
+        },
+        {
+            "name": "Pinus sylvestris L.",
+            "id": "1394617",
+            "score": 0.00173
+        },
+        {
+            "name": "Pinus halepensis Mill.",
+            "id": "1397460",
+            "score": 0.0014
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Mirabilis jalapa L.",
+            "id": "1362100",
+            "score": 0.74619
+        },
+        {
+            "name": "Mirabilis longiflora L.",
+            "id": "1393843",
+            "score": 0.01664
+        },
+        {
+            "name": "Mirabilis multiflora (Torr.) A.Gray",
+            "id": "1816076",
+            "score": 0.00585
+        },
+        {
+            "name": "Nicotiana tabacum L.",
+            "id": "1356159",
+            "score": 0.00349
+        },
+        {
+            "name": "Mirabilis nyctaginea (Michx.) MacMill.",
+            "id": "1412734",
+            "score": 0.003
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Alnus glutinosa (L.) Gaertn.",
+            "id": "1356608",
+            "score": 0.92147
+        },
+        {
+            "name": "Alnus incana (L.) Moench",
+            "id": "1397308",
+            "score": 0.01403
+        },
+        {
+            "name": "Alnus × pubescens Tausch",
+            "id": "1476149",
+            "score": 0.00724
+        },
+        {
+            "name": "Hamamelis virginiana L.",
+            "id": "1397621",
+            "score": 0.00506
+        },
+        {
+            "name": "Alnus alnobetula (Ehrh.) K.Koch",
+            "id": "1392943",
+            "score": 0.00327
+        },
+        {
+            "name": "Corylus colurna L.",
+            "id": "1397579",
+            "score": 0.00251
+        },
+        {
+            "name": "Corylus avellana L.",
+            "id": "1391368",
+            "score": 0.00211
+        }
+    ]
+}

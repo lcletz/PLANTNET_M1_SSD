@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viola × wittrockiana Gams",
+            "id": "1844934",
+            "score": 0.5341
+        },
+        {
+            "name": "Viola tricolor L.",
+            "id": "1356215",
+            "score": 0.41699
+        },
+        {
+            "name": "Viola arvensis Murray",
+            "id": "1356214",
+            "score": 0.01459
+        },
+        {
+            "name": "Viola × williamsii Wittr.",
+            "id": "1844933",
+            "score": 0.0105
+        },
+        {
+            "name": "Viola cornuta L.",
+            "id": "1397137",
+            "score": 0.00438
+        }
+    ]
+}

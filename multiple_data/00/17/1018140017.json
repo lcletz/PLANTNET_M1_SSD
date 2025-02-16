@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Datura stramonium L.",
+            "id": "1360549",
+            "score": 0.70389
+        },
+        {
+            "name": "Datura ferox L.",
+            "id": "1356149",
+            "score": 0.04281
+        },
+        {
+            "name": "Datura metel L.",
+            "id": "1356150",
+            "score": 0.00964
+        },
+        {
+            "name": "Datura innoxia Mill.",
+            "id": "1391658",
+            "score": 0.00363
+        },
+        {
+            "name": "Physalis angulata L.",
+            "id": "1356152",
+            "score": 0.00337
+        },
+        {
+            "name": "Alkekengi officinarum Moench",
+            "id": "1738735",
+            "score": 0.00287
+        },
+        {
+            "name": "Datura discolor Bernh.",
+            "id": "1442346",
+            "score": 0.00243
+        },
+        {
+            "name": "Sesamum radiatum Thonn. ex Hornem.",
+            "id": "1719708",
+            "score": 0.00182
+        },
+        {
+            "name": "Datura quercifolia Kunth",
+            "id": "1420712",
+            "score": 0.00154
+        },
+        {
+            "name": "Nicandra physalodes (L.) Gaertn.",
+            "id": "1356144",
+            "score": 0.00153
+        },
+        {
+            "name": "Solanum carolinense L.",
+            "id": "1396320",
+            "score": 0.00106
+        },
+        {
+            "name": "Solanum torvum Sw.",
+            "id": "1377910",
+            "score": 0.001
+        }
+    ]
+}

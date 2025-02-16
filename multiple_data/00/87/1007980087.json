@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia lathyris L.",
+            "id": "1355968",
+            "score": 0.81795
+        },
+        {
+            "name": "Euphorbia dulcis L.",
+            "id": "1392156",
+            "score": 0.00793
+        },
+        {
+            "name": "Euphorbia platyphyllos L.",
+            "id": "1355986",
+            "score": 0.00529
+        },
+        {
+            "name": "Euphorbia terracina L.",
+            "id": "1358595",
+            "score": 0.00415
+        },
+        {
+            "name": "Euphorbia peplus L.",
+            "id": "1355969",
+            "score": 0.00133
+        },
+        {
+            "name": "Euphorbia taurinensis All.",
+            "id": "1392193",
+            "score": 0.00128
+        },
+        {
+            "name": "Euphorbia exigua L.",
+            "id": "1358552",
+            "score": 0.00101
+        }
+    ]
+}

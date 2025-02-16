@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Viola tricolor L.",
+            "id": "1356215",
+            "score": 0.40351
+        },
+        {
+            "name": "Viola arvensis Murray",
+            "id": "1356214",
+            "score": 0.0384
+        },
+        {
+            "name": "Viola lutea Huds.",
+            "id": "1397161",
+            "score": 0.0121
+        },
+        {
+            "name": "Viola cornuta L.",
+            "id": "1397137",
+            "score": 0.01027
+        },
+        {
+            "name": "Viola hispida Lam.",
+            "id": "1397149",
+            "score": 0.0037
+        },
+        {
+            "name": "Viola kitaibeliana Schult.",
+            "id": "1360869",
+            "score": 0.00353
+        },
+        {
+            "name": "Linaria maroccana Hook.f.",
+            "id": "1393591",
+            "score": 0.00199
+        }
+    ]
+}

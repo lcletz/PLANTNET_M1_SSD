@@ -1,0 +1,65 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Lactuca virosa L.",
+            "id": "1355868",
+            "score": 0.3541
+        },
+        {
+            "name": "Lactuca serriola L.",
+            "id": "1364173",
+            "score": 0.30792
+        },
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.03406
+        },
+        {
+            "name": "Sonchus oleraceus L.",
+            "id": "1364170",
+            "score": 0.01876
+        },
+        {
+            "name": "Sonchus asper (L.) Hill",
+            "id": "1357875",
+            "score": 0.00967
+        },
+        {
+            "name": "Sonchus maritimus L.",
+            "id": "1364169",
+            "score": 0.0082
+        },
+        {
+            "name": "Sonchus palustris L.",
+            "id": "1361781",
+            "score": 0.00793
+        },
+        {
+            "name": "Prenanthes purpurea L.",
+            "id": "1394894",
+            "score": 0.00137
+        },
+        {
+            "name": "Lactuca quercina L.",
+            "id": "1397421",
+            "score": 0.00132
+        },
+        {
+            "name": "Lactuca saligna L.",
+            "id": "1357681",
+            "score": 0.00127
+        },
+        {
+            "name": "Lactuca tatarica (L.) C.A.Mey.",
+            "id": "1417843",
+            "score": 0.00117
+        },
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.00105
+        }
+    ]
+}

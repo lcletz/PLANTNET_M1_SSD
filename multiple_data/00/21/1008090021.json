@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phytolacca americana L.",
+            "id": "1356062",
+            "score": 0.9251
+        },
+        {
+            "name": "Phytolacca acinosa Roxb.",
+            "id": "1394558",
+            "score": 0.03327
+        },
+        {
+            "name": "Phytolacca bogotensis Kunth",
+            "id": "1436467",
+            "score": 0.01615
+        },
+        {
+            "name": "Phytolacca icosandra L.",
+            "id": "1406199",
+            "score": 0.00277
+        },
+        {
+            "name": "Rivina humilis L.",
+            "id": "1356061",
+            "score": 0.00133
+        }
+    ]
+}

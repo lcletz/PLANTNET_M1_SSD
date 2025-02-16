@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Plantago lanceolata L.",
+            "id": "1356066",
+            "score": 0.57317
+        },
+        {
+            "name": "Plantago argentea Chaix",
+            "id": "1394627",
+            "score": 0.3124
+        },
+        {
+            "name": "Plantago atrata Hoppe",
+            "id": "1394630",
+            "score": 0.0245
+        },
+        {
+            "name": "Plantago media L.",
+            "id": "1394636",
+            "score": 0.00848
+        },
+        {
+            "name": "Plantago alpina L.",
+            "id": "1397461",
+            "score": 0.00361
+        },
+        {
+            "name": "Plantago lagopus L.",
+            "id": "1359959",
+            "score": 0.00248
+        },
+        {
+            "name": "Plantago coronopus L.",
+            "id": "1356065",
+            "score": 0.00206
+        },
+        {
+            "name": "Plantago monosperma Pourr.",
+            "id": "1394638",
+            "score": 0.00166
+        },
+        {
+            "name": "Alopecurus pratensis L.",
+            "id": "1362406",
+            "score": 0.00146
+        },
+        {
+            "name": "Alopecurus geniculatus L.",
+            "id": "1361155",
+            "score": 0.00141
+        }
+    ]
+}

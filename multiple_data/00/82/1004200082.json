@@ -1,0 +1,465 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lemna minor L.",
+            "id": "1361113",
+            "score": 0.04171
+        },
+        {
+            "name": "Sedum caeruleum L.",
+            "id": "1358101",
+            "score": 0.0201
+        },
+        {
+            "name": "Sedum hispanicum L.",
+            "id": "1363613",
+            "score": 0.01394
+        },
+        {
+            "name": "Pinguicula moranensis Kunth",
+            "id": "1588349",
+            "score": 0.01172
+        },
+        {
+            "name": "Rheum rhaponticum L.",
+            "id": "1395161",
+            "score": 0.01078
+        },
+        {
+            "name": "Allium cepa L.",
+            "id": "1358140",
+            "score": 0.00948
+        },
+        {
+            "name": "Wolffia arrhiza (L.) Horkel ex Wimm.",
+            "id": "1361130",
+            "score": 0.00927
+        },
+        {
+            "name": "Cheiridopsis denticulata (Haw.) N.E.Br.",
+            "id": "1448257",
+            "score": 0.00874
+        },
+        {
+            "name": "Lepidium sativum L.",
+            "id": "1363894",
+            "score": 0.00819
+        },
+        {
+            "name": "Monilaria obconica Ihlenf. & S.Jörg.",
+            "id": "1755379",
+            "score": 0.00683
+        },
+        {
+            "name": "Soleirolia soleirolii (Req.) Dandy",
+            "id": "1360828",
+            "score": 0.0066
+        },
+        {
+            "name": "Dischidia nummularia R.Br.",
+            "id": "1428059",
+            "score": 0.00604
+        },
+        {
+            "name": "Spirodela polyrhiza (L.) Schleid.",
+            "id": "1396411",
+            "score": 0.006
+        },
+        {
+            "name": "Sedum album L.",
+            "id": "1358095",
+            "score": 0.00523
+        },
+        {
+            "name": "Drosera sessilifolia A.St.-Hil.",
+            "id": "1405672",
+            "score": 0.00504
+        },
+        {
+            "name": "Sinningia pusilla (Mart.) Baill.",
+            "id": "1553596",
+            "score": 0.00484
+        },
+        {
+            "name": "Sesuvium portulacastrum (L.) L.",
+            "id": "1363345",
+            "score": 0.0048
+        },
+        {
+            "name": "Pinguicula lusitanica L.",
+            "id": "1359587",
+            "score": 0.00473
+        },
+        {
+            "name": "Delonix regia (Bojer ex Hook.) Raf.",
+            "id": "1363784",
+            "score": 0.0043
+        },
+        {
+            "name": "Sedum japonicum Siebold ex Miq.",
+            "id": "1529212",
+            "score": 0.00429
+        },
+        {
+            "name": "Daucus carota L.",
+            "id": "1363227",
+            "score": 0.00377
+        },
+        {
+            "name": "Ledebouria socialis (Baker) Jessop",
+            "id": "1472508",
+            "score": 0.00371
+        },
+        {
+            "name": "Rhipsalidopsis gaertneri (K.Schum.) Linding.",
+            "id": "1826476",
+            "score": 0.00371
+        },
+        {
+            "name": "Wolffia brasiliensis Wedd.",
+            "id": "1423707",
+            "score": 0.0037
+        },
+        {
+            "name": "Catha edulis (Vahl) Endl.",
+            "id": "1418417",
+            "score": 0.00367
+        },
+        {
+            "name": "Lemna aequinoctialis Welw.",
+            "id": "1361110",
+            "score": 0.00362
+        },
+        {
+            "name": "Cuphea viscosissima Jacq.",
+            "id": "1411642",
+            "score": 0.00347
+        },
+        {
+            "name": "Rheum rhabarbarum L.",
+            "id": "1413454",
+            "score": 0.00313
+        },
+        {
+            "name": "Aglaonema costatum N.E.Br.",
+            "id": "1420746",
+            "score": 0.00312
+        },
+        {
+            "name": "Anacampseros telephiastrum DC.",
+            "id": "1454051",
+            "score": 0.0031
+        },
+        {
+            "name": "Utricularia pubescens Sm.",
+            "id": "1366045",
+            "score": 0.00296
+        },
+        {
+            "name": "Sambucus peruviana Kunth",
+            "id": "1422763",
+            "score": 0.00294
+        },
+        {
+            "name": "Allium sativum L.",
+            "id": "1358126",
+            "score": 0.00294
+        },
+        {
+            "name": "Salvinia natans (L.) All.",
+            "id": "1356440",
+            "score": 0.00279
+        },
+        {
+            "name": "Rhipsalis baccifera (J.S.Muell.) Stearn",
+            "id": "1404456",
+            "score": 0.00273
+        },
+        {
+            "name": "Paeonia broteri Boiss. & Reut.",
+            "id": "1638029",
+            "score": 0.00268
+        },
+        {
+            "name": "Portulacaria afra Jacq.",
+            "id": "1383050",
+            "score": 0.00252
+        },
+        {
+            "name": "Echinacea tennesseensis (Beadle) Small",
+            "id": "1442775",
+            "score": 0.0024
+        },
+        {
+            "name": "Vicia lens (L.) Coss. & Germ.",
+            "id": "1741669",
+            "score": 0.00228
+        },
+        {
+            "name": "Guioa crenata Radlk.",
+            "id": "1416638",
+            "score": 0.00227
+        },
+        {
+            "name": "Cucumis sativus L.",
+            "id": "1384472",
+            "score": 0.00224
+        },
+        {
+            "name": "Rumex sanguineus L.",
+            "id": "1395686",
+            "score": 0.00222
+        },
+        {
+            "name": "Crassula rupestris L.f.",
+            "id": "1528572",
+            "score": 0.00221
+        },
+        {
+            "name": "Paeonia mascula (L.) Mill.",
+            "id": "1359758",
+            "score": 0.00221
+        },
+        {
+            "name": "Euphorbia taruensis S.Carter",
+            "id": "1546149",
+            "score": 0.00219
+        },
+        {
+            "name": "Coriandrum sativum L.",
+            "id": "1363224",
+            "score": 0.00219
+        },
+        {
+            "name": "Peperomia verticillata (L.) A.Dietr.",
+            "id": "1644223",
+            "score": 0.00209
+        },
+        {
+            "name": "Persea americana Mill.",
+            "id": "1364365",
+            "score": 0.00208
+        },
+        {
+            "name": "Syzygium jambos (L.) Alston",
+            "id": "1382774",
+            "score": 0.00208
+        },
+        {
+            "name": "Begonia rubriflora L.Kollmann",
+            "id": "1475110",
+            "score": 0.00208
+        },
+        {
+            "name": "Peperomia prostrata B.S.Williams ex Mast. & T.Moore",
+            "id": "1835887",
+            "score": 0.002
+        },
+        {
+            "name": "Anacampseros marlothii Poelln.",
+            "id": "1454031",
+            "score": 0.00194
+        },
+        {
+            "name": "Lythrum portula (L.) D.A.Webb",
+            "id": "1393710",
+            "score": 0.00192
+        },
+        {
+            "name": "Sedum hemsleyanum Rose",
+            "id": "1713719",
+            "score": 0.0019
+        },
+        {
+            "name": "Gasteria carinata (Mill.) Duval",
+            "id": "1699155",
+            "score": 0.00184
+        },
+        {
+            "name": "Delosperma echinatum (Lam.) Schwantes",
+            "id": "1417889",
+            "score": 0.00181
+        },
+        {
+            "name": "Impatiens balsamina L.",
+            "id": "1363815",
+            "score": 0.0018
+        },
+        {
+            "name": "Crassula pellucida L.",
+            "id": "1528554",
+            "score": 0.0018
+        },
+        {
+            "name": "Dioscorea alata L.",
+            "id": "1374921",
+            "score": 0.00173
+        },
+        {
+            "name": "Gasteria excelsa Baker",
+            "id": "1699160",
+            "score": 0.00168
+        },
+        {
+            "name": "Crassula expansa Aiton",
+            "id": "1528488",
+            "score": 0.00166
+        },
+        {
+            "name": "Hemionitis viridis (Forssk.) Christenh.",
+            "id": "1748159",
+            "score": 0.00163
+        },
+        {
+            "name": "Pilea microphylla (L.) Liebm.",
+            "id": "1378589",
+            "score": 0.00161
+        },
+        {
+            "name": "Annona cherimola Mill.",
+            "id": "1390486",
+            "score": 0.00157
+        },
+        {
+            "name": "Ficus racemosa L.",
+            "id": "1419511",
+            "score": 0.00155
+        },
+        {
+            "name": "Utricularia bisquamata Schrank",
+            "id": "1365936",
+            "score": 0.00154
+        },
+        {
+            "name": "Sarracenia purpurea L.",
+            "id": "1395935",
+            "score": 0.00154
+        },
+        {
+            "name": "Aechmea caudata Lindm.",
+            "id": "1418087",
+            "score": 0.00152
+        },
+        {
+            "name": "Kaempferia rotunda L.",
+            "id": "1409738",
+            "score": 0.00151
+        },
+        {
+            "name": "Aloe pseudorubroviolacea Lavranos & Collen.",
+            "id": "1698818",
+            "score": 0.00151
+        },
+        {
+            "name": "Dionaea muscipula J.Ellis",
+            "id": "1390580",
+            "score": 0.0015
+        },
+        {
+            "name": "Kalanchoe marmorata Baker",
+            "id": "1365871",
+            "score": 0.00148
+        },
+        {
+            "name": "Pyrrosia piloselloides (L.) M.G.Price",
+            "id": "1720623",
+            "score": 0.00145
+        },
+        {
+            "name": "Ficus nota (Blanco) Merr.",
+            "id": "1421270",
+            "score": 0.00145
+        },
+        {
+            "name": "Begonia venosa Skan ex Hook.f.",
+            "id": "1475371",
+            "score": 0.00145
+        },
+        {
+            "name": "Kalanchoe pinnata (Lam.) Pers.",
+            "id": "1363608",
+            "score": 0.00142
+        },
+        {
+            "name": "Epilobium tetragonum L.",
+            "id": "1359688",
+            "score": 0.00141
+        },
+        {
+            "name": "Sedum burrito Moran",
+            "id": "1529107",
+            "score": 0.0014
+        },
+        {
+            "name": "Drosera natalensis Diels",
+            "id": "1383983",
+            "score": 0.0014
+        },
+        {
+            "name": "Vaccinium oxycoccos L.",
+            "id": "1396969",
+            "score": 0.00136
+        },
+        {
+            "name": "Bergera koenigii L.",
+            "id": "1775947",
+            "score": 0.00135
+        },
+        {
+            "name": "Dracaena surculosa Lindl.",
+            "id": "1417668",
+            "score": 0.00133
+        },
+        {
+            "name": "Atriplex hortensis L.",
+            "id": "1363180",
+            "score": 0.00126
+        },
+        {
+            "name": "Sedum × rubrotinctum R.T.Clausen",
+            "id": "1844840",
+            "score": 0.00124
+        },
+        {
+            "name": "Conophytum maughanii N.E.Br.",
+            "id": "1417769",
+            "score": 0.00124
+        },
+        {
+            "name": "Lactuca sativa L.",
+            "id": "1364172",
+            "score": 0.00124
+        },
+        {
+            "name": "Sedum hirsutum All.",
+            "id": "1358112",
+            "score": 0.00124
+        },
+        {
+            "name": "Arachis hypogaea L.",
+            "id": "1366780",
+            "score": 0.00122
+        },
+        {
+            "name": "Callitriche peploides Nutt.",
+            "id": "1399773",
+            "score": 0.00121
+        },
+        {
+            "name": "Zea mays L.",
+            "id": "1363500",
+            "score": 0.0012
+        },
+        {
+            "name": "Peperomia pecuniifolia Trel. & Standl.",
+            "id": "1643819",
+            "score": 0.00116
+        },
+        {
+            "name": "Sedum makinoi Maxim.",
+            "id": "1529242",
+            "score": 0.00115
+        }
+    ]
+}

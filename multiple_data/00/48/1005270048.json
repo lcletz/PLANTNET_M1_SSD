@@ -1,0 +1,475 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Orobanche alba Stephan ex Willd.",
+            "id": "1394326",
+            "score": 0.05604
+        },
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.05419
+        },
+        {
+            "name": "Hydnora abyssinica A.Br.",
+            "id": "1554846",
+            "score": 0.04097
+        },
+        {
+            "name": "Equisetum telmateia Ehrh.",
+            "id": "1356398",
+            "score": 0.03667
+        },
+        {
+            "name": "Annona senegalensis Pers.",
+            "id": "1422553",
+            "score": 0.03523
+        },
+        {
+            "name": "Equisetum arvense L.",
+            "id": "1356394",
+            "score": 0.03426
+        },
+        {
+            "name": "Reynoutria japonica Houtt.",
+            "id": "1395150",
+            "score": 0.0178
+        },
+        {
+            "name": "Orobanche amethystea Thuill.",
+            "id": "1359715",
+            "score": 0.01487
+        },
+        {
+            "name": "Kielmeyera coriacea Mart.",
+            "id": "1488689",
+            "score": 0.01471
+        },
+        {
+            "name": "Orobanche rapum-genistae Thuill.",
+            "id": "1359734",
+            "score": 0.01468
+        },
+        {
+            "name": "Melocactus curvispinus Pfeiff.",
+            "id": "1487492",
+            "score": 0.01281
+        },
+        {
+            "name": "Aechmea orlandiana L.B.Sm.",
+            "id": "1482528",
+            "score": 0.01229
+        },
+        {
+            "name": "Kalanchoe mitejea Leblanc & Raym.-Hamet",
+            "id": "1752399",
+            "score": 0.01137
+        },
+        {
+            "name": "Cyphostemma serpens (Hochst. ex A.Rich.) Desc.",
+            "id": "1698065",
+            "score": 0.01007
+        },
+        {
+            "name": "Orobanche minor Sm.",
+            "id": "1356136",
+            "score": 0.01003
+        },
+        {
+            "name": "Polypodium vulgare L.",
+            "id": "1356433",
+            "score": 0.00975
+        },
+        {
+            "name": "Amorphophallus paeoniifolius (Dennst.) Nicolson",
+            "id": "1385921",
+            "score": 0.0088
+        },
+        {
+            "name": "Amorphophallus konjac K.Koch",
+            "id": "1420808",
+            "score": 0.00771
+        },
+        {
+            "name": "Orobanche sanguinea C.Presl",
+            "id": "1394348",
+            "score": 0.00733
+        },
+        {
+            "name": "Colchicum montanum L.",
+            "id": "1391323",
+            "score": 0.00685
+        },
+        {
+            "name": "Citrullus lanatus (Thunb.) Matsum. & Nakai",
+            "id": "1363148",
+            "score": 0.0065
+        },
+        {
+            "name": "Orobanche foetida Poir.",
+            "id": "1359725",
+            "score": 0.00519
+        },
+        {
+            "name": "Erythronium dens-canis L.",
+            "id": "1392129",
+            "score": 0.00467
+        },
+        {
+            "name": "Paeonia officinalis L.",
+            "id": "1362842",
+            "score": 0.00435
+        },
+        {
+            "name": "Equisetum fluviatile L.",
+            "id": "1356395",
+            "score": 0.00416
+        },
+        {
+            "name": "Populus × canadensis Moench",
+            "id": "1683817",
+            "score": 0.00415
+        },
+        {
+            "name": "Orobanche gracilis Sm.",
+            "id": "1359726",
+            "score": 0.00406
+        },
+        {
+            "name": "Phymatosorus scolopendria (Burm.f.) Pic.Serm.",
+            "id": "1410302",
+            "score": 0.00406
+        },
+        {
+            "name": "Rafflesia baletei Barcelona & Cajano",
+            "id": "1662875",
+            "score": 0.004
+        },
+        {
+            "name": "Cucurbita pepo L.",
+            "id": "1384485",
+            "score": 0.004
+        },
+        {
+            "name": "Dracunculus vulgaris Schott",
+            "id": "1360995",
+            "score": 0.00396
+        },
+        {
+            "name": "Orbea dummeri (N.E.Br.) Bruyns",
+            "id": "1749527",
+            "score": 0.00392
+        },
+        {
+            "name": "Orobanche latisquama (F.W.Schultz) Batt.",
+            "id": "1389216",
+            "score": 0.00388
+        },
+        {
+            "name": "Eucalyptus archeri Maiden & Blakely",
+            "id": "1388886",
+            "score": 0.00387
+        },
+        {
+            "name": "Dipterocarpus grandiflorus (Blanco) Blanco",
+            "id": "1428038",
+            "score": 0.00379
+        },
+        {
+            "name": "Phalaris coerulescens Desf.",
+            "id": "1361357",
+            "score": 0.00377
+        },
+        {
+            "name": "Ischaemum afrum (J.F.Gmel.) Dandy",
+            "id": "1652116",
+            "score": 0.00361
+        },
+        {
+            "name": "Ceratonia siliqua L.",
+            "id": "1363660",
+            "score": 0.00345
+        },
+        {
+            "name": "Kigelia africana (Lam.) Benth.",
+            "id": "1406486",
+            "score": 0.00333
+        },
+        {
+            "name": "Pachira aquatica Aubl.",
+            "id": "1388748",
+            "score": 0.00316
+        },
+        {
+            "name": "Cytinus hypocistis (L.) L.",
+            "id": "1391529",
+            "score": 0.00303
+        },
+        {
+            "name": "Arachnis flos-aeris (L.) Rchb.f.",
+            "id": "1426715",
+            "score": 0.00288
+        },
+        {
+            "name": "Populus alba L.",
+            "id": "1364046",
+            "score": 0.00285
+        },
+        {
+            "name": "Gunnera tinctoria (Molina) Mirb.",
+            "id": "1392660",
+            "score": 0.00283
+        },
+        {
+            "name": "Sarracenia purpurea L.",
+            "id": "1395935",
+            "score": 0.00277
+        },
+        {
+            "name": "Arisarum vulgare O.Targ.Tozz.",
+            "id": "1396289",
+            "score": 0.00275
+        },
+        {
+            "name": "Sclerocarya birrea (A.Rich.) Hochst.",
+            "id": "1422577",
+            "score": 0.00263
+        },
+        {
+            "name": "Hydnora africana Thunb.",
+            "id": "1364259",
+            "score": 0.00261
+        },
+        {
+            "name": "Colchicum variegatum L.",
+            "id": "1397809",
+            "score": 0.00261
+        },
+        {
+            "name": "Allotropa virgata Torr. & A.Gray",
+            "id": "1537868",
+            "score": 0.0026
+        },
+        {
+            "name": "Chlamydophytum aphyllum Mildbr.",
+            "id": "1383966",
+            "score": 0.00258
+        },
+        {
+            "name": "Liquidambar styraciflua L.",
+            "id": "1393613",
+            "score": 0.00237
+        },
+        {
+            "name": "Jaborosa integrifolia Lam.",
+            "id": "1433363",
+            "score": 0.00234
+        },
+        {
+            "name": "Begonia rex Putz.",
+            "id": "1409128",
+            "score": 0.00227
+        },
+        {
+            "name": "Orobanche elatior Sutton",
+            "id": "1394332",
+            "score": 0.00213
+        },
+        {
+            "name": "Brachychiton populneus (Schott & Endl.) R.Br.",
+            "id": "1398163",
+            "score": 0.0021
+        },
+        {
+            "name": "Darmera peltata (Torr. ex Benth.) Voss",
+            "id": "1389718",
+            "score": 0.00204
+        },
+        {
+            "name": "Xanthium strumarium L.",
+            "id": "1355898",
+            "score": 0.00203
+        },
+        {
+            "name": "Paeonia cambessedesii (Willk.) Willk.",
+            "id": "1638030",
+            "score": 0.002
+        },
+        {
+            "name": "Clusia rosea Jacq.",
+            "id": "1418447",
+            "score": 0.00193
+        },
+        {
+            "name": "Aloe secundiflora Engl.",
+            "id": "1432067",
+            "score": 0.00192
+        },
+        {
+            "name": "Cynomorium coccineum L.",
+            "id": "1356598",
+            "score": 0.0019
+        },
+        {
+            "name": "Symplocarpus foetidus (L.) Salisb. ex W.P.C.Barton",
+            "id": "1466828",
+            "score": 0.00188
+        },
+        {
+            "name": "Faidherbia albida (Delile) A.Chev.",
+            "id": "1424867",
+            "score": 0.00188
+        },
+        {
+            "name": "Orobanche hederae Duby",
+            "id": "1359728",
+            "score": 0.00185
+        },
+        {
+            "name": "Paeonia mascula (L.) Mill.",
+            "id": "1359758",
+            "score": 0.00185
+        },
+        {
+            "name": "Paeonia anomala L.",
+            "id": "1419812",
+            "score": 0.00183
+        },
+        {
+            "name": "Orbea caudata (N.E.Br.) Bruyns",
+            "id": "1752677",
+            "score": 0.00183
+        },
+        {
+            "name": "Mirabilis albida (Walter) Heimerl",
+            "id": "1412732",
+            "score": 0.0018
+        },
+        {
+            "name": "Bryonia cretica L.",
+            "id": "1358446",
+            "score": 0.00177
+        },
+        {
+            "name": "Jasminum laurifolium Roxb. ex Hornem.",
+            "id": "1609254",
+            "score": 0.00176
+        },
+        {
+            "name": "Iris lutescens Lam.",
+            "id": "1362462",
+            "score": 0.00175
+        },
+        {
+            "name": "Thaumatophyllum bipinnatifidum (Schott ex Endl.) Sakur., Calazans & Mayo",
+            "id": "1732622",
+            "score": 0.00172
+        },
+        {
+            "name": "Spondias bahiensis P.Carvalho, Van den Berg & M.Machado",
+            "id": "1735415",
+            "score": 0.00162
+        },
+        {
+            "name": "Orchis purpurea Huds.",
+            "id": "1361685",
+            "score": 0.00162
+        },
+        {
+            "name": "Betula pendula Roth",
+            "id": "1356609",
+            "score": 0.00161
+        },
+        {
+            "name": "Rumex alpinus L.",
+            "id": "1395643",
+            "score": 0.0016
+        },
+        {
+            "name": "Amorphophallus dracontioides (Engl.) N.E.Br.",
+            "id": "1464132",
+            "score": 0.00159
+        },
+        {
+            "name": "Orobanche alsatica Kirschl.",
+            "id": "1359714",
+            "score": 0.00159
+        },
+        {
+            "name": "Juglans regia L.",
+            "id": "1358713",
+            "score": 0.00157
+        },
+        {
+            "name": "Quercus rubra L.",
+            "id": "1395035",
+            "score": 0.00153
+        },
+        {
+            "name": "Ulmus americana L.",
+            "id": "1390323",
+            "score": 0.00153
+        },
+        {
+            "name": "Pistacia terebinthus L.",
+            "id": "1356567",
+            "score": 0.00147
+        },
+        {
+            "name": "Astilbe japonica (C.Morren & Decne.) A.Gray",
+            "id": "1398452",
+            "score": 0.00146
+        },
+        {
+            "name": "Asparagus officinalis L.",
+            "id": "1363268",
+            "score": 0.00144
+        },
+        {
+            "name": "Lobostemon fruticosus (L.) H.Buek",
+            "id": "1478418",
+            "score": 0.00143
+        },
+        {
+            "name": "Cedrela odorata L.",
+            "id": "1365961",
+            "score": 0.00142
+        },
+        {
+            "name": "Croton glandulosus L.",
+            "id": "1375846",
+            "score": 0.00142
+        },
+        {
+            "name": "Amorphophallus bulbifer (Schott) Blume",
+            "id": "1772746",
+            "score": 0.00137
+        },
+        {
+            "name": "Sempervivum montanum L.",
+            "id": "1396180",
+            "score": 0.00135
+        },
+        {
+            "name": "Persea americana Mill.",
+            "id": "1364365",
+            "score": 0.00131
+        },
+        {
+            "name": "Dracontium polyphyllum L.",
+            "id": "1402576",
+            "score": 0.0013
+        },
+        {
+            "name": "Silene chlorifolia Sm.",
+            "id": "1493425",
+            "score": 0.0013
+        },
+        {
+            "name": "Aloe amudatensis Reynolds",
+            "id": "1386966",
+            "score": 0.0013
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pieris japonica (Thunb.) D.Don ex G.Don",
+            "id": "1392031",
+            "score": 0.45505
+        },
+        {
+            "name": "Pieris formosa (Wall.) D.Don",
+            "id": "1392030",
+            "score": 0.02677
+        },
+        {
+            "name": "Leucothoe davisiae Torr.",
+            "id": "1816591",
+            "score": 0.01825
+        },
+        {
+            "name": "Leucothoe fontanesiana (Steud.) Sleumer",
+            "id": "1433838",
+            "score": 0.00447
+        },
+        {
+            "name": "Arbutus andrachne L.",
+            "id": "1395933",
+            "score": 0.0019
+        },
+        {
+            "name": "Oxydendrum arboreum (L.) DC.",
+            "id": "1418732",
+            "score": 0.00121
+        }
+    ]
+}

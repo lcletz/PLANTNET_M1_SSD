@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dianthus barbatus L.",
+            "id": "1397367",
+            "score": 0.84291
+        },
+        {
+            "name": "Dianthus chinensis L.",
+            "id": "1398495",
+            "score": 0.08184
+        },
+        {
+            "name": "Dianthus balbisii Ser.",
+            "id": "1362289",
+            "score": 0.00962
+        },
+        {
+            "name": "Dianthus carthusianorum L.",
+            "id": "1391680",
+            "score": 0.00221
+        },
+        {
+            "name": "Dianthus caryophyllus L.",
+            "id": "1356843",
+            "score": 0.0016
+        },
+        {
+            "name": "Hemerocallis yezoensis H.Hara",
+            "id": "1699355",
+            "score": 0.0012
+        },
+        {
+            "name": "Silene chalcedonica (L.) E.H.L.Krause",
+            "id": "1418409",
+            "score": 0.00108
+        }
+    ]
+}

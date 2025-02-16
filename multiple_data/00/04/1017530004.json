@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Psephellus dealbatus (Willd.) K.Koch",
+            "id": "1389461",
+            "score": 0.91082
+        },
+        {
+            "name": "Centaurea nigra L.",
+            "id": "1357438",
+            "score": 0.00482
+        },
+        {
+            "name": "Psephellus pulcherrimus (Willd.) Wagenitz",
+            "id": "1518146",
+            "score": 0.00432
+        },
+        {
+            "name": "Centaurea cheiranthifolia Willd.",
+            "id": "1740713",
+            "score": 0.00372
+        },
+        {
+            "name": "Centaurea scabiosa L.",
+            "id": "1391037",
+            "score": 0.00306
+        },
+        {
+            "name": "Centaurea jacea L.",
+            "id": "1362427",
+            "score": 0.00134
+        }
+    ]
+}

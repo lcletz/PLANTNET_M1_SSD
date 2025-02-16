@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Polemonium caeruleum L.",
+            "id": "1394724",
+            "score": 0.95188
+        },
+        {
+            "name": "Polemonium reptans L.",
+            "id": "1398531",
+            "score": 0.0168
+        },
+        {
+            "name": "Valeriana officinalis L.",
+            "id": "1396978",
+            "score": 0.00248
+        },
+        {
+            "name": "Galega officinalis L.",
+            "id": "1359197",
+            "score": 0.00151
+        },
+        {
+            "name": "Polemonium occidentale Greene",
+            "id": "1413182",
+            "score": 0.00114
+        }
+    ]
+}

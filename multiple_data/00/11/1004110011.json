@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sonchus asper (L.) Hill",
+            "id": "1357875",
+            "score": 0.83319
+        },
+        {
+            "name": "Sonchus oleraceus L.",
+            "id": "1364170",
+            "score": 0.03487
+        },
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.03103
+        },
+        {
+            "name": "Sonchus tenerrimus L.",
+            "id": "1364171",
+            "score": 0.00112
+        }
+    ]
+}

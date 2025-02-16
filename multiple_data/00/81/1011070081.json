@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium rubens L.",
+            "id": "1361850",
+            "score": 0.88914
+        },
+        {
+            "name": "Trifolium alpestre L.",
+            "id": "1396842",
+            "score": 0.03444
+        },
+        {
+            "name": "Trifolium purpureum Loisel.",
+            "id": "1359518",
+            "score": 0.00869
+        },
+        {
+            "name": "Trifolium medium L.",
+            "id": "1397514",
+            "score": 0.00203
+        },
+        {
+            "name": "Trifolium pratense L.",
+            "id": "1359517",
+            "score": 0.00135
+        },
+        {
+            "name": "Trifolium incarnatum L.",
+            "id": "1359498",
+            "score": 0.00112
+        }
+    ]
+}

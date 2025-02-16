@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rhus glabra L.",
+            "id": "1397601",
+            "score": 0.48623
+        },
+        {
+            "name": "Rhus typhina L.",
+            "id": "1395193",
+            "score": 0.38918
+        },
+        {
+            "name": "Rhus copallinum L.",
+            "id": "1413464",
+            "score": 0.01209
+        },
+        {
+            "name": "Rhus coriaria L.",
+            "id": "1356570",
+            "score": 0.01177
+        },
+        {
+            "name": "Ailanthus altissima (Mill.) Swingle",
+            "id": "1360547",
+            "score": 0.00743
+        },
+        {
+            "name": "Rhus chinensis Mill.",
+            "id": "1419362",
+            "score": 0.00391
+        },
+        {
+            "name": "Sorbaria sorbifolia (L.) A.Braun",
+            "id": "1396352",
+            "score": 0.00305
+        },
+        {
+            "name": "Juglans nigra L.",
+            "id": "1393337",
+            "score": 0.00137
+        }
+    ]
+}

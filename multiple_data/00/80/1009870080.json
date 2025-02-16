@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ajuga pyramidalis L.",
+            "id": "1389405",
+            "score": 0.95225
+        },
+        {
+            "name": "Bartsia alpina L.",
+            "id": "1400101",
+            "score": 0.00649
+        },
+        {
+            "name": "Ajuga reptans L.",
+            "id": "1358718",
+            "score": 0.00534
+        },
+        {
+            "name": "Ajuga genevensis L.",
+            "id": "1391853",
+            "score": 0.00223
+        },
+        {
+            "name": "Ajuga orientalis L.",
+            "id": "1399061",
+            "score": 0.002
+        },
+        {
+            "name": "Teucrium pyrenaicum L.",
+            "id": "1362745",
+            "score": 0.00169
+        },
+        {
+            "name": "Prunella vulgaris L.",
+            "id": "1356109",
+            "score": 0.00108
+        }
+    ]
+}

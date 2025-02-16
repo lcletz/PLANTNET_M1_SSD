@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cardamine pratensis L.",
+            "id": "1358213",
+            "score": 0.83756
+        },
+        {
+            "name": "Cardamine raphanifolia Pourr.",
+            "id": "1397338",
+            "score": 0.12035
+        },
+        {
+            "name": "Arabidopsis arenosa (L.) Lawalrée",
+            "id": "1389345",
+            "score": 0.00397
+        },
+        {
+            "name": "Cardamine bulbifera (L.) Crantz",
+            "id": "1390691",
+            "score": 0.00234
+        },
+        {
+            "name": "Allium roseum L.",
+            "id": "1360931",
+            "score": 0.0016
+        },
+        {
+            "name": "Hottonia palustris L.",
+            "id": "1393215",
+            "score": 0.00122
+        }
+    ]
+}

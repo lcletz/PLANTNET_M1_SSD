@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Apium graveolens L.",
+            "id": "1363218",
+            "score": 0.8076
+        },
+        {
+            "name": "Petroselinum crispum (Mill.) Fuss",
+            "id": "1363214",
+            "score": 0.07823
+        },
+        {
+            "name": "Coriandrum sativum L.",
+            "id": "1363224",
+            "score": 0.00225
+        },
+        {
+            "name": "Levisticum officinale W.D.J.Koch",
+            "id": "1393518",
+            "score": 0.00217
+        },
+        {
+            "name": "Smyrnium creticum Mill.",
+            "id": "1745799",
+            "score": 0.00142
+        }
+    ]
+}

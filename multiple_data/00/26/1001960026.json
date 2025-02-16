@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bryonia alba L.",
+            "id": "1389570",
+            "score": 0.47413
+        },
+        {
+            "name": "Bryonia cretica L.",
+            "id": "1358446",
+            "score": 0.41012
+        },
+        {
+            "name": "Cucumis melo L.",
+            "id": "1363647",
+            "score": 0.00838
+        },
+        {
+            "name": "Momordica balsamina L.",
+            "id": "1384418",
+            "score": 0.00317
+        },
+        {
+            "name": "Momordica charantia L.",
+            "id": "1399937",
+            "score": 0.00276
+        },
+        {
+            "name": "Citrullus lanatus (Thunb.) Matsum. & Nakai",
+            "id": "1363148",
+            "score": 0.00168
+        },
+        {
+            "name": "Diplocyclos palmatus (L.) C.Jeffrey",
+            "id": "1410297",
+            "score": 0.00156
+        },
+        {
+            "name": "Acanthus mollis L.",
+            "id": "1356448",
+            "score": 0.00125
+        }
+    ]
+}

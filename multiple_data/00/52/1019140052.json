@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Amaranthus hypochondriacus L.",
+            "id": "1363259",
+            "score": 0.75573
+        },
+        {
+            "name": "Amaranthus caudatus L.",
+            "id": "1363248",
+            "score": 0.08484
+        },
+        {
+            "name": "Amaranthus hybridus L.",
+            "id": "1356475",
+            "score": 0.0669
+        },
+        {
+            "name": "Amaranthus cruentus L.",
+            "id": "1363249",
+            "score": 0.03933
+        },
+        {
+            "name": "Amaranthus viridis L.",
+            "id": "1393682",
+            "score": 0.00207
+        },
+        {
+            "name": "Amaranthus tricolor L.",
+            "id": "1363257",
+            "score": 0.00154
+        }
+    ]
+}

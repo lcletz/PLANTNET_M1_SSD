@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vaccinium myrtillus L.",
+            "id": "1361801",
+            "score": 0.9069
+        },
+        {
+            "name": "Vaccinium parvifolium Sm.",
+            "id": "1414151",
+            "score": 0.00966
+        },
+        {
+            "name": "Vaccinium scoparium Leiberg ex Coville",
+            "id": "1414152",
+            "score": 0.00657
+        },
+        {
+            "name": "Vaccinium angustifolium Aiton",
+            "id": "1414140",
+            "score": 0.00319
+        },
+        {
+            "name": "Vaccinium cespitosum Michx.",
+            "id": "1414143",
+            "score": 0.00313
+        },
+        {
+            "name": "Vaccinium myrtilloides Michx.",
+            "id": "1414146",
+            "score": 0.00297
+        },
+        {
+            "name": "Vaccinium vitis-idaea L.",
+            "id": "1396971",
+            "score": 0.00273
+        },
+        {
+            "name": "Vaccinium uliginosum L.",
+            "id": "1396970",
+            "score": 0.00246
+        },
+        {
+            "name": "Vaccinium pallidum Aiton",
+            "id": "1414150",
+            "score": 0.00109
+        },
+        {
+            "name": "Vaccinium microcarpum (Turcz. ex Rupr.) Schmalh.",
+            "id": "1396968",
+            "score": 0.00101
+        }
+    ]
+}

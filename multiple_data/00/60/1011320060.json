@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Humulus lupulus L.",
+            "id": "1356781",
+            "score": 0.97353
+        },
+        {
+            "name": "Vitis rotundifolia Michx.",
+            "id": "1397212",
+            "score": 0.00342
+        },
+        {
+            "name": "Vitis vulpina L.",
+            "id": "1397214",
+            "score": 0.00167
+        },
+        {
+            "name": "Ribes nigrum L.",
+            "id": "1395200",
+            "score": 0.00164
+        },
+        {
+            "name": "Ampelopsis cordata Michx.",
+            "id": "1444188",
+            "score": 0.00149
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Quercus pyrenaica Willd.",
+            "id": "1358616",
+            "score": 0.95779
+        },
+        {
+            "name": "Quercus cerris L.",
+            "id": "1395020",
+            "score": 0.01119
+        },
+        {
+            "name": "Quercus conferta Kit.",
+            "id": "1742823",
+            "score": 0.00342
+        },
+        {
+            "name": "Quercus pubescens Willd.",
+            "id": "1395026",
+            "score": 0.00129
+        },
+        {
+            "name": "Solanum elaeagnifolium Cav.",
+            "id": "1356163",
+            "score": 0.00126
+        },
+        {
+            "name": "Quercus macrocarpa Michx.",
+            "id": "1413406",
+            "score": 0.00125
+        }
+    ]
+}

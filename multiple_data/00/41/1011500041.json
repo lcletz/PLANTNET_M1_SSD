@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hibiscus syriacus L.",
+            "id": "1392770",
+            "score": 0.92577
+        },
+        {
+            "name": "Hibiscus rosa-sinensis L.",
+            "id": "1370542",
+            "score": 0.00862
+        },
+        {
+            "name": "Hibiscus moscheutos L.",
+            "id": "1412258",
+            "score": 0.00359
+        },
+        {
+            "name": "Hibiscus mutabilis L.",
+            "id": "1370436",
+            "score": 0.00227
+        },
+        {
+            "name": "Malva olbia (L.) Alef.",
+            "id": "1362899",
+            "score": 0.00202
+        },
+        {
+            "name": "Alyogyne huegelii (Endl.) Fryxell",
+            "id": "1419402",
+            "score": 0.00192
+        },
+        {
+            "name": "Alcea rosea L.",
+            "id": "1359620",
+            "score": 0.00122
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Parnassia palustris L.",
+            "id": "1359835",
+            "score": 0.8225
+        },
+        {
+            "name": "Parnassia glauca Raf.",
+            "id": "1412954",
+            "score": 0.01422
+        },
+        {
+            "name": "Parnassia asarifolia Vent.",
+            "id": "1435532",
+            "score": 0.01389
+        },
+        {
+            "name": "Parnassia cirrata Piper",
+            "id": "1435536",
+            "score": 0.00808
+        },
+        {
+            "name": "Parnassia fimbriata K.D.Koenig",
+            "id": "1815276",
+            "score": 0.00289
+        },
+        {
+            "name": "Parnassia grandifolia DC.",
+            "id": "1435537",
+            "score": 0.00126
+        },
+        {
+            "name": "Colchicum striatum (Hochst. ex A.Rich.) J.C.Manning & Vinn.",
+            "id": "1751435",
+            "score": 0.00105
+        }
+    ]
+}

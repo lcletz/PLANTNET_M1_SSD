@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Nepeta racemosa Lam.",
+            "id": "1389635",
+            "score": 0.73265
+        },
+        {
+            "name": "Nepeta cataria L.",
+            "id": "1358827",
+            "score": 0.15017
+        },
+        {
+            "name": "Nepeta nepetella L.",
+            "id": "1362340",
+            "score": 0.00443
+        },
+        {
+            "name": "Marrubium vulgare L.",
+            "id": "1356123",
+            "score": 0.00156
+        },
+        {
+            "name": "Marrubium incanum Desr.",
+            "id": "1393754",
+            "score": 0.00133
+        }
+    ]
+}

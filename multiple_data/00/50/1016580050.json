@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Leucanthemum ircutianum DC.",
+            "id": "1393506",
+            "score": 0.91508
+        },
+        {
+            "name": "Leucanthemum vulgare Lam.",
+            "id": "1393513",
+            "score": 0.01078
+        },
+        {
+            "name": "Viola arvensis Murray",
+            "id": "1356214",
+            "score": 0.00251
+        },
+        {
+            "name": "Viola tricolor L.",
+            "id": "1356215",
+            "score": 0.00209
+        },
+        {
+            "name": "Campanula cochleariifolia Lam.",
+            "id": "1390659",
+            "score": 0.00187
+        },
+        {
+            "name": "Ranunculus abortivus L.",
+            "id": "1413411",
+            "score": 0.00102
+        }
+    ]
+}

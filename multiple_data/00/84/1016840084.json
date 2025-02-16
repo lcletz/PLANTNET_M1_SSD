@@ -1,0 +1,70 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Veronica persica Poir.",
+            "id": "1364065",
+            "score": 0.32901
+        },
+        {
+            "name": "Veronica filiformis Sm.",
+            "id": "1397048",
+            "score": 0.27152
+        },
+        {
+            "name": "Veronica agrestis L.",
+            "id": "1364061",
+            "score": 0.14059
+        },
+        {
+            "name": "Veronica polita Fr.",
+            "id": "1359981",
+            "score": 0.11066
+        },
+        {
+            "name": "Veronica chamaedrys L.",
+            "id": "1397521",
+            "score": 0.02028
+        },
+        {
+            "name": "Veronica arvensis L.",
+            "id": "1364063",
+            "score": 0.01896
+        },
+        {
+            "name": "Veronica hederifolia L.",
+            "id": "1364064",
+            "score": 0.01418
+        },
+        {
+            "name": "Veronica beccabunga L.",
+            "id": "1364067",
+            "score": 0.01293
+        },
+        {
+            "name": "Veronica montana L.",
+            "id": "1359979",
+            "score": 0.0083
+        },
+        {
+            "name": "Veronica serpyllifolia L.",
+            "id": "1364066",
+            "score": 0.00362
+        },
+        {
+            "name": "Veronica officinalis L.",
+            "id": "1364068",
+            "score": 0.00167
+        },
+        {
+            "name": "Veronica anagallis-aquatica L.",
+            "id": "1364062",
+            "score": 0.00132
+        },
+        {
+            "name": "Veronica verna L.",
+            "id": "1359988",
+            "score": 0.00112
+        }
+    ]
+}

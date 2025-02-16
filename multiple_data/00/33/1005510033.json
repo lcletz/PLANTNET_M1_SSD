@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Poa annua L.",
+            "id": "1363455",
+            "score": 0.88477
+        },
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.04582
+        },
+        {
+            "name": "Poa trivialis L.",
+            "id": "1363459",
+            "score": 0.00509
+        },
+        {
+            "name": "Poa palustris L.",
+            "id": "1394677",
+            "score": 0.00169
+        },
+        {
+            "name": "Agrostis capillaris L.",
+            "id": "1361133",
+            "score": 0.00108
+        }
+    ]
+}

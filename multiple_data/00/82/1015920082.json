@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Quercus rubra L.",
+            "id": "1395035",
+            "score": 0.64463
+        },
+        {
+            "name": "Quercus velutina Lam.",
+            "id": "1398376",
+            "score": 0.25284
+        },
+        {
+            "name": "Quercus macrocarpa Michx.",
+            "id": "1413406",
+            "score": 0.01205
+        },
+        {
+            "name": "Quercus cerris L.",
+            "id": "1395020",
+            "score": 0.01008
+        },
+        {
+            "name": "Quercus palustris Münchh.",
+            "id": "1397592",
+            "score": 0.00621
+        },
+        {
+            "name": "Quercus coccinea Münchh.",
+            "id": "1397716",
+            "score": 0.00608
+        },
+        {
+            "name": "Quercus shumardii Buckley",
+            "id": "1413409",
+            "score": 0.0048
+        },
+        {
+            "name": "Quercus bicolor Willd.",
+            "id": "1413402",
+            "score": 0.00435
+        },
+        {
+            "name": "Quercus alba L.",
+            "id": "1409971",
+            "score": 0.00345
+        },
+        {
+            "name": "Quercus kelloggii Newb.",
+            "id": "1548316",
+            "score": 0.00289
+        },
+        {
+            "name": "Quercus petraea (Matt.) Liebl.",
+            "id": "1419076",
+            "score": 0.00152
+        },
+        {
+            "name": "Quercus ellipsoidalis E.J.Hill",
+            "id": "1419071",
+            "score": 0.00146
+        },
+        {
+            "name": "Quercus nigra L.",
+            "id": "1389501",
+            "score": 0.00142
+        },
+        {
+            "name": "Quercus pubescens Willd.",
+            "id": "1395026",
+            "score": 0.00107
+        },
+        {
+            "name": "Quercus robur L.",
+            "id": "1357413",
+            "score": 0.00102
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stachys byzantina K.Koch",
+            "id": "1396424",
+            "score": 0.78344
+        },
+        {
+            "name": "Stachys germanica L.",
+            "id": "1358939",
+            "score": 0.01578
+        },
+        {
+            "name": "Stachys cretica L.",
+            "id": "1396426",
+            "score": 0.01105
+        },
+        {
+            "name": "Mentha longifolia (L.) L.",
+            "id": "1356107",
+            "score": 0.0053
+        },
+        {
+            "name": "Salvia leucophylla Greene",
+            "id": "1437801",
+            "score": 0.00444
+        },
+        {
+            "name": "Salvia lavanduloides Kunth",
+            "id": "1562754",
+            "score": 0.00134
+        },
+        {
+            "name": "Artemisia ludoviciana Nutt.",
+            "id": "1396735",
+            "score": 0.00123
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Schinus molle L.",
+            "id": "1363642",
+            "score": 0.90807
+        },
+        {
+            "name": "Schinus areira L.",
+            "id": "1423127",
+            "score": 0.04725
+        },
+        {
+            "name": "Pistacia atlantica Desf.",
+            "id": "1356565",
+            "score": 0.00184
+        },
+        {
+            "name": "Azadirachta indica A.Juss.",
+            "id": "1405342",
+            "score": 0.00128
+        },
+        {
+            "name": "Melia azedarach L.",
+            "id": "1363624",
+            "score": 0.00119
+        }
+    ]
+}

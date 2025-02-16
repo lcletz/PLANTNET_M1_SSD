@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cistus salviifolius L.",
+            "id": "1357111",
+            "score": 0.88643
+        },
+        {
+            "name": "Cistus creticus L.",
+            "id": "1357099",
+            "score": 0.06073
+        },
+        {
+            "name": "Cistus monspeliensis L.",
+            "id": "1357105",
+            "score": 0.00389
+        },
+        {
+            "name": "Cistus populifolius L.",
+            "id": "1357109",
+            "score": 0.00367
+        },
+        {
+            "name": "Cistus albidus L.",
+            "id": "1357096",
+            "score": 0.00236
+        },
+        {
+            "name": "Cistus × laxus Aiton",
+            "id": "1495414",
+            "score": 0.00156
+        },
+        {
+            "name": "Lantana involucrata L.",
+            "id": "1409748",
+            "score": 0.00126
+        },
+        {
+            "name": "Cistus crispus L.",
+            "id": "1357100",
+            "score": 0.00104
+        }
+    ]
+}

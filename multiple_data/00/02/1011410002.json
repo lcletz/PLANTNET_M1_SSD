@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Capsella bursa-pastoris (L.) Medik.",
+            "id": "1363910",
+            "score": 0.94321
+        },
+        {
+            "name": "Lepidium hirtum (L.) Sm.",
+            "id": "1358351",
+            "score": 0.01201
+        },
+        {
+            "name": "Capsella rubella Reut.",
+            "id": "1426085",
+            "score": 0.00225
+        },
+        {
+            "name": "Arabidopsis thaliana (L.) Heynh.",
+            "id": "1363915",
+            "score": 0.0016
+        },
+        {
+            "name": "Trigonella arabica Delile",
+            "id": "1359532",
+            "score": 0.00126
+        },
+        {
+            "name": "Mummenhoffia alliacea (L.) Esmailbegi & Al-Shehbaz",
+            "id": "1739163",
+            "score": 0.00115
+        }
+    ]
+}

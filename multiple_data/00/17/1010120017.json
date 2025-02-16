@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Orchis purpurea Huds.",
+            "id": "1361685",
+            "score": 0.75153
+        },
+        {
+            "name": "Orchis × hybrida (Lindl.) Boenn. ex Rchb.",
+            "id": "1628948",
+            "score": 0.08014
+        },
+        {
+            "name": "Orchis × angusticruris Franch.",
+            "id": "1628933",
+            "score": 0.04249
+        },
+        {
+            "name": "Himantoglossum robertianum (Loisel.) P.Delforge",
+            "id": "1361652",
+            "score": 0.00431
+        },
+        {
+            "name": "Orchis militaris L.",
+            "id": "1394279",
+            "score": 0.00143
+        }
+    ]
+}

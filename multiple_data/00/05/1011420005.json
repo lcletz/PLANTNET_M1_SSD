@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Meconopsis cambrica (L.) Vig.",
+            "id": "1393763",
+            "score": 0.43624
+        },
+        {
+            "name": "Ranunculus repens L.",
+            "id": "1360222",
+            "score": 0.00288
+        },
+        {
+            "name": "Trollius europaeus L.",
+            "id": "1397516",
+            "score": 0.00166
+        },
+        {
+            "name": "Chelidonium majus L.",
+            "id": "1359760",
+            "score": 0.00164
+        },
+        {
+            "name": "Anemone ranunculoides L.",
+            "id": "1397312",
+            "score": 0.00151
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Crassula ovata (Mill.) Druce",
+            "id": "1363615",
+            "score": 0.91375
+        },
+        {
+            "name": "Crassula arborescens (Mill.) Willd.",
+            "id": "1418509",
+            "score": 0.0139
+        },
+        {
+            "name": "Crassula multicava Lem.",
+            "id": "1363618",
+            "score": 0.00258
+        },
+        {
+            "name": "Sedum cepaea L.",
+            "id": "1358103",
+            "score": 0.00101
+        }
+    ]
+}

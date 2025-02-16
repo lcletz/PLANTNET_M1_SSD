@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cupressus arizonica Greene",
+            "id": "1391484",
+            "score": 0.49319
+        },
+        {
+            "name": "Juniperus osteosperma (Torr.) Little",
+            "id": "1388821",
+            "score": 0.00338
+        },
+        {
+            "name": "Tetraclinis articulata (Vahl) Mast.",
+            "id": "1398830",
+            "score": 0.0016
+        },
+        {
+            "name": "Cupressus lusitanica Mill.",
+            "id": "1391485",
+            "score": 0.0015
+        },
+        {
+            "name": "Cupressus sempervirens L.",
+            "id": "1391488",
+            "score": 0.00095
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ostrya carpinifolia Scop.",
+            "id": "1394357",
+            "score": 0.8581
+        },
+        {
+            "name": "Ostrya virginiana (Mill.) K.Koch",
+            "id": "1476305",
+            "score": 0.02812
+        },
+        {
+            "name": "Betula lenta L.",
+            "id": "1414284",
+            "score": 0.02152
+        },
+        {
+            "name": "Betula alleghaniensis Britton",
+            "id": "1389062",
+            "score": 0.01521
+        },
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.01464
+        },
+        {
+            "name": "Carpinus orientalis Mill.",
+            "id": "1398832",
+            "score": 0.0066
+        },
+        {
+            "name": "Betula chichibuensis H.Hara",
+            "id": "1476172",
+            "score": 0.00271
+        },
+        {
+            "name": "Carpinus fangiana Hu",
+            "id": "1476261",
+            "score": 0.00206
+        },
+        {
+            "name": "Carpinus caroliniana Walter",
+            "id": "1411338",
+            "score": 0.00171
+        },
+        {
+            "name": "Betula papyrifera Marshall",
+            "id": "1398459",
+            "score": 0.00102
+        }
+    ]
+}

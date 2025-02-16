@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Silybum marianum (L.) Gaertn.",
+            "id": "1364100",
+            "score": 0.80486
+        },
+        {
+            "name": "Tyrimnus leucographus (L.) Cass.",
+            "id": "1357951",
+            "score": 0.0701
+        },
+        {
+            "name": "Galactites tomentosus Moench",
+            "id": "1357598",
+            "score": 0.00425
+        },
+        {
+            "name": "Scolymus hispanicus L.",
+            "id": "1357848",
+            "score": 0.00347
+        },
+        {
+            "name": "Carduus pycnocephalus L.",
+            "id": "1357351",
+            "score": 0.00322
+        },
+        {
+            "name": "Argemone mexicana L.",
+            "id": "1356300",
+            "score": 0.00132
+        },
+        {
+            "name": "Notobasis syriaca (L.) Cass.",
+            "id": "1357722",
+            "score": 0.00107
+        }
+    ]
+}

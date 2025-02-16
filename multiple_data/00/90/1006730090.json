@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Capsella bursa-pastoris (L.) Medik.",
+            "id": "1363910",
+            "score": 0.9448
+        },
+        {
+            "name": "Muscari comosum (L.) Mill.",
+            "id": "1361497",
+            "score": 0.00334
+        },
+        {
+            "name": "Thlaspi arvense L.",
+            "id": "1363886",
+            "score": 0.0032
+        },
+        {
+            "name": "Lepidium hirtum (L.) Sm.",
+            "id": "1358351",
+            "score": 0.00179
+        },
+        {
+            "name": "Lepidium virginicum L.",
+            "id": "1363893",
+            "score": 0.00169
+        },
+        {
+            "name": "Noccaea caerulescens (J.Presl & C.Presl) F.K.Mey.",
+            "id": "1393965",
+            "score": 0.00108
+        }
+    ]
+}

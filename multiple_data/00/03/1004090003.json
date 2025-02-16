@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rhus typhina L.",
+            "id": "1395193",
+            "score": 0.77046
+        },
+        {
+            "name": "Rhus glabra L.",
+            "id": "1397601",
+            "score": 0.16711
+        },
+        {
+            "name": "Rhus coriaria L.",
+            "id": "1356570",
+            "score": 0.00581
+        },
+        {
+            "name": "Ambrosia artemisiifolia L.",
+            "id": "1355901",
+            "score": 0.00186
+        },
+        {
+            "name": "Rhus copallinum L.",
+            "id": "1413464",
+            "score": 0.00155
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium incarnatum L.",
+            "id": "1359498",
+            "score": 0.79456
+        },
+        {
+            "name": "Trifolium rubens L.",
+            "id": "1361850",
+            "score": 0.10618
+        },
+        {
+            "name": "Trifolium purpureum Loisel.",
+            "id": "1359518",
+            "score": 0.0058
+        },
+        {
+            "name": "Trifolium angustifolium L.",
+            "id": "1359483",
+            "score": 0.00366
+        },
+        {
+            "name": "Trifolium lappaceum L.",
+            "id": "1359502",
+            "score": 0.00199
+        },
+        {
+            "name": "Trifolium brutium Ten.",
+            "id": "1399053",
+            "score": 0.00105
+        }
+    ]
+}

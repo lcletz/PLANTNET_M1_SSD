@@ -1,0 +1,85 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Quercus robur L.",
+            "id": "1357413",
+            "score": 0.50917
+        },
+        {
+            "name": "Quercus alba L.",
+            "id": "1409971",
+            "score": 0.10518
+        },
+        {
+            "name": "Quercus petraea (Matt.) Liebl.",
+            "id": "1419076",
+            "score": 0.04341
+        },
+        {
+            "name": "Quercus canariensis Willd.",
+            "id": "1358612",
+            "score": 0.02438
+        },
+        {
+            "name": "Quercus pubescens Willd.",
+            "id": "1395026",
+            "score": 0.01663
+        },
+        {
+            "name": "Quercus macrocarpa Michx.",
+            "id": "1413406",
+            "score": 0.01423
+        },
+        {
+            "name": "Quercus conferta Kit.",
+            "id": "1742823",
+            "score": 0.01357
+        },
+        {
+            "name": "Quercus × rosacea Bechst.",
+            "id": "1548458",
+            "score": 0.0112
+        },
+        {
+            "name": "Quercus pyrenaica Willd.",
+            "id": "1358616",
+            "score": 0.00958
+        },
+        {
+            "name": "Quercus rubra L.",
+            "id": "1395035",
+            "score": 0.00627
+        },
+        {
+            "name": "Quercus cerris L.",
+            "id": "1395020",
+            "score": 0.00623
+        },
+        {
+            "name": "Quercus gambelii Nutt.",
+            "id": "1437109",
+            "score": 0.00447
+        },
+        {
+            "name": "Quercus nigra L.",
+            "id": "1389501",
+            "score": 0.00414
+        },
+        {
+            "name": "Quercus lobata Née",
+            "id": "1437128",
+            "score": 0.00212
+        },
+        {
+            "name": "Quercus bicolor Willd.",
+            "id": "1413402",
+            "score": 0.00186
+        },
+        {
+            "name": "Quercus stellata Wangenh.",
+            "id": "1437152",
+            "score": 0.00101
+        }
+    ]
+}

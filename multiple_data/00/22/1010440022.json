@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Daucus carota L.",
+            "id": "1363227",
+            "score": 0.73961
+        },
+        {
+            "name": "Visnaga daucoides Gaertn.",
+            "id": "1362719",
+            "score": 0.08484
+        },
+        {
+            "name": "Ammi majus L.",
+            "id": "1363217",
+            "score": 0.05712
+        },
+        {
+            "name": "Conium maculatum L.",
+            "id": "1363216",
+            "score": 0.01224
+        },
+        {
+            "name": "Aethusa cynapium L.",
+            "id": "1360608",
+            "score": 0.01216
+        },
+        {
+            "name": "Daucus muricatus (L.) L.",
+            "id": "1360687",
+            "score": 0.0121
+        },
+        {
+            "name": "Daucus pusillus Michx.",
+            "id": "1411700",
+            "score": 0.01131
+        },
+        {
+            "name": "Daucus rouyi Spalik & Reduron",
+            "id": "1743404",
+            "score": 0.00419
+        },
+        {
+            "name": "Laserpitium halleri Crantz",
+            "id": "1393445",
+            "score": 0.00261
+        },
+        {
+            "name": "Seseli libanotis (L.) W.D.J.Koch",
+            "id": "1458768",
+            "score": 0.00169
+        },
+        {
+            "name": "Oenanthe pimpinelloides L.",
+            "id": "1360767",
+            "score": 0.00154
+        },
+        {
+            "name": "Chaerophyllum bulbosum L.",
+            "id": "1397349",
+            "score": 0.00125
+        },
+        {
+            "name": "Laserpitium gallicum L.",
+            "id": "1393441",
+            "score": 0.00123
+        },
+        {
+            "name": "Torilis arvensis (Huds.) Link",
+            "id": "1363212",
+            "score": 0.00115
+        },
+        {
+            "name": "Oenanthe crocata L.",
+            "id": "1360761",
+            "score": 0.00114
+        }
+    ]
+}

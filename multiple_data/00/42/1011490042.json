@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phytolacca americana L.",
+            "id": "1356062",
+            "score": 0.62201
+        },
+        {
+            "name": "Phytolacca bogotensis Kunth",
+            "id": "1436467",
+            "score": 0.0949
+        },
+        {
+            "name": "Phytolacca acinosa Roxb.",
+            "id": "1394558",
+            "score": 0.04227
+        },
+        {
+            "name": "Rivina humilis L.",
+            "id": "1356061",
+            "score": 0.00346
+        },
+        {
+            "name": "Phytolacca icosandra L.",
+            "id": "1406199",
+            "score": 0.00192
+        },
+        {
+            "name": "Prunus serotina Ehrh.",
+            "id": "1370859",
+            "score": 0.00111
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.00108
+        }
+    ]
+}

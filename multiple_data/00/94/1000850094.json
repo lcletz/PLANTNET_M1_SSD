@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Quercus rubra L.",
+            "id": "1395035",
+            "score": 0.85123
+        },
+        {
+            "name": "Quercus palustris Münchh.",
+            "id": "1397592",
+            "score": 0.07161
+        },
+        {
+            "name": "Quercus velutina Lam.",
+            "id": "1398376",
+            "score": 0.02682
+        },
+        {
+            "name": "Quercus coccinea Münchh.",
+            "id": "1397716",
+            "score": 0.0172
+        },
+        {
+            "name": "Acer saccharinum L.",
+            "id": "1391667",
+            "score": 0.00262
+        },
+        {
+            "name": "Quercus shumardii Buckley",
+            "id": "1413409",
+            "score": 0.00169
+        },
+        {
+            "name": "Platanus orientalis L.",
+            "id": "1362358",
+            "score": 0.00158
+        },
+        {
+            "name": "Quercus texana Buckley",
+            "id": "1437155",
+            "score": 0.00143
+        },
+        {
+            "name": "Quercus nigra L.",
+            "id": "1389501",
+            "score": 0.00128
+        }
+    ]
+}

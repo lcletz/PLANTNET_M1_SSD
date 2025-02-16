@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Chelidonium majus L.",
+            "id": "1359760",
+            "score": 0.98354
+        },
+        {
+            "name": "Stylophorum diphyllum (Michx.) Nutt.",
+            "id": "1413938",
+            "score": 0.00844
+        },
+        {
+            "name": "Papaver cambricum L.",
+            "id": "1419850",
+            "score": 0.00374
+        },
+        {
+            "name": "Impatiens noli-tangere L.",
+            "id": "1393276",
+            "score": 0.00049
+        },
+        {
+            "name": "Papaver alpinum L.",
+            "id": "1394399",
+            "score": 0.0004
+        }
+    ]
+}

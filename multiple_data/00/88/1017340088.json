@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Taxodium distichum (L.) Rich.",
+            "id": "1396709",
+            "score": 0.81475
+        },
+        {
+            "name": "Sequoia sempervirens (D.Don) Endl.",
+            "id": "1396213",
+            "score": 0.06788
+        },
+        {
+            "name": "Metasequoia glyptostroboides Hu & W.C.Cheng",
+            "id": "1396708",
+            "score": 0.06055
+        },
+        {
+            "name": "Dacrydium elatum (Roxb.) Wall. ex Hook.",
+            "id": "1423810",
+            "score": 0.00323
+        },
+        {
+            "name": "Picea rubens Sarg.",
+            "id": "1388958",
+            "score": 0.00139
+        },
+        {
+            "name": "Dacrycarpus vieillardii (Parl.) de Laub.",
+            "id": "1414620",
+            "score": 0.00122
+        }
+    ]
+}

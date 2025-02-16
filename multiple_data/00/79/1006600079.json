@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.61124
+        },
+        {
+            "name": "Sambucus canadensis L.",
+            "id": "1356462",
+            "score": 0.25102
+        },
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.00972
+        },
+        {
+            "name": "Sambucus ebulus L.",
+            "id": "1356276",
+            "score": 0.00521
+        },
+        {
+            "name": "Hydrangea petiolaris Siebold & Zucc.",
+            "id": "1398621",
+            "score": 0.00247
+        },
+        {
+            "name": "Sambucus australis Cham. & Schltdl.",
+            "id": "1447814",
+            "score": 0.00243
+        },
+        {
+            "name": "Sambucus cerulea Raf.",
+            "id": "1447816",
+            "score": 0.00219
+        },
+        {
+            "name": "Viburnum plicatum Thunb.",
+            "id": "1397609",
+            "score": 0.00125
+        }
+    ]
+}

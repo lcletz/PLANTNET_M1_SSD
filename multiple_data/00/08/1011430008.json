@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Juniperus phoenicea L.",
+            "id": "1393366",
+            "score": 0.95886
+        },
+        {
+            "name": "Juniperus turbinata Guss.",
+            "id": "1743226",
+            "score": 0.00356
+        },
+        {
+            "name": "Juniperus thurifera L.",
+            "id": "1393369",
+            "score": 0.00311
+        },
+        {
+            "name": "Juniperus pinchotii Sudw.",
+            "id": "1433462",
+            "score": 0.00288
+        },
+        {
+            "name": "Juniperus virginiana L.",
+            "id": "1393370",
+            "score": 0.00255
+        },
+        {
+            "name": "Juniperus sabina L.",
+            "id": "1393367",
+            "score": 0.00115
+        }
+    ]
+}

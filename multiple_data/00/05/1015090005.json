@@ -1,0 +1,235 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Quercus rubra L.",
+            "id": "1395035",
+            "score": 0.3035
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.08567
+        },
+        {
+            "name": "Quercus velutina Lam.",
+            "id": "1398376",
+            "score": 0.04584
+        },
+        {
+            "name": "Sorbus aucuparia L.",
+            "id": "1362987",
+            "score": 0.04516
+        },
+        {
+            "name": "Castanea sativa Mill.",
+            "id": "1358610",
+            "score": 0.03537
+        },
+        {
+            "name": "Quercus cerris L.",
+            "id": "1395020",
+            "score": 0.03209
+        },
+        {
+            "name": "Fraxinus ornus L.",
+            "id": "1362963",
+            "score": 0.02628
+        },
+        {
+            "name": "Celtis australis L.",
+            "id": "1361742",
+            "score": 0.02532
+        },
+        {
+            "name": "Juglans regia L.",
+            "id": "1358713",
+            "score": 0.02292
+        },
+        {
+            "name": "Scandosorbus intermedia (Ehrh.) Sennikov",
+            "id": "1737669",
+            "score": 0.02259
+        },
+        {
+            "name": "Albizia julibrissin Durazz.",
+            "id": "1391958",
+            "score": 0.01996
+        },
+        {
+            "name": "Acer pseudoplatanus L.",
+            "id": "1356460",
+            "score": 0.01278
+        },
+        {
+            "name": "Fraxinus angustifolia Vahl",
+            "id": "1362009",
+            "score": 0.0115
+        },
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.00848
+        },
+        {
+            "name": "Albizia lebbeck (L.) Benth.",
+            "id": "1366605",
+            "score": 0.00826
+        },
+        {
+            "name": "Alnus incana (L.) Moench",
+            "id": "1397308",
+            "score": 0.00787
+        },
+        {
+            "name": "Quercus robur L.",
+            "id": "1357413",
+            "score": 0.00785
+        },
+        {
+            "name": "Fraxinus americana L.",
+            "id": "1397619",
+            "score": 0.00578
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.00487
+        },
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.00443
+        },
+        {
+            "name": "Quercus pubescens Willd.",
+            "id": "1395026",
+            "score": 0.00407
+        },
+        {
+            "name": "Quercus pyrenaica Willd.",
+            "id": "1358616",
+            "score": 0.00394
+        },
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.00384
+        },
+        {
+            "name": "Cassia grandis L.f.",
+            "id": "1400481",
+            "score": 0.00361
+        },
+        {
+            "name": "Quercus castaneifolia C.A.Mey.",
+            "id": "1390589",
+            "score": 0.0036
+        },
+        {
+            "name": "Acacia dealbata Link",
+            "id": "1363764",
+            "score": 0.00341
+        },
+        {
+            "name": "Brachychiton discolor F.Muell.",
+            "id": "1390502",
+            "score": 0.00339
+        },
+        {
+            "name": "Quercus petraea (Matt.) Liebl.",
+            "id": "1419076",
+            "score": 0.00296
+        },
+        {
+            "name": "Quercus palustris Münchh.",
+            "id": "1397592",
+            "score": 0.00295
+        },
+        {
+            "name": "Pongamia pinnata (L.) Pierre",
+            "id": "1408557",
+            "score": 0.00264
+        },
+        {
+            "name": "Tetradium daniellii (Benn.) T.G.Hartley",
+            "id": "1420545",
+            "score": 0.00262
+        },
+        {
+            "name": "Adansonia digitata L.",
+            "id": "1388738",
+            "score": 0.00199
+        },
+        {
+            "name": "Acacia mearnsii De Wild.",
+            "id": "1363770",
+            "score": 0.00194
+        },
+        {
+            "name": "Populus tremula L.",
+            "id": "1360449",
+            "score": 0.00189
+        },
+        {
+            "name": "Fagus grandifolia Ehrh.",
+            "id": "1412056",
+            "score": 0.00186
+        },
+        {
+            "name": "Ailanthus altissima (Mill.) Swingle",
+            "id": "1360547",
+            "score": 0.00172
+        },
+        {
+            "name": "Zelkova carpinifolia (Pall.) K.Koch",
+            "id": "1398238",
+            "score": 0.0017
+        },
+        {
+            "name": "Aesculus × carnea Zeyh.",
+            "id": "1420608",
+            "score": 0.00152
+        },
+        {
+            "name": "Alnus glutinosa (L.) Gaertn.",
+            "id": "1356608",
+            "score": 0.00127
+        },
+        {
+            "name": "Zelkova serrata (Thunb.) Makino",
+            "id": "1398535",
+            "score": 0.00124
+        },
+        {
+            "name": "Enterolobium contortisiliquum (Vell.) Morong",
+            "id": "1368549",
+            "score": 0.00114
+        },
+        {
+            "name": "Grevillea robusta A.Cunn. ex R.Br.",
+            "id": "1394929",
+            "score": 0.0011
+        },
+        {
+            "name": "Schizolobium parahyba (Vell.) S.F.Blake",
+            "id": "1426406",
+            "score": 0.00107
+        },
+        {
+            "name": "Ulmus americana L.",
+            "id": "1390323",
+            "score": 0.00107
+        },
+        {
+            "name": "Cupaniopsis anacardioides (A.Rich.) Radlk.",
+            "id": "1420615",
+            "score": 0.00105
+        },
+        {
+            "name": "Cormus domestica (L.) Spach",
+            "id": "1738846",
+            "score": 0.00101
+        }
+    ]
+}

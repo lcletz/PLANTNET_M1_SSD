@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Geranium purpureum Vill.",
+            "id": "1356012",
+            "score": 0.85036
+        },
+        {
+            "name": "Geranium robertianum L.",
+            "id": "1356017",
+            "score": 0.11252
+        },
+        {
+            "name": "Geranium lucidum L.",
+            "id": "1358674",
+            "score": 0.01124
+        },
+        {
+            "name": "Geranium rotundifolium L.",
+            "id": "1356013",
+            "score": 0.00202
+        },
+        {
+            "name": "Geranium reuteri Aedo & Muñoz Garm.",
+            "id": "1362535",
+            "score": 0.001
+        }
+    ]
+}

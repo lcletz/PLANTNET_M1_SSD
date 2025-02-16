@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia paralias L.",
+            "id": "1355977",
+            "score": 0.9429
+        },
+        {
+            "name": "Euphorbia pithyusa L.",
+            "id": "1358581",
+            "score": 0.00638
+        },
+        {
+            "name": "Euphorbia portlandica L.",
+            "id": "1545855",
+            "score": 0.00574
+        },
+        {
+            "name": "Euphorbia segetalis L.",
+            "id": "1358590",
+            "score": 0.00533
+        },
+        {
+            "name": "Euphorbia nicaeensis All.",
+            "id": "1358572",
+            "score": 0.0013
+        },
+        {
+            "name": "Euphorbia terracina L.",
+            "id": "1358595",
+            "score": 0.00123
+        },
+        {
+            "name": "Euphorbia helioscopia L.",
+            "id": "1355964",
+            "score": 0.00118
+        },
+        {
+            "name": "Euphorbia exigua L.",
+            "id": "1358552",
+            "score": 0.00111
+        }
+    ]
+}

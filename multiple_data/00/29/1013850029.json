@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Medicago × varia Martyn",
+            "id": "1581623",
+            "score": 0.54353
+        },
+        {
+            "name": "Medicago sativa L.",
+            "id": "1363732",
+            "score": 0.38952
+        },
+        {
+            "name": "Medicago falcata L.",
+            "id": "1363729",
+            "score": 0.00528
+        },
+        {
+            "name": "Trigonella caerulea (L.) Ser.",
+            "id": "1361851",
+            "score": 0.00241
+        },
+        {
+            "name": "Trigonella foenum-graecum L.",
+            "id": "1363680",
+            "score": 0.00159
+        }
+    ]
+}

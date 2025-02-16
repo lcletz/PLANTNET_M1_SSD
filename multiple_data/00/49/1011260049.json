@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Geum urbanum L.",
+            "id": "1360300",
+            "score": 0.97765
+        },
+        {
+            "name": "Geum rivale L.",
+            "id": "1392614",
+            "score": 0.00237
+        },
+        {
+            "name": "Geum canadense Jacq.",
+            "id": "1412167",
+            "score": 0.00197
+        },
+        {
+            "name": "Geum aleppicum Jacq.",
+            "id": "1412165",
+            "score": 0.00196
+        },
+        {
+            "name": "Geum macrophyllum Willd.",
+            "id": "1398509",
+            "score": 0.0015
+        },
+        {
+            "name": "Geum hispidum Fr.",
+            "id": "1392606",
+            "score": 0.0014
+        }
+    ]
+}

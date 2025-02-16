@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Saponaria officinalis L.",
+            "id": "1356803",
+            "score": 0.88224
+        },
+        {
+            "name": "Saponaria caespitosa DC.",
+            "id": "1395928",
+            "score": 0.0132
+        },
+        {
+            "name": "Saponaria ocymoides L.",
+            "id": "1361747",
+            "score": 0.00859
+        },
+        {
+            "name": "Saponaria sicula Raf.",
+            "id": "1356946",
+            "score": 0.00361
+        },
+        {
+            "name": "Silene caroliniana Walter",
+            "id": "1438258",
+            "score": 0.00166
+        },
+        {
+            "name": "Silene × hampeana Meusel & K.Werner",
+            "id": "1737497",
+            "score": 0.0014
+        }
+    ]
+}

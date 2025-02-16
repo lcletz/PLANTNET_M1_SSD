@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dipsacus fullonum L.",
+            "id": "1358454",
+            "score": 0.74691
+        },
+        {
+            "name": "Dipsacus laciniatus L.",
+            "id": "1391747",
+            "score": 0.08748
+        },
+        {
+            "name": "Dipsacus sativus (L.) Honck.",
+            "id": "1391749",
+            "score": 0.04463
+        },
+        {
+            "name": "Dipsacus ferox Loisel.",
+            "id": "1358453",
+            "score": 0.00472
+        },
+        {
+            "name": "Eryngium spinalba Vill.",
+            "id": "1392108",
+            "score": 0.00143
+        }
+    ]
+}

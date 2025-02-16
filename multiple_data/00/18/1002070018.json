@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Erigeron glaucus Ker Gawl.",
+            "id": "1392047",
+            "score": 0.96361
+        },
+        {
+            "name": "Erigeron alpinus L.",
+            "id": "1374231",
+            "score": 0.00611
+        },
+        {
+            "name": "Erigeron uniflorus L.",
+            "id": "1397378",
+            "score": 0.00151
+        },
+        {
+            "name": "Erigeron peregrinus Greene",
+            "id": "1763923",
+            "score": 0.00127
+        },
+        {
+            "name": "Bellis perennis L.",
+            "id": "1357317",
+            "score": 0.00108
+        }
+    ]
+}

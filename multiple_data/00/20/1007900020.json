@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Circaea lutetiana L.",
+            "id": "1359680",
+            "score": 0.93657
+        },
+        {
+            "name": "Circaea alpina L.",
+            "id": "1397350",
+            "score": 0.0086
+        },
+        {
+            "name": "Circaea × intermedia Ehrh.",
+            "id": "1609596",
+            "score": 0.00367
+        },
+        {
+            "name": "Circaea canadensis (L.) Hill",
+            "id": "1747265",
+            "score": 0.00268
+        },
+        {
+            "name": "Rivina humilis L.",
+            "id": "1356061",
+            "score": 0.00238
+        }
+    ]
+}

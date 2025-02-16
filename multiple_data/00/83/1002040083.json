@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ligustrum ovalifolium Hassk.",
+            "id": "1393526",
+            "score": 0.59003
+        },
+        {
+            "name": "Ligustrum vulgare L.",
+            "id": "1359675",
+            "score": 0.24654
+        },
+        {
+            "name": "Ligustrum sinense Lour.",
+            "id": "1390584",
+            "score": 0.05979
+        },
+        {
+            "name": "Ligustrum lucidum W.T.Aiton",
+            "id": "1393525",
+            "score": 0.036
+        },
+        {
+            "name": "Ligustrum japonicum Thunb.",
+            "id": "1397735",
+            "score": 0.02655
+        },
+        {
+            "name": "Vinca minor L.",
+            "id": "1369309",
+            "score": 0.0013
+        },
+        {
+            "name": "Buxus sempervirens L.",
+            "id": "1356729",
+            "score": 0.00115
+        }
+    ]
+}

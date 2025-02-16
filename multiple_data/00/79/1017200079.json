@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Marrubium supinum L.",
+            "id": "1358782",
+            "score": 0.92046
+        },
+        {
+            "name": "Marrubium vulgare L.",
+            "id": "1356123",
+            "score": 0.05652
+        },
+        {
+            "name": "Pseudodictamnus hirsutus (Willd.) Salmaki & Siadati",
+            "id": "1743236",
+            "score": 0.00224
+        },
+        {
+            "name": "Teucrium pyrenaicum L.",
+            "id": "1362745",
+            "score": 0.00186
+        },
+        {
+            "name": "Teucrium rotundifolium Schreb.",
+            "id": "1359016",
+            "score": 0.0015
+        }
+    ]
+}

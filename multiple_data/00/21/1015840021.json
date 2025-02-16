@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Passiflora edulis Sims",
+            "id": "1356048",
+            "score": 0.91146
+        },
+        {
+            "name": "Passiflora tripartita (Juss.) Poir.",
+            "id": "1379583",
+            "score": 0.00214
+        },
+        {
+            "name": "Passiflora alata Curtis",
+            "id": "1419856",
+            "score": 0.00178
+        },
+        {
+            "name": "Passiflora incarnata L.",
+            "id": "1429824",
+            "score": 0.00162
+        },
+        {
+            "name": "Passiflora maliformis L.",
+            "id": "1376592",
+            "score": 0.00104
+        }
+    ]
+}

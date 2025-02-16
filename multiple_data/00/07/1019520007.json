@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Angelica sylvestris L.",
+            "id": "1394591",
+            "score": 0.90728
+        },
+        {
+            "name": "Angelica razulii Gouan",
+            "id": "1394580",
+            "score": 0.00618
+        },
+        {
+            "name": "Angelica archangelica L.",
+            "id": "1397313",
+            "score": 0.00516
+        },
+        {
+            "name": "Laserpitium latifolium L.",
+            "id": "1393446",
+            "score": 0.00415
+        },
+        {
+            "name": "Peucedanum ostruthium (L.) W.D.J.Koch",
+            "id": "1458391",
+            "score": 0.00255
+        },
+        {
+            "name": "Cicuta virosa L.",
+            "id": "1391163",
+            "score": 0.00236
+        },
+        {
+            "name": "Oenanthe crocata L.",
+            "id": "1360761",
+            "score": 0.00228
+        },
+        {
+            "name": "Chaerophyllum hirsutum L.",
+            "id": "1391112",
+            "score": 0.00164
+        }
+    ]
+}

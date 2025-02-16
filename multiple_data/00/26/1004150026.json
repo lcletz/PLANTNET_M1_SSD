@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Berberis aquifolium Pursh",
+            "id": "1400122",
+            "score": 0.48712
+        },
+        {
+            "name": "Berberis repens Lindl.",
+            "id": "1398614",
+            "score": 0.0371
+        },
+        {
+            "name": "Berberis vulgaris L.",
+            "id": "1356603",
+            "score": 0.01463
+        },
+        {
+            "name": "Itea ilicifolia Oliv.",
+            "id": "1557876",
+            "score": 0.00625
+        },
+        {
+            "name": "Rosa chinensis Jacq.",
+            "id": "1395231",
+            "score": 0.00437
+        },
+        {
+            "name": "Berberis japonica (Thunb.) Spreng.",
+            "id": "1721496",
+            "score": 0.00414
+        },
+        {
+            "name": "Ilex opaca Aiton",
+            "id": "1420705",
+            "score": 0.00373
+        },
+        {
+            "name": "Berberis darwinii Hook.",
+            "id": "1400115",
+            "score": 0.00228
+        },
+        {
+            "name": "Silphium perfoliatum L.",
+            "id": "1396301",
+            "score": 0.00189
+        },
+        {
+            "name": "Berberis ilicifolia L.f.",
+            "id": "1475668",
+            "score": 0.00151
+        },
+        {
+            "name": "Rosa gallica L.",
+            "id": "1360338",
+            "score": 0.00142
+        },
+        {
+            "name": "Rosa pendulina L.",
+            "id": "1395329",
+            "score": 0.00139
+        },
+        {
+            "name": "Berberis russellii (N.P.Taylor) Marroq. & Laferr.",
+            "id": "1822594",
+            "score": 0.00103
+        },
+        {
+            "name": "Berberis sargentiana C.K.Schneid.",
+            "id": "1475873",
+            "score": 0.00103
+        },
+        {
+            "name": "Berberis bealei Fortune",
+            "id": "1721495",
+            "score": 0.00075
+        }
+    ]
+}

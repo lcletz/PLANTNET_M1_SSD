@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viola tricolor L.",
+            "id": "1356215",
+            "score": 0.86334
+        },
+        {
+            "name": "Viola arvensis Murray",
+            "id": "1356214",
+            "score": 0.05469
+        },
+        {
+            "name": "Viola lutea Huds.",
+            "id": "1397161",
+            "score": 0.03315
+        },
+        {
+            "name": "Viola kitaibeliana Schult.",
+            "id": "1360869",
+            "score": 0.0082
+        },
+        {
+            "name": "Viola calcarata L.",
+            "id": "1397129",
+            "score": 0.00475
+        },
+        {
+            "name": "Viola bubanii Timb.-Lagr.",
+            "id": "1397126",
+            "score": 0.00296
+        },
+        {
+            "name": "Viola × williamsii Wittr.",
+            "id": "1844933",
+            "score": 0.00205
+        },
+        {
+            "name": "Viola hispida Lam.",
+            "id": "1397149",
+            "score": 0.00203
+        },
+        {
+            "name": "Viola × wittrockiana Gams",
+            "id": "1844934",
+            "score": 0.00179
+        },
+        {
+            "name": "Viola aethnensis (DC.) Strobl",
+            "id": "1746276",
+            "score": 0.0016
+        }
+    ]
+}

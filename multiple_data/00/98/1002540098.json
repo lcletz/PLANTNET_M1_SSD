@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Passiflora caerulea L.",
+            "id": "1356052",
+            "score": 0.77361
+        },
+        {
+            "name": "Passiflora edulis Sims",
+            "id": "1356048",
+            "score": 0.05192
+        },
+        {
+            "name": "Passiflora incarnata L.",
+            "id": "1429824",
+            "score": 0.00422
+        },
+        {
+            "name": "Passiflora tenuifila Killip",
+            "id": "1640315",
+            "score": 0.00391
+        },
+        {
+            "name": "Passiflora cincinnata Mast.",
+            "id": "1640003",
+            "score": 0.00143
+        },
+        {
+            "name": "Passiflora subpeltata Ortega",
+            "id": "1356051",
+            "score": 0.00141
+        },
+        {
+            "name": "Gossypium arboreum L.",
+            "id": "1380601",
+            "score": 0.00125
+        },
+        {
+            "name": "Passiflora foetida L.",
+            "id": "1376583",
+            "score": 0.00117
+        }
+    ]
+}

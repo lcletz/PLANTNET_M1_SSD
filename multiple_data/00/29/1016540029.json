@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hippocrepis scorpioides Benth.",
+            "id": "1392776",
+            "score": 0.44078
+        },
+        {
+            "name": "Hippocrepis comosa L.",
+            "id": "1392775",
+            "score": 0.31266
+        },
+        {
+            "name": "Coronilla minima L.",
+            "id": "1359169",
+            "score": 0.13036
+        },
+        {
+            "name": "Lotus glaber Mill.",
+            "id": "1359305",
+            "score": 0.00116
+        },
+        {
+            "name": "Lotus cytisoides L.",
+            "id": "1359298",
+            "score": 0.00114
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Solanum tuberosum L.",
+            "id": "1356171",
+            "score": 0.89938
+        },
+        {
+            "name": "Solanum lycopersicum L.",
+            "id": "1396325",
+            "score": 0.01197
+        },
+        {
+            "name": "Solanum pimpinellifolium L.",
+            "id": "1420742",
+            "score": 0.00554
+        },
+        {
+            "name": "Solanum muricatum Aiton",
+            "id": "1377908",
+            "score": 0.00381
+        },
+        {
+            "name": "Capsicum annuum L.",
+            "id": "1361992",
+            "score": 0.00244
+        },
+        {
+            "name": "Solanum physalifolium Rusby",
+            "id": "1396327",
+            "score": 0.00143
+        },
+        {
+            "name": "Physalis philadelphica Lam.",
+            "id": "1356154",
+            "score": 0.00132
+        },
+        {
+            "name": "Solanum americanum Mill.",
+            "id": "1360564",
+            "score": 0.00127
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Chamaecyparis lawsoniana (A.Murray bis) Parl.",
+            "id": "1418584",
+            "score": 0.37345
+        },
+        {
+            "name": "Cupressus sempervirens L.",
+            "id": "1391488",
+            "score": 0.04908
+        },
+        {
+            "name": "Thuja occidentalis L.",
+            "id": "1396760",
+            "score": 0.04743
+        },
+        {
+            "name": "Juniperus virginiana L.",
+            "id": "1393370",
+            "score": 0.04643
+        },
+        {
+            "name": "Hesperocyparis macrocarpa (Hartw.) Bartel",
+            "id": "1432847",
+            "score": 0.01575
+        },
+        {
+            "name": "Platycladus orientalis (L.) Franco",
+            "id": "1394647",
+            "score": 0.00424
+        },
+        {
+            "name": "Sequoiadendron giganteum (Lindl.) J.Buchholz",
+            "id": "1396214",
+            "score": 0.00333
+        },
+        {
+            "name": "Sequoia sempervirens (D.Don) Endl.",
+            "id": "1396213",
+            "score": 0.00246
+        },
+        {
+            "name": "Thuja plicata Donn ex D.Don",
+            "id": "1418597",
+            "score": 0.00242
+        },
+        {
+            "name": "Juniperus sabina L.",
+            "id": "1393367",
+            "score": 0.00217
+        },
+        {
+            "name": "Hesperocyparis lusitanica (Mill.) Bartel",
+            "id": "1738619",
+            "score": 0.00185
+        },
+        {
+            "name": "Juniperus communis L.",
+            "id": "1393364",
+            "score": 0.00141
+        },
+        {
+            "name": "Juniperus phoenicea L.",
+            "id": "1393366",
+            "score": 0.00101
+        },
+        {
+            "name": "Calluna vulgaris (L.) Hull",
+            "id": "1358501",
+            "score": 0.00046
+        },
+        {
+            "name": "Juniperus thurifera L.",
+            "id": "1393369",
+            "score": 0.0004
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.49685
+        },
+        {
+            "name": "Fagus orientalis Lipsky",
+            "id": "1547791",
+            "score": 0.26396
+        },
+        {
+            "name": "Fagus grandifolia Ehrh.",
+            "id": "1412056",
+            "score": 0.13748
+        },
+        {
+            "name": "Hamamelis virginiana L.",
+            "id": "1397621",
+            "score": 0.01038
+        },
+        {
+            "name": "Cornus florida L.",
+            "id": "1397618",
+            "score": 0.00685
+        },
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.00591
+        },
+        {
+            "name": "Castanea sativa Mill.",
+            "id": "1358610",
+            "score": 0.00561
+        },
+        {
+            "name": "Frangula alnus Mill.",
+            "id": "1360257",
+            "score": 0.00339
+        },
+        {
+            "name": "Viburnum lantanoides Michx.",
+            "id": "1414186",
+            "score": 0.00205
+        },
+        {
+            "name": "Magnolia acuminata (L.) L.",
+            "id": "1412655",
+            "score": 0.00158
+        },
+        {
+            "name": "Crataegus germanica (L.) Kuntze",
+            "id": "1391434",
+            "score": 0.00124
+        },
+        {
+            "name": "Asimina triloba (L.) Dunal",
+            "id": "1413867",
+            "score": 0.00122
+        },
+        {
+            "name": "Parrotia persica C.A.Mey.",
+            "id": "1738716",
+            "score": 0.00109
+        },
+        {
+            "name": "Betula nigra L.",
+            "id": "1390590",
+            "score": 0.00108
+        },
+        {
+            "name": "Cornus mas L.",
+            "id": "1391354",
+            "score": 0.00102
+        }
+    ]
+}

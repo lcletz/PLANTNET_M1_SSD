@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.89992
+        },
+        {
+            "name": "Ficus carica L.",
+            "id": "1363142",
+            "score": 0.00299
+        },
+        {
+            "name": "Acer monspessulanum L.",
+            "id": "1356457",
+            "score": 0.00247
+        },
+        {
+            "name": "Gossypium herbaceum L.",
+            "id": "1359627",
+            "score": 0.00231
+        },
+        {
+            "name": "Acer opalus Mill.",
+            "id": "1362399",
+            "score": 0.00121
+        }
+    ]
+}

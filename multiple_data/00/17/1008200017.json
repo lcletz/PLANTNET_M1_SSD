@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Campanula portenschlagiana Schult.",
+            "id": "1418359",
+            "score": 0.64404
+        },
+        {
+            "name": "Campanula rotundifolia L.",
+            "id": "1362422",
+            "score": 0.01438
+        },
+        {
+            "name": "Campanula cochleariifolia Lam.",
+            "id": "1390659",
+            "score": 0.00638
+        },
+        {
+            "name": "Campanula garganica Ten.",
+            "id": "1397333",
+            "score": 0.00577
+        },
+        {
+            "name": "Hesperocodon hederaceus (L.) Eddie & Cupido",
+            "id": "1738627",
+            "score": 0.00125
+        }
+    ]
+}

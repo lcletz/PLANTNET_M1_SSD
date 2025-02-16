@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salix hastata L.",
+            "id": "1397478",
+            "score": 0.71172
+        },
+        {
+            "name": "Salix caprea L.",
+            "id": "1395765",
+            "score": 0.08759
+        },
+        {
+            "name": "Salix atrocinerea Brot.",
+            "id": "1360451",
+            "score": 0.06397
+        },
+        {
+            "name": "Salix aurita L.",
+            "id": "1395745",
+            "score": 0.04738
+        },
+        {
+            "name": "Salix cinerea L.",
+            "id": "1362486",
+            "score": 0.04127
+        },
+        {
+            "name": "Salix appendiculata Vill.",
+            "id": "1395742",
+            "score": 0.00899
+        },
+        {
+            "name": "Salix × reichardtii A.Kern.",
+            "id": "1737553",
+            "score": 0.00648
+        },
+        {
+            "name": "Salix laggeri Wimm.",
+            "id": "1395820",
+            "score": 0.00579
+        },
+        {
+            "name": "Salix myrsinifolia Salisb.",
+            "id": "1395843",
+            "score": 0.00542
+        },
+        {
+            "name": "Clethra alnifolia L.",
+            "id": "1398480",
+            "score": 0.00105
+        }
+    ]
+}

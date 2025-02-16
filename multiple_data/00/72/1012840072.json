@@ -1,0 +1,55 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Oenothera biennis L.",
+            "id": "1361953",
+            "score": 0.35357
+        },
+        {
+            "name": "Oenothera glazioviana Micheli",
+            "id": "1361960",
+            "score": 0.17974
+        },
+        {
+            "name": "Oenothera parviflora L.",
+            "id": "1394019",
+            "score": 0.04059
+        },
+        {
+            "name": "Isatis tinctoria L.",
+            "id": "1358340",
+            "score": 0.00842
+        },
+        {
+            "name": "Verbascum lychnitis L.",
+            "id": "1360531",
+            "score": 0.00326
+        },
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.0018
+        },
+        {
+            "name": "Rumex patientia L.",
+            "id": "1360135",
+            "score": 0.00152
+        },
+        {
+            "name": "Cynoglossum officinale L.",
+            "id": "1391501",
+            "score": 0.00145
+        },
+        {
+            "name": "Rumex acetosa L.",
+            "id": "1360120",
+            "score": 0.00111
+        },
+        {
+            "name": "Centaurea triumfettii All.",
+            "id": "1426115",
+            "score": 0.00103
+        }
+    ]
+}

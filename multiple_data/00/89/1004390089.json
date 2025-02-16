@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stachys sylvatica L.",
+            "id": "1358950",
+            "score": 0.9114
+        },
+        {
+            "name": "Stachys chamissonis Benth.",
+            "id": "1413911",
+            "score": 0.00867
+        },
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.00628
+        },
+        {
+            "name": "Stachys alpina L.",
+            "id": "1397502",
+            "score": 0.00601
+        },
+        {
+            "name": "Stachys mexicana Benth.",
+            "id": "1413912",
+            "score": 0.00196
+        },
+        {
+            "name": "Stachys bullata Benth.",
+            "id": "1438593",
+            "score": 0.00195
+        },
+        {
+            "name": "Stachys heraclea All.",
+            "id": "1396430",
+            "score": 0.00111
+        }
+    ]
+}

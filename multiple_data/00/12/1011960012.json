@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.91544
+        },
+        {
+            "name": "Aesculus glabra Willd.",
+            "id": "1390602",
+            "score": 0.01567
+        },
+        {
+            "name": "Datura metel L.",
+            "id": "1356150",
+            "score": 0.002
+        },
+        {
+            "name": "Ribes cynosbati L.",
+            "id": "1413474",
+            "score": 0.00121
+        }
+    ]
+}

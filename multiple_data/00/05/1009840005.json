@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Smyrnium olusatrum L.",
+            "id": "1360801",
+            "score": 0.678
+        },
+        {
+            "name": "Apium graveolens L.",
+            "id": "1363218",
+            "score": 0.25159
+        },
+        {
+            "name": "Ligusticum scothicum L.",
+            "id": "1737456",
+            "score": 0.0134
+        },
+        {
+            "name": "Angelica archangelica L.",
+            "id": "1397313",
+            "score": 0.00781
+        },
+        {
+            "name": "Angelica lucida L.",
+            "id": "1412445",
+            "score": 0.00246
+        }
+    ]
+}

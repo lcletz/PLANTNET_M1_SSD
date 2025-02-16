@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dipsacus fullonum L.",
+            "id": "1358454",
+            "score": 0.46804
+        },
+        {
+            "name": "Dipsacus sativus (L.) Honck.",
+            "id": "1391749",
+            "score": 0.3673
+        },
+        {
+            "name": "Dipsacus laciniatus L.",
+            "id": "1391747",
+            "score": 0.09297
+        },
+        {
+            "name": "Dipsacus pilosus L.",
+            "id": "1391748",
+            "score": 0.00484
+        },
+        {
+            "name": "Echinacea purpurea (L.) Moench",
+            "id": "1398120",
+            "score": 0.00227
+        },
+        {
+            "name": "Dipsacus strigosus Willd. ex Roem. & Schult.",
+            "id": "1399160",
+            "score": 0.00149
+        },
+        {
+            "name": "Dipsacus pinnatifidus Steud. ex A.Rich.",
+            "id": "1491339",
+            "score": 0.00111
+        }
+    ]
+}

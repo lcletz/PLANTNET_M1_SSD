@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ailanthus altissima (Mill.) Swingle",
+            "id": "1360547",
+            "score": 0.9199
+        },
+        {
+            "name": "Rhus glabra L.",
+            "id": "1397601",
+            "score": 0.02743
+        },
+        {
+            "name": "Aralia elata (Miq.) Seem.",
+            "id": "1398447",
+            "score": 0.00434
+        },
+        {
+            "name": "Apocynum androsaemifolium L.",
+            "id": "1398229",
+            "score": 0.00276
+        },
+        {
+            "name": "Rhus copallinum L.",
+            "id": "1413464",
+            "score": 0.00198
+        },
+        {
+            "name": "Aralia spinosa L.",
+            "id": "1435260",
+            "score": 0.00135
+        },
+        {
+            "name": "Apocynum cannabinum L.",
+            "id": "1412793",
+            "score": 0.00103
+        }
+    ]
+}

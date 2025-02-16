@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stachys byzantina K.Koch",
+            "id": "1396424",
+            "score": 0.90942
+        },
+        {
+            "name": "Stachys germanica L.",
+            "id": "1358939",
+            "score": 0.0156
+        },
+        {
+            "name": "Stachys cretica L.",
+            "id": "1396426",
+            "score": 0.00186
+        },
+        {
+            "name": "Phlomis purpurea L.",
+            "id": "1358852",
+            "score": 0.00108
+        },
+        {
+            "name": "Stachys tymphaea Hausskn.",
+            "id": "1399419",
+            "score": 0.00106
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cycas revoluta Thunb.",
+            "id": "1388904",
+            "score": 0.91044
+        },
+        {
+            "name": "Cycas siamensis Miq.",
+            "id": "1418604",
+            "score": 0.02239
+        },
+        {
+            "name": "Cocos nucifera L.",
+            "id": "1385873",
+            "score": 0.00269
+        },
+        {
+            "name": "Cycas circinalis L.",
+            "id": "1409268",
+            "score": 0.0023
+        },
+        {
+            "name": "Dioon edule Lindl.",
+            "id": "1409561",
+            "score": 0.00222
+        },
+        {
+            "name": "Macrozamia communis L.A.S.Johnson",
+            "id": "1420884",
+            "score": 0.0015
+        },
+        {
+            "name": "Metroxylon sagu Rottb.",
+            "id": "1417608",
+            "score": 0.00115
+        }
+    ]
+}

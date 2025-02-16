@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viola tricolor L.",
+            "id": "1356215",
+            "score": 0.74542
+        },
+        {
+            "name": "Viola × wittrockiana Gams",
+            "id": "1844934",
+            "score": 0.06415
+        },
+        {
+            "name": "Viola arvensis Murray",
+            "id": "1356214",
+            "score": 0.06403
+        },
+        {
+            "name": "Viola lutea Huds.",
+            "id": "1397161",
+            "score": 0.029
+        },
+        {
+            "name": "Viola cornuta L.",
+            "id": "1397137",
+            "score": 0.00767
+        },
+        {
+            "name": "Viola × williamsii Wittr.",
+            "id": "1844933",
+            "score": 0.00683
+        },
+        {
+            "name": "Viola hispida Lam.",
+            "id": "1397149",
+            "score": 0.00312
+        },
+        {
+            "name": "Viola calcarata L.",
+            "id": "1397129",
+            "score": 0.00202
+        },
+        {
+            "name": "Viola kitaibeliana Schult.",
+            "id": "1360869",
+            "score": 0.00171
+        },
+        {
+            "name": "Viola elatior Fr.",
+            "id": "1397142",
+            "score": 0.00126
+        }
+    ]
+}

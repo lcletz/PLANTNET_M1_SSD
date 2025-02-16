@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Agave americana L.",
+            "id": "1360898",
+            "score": 0.81654
+        },
+        {
+            "name": "Agave salmiana Otto ex Salm-Dyck",
+            "id": "1417642",
+            "score": 0.0511
+        },
+        {
+            "name": "Agave sisalana Perrine",
+            "id": "1357953",
+            "score": 0.03683
+        },
+        {
+            "name": "Agave atrovirens Karw. ex Salm-Dyck",
+            "id": "1417640",
+            "score": 0.00559
+        },
+        {
+            "name": "Agave fourcroydes Lem.",
+            "id": "1389398",
+            "score": 0.00465
+        }
+    ]
+}

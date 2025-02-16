@@ -1,0 +1,485 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salix hastata L.",
+            "id": "1397478",
+            "score": 0.05198
+        },
+        {
+            "name": "Salix repens L.",
+            "id": "1395867",
+            "score": 0.0312
+        },
+        {
+            "name": "Genista cinerea (Vill.) DC.",
+            "id": "1359205",
+            "score": 0.02502
+        },
+        {
+            "name": "Salix viminalis L.",
+            "id": "1395903",
+            "score": 0.0248
+        },
+        {
+            "name": "Haworthia cymbiformis (Haw.) Duval",
+            "id": "1699216",
+            "score": 0.01618
+        },
+        {
+            "name": "Salix caprea L.",
+            "id": "1395765",
+            "score": 0.01615
+        },
+        {
+            "name": "Salix cinerea L.",
+            "id": "1362486",
+            "score": 0.01562
+        },
+        {
+            "name": "Salix myrsinifolia Salisb.",
+            "id": "1395843",
+            "score": 0.01363
+        },
+        {
+            "name": "Persea americana Mill.",
+            "id": "1364365",
+            "score": 0.01266
+        },
+        {
+            "name": "Salix appendiculata Vill.",
+            "id": "1395742",
+            "score": 0.01224
+        },
+        {
+            "name": "Salix triandra L.",
+            "id": "1360459",
+            "score": 0.01128
+        },
+        {
+            "name": "Myrica gale L.",
+            "id": "1393906",
+            "score": 0.00958
+        },
+        {
+            "name": "Salix discolor Muhl.",
+            "id": "1413594",
+            "score": 0.00866
+        },
+        {
+            "name": "Magnolia acuminata (L.) L.",
+            "id": "1412655",
+            "score": 0.00817
+        },
+        {
+            "name": "Salix caesia Vill.",
+            "id": "1395760",
+            "score": 0.00788
+        },
+        {
+            "name": "Salix rosmarinifolia L.",
+            "id": "1397871",
+            "score": 0.00785
+        },
+        {
+            "name": "Salix helvetica Vill.",
+            "id": "1395805",
+            "score": 0.00762
+        },
+        {
+            "name": "Haworthia retusa (L.) Duval",
+            "id": "1699304",
+            "score": 0.00714
+        },
+        {
+            "name": "Yucca flaccida Haw.",
+            "id": "1409149",
+            "score": 0.00701
+        },
+        {
+            "name": "Magnolia denudata Desr.",
+            "id": "1393717",
+            "score": 0.00611
+        },
+        {
+            "name": "Salix lapponum L.",
+            "id": "1395821",
+            "score": 0.00608
+        },
+        {
+            "name": "Chlorophytum comosum (Thunb.) Jacques",
+            "id": "1407810",
+            "score": 0.00523
+        },
+        {
+            "name": "Forsythia × intermedia Zabel",
+            "id": "1844237",
+            "score": 0.00472
+        },
+        {
+            "name": "Cytisus multiflorus (L'Hér.) Sweet",
+            "id": "1361837",
+            "score": 0.00471
+        },
+        {
+            "name": "Retama monosperma (L.) Boiss.",
+            "id": "1359450",
+            "score": 0.00436
+        },
+        {
+            "name": "Adromischus cristatus (Haw.) Lem.",
+            "id": "1528279",
+            "score": 0.00435
+        },
+        {
+            "name": "Salix subopposita Miq.",
+            "id": "1420586",
+            "score": 0.00416
+        },
+        {
+            "name": "Yucca filamentosa L.",
+            "id": "1397243",
+            "score": 0.00379
+        },
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.00359
+        },
+        {
+            "name": "Erythroxylum coca Lam.",
+            "id": "1382304",
+            "score": 0.00326
+        },
+        {
+            "name": "Salix atrocinerea Brot.",
+            "id": "1360451",
+            "score": 0.00301
+        },
+        {
+            "name": "Thymelaea passerina (L.) Coss. & Germ.",
+            "id": "1396765",
+            "score": 0.00295
+        },
+        {
+            "name": "Forsythia suspensa (Thunb.) Vahl",
+            "id": "1392356",
+            "score": 0.0028
+        },
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.00269
+        },
+        {
+            "name": "Genista ausetana (O.Bolòs & Vigo) Talavera",
+            "id": "1392508",
+            "score": 0.00266
+        },
+        {
+            "name": "Salix obscura Andersson",
+            "id": "1684145",
+            "score": 0.00262
+        },
+        {
+            "name": "Sporobolus rigidus (Buckley) P.M.Peterson",
+            "id": "1815418",
+            "score": 0.00249
+        },
+        {
+            "name": "Puya alpestris (Poepp.) Gay",
+            "id": "1418131",
+            "score": 0.00247
+        },
+        {
+            "name": "Genista aspalathoides Lam.",
+            "id": "1359200",
+            "score": 0.00242
+        },
+        {
+            "name": "Salix acutifolia Willd.",
+            "id": "1398574",
+            "score": 0.00235
+        },
+        {
+            "name": "Magnolia stellata (Siebold & Zucc.) Maxim.",
+            "id": "1393722",
+            "score": 0.00234
+        },
+        {
+            "name": "Macrozamia moorei F.Muell.",
+            "id": "1420888",
+            "score": 0.00232
+        },
+        {
+            "name": "Vaccinium myrtillus L.",
+            "id": "1361801",
+            "score": 0.00231
+        },
+        {
+            "name": "Spartium junceum L.",
+            "id": "1363706",
+            "score": 0.00218
+        },
+        {
+            "name": "Haworthia truncata Schönland",
+            "id": "1699326",
+            "score": 0.00213
+        },
+        {
+            "name": "Cytisus × praecox Bean",
+            "id": "1844129",
+            "score": 0.0021
+        },
+        {
+            "name": "Hibiscus syriacus L.",
+            "id": "1392770",
+            "score": 0.00208
+        },
+        {
+            "name": "Haworthia cooperi Baker",
+            "id": "1699211",
+            "score": 0.00204
+        },
+        {
+            "name": "Anthemis maritima L.",
+            "id": "1357227",
+            "score": 0.00201
+        },
+        {
+            "name": "Magnolia × soulangeana Soul.-Bod.",
+            "id": "1591282",
+            "score": 0.00199
+        },
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.00198
+        },
+        {
+            "name": "Magnolia liliiflora Desr.",
+            "id": "1397622",
+            "score": 0.00192
+        },
+        {
+            "name": "Forsythia viridissima Lindl.",
+            "id": "1398098",
+            "score": 0.00191
+        },
+        {
+            "name": "Genista spartioides Spach",
+            "id": "1359218",
+            "score": 0.00188
+        },
+        {
+            "name": "Sericocomopsis hildebrandtii Schinz",
+            "id": "1366250",
+            "score": 0.00184
+        },
+        {
+            "name": "Genista florida L.",
+            "id": "1359208",
+            "score": 0.0018
+        },
+        {
+            "name": "Eragrostis racemosa (Thunb.) Steud.",
+            "id": "1365434",
+            "score": 0.00174
+        },
+        {
+            "name": "Cytisus oromediterraneus Rivas Mart. & al.",
+            "id": "1391542",
+            "score": 0.00174
+        },
+        {
+            "name": "Genista hystrix Lange",
+            "id": "1578131",
+            "score": 0.0017
+        },
+        {
+            "name": "Retama raetam (Forssk.) Webb & Berthel.",
+            "id": "1745722",
+            "score": 0.00166
+        },
+        {
+            "name": "Prunus tomentosa Thunb.",
+            "id": "1413354",
+            "score": 0.00163
+        },
+        {
+            "name": "Zingiber officinale Roscoe",
+            "id": "1383765",
+            "score": 0.00161
+        },
+        {
+            "name": "Osyris alba L.",
+            "id": "1364049",
+            "score": 0.00161
+        },
+        {
+            "name": "Dendrocalamus giganteus Munro",
+            "id": "1408976",
+            "score": 0.00159
+        },
+        {
+            "name": "Cytisus scoparius (L.) Link",
+            "id": "1363728",
+            "score": 0.00159
+        },
+        {
+            "name": "Salix daphnoides Vill.",
+            "id": "1395778",
+            "score": 0.00159
+        },
+        {
+            "name": "Distylium myricoides Hemsl.",
+            "id": "1554526",
+            "score": 0.00152
+        },
+        {
+            "name": "Salix phylicifolia L.",
+            "id": "1395853",
+            "score": 0.00151
+        },
+        {
+            "name": "Asphodelus fistulosus L.",
+            "id": "1361017",
+            "score": 0.00149
+        },
+        {
+            "name": "Quercus nigra L.",
+            "id": "1389501",
+            "score": 0.00149
+        },
+        {
+            "name": "Salix integra Thunb.",
+            "id": "1420567",
+            "score": 0.00148
+        },
+        {
+            "name": "Salix aurita L.",
+            "id": "1395745",
+            "score": 0.00139
+        },
+        {
+            "name": "Wisteria sinensis (Sims) DC.",
+            "id": "1422166",
+            "score": 0.00139
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.00133
+        },
+        {
+            "name": "Bambusa multiplex (Lour.) Raeusch. ex Schult.f.",
+            "id": "1718534",
+            "score": 0.00131
+        },
+        {
+            "name": "Salix sitchensis Sanson ex Bong.",
+            "id": "1413642",
+            "score": 0.00128
+        },
+        {
+            "name": "Ulmus americana L.",
+            "id": "1390323",
+            "score": 0.00124
+        },
+        {
+            "name": "Salix purpurea L.",
+            "id": "1360457",
+            "score": 0.00123
+        },
+        {
+            "name": "Salix babylonica L.",
+            "id": "1360452",
+            "score": 0.00121
+        },
+        {
+            "name": "Jasminum nudiflorum Lindl.",
+            "id": "1393331",
+            "score": 0.00121
+        },
+        {
+            "name": "Genista hispanica L.",
+            "id": "1392516",
+            "score": 0.00121
+        },
+        {
+            "name": "Quercus pubescens Willd.",
+            "id": "1395026",
+            "score": 0.00119
+        },
+        {
+            "name": "Pleione praecox (Sm.) D.Don",
+            "id": "1630549",
+            "score": 0.00115
+        },
+        {
+            "name": "Diospyros kaki L.f.",
+            "id": "1391735",
+            "score": 0.00114
+        },
+        {
+            "name": "Lindera umbellata Thunb.",
+            "id": "1419306",
+            "score": 0.00113
+        },
+        {
+            "name": "Salix acmophylla Boiss.",
+            "id": "1425498",
+            "score": 0.00112
+        },
+        {
+            "name": "Dendrocalamus latiflorus Munro",
+            "id": "1420011",
+            "score": 0.00112
+        },
+        {
+            "name": "Petiveria alliacea L.",
+            "id": "1376703",
+            "score": 0.00112
+        },
+        {
+            "name": "Castanea dentata (Marshall) Borkh.",
+            "id": "1411348",
+            "score": 0.0011
+        },
+        {
+            "name": "Eragrostis superba Peyr.",
+            "id": "1365439",
+            "score": 0.00109
+        },
+        {
+            "name": "Populus balsamifera L.",
+            "id": "1394775",
+            "score": 0.00108
+        },
+        {
+            "name": "Salix laggeri Wimm.",
+            "id": "1395820",
+            "score": 0.00104
+        },
+        {
+            "name": "Arenaria serpyllifolia L.",
+            "id": "1362019",
+            "score": 0.00102
+        },
+        {
+            "name": "Wisteria floribunda (Willd.) DC.",
+            "id": "1397228",
+            "score": 0.00101
+        },
+        {
+            "name": "Haworthia turgida Haw.",
+            "id": "1699327",
+            "score": 0.00101
+        },
+        {
+            "name": "Anthericum liliago L.",
+            "id": "1360998",
+            "score": 0.001
+        }
+    ]
+}

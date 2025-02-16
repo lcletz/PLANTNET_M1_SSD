@@ -1,0 +1,150 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.92783
+        },
+        {
+            "name": "Betula utilis D.Don",
+            "id": "1400127",
+            "score": 0.34505
+        },
+        {
+            "name": "Betula pendula Roth",
+            "id": "1356609",
+            "score": 0.14561
+        },
+        {
+            "name": "Ostrya carpinifolia Scop.",
+            "id": "1394357",
+            "score": 0.12208
+        },
+        {
+            "name": "Betula papyrifera Marshall",
+            "id": "1398459",
+            "score": 0.0195
+        },
+        {
+            "name": "Carpinus caroliniana Walter",
+            "id": "1411338",
+            "score": 0.01743
+        },
+        {
+            "name": "Fagus grandifolia Ehrh.",
+            "id": "1412056",
+            "score": 0.0172
+        },
+        {
+            "name": "Betula nigra L.",
+            "id": "1390590",
+            "score": 0.01703
+        },
+        {
+            "name": "Carpinus orientalis Mill.",
+            "id": "1398832",
+            "score": 0.01228
+        },
+        {
+            "name": "Betula pubescens Ehrh.",
+            "id": "1362746",
+            "score": 0.00997
+        },
+        {
+            "name": "Alnus incana (L.) Moench",
+            "id": "1397308",
+            "score": 0.00882
+        },
+        {
+            "name": "Zelkova serrata (Thunb.) Makino",
+            "id": "1398535",
+            "score": 0.00469
+        },
+        {
+            "name": "Ulmus americana L.",
+            "id": "1390323",
+            "score": 0.00462
+        },
+        {
+            "name": "Castanea sativa Mill.",
+            "id": "1358610",
+            "score": 0.00443
+        },
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.00337
+        },
+        {
+            "name": "Alnus glutinosa (L.) Gaertn.",
+            "id": "1356608",
+            "score": 0.00288
+        },
+        {
+            "name": "Betula alleghaniensis Britton",
+            "id": "1389062",
+            "score": 0.00287
+        },
+        {
+            "name": "Carpinus kawakamii Hayata",
+            "id": "1476265",
+            "score": 0.00225
+        },
+        {
+            "name": "Ulmus laevis Pall.",
+            "id": "1396951",
+            "score": 0.0021
+        },
+        {
+            "name": "Ulmus pumila L.",
+            "id": "1390603",
+            "score": 0.00201
+        },
+        {
+            "name": "Ostrya virginiana (Mill.) K.Koch",
+            "id": "1476305",
+            "score": 0.00181
+        },
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.00163
+        },
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.00157
+        },
+        {
+            "name": "Prunus serrulata Lindl.",
+            "id": "1394953",
+            "score": 0.00155
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.00147
+        },
+        {
+            "name": "Acer carpinifolium Siebold & Zucc.",
+            "id": "1420595",
+            "score": 0.00142
+        },
+        {
+            "name": "Alnus acuminata Kunth",
+            "id": "1423353",
+            "score": 0.00139
+        },
+        {
+            "name": "Ulmus minor Mill.",
+            "id": "1360607",
+            "score": 0.00109
+        },
+        {
+            "name": "Aria edulis (Willd.) M.Roem.",
+            "id": "1737559",
+            "score": 0.00106
+        }
+    ]
+}

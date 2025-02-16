@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Epilobium hirsutum L.",
+            "id": "1361947",
+            "score": 0.95509
+        },
+        {
+            "name": "Epilobium parviflorum Schreb.",
+            "id": "1359686",
+            "score": 0.0082
+        },
+        {
+            "name": "Epilobium tetragonum L.",
+            "id": "1359688",
+            "score": 0.00178
+        },
+        {
+            "name": "Epilobium ciliatum Raf.",
+            "id": "1391890",
+            "score": 0.00152
+        },
+        {
+            "name": "Mimulus ringens L.",
+            "id": "1390340",
+            "score": 0.00128
+        },
+        {
+            "name": "Epilobium alpestre (Jacq.) Krock.",
+            "id": "1391876",
+            "score": 0.00115
+        }
+    ]
+}

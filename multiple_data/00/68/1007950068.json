@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rubia peregrina L.",
+            "id": "1360433",
+            "score": 0.81868
+        },
+        {
+            "name": "Rubia tinctorum L.",
+            "id": "1360434",
+            "score": 0.07911
+        },
+        {
+            "name": "Galium palustre L.",
+            "id": "1360406",
+            "score": 0.0025
+        },
+        {
+            "name": "Galium aparine L.",
+            "id": "1360385",
+            "score": 0.00174
+        },
+        {
+            "name": "Jasminum nudiflorum Lindl.",
+            "id": "1393331",
+            "score": 0.00153
+        },
+        {
+            "name": "Galium mollugo L.",
+            "id": "1360399",
+            "score": 0.00143
+        },
+        {
+            "name": "Galium laevigatum L.",
+            "id": "1392465",
+            "score": 0.00127
+        }
+    ]
+}

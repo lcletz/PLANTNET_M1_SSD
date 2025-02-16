@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia helioscopia L.",
+            "id": "1355964",
+            "score": 0.93618
+        },
+        {
+            "name": "Euphorbia peplus L.",
+            "id": "1355969",
+            "score": 0.00646
+        },
+        {
+            "name": "Euphorbia amygdaloides L.",
+            "id": "1358525",
+            "score": 0.00541
+        },
+        {
+            "name": "Sedum ternatum Michx.",
+            "id": "1413757",
+            "score": 0.00441
+        },
+        {
+            "name": "Euphorbia segetalis L.",
+            "id": "1358590",
+            "score": 0.003
+        },
+        {
+            "name": "Portulaca oleracea L.",
+            "id": "1360141",
+            "score": 0.00267
+        },
+        {
+            "name": "Euphorbia cuneifolia Guss.",
+            "id": "1358547",
+            "score": 0.00184
+        }
+    ]
+}

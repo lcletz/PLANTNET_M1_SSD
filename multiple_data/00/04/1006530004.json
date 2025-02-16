@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus serotina Ehrh.",
+            "id": "1370859",
+            "score": 0.79432
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.05876
+        },
+        {
+            "name": "Prunus lusitanica L.",
+            "id": "1360322",
+            "score": 0.05353
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.00957
+        },
+        {
+            "name": "Prunus laurocerasus L.",
+            "id": "1394952",
+            "score": 0.00285
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.00212
+        },
+        {
+            "name": "Aronia melanocarpa (Michx.) Elliott",
+            "id": "1398450",
+            "score": 0.00178
+        }
+    ]
+}

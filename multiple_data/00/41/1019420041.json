@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Calluna vulgaris (L.) Hull",
+            "id": "1358501",
+            "score": 0.74177
+        },
+        {
+            "name": "Erica cinerea L.",
+            "id": "1358507",
+            "score": 0.03601
+        },
+        {
+            "name": "Erica vagans L.",
+            "id": "1361800",
+            "score": 0.02809
+        },
+        {
+            "name": "Erica carnea L.",
+            "id": "1358505",
+            "score": 0.01402
+        },
+        {
+            "name": "Erica multiflora L.",
+            "id": "1358509",
+            "score": 0.0069
+        },
+        {
+            "name": "Erica tetralix L.",
+            "id": "1392025",
+            "score": 0.00218
+        },
+        {
+            "name": "Erica erigena R.Ross",
+            "id": "1392023",
+            "score": 0.00141
+        },
+        {
+            "name": "Achyranthes aspera L.",
+            "id": "1356469",
+            "score": 0.00102
+        }
+    ]
+}

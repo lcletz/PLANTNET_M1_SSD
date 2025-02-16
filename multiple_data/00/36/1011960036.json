@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.92028
+        },
+        {
+            "name": "Aesculus glabra Willd.",
+            "id": "1390602",
+            "score": 0.01723
+        },
+        {
+            "name": "Castanea sativa Mill.",
+            "id": "1358610",
+            "score": 0.00793
+        },
+        {
+            "name": "Caloncoba welwitschii (Oliv.) Gilg",
+            "id": "1447571",
+            "score": 0.00332
+        },
+        {
+            "name": "Aesculus × carnea Zeyh.",
+            "id": "1420608",
+            "score": 0.00297
+        },
+        {
+            "name": "Castanea crenata Siebold & Zucc.",
+            "id": "1390962",
+            "score": 0.0024
+        },
+        {
+            "name": "Aesculus pavia L.",
+            "id": "1389544",
+            "score": 0.00139
+        },
+        {
+            "name": "Bixa orellana L.",
+            "id": "1377104",
+            "score": 0.0011
+        }
+    ]
+}

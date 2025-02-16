@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Datura stramonium L.",
+            "id": "1360549",
+            "score": 0.76914
+        },
+        {
+            "name": "Datura ferox L.",
+            "id": "1356149",
+            "score": 0.08284
+        },
+        {
+            "name": "Datura metel L.",
+            "id": "1356150",
+            "score": 0.01561
+        },
+        {
+            "name": "Physalis angulata L.",
+            "id": "1356152",
+            "score": 0.0063
+        },
+        {
+            "name": "Datura innoxia Mill.",
+            "id": "1391658",
+            "score": 0.00293
+        },
+        {
+            "name": "Datura quercifolia Kunth",
+            "id": "1420712",
+            "score": 0.00222
+        },
+        {
+            "name": "Datura wrightii Regel",
+            "id": "1399913",
+            "score": 0.00197
+        },
+        {
+            "name": "Datura discolor Bernh.",
+            "id": "1442346",
+            "score": 0.00105
+        }
+    ]
+}

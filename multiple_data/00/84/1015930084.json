@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Heuchera sanguinea Engelm.",
+            "id": "1398623",
+            "score": 0.66507
+        },
+        {
+            "name": "Heuchera americana L.",
+            "id": "1412250",
+            "score": 0.02273
+        },
+        {
+            "name": "Heuchera villosa Michx.",
+            "id": "1432925",
+            "score": 0.00475
+        },
+        {
+            "name": "Heuchera maxima Greene",
+            "id": "1432916",
+            "score": 0.00363
+        },
+        {
+            "name": "Tellima grandiflora (Pursh) Douglas ex Lindl.",
+            "id": "1396714",
+            "score": 0.00208
+        },
+        {
+            "name": "Heuchera longiflora Rydb.",
+            "id": "1432915",
+            "score": 0.00166
+        },
+        {
+            "name": "Heuchera rubescens Torr.",
+            "id": "1432924",
+            "score": 0.00104
+        }
+    ]
+}

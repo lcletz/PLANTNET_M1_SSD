@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Mirabilis jalapa L.",
+            "id": "1362100",
+            "score": 0.85279
+        },
+        {
+            "name": "Mirabilis longiflora L.",
+            "id": "1393843",
+            "score": 0.00691
+        },
+        {
+            "name": "Mirabilis nyctaginea (Michx.) MacMill.",
+            "id": "1412734",
+            "score": 0.00394
+        },
+        {
+            "name": "Vincetoxicum hirundinaria Medik.",
+            "id": "1356597",
+            "score": 0.00194
+        },
+        {
+            "name": "Nicotiana tabacum L.",
+            "id": "1356159",
+            "score": 0.00156
+        }
+    ]
+}

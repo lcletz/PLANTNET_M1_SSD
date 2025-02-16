@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Saponaria officinalis L.",
+            "id": "1356803",
+            "score": 0.96582
+        },
+        {
+            "name": "Saponaria caespitosa DC.",
+            "id": "1395928",
+            "score": 0.00368
+        },
+        {
+            "name": "Phlox divaricata L.",
+            "id": "1413047",
+            "score": 0.00275
+        },
+        {
+            "name": "Phlox maculata L.",
+            "id": "1413052",
+            "score": 0.00255
+        },
+        {
+            "name": "Saponaria ocymoides L.",
+            "id": "1361747",
+            "score": 0.00183
+        }
+    ]
+}

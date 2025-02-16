@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Nasturtium officinale R.Br.",
+            "id": "1393940",
+            "score": 0.44913
+        },
+        {
+            "name": "Nasturtium microphyllum (Boenn. ex Rchb.) Rchb.",
+            "id": "1418081",
+            "score": 0.00661
+        },
+        {
+            "name": "Lobularia maritima (L.) Desv.",
+            "id": "1363882",
+            "score": 0.00252
+        },
+        {
+            "name": "Iberis amara L.",
+            "id": "1358322",
+            "score": 0.00207
+        },
+        {
+            "name": "Bidens pilosa L.",
+            "id": "1364143",
+            "score": 0.00176
+        },
+        {
+            "name": "Conium maculatum L.",
+            "id": "1363216",
+            "score": 0.00147
+        }
+    ]
+}

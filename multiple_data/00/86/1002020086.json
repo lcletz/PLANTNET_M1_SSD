@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium campestre Schreb.",
+            "id": "1359488",
+            "score": 0.77019
+        },
+        {
+            "name": "Trifolium aureum Pollich",
+            "id": "1359486",
+            "score": 0.10644
+        },
+        {
+            "name": "Trifolium dubium Sibth.",
+            "id": "1363737",
+            "score": 0.00357
+        },
+        {
+            "name": "Trifolium patens Schreb.",
+            "id": "1359514",
+            "score": 0.00218
+        },
+        {
+            "name": "Trifolium alexandrinum L.",
+            "id": "1363735",
+            "score": 0.00212
+        },
+        {
+            "name": "Trifolium resupinatum L.",
+            "id": "1359519",
+            "score": 0.00107
+        }
+    ]
+}

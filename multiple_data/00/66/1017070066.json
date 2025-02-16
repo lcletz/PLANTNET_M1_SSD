@@ -1,0 +1,415 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Azara integrifolia Ruiz & Pav.",
+            "id": "1683427",
+            "score": 0.07746
+        },
+        {
+            "name": "Viburnum rugosum Pers.",
+            "id": "1722512",
+            "score": 0.02918
+        },
+        {
+            "name": "Cordia americana (L.) Gottschling & J.S.Mill.",
+            "id": "1477359",
+            "score": 0.02381
+        },
+        {
+            "name": "Quercus virginiana Mill.",
+            "id": "1419081",
+            "score": 0.02364
+        },
+        {
+            "name": "Ligustrum vulgare L.",
+            "id": "1359675",
+            "score": 0.02185
+        },
+        {
+            "name": "Cryptocarya alba (Molina) Looser",
+            "id": "1565838",
+            "score": 0.02089
+        },
+        {
+            "name": "Osmanthus × burkwoodii (Burkwood & Skipwith) P.S.Green",
+            "id": "1844510",
+            "score": 0.01773
+        },
+        {
+            "name": "Cestrum elegans (Brongn. ex Neumann) Schltdl.",
+            "id": "1407798",
+            "score": 0.01652
+        },
+        {
+            "name": "Cestrum parqui (Lam.) L'Hér.",
+            "id": "1420711",
+            "score": 0.01331
+        },
+        {
+            "name": "Osmanthus fragrans Lour.",
+            "id": "1394028",
+            "score": 0.01231
+        },
+        {
+            "name": "Lonicera periclymenum L.",
+            "id": "1356790",
+            "score": 0.01136
+        },
+        {
+            "name": "Lonicera acuminata Wall.",
+            "id": "1429199",
+            "score": 0.01051
+        },
+        {
+            "name": "Ugni molinae Turcz.",
+            "id": "1419592",
+            "score": 0.00864
+        },
+        {
+            "name": "Quercus semecarpifolia Sm.",
+            "id": "1548483",
+            "score": 0.00849
+        },
+        {
+            "name": "Quercus geminata Small",
+            "id": "1437110",
+            "score": 0.00837
+        },
+        {
+            "name": "Myrica faya Aiton",
+            "id": "1399738",
+            "score": 0.00787
+        },
+        {
+            "name": "Ixora chinensis Lam.",
+            "id": "1371943",
+            "score": 0.00778
+        },
+        {
+            "name": "Quercus phillyreoides A.Gray",
+            "id": "1548429",
+            "score": 0.00719
+        },
+        {
+            "name": "Crinodendron hookerianum Gay",
+            "id": "1418677",
+            "score": 0.00712
+        },
+        {
+            "name": "Burchellia bubalina (L.f.) Sims",
+            "id": "1671168",
+            "score": 0.0067
+        },
+        {
+            "name": "Ilex canariensis Poir.",
+            "id": "1356577",
+            "score": 0.00599
+        },
+        {
+            "name": "Laurus azorica (Seub.) Franco",
+            "id": "1359057",
+            "score": 0.0059
+        },
+        {
+            "name": "Combretum constrictum (Benth.) M.A.Lawson",
+            "id": "1424445",
+            "score": 0.00488
+        },
+        {
+            "name": "Quercus spinosa David",
+            "id": "1548500",
+            "score": 0.00479
+        },
+        {
+            "name": "Quercus agrifolia Née",
+            "id": "1419070",
+            "score": 0.00428
+        },
+        {
+            "name": "Psorospermum febrifugum Spach",
+            "id": "1373912",
+            "score": 0.00365
+        },
+        {
+            "name": "Quercus sapotifolia Liebm.",
+            "id": "1548471",
+            "score": 0.0034
+        },
+        {
+            "name": "Gaultheria domingensis Urb.",
+            "id": "1410181",
+            "score": 0.00334
+        },
+        {
+            "name": "Xanthostemon ferrugineus J.W.Dawson",
+            "id": "1607941",
+            "score": 0.0033
+        },
+        {
+            "name": "Barleria lupulina Lindl.",
+            "id": "1404999",
+            "score": 0.00303
+        },
+        {
+            "name": "Volkameria glabra (E.Mey.) Mabb. & Y.W.Yuan",
+            "id": "1419295",
+            "score": 0.00286
+        },
+        {
+            "name": "Persea barbujana (Cav.) Mabb. & Nieto Fel.",
+            "id": "1722629",
+            "score": 0.00283
+        },
+        {
+            "name": "Bourreria quirosii Standl.",
+            "id": "1477311",
+            "score": 0.00263
+        },
+        {
+            "name": "Quercus lusitanica Lam.",
+            "id": "1358615",
+            "score": 0.0026
+        },
+        {
+            "name": "Rhododendron augustinii Hemsl.",
+            "id": "1395176",
+            "score": 0.00258
+        },
+        {
+            "name": "Picconia excelsa (Aiton) DC.",
+            "id": "1419636",
+            "score": 0.00256
+        },
+        {
+            "name": "Myrica pensylvanica Mirb.",
+            "id": "1602514",
+            "score": 0.00249
+        },
+        {
+            "name": "Coffea racemosa Lour.",
+            "id": "1371449",
+            "score": 0.00236
+        },
+        {
+            "name": "Rhododendron racemosum Franch.",
+            "id": "1540393",
+            "score": 0.00232
+        },
+        {
+            "name": "Temu cruckshanksii (Hook. & Arn.) O.Berg",
+            "id": "1842759",
+            "score": 0.00222
+        },
+        {
+            "name": "Hymenocardia acida Tul.",
+            "id": "1431809",
+            "score": 0.00221
+        },
+        {
+            "name": "Phillyrea latifolia L.",
+            "id": "1359678",
+            "score": 0.00219
+        },
+        {
+            "name": "Rhododendron aureum Georgi",
+            "id": "1540018",
+            "score": 0.00204
+        },
+        {
+            "name": "Lonicera caprifolium L.",
+            "id": "1393632",
+            "score": 0.002
+        },
+        {
+            "name": "Lonicera × americana (Mill.) K.Koch",
+            "id": "1738647",
+            "score": 0.00192
+        },
+        {
+            "name": "Chassalia bojeri Bremek.",
+            "id": "1671381",
+            "score": 0.00189
+        },
+        {
+            "name": "Rhododendron ponticum L.",
+            "id": "1358517",
+            "score": 0.00183
+        },
+        {
+            "name": "Viburnum treleasei Gand.",
+            "id": "1748131",
+            "score": 0.00178
+        },
+        {
+            "name": "Quercus oglethorpensis W.H.Duncan",
+            "id": "1548401",
+            "score": 0.00176
+        },
+        {
+            "name": "Quercus sinuata Walter",
+            "id": "1437151",
+            "score": 0.00165
+        },
+        {
+            "name": "Quercus imbricaria Michx.",
+            "id": "1419073",
+            "score": 0.00163
+        },
+        {
+            "name": "Pittosporum heterophyllum Franch.",
+            "id": "1390596",
+            "score": 0.00161
+        },
+        {
+            "name": "Rhododendron heliolepis Franch.",
+            "id": "1418763",
+            "score": 0.0016
+        },
+        {
+            "name": "Protea coronata Lam.",
+            "id": "1662507",
+            "score": 0.0016
+        },
+        {
+            "name": "Rhododendron polylepis Franch.",
+            "id": "1540362",
+            "score": 0.00151
+        },
+        {
+            "name": "Elaeagnus commutata Bernh. ex Rydb.",
+            "id": "1411845",
+            "score": 0.00147
+        },
+        {
+            "name": "Ligustrum japonicum Thunb.",
+            "id": "1397735",
+            "score": 0.00146
+        },
+        {
+            "name": "Escallonia resinosa (Ruiz & Pav.) Pers.",
+            "id": "1423510",
+            "score": 0.00141
+        },
+        {
+            "name": "Eugenia stipitata McVaugh",
+            "id": "1419558",
+            "score": 0.0014
+        },
+        {
+            "name": "Albraunia foveopilosa Speta",
+            "id": "1645848",
+            "score": 0.0014
+        },
+        {
+            "name": "Sloanea terniflora (Moc. & Sessé ex DC.) Standl.",
+            "id": "1401620",
+            "score": 0.00139
+        },
+        {
+            "name": "Hypericum frondosum Michx.",
+            "id": "1419197",
+            "score": 0.00138
+        },
+        {
+            "name": "Lonicera crassifolia Batalin",
+            "id": "1491399",
+            "score": 0.00136
+        },
+        {
+            "name": "Breonia havilandiana Homolle",
+            "id": "1671147",
+            "score": 0.00132
+        },
+        {
+            "name": "Amaioua guianensis Aubl.",
+            "id": "1403247",
+            "score": 0.00129
+        },
+        {
+            "name": "Rhododendron neriiflorum Franch.",
+            "id": "1418777",
+            "score": 0.00129
+        },
+        {
+            "name": "Pavetta hookeriana Hiern",
+            "id": "1677289",
+            "score": 0.00128
+        },
+        {
+            "name": "Osmanthus delavayi Franch.",
+            "id": "1419635",
+            "score": 0.00126
+        },
+        {
+            "name": "Lonicera implexa Aiton",
+            "id": "1356785",
+            "score": 0.00126
+        },
+        {
+            "name": "Quercus monimotricha (Hand.-Mazz.) Hand.-Mazz.",
+            "id": "1548377",
+            "score": 0.00125
+        },
+        {
+            "name": "Monnina salicifolia Ruiz & Pav.",
+            "id": "1656977",
+            "score": 0.00124
+        },
+        {
+            "name": "Ixora coccinea L.",
+            "id": "1371944",
+            "score": 0.00121
+        },
+        {
+            "name": "Pittosporum cherrieri Tirel & Veillon",
+            "id": "1416881",
+            "score": 0.00118
+        },
+        {
+            "name": "Shepherdia canadensis (L.) Nutt.",
+            "id": "1413779",
+            "score": 0.00117
+        },
+        {
+            "name": "Oenothera fruticosa L.",
+            "id": "1398605",
+            "score": 0.00113
+        },
+        {
+            "name": "Phytolacca icosandra L.",
+            "id": "1406199",
+            "score": 0.00109
+        },
+        {
+            "name": "Senecio triangularis Hook.",
+            "id": "1413773",
+            "score": 0.00109
+        },
+        {
+            "name": "Diospyros texana Scheele",
+            "id": "1418670",
+            "score": 0.00108
+        },
+        {
+            "name": "Rotheca microphylla (Blume) Callm. & Phillipson",
+            "id": "1752068",
+            "score": 0.00106
+        },
+        {
+            "name": "Quercus phellos L.",
+            "id": "1437142",
+            "score": 0.00106
+        },
+        {
+            "name": "Rothmannia capensis Thunb.",
+            "id": "1371849",
+            "score": 0.00104
+        },
+        {
+            "name": "Chassalia acutiflora Bremek.",
+            "id": "1671369",
+            "score": 0.001
+        }
+    ]
+}

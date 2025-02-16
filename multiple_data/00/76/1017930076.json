@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hordeum vulgare L.",
+            "id": "1363481",
+            "score": 0.87663
+        },
+        {
+            "name": "Triticum turgidum L.",
+            "id": "1363487",
+            "score": 0.02362
+        },
+        {
+            "name": "Triticum aestivum L.",
+            "id": "1363483",
+            "score": 0.00259
+        },
+        {
+            "name": "Hordeum distichon L.",
+            "id": "1651903",
+            "score": 0.00173
+        }
+    ]
+}

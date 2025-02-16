@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rosa multiflora Thunb.",
+            "id": "1360345",
+            "score": 0.84888
+        },
+        {
+            "name": "Rosa moschata Herrm.",
+            "id": "1360344",
+            "score": 0.05188
+        },
+        {
+            "name": "Rosa sempervirens L.",
+            "id": "1360348",
+            "score": 0.03298
+        },
+        {
+            "name": "Rosa arvensis Huds.",
+            "id": "1395253",
+            "score": 0.01739
+        },
+        {
+            "name": "Rosa setigera Michx.",
+            "id": "1395350",
+            "score": 0.00482
+        },
+        {
+            "name": "Rosa filipes Rehder & E.H.Wilson",
+            "id": "1668227",
+            "score": 0.00133
+        }
+    ]
+}

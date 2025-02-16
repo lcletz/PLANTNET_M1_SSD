@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Geum urbanum L.",
+            "id": "1360300",
+            "score": 0.72898
+        },
+        {
+            "name": "Geum macrophyllum Willd.",
+            "id": "1398509",
+            "score": 0.20654
+        },
+        {
+            "name": "Sanicula canadensis L.",
+            "id": "1413660",
+            "score": 0.02638
+        },
+        {
+            "name": "Geum aleppicum Jacq.",
+            "id": "1412165",
+            "score": 0.01235
+        },
+        {
+            "name": "Geum laciniatum Murray",
+            "id": "1392604",
+            "score": 0.00837
+        },
+        {
+            "name": "Geum rivale L.",
+            "id": "1392614",
+            "score": 0.00374
+        }
+    ]
+}

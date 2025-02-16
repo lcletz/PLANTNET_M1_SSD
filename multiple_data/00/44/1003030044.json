@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Parthenocissus tricuspidata (Siebold & Zucc.) Planch.",
+            "id": "1360884",
+            "score": 0.71724
+        },
+        {
+            "name": "Parthenocissus quinquefolia (L.) Planch.",
+            "id": "1394423",
+            "score": 0.18529
+        },
+        {
+            "name": "Ligustrum lucidum W.T.Aiton",
+            "id": "1393525",
+            "score": 0.00396
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.00288
+        },
+        {
+            "name": "Vitis arizonica Engelm.",
+            "id": "1420836",
+            "score": 0.00221
+        },
+        {
+            "name": "Cissus erosa Rich.",
+            "id": "1403710",
+            "score": 0.00194
+        },
+        {
+            "name": "Sambucus ebulus L.",
+            "id": "1356276",
+            "score": 0.00161
+        },
+        {
+            "name": "Vitis vinifera L.",
+            "id": "1356217",
+            "score": 0.00122
+        }
+    ]
+}

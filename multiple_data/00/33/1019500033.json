@@ -1,0 +1,45 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.05423
+        },
+        {
+            "name": "Alnus incana (L.) Moench",
+            "id": "1397308",
+            "score": 0.00409
+        },
+        {
+            "name": "Rhamnus alpina L.",
+            "id": "1360261",
+            "score": 0.00298
+        },
+        {
+            "name": "Rubus elegantispinosus (A.Schumach.) H.E.Weber",
+            "id": "1395466",
+            "score": 0.00187
+        },
+        {
+            "name": "Alnus alnobetula (Ehrh.) K.Koch",
+            "id": "1392943",
+            "score": 0.00172
+        },
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.00168
+        },
+        {
+            "name": "Ostrya carpinifolia Scop.",
+            "id": "1394357",
+            "score": 0.00138
+        },
+        {
+            "name": "Ulmus glabra Huds.",
+            "id": "1397552",
+            "score": 0.00127
+        }
+    ]
+}

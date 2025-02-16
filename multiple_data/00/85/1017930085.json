@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.69187
+        },
+        {
+            "name": "Phalaris arundinacea L.",
+            "id": "1363490",
+            "score": 0.21564
+        },
+        {
+            "name": "Holcus lanatus L.",
+            "id": "1363460",
+            "score": 0.00591
+        },
+        {
+            "name": "Lolium perenne L.",
+            "id": "1363475",
+            "score": 0.00553
+        },
+        {
+            "name": "Bromus hordeaceus L.",
+            "id": "1356286",
+            "score": 0.0047
+        },
+        {
+            "name": "Lolium arundinaceum (Schreb.) Darbysh.",
+            "id": "1720971",
+            "score": 0.00441
+        },
+        {
+            "name": "Phalaris canariensis L.",
+            "id": "1363491",
+            "score": 0.00436
+        },
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.00323
+        },
+        {
+            "name": "Poa annua L.",
+            "id": "1363455",
+            "score": 0.00149
+        },
+        {
+            "name": "Lolium multiflorum Lam.",
+            "id": "1363474",
+            "score": 0.00117
+        }
+    ]
+}

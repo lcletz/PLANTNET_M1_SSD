@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cerastium arvense L.",
+            "id": "1356817",
+            "score": 0.69185
+        },
+        {
+            "name": "Cerastium alpinum L.",
+            "id": "1391074",
+            "score": 0.28275
+        },
+        {
+            "name": "Cerastium lineare All.",
+            "id": "1391080",
+            "score": 0.00215
+        },
+        {
+            "name": "Dichodon cerastoides (L.) Rchb.",
+            "id": "1738042",
+            "score": 0.00208
+        },
+        {
+            "name": "Stellaria palustris Ehrh. ex Hoffm.",
+            "id": "1721301",
+            "score": 0.00139
+        },
+        {
+            "name": "Rabelera holostea (L.) M.T.Sharples & E.A.Tripp",
+            "id": "1737674",
+            "score": 0.00101
+        }
+    ]
+}

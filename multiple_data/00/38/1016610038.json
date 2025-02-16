@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Quercus petraea Liebl.",
+            "id": "1395032",
+            "score": 0.5494
+        },
+        {
+            "name": "Quercus pubescens Willd.",
+            "id": "1395026",
+            "score": 0.11795
+        },
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.00724
+        },
+        {
+            "name": "Populus tremula L.",
+            "id": "1360449",
+            "score": 0.00514
+        },
+        {
+            "name": "Abies alba Mill.",
+            "id": "1397299",
+            "score": 0.0006
+        },
+        {
+            "name": "Hedera helix L.",
+            "id": "1363575",
+            "score": 0.00053
+        },
+        {
+            "name": "Acer platanoides L.",
+            "id": "1397301",
+            "score": 0.00047
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.0004
+        },
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.00038
+        },
+        {
+            "name": "Fraxinus angustifolia Vahl",
+            "id": "1362009",
+            "score": 0.00034
+        }
+    ]
+}

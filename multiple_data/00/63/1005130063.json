@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.91818
+        },
+        {
+            "name": "Araucaria araucana (Molina) K.Koch",
+            "id": "1395924",
+            "score": 0.00373
+        },
+        {
+            "name": "Pinus halepensis Mill.",
+            "id": "1397460",
+            "score": 0.00273
+        },
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.00192
+        },
+        {
+            "name": "Sequoiadendron giganteum (Lindl.) J.Buchholz",
+            "id": "1396214",
+            "score": 0.00147
+        },
+        {
+            "name": "Populus alba L.",
+            "id": "1364046",
+            "score": 0.00144
+        },
+        {
+            "name": "Pseudotsuga menziesii (Mirb.) Franco",
+            "id": "1394967",
+            "score": 0.00141
+        },
+        {
+            "name": "Pinus strobus L.",
+            "id": "1394616",
+            "score": 0.00117
+        },
+        {
+            "name": "Betula pubescens Ehrh.",
+            "id": "1362746",
+            "score": 0.001
+        },
+        {
+            "name": "Cedrus atlantica (Endl.) Manetti ex Carrière",
+            "id": "1419901",
+            "score": 0.001
+        }
+    ]
+}

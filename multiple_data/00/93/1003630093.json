@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Chelidonium majus L.",
+            "id": "1359760",
+            "score": 0.89777
+        },
+        {
+            "name": "Stylophorum diphyllum (Michx.) Nutt.",
+            "id": "1413938",
+            "score": 0.00466
+        },
+        {
+            "name": "Taraxacum lacistophylloides Dahlst.",
+            "id": "1399688",
+            "score": 0.00243
+        },
+        {
+            "name": "Geum urbanum L.",
+            "id": "1360300",
+            "score": 0.00172
+        },
+        {
+            "name": "Geranium robertianum L.",
+            "id": "1356017",
+            "score": 0.00101
+        }
+    ]
+}

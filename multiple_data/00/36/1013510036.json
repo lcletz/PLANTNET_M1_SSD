@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Silybum marianum (L.) Gaertn.",
+            "id": "1364100",
+            "score": 0.90246
+        },
+        {
+            "name": "Silybum eburneum Coss. & Durieu",
+            "id": "1357871",
+            "score": 0.0272
+        },
+        {
+            "name": "Onopordum illyricum L.",
+            "id": "1394057",
+            "score": 0.0048
+        },
+        {
+            "name": "Carduus nutans L.",
+            "id": "1357350",
+            "score": 0.00342
+        },
+        {
+            "name": "Onopordum tauricum Willd.",
+            "id": "1394059",
+            "score": 0.00242
+        },
+        {
+            "name": "Notobasis syriaca (L.) Cass.",
+            "id": "1357722",
+            "score": 0.00229
+        },
+        {
+            "name": "Onopordum acanthium L.",
+            "id": "1357723",
+            "score": 0.0016
+        }
+    ]
+}

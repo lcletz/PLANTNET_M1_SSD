@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.89697
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.02139
+        },
+        {
+            "name": "Sambucus canadensis L.",
+            "id": "1356462",
+            "score": 0.00566
+        },
+        {
+            "name": "Sorbus aucuparia L.",
+            "id": "1362987",
+            "score": 0.00257
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.00133
+        }
+    ]
+}

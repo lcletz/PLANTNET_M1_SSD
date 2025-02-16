@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fraxinus angustifolia Vahl",
+            "id": "1362009",
+            "score": 0.952
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.01448
+        },
+        {
+            "name": "Tecoma stans (L.) Juss. ex Kunth",
+            "id": "1400150",
+            "score": 0.00431
+        },
+        {
+            "name": "Fraxinus pennsylvanica Marshall",
+            "id": "1392363",
+            "score": 0.00238
+        },
+        {
+            "name": "Fraxinus velutina Torr.",
+            "id": "1443766",
+            "score": 0.00137
+        }
+    ]
+}

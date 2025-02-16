@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Platanthera chlorantha (Custer) Rchb.",
+            "id": "1397462",
+            "score": 0.58976
+        },
+        {
+            "name": "Platanthera bifolia (L.) Rich.",
+            "id": "1361691",
+            "score": 0.24831
+        },
+        {
+            "name": "Platanthera orbiculata (Pursh) Lindl.",
+            "id": "1413129",
+            "score": 0.0041
+        },
+        {
+            "name": "Epipactis helleborine (L.) Crantz",
+            "id": "1362294",
+            "score": 0.00345
+        },
+        {
+            "name": "Orchis mascula (L.) L.",
+            "id": "1361682",
+            "score": 0.00322
+        },
+        {
+            "name": "Orchis pallens L.",
+            "id": "1394280",
+            "score": 0.00108
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Acer monspessulanum L.",
+            "id": "1356457",
+            "score": 0.92471
+        },
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.00429
+        },
+        {
+            "name": "Acer buergerianum Miq.",
+            "id": "1390598",
+            "score": 0.00381
+        },
+        {
+            "name": "Acer obtusifolium Sm.",
+            "id": "1425616",
+            "score": 0.00301
+        },
+        {
+            "name": "Acer × bornmuelleri Borbás",
+            "id": "1685237",
+            "score": 0.00101
+        }
+    ]
+}

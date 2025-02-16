@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pinus halepensis Mill.",
+            "id": "1397460",
+            "score": 0.85095
+        },
+        {
+            "name": "Pinus pinaster Aiton",
+            "id": "1394611",
+            "score": 0.02472
+        },
+        {
+            "name": "Pinus brutia Ten.",
+            "id": "1398092",
+            "score": 0.02075
+        },
+        {
+            "name": "Pinus pinea L.",
+            "id": "1394612",
+            "score": 0.02033
+        },
+        {
+            "name": "Pinus strobus L.",
+            "id": "1394616",
+            "score": 0.01553
+        },
+        {
+            "name": "Pinus clausa (Chapm. ex Engelm.) Vasey ex Sarg.",
+            "id": "1436503",
+            "score": 0.00441
+        },
+        {
+            "name": "Pinus sylvestris L.",
+            "id": "1394617",
+            "score": 0.00242
+        },
+        {
+            "name": "Casuarina cunninghamiana Miq.",
+            "id": "1361847",
+            "score": 0.00208
+        },
+        {
+            "name": "Pinus virginiana Mill.",
+            "id": "1413090",
+            "score": 0.00124
+        },
+        {
+            "name": "Casuarina equisetifolia L.",
+            "id": "1383149",
+            "score": 0.00101
+        }
+    ]
+}

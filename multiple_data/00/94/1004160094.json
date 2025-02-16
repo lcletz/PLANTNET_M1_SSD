@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Persea americana Mill.",
+            "id": "1364365",
+            "score": 0.95837
+        },
+        {
+            "name": "Cedrela tonduzii C.DC.",
+            "id": "1600541",
+            "score": 0.00151
+        },
+        {
+            "name": "Cedrela salvadorensis Standl.",
+            "id": "1600540",
+            "score": 0.00122
+        },
+        {
+            "name": "Omphalea diandra L.",
+            "id": "1401722",
+            "score": 0.00122
+        },
+        {
+            "name": "Passiflora edulis Sims",
+            "id": "1356048",
+            "score": 0.00121
+        }
+    ]
+}

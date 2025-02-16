@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Citrullus lanatus (Thunb.) Matsum. & Nakai",
+            "id": "1363148",
+            "score": 0.95885
+        },
+        {
+            "name": "Citrullus colocynthis (L.) Schrad.",
+            "id": "1363149",
+            "score": 0.00643
+        },
+        {
+            "name": "Cucumis anguria L.",
+            "id": "1404600",
+            "score": 0.00593
+        },
+        {
+            "name": "Momordica charantia L.",
+            "id": "1399937",
+            "score": 0.00406
+        },
+        {
+            "name": "Solanum sisymbriifolium Lam.",
+            "id": "1356170",
+            "score": 0.00141
+        }
+    ]
+}

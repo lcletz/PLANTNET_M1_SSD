@@ -1,0 +1,35 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Dodonaea viscosa Jacq.",
+            "id": "1403445",
+            "score": 0.02856
+        },
+        {
+            "name": "Acacia longifolia (Andrews) Willd.",
+            "id": "1363769",
+            "score": 0.01304
+        },
+        {
+            "name": "Nerium oleander L.",
+            "id": "1363813",
+            "score": 0.00827
+        },
+        {
+            "name": "Acacia melanoxylon R.Br.",
+            "id": "1389553",
+            "score": 0.00778
+        },
+        {
+            "name": "Hakea salicifolia (Vent.) B.L.Burtt",
+            "id": "1392681",
+            "score": 0.00775
+        },
+        {
+            "name": "Pistacia lentiscus L.",
+            "id": "1356290",
+            "score": 0.0011
+        }
+    ]
+}

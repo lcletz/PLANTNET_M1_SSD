@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ocimum basilicum L.",
+            "id": "1361975",
+            "score": 0.91961
+        },
+        {
+            "name": "Ocimum americanum L.",
+            "id": "1419267",
+            "score": 0.02832
+        },
+        {
+            "name": "Capsicum annuum L.",
+            "id": "1361992",
+            "score": 0.00251
+        },
+        {
+            "name": "Spinacia oleracea L.",
+            "id": "1356556",
+            "score": 0.00237
+        },
+        {
+            "name": "Ocimum campechianum Mill.",
+            "id": "1406351",
+            "score": 0.00104
+        },
+        {
+            "name": "Mentha pulegium L.",
+            "id": "1356106",
+            "score": 0.00103
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Malus sylvestris Mill.",
+            "id": "1364002",
+            "score": 0.41145
+        },
+        {
+            "name": "Malus pumila Mill.",
+            "id": "1362849",
+            "score": 0.13316
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.0013
+        },
+        {
+            "name": "Cydonia oblonga Mill.",
+            "id": "1363999",
+            "score": 0.00129
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.00112
+        }
+    ]
+}

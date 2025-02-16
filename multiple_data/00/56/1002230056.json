@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Verbascum sinuatum L.",
+            "id": "1360542",
+            "score": 0.94479
+        },
+        {
+            "name": "Verbascum phlomoides L.",
+            "id": "1397025",
+            "score": 0.00301
+        },
+        {
+            "name": "Verbascum pulverulentum Vill.",
+            "id": "1360539",
+            "score": 0.00198
+        },
+        {
+            "name": "Verbascum undulatum Lam.",
+            "id": "1389473",
+            "score": 0.00168
+        },
+        {
+            "name": "Verbascum virgatum Stokes",
+            "id": "1364058",
+            "score": 0.00149
+        },
+        {
+            "name": "Verbascum densiflorum Bertol.",
+            "id": "1360523",
+            "score": 0.00139
+        },
+        {
+            "name": "Onopordum illyricum L.",
+            "id": "1394057",
+            "score": 0.00134
+        }
+    ]
+}

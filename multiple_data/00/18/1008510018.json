@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pyrus spinosa Forssk.",
+            "id": "1395014",
+            "score": 0.87755
+        },
+        {
+            "name": "Pyrus salicifolia Pall.",
+            "id": "1395004",
+            "score": 0.04929
+        },
+        {
+            "name": "Elaeagnus angustifolia L.",
+            "id": "1358494",
+            "score": 0.01577
+        },
+        {
+            "name": "Pyrus nivalis Jacq.",
+            "id": "1395009",
+            "score": 0.00535
+        },
+        {
+            "name": "Pyrus elaeagrifolia Pall.",
+            "id": "1745199",
+            "score": 0.00216
+        },
+        {
+            "name": "Prunus amygdalus Batsch",
+            "id": "1722605",
+            "score": 0.00207
+        },
+        {
+            "name": "Pyrus syriaca Boiss.",
+            "id": "1360329",
+            "score": 0.00182
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.00105
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cirsium eriophorum (L.) Scop.",
+            "id": "1391192",
+            "score": 0.93549
+        },
+        {
+            "name": "Cirsium vulgare (Savi) Ten.",
+            "id": "1355937",
+            "score": 0.01229
+        },
+        {
+            "name": "Onopordum acanthium L.",
+            "id": "1357723",
+            "score": 0.00375
+        },
+        {
+            "name": "Carduus nutans L.",
+            "id": "1357350",
+            "score": 0.00201
+        },
+        {
+            "name": "Cirsium edule Nutt.",
+            "id": "1411464",
+            "score": 0.00137
+        },
+        {
+            "name": "Cirsium heterophyllum (L.) Hill",
+            "id": "1391209",
+            "score": 0.00115
+        }
+    ]
+}

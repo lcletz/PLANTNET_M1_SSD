@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Heracleum sibiricum L.",
+            "id": "1392757",
+            "score": 0.7084
+        },
+        {
+            "name": "Heracleum sphondylium L.",
+            "id": "1360744",
+            "score": 0.25389
+        },
+        {
+            "name": "Ribes rubrum L.",
+            "id": "1397543",
+            "score": 0.00272
+        },
+        {
+            "name": "Heracleum mantegazzianum Sommier & Levier",
+            "id": "1392753",
+            "score": 0.00188
+        },
+        {
+            "name": "Pastinaca sativa L.",
+            "id": "1363226",
+            "score": 0.00182
+        }
+    ]
+}

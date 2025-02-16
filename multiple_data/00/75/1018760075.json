@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Parthenocissus tricuspidata (Siebold & Zucc.) Planch.",
+            "id": "1360884",
+            "score": 0.87294
+        },
+        {
+            "name": "Parthenocissus quinquefolia (L.) Planch.",
+            "id": "1394423",
+            "score": 0.03199
+        },
+        {
+            "name": "Hedera canariensis Willd.",
+            "id": "1356580",
+            "score": 0.00405
+        },
+        {
+            "name": "Hedera colchica (K.Koch) K.Koch",
+            "id": "1392697",
+            "score": 0.00259
+        },
+        {
+            "name": "Humulus lupulus L.",
+            "id": "1356781",
+            "score": 0.00167
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.00138
+        },
+        {
+            "name": "Vitis labrusca L.",
+            "id": "1363005",
+            "score": 0.00136
+        },
+        {
+            "name": "Hedera helix L.",
+            "id": "1363575",
+            "score": 0.00116
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Arum italicum Mill.",
+            "id": "1360989",
+            "score": 0.46144
+        },
+        {
+            "name": "Arum maculatum L.",
+            "id": "1396952",
+            "score": 0.36026
+        },
+        {
+            "name": "Arum cylindraceum Gasp.",
+            "id": "1396937",
+            "score": 0.09461
+        },
+        {
+            "name": "Arisaema triphyllum (L.) Schott",
+            "id": "1413262",
+            "score": 0.01385
+        },
+        {
+            "name": "Arisaema dracontium (L.) Schott",
+            "id": "1413243",
+            "score": 0.00371
+        }
+    ]
+}

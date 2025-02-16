@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lonicera periclymenum L.",
+            "id": "1356790",
+            "score": 0.89933
+        },
+        {
+            "name": "Lonicera dioica L.",
+            "id": "1412565",
+            "score": 0.02634
+        },
+        {
+            "name": "Lonicera caprifolium L.",
+            "id": "1393632",
+            "score": 0.02157
+        },
+        {
+            "name": "Lonicera etrusca Santi",
+            "id": "1356784",
+            "score": 0.02042
+        },
+        {
+            "name": "Lonicera sempervirens L.",
+            "id": "1393629",
+            "score": 0.00588
+        },
+        {
+            "name": "Lonicera hirsuta Eaton",
+            "id": "1412568",
+            "score": 0.00365
+        },
+        {
+            "name": "Lonicera japonica Thunb.",
+            "id": "1356786",
+            "score": 0.00162
+        }
+    ]
+}

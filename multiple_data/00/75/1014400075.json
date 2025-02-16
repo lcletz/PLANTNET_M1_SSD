@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium resupinatum L.",
+            "id": "1359519",
+            "score": 0.92018
+        },
+        {
+            "name": "Trifolium tomentosum L.",
+            "id": "1359530",
+            "score": 0.00639
+        },
+        {
+            "name": "Persicaria capitata (Buch.-Ham. ex D.Don) H.Gross",
+            "id": "1394749",
+            "score": 0.00219
+        },
+        {
+            "name": "Trifolium fragiferum L.",
+            "id": "1356278",
+            "score": 0.00207
+        },
+        {
+            "name": "Trifolium hybridum L.",
+            "id": "1359497",
+            "score": 0.00157
+        },
+        {
+            "name": "Trifolium pratense L.",
+            "id": "1359517",
+            "score": 0.0012
+        }
+    ]
+}

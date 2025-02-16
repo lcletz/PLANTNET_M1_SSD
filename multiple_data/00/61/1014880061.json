@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Solanum lycopersicum L.",
+            "id": "1396325",
+            "score": 0.48111
+        },
+        {
+            "name": "Solanum pimpinellifolium L.",
+            "id": "1420742",
+            "score": 0.0625
+        },
+        {
+            "name": "Cucurbita maxima Duchesne",
+            "id": "1391483",
+            "score": 0.00405
+        },
+        {
+            "name": "Cucurbita moschata Duchesne",
+            "id": "1399145",
+            "score": 0.003
+        },
+        {
+            "name": "Solanum corymbiflorum (Sendtn.) Bohs",
+            "id": "1691565",
+            "score": 0.00138
+        },
+        {
+            "name": "Cucurbita pepo L.",
+            "id": "1384485",
+            "score": 0.00138
+        }
+    ]
+}

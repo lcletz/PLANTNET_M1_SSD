@@ -1,0 +1,420 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rhamphospermum nigrum (L.) Al-Shehbaz",
+            "id": "1737676",
+            "score": 0.38954
+        },
+        {
+            "name": "Brassica juncea (L.) Czern.",
+            "id": "1363904",
+            "score": 0.17222
+        },
+        {
+            "name": "Rhamphospermum arvense (L.) Andrz. ex Besser",
+            "id": "1737463",
+            "score": 0.06661
+        },
+        {
+            "name": "Isatis tinctoria L.",
+            "id": "1358340",
+            "score": 0.04602
+        },
+        {
+            "name": "Brassica rapa L.",
+            "id": "1363906",
+            "score": 0.03789
+        },
+        {
+            "name": "Sinapis alba L.",
+            "id": "1363889",
+            "score": 0.02022
+        },
+        {
+            "name": "Sisymbrium officinale (L.) Scop.",
+            "id": "1363897",
+            "score": 0.01527
+        },
+        {
+            "name": "Crambe maritima L.",
+            "id": "1391425",
+            "score": 0.01387
+        },
+        {
+            "name": "Thalictrum minus L.",
+            "id": "1356304",
+            "score": 0.01343
+        },
+        {
+            "name": "Rapistrum rugosum (L.) All.",
+            "id": "1363879",
+            "score": 0.01322
+        },
+        {
+            "name": "Myagrum perfoliatum L.",
+            "id": "1358394",
+            "score": 0.01258
+        },
+        {
+            "name": "Erucastrum nasturtiifolium (Poir.) O.E.Schulz",
+            "id": "1392096",
+            "score": 0.01175
+        },
+        {
+            "name": "Brassica napus L.",
+            "id": "1363908",
+            "score": 0.01093
+        },
+        {
+            "name": "Arctium minus (Hill) Bernh.",
+            "id": "1357244",
+            "score": 0.01014
+        },
+        {
+            "name": "Rorippa palustris (L.) Besser",
+            "id": "1363914",
+            "score": 0.00989
+        },
+        {
+            "name": "Sonchus asper (L.) Hill",
+            "id": "1357875",
+            "score": 0.00967
+        },
+        {
+            "name": "Lactuca floridana (L.) Gaertn.",
+            "id": "1409746",
+            "score": 0.00965
+        },
+        {
+            "name": "Thalictrum flavum L.",
+            "id": "1360229",
+            "score": 0.00838
+        },
+        {
+            "name": "Brassica oleracea L.",
+            "id": "1363909",
+            "score": 0.00821
+        },
+        {
+            "name": "Crambe hispanica L.",
+            "id": "1363895",
+            "score": 0.00712
+        },
+        {
+            "name": "Crambe cordifolia Steven",
+            "id": "1398498",
+            "score": 0.00666
+        },
+        {
+            "name": "Cicerbita plumieri (L.) Kirschl.",
+            "id": "1738967",
+            "score": 0.00588
+        },
+        {
+            "name": "Brassica barrelieri (L.) Janka",
+            "id": "1358194",
+            "score": 0.00506
+        },
+        {
+            "name": "Raphanus raphanistrum L.",
+            "id": "1363901",
+            "score": 0.00471
+        },
+        {
+            "name": "Arnoglossum atriplicifolium (L.) H.Rob.",
+            "id": "1499497",
+            "score": 0.00434
+        },
+        {
+            "name": "Lactuca biennis (Moench) Fernald",
+            "id": "1412412",
+            "score": 0.00425
+        },
+        {
+            "name": "Hirschfeldia incana (L.) Lagr.-Foss.",
+            "id": "1363911",
+            "score": 0.00415
+        },
+        {
+            "name": "Arctium lappa L.",
+            "id": "1396002",
+            "score": 0.00386
+        },
+        {
+            "name": "Patrinia scabiosifolia Link",
+            "id": "1491482",
+            "score": 0.00384
+        },
+        {
+            "name": "Adenostyles alpina (L.) Bluff & Fingerh.",
+            "id": "1397303",
+            "score": 0.00384
+        },
+        {
+            "name": "Cucurbita pepo L.",
+            "id": "1384485",
+            "score": 0.00381
+        },
+        {
+            "name": "Clerodendrum bungei Steud.",
+            "id": "1378722",
+            "score": 0.00323
+        },
+        {
+            "name": "Brassica montana Pourr.",
+            "id": "1389320",
+            "score": 0.0032
+        },
+        {
+            "name": "Sonchus oleraceus L.",
+            "id": "1364170",
+            "score": 0.00305
+        },
+        {
+            "name": "Smilax herbacea L.",
+            "id": "1413832",
+            "score": 0.00304
+        },
+        {
+            "name": "Arracacia atropurpurea (Lehm.) Benth. & Hook.f. ex Hemsl.",
+            "id": "1456691",
+            "score": 0.00298
+        },
+        {
+            "name": "Acanthus mollis L.",
+            "id": "1356448",
+            "score": 0.0029
+        },
+        {
+            "name": "Euthamia graminifolia (L.) Nutt.",
+            "id": "1392232",
+            "score": 0.00274
+        },
+        {
+            "name": "Crithmum maritimum L.",
+            "id": "1360676",
+            "score": 0.00263
+        },
+        {
+            "name": "Hylotelephium maximum (L.) Holub",
+            "id": "1393231",
+            "score": 0.00261
+        },
+        {
+            "name": "Solanum stramoniifolium Jacq.",
+            "id": "1403598",
+            "score": 0.00259
+        },
+        {
+            "name": "Sisymbrium irio L.",
+            "id": "1363896",
+            "score": 0.00255
+        },
+        {
+            "name": "Cicerbita alpina Wallr.",
+            "id": "1738123",
+            "score": 0.00252
+        },
+        {
+            "name": "Heracleum mantegazzianum Sommier & Levier",
+            "id": "1392753",
+            "score": 0.00247
+        },
+        {
+            "name": "Petasites hybridus (L.) G.Gaertn., B.Mey. & Scherb.",
+            "id": "1711822",
+            "score": 0.00242
+        },
+        {
+            "name": "Erucastrum gallicum (Willd.) O.E.Schulz",
+            "id": "1392093",
+            "score": 0.0023
+        },
+        {
+            "name": "Coincya tournefortii (Gouan) Alcaraz, T.E.Díaz, Rivas Mart. & Sánchez-Gómez",
+            "id": "1726144",
+            "score": 0.00205
+        },
+        {
+            "name": "Ferula communis L.",
+            "id": "1363236",
+            "score": 0.00201
+        },
+        {
+            "name": "Urospermum picroides (L.) Scop. ex F.W.Schmidt",
+            "id": "1396956",
+            "score": 0.00198
+        },
+        {
+            "name": "Sisymbrium austriacum Jacq.",
+            "id": "1358428",
+            "score": 0.00192
+        },
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.00191
+        },
+        {
+            "name": "Chromolaena arnottiana (Griseb.) R.M.King & H.Rob.",
+            "id": "1503314",
+            "score": 0.00191
+        },
+        {
+            "name": "Bupleurum fruticosum L.",
+            "id": "1360638",
+            "score": 0.00188
+        },
+        {
+            "name": "Solanecio angulatus (Vahl) C.Jeffrey",
+            "id": "1521396",
+            "score": 0.0017
+        },
+        {
+            "name": "Austroeupatorium inulifolium (Kunth) R.M.King & H.Rob.",
+            "id": "1727582",
+            "score": 0.0017
+        },
+        {
+            "name": "Arctium nemorosum Lej.",
+            "id": "1396028",
+            "score": 0.00163
+        },
+        {
+            "name": "Diplotaxis erucoides (L.) DC.",
+            "id": "1363878",
+            "score": 0.00162
+        },
+        {
+            "name": "Acanthus spinosus L.",
+            "id": "1356449",
+            "score": 0.00145
+        },
+        {
+            "name": "Eruca vesicaria (L.) Cav.",
+            "id": "1356328",
+            "score": 0.00143
+        },
+        {
+            "name": "Valeriana tuberosa L.",
+            "id": "1360841",
+            "score": 0.00139
+        },
+        {
+            "name": "Youngia japonica (L.) DC.",
+            "id": "1373670",
+            "score": 0.00137
+        },
+        {
+            "name": "Carduus personata (L.) Jacq.",
+            "id": "1397341",
+            "score": 0.00131
+        },
+        {
+            "name": "Levisticum officinale W.D.J.Koch",
+            "id": "1393518",
+            "score": 0.00127
+        },
+        {
+            "name": "Chaerophyllum bulbosum L.",
+            "id": "1397349",
+            "score": 0.00125
+        },
+        {
+            "name": "Agave deserti Engelm.",
+            "id": "1441047",
+            "score": 0.00125
+        },
+        {
+            "name": "Pastinaca sativa L.",
+            "id": "1363226",
+            "score": 0.00121
+        },
+        {
+            "name": "Sisymbrium volgense M.Bieb. ex E.Fourn.",
+            "id": "1396311",
+            "score": 0.00119
+        },
+        {
+            "name": "Descurainia sophia (L.) Webb ex Prantl",
+            "id": "1363917",
+            "score": 0.00113
+        },
+        {
+            "name": "Adenostyles leucophylla Rchb.",
+            "id": "1742051",
+            "score": 0.00109
+        },
+        {
+            "name": "Thalictrum pubescens Pursh",
+            "id": "1414016",
+            "score": 0.00104
+        },
+        {
+            "name": "Sisymbrium strictissimum L.",
+            "id": "1396310",
+            "score": 0.00102
+        },
+        {
+            "name": "Fumaria densiflora DC.",
+            "id": "1359774",
+            "score": 0.00101
+        },
+        {
+            "name": "Lactuca serriola L.",
+            "id": "1364173",
+            "score": 0.00094
+        },
+        {
+            "name": "Chenopodiastrum murale (L.) S.Fuentes, Uotila & Borsch",
+            "id": "1389974",
+            "score": 0.00093
+        },
+        {
+            "name": "Sisymbrium erysimoides Desf.",
+            "id": "1363899",
+            "score": 0.0008
+        },
+        {
+            "name": "Smyrnium olusatrum L.",
+            "id": "1360801",
+            "score": 0.00066
+        },
+        {
+            "name": "Rorippa amphibia (L.) Besser",
+            "id": "1358413",
+            "score": 0.00063
+        },
+        {
+            "name": "Bunias orientalis L.",
+            "id": "1389581",
+            "score": 0.00058
+        },
+        {
+            "name": "Draba muralis L.",
+            "id": "1358264",
+            "score": 0.0005
+        },
+        {
+            "name": "Beta vulgaris L.",
+            "id": "1363199",
+            "score": 0.00042
+        },
+        {
+            "name": "Delairea odorata Lem.",
+            "id": "1364133",
+            "score": 0.00042
+        },
+        {
+            "name": "Senecio vulgaris L.",
+            "id": "1364138",
+            "score": 0.0004
+        },
+        {
+            "name": "Vitis vinifera L.",
+            "id": "1356217",
+            "score": 0.00039
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Geranium dissectum L.",
+            "id": "1356007",
+            "score": 0.94049
+        },
+        {
+            "name": "Geranium columbinum L.",
+            "id": "1358671",
+            "score": 0.01241
+        },
+        {
+            "name": "Geranium palustre L.",
+            "id": "1392591",
+            "score": 0.00174
+        },
+        {
+            "name": "Geranium sanguineum L.",
+            "id": "1392597",
+            "score": 0.00122
+        },
+        {
+            "name": "Geranium pusillum L.",
+            "id": "1392594",
+            "score": 0.00102
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.58405
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.21207
+        },
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.0547
+        },
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.01108
+        },
+        {
+            "name": "Corylus colurna L.",
+            "id": "1397579",
+            "score": 0.00221
+        },
+        {
+            "name": "Tilia tomentosa Moench",
+            "id": "1396803",
+            "score": 0.00212
+        },
+        {
+            "name": "Morus macroura Miq.",
+            "id": "1429529",
+            "score": 0.00181
+        },
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.00179
+        },
+        {
+            "name": "Ficus palmata Forssk.",
+            "id": "1363141",
+            "score": 0.00113
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Malvaviscus arboreus Cav.",
+            "id": "1382113",
+            "score": 0.8743
+        },
+        {
+            "name": "Malvaviscus penduliflorus Moc. & Sessé ex DC.",
+            "id": "1419436",
+            "score": 0.05972
+        },
+        {
+            "name": "Hibiscus moscheutos L.",
+            "id": "1412258",
+            "score": 0.00576
+        },
+        {
+            "name": "Hibiscus rosa-sinensis L.",
+            "id": "1370542",
+            "score": 0.0041
+        },
+        {
+            "name": "Abutilon megapotamicum (A.Spreng.) A.St.-Hil. & Naudin",
+            "id": "1397981",
+            "score": 0.00127
+        },
+        {
+            "name": "Callianthe picta (Gillies ex Hook. & Arn.) Donnell",
+            "id": "1419407",
+            "score": 0.0011
+        }
+    ]
+}

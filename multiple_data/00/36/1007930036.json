@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Alkekengi officinarum Moench",
+            "id": "1738735",
+            "score": 0.50428
+        },
+        {
+            "name": "Physalis peruviana L.",
+            "id": "1356153",
+            "score": 0.0025
+        },
+        {
+            "name": "Nicandra physalodes (L.) Gaertn.",
+            "id": "1356144",
+            "score": 0.00149
+        },
+        {
+            "name": "Physalis heterophylla Nees",
+            "id": "1413066",
+            "score": 0.00126
+        },
+        {
+            "name": "Capsicum chinense Jacq.",
+            "id": "1377886",
+            "score": 0.00101
+        }
+    ]
+}

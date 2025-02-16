@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Secale cereale L.",
+            "id": "1363451",
+            "score": 0.8602
+        },
+        {
+            "name": "Hordeum murinum L.",
+            "id": "1361307",
+            "score": 0.07387
+        },
+        {
+            "name": "Hordeum secalinum Schreb.",
+            "id": "1361308",
+            "score": 0.00509
+        },
+        {
+            "name": "Hordeum marinum Huds.",
+            "id": "1361306",
+            "score": 0.00451
+        },
+        {
+            "name": "Hordeum brachyantherum Nevski",
+            "id": "1412283",
+            "score": 0.00363
+        },
+        {
+            "name": "Hordeum bulbosum L.",
+            "id": "1361304",
+            "score": 0.00246
+        },
+        {
+            "name": "× Triticosecale rimpaui (M.Graebn.) Wittm. ex A.W.Hill",
+            "id": "1738608",
+            "score": 0.0011
+        }
+    ]
+}

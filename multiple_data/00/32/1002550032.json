@@ -1,0 +1,455 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cirsium arvense (L.) Scop.",
+            "id": "1355936",
+            "score": 0.84085
+        },
+        {
+            "name": "Cirsium acaule (L.) Scop.",
+            "id": "1737591",
+            "score": 0.08778
+        },
+        {
+            "name": "Cirsium brevistylum Cronquist",
+            "id": "1411461",
+            "score": 0.04668
+        },
+        {
+            "name": "Cirsium japonicum DC.",
+            "id": "1721587",
+            "score": 0.04539
+        },
+        {
+            "name": "Carduus acanthoides L.",
+            "id": "1362653",
+            "score": 0.03661
+        },
+        {
+            "name": "Cirsium eatonii B.L.Rob.",
+            "id": "1816261",
+            "score": 0.02486
+        },
+        {
+            "name": "Carduus nigrescens Vill.",
+            "id": "1390740",
+            "score": 0.02142
+        },
+        {
+            "name": "Carduus crispus L.",
+            "id": "1390725",
+            "score": 0.02076
+        },
+        {
+            "name": "Carduus nutans L.",
+            "id": "1357350",
+            "score": 0.02062
+        },
+        {
+            "name": "Erigeron alpinus L.",
+            "id": "1374231",
+            "score": 0.01901
+        },
+        {
+            "name": "Mimosa pigra L.",
+            "id": "1363669",
+            "score": 0.01434
+        },
+        {
+            "name": "Carduus defloratus L.",
+            "id": "1397340",
+            "score": 0.01398
+        },
+        {
+            "name": "Globularia nudicaulis L.",
+            "id": "1392631",
+            "score": 0.01324
+        },
+        {
+            "name": "Cirsium spinosissimum (L.) Scop.",
+            "id": "1397352",
+            "score": 0.00981
+        },
+        {
+            "name": "Cirsium pyrenaicum (Jacq.) All.",
+            "id": "1357508",
+            "score": 0.00935
+        },
+        {
+            "name": "Cirsium scariosum Nutt.",
+            "id": "1411471",
+            "score": 0.00885
+        },
+        {
+            "name": "Cirsium altissimum (L.) Spreng.",
+            "id": "1817001",
+            "score": 0.00861
+        },
+        {
+            "name": "Globularia vulgaris L.",
+            "id": "1392634",
+            "score": 0.00785
+        },
+        {
+            "name": "Cirsium nuttallii DC.",
+            "id": "1441387",
+            "score": 0.00591
+        },
+        {
+            "name": "Tyrimnus leucographus (L.) Cass.",
+            "id": "1357951",
+            "score": 0.00589
+        },
+        {
+            "name": "Silybum marianum (L.) Gaertn.",
+            "id": "1364100",
+            "score": 0.00586
+        },
+        {
+            "name": "Solanum linnaeanum Hepper & P.-M.L.Jaeger",
+            "id": "1432292",
+            "score": 0.00558
+        },
+        {
+            "name": "Cyanthillium cinereum (L.) H.Rob.",
+            "id": "1405308",
+            "score": 0.00531
+        },
+        {
+            "name": "Cirsium texanum Buckley",
+            "id": "1441410",
+            "score": 0.0048
+        },
+        {
+            "name": "Cirsium canum (L.) All.",
+            "id": "1391184",
+            "score": 0.00426
+        },
+        {
+            "name": "Globularia bisnagarica L.",
+            "id": "1392626",
+            "score": 0.00404
+        },
+        {
+            "name": "Cirsium creticum (Lam.) d'Urv.",
+            "id": "1357499",
+            "score": 0.0038
+        },
+        {
+            "name": "Sphaeranthus indicus L.",
+            "id": "1430549",
+            "score": 0.00348
+        },
+        {
+            "name": "Cheirolophus burchardii Susanna",
+            "id": "1722638",
+            "score": 0.00313
+        },
+        {
+            "name": "Cirsium vulgare (Savi) Ten.",
+            "id": "1355937",
+            "score": 0.00308
+        },
+        {
+            "name": "Klasea nudicaulis (L.) Fourr.",
+            "id": "1357672",
+            "score": 0.00306
+        },
+        {
+            "name": "Cirsium appendiculatum Griseb.",
+            "id": "1503738",
+            "score": 0.00305
+        },
+        {
+            "name": "Globularia incanescens Viv.",
+            "id": "1399207",
+            "score": 0.00293
+        },
+        {
+            "name": "Solanum sodomaeodes Kuntze",
+            "id": "1692185",
+            "score": 0.00264
+        },
+        {
+            "name": "Carduus tenuiflorus Curtis",
+            "id": "1355881",
+            "score": 0.00261
+        },
+        {
+            "name": "Solanum euacanthum Phil.",
+            "id": "1691649",
+            "score": 0.00255
+        },
+        {
+            "name": "Solanum virginianum L.",
+            "id": "1360576",
+            "score": 0.00254
+        },
+        {
+            "name": "Lamyropsis cynaroides (Lam.) Dittrich",
+            "id": "1513315",
+            "score": 0.00242
+        },
+        {
+            "name": "Neolamarckia cadamba (Roxb.) Bosser",
+            "id": "1409834",
+            "score": 0.00242
+        },
+        {
+            "name": "Cyrtocymura scorpioides (Lam.) H.Rob.",
+            "id": "1405309",
+            "score": 0.00239
+        },
+        {
+            "name": "Solanum juvenale Thell.",
+            "id": "1397744",
+            "score": 0.00234
+        },
+        {
+            "name": "Carlina corymbosa L.",
+            "id": "1397344",
+            "score": 0.00231
+        },
+        {
+            "name": "Syngonanthus umbellatus (Lam.) Ruhland",
+            "id": "1401641",
+            "score": 0.00225
+        },
+        {
+            "name": "Carduus pycnocephalus L.",
+            "id": "1357351",
+            "score": 0.00215
+        },
+        {
+            "name": "Cirsium glabrum DC.",
+            "id": "1391206",
+            "score": 0.00214
+        },
+        {
+            "name": "Senecio varicosus L.f.",
+            "id": "1521058",
+            "score": 0.0021
+        },
+        {
+            "name": "Mantisalca salmantica (L.) Briq. & Cavill.",
+            "id": "1364108",
+            "score": 0.00207
+        },
+        {
+            "name": "Cirsium filipendulum Lange",
+            "id": "1391198",
+            "score": 0.00191
+        },
+        {
+            "name": "Viola palustris L.",
+            "id": "1360874",
+            "score": 0.00182
+        },
+        {
+            "name": "Cirsium ferox (L.) DC.",
+            "id": "1391197",
+            "score": 0.00179
+        },
+        {
+            "name": "Cirsium arizonicum (A.Gray) Petr.",
+            "id": "1503744",
+            "score": 0.00177
+        },
+        {
+            "name": "Scolymus hispanicus L.",
+            "id": "1357848",
+            "score": 0.00175
+        },
+        {
+            "name": "Cirsium heterophyllum (L.) Hill",
+            "id": "1391209",
+            "score": 0.00172
+        },
+        {
+            "name": "Onopordum tauricum Willd.",
+            "id": "1394059",
+            "score": 0.00167
+        },
+        {
+            "name": "Mimosa diplotricha C.Wright",
+            "id": "1725502",
+            "score": 0.0016
+        },
+        {
+            "name": "Cirsium tuberosum (L.) All.",
+            "id": "1391250",
+            "score": 0.0016
+        },
+        {
+            "name": "Cheirolophus canariensis (Willd.) Holub",
+            "id": "1357469",
+            "score": 0.00159
+        },
+        {
+            "name": "Solanum rostratum Dunal",
+            "id": "1356169",
+            "score": 0.00157
+        },
+        {
+            "name": "Globularia repens Lam.",
+            "id": "1392632",
+            "score": 0.00155
+        },
+        {
+            "name": "Onopordum palaestinum Eig",
+            "id": "1425309",
+            "score": 0.00151
+        },
+        {
+            "name": "Cheirolophus intybaceus (Lam.) Dostál",
+            "id": "1391122",
+            "score": 0.00151
+        },
+        {
+            "name": "Mimosa pudica L.",
+            "id": "1379560",
+            "score": 0.00147
+        },
+        {
+            "name": "Erigeron uniflorus L.",
+            "id": "1397378",
+            "score": 0.00147
+        },
+        {
+            "name": "Cirsium pannonicum (L.f.) Link",
+            "id": "1399548",
+            "score": 0.00145
+        },
+        {
+            "name": "Erigeron neglectus A.Kern.",
+            "id": "1392050",
+            "score": 0.00136
+        },
+        {
+            "name": "Cirsium mohavense (Greene) Petr.",
+            "id": "1441383",
+            "score": 0.00135
+        },
+        {
+            "name": "Jasione maritima (Duby) L.M.Dufour ex Merino",
+            "id": "1489806",
+            "score": 0.00127
+        },
+        {
+            "name": "Carduus adpressus C.A.Mey.",
+            "id": "1502051",
+            "score": 0.00127
+        },
+        {
+            "name": "Echinops ritro L.",
+            "id": "1397374",
+            "score": 0.00124
+        },
+        {
+            "name": "Ptilostemon chamaepeuce (L.) Less.",
+            "id": "1398828",
+            "score": 0.00123
+        },
+        {
+            "name": "Cirsium undulatum Spreng.",
+            "id": "1815499",
+            "score": 0.00122
+        },
+        {
+            "name": "Sphaeranthus suaveolens DC.",
+            "id": "1747889",
+            "score": 0.00122
+        },
+        {
+            "name": "Solanum supinum Dunal",
+            "id": "1692228",
+            "score": 0.0012
+        },
+        {
+            "name": "Carduus spachianus Durieu",
+            "id": "1357352",
+            "score": 0.00119
+        },
+        {
+            "name": "Campuloclinium macrocephalum (Less.) DC.",
+            "id": "1502018",
+            "score": 0.00118
+        },
+        {
+            "name": "Cirsium discolor (Muhl. ex Willd.) Spreng.",
+            "id": "1411462",
+            "score": 0.00113
+        },
+        {
+            "name": "Dipsacus sativus (L.) Honck.",
+            "id": "1391749",
+            "score": 0.00113
+        },
+        {
+            "name": "Carduus litigiosus Nocca & Balb.",
+            "id": "1390734",
+            "score": 0.00112
+        },
+        {
+            "name": "Solanum heterodoxum Dunal",
+            "id": "1438378",
+            "score": 0.00111
+        },
+        {
+            "name": "Serratula tinctoria L.",
+            "id": "1357870",
+            "score": 0.00107
+        },
+        {
+            "name": "Carlina vulgaris L.",
+            "id": "1390949",
+            "score": 0.00107
+        },
+        {
+            "name": "Cirsium dissectum (L.) Hill",
+            "id": "1391190",
+            "score": 0.00106
+        },
+        {
+            "name": "Onopordum macracanthum Schousb.",
+            "id": "1357734",
+            "score": 0.00104
+        },
+        {
+            "name": "Solanum sisymbriifolium Lam.",
+            "id": "1356170",
+            "score": 0.001
+        },
+        {
+            "name": "Conocliniopsis prasiifolia (DC.) R.M.King & H.Rob.",
+            "id": "1504215",
+            "score": 0.001
+        },
+        {
+            "name": "Solanum osteocarpum A.R.Bean",
+            "id": "1807484",
+            "score": 0.00096
+        },
+        {
+            "name": "Carlina hispanica Lam.",
+            "id": "1357358",
+            "score": 0.00069
+        },
+        {
+            "name": "Cirsium horridulum Michx.",
+            "id": "1441375",
+            "score": 0.00049
+        },
+        {
+            "name": "Sonchus asper (L.) Hill",
+            "id": "1357875",
+            "score": 0.00046
+        },
+        {
+            "name": "Cirsium hydrophilum Jeps.",
+            "id": "1818495",
+            "score": 0.0004
+        }
+    ]
+}

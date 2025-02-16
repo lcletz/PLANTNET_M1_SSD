@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Viburnum opulus L.",
+            "id": "1361743",
+            "score": 0.56213
+        },
+        {
+            "name": "Philadelphus coronarius L.",
+            "id": "1394509",
+            "score": 0.00466
+        },
+        {
+            "name": "Vitis riparia Michx.",
+            "id": "1363006",
+            "score": 0.00191
+        },
+        {
+            "name": "Humulus lupulus L.",
+            "id": "1356781",
+            "score": 0.00129
+        },
+        {
+            "name": "Silphium perfoliatum L.",
+            "id": "1396301",
+            "score": 0.00106
+        },
+        {
+            "name": "Symphoricarpos albus (L.) S.F.Blake",
+            "id": "1397506",
+            "score": 0.00032
+        },
+        {
+            "name": "Acer pseudoplatanus L.",
+            "id": "1356460",
+            "score": 0.00031
+        },
+        {
+            "name": "Ribes alpinum L.",
+            "id": "1358682",
+            "score": 0.00029
+        }
+    ]
+}

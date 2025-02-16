@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Linum usitatissimum L.",
+            "id": "1356040",
+            "score": 0.53313
+        },
+        {
+            "name": "Linum bienne Mill.",
+            "id": "1359591",
+            "score": 0.36452
+        },
+        {
+            "name": "Linum alpinum Jacq.",
+            "id": "1393605",
+            "score": 0.00686
+        },
+        {
+            "name": "Linum austriacum L.",
+            "id": "1359590",
+            "score": 0.00173
+        }
+    ]
+}

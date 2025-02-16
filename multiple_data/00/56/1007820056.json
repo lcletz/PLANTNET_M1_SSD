@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.80518
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.04844
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.01982
+        },
+        {
+            "name": "Prunus × fruticans Weihe",
+            "id": "1667948",
+            "score": 0.01702
+        },
+        {
+            "name": "Vaccinium uliginosum L.",
+            "id": "1396970",
+            "score": 0.00365
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.00356
+        },
+        {
+            "name": "Prunus maritima Marshall",
+            "id": "1420417",
+            "score": 0.00323
+        },
+        {
+            "name": "Prunus insititia L.",
+            "id": "1360321",
+            "score": 0.00218
+        },
+        {
+            "name": "Prunus brigantina Vill.",
+            "id": "1394945",
+            "score": 0.00143
+        }
+    ]
+}

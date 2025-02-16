@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ulmus glabra Huds.",
+            "id": "1397552",
+            "score": 0.72622
+        },
+        {
+            "name": "Ulmus laevis Pall.",
+            "id": "1396951",
+            "score": 0.15779
+        },
+        {
+            "name": "Ulmus americana L.",
+            "id": "1390323",
+            "score": 0.02549
+        },
+        {
+            "name": "Ulmus elliptica K.Koch",
+            "id": "1694419",
+            "score": 0.00619
+        },
+        {
+            "name": "Ulmus minor Mill.",
+            "id": "1360607",
+            "score": 0.00604
+        },
+        {
+            "name": "Ulmus rubra Muhl.",
+            "id": "1414126",
+            "score": 0.00283
+        },
+        {
+            "name": "Ulmus pumila L.",
+            "id": "1390603",
+            "score": 0.00103
+        },
+        {
+            "name": "Zelkova serrata (Thunb.) Makino",
+            "id": "1398535",
+            "score": 0.00101
+        }
+    ]
+}

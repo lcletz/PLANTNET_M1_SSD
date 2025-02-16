@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Malus sylvestris (L.) Mill.",
+            "id": "1420379",
+            "score": 0.19964
+        },
+        {
+            "name": "Malus domestica (Suckow) Borkh.",
+            "id": "1729464",
+            "score": 0.02066
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00499
+        },
+        {
+            "name": "Crataegus laevigata (Poir.) DC.",
+            "id": "1360293",
+            "score": 0.00129
+        },
+        {
+            "name": "Cydonia oblonga Mill.",
+            "id": "1363999",
+            "score": 0.00122
+        },
+        {
+            "name": "Crataegus azarolus L.",
+            "id": "1360290",
+            "score": 0.00122
+        }
+    ]
+}

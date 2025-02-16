@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Cistus albidus L.",
+            "id": "1357096",
+            "score": 0.90164
+        },
+        {
+            "name": "Cistus crispus L.",
+            "id": "1357100",
+            "score": 0.0346
+        },
+        {
+            "name": "Cistus creticus L.",
+            "id": "1357099",
+            "score": 0.00628
+        },
+        {
+            "name": "Cistus heterophyllus Desf.",
+            "id": "1357102",
+            "score": 0.00417
+        },
+        {
+            "name": "Cistus × incanus L.",
+            "id": "1495412",
+            "score": 0.00126
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salvia fruticosa Mill.",
+            "id": "1358866",
+            "score": 0.69282
+        },
+        {
+            "name": "Salvia officinalis L.",
+            "id": "1356118",
+            "score": 0.19268
+        },
+        {
+            "name": "Thymus vulgaris L.",
+            "id": "1356108",
+            "score": 0.00497
+        },
+        {
+            "name": "Satureja montana L.",
+            "id": "1361829",
+            "score": 0.00393
+        },
+        {
+            "name": "Salvia × auriculata Mill.",
+            "id": "1562391",
+            "score": 0.00332
+        },
+        {
+            "name": "Salvia leucophylla Greene",
+            "id": "1437801",
+            "score": 0.00179
+        },
+        {
+            "name": "Satureja hortensis L.",
+            "id": "1395936",
+            "score": 0.00154
+        },
+        {
+            "name": "Salvia microphylla Kunth",
+            "id": "1356117",
+            "score": 0.00135
+        }
+    ]
+}

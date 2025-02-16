@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Capsicum annuum L.",
+            "id": "1361992",
+            "score": 0.86881
+        },
+        {
+            "name": "Capsicum chinense Jacq.",
+            "id": "1377886",
+            "score": 0.05673
+        },
+        {
+            "name": "Capsicum frutescens L.",
+            "id": "1356148",
+            "score": 0.04238
+        },
+        {
+            "name": "Physalis angulata L.",
+            "id": "1356152",
+            "score": 0.00157
+        },
+        {
+            "name": "Physalis philadelphica Lam.",
+            "id": "1356154",
+            "score": 0.00139
+        },
+        {
+            "name": "Capsicum baccatum L.",
+            "id": "1420706",
+            "score": 0.00107
+        }
+    ]
+}

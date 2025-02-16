@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Oenothera glazioviana Micheli",
+            "id": "1361960",
+            "score": 0.36096
+        },
+        {
+            "name": "Oenothera biennis L.",
+            "id": "1361953",
+            "score": 0.35111
+        },
+        {
+            "name": "Oenothera parviflora L.",
+            "id": "1394019",
+            "score": 0.0395
+        },
+        {
+            "name": "Oenothera stricta Ledeb. ex Link",
+            "id": "1361986",
+            "score": 0.01186
+        },
+        {
+            "name": "Oenothera villosa Thunb.",
+            "id": "1361959",
+            "score": 0.00415
+        },
+        {
+            "name": "Oenothera longiflora L.",
+            "id": "1359691",
+            "score": 0.00239
+        }
+    ]
+}

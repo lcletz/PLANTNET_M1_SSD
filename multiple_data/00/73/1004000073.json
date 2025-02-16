@@ -1,0 +1,440 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.17962
+        },
+        {
+            "name": "Populus tremula L.",
+            "id": "1360449",
+            "score": 0.06137
+        },
+        {
+            "name": "Abies alba Mill.",
+            "id": "1397299",
+            "score": 0.04202
+        },
+        {
+            "name": "Fraxinus angustifolia Vahl",
+            "id": "1362009",
+            "score": 0.03612
+        },
+        {
+            "name": "Fraxinus ornus L.",
+            "id": "1362963",
+            "score": 0.02611
+        },
+        {
+            "name": "Acer rubrum L.",
+            "id": "1398406",
+            "score": 0.02256
+        },
+        {
+            "name": "Alnus cordata (Loisel.) Duby",
+            "id": "1397307",
+            "score": 0.02056
+        },
+        {
+            "name": "Populus alba L.",
+            "id": "1364046",
+            "score": 0.02001
+        },
+        {
+            "name": "Acer pseudoplatanus L.",
+            "id": "1356460",
+            "score": 0.01991
+        },
+        {
+            "name": "Alnus incana (L.) Moench",
+            "id": "1397308",
+            "score": 0.01747
+        },
+        {
+            "name": "Pinus strobus L.",
+            "id": "1394616",
+            "score": 0.01628
+        },
+        {
+            "name": "Populus balsamifera L.",
+            "id": "1394775",
+            "score": 0.01617
+        },
+        {
+            "name": "Sorbus aucuparia L.",
+            "id": "1362987",
+            "score": 0.01608
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.01523
+        },
+        {
+            "name": "Alnus glutinosa (L.) Gaertn.",
+            "id": "1356608",
+            "score": 0.0139
+        },
+        {
+            "name": "Populus tremuloides Michx.",
+            "id": "1413261",
+            "score": 0.01272
+        },
+        {
+            "name": "Betula pendula Roth",
+            "id": "1356609",
+            "score": 0.01249
+        },
+        {
+            "name": "Cedrus libani A.Rich.",
+            "id": "1390973",
+            "score": 0.01221
+        },
+        {
+            "name": "Abies balsamea (L.) Mill.",
+            "id": "1398265",
+            "score": 0.01202
+        },
+        {
+            "name": "Quercus rubra L.",
+            "id": "1395035",
+            "score": 0.01095
+        },
+        {
+            "name": "Aria edulis (Willd.) M.Roem.",
+            "id": "1737559",
+            "score": 0.01032
+        },
+        {
+            "name": "Ilex aquifolium L.",
+            "id": "1356576",
+            "score": 0.0095
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.00906
+        },
+        {
+            "name": "Fraxinus americana L.",
+            "id": "1397619",
+            "score": 0.00905
+        },
+        {
+            "name": "Juglans regia L.",
+            "id": "1358713",
+            "score": 0.00899
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.00771
+        },
+        {
+            "name": "Betula pubescens Ehrh.",
+            "id": "1362746",
+            "score": 0.00755
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.0073
+        },
+        {
+            "name": "Torminalis glaberrima (Gand.) Sennikov & Kurtto",
+            "id": "1737588",
+            "score": 0.00717
+        },
+        {
+            "name": "Abies nordmanniana (Steven) Spach",
+            "id": "1393306",
+            "score": 0.00669
+        },
+        {
+            "name": "Castanea sativa Mill.",
+            "id": "1358610",
+            "score": 0.00645
+        },
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.00628
+        },
+        {
+            "name": "Celtis australis L.",
+            "id": "1361742",
+            "score": 0.00627
+        },
+        {
+            "name": "Picea abies (L.) H.Karst.",
+            "id": "1397459",
+            "score": 0.0062
+        },
+        {
+            "name": "Cedrus deodara (Roxb. ex D.Don) G.Don",
+            "id": "1390972",
+            "score": 0.00605
+        },
+        {
+            "name": "Prunus serotina Ehrh.",
+            "id": "1370859",
+            "score": 0.00604
+        },
+        {
+            "name": "Fagus grandifolia Ehrh.",
+            "id": "1412056",
+            "score": 0.00502
+        },
+        {
+            "name": "Ulmus minor Mill.",
+            "id": "1360607",
+            "score": 0.00484
+        },
+        {
+            "name": "Liquidambar styraciflua L.",
+            "id": "1393613",
+            "score": 0.00476
+        },
+        {
+            "name": "Rhamnus cathartica L.",
+            "id": "1360262",
+            "score": 0.00475
+        },
+        {
+            "name": "Pseudotsuga menziesii (Mirb.) Franco",
+            "id": "1394967",
+            "score": 0.00408
+        },
+        {
+            "name": "Albizia julibrissin Durazz.",
+            "id": "1391958",
+            "score": 0.00384
+        },
+        {
+            "name": "Acer opalus Mill.",
+            "id": "1362399",
+            "score": 0.0037
+        },
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.00362
+        },
+        {
+            "name": "Acer platanoides L.",
+            "id": "1397301",
+            "score": 0.00358
+        },
+        {
+            "name": "Picea rubens Sarg.",
+            "id": "1388958",
+            "score": 0.00319
+        },
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.00272
+        },
+        {
+            "name": "Abies concolor (Gordon & Glend.) Lindl. ex Hildebr.",
+            "id": "1396925",
+            "score": 0.00266
+        },
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.00255
+        },
+        {
+            "name": "Populus tristis Fisch.",
+            "id": "1741869",
+            "score": 0.0025
+        },
+        {
+            "name": "Tilia cordata Mill.",
+            "id": "1396797",
+            "score": 0.00245
+        },
+        {
+            "name": "Acer saccharinum L.",
+            "id": "1391667",
+            "score": 0.00239
+        },
+        {
+            "name": "Ulmus americana L.",
+            "id": "1390323",
+            "score": 0.00239
+        },
+        {
+            "name": "Corylus avellana L.",
+            "id": "1391368",
+            "score": 0.00234
+        },
+        {
+            "name": "Quercus palustris Münchh.",
+            "id": "1397592",
+            "score": 0.0023
+        },
+        {
+            "name": "Quercus velutina Lam.",
+            "id": "1398376",
+            "score": 0.00208
+        },
+        {
+            "name": "Ulmus glabra Huds.",
+            "id": "1397552",
+            "score": 0.00192
+        },
+        {
+            "name": "Salix caprea L.",
+            "id": "1395765",
+            "score": 0.00187
+        },
+        {
+            "name": "Pinus halepensis Mill.",
+            "id": "1397460",
+            "score": 0.00182
+        },
+        {
+            "name": "Tilia platyphyllos Scop.",
+            "id": "1396802",
+            "score": 0.00178
+        },
+        {
+            "name": "Malus sylvestris (L.) Mill.",
+            "id": "1420379",
+            "score": 0.00173
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00171
+        },
+        {
+            "name": "Prunus lusitanica L.",
+            "id": "1360322",
+            "score": 0.00171
+        },
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.00168
+        },
+        {
+            "name": "Pyrus calleryana Decne.",
+            "id": "1395003",
+            "score": 0.00165
+        },
+        {
+            "name": "Scandosorbus intermedia (Ehrh.) Sennikov",
+            "id": "1737669",
+            "score": 0.00163
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.00162
+        },
+        {
+            "name": "Laburnum anagyroides Medik.",
+            "id": "1397419",
+            "score": 0.0016
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.00157
+        },
+        {
+            "name": "Populus × canescens (Aiton) Sm.",
+            "id": "1683819",
+            "score": 0.00155
+        },
+        {
+            "name": "Frangula alnus Mill.",
+            "id": "1360257",
+            "score": 0.00146
+        },
+        {
+            "name": "Ligustrum lucidum W.T.Aiton",
+            "id": "1393525",
+            "score": 0.00143
+        },
+        {
+            "name": "Tilia americana L.",
+            "id": "1397800",
+            "score": 0.00141
+        },
+        {
+            "name": "Laurus nobilis L.",
+            "id": "1363362",
+            "score": 0.00135
+        },
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.00133
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.00129
+        },
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.00128
+        },
+        {
+            "name": "Acer monspessulanum L.",
+            "id": "1356457",
+            "score": 0.00123
+        },
+        {
+            "name": "Cormus domestica (L.) Spach",
+            "id": "1738846",
+            "score": 0.00113
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00112
+        },
+        {
+            "name": "Ilex opaca Aiton",
+            "id": "1420705",
+            "score": 0.00112
+        },
+        {
+            "name": "Quercus faginea Lam.",
+            "id": "1358614",
+            "score": 0.00107
+        },
+        {
+            "name": "Quercus nigra L.",
+            "id": "1389501",
+            "score": 0.00107
+        },
+        {
+            "name": "Populus grandidentata Michx.",
+            "id": "1413259",
+            "score": 0.00104
+        },
+        {
+            "name": "Quercus macrocarpa Michx.",
+            "id": "1413406",
+            "score": 0.00103
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.00103
+        },
+        {
+            "name": "Malus domestica (Suckow) Borkh.",
+            "id": "1729464",
+            "score": 0.00102
+        }
+    ]
+}

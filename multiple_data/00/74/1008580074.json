@@ -1,0 +1,290 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Laurus nobilis L.",
+            "id": "1363362",
+            "score": 0.33284
+        },
+        {
+            "name": "Arbutus unedo L.",
+            "id": "1358500",
+            "score": 0.07829
+        },
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.06781
+        },
+        {
+            "name": "Phillyrea latifolia L.",
+            "id": "1359678",
+            "score": 0.05623
+        },
+        {
+            "name": "Rhamnus alaternus L.",
+            "id": "1360260",
+            "score": 0.03866
+        },
+        {
+            "name": "Ilex aquifolium L.",
+            "id": "1356576",
+            "score": 0.03249
+        },
+        {
+            "name": "Quercus chrysolepis Liebm.",
+            "id": "1437100",
+            "score": 0.02595
+        },
+        {
+            "name": "Laurus azorica (Seub.) Franco",
+            "id": "1359057",
+            "score": 0.01688
+        },
+        {
+            "name": "Manilkara concolor (Harv.) Gerstner",
+            "id": "1372913",
+            "score": 0.01404
+        },
+        {
+            "name": "Ceratonia siliqua L.",
+            "id": "1363660",
+            "score": 0.01062
+        },
+        {
+            "name": "Myrica faya Aiton",
+            "id": "1399738",
+            "score": 0.01062
+        },
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.008
+        },
+        {
+            "name": "Arbutus andrachne L.",
+            "id": "1395933",
+            "score": 0.00793
+        },
+        {
+            "name": "Quercus agrifolia Née",
+            "id": "1419070",
+            "score": 0.00763
+        },
+        {
+            "name": "Pistacia lentiscus L.",
+            "id": "1356290",
+            "score": 0.00746
+        },
+        {
+            "name": "Quercus virginiana Mill.",
+            "id": "1419081",
+            "score": 0.00738
+        },
+        {
+            "name": "Ilex crenata Thunb.",
+            "id": "1420655",
+            "score": 0.00669
+        },
+        {
+            "name": "Ilex cornuta Lindl. & Paxton",
+            "id": "1420652",
+            "score": 0.00631
+        },
+        {
+            "name": "Salix atrocinerea Brot.",
+            "id": "1360451",
+            "score": 0.00535
+        },
+        {
+            "name": "Quercus faginea Lam.",
+            "id": "1358614",
+            "score": 0.0051
+        },
+        {
+            "name": "Buxus balearica Lam.",
+            "id": "1356728",
+            "score": 0.00441
+        },
+        {
+            "name": "Quercus fusiformis Small",
+            "id": "1437108",
+            "score": 0.00437
+        },
+        {
+            "name": "Buxus sempervirens L.",
+            "id": "1356729",
+            "score": 0.00431
+        },
+        {
+            "name": "Quercus coccifera L.",
+            "id": "1358613",
+            "score": 0.00421
+        },
+        {
+            "name": "Pittosporum tobira (Thunb.) W.T.Aiton",
+            "id": "1394624",
+            "score": 0.00409
+        },
+        {
+            "name": "Phillyrea angustifolia L.",
+            "id": "1359677",
+            "score": 0.00387
+        },
+        {
+            "name": "Salix cinerea L.",
+            "id": "1362486",
+            "score": 0.0037
+        },
+        {
+            "name": "Pittosporum heterophyllum Franch.",
+            "id": "1390596",
+            "score": 0.00324
+        },
+        {
+            "name": "Osmanthus heterophyllus (G.Don) P.S.Green",
+            "id": "1398602",
+            "score": 0.00307
+        },
+        {
+            "name": "Conocarpus erectus L.",
+            "id": "1383022",
+            "score": 0.00271
+        },
+        {
+            "name": "Myrsine melanophloeos (L.) R.Br. ex Sweet",
+            "id": "1749324",
+            "score": 0.0027
+        },
+        {
+            "name": "Ficus elastica Roxb. ex Hornem.",
+            "id": "1403870",
+            "score": 0.00269
+        },
+        {
+            "name": "Quercus robur L.",
+            "id": "1357413",
+            "score": 0.0024
+        },
+        {
+            "name": "Myrtus communis L.",
+            "id": "1359662",
+            "score": 0.00234
+        },
+        {
+            "name": "Pittosporum viridiflorum Sims",
+            "id": "1421780",
+            "score": 0.00234
+        },
+        {
+            "name": "Quercus rugosa Née",
+            "id": "1437148",
+            "score": 0.00218
+        },
+        {
+            "name": "Calophyllum brasiliense Cambess.",
+            "id": "1401137",
+            "score": 0.00199
+        },
+        {
+            "name": "Olea europaea L.",
+            "id": "1359676",
+            "score": 0.00186
+        },
+        {
+            "name": "Calophyllum inophyllum L.",
+            "id": "1373792",
+            "score": 0.00177
+        },
+        {
+            "name": "Quercus berberidifolia Liebm.",
+            "id": "1437093",
+            "score": 0.00168
+        },
+        {
+            "name": "Ficus microcarpa L.f.",
+            "id": "1409180",
+            "score": 0.00164
+        },
+        {
+            "name": "Macadamia integrifolia Maiden & Betche",
+            "id": "1370676",
+            "score": 0.00154
+        },
+        {
+            "name": "Gomortega keule (Molina) Baill.",
+            "id": "1553763",
+            "score": 0.00146
+        },
+        {
+            "name": "Lomatia dentata R.Br.",
+            "id": "1662425",
+            "score": 0.0014
+        },
+        {
+            "name": "Ilex vomitoria Aiton",
+            "id": "1420734",
+            "score": 0.00139
+        },
+        {
+            "name": "Magnolia grandiflora L.",
+            "id": "1393723",
+            "score": 0.00133
+        },
+        {
+            "name": "Apodytes dimidiata E.Mey. ex Arn.",
+            "id": "1408597",
+            "score": 0.00126
+        },
+        {
+            "name": "Visnea mocanera L.f.",
+            "id": "1399906",
+            "score": 0.00122
+        },
+        {
+            "name": "Psidium cattleyanum Sabine",
+            "id": "1419578",
+            "score": 0.00121
+        },
+        {
+            "name": "Ilex canariensis Poir.",
+            "id": "1356577",
+            "score": 0.0012
+        },
+        {
+            "name": "Ficus rubiginosa Desf. ex Vent.",
+            "id": "1362952",
+            "score": 0.00115
+        },
+        {
+            "name": "Ficus soatensis Dugand",
+            "id": "1602213",
+            "score": 0.00113
+        },
+        {
+            "name": "Calophyllum calaba L.",
+            "id": "1410904",
+            "score": 0.00112
+        },
+        {
+            "name": "Prunus laurocerasus L.",
+            "id": "1394952",
+            "score": 0.00112
+        },
+        {
+            "name": "Myrceugenia exsucca (DC.) O.Berg",
+            "id": "1605903",
+            "score": 0.00111
+        },
+        {
+            "name": "Beilschmiedia berteroana (Gay) Kosterm.",
+            "id": "1565266",
+            "score": 0.00106
+        },
+        {
+            "name": "Salix caprea L.",
+            "id": "1395765",
+            "score": 0.00104
+        }
+    ]
+}

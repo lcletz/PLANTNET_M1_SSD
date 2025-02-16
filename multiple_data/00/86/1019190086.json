@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Saponaria officinalis L.",
+            "id": "1356803",
+            "score": 0.80573
+        },
+        {
+            "name": "Saponaria caespitosa DC.",
+            "id": "1395928",
+            "score": 0.02985
+        },
+        {
+            "name": "Silene dichotoma Ehrh.",
+            "id": "1356984",
+            "score": 0.00637
+        },
+        {
+            "name": "Atocion armeria (L.) Raf.",
+            "id": "1398690",
+            "score": 0.00367
+        },
+        {
+            "name": "Silene uniflora Roth",
+            "id": "1396296",
+            "score": 0.00218
+        },
+        {
+            "name": "Silene latifolia Poir.",
+            "id": "1357009",
+            "score": 0.00108
+        }
+    ]
+}

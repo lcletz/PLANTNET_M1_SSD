@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Myosotis sylvatica Hoffm.",
+            "id": "1397441",
+            "score": 0.51238
+        },
+        {
+            "name": "Myosotis alpestris F.W.Schmidt",
+            "id": "1393878",
+            "score": 0.05926
+        },
+        {
+            "name": "Myosotis scorpioides L.",
+            "id": "1393897",
+            "score": 0.01559
+        },
+        {
+            "name": "Valerianella locusta (L.) Laterr.",
+            "id": "1364098",
+            "score": 0.00282
+        },
+        {
+            "name": "Bellis perennis L.",
+            "id": "1357317",
+            "score": 0.00184
+        },
+        {
+            "name": "Pilosella aurantiaca (L.) F.W.Schultz & Sch.Bip.",
+            "id": "1394567",
+            "score": 0.00182
+        },
+        {
+            "name": "Pulmonaria longifolia (Bastard) Boreau",
+            "id": "1394983",
+            "score": 0.00101
+        }
+    ]
+}

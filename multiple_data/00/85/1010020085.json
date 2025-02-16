@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.75214
+        },
+        {
+            "name": "Syringa persica L.",
+            "id": "1419641",
+            "score": 0.16489
+        },
+        {
+            "name": "Syringa oblata Lindl.",
+            "id": "1419640",
+            "score": 0.0299
+        },
+        {
+            "name": "Syringa × hyacinthiflora Rehder",
+            "id": "1844889",
+            "score": 0.00183
+        },
+        {
+            "name": "Syringa pubescens Turcz.",
+            "id": "1609521",
+            "score": 0.00165
+        }
+    ]
+}

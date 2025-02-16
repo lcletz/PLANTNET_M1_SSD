@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Artemisia vulgaris L.",
+            "id": "1364152",
+            "score": 0.92028
+        },
+        {
+            "name": "Artemisia verlotiorum Lamotte",
+            "id": "1357291",
+            "score": 0.01064
+        },
+        {
+            "name": "Artemisia campestris L.",
+            "id": "1357275",
+            "score": 0.00553
+        },
+        {
+            "name": "Artemisia annua L.",
+            "id": "1382106",
+            "score": 0.00225
+        },
+        {
+            "name": "Artemisia absinthium L.",
+            "id": "1357268",
+            "score": 0.00166
+        },
+        {
+            "name": "Artemisia princeps Pamp.",
+            "id": "1499799",
+            "score": 0.00145
+        }
+    ]
+}

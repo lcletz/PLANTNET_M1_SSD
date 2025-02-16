@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Yucca gloriosa L.",
+            "id": "1362946",
+            "score": 0.81605
+        },
+        {
+            "name": "Yucca filamentosa L.",
+            "id": "1397243",
+            "score": 0.11695
+        },
+        {
+            "name": "Yucca aloifolia L.",
+            "id": "1398112",
+            "score": 0.02264
+        },
+        {
+            "name": "Agave sisalana Perrine",
+            "id": "1357953",
+            "score": 0.01696
+        },
+        {
+            "name": "Furcraea foetida (L.) Haw.",
+            "id": "1357992",
+            "score": 0.00637
+        }
+    ]
+}

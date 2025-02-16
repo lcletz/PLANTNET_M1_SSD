@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Syringa reticulata (Blume) H.Hara",
+            "id": "1609522",
+            "score": 0.72489
+        },
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.07956
+        },
+        {
+            "name": "Syringa oblata Lindl.",
+            "id": "1419640",
+            "score": 0.07572
+        },
+        {
+            "name": "Syringa persica L.",
+            "id": "1419641",
+            "score": 0.04641
+        },
+        {
+            "name": "Syringa pubescens Turcz.",
+            "id": "1609521",
+            "score": 0.00612
+        }
+    ]
+}

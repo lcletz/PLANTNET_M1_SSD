@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Chaenomeles speciosa (Sweet) Nakai",
+            "id": "1391104",
+            "score": 0.50572
+        },
+        {
+            "name": "Chaenomeles japonica (Thunb.) Lindl. ex Spach",
+            "id": "1391103",
+            "score": 0.3143
+        },
+        {
+            "name": "Chaenomeles × superba (Frahm) Rehder",
+            "id": "1666806",
+            "score": 0.10651
+        },
+        {
+            "name": "Rosa pendulina L.",
+            "id": "1395329",
+            "score": 0.00161
+        },
+        {
+            "name": "Malus × floribunda Siebold ex Van Houtte",
+            "id": "1782760",
+            "score": 0.00124
+        },
+        {
+            "name": "Prunus persica (L.) Batsch",
+            "id": "1363997",
+            "score": 0.00107
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00107
+        }
+    ]
+}

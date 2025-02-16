@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Silybum marianum (L.) Gaertn.",
+            "id": "1364100",
+            "score": 0.92597
+        },
+        {
+            "name": "Centaurea iberica Trevir. ex Spreng.",
+            "id": "1397697",
+            "score": 0.00593
+        },
+        {
+            "name": "Carduus nutans L.",
+            "id": "1357350",
+            "score": 0.00555
+        },
+        {
+            "name": "Silybum eburneum Coss. & Durieu",
+            "id": "1357871",
+            "score": 0.00463
+        },
+        {
+            "name": "Notobasis syriaca (L.) Cass.",
+            "id": "1357722",
+            "score": 0.00444
+        },
+        {
+            "name": "Onopordum algeriense Pomel",
+            "id": "1747770",
+            "score": 0.00419
+        },
+        {
+            "name": "Onopordum tauricum Willd.",
+            "id": "1394059",
+            "score": 0.00373
+        },
+        {
+            "name": "Centaurea calcitrapa L.",
+            "id": "1355884",
+            "score": 0.00197
+        },
+        {
+            "name": "Tyrimnus leucographus (L.) Cass.",
+            "id": "1357951",
+            "score": 0.00141
+        },
+        {
+            "name": "Scolymus hispanicus L.",
+            "id": "1357848",
+            "score": 0.00115
+        },
+        {
+            "name": "Tragopogon porrifolius L.",
+            "id": "1364168",
+            "score": 0.00104
+        },
+        {
+            "name": "Carduus pycnocephalus L.",
+            "id": "1357351",
+            "score": 0.00099
+        }
+    ]
+}

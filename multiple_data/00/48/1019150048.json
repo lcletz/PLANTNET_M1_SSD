@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Ailanthus altissima (Mill.) Swingle",
+            "id": "1360547",
+            "score": 0.65006
+        },
+        {
+            "name": "Sorbaria sorbifolia (L.) A.Braun",
+            "id": "1396352",
+            "score": 0.02218
+        },
+        {
+            "name": "Rhus typhina L.",
+            "id": "1395193",
+            "score": 0.00571
+        },
+        {
+            "name": "Apios americana Medik.",
+            "id": "1395209",
+            "score": 0.0022
+        }
+    ]
+}

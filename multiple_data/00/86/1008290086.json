@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ocimum americanum L.",
+            "id": "1419267",
+            "score": 0.53727
+        },
+        {
+            "name": "Ocimum basilicum L.",
+            "id": "1361975",
+            "score": 0.36314
+        },
+        {
+            "name": "Ocimum kilimandscharicum Gürke",
+            "id": "1561124",
+            "score": 0.02439
+        },
+        {
+            "name": "Ocimum × africanum Lour.",
+            "id": "1561102",
+            "score": 0.02156
+        },
+        {
+            "name": "Ocimum campechianum Mill.",
+            "id": "1406351",
+            "score": 0.00853
+        },
+        {
+            "name": "Ocimum tenuiflorum L.",
+            "id": "1377338",
+            "score": 0.00366
+        },
+        {
+            "name": "Mentha pulegium L.",
+            "id": "1356106",
+            "score": 0.0012
+        },
+        {
+            "name": "Mentha × piperita L.",
+            "id": "1560691",
+            "score": 0.00105
+        }
+    ]
+}

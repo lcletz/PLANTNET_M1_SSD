@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.45848
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.07845
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.01956
+        },
+        {
+            "name": "Broussonetia papyrifera (L.) L'Hér. ex Vent.",
+            "id": "1362912",
+            "score": 0.00112
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00106
+        }
+    ]
+}

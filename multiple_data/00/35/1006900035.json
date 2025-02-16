@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Nigella damascena L.",
+            "id": "1360185",
+            "score": 0.53135
+        },
+        {
+            "name": "Nigella arvensis L.",
+            "id": "1360184",
+            "score": 0.29536
+        },
+        {
+            "name": "Nigella sativa L.",
+            "id": "1363976",
+            "score": 0.08116
+        },
+        {
+            "name": "Nigella hispanica L.",
+            "id": "1393957",
+            "score": 0.00803
+        },
+        {
+            "name": "Nigella orientalis L.",
+            "id": "1664380",
+            "score": 0.00121
+        }
+    ]
+}

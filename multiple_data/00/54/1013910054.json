@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Centaurea cyanus L.",
+            "id": "1411387",
+            "score": 0.52757
+        },
+        {
+            "name": "Centaurea triumfettii All.",
+            "id": "1426115",
+            "score": 0.00833
+        },
+        {
+            "name": "Centaurea sulphurea Willd.",
+            "id": "1357457",
+            "score": 0.00817
+        },
+        {
+            "name": "Centaurea lugdunensis Jord.",
+            "id": "1743761",
+            "score": 0.00111
+        },
+        {
+            "name": "Gilia capitata Sims",
+            "id": "1394722",
+            "score": 0.00107
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stachys recta L.",
+            "id": "1396435",
+            "score": 0.89744
+        },
+        {
+            "name": "Stachys ocymastrum (L.) Briq.",
+            "id": "1358946",
+            "score": 0.0079
+        },
+        {
+            "name": "Prunella laciniata (L.) L.",
+            "id": "1358854",
+            "score": 0.00325
+        },
+        {
+            "name": "Sideritis hyssopifolia L.",
+            "id": "1362495",
+            "score": 0.00315
+        },
+        {
+            "name": "Sideritis hirsuta L.",
+            "id": "1358906",
+            "score": 0.00174
+        },
+        {
+            "name": "Betonica alopecuros L.",
+            "id": "1398116",
+            "score": 0.00169
+        },
+        {
+            "name": "Stachys annua (L.) L.",
+            "id": "1358932",
+            "score": 0.00152
+        }
+    ]
+}

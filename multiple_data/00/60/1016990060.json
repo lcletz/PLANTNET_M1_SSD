@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ornithogalum dubium Houtt.",
+            "id": "1472834",
+            "score": 0.9153
+        },
+        {
+            "name": "Ornithogalum arabicum L.",
+            "id": "1361510",
+            "score": 0.01926
+        },
+        {
+            "name": "Tulipa gesneriana L.",
+            "id": "1396919",
+            "score": 0.00359
+        },
+        {
+            "name": "Ornithogalum thyrsoides Jacq.",
+            "id": "1417728",
+            "score": 0.0017
+        },
+        {
+            "name": "Tulipa praestans H.B.May",
+            "id": "1419346",
+            "score": 0.00127
+        }
+    ]
+}

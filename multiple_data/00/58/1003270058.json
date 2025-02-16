@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viola × wittrockiana Gams",
+            "id": "1844934",
+            "score": 0.95451
+        },
+        {
+            "name": "Viola tricolor L.",
+            "id": "1356215",
+            "score": 0.02313
+        },
+        {
+            "name": "Viola × williamsii Wittr.",
+            "id": "1844933",
+            "score": 0.00336
+        },
+        {
+            "name": "Viola × melissifolia Greene",
+            "id": "1815747",
+            "score": 0.00176
+        },
+        {
+            "name": "Viola lutea Huds.",
+            "id": "1397161",
+            "score": 0.00126
+        },
+        {
+            "name": "Viola cornuta L.",
+            "id": "1397137",
+            "score": 0.00121
+        },
+        {
+            "name": "Viola calcarata L.",
+            "id": "1397129",
+            "score": 0.00115
+        }
+    ]
+}

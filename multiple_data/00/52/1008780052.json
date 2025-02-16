@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Malus sylvestris Mill.",
+            "id": "1364002",
+            "score": 0.41638
+        },
+        {
+            "name": "Malus pumila Mill.",
+            "id": "1362849",
+            "score": 0.01842
+        },
+        {
+            "name": "Crataegus azarolus L.",
+            "id": "1360290",
+            "score": 0.00134
+        },
+        {
+            "name": "Sorbus domestica L.",
+            "id": "1360365",
+            "score": 0.00128
+        },
+        {
+            "name": "Amelanchier ovalis Medik.",
+            "id": "1360275",
+            "score": 0.00116
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.00115
+        },
+        {
+            "name": "Pyrus spinosa Forssk.",
+            "id": "1395014",
+            "score": 0.00101
+        }
+    ]
+}

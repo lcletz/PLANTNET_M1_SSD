@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Silene vulgaris (Moench) Garcke",
+            "id": "1357059",
+            "score": 0.90063
+        },
+        {
+            "name": "Silene uniflora Roth",
+            "id": "1396296",
+            "score": 0.02373
+        },
+        {
+            "name": "Silene behen L.",
+            "id": "1356963",
+            "score": 0.00373
+        },
+        {
+            "name": "Silene latifolia Poir.",
+            "id": "1357009",
+            "score": 0.00127
+        },
+        {
+            "name": "Silene nutans L.",
+            "id": "1357026",
+            "score": 0.00102
+        }
+    ]
+}

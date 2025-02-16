@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Gypsophila elegans M.Bieb.",
+            "id": "1392676",
+            "score": 0.94596
+        },
+        {
+            "name": "Gypsophila repens L.",
+            "id": "1392679",
+            "score": 0.00273
+        },
+        {
+            "name": "Gypsophila paniculata L.",
+            "id": "1392678",
+            "score": 0.00146
+        },
+        {
+            "name": "Arabis alpina L.",
+            "id": "1363887",
+            "score": 0.00123
+        },
+        {
+            "name": "Gypsophila acutifolia Steven ex Spreng.",
+            "id": "1492942",
+            "score": 0.00121
+        },
+        {
+            "name": "Arenaria grandiflora L.",
+            "id": "1356799",
+            "score": 0.00116
+        },
+        {
+            "name": "Ranunculus platanifolius L.",
+            "id": "1395114",
+            "score": 0.00106
+        }
+    ]
+}

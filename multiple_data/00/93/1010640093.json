@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.42188
+        },
+        {
+            "name": "Sambucus canadensis L.",
+            "id": "1356462",
+            "score": 0.40673
+        },
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.09946
+        },
+        {
+            "name": "Sambucus ebulus L.",
+            "id": "1356276",
+            "score": 0.0036
+        },
+        {
+            "name": "Viburnum prunifolium L.",
+            "id": "1417592",
+            "score": 0.00252
+        }
+    ]
+}

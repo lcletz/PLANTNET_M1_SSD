@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Convolvulus cneorum L.",
+            "id": "1357970",
+            "score": 0.83658
+        },
+        {
+            "name": "Convolvulus lanuginosus Desr.",
+            "id": "1357980",
+            "score": 0.08345
+        },
+        {
+            "name": "Convolvulus oleifolius Desr.",
+            "id": "1357987",
+            "score": 0.01317
+        },
+        {
+            "name": "Convolvulus lineatus L.",
+            "id": "1357981",
+            "score": 0.00955
+        },
+        {
+            "name": "Convolvulus arvensis L.",
+            "id": "1364006",
+            "score": 0.00176
+        }
+    ]
+}

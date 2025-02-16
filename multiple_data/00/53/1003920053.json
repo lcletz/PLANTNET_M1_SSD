@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Himantoglossum hircinum (L.) Spreng.",
+            "id": "1361650",
+            "score": 0.96098
+        },
+        {
+            "name": "Tragopogon porrifolius L.",
+            "id": "1364168",
+            "score": 0.00448
+        },
+        {
+            "name": "Tragopogon pratensis L.",
+            "id": "1396832",
+            "score": 0.0015
+        },
+        {
+            "name": "Anacamptis pyramidalis (L.) Rich.",
+            "id": "1361634",
+            "score": 0.00134
+        },
+        {
+            "name": "Ophrys apifera Huds.",
+            "id": "1361656",
+            "score": 0.00102
+        }
+    ]
+}

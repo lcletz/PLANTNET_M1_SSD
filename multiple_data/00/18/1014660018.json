@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.93958
+        },
+        {
+            "name": "Sorbus americana Marshall",
+            "id": "1413868",
+            "score": 0.00209
+        },
+        {
+            "name": "Sambucus ebulus L.",
+            "id": "1356276",
+            "score": 0.00153
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.00126
+        },
+        {
+            "name": "Panax ginseng C.A.Mey.",
+            "id": "1467670",
+            "score": 0.00114
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Ruscus aculeatus L.",
+            "id": "1361710",
+            "score": 0.74684
+        },
+        {
+            "name": "Ruscus hypophyllum L.",
+            "id": "1361711",
+            "score": 0.05713
+        },
+        {
+            "name": "Osyris lanceolata Hochst. & Steud.",
+            "id": "1364048",
+            "score": 0.00692
+        },
+        {
+            "name": "Genista germanica L.",
+            "id": "1392515",
+            "score": 0.00249
+        },
+        {
+            "name": "Myrtus communis L.",
+            "id": "1359662",
+            "score": 0.00134
+        }
+    ]
+}

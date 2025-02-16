@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Beaucarnea recurvata Lem.",
+            "id": "1417658",
+            "score": 0.46506
+        },
+        {
+            "name": "Beaucarnea gracilis Lem.",
+            "id": "1417657",
+            "score": 0.01545
+        },
+        {
+            "name": "Cordyline indivisa (G.Forst.) Endl.",
+            "id": "1409509",
+            "score": 0.01348
+        },
+        {
+            "name": "Cordyline australis (G.Forst.) Endl.",
+            "id": "1391346",
+            "score": 0.01246
+        },
+        {
+            "name": "Yucca aloifolia L.",
+            "id": "1398112",
+            "score": 0.00978
+        },
+        {
+            "name": "Yucca gloriosa L.",
+            "id": "1362946",
+            "score": 0.00618
+        }
+    ]
+}

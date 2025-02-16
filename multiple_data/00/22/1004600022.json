@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Helianthus tuberosus L.",
+            "id": "1357617",
+            "score": 0.9056
+        },
+        {
+            "name": "Helianthus annuus L.",
+            "id": "1364145",
+            "score": 0.05382
+        },
+        {
+            "name": "Helianthus giganteus L.",
+            "id": "1389511",
+            "score": 0.00513
+        },
+        {
+            "name": "Tithonia rotundifolia (Mill.) S.F.Blake",
+            "id": "1417905",
+            "score": 0.00227
+        },
+        {
+            "name": "Helianthus × laetiflorus Pers.",
+            "id": "1509310",
+            "score": 0.00217
+        },
+        {
+            "name": "Helianthus hirsutus Raf.",
+            "id": "1412234",
+            "score": 0.00206
+        },
+        {
+            "name": "Tithonia diversifolia (Hemsl.) A.Gray",
+            "id": "1403878",
+            "score": 0.00204
+        },
+        {
+            "name": "Iva annua L.",
+            "id": "1398615",
+            "score": 0.00196
+        },
+        {
+            "name": "Helianthus divaricatus L.",
+            "id": "1412232",
+            "score": 0.00133
+        },
+        {
+            "name": "Helianthus decapetalus L.",
+            "id": "1392718",
+            "score": 0.00111
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Helianthus annuus L.",
+            "id": "1364145",
+            "score": 0.84327
+        },
+        {
+            "name": "Helianthus giganteus L.",
+            "id": "1389511",
+            "score": 0.09335
+        },
+        {
+            "name": "Helianthus debilis Nutt.",
+            "id": "1379525",
+            "score": 0.00551
+        },
+        {
+            "name": "Helianthus petiolaris Nutt.",
+            "id": "1392722",
+            "score": 0.00234
+        }
+    ]
+}

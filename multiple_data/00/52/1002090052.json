@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Camellia japonica L.",
+            "id": "1379149",
+            "score": 0.7834
+        },
+        {
+            "name": "Camellia sasanqua Thunb.",
+            "id": "1379181",
+            "score": 0.10774
+        },
+        {
+            "name": "Rosa chinensis Jacq.",
+            "id": "1395231",
+            "score": 0.01839
+        },
+        {
+            "name": "Rosa lucieae Franch. & Rochebr. ex Crép.",
+            "id": "1420447",
+            "score": 0.00591
+        },
+        {
+            "name": "Camellia saluenensis Stapf ex Bean",
+            "id": "1390645",
+            "score": 0.00514
+        },
+        {
+            "name": "Rosa × damascena Herrm.",
+            "id": "1668204",
+            "score": 0.00344
+        },
+        {
+            "name": "Rosa gallica L.",
+            "id": "1360338",
+            "score": 0.00221
+        }
+    ]
+}

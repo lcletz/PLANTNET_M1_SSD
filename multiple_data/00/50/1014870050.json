@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ulmus × hollandica Mill.",
+            "id": "1694424",
+            "score": 0.91702
+        },
+        {
+            "name": "Ulmus laevis Pall.",
+            "id": "1396951",
+            "score": 0.04656
+        },
+        {
+            "name": "Ulmus glabra Huds.",
+            "id": "1397552",
+            "score": 0.0025
+        },
+        {
+            "name": "Corylus colurna L.",
+            "id": "1397579",
+            "score": 0.00232
+        },
+        {
+            "name": "Ulmus minor Mill.",
+            "id": "1360607",
+            "score": 0.00206
+        },
+        {
+            "name": "Alnus incana (L.) Moench",
+            "id": "1397308",
+            "score": 0.00166
+        },
+        {
+            "name": "Alnus alnobetula (Ehrh.) K.Koch",
+            "id": "1392943",
+            "score": 0.00161
+        },
+        {
+            "name": "Betula pubescens Ehrh.",
+            "id": "1362746",
+            "score": 0.00104
+        }
+    ]
+}

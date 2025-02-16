@@ -1,0 +1,400 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Medicago falcata L.",
+            "id": "1363729",
+            "score": 0.22365
+        },
+        {
+            "name": "Lathyrus pannonicus (Jacq.) Garcke",
+            "id": "1393457",
+            "score": 0.05049
+        },
+        {
+            "name": "Medicago sativa L.",
+            "id": "1363732",
+            "score": 0.04477
+        },
+        {
+            "name": "Lathyrus sylvestris L.",
+            "id": "1393458",
+            "score": 0.03684
+        },
+        {
+            "name": "Lathyrus pratensis L.",
+            "id": "1363803",
+            "score": 0.03574
+        },
+        {
+            "name": "Astragalus glycyphyllos L.",
+            "id": "1398286",
+            "score": 0.02804
+        },
+        {
+            "name": "Astragalus cicer L.",
+            "id": "1398264",
+            "score": 0.01859
+        },
+        {
+            "name": "Lathyrus tuberosus L.",
+            "id": "1359284",
+            "score": 0.01452
+        },
+        {
+            "name": "Melilotus officinalis (L.) Lam.",
+            "id": "1393792",
+            "score": 0.01407
+        },
+        {
+            "name": "Medicago polymorpha L.",
+            "id": "1363731",
+            "score": 0.01367
+        },
+        {
+            "name": "Lathyrus laevigatus (Waldst. & Kit.) Gren.",
+            "id": "1393456",
+            "score": 0.01179
+        },
+        {
+            "name": "Astragalus hamosus L.",
+            "id": "1359124",
+            "score": 0.00919
+        },
+        {
+            "name": "Lotus corniculatus L.",
+            "id": "1359296",
+            "score": 0.00763
+        },
+        {
+            "name": "Lathyrus latifolius L.",
+            "id": "1363801",
+            "score": 0.00758
+        },
+        {
+            "name": "Medicago × varia Martyn",
+            "id": "1581623",
+            "score": 0.00729
+        },
+        {
+            "name": "Melilotus altissimus Thuill.",
+            "id": "1393789",
+            "score": 0.00674
+        },
+        {
+            "name": "Vicia pisiformis L.",
+            "id": "1397104",
+            "score": 0.00544
+        },
+        {
+            "name": "Melilotus albus Medik.",
+            "id": "1356257",
+            "score": 0.00519
+        },
+        {
+            "name": "Ceratocapnos claviculata (L.) Lidén",
+            "id": "1397347",
+            "score": 0.00478
+        },
+        {
+            "name": "Lotus pedunculatus Cav.",
+            "id": "1359322",
+            "score": 0.00469
+        },
+        {
+            "name": "Oxytropis campestris (L.) DC.",
+            "id": "1397451",
+            "score": 0.00418
+        },
+        {
+            "name": "Trigonella esculenta Willd.",
+            "id": "1359537",
+            "score": 0.00403
+        },
+        {
+            "name": "Galega officinalis L.",
+            "id": "1359197",
+            "score": 0.00325
+        },
+        {
+            "name": "Biscutella auriculata L.",
+            "id": "1358182",
+            "score": 0.00312
+        },
+        {
+            "name": "Polygala flavescens DC.",
+            "id": "1399360",
+            "score": 0.0031
+        },
+        {
+            "name": "Lotus tenuis Waldst. & Kit. ex Willd.",
+            "id": "1412585",
+            "score": 0.00309
+        },
+        {
+            "name": "Vicia lutea L.",
+            "id": "1359565",
+            "score": 0.00308
+        },
+        {
+            "name": "Vicia villosa Roth",
+            "id": "1359581",
+            "score": 0.00303
+        },
+        {
+            "name": "Lathyrus palustris L.",
+            "id": "1397424",
+            "score": 0.00252
+        },
+        {
+            "name": "Vicia hirsuta (L.) Gray",
+            "id": "1363671",
+            "score": 0.0025
+        },
+        {
+            "name": "Vicia grandiflora Scop.",
+            "id": "1397092",
+            "score": 0.00243
+        },
+        {
+            "name": "Trifolium dubium Sibth.",
+            "id": "1363737",
+            "score": 0.00204
+        },
+        {
+            "name": "Trigonella glabra Thunb.",
+            "id": "1363683",
+            "score": 0.00204
+        },
+        {
+            "name": "Biscutella laevigata L.",
+            "id": "1362417",
+            "score": 0.00204
+        },
+        {
+            "name": "Vicia hybrida L.",
+            "id": "1359562",
+            "score": 0.00195
+        },
+        {
+            "name": "Melilotus neapolitanus Ten.",
+            "id": "1363753",
+            "score": 0.00194
+        },
+        {
+            "name": "Melilotus indicus (L.) All.",
+            "id": "1363749",
+            "score": 0.00188
+        },
+        {
+            "name": "Anchusa ochroleuca M.Bieb.",
+            "id": "1394036",
+            "score": 0.00188
+        },
+        {
+            "name": "Linaria vulgaris Mill.",
+            "id": "1393600",
+            "score": 0.00187
+        },
+        {
+            "name": "Trifolium campestre Schreb.",
+            "id": "1359488",
+            "score": 0.00187
+        },
+        {
+            "name": "Trifolium alpinum L.",
+            "id": "1396843",
+            "score": 0.00187
+        },
+        {
+            "name": "Vicia sylvatica L.",
+            "id": "1362394",
+            "score": 0.00182
+        },
+        {
+            "name": "Trifolium saxatile All.",
+            "id": "1396864",
+            "score": 0.00179
+        },
+        {
+            "name": "Symphytum tuberosum L.",
+            "id": "1397507",
+            "score": 0.00178
+        },
+        {
+            "name": "Trifolium patens Schreb.",
+            "id": "1359514",
+            "score": 0.00173
+        },
+        {
+            "name": "Lupinus angustifolius L.",
+            "id": "1363699",
+            "score": 0.00173
+        },
+        {
+            "name": "Astragalus pomonensis M.E.Jones",
+            "id": "1572531",
+            "score": 0.00172
+        },
+        {
+            "name": "Vicia sparsiflora Ten.",
+            "id": "1399036",
+            "score": 0.00167
+        },
+        {
+            "name": "Lathyrus odoratus L.",
+            "id": "1363802",
+            "score": 0.00165
+        },
+        {
+            "name": "Coronilla varia L.",
+            "id": "1391360",
+            "score": 0.00164
+        },
+        {
+            "name": "Stachys annua (L.) L.",
+            "id": "1358932",
+            "score": 0.00163
+        },
+        {
+            "name": "Vicia ochroleuca Ten.",
+            "id": "1359568",
+            "score": 0.00161
+        },
+        {
+            "name": "Stachys recta L.",
+            "id": "1396435",
+            "score": 0.00161
+        },
+        {
+            "name": "Onobrychis arenaria (Kit.) DC.",
+            "id": "1582853",
+            "score": 0.00158
+        },
+        {
+            "name": "Vicia cracca L.",
+            "id": "1397085",
+            "score": 0.00156
+        },
+        {
+            "name": "Rapistrum rugosum (L.) All.",
+            "id": "1363879",
+            "score": 0.00147
+        },
+        {
+            "name": "Astragalus monspessulanus L.",
+            "id": "1359138",
+            "score": 0.00144
+        },
+        {
+            "name": "Dianthus giganteiformis Borbás",
+            "id": "1492611",
+            "score": 0.00139
+        },
+        {
+            "name": "Glycyrrhiza glabra L.",
+            "id": "1363659",
+            "score": 0.00138
+        },
+        {
+            "name": "Panicum turgidum Forssk.",
+            "id": "1363448",
+            "score": 0.00132
+        },
+        {
+            "name": "Digitalis lutea L.",
+            "id": "1362533",
+            "score": 0.00131
+        },
+        {
+            "name": "Vicia dumetorum L.",
+            "id": "1397089",
+            "score": 0.00129
+        },
+        {
+            "name": "Bunias erucago L.",
+            "id": "1363920",
+            "score": 0.00127
+        },
+        {
+            "name": "Astragalus frigidus (L.) A.Gray",
+            "id": "1397325",
+            "score": 0.00125
+        },
+        {
+            "name": "Astragalus mongholicus Bunge",
+            "id": "1572280",
+            "score": 0.00124
+        },
+        {
+            "name": "Astragalus australis (L.) Lam.",
+            "id": "1398253",
+            "score": 0.00124
+        },
+        {
+            "name": "Astragalus racemosus Pursh",
+            "id": "1414172",
+            "score": 0.00123
+        },
+        {
+            "name": "Melilotus siculus (Turra) Steud.",
+            "id": "1742242",
+            "score": 0.00117
+        },
+        {
+            "name": "Astragalus boeticus L.",
+            "id": "1363666",
+            "score": 0.00114
+        },
+        {
+            "name": "Sisymbrium altissimum L.",
+            "id": "1358427",
+            "score": 0.00114
+        },
+        {
+            "name": "Lathyrus amphicarpos L.",
+            "id": "1359265",
+            "score": 0.00111
+        },
+        {
+            "name": "Lathyrus pallescens (M.Bieb.) K.Koch",
+            "id": "1579834",
+            "score": 0.0011
+        },
+        {
+            "name": "Lathyrus cirrhosus Ser.",
+            "id": "1393452",
+            "score": 0.00109
+        },
+        {
+            "name": "Trifolium ochroleucon Huds.",
+            "id": "1359510",
+            "score": 0.00108
+        },
+        {
+            "name": "Pyrrhopappus carolinianus (Walter) DC.",
+            "id": "1437068",
+            "score": 0.00106
+        },
+        {
+            "name": "Melampyrum pratense L.",
+            "id": "1393782",
+            "score": 0.00105
+        },
+        {
+            "name": "Vicia balansae Boiss.",
+            "id": "1587820",
+            "score": 0.00105
+        },
+        {
+            "name": "Aconitum lycoctonum L.",
+            "id": "1395010",
+            "score": 0.00104
+        },
+        {
+            "name": "Raphanus raphanistrum L.",
+            "id": "1363901",
+            "score": 0.00102
+        }
+    ]
+}

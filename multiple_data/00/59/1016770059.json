@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Helleborus orientalis Lam.",
+            "id": "1392740",
+            "score": 0.77034
+        },
+        {
+            "name": "Helleborus purpurascens Waldst. & Kit.",
+            "id": "1398891",
+            "score": 0.03136
+        },
+        {
+            "name": "Helleborus niger L.",
+            "id": "1397560",
+            "score": 0.01583
+        },
+        {
+            "name": "Helleborus lividus Aiton",
+            "id": "1397536",
+            "score": 0.00791
+        },
+        {
+            "name": "Helleborus viridis L.",
+            "id": "1397399",
+            "score": 0.00588
+        },
+        {
+            "name": "Helleborus argutifolius Viv.",
+            "id": "1392741",
+            "score": 0.00551
+        },
+        {
+            "name": "Helleborus × hybridus Voss",
+            "id": "1844293",
+            "score": 0.00498
+        }
+    ]
+}

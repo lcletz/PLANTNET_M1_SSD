@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ficus carica L.",
+            "id": "1363142",
+            "score": 0.84263
+        },
+        {
+            "name": "Ficus johannis Boiss.",
+            "id": "1601982",
+            "score": 0.02932
+        },
+        {
+            "name": "Ficus glumosa Delile",
+            "id": "1384056",
+            "score": 0.00412
+        },
+        {
+            "name": "Ficus palmata Forssk.",
+            "id": "1363141",
+            "score": 0.00162
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.00136
+        }
+    ]
+}

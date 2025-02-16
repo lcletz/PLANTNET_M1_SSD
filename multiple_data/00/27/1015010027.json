@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Alcea setosa (Boiss.) Alef.",
+            "id": "1399063",
+            "score": 0.49098
+        },
+        {
+            "name": "Alcea rosea L.",
+            "id": "1359620",
+            "score": 0.36985
+        },
+        {
+            "name": "Alcea biennis Winterl",
+            "id": "1397305",
+            "score": 0.02272
+        },
+        {
+            "name": "Malva subovata (DC.) Molero & J.M.Monts.",
+            "id": "1390058",
+            "score": 0.0215
+        },
+        {
+            "name": "Malva arborea (L.) Webb & Berthel.",
+            "id": "1362856",
+            "score": 0.00659
+        },
+        {
+            "name": "Malva olbia (L.) Alef.",
+            "id": "1362899",
+            "score": 0.00427
+        },
+        {
+            "name": "Malva trimestris (L.) Salisb.",
+            "id": "1362892",
+            "score": 0.00372
+        },
+        {
+            "name": "Malva unguiculata (Desf.) Alef.",
+            "id": "1362893",
+            "score": 0.00113
+        }
+    ]
+}

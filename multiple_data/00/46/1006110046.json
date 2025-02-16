@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Claytonia perfoliata Donn ex Willd.",
+            "id": "1397353",
+            "score": 0.88931
+        },
+        {
+            "name": "Claytonia rubra (Howell) Tidestr.",
+            "id": "1411489",
+            "score": 0.01405
+        },
+        {
+            "name": "Claytonia parviflora Douglas",
+            "id": "1815221",
+            "score": 0.00539
+        },
+        {
+            "name": "Fallopia dumetorum (L.) Holub",
+            "id": "1392251",
+            "score": 0.00165
+        },
+        {
+            "name": "Rumex scutatus L.",
+            "id": "1362485",
+            "score": 0.00109
+        },
+        {
+            "name": "Dichondra carolinensis Michx.",
+            "id": "1442527",
+            "score": 0.00104
+        }
+    ]
+}

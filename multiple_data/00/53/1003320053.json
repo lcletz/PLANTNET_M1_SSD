@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Leucojum vernum L.",
+            "id": "1393517",
+            "score": 0.92211
+        },
+        {
+            "name": "Leucojum aestivum L.",
+            "id": "1393515",
+            "score": 0.02128
+        },
+        {
+            "name": "Galanthus nivalis L.",
+            "id": "1397391",
+            "score": 0.00258
+        },
+        {
+            "name": "Galanthus plicatus M.Bieb.",
+            "id": "1392416",
+            "score": 0.00216
+        },
+        {
+            "name": "Allium pendulinum Ten.",
+            "id": "1392729",
+            "score": 0.0019
+        },
+        {
+            "name": "Allium paradoxum (M.Bieb.) G.Don",
+            "id": "1397943",
+            "score": 0.00125
+        }
+    ]
+}

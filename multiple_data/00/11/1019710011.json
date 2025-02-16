@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Nepeta racemosa Lam.",
+            "id": "1389635",
+            "score": 0.34344
+        },
+        {
+            "name": "Nepeta cataria L.",
+            "id": "1358827",
+            "score": 0.1854
+        },
+        {
+            "name": "Lantana montevidensis (Spreng.) Briq.",
+            "id": "1408866",
+            "score": 0.0063
+        },
+        {
+            "name": "Nepeta nepetella L.",
+            "id": "1362340",
+            "score": 0.00551
+        },
+        {
+            "name": "Melissa officinalis L.",
+            "id": "1358784",
+            "score": 0.00407
+        },
+        {
+            "name": "Ballota nigra L.",
+            "id": "1358722",
+            "score": 0.00181
+        },
+        {
+            "name": "Marrubium vulgare L.",
+            "id": "1356123",
+            "score": 0.00169
+        },
+        {
+            "name": "Scutellaria orientalis L.",
+            "id": "1358886",
+            "score": 0.00149
+        }
+    ]
+}

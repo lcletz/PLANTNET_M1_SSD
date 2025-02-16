@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sanguisorba verrucosa (Link ex G.Don) Ces.",
+            "id": "1669707",
+            "score": 0.53809
+        },
+        {
+            "name": "Sanguisorba minor Scop.",
+            "id": "1356303",
+            "score": 0.20864
+        },
+        {
+            "name": "Mimosa quadrivalvis L.",
+            "id": "1405098",
+            "score": 0.00332
+        },
+        {
+            "name": "Sanguisorba officinalis L.",
+            "id": "1395920",
+            "score": 0.0026
+        },
+        {
+            "name": "Pimpinella saxifraga L.",
+            "id": "1394593",
+            "score": 0.00133
+        }
+    ]
+}

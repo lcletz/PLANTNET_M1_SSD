@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Galium verum L.",
+            "id": "1360422",
+            "score": 0.90477
+        },
+        {
+            "name": "Galium arenarium Loisel.",
+            "id": "1392440",
+            "score": 0.04572
+        },
+        {
+            "name": "Galium × pomeranicum Retz.",
+            "id": "1673274",
+            "score": 0.01213
+        },
+        {
+            "name": "Asparagus acutifolius L.",
+            "id": "1361000",
+            "score": 0.00177
+        }
+    ]
+}

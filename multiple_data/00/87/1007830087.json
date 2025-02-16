@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Echinacea purpurea (L.) Moench",
+            "id": "1398120",
+            "score": 0.55115
+        },
+        {
+            "name": "Echinacea angustifolia DC.",
+            "id": "1411839",
+            "score": 0.27223
+        },
+        {
+            "name": "Echinacea pallida (Nutt.) Nutt.",
+            "id": "1411840",
+            "score": 0.04014
+        },
+        {
+            "name": "Echinacea tennesseensis (Beadle) Small",
+            "id": "1442775",
+            "score": 0.03767
+        },
+        {
+            "name": "Echinacea sanguinea Nutt.",
+            "id": "1442773",
+            "score": 0.00552
+        },
+        {
+            "name": "Disporum megalanthum F.T.Wang & Tang",
+            "id": "1496785",
+            "score": 0.00183
+        }
+    ]
+}

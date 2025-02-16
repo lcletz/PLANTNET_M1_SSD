@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Peucedanum ostruthium (L.) W.D.J.Koch",
+            "id": "1458391",
+            "score": 0.48958
+        },
+        {
+            "name": "Apium graveolens L.",
+            "id": "1363218",
+            "score": 0.0411
+        },
+        {
+            "name": "Smyrnium olusatrum L.",
+            "id": "1360801",
+            "score": 0.02367
+        },
+        {
+            "name": "Angelica archangelica L.",
+            "id": "1397313",
+            "score": 0.00804
+        },
+        {
+            "name": "Ranunculus montanus Willd.",
+            "id": "1362363",
+            "score": 0.00178
+        },
+        {
+            "name": "Angelica lucida L.",
+            "id": "1412445",
+            "score": 0.00177
+        },
+        {
+            "name": "Ligusticum scothicum L.",
+            "id": "1737456",
+            "score": 0.00143
+        }
+    ]
+}

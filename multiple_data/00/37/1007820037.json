@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Capparis spinosa L.",
+            "id": "1356320",
+            "score": 0.81182
+        },
+        {
+            "name": "Capparis tomentosa Lam.",
+            "id": "1381539",
+            "score": 0.04484
+        },
+        {
+            "name": "Canavalia rosea (Sw.) DC.",
+            "id": "1366543",
+            "score": 0.0214
+        },
+        {
+            "name": "Canavalia ensiformis (L.) DC.",
+            "id": "1366542",
+            "score": 0.00331
+        },
+        {
+            "name": "Clitoria ternatea L.",
+            "id": "1362003",
+            "score": 0.00112
+        },
+        {
+            "name": "Boerhavia diffusa L.",
+            "id": "1361985",
+            "score": 0.00105
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Geum montanum L.",
+            "id": "1392608",
+            "score": 0.95446
+        },
+        {
+            "name": "Geum triflorum Pursh",
+            "id": "1412172",
+            "score": 0.01371
+        },
+        {
+            "name": "Pulsatilla alpina (L.) Delarbre",
+            "id": "1741754",
+            "score": 0.00486
+        },
+        {
+            "name": "Dryas octopetala L.",
+            "id": "1391797",
+            "score": 0.00171
+        },
+        {
+            "name": "Pulsatilla vernalis (L.) Mill.",
+            "id": "1737507",
+            "score": 0.00116
+        }
+    ]
+}

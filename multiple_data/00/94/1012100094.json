@@ -1,0 +1,475 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Heteropogon contortus (L.) P.Beauv. ex Roem. & Schult.",
+            "id": "1392769",
+            "score": 0.42232
+        },
+        {
+            "name": "Sporobolus indicus (L.) R.Br.",
+            "id": "1396416",
+            "score": 0.20866
+        },
+        {
+            "name": "Persicaria barbata (L.) H.Hara",
+            "id": "1429876",
+            "score": 0.06682
+        },
+        {
+            "name": "Persicaria lapathifolia (L.) Delarbre",
+            "id": "1356091",
+            "score": 0.03547
+        },
+        {
+            "name": "Reseda luteola L.",
+            "id": "1363978",
+            "score": 0.03074
+        },
+        {
+            "name": "Veronicastrum virginicum (L.) Farw.",
+            "id": "1414182",
+            "score": 0.02951
+        },
+        {
+            "name": "Bistorta vivipara (L.) Delarbre",
+            "id": "1400176",
+            "score": 0.02804
+        },
+        {
+            "name": "Persicaria acuminata (Kunth) M.Gómez",
+            "id": "1658296",
+            "score": 0.02612
+        },
+        {
+            "name": "Sporobolus pyramidalis P.Beauv.",
+            "id": "1400324",
+            "score": 0.02349
+        },
+        {
+            "name": "Calamagrostis arenaria (L.) Roth",
+            "id": "1722433",
+            "score": 0.02222
+        },
+        {
+            "name": "Triglochin maritima L.",
+            "id": "1361603",
+            "score": 0.01998
+        },
+        {
+            "name": "Tragus berteronianus Schult.",
+            "id": "1363419",
+            "score": 0.01707
+        },
+        {
+            "name": "Airopsis tenella (Cav.) Coss. & Durieu",
+            "id": "1362179",
+            "score": 0.01632
+        },
+        {
+            "name": "Brachypodium pinnatum (L.) P.Beauv.",
+            "id": "1388809",
+            "score": 0.01411
+        },
+        {
+            "name": "Koenigia alpina (All.) T.M.Schust. & Reveal",
+            "id": "1737583",
+            "score": 0.01308
+        },
+        {
+            "name": "Plantago maritima L.",
+            "id": "1359965",
+            "score": 0.01269
+        },
+        {
+            "name": "Amaranthus spinosus L.",
+            "id": "1363253",
+            "score": 0.01267
+        },
+        {
+            "name": "Paspalum dilatatum Poir.",
+            "id": "1363496",
+            "score": 0.01255
+        },
+        {
+            "name": "Salix sitchensis Sanson ex Bong.",
+            "id": "1413642",
+            "score": 0.01254
+        },
+        {
+            "name": "Sporobolus fertilis (Steud.) Clayton",
+            "id": "1655209",
+            "score": 0.01229
+        },
+        {
+            "name": "Sesamoides purpurascens (L.) G.López",
+            "id": "1360255",
+            "score": 0.011
+        },
+        {
+            "name": "Molinia caerulea (L.) Moench",
+            "id": "1363593",
+            "score": 0.00988
+        },
+        {
+            "name": "Plantago major L.",
+            "id": "1356067",
+            "score": 0.00868
+        },
+        {
+            "name": "Persicaria maculosa Gray",
+            "id": "1356094",
+            "score": 0.00865
+        },
+        {
+            "name": "Festuca ambigua Le Gall",
+            "id": "1722435",
+            "score": 0.00824
+        },
+        {
+            "name": "Petrosedum sediforme (Jacq.) Grulich",
+            "id": "1742109",
+            "score": 0.00799
+        },
+        {
+            "name": "Andropogon distachyos L.",
+            "id": "1363502",
+            "score": 0.00725
+        },
+        {
+            "name": "Aruncus dioicus (Walter) Fernald",
+            "id": "1396983",
+            "score": 0.00723
+        },
+        {
+            "name": "Elionurus tripsacoides Willd.",
+            "id": "1650174",
+            "score": 0.00712
+        },
+        {
+            "name": "Melica ciliata L.",
+            "id": "1361329",
+            "score": 0.00689
+        },
+        {
+            "name": "Persicaria punctata (Elliott) Small",
+            "id": "1410885",
+            "score": 0.00676
+        },
+        {
+            "name": "Cynosurus cristatus L.",
+            "id": "1361225",
+            "score": 0.00656
+        },
+        {
+            "name": "Brachypodium phoenicoides (L.) Roem. & Schult.",
+            "id": "1388794",
+            "score": 0.00627
+        },
+        {
+            "name": "Umbilicus rupestris (Salisb.) Dandy",
+            "id": "1358147",
+            "score": 0.00621
+        },
+        {
+            "name": "Myricaria bracteata Royle",
+            "id": "1389518",
+            "score": 0.00499
+        },
+        {
+            "name": "Digitalis transiens Maire",
+            "id": "1359870",
+            "score": 0.00462
+        },
+        {
+            "name": "Tragus racemosus (L.) All.",
+            "id": "1363420",
+            "score": 0.00398
+        },
+        {
+            "name": "Hyparrhenia hirta (L.) Stapf",
+            "id": "1363410",
+            "score": 0.00389
+        },
+        {
+            "name": "Festuca rubra L.",
+            "id": "1361284",
+            "score": 0.00388
+        },
+        {
+            "name": "Persicaria decipiens (R.Br.) K.L.Wilson",
+            "id": "1394463",
+            "score": 0.00366
+        },
+        {
+            "name": "Lolium perenne L.",
+            "id": "1363475",
+            "score": 0.00357
+        },
+        {
+            "name": "Festuca huonii Auquier",
+            "id": "1392310",
+            "score": 0.00338
+        },
+        {
+            "name": "Heuchera cylindrica Douglas",
+            "id": "1687755",
+            "score": 0.00311
+        },
+        {
+            "name": "Festuca myuros L.",
+            "id": "1720968",
+            "score": 0.00306
+        },
+        {
+            "name": "Anthoxanthum odoratum L.",
+            "id": "1363461",
+            "score": 0.00295
+        },
+        {
+            "name": "Sporobolus maritimus (Curtis) P.M.Peterson & Saarela",
+            "id": "1738630",
+            "score": 0.00294
+        },
+        {
+            "name": "Amaranthus deflexus L.",
+            "id": "1363250",
+            "score": 0.00284
+        },
+        {
+            "name": "Achnatherum calamagrostis (L.) P.Beauv.",
+            "id": "1394074",
+            "score": 0.00276
+        },
+        {
+            "name": "Solidago chilensis Meyen",
+            "id": "1521427",
+            "score": 0.00275
+        },
+        {
+            "name": "Anarrhinum bellidifolium (L.) Willd.",
+            "id": "1393976",
+            "score": 0.0027
+        },
+        {
+            "name": "Terminalia catappa L.",
+            "id": "1376792",
+            "score": 0.00263
+        },
+        {
+            "name": "Bothriochloa barbinodis (Lag.) Herter",
+            "id": "1400187",
+            "score": 0.00261
+        },
+        {
+            "name": "Persicaria minor (Huds.) Opiz",
+            "id": "1394469",
+            "score": 0.00255
+        },
+        {
+            "name": "Lomandra longifolia Labill.",
+            "id": "1472548",
+            "score": 0.00252
+        },
+        {
+            "name": "Celosia anthelminthica Asch.",
+            "id": "1386632",
+            "score": 0.00252
+        },
+        {
+            "name": "Tofieldia calyculata (L.) Wahlenb.",
+            "id": "1396806",
+            "score": 0.00248
+        },
+        {
+            "name": "Sesleria autumnalis (Scop.) F.W.Schultz",
+            "id": "1397588",
+            "score": 0.00248
+        },
+        {
+            "name": "Cynodon dactylon (L.) Pers.",
+            "id": "1363526",
+            "score": 0.00246
+        },
+        {
+            "name": "Melilotus albus Medik.",
+            "id": "1356257",
+            "score": 0.00226
+        },
+        {
+            "name": "Sehima nervosa (Rottler) Stapf",
+            "id": "1751373",
+            "score": 0.00224
+        },
+        {
+            "name": "Sporobolus neglectus Nash",
+            "id": "1396417",
+            "score": 0.00222
+        },
+        {
+            "name": "Calamagrostis epigejos (L.) Roth",
+            "id": "1379532",
+            "score": 0.00219
+        },
+        {
+            "name": "Eleusine indica (L.) Gaertn.",
+            "id": "1361245",
+            "score": 0.00215
+        },
+        {
+            "name": "Geonoma pohliana Mart.",
+            "id": "1469586",
+            "score": 0.00212
+        },
+        {
+            "name": "Cyathula prostrata (L.) Blume",
+            "id": "1407523",
+            "score": 0.00211
+        },
+        {
+            "name": "Amaranthus viridis L.",
+            "id": "1393682",
+            "score": 0.00206
+        },
+        {
+            "name": "Microchloa kunthii Desv.",
+            "id": "1364512",
+            "score": 0.00205
+        },
+        {
+            "name": "Solidago canadensis L.",
+            "id": "1396336",
+            "score": 0.00205
+        },
+        {
+            "name": "Leymus arenarius (L.) Hochst.",
+            "id": "1393522",
+            "score": 0.00205
+        },
+        {
+            "name": "Polygala senega L.",
+            "id": "1413193",
+            "score": 0.00205
+        },
+        {
+            "name": "Bolusiella iridifolia (Rolfe) Schltr.",
+            "id": "1611689",
+            "score": 0.00202
+        },
+        {
+            "name": "Alopecurus myosuroides Huds.",
+            "id": "1361157",
+            "score": 0.002
+        },
+        {
+            "name": "Eriogonum trichopes Torr.",
+            "id": "1443390",
+            "score": 0.00194
+        },
+        {
+            "name": "Sporobolus africanus (Poir.) Robyns & Tournay",
+            "id": "1364521",
+            "score": 0.00194
+        },
+        {
+            "name": "Persicaria senegalensis (Meisn.) Soják",
+            "id": "1356316",
+            "score": 0.00194
+        },
+        {
+            "name": "Paspalum setaceum Michx.",
+            "id": "1389483",
+            "score": 0.00192
+        },
+        {
+            "name": "Plantago coronopus L.",
+            "id": "1356065",
+            "score": 0.00191
+        },
+        {
+            "name": "Cirsium spinosissimum (L.) Scop.",
+            "id": "1397352",
+            "score": 0.00186
+        },
+        {
+            "name": "Chiastophyllum oppositifolium (Ledeb.) A.Berger",
+            "id": "1418508",
+            "score": 0.00185
+        },
+        {
+            "name": "Sporobolus anglicus (C.E.Hubb.) P.M.Peterson & Saarela",
+            "id": "1737447",
+            "score": 0.00183
+        },
+        {
+            "name": "Zea mays L.",
+            "id": "1363500",
+            "score": 0.0018
+        },
+        {
+            "name": "Tamarix canariensis Willd.",
+            "id": "1364089",
+            "score": 0.00177
+        },
+        {
+            "name": "Plantago eriopoda Torr.",
+            "id": "1413109",
+            "score": 0.00177
+        },
+        {
+            "name": "Pappophorum caespitosum R.E.Fr.",
+            "id": "1653349",
+            "score": 0.00173
+        },
+        {
+            "name": "Crassula orbicularis L.",
+            "id": "1365917",
+            "score": 0.00171
+        },
+        {
+            "name": "Aerva javanica (Burm.f.) Juss. ex Schult.",
+            "id": "1426083",
+            "score": 0.00168
+        },
+        {
+            "name": "Melica amethystina Pourr.",
+            "id": "1393785",
+            "score": 0.00162
+        },
+        {
+            "name": "Danthonia decumbens (L.) DC.",
+            "id": "1361233",
+            "score": 0.00158
+        },
+        {
+            "name": "Sporobolus pilifer (Trin.) Kunth",
+            "id": "1364546",
+            "score": 0.00156
+        },
+        {
+            "name": "Stipa pennata L.",
+            "id": "1396470",
+            "score": 0.00153
+        },
+        {
+            "name": "Bothriochloa ischaemum (L.) Keng",
+            "id": "1362951",
+            "score": 0.00152
+        },
+        {
+            "name": "Gagea serotina (L.) Ker Gawl.",
+            "id": "1392407",
+            "score": 0.00151
+        },
+        {
+            "name": "Swainsona formosa (G.Don) Joy Thomps.",
+            "id": "1787109",
+            "score": 0.00149
+        },
+        {
+            "name": "Paspalum urvillei Steud.",
+            "id": "1363498",
+            "score": 0.00148
+        }
+    ]
+}

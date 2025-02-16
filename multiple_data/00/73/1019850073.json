@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Agave americana L.",
+            "id": "1360898",
+            "score": 0.11846
+        },
+        {
+            "name": "Agave salmiana Otto ex Salm-Dyck",
+            "id": "1417642",
+            "score": 0.05284
+        },
+        {
+            "name": "Agave sisalana Perrine",
+            "id": "1357953",
+            "score": 0.0069
+        },
+        {
+            "name": "Agave atrovirens Karw. ex Salm-Dyck",
+            "id": "1417640",
+            "score": 0.00579
+        },
+        {
+            "name": "Agave decipiens Baker",
+            "id": "1441034",
+            "score": 0.00383
+        },
+        {
+            "name": "Aloe ferox Mill.",
+            "id": "1393017",
+            "score": 0.00278
+        },
+        {
+            "name": "Agave lophantha Schiede",
+            "id": "1744183",
+            "score": 0.0025
+        }
+    ]
+}

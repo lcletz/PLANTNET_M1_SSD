@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ambrosia artemisiifolia L.",
+            "id": "1355901",
+            "score": 0.94617
+        },
+        {
+            "name": "Ambrosia psilostachya DC.",
+            "id": "1355902",
+            "score": 0.00407
+        },
+        {
+            "name": "Parthenium hysterophorus L.",
+            "id": "1374228",
+            "score": 0.00305
+        },
+        {
+            "name": "Cosmos sulphureus Cav.",
+            "id": "1373705",
+            "score": 0.00236
+        },
+        {
+            "name": "Ambrosia trifida L.",
+            "id": "1393743",
+            "score": 0.00204
+        },
+        {
+            "name": "Cosmos caudatus Kunth",
+            "id": "1406252",
+            "score": 0.00191
+        },
+        {
+            "name": "Papaver dubium L.",
+            "id": "1363129",
+            "score": 0.00134
+        },
+        {
+            "name": "Ambrosia maritima L.",
+            "id": "1355903",
+            "score": 0.00111
+        }
+    ]
+}

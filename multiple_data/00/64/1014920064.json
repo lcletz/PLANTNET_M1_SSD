@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Echinacea pallida (Nutt.) Nutt.",
+            "id": "1411840",
+            "score": 0.42036
+        },
+        {
+            "name": "Echinacea purpurea (L.) Moench",
+            "id": "1398120",
+            "score": 0.38879
+        },
+        {
+            "name": "Echinacea angustifolia DC.",
+            "id": "1411839",
+            "score": 0.04771
+        },
+        {
+            "name": "Rudbeckia laciniata L.",
+            "id": "1395639",
+            "score": 0.00304
+        },
+        {
+            "name": "Echinacea tennesseensis (Beadle) Small",
+            "id": "1442775",
+            "score": 0.00165
+        },
+        {
+            "name": "Eritrichium canum (Benth.) Kitam.",
+            "id": "1478010",
+            "score": 0.00101
+        }
+    ]
+}

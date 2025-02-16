@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.80352
+        },
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.08647
+        },
+        {
+            "name": "Rosa multiflora Thunb.",
+            "id": "1360345",
+            "score": 0.0012
+        },
+        {
+            "name": "Sambucus ebulus L.",
+            "id": "1356276",
+            "score": 0.001
+        }
+    ]
+}

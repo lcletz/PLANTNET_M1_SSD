@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rhaponticum coniferum (L.) Greuter",
+            "id": "1357824",
+            "score": 0.53366
+        },
+        {
+            "name": "Centaurea paniculata L.",
+            "id": "1362429",
+            "score": 0.00215
+        },
+        {
+            "name": "Carthamus carduncellus L.",
+            "id": "1390956",
+            "score": 0.0016
+        },
+        {
+            "name": "Cynara cardunculus L.",
+            "id": "1355882",
+            "score": 0.00142
+        },
+        {
+            "name": "Centaurea collina L.",
+            "id": "1397345",
+            "score": 0.001
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ficus elastica Roxb. ex Hornem.",
+            "id": "1403870",
+            "score": 0.92957
+        },
+        {
+            "name": "Ficus robusta Corner",
+            "id": "1428442",
+            "score": 0.00942
+        },
+        {
+            "name": "Magnolia grandiflora L.",
+            "id": "1393723",
+            "score": 0.00391
+        },
+        {
+            "name": "Philodendron erubescens K.Koch & Augustin",
+            "id": "1408496",
+            "score": 0.00377
+        },
+        {
+            "name": "Eugenia brasiliensis Lam.",
+            "id": "1382889",
+            "score": 0.00111
+        }
+    ]
+}

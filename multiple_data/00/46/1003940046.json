@@ -1,0 +1,330 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ranunculus acris L.",
+            "id": "1360187",
+            "score": 0.58538
+        },
+        {
+            "name": "Ranunculus lanuginosus L.",
+            "id": "1395100",
+            "score": 0.12335
+        },
+        {
+            "name": "Ranunculus repens L.",
+            "id": "1360222",
+            "score": 0.0933
+        },
+        {
+            "name": "Ranunculus macrophyllus Desf.",
+            "id": "1360208",
+            "score": 0.0519
+        },
+        {
+            "name": "Ranunculus montanus Willd.",
+            "id": "1362363",
+            "score": 0.04504
+        },
+        {
+            "name": "Ranunculus auricomus L.",
+            "id": "1395053",
+            "score": 0.04011
+        },
+        {
+            "name": "Valeriana dioica L.",
+            "id": "1397518",
+            "score": 0.02528
+        },
+        {
+            "name": "Ranunculus bulbosus L.",
+            "id": "1360193",
+            "score": 0.01623
+        },
+        {
+            "name": "Ranunculus sardous Crantz",
+            "id": "1360223",
+            "score": 0.01605
+        },
+        {
+            "name": "Ranunculus lingua L.",
+            "id": "1395101",
+            "score": 0.01453
+        },
+        {
+            "name": "Knautia arvensis (L.) Coult.",
+            "id": "1362327",
+            "score": 0.01214
+        },
+        {
+            "name": "Potentilla aurea L.",
+            "id": "1397466",
+            "score": 0.01095
+        },
+        {
+            "name": "Caltha palustris L.",
+            "id": "1397332",
+            "score": 0.01077
+        },
+        {
+            "name": "Ranunculus flammula L.",
+            "id": "1360203",
+            "score": 0.00971
+        },
+        {
+            "name": "Ranunculus cortusifolius Willd.",
+            "id": "1360197",
+            "score": 0.00758
+        },
+        {
+            "name": "Silene flos-cuculi (L.) Greuter & Burdet",
+            "id": "1418412",
+            "score": 0.00733
+        },
+        {
+            "name": "Aquilegia vulgaris L.",
+            "id": "1360155",
+            "score": 0.00725
+        },
+        {
+            "name": "Cirsium rivulare (Jacq.) All.",
+            "id": "1391235",
+            "score": 0.00604
+        },
+        {
+            "name": "Thalictrum flavum L.",
+            "id": "1360229",
+            "score": 0.00593
+        },
+        {
+            "name": "Ranunculus granatensis Boiss.",
+            "id": "1664494",
+            "score": 0.00571
+        },
+        {
+            "name": "Phyteuma nigrum F.W.Schmidt",
+            "id": "1394547",
+            "score": 0.0049
+        },
+        {
+            "name": "Ranunculus arvensis L.",
+            "id": "1360188",
+            "score": 0.00395
+        },
+        {
+            "name": "Aquilegia alpina L.",
+            "id": "1395292",
+            "score": 0.00345
+        },
+        {
+            "name": "Lilium martagon L.",
+            "id": "1393534",
+            "score": 0.00337
+        },
+        {
+            "name": "Anemone hortensis L.",
+            "id": "1363110",
+            "score": 0.00328
+        },
+        {
+            "name": "Lathyrus pratensis L.",
+            "id": "1363803",
+            "score": 0.00269
+        },
+        {
+            "name": "Geranium dissectum L.",
+            "id": "1356007",
+            "score": 0.00266
+        },
+        {
+            "name": "Aquilegia atrata W.D.J.Koch",
+            "id": "1395297",
+            "score": 0.00261
+        },
+        {
+            "name": "Ranunculus paludosus Poir.",
+            "id": "1360217",
+            "score": 0.00259
+        },
+        {
+            "name": "Oxalis dillenii Jacq.",
+            "id": "1394359",
+            "score": 0.00252
+        },
+        {
+            "name": "Helianthemum nummularium (L.) Mill.",
+            "id": "1357148",
+            "score": 0.00243
+        },
+        {
+            "name": "Trollius europaeus L.",
+            "id": "1397516",
+            "score": 0.00224
+        },
+        {
+            "name": "Galium boreale L.",
+            "id": "1392445",
+            "score": 0.00221
+        },
+        {
+            "name": "Scabiosa columbaria L.",
+            "id": "1361926",
+            "score": 0.00211
+        },
+        {
+            "name": "Gymnadenia nigra (L.) Rchb.f.",
+            "id": "1392665",
+            "score": 0.00207
+        },
+        {
+            "name": "Linaria triornithophora (L.) Cav.",
+            "id": "1398519",
+            "score": 0.00205
+        },
+        {
+            "name": "Valeriana officinalis L.",
+            "id": "1396978",
+            "score": 0.00186
+        },
+        {
+            "name": "Valeriana tuberosa L.",
+            "id": "1360841",
+            "score": 0.0017
+        },
+        {
+            "name": "Crepis biennis L.",
+            "id": "1391445",
+            "score": 0.0017
+        },
+        {
+            "name": "Trifolium montanum L.",
+            "id": "1359508",
+            "score": 0.0017
+        },
+        {
+            "name": "Ranunculus gouanii Willd.",
+            "id": "1395089",
+            "score": 0.00168
+        },
+        {
+            "name": "Silene dioica (L.) Clairv.",
+            "id": "1356985",
+            "score": 0.00165
+        },
+        {
+            "name": "Valeriana montana L.",
+            "id": "1396976",
+            "score": 0.00164
+        },
+        {
+            "name": "Ranunculus constantinopolitanus (DC.) d'Urv.",
+            "id": "1664460",
+            "score": 0.00163
+        },
+        {
+            "name": "Polemonium caeruleum L.",
+            "id": "1394724",
+            "score": 0.00158
+        },
+        {
+            "name": "Phyteuma spicatum L.",
+            "id": "1394555",
+            "score": 0.00152
+        },
+        {
+            "name": "Stellaria graminea L.",
+            "id": "1396446",
+            "score": 0.00151
+        },
+        {
+            "name": "Ranunculus occidentalis Nutt.",
+            "id": "1413434",
+            "score": 0.00147
+        },
+        {
+            "name": "Ranunculus polyanthemos L.",
+            "id": "1395117",
+            "score": 0.00143
+        },
+        {
+            "name": "Hippocrepis comosa L.",
+            "id": "1392775",
+            "score": 0.00137
+        },
+        {
+            "name": "Neotinea ustulata (L.) R.M.Bateman, Pridgeon & M.W.Chase",
+            "id": "1393946",
+            "score": 0.00132
+        },
+        {
+            "name": "Geum rivale L.",
+            "id": "1392614",
+            "score": 0.00131
+        },
+        {
+            "name": "Ranunculus alismifolius Geyer ex Benth.",
+            "id": "1413412",
+            "score": 0.0013
+        },
+        {
+            "name": "Cardamine pratensis L.",
+            "id": "1358213",
+            "score": 0.00126
+        },
+        {
+            "name": "Geum montanum L.",
+            "id": "1392608",
+            "score": 0.00119
+        },
+        {
+            "name": "Melampyrum arvense L.",
+            "id": "1393779",
+            "score": 0.00119
+        },
+        {
+            "name": "Phyteuma orbiculare L.",
+            "id": "1394548",
+            "score": 0.00118
+        },
+        {
+            "name": "Geum macrophyllum Willd.",
+            "id": "1398509",
+            "score": 0.00118
+        },
+        {
+            "name": "Linaria maroccana Hook.f.",
+            "id": "1393591",
+            "score": 0.00114
+        },
+        {
+            "name": "Rabelera holostea (L.) M.T.Sharples & E.A.Tripp",
+            "id": "1737674",
+            "score": 0.00111
+        },
+        {
+            "name": "Ranunculus californicus Benth.",
+            "id": "1413414",
+            "score": 0.00106
+        },
+        {
+            "name": "Dianthus barbatus L.",
+            "id": "1397367",
+            "score": 0.00105
+        },
+        {
+            "name": "Valeriana sitchensis Bong.",
+            "id": "1414159",
+            "score": 0.00102
+        },
+        {
+            "name": "Succisa pratensis Moench",
+            "id": "1358491",
+            "score": 0.00102
+        },
+        {
+            "name": "Anacamptis laxiflora (Lam.) R.M.Bateman, Pridgeon & M.W.Chase",
+            "id": "1393873",
+            "score": 0.00102
+        }
+    ]
+}

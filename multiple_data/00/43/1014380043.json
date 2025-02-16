@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Petroselinum crispum (Mill.) Fuss",
+            "id": "1363214",
+            "score": 0.55354
+        },
+        {
+            "name": "Apium graveolens L.",
+            "id": "1363218",
+            "score": 0.08893
+        },
+        {
+            "name": "Coriandrum sativum L.",
+            "id": "1363224",
+            "score": 0.00623
+        },
+        {
+            "name": "Adoxa moschatellina L.",
+            "id": "1356461",
+            "score": 0.00415
+        },
+        {
+            "name": "Smyrnium creticum Mill.",
+            "id": "1745799",
+            "score": 0.00253
+        },
+        {
+            "name": "Polyscias guilfoylei (W.Bull) L.H.Bailey",
+            "id": "1408547",
+            "score": 0.00249
+        },
+        {
+            "name": "Levisticum officinale W.D.J.Koch",
+            "id": "1393518",
+            "score": 0.00163
+        },
+        {
+            "name": "Ranunculus asiaticus L.",
+            "id": "1360189",
+            "score": 0.00118
+        }
+    ]
+}

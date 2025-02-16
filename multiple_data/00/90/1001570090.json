@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fragaria vesca L.",
+            "id": "1363991",
+            "score": 0.3606
+        },
+        {
+            "name": "Fragaria × ananassa (Duchesne ex Weston) Duchesne ex Rozier",
+            "id": "1667445",
+            "score": 0.27986
+        },
+        {
+            "name": "Fragaria viridis Weston",
+            "id": "1397387",
+            "score": 0.12954
+        },
+        {
+            "name": "Fragaria virginiana Mill.",
+            "id": "1420364",
+            "score": 0.01321
+        },
+        {
+            "name": "Fragaria chiloensis (L.) Mill.",
+            "id": "1408979",
+            "score": 0.0036
+        },
+        {
+            "name": "Rubus argutus Link",
+            "id": "1421896",
+            "score": 0.00187
+        },
+        {
+            "name": "Viburnum dentatum L.",
+            "id": "1417545",
+            "score": 0.00145
+        },
+        {
+            "name": "Holodiscus discolor (Pursh) Maxim.",
+            "id": "1395391",
+            "score": 0.00144
+        },
+        {
+            "name": "Parthenocissus quinquefolia (L.) Planch.",
+            "id": "1394423",
+            "score": 0.00142
+        },
+        {
+            "name": "Potentilla norvegica L.",
+            "id": "1394867",
+            "score": 0.0013
+        }
+    ]
+}

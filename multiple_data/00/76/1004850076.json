@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Mirabilis jalapa L.",
+            "id": "1362100",
+            "score": 0.76456
+        },
+        {
+            "name": "Mirabilis longiflora L.",
+            "id": "1393843",
+            "score": 0.0098
+        },
+        {
+            "name": "Mirabilis nyctaginea (Michx.) MacMill.",
+            "id": "1412734",
+            "score": 0.0075
+        },
+        {
+            "name": "Datura stramonium L.",
+            "id": "1360549",
+            "score": 0.00314
+        },
+        {
+            "name": "Mirabilis multiflora (Torr.) A.Gray",
+            "id": "1816076",
+            "score": 0.00183
+        },
+        {
+            "name": "Mirabilis laevis (Benth.) Curran",
+            "id": "1434880",
+            "score": 0.00124
+        }
+    ]
+}

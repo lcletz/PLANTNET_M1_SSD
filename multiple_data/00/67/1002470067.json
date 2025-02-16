@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Erica tetralix L.",
+            "id": "1392025",
+            "score": 0.86677
+        },
+        {
+            "name": "Erica mackayana Bab.",
+            "id": "1739220",
+            "score": 0.01638
+        },
+        {
+            "name": "Erica ciliaris L.",
+            "id": "1358506",
+            "score": 0.01315
+        },
+        {
+            "name": "Erica cinerea L.",
+            "id": "1358507",
+            "score": 0.0075
+        },
+        {
+            "name": "Erica vagans L.",
+            "id": "1361800",
+            "score": 0.00562
+        },
+        {
+            "name": "Erica terminalis Salisb.",
+            "id": "1358513",
+            "score": 0.00283
+        },
+        {
+            "name": "Erica multiflora L.",
+            "id": "1358509",
+            "score": 0.00161
+        }
+    ]
+}

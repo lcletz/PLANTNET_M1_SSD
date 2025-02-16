@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Symphoricarpos albus (L.) S.F.Blake",
+            "id": "1397506",
+            "score": 0.92104
+        },
+        {
+            "name": "Symphoricarpos mollis Nutt.",
+            "id": "1438785",
+            "score": 0.03187
+        },
+        {
+            "name": "Symphoricarpos oreophilus A.Gray",
+            "id": "1816062",
+            "score": 0.00205
+        },
+        {
+            "name": "Styrax officinalis L.",
+            "id": "1396476",
+            "score": 0.0015
+        },
+        {
+            "name": "Symphoricarpos orbiculatus Moench",
+            "id": "1398555",
+            "score": 0.0012
+        }
+    ]
+}

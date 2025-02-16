@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Achillea tomentosa L.",
+            "id": "1393953",
+            "score": 0.88514
+        },
+        {
+            "name": "Achillea odorata L.",
+            "id": "1357187",
+            "score": 0.03928
+        },
+        {
+            "name": "Achillea nobilis L.",
+            "id": "1397302",
+            "score": 0.02744
+        },
+        {
+            "name": "Achillea setacea Waldst. & Kit.",
+            "id": "1392587",
+            "score": 0.01368
+        },
+        {
+            "name": "Achillea millefolium L.",
+            "id": "1364157",
+            "score": 0.01046
+        },
+        {
+            "name": "Achillea crithmifolia Waldst. & Kit.",
+            "id": "1392771",
+            "score": 0.00504
+        },
+        {
+            "name": "Achillea distans Waldst. & Kit. ex Willd.",
+            "id": "1392898",
+            "score": 0.00459
+        }
+    ]
+}

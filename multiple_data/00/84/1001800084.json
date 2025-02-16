@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Papaver somniferum L.",
+            "id": "1363130",
+            "score": 0.84081
+        },
+        {
+            "name": "Papaver orientale L.",
+            "id": "1394404",
+            "score": 0.01012
+        },
+        {
+            "name": "Papaver croceum Ledeb.",
+            "id": "1394401",
+            "score": 0.00448
+        },
+        {
+            "name": "Papaver rhoeas L.",
+            "id": "1363128",
+            "score": 0.00405
+        },
+        {
+            "name": "Papaver alpinum L.",
+            "id": "1394399",
+            "score": 0.00207
+        },
+        {
+            "name": "Parapholis strigosa (Dumort.) C.E.Hubb.",
+            "id": "1394416",
+            "score": 0.0014
+        },
+        {
+            "name": "Papaver bracteatum Lindl.",
+            "id": "1398594",
+            "score": 0.00135
+        }
+    ]
+}

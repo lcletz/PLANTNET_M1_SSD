@@ -1,0 +1,35 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Buxus sempervirens L.",
+            "id": "1356729",
+            "score": 0.12356
+        },
+        {
+            "name": "Buxus balearica Lam.",
+            "id": "1356728",
+            "score": 0.00424
+        },
+        {
+            "name": "Iberis sempervirens L.",
+            "id": "1358335",
+            "score": 0.00408
+        },
+        {
+            "name": "Ligustrum ovalifolium Hassk.",
+            "id": "1393526",
+            "score": 0.00327
+        },
+        {
+            "name": "Hyssopus officinalis L.",
+            "id": "1358747",
+            "score": 0.00295
+        },
+        {
+            "name": "Lepidium sativum L.",
+            "id": "1363894",
+            "score": 0.00183
+        }
+    ]
+}

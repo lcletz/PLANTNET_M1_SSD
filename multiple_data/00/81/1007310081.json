@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Oenanthe crocata L.",
+            "id": "1360761",
+            "score": 0.9438
+        },
+        {
+            "name": "Conium maculatum L.",
+            "id": "1363216",
+            "score": 0.01887
+        },
+        {
+            "name": "Apium graveolens L.",
+            "id": "1363218",
+            "score": 0.00286
+        },
+        {
+            "name": "Oenanthe aquatica (L.) Poir.",
+            "id": "1393990",
+            "score": 0.00278
+        },
+        {
+            "name": "Aethusa cynapium L.",
+            "id": "1360608",
+            "score": 0.00242
+        },
+        {
+            "name": "Anthriscus sylvestris (L.) Hoffm.",
+            "id": "1360614",
+            "score": 0.00145
+        },
+        {
+            "name": "Selinum carvifolium (L.) L.",
+            "id": "1737493",
+            "score": 0.00106
+        }
+    ]
+}

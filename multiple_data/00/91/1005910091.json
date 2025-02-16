@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Crassula arborescens (Mill.) Willd.",
+            "id": "1418509",
+            "score": 0.61857
+        },
+        {
+            "name": "Crassula ovata (Mill.) Druce",
+            "id": "1363615",
+            "score": 0.15719
+        },
+        {
+            "name": "Cotyledon orbiculata L.",
+            "id": "1391424",
+            "score": 0.06971
+        },
+        {
+            "name": "Crassula multicava Lem.",
+            "id": "1363618",
+            "score": 0.0406
+        }
+    ]
+}

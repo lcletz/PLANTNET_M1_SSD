@@ -1,0 +1,305 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Senecio vulgaris L.",
+            "id": "1364138",
+            "score": 0.64081
+        },
+        {
+            "name": "Glebionis segetum (L.) Fourr.",
+            "id": "1357603",
+            "score": 0.08445
+        },
+        {
+            "name": "Senecio lividus L.",
+            "id": "1357862",
+            "score": 0.06084
+        },
+        {
+            "name": "Senecio viscosus L.",
+            "id": "1396210",
+            "score": 0.05674
+        },
+        {
+            "name": "Senecio sylvaticus L.",
+            "id": "1357868",
+            "score": 0.03594
+        },
+        {
+            "name": "Glebionis coronaria (L.) Cass. ex Spach",
+            "id": "1400016",
+            "score": 0.01952
+        },
+        {
+            "name": "Jacobaea vulgaris Gaertn.",
+            "id": "1362040",
+            "score": 0.01515
+        },
+        {
+            "name": "Senecio squalidus L.",
+            "id": "1357867",
+            "score": 0.01327
+        },
+        {
+            "name": "Leucanthemum vulgare Lam.",
+            "id": "1393513",
+            "score": 0.00862
+        },
+        {
+            "name": "Senecio vernalis Waldst. & Kit.",
+            "id": "1396208",
+            "score": 0.00642
+        },
+        {
+            "name": "Senecio leucanthemifolius Poir.",
+            "id": "1357861",
+            "score": 0.00616
+        },
+        {
+            "name": "Tussilago farfara L.",
+            "id": "1357950",
+            "score": 0.0055
+        },
+        {
+            "name": "Cladanthus mixtus (L.) Chevall.",
+            "id": "1357514",
+            "score": 0.00469
+        },
+        {
+            "name": "Solanum triflorum Nutt.",
+            "id": "1396330",
+            "score": 0.00438
+        },
+        {
+            "name": "Erechtites hieraciifolius (L.) Raf. ex DC.",
+            "id": "1389921",
+            "score": 0.00399
+        },
+        {
+            "name": "Scrophularia canina L.",
+            "id": "1360497",
+            "score": 0.00391
+        },
+        {
+            "name": "Papaver rhoeas L.",
+            "id": "1363128",
+            "score": 0.00389
+        },
+        {
+            "name": "Anacyclus radiatus Loisel.",
+            "id": "1357198",
+            "score": 0.00373
+        },
+        {
+            "name": "Senecio filaginoides DC.",
+            "id": "1520113",
+            "score": 0.00366
+        },
+        {
+            "name": "Senecio massaicus (Maire) Maire",
+            "id": "1357863",
+            "score": 0.00363
+        },
+        {
+            "name": "Emilia sonchifolia (L.) DC.",
+            "id": "1373553",
+            "score": 0.00346
+        },
+        {
+            "name": "Erigeron canadensis L.",
+            "id": "1392041",
+            "score": 0.00341
+        },
+        {
+            "name": "Leucanthemum gracilicaule (Dufour) Pau",
+            "id": "1513963",
+            "score": 0.00307
+        },
+        {
+            "name": "Anthemis arvensis L.",
+            "id": "1364154",
+            "score": 0.00303
+        },
+        {
+            "name": "Glaucium flavum Crantz",
+            "id": "1359804",
+            "score": 0.00278
+        },
+        {
+            "name": "Papaver dubium L.",
+            "id": "1363129",
+            "score": 0.00238
+        },
+        {
+            "name": "Leucanthemopsis alpina (L.) Heywood",
+            "id": "1393494",
+            "score": 0.00215
+        },
+        {
+            "name": "Senecio doria L.",
+            "id": "1357857",
+            "score": 0.00211
+        },
+        {
+            "name": "Hieracium glaucinum Jord.",
+            "id": "1392931",
+            "score": 0.00199
+        },
+        {
+            "name": "Leucanthemum ircutianum DC.",
+            "id": "1393506",
+            "score": 0.00197
+        },
+        {
+            "name": "Crepis capillaris (L.) Wallr.",
+            "id": "1355869",
+            "score": 0.00197
+        },
+        {
+            "name": "Reichardia picroides (L.) Roth",
+            "id": "1357815",
+            "score": 0.00194
+        },
+        {
+            "name": "Hirpicium diffusum (O.Hoffm.) Roessler",
+            "id": "1511994",
+            "score": 0.00192
+        },
+        {
+            "name": "Erucastrum gallicum (Willd.) O.E.Schulz",
+            "id": "1392093",
+            "score": 0.00191
+        },
+        {
+            "name": "Diplotaxis muralis (L.) DC.",
+            "id": "1363875",
+            "score": 0.00184
+        },
+        {
+            "name": "Papaver somniferum L.",
+            "id": "1363130",
+            "score": 0.00179
+        },
+        {
+            "name": "Erucastrum nasturtiifolium (Poir.) O.E.Schulz",
+            "id": "1392096",
+            "score": 0.00174
+        },
+        {
+            "name": "Phacelia tanacetifolia Benth.",
+            "id": "1363358",
+            "score": 0.00165
+        },
+        {
+            "name": "Pulicaria paludosa Link",
+            "id": "1400034",
+            "score": 0.0016
+        },
+        {
+            "name": "Erodium botrys (Cav.) Bertol.",
+            "id": "1355991",
+            "score": 0.0016
+        },
+        {
+            "name": "Crassocephalum picridifolium (DC.) S.Moore",
+            "id": "1748891",
+            "score": 0.00144
+        },
+        {
+            "name": "Quercus cerris L.",
+            "id": "1395020",
+            "score": 0.00141
+        },
+        {
+            "name": "Erigeron bonariensis L.",
+            "id": "1355905",
+            "score": 0.00131
+        },
+        {
+            "name": "Phagnalon rupestre (L.) DC.",
+            "id": "1357769",
+            "score": 0.00125
+        },
+        {
+            "name": "Matricaria discoidea DC.",
+            "id": "1357711",
+            "score": 0.00122
+        },
+        {
+            "name": "Santolina chamaecyparissus L.",
+            "id": "1395922",
+            "score": 0.00118
+        },
+        {
+            "name": "Emilia discifolia (Oliv.) C.Jeffrey",
+            "id": "1506863",
+            "score": 0.00115
+        },
+        {
+            "name": "Reichardia ligulata (Vent.) G.Kunkel & Sunding",
+            "id": "1399824",
+            "score": 0.00114
+        },
+        {
+            "name": "Bidens subalternans DC.",
+            "id": "1400143",
+            "score": 0.00113
+        },
+        {
+            "name": "Senecio inaequidens DC.",
+            "id": "1396197",
+            "score": 0.00109
+        },
+        {
+            "name": "Pimpinella saxifraga L.",
+            "id": "1394593",
+            "score": 0.00106
+        },
+        {
+            "name": "Jacobaea delphiniifolia (Vahl) Pelser & Veldkamp",
+            "id": "1362034",
+            "score": 0.00104
+        },
+        {
+            "name": "Pulicaria vulgaris Gaertn.",
+            "id": "1357809",
+            "score": 0.001
+        },
+        {
+            "name": "Salvia yangii B.T.Drew",
+            "id": "1742562",
+            "score": 0.00096
+        },
+        {
+            "name": "Centaurea aspera L.",
+            "id": "1357401",
+            "score": 0.00093
+        },
+        {
+            "name": "Lepidium virginicum L.",
+            "id": "1363893",
+            "score": 0.00089
+        },
+        {
+            "name": "Roemeria argemone (L.) C.Morales, R.Mend. & Romero García",
+            "id": "1737479",
+            "score": 0.00076
+        },
+        {
+            "name": "Rorippa sylvestris (L.) Besser",
+            "id": "1358416",
+            "score": 0.00045
+        },
+        {
+            "name": "Cakile maritima Scop.",
+            "id": "1358203",
+            "score": 0.0004
+        },
+        {
+            "name": "Anacyclus × valentinus L.",
+            "id": "1739035",
+            "score": 0.0004
+        }
+    ]
+}

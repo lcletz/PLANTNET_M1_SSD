@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dipsacus sativus (L.) Honck.",
+            "id": "1391749",
+            "score": 0.66309
+        },
+        {
+            "name": "Dipsacus fullonum L.",
+            "id": "1358454",
+            "score": 0.2332
+        },
+        {
+            "name": "Dipsacus laciniatus L.",
+            "id": "1391747",
+            "score": 0.01077
+        },
+        {
+            "name": "Dipsacus pilosus L.",
+            "id": "1391748",
+            "score": 0.01023
+        },
+        {
+            "name": "Inula helenium L.",
+            "id": "1397412",
+            "score": 0.00369
+        },
+        {
+            "name": "Rumex patientia L.",
+            "id": "1360135",
+            "score": 0.00161
+        },
+        {
+            "name": "Knautia dipsacifolia Kreutzer",
+            "id": "1491358",
+            "score": 0.001
+        }
+    ]
+}

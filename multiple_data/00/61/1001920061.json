@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lavandula stoechas L.",
+            "id": "1358766",
+            "score": 0.89996
+        },
+        {
+            "name": "Lavandula pedunculata (Mill.) Cav.",
+            "id": "1358761",
+            "score": 0.02577
+        },
+        {
+            "name": "Lavandula multifida L.",
+            "id": "1358760",
+            "score": 0.00855
+        },
+        {
+            "name": "Lavandula dentata L.",
+            "id": "1356126",
+            "score": 0.00289
+        },
+        {
+            "name": "Lavandula lanata Boiss.",
+            "id": "1398786",
+            "score": 0.00131
+        },
+        {
+            "name": "Lavandula angustifolia Mill.",
+            "id": "1361824",
+            "score": 0.00103
+        }
+    ]
+}

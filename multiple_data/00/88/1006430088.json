@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hedera hibernica (G.Kirchn.) Carrière",
+            "id": "1421057",
+            "score": 0.3905
+        },
+        {
+            "name": "Hedera helix L.",
+            "id": "1363575",
+            "score": 0.10636
+        },
+        {
+            "name": "Hedera canariensis Willd.",
+            "id": "1356580",
+            "score": 0.05325
+        },
+        {
+            "name": "Acer monspessulanum L.",
+            "id": "1356457",
+            "score": 0.00188
+        },
+        {
+            "name": "Hedera colchica (K.Koch) K.Koch",
+            "id": "1392697",
+            "score": 0.00173
+        },
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.00144
+        },
+        {
+            "name": "Arum italicum Mill.",
+            "id": "1360989",
+            "score": 0.00111
+        }
+    ]
+}

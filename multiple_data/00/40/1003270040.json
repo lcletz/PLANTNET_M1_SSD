@@ -1,0 +1,380 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Solanum mauritianum Scop.",
+            "id": "1356166",
+            "score": 0.15566
+        },
+        {
+            "name": "Alkekengi officinarum Moench",
+            "id": "1738735",
+            "score": 0.03695
+        },
+        {
+            "name": "Persicaria virginiana (L.) Gaertn.",
+            "id": "1658337",
+            "score": 0.03431
+        },
+        {
+            "name": "Verbascum phlomoides L.",
+            "id": "1397025",
+            "score": 0.0269
+        },
+        {
+            "name": "Symphytum orientale L.",
+            "id": "1396497",
+            "score": 0.02681
+        },
+        {
+            "name": "Solanum incanum L.",
+            "id": "1360569",
+            "score": 0.02034
+        },
+        {
+            "name": "Phlomis russeliana (Sims) Lag. ex Benth.",
+            "id": "1561364",
+            "score": 0.0196
+        },
+        {
+            "name": "Atropa bella-donna L.",
+            "id": "1360548",
+            "score": 0.01598
+        },
+        {
+            "name": "Digitalis purpurea L.",
+            "id": "1364079",
+            "score": 0.01378
+        },
+        {
+            "name": "Achyranthes aspera L.",
+            "id": "1356469",
+            "score": 0.01251
+        },
+        {
+            "name": "Symphytum officinale L.",
+            "id": "1370072",
+            "score": 0.01157
+        },
+        {
+            "name": "Elephantopus mollis Kunth",
+            "id": "1374997",
+            "score": 0.01048
+        },
+        {
+            "name": "Verbascum nigrum L.",
+            "id": "1397520",
+            "score": 0.00934
+        },
+        {
+            "name": "Symphytum tuberosum L.",
+            "id": "1397507",
+            "score": 0.00863
+        },
+        {
+            "name": "Phytolacca acinosa Roxb.",
+            "id": "1394558",
+            "score": 0.00841
+        },
+        {
+            "name": "Verbascum thapsus L.",
+            "id": "1364059",
+            "score": 0.00747
+        },
+        {
+            "name": "Piper umbellatum L.",
+            "id": "1376710",
+            "score": 0.00735
+        },
+        {
+            "name": "Amaranthus viridis L.",
+            "id": "1393682",
+            "score": 0.00664
+        },
+        {
+            "name": "Solanum americanum Mill.",
+            "id": "1360564",
+            "score": 0.00655
+        },
+        {
+            "name": "Solanum chenopodioides Lam.",
+            "id": "1356162",
+            "score": 0.00594
+        },
+        {
+            "name": "Verbascum densiflorum Bertol.",
+            "id": "1360523",
+            "score": 0.0055
+        },
+        {
+            "name": "Brunnera macrophylla (Adams) I.M.Johnst.",
+            "id": "1400184",
+            "score": 0.00529
+        },
+        {
+            "name": "Solanum erianthum D.Don",
+            "id": "1408708",
+            "score": 0.00488
+        },
+        {
+            "name": "Asystasia gangetica (L.) T.Anderson",
+            "id": "1405641",
+            "score": 0.00474
+        },
+        {
+            "name": "Iochroma arborescens (L.) J.M.H.Shaw",
+            "id": "1728475",
+            "score": 0.00452
+        },
+        {
+            "name": "Physalis peruviana L.",
+            "id": "1356153",
+            "score": 0.00429
+        },
+        {
+            "name": "Clerodendrum infortunatum L.",
+            "id": "1559016",
+            "score": 0.00353
+        },
+        {
+            "name": "Physalis pubescens L.",
+            "id": "1356155",
+            "score": 0.00349
+        },
+        {
+            "name": "Pentaglottis sempervirens (L.) Tausch ex L.H.Bailey",
+            "id": "1394459",
+            "score": 0.00346
+        },
+        {
+            "name": "Nicotiana tabacum L.",
+            "id": "1356159",
+            "score": 0.00324
+        },
+        {
+            "name": "Clerodendrum trichotomum Thunb.",
+            "id": "1441531",
+            "score": 0.00278
+        },
+        {
+            "name": "Solanum microdontum Bitter",
+            "id": "1691913",
+            "score": 0.00275
+        },
+        {
+            "name": "Amaranthus spinosus L.",
+            "id": "1363253",
+            "score": 0.00272
+        },
+        {
+            "name": "Amaranthus retroflexus L.",
+            "id": "1356476",
+            "score": 0.00267
+        },
+        {
+            "name": "Parietaria officinalis L.",
+            "id": "1362353",
+            "score": 0.00249
+        },
+        {
+            "name": "Asclepias syriaca L.",
+            "id": "1397115",
+            "score": 0.00241
+        },
+        {
+            "name": "Phytolacca americana L.",
+            "id": "1356062",
+            "score": 0.00233
+        },
+        {
+            "name": "Vangueria madagascariensis J.F.Gmel.",
+            "id": "1408810",
+            "score": 0.00232
+        },
+        {
+            "name": "Miconia sciaphila Judd & Ionta",
+            "id": "1829929",
+            "score": 0.0023
+        },
+        {
+            "name": "Physalis heterophylla Nees",
+            "id": "1413066",
+            "score": 0.00221
+        },
+        {
+            "name": "Solanum campylacanthum Hochst. ex A.Rich.",
+            "id": "1749650",
+            "score": 0.00205
+        },
+        {
+            "name": "Tectona grandis L.f.",
+            "id": "1406419",
+            "score": 0.00202
+        },
+        {
+            "name": "Arctium minus (Hill) Bernh.",
+            "id": "1357244",
+            "score": 0.00199
+        },
+        {
+            "name": "Solanum stramoniifolium Jacq.",
+            "id": "1403598",
+            "score": 0.00187
+        },
+        {
+            "name": "Trachystemon orientalis (L.) D.Don",
+            "id": "1418048",
+            "score": 0.00183
+        },
+        {
+            "name": "Physalis angulata L.",
+            "id": "1356152",
+            "score": 0.00179
+        },
+        {
+            "name": "Piper hispidum Sw.",
+            "id": "1402950",
+            "score": 0.00168
+        },
+        {
+            "name": "Arctium nemorosum Lej.",
+            "id": "1396028",
+            "score": 0.00168
+        },
+        {
+            "name": "Omphalodes verna Moench",
+            "id": "1394037",
+            "score": 0.00165
+        },
+        {
+            "name": "Solanum candidum Lindl.",
+            "id": "1691493",
+            "score": 0.00162
+        },
+        {
+            "name": "Amaranthus tricolor L.",
+            "id": "1363257",
+            "score": 0.00159
+        },
+        {
+            "name": "Ficus hispida L.f.",
+            "id": "1428415",
+            "score": 0.00158
+        },
+        {
+            "name": "Circaea lutetiana L.",
+            "id": "1359680",
+            "score": 0.00158
+        },
+        {
+            "name": "Chrysothemis melittifolia (L.) M.M.Mora & J.L.Clark",
+            "id": "1829907",
+            "score": 0.00155
+        },
+        {
+            "name": "Pseuderanthemum maculatum (G.Lodd.) I.M.Turner",
+            "id": "1750188",
+            "score": 0.00154
+        },
+        {
+            "name": "Verbascum nevadense Boiss.",
+            "id": "1398778",
+            "score": 0.00149
+        },
+        {
+            "name": "Pityrogramma calomelanos (L.) Link",
+            "id": "1361728",
+            "score": 0.00145
+        },
+        {
+            "name": "Mussaenda erythrophylla Schumach. & Thonn.",
+            "id": "1371691",
+            "score": 0.00144
+        },
+        {
+            "name": "Heliotropium indicum L.",
+            "id": "1363839",
+            "score": 0.0014
+        },
+        {
+            "name": "Clerodendrum speciosissimum Jacob-Makoy",
+            "id": "1748668",
+            "score": 0.0014
+        },
+        {
+            "name": "Commersonia bartramia (L.) Merr.",
+            "id": "1416730",
+            "score": 0.00134
+        },
+        {
+            "name": "Phlomis fruticosa L.",
+            "id": "1394526",
+            "score": 0.00133
+        },
+        {
+            "name": "Oclemena acuminata (Michx.) Greene",
+            "id": "1412838",
+            "score": 0.00132
+        },
+        {
+            "name": "Rogiera amoena Planch.",
+            "id": "1679751",
+            "score": 0.0013
+        },
+        {
+            "name": "Blumea balsamifera (L.) DC.",
+            "id": "1373483",
+            "score": 0.00128
+        },
+        {
+            "name": "Phaseolus vulgaris L.",
+            "id": "1394501",
+            "score": 0.00123
+        },
+        {
+            "name": "Antigonon leptopus Hook. & Arn.",
+            "id": "1377016",
+            "score": 0.00122
+        },
+        {
+            "name": "Vigna radiata (L.) R.Wilczek",
+            "id": "1408822",
+            "score": 0.00115
+        },
+        {
+            "name": "Varronia curassavica Jacq.",
+            "id": "1407101",
+            "score": 0.00114
+        },
+        {
+            "name": "Cucurbita foetidissima Kunth",
+            "id": "1418563",
+            "score": 0.00109
+        },
+        {
+            "name": "Salvia sclarea L.",
+            "id": "1358876",
+            "score": 0.00106
+        },
+        {
+            "name": "Arctium lappa L.",
+            "id": "1396002",
+            "score": 0.00106
+        },
+        {
+            "name": "Amaranthus blitum L.",
+            "id": "1356472",
+            "score": 0.00103
+        },
+        {
+            "name": "Cyathula uncinulata (Schrad.) Schinz",
+            "id": "1384852",
+            "score": 0.00102
+        },
+        {
+            "name": "Trichanthera gigantea (Bonpl.) Nees",
+            "id": "1403806",
+            "score": 0.001
+        }
+    ]
+}

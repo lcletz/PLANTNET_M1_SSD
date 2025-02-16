@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Paris quadrifolia L.",
+            "id": "1394419",
+            "score": 0.76413
+        },
+        {
+            "name": "Lilium martagon L.",
+            "id": "1393534",
+            "score": 0.0256
+        },
+        {
+            "name": "Trillium sessile L.",
+            "id": "1439333",
+            "score": 0.00812
+        },
+        {
+            "name": "Medeola virginiana L.",
+            "id": "1412678",
+            "score": 0.0056
+        },
+        {
+            "name": "Cornus canadensis L.",
+            "id": "1411545",
+            "score": 0.00297
+        },
+        {
+            "name": "Trillium erectum L.",
+            "id": "1398549",
+            "score": 0.00127
+        },
+        {
+            "name": "Trillium viridescens Nutt.",
+            "id": "1439341",
+            "score": 0.00124
+        },
+        {
+            "name": "Trillium cernuum L.",
+            "id": "1414093",
+            "score": 0.00124
+        },
+        {
+            "name": "Trillium grandiflorum (Michx.) Salisb.",
+            "id": "1414095",
+            "score": 0.00105
+        }
+    ]
+}

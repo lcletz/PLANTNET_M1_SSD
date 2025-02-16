@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Baccharis halimifolia L.",
+            "id": "1400088",
+            "score": 0.87598
+        },
+        {
+            "name": "Baccharis pilularis DC.",
+            "id": "1440015",
+            "score": 0.00736
+        },
+        {
+            "name": "Baccharis salicina Torr. & A.Gray",
+            "id": "1500787",
+            "score": 0.00713
+        },
+        {
+            "name": "Clematis flammula L.",
+            "id": "1360159",
+            "score": 0.00124
+        },
+        {
+            "name": "Baccharis punctulata DC.",
+            "id": "1500764",
+            "score": 0.00108
+        }
+    ]
+}

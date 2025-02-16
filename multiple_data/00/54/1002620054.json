@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.43975
+        },
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.1863
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.02529
+        },
+        {
+            "name": "Acer tataricum L.",
+            "id": "1398270",
+            "score": 0.00162
+        },
+        {
+            "name": "Torminalis glaberrima (Gand.) Sennikov & Kurtto",
+            "id": "1737588",
+            "score": 0.00149
+        },
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.00128
+        }
+    ]
+}

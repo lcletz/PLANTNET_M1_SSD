@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Medicago × varia Martyn",
+            "id": "1581623",
+            "score": 0.73017
+        },
+        {
+            "name": "Medicago sativa L.",
+            "id": "1363732",
+            "score": 0.07804
+        },
+        {
+            "name": "Bituminaria bituminosa (L.) C.H.Stirt.",
+            "id": "1400177",
+            "score": 0.00441
+        },
+        {
+            "name": "Medicago falcata L.",
+            "id": "1363729",
+            "score": 0.00211
+        },
+        {
+            "name": "Trifolium nigrescens Viv.",
+            "id": "1363739",
+            "score": 0.00105
+        }
+    ]
+}

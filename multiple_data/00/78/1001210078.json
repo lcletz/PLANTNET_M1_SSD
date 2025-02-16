@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lysimachia nummularia L.",
+            "id": "1393708",
+            "score": 0.79578
+        },
+        {
+            "name": "Lysimachia nemorum L.",
+            "id": "1397432",
+            "score": 0.12658
+        },
+        {
+            "name": "Lysimachia punctata L.",
+            "id": "1397433",
+            "score": 0.00531
+        },
+        {
+            "name": "Lysimachia lanceolata Walter",
+            "id": "1412639",
+            "score": 0.00353
+        },
+        {
+            "name": "Lysimachia vulgaris L.",
+            "id": "1361863",
+            "score": 0.00218
+        },
+        {
+            "name": "Lysimachia ciliata L.",
+            "id": "1393707",
+            "score": 0.00192
+        },
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.0013
+        }
+    ]
+}

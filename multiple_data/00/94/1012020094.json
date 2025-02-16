@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Empetrum nigrum L.",
+            "id": "1391868",
+            "score": 0.89034
+        },
+        {
+            "name": "Empetrum rubrum Vahl ex Willd.",
+            "id": "1538569",
+            "score": 0.01282
+        },
+        {
+            "name": "Corema album (L.) D.Don",
+            "id": "1418701",
+            "score": 0.00391
+        },
+        {
+            "name": "Erica cinerea L.",
+            "id": "1358507",
+            "score": 0.00184
+        },
+        {
+            "name": "Juniperus communis L.",
+            "id": "1393364",
+            "score": 0.00168
+        },
+        {
+            "name": "Erica carnea L.",
+            "id": "1358505",
+            "score": 0.00133
+        }
+    ]
+}

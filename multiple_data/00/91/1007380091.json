@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lepidium virginicum L.",
+            "id": "1363893",
+            "score": 0.86878
+        },
+        {
+            "name": "Lepidium ruderale L.",
+            "id": "1358357",
+            "score": 0.071
+        },
+        {
+            "name": "Lepidium densiflorum Schrad.",
+            "id": "1393488",
+            "score": 0.012
+        },
+        {
+            "name": "Lepidium bonariense L.",
+            "id": "1363891",
+            "score": 0.0074
+        },
+        {
+            "name": "Lepidium austrinum Small",
+            "id": "1433665",
+            "score": 0.00404
+        },
+        {
+            "name": "Lepidium latifolium L.",
+            "id": "1358352",
+            "score": 0.0015
+        },
+        {
+            "name": "Thlaspi arvense L.",
+            "id": "1363886",
+            "score": 0.00146
+        }
+    ]
+}

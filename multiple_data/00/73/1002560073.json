@@ -1,0 +1,485 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Polygonum bellardii All.",
+            "id": "1360119",
+            "score": 0.21638
+        },
+        {
+            "name": "Polygonum equisetiforme Sm.",
+            "id": "1425420",
+            "score": 0.14108
+        },
+        {
+            "name": "Polygonum aviculare L.",
+            "id": "1356084",
+            "score": 0.05637
+        },
+        {
+            "name": "Polygonum douglasii Greene",
+            "id": "1413213",
+            "score": 0.01702
+        },
+        {
+            "name": "Chondrilla juncea L.",
+            "id": "1357492",
+            "score": 0.01637
+        },
+        {
+            "name": "Eriogonum nudum Douglas ex Benth.",
+            "id": "1443332",
+            "score": 0.01509
+        },
+        {
+            "name": "Polygonum scoparium Req. ex Loisel.",
+            "id": "1394758",
+            "score": 0.01161
+        },
+        {
+            "name": "Rumex acetosella L.",
+            "id": "1356082",
+            "score": 0.01141
+        },
+        {
+            "name": "Salvia occidentalis Sw.",
+            "id": "1377395",
+            "score": 0.00946
+        },
+        {
+            "name": "Salvia aegyptiaca L.",
+            "id": "1356119",
+            "score": 0.00689
+        },
+        {
+            "name": "Rumex scutatus L.",
+            "id": "1362485",
+            "score": 0.00686
+        },
+        {
+            "name": "Lotus garcinii Ser.",
+            "id": "1751912",
+            "score": 0.00616
+        },
+        {
+            "name": "Eragrostis superba Peyr.",
+            "id": "1365439",
+            "score": 0.00393
+        },
+        {
+            "name": "Helianthemum lippii (L.) Dum.Cours.",
+            "id": "1399936",
+            "score": 0.00376
+        },
+        {
+            "name": "Sison amomum L.",
+            "id": "1360800",
+            "score": 0.00346
+        },
+        {
+            "name": "Polygonum romanum Jacq.",
+            "id": "1362210",
+            "score": 0.00294
+        },
+        {
+            "name": "Polygonum arenarium Waldst. & Kit.",
+            "id": "1360115",
+            "score": 0.00288
+        },
+        {
+            "name": "Polygonum tenue Michx.",
+            "id": "1413234",
+            "score": 0.00257
+        },
+        {
+            "name": "Persicaria pubescens (Blume) H.Hara",
+            "id": "1719671",
+            "score": 0.00248
+        },
+        {
+            "name": "Polygonum maritimum L.",
+            "id": "1356086",
+            "score": 0.00246
+        },
+        {
+            "name": "Seseli tortuosum L.",
+            "id": "1360798",
+            "score": 0.00234
+        },
+        {
+            "name": "Achyranthes aspera L.",
+            "id": "1356469",
+            "score": 0.00226
+        },
+        {
+            "name": "Acmispon glaber (Vogel) Brouillet",
+            "id": "1817626",
+            "score": 0.00223
+        },
+        {
+            "name": "Persicaria minor (Huds.) Opiz",
+            "id": "1394469",
+            "score": 0.00212
+        },
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.00209
+        },
+        {
+            "name": "Persicaria mitis (Schrank) Assenov",
+            "id": "1394470",
+            "score": 0.002
+        },
+        {
+            "name": "Digera muricata (L.) Mart.",
+            "id": "1356512",
+            "score": 0.00191
+        },
+        {
+            "name": "Eriogonum vimineum Douglas ex Benth.",
+            "id": "1443399",
+            "score": 0.00183
+        },
+        {
+            "name": "Rumex pulcher L.",
+            "id": "1356314",
+            "score": 0.00181
+        },
+        {
+            "name": "Verbena halei Small",
+            "id": "1439504",
+            "score": 0.00181
+        },
+        {
+            "name": "Phyllanthus suffrutescens Pax",
+            "id": "1375954",
+            "score": 0.00174
+        },
+        {
+            "name": "Megathyrsus maximus (Jacq.) B.K.Simon & S.W.L.Jacobs",
+            "id": "1718548",
+            "score": 0.00171
+        },
+        {
+            "name": "Eriogonum wrightii Torr. ex Benth.",
+            "id": "1443406",
+            "score": 0.00169
+        },
+        {
+            "name": "Oxygonum sinuatum (Hochst. & Steud. ex Meisn.) Dammer",
+            "id": "1356097",
+            "score": 0.00168
+        },
+        {
+            "name": "Cornus mas L.",
+            "id": "1391354",
+            "score": 0.0016
+        },
+        {
+            "name": "Genista cinerea (Vill.) DC.",
+            "id": "1359205",
+            "score": 0.00153
+        },
+        {
+            "name": "Sison segetum L.",
+            "id": "1396307",
+            "score": 0.00152
+        },
+        {
+            "name": "Persicaria hydropiper (L.) Delarbre",
+            "id": "1363046",
+            "score": 0.00151
+        },
+        {
+            "name": "Eriogonum gracile Benth.",
+            "id": "1443271",
+            "score": 0.0015
+        },
+        {
+            "name": "Salvia abrotanoides (Kar.) Sytsma",
+            "id": "1741611",
+            "score": 0.00148
+        },
+        {
+            "name": "Retama raetam (Forssk.) Webb & Berthel.",
+            "id": "1745722",
+            "score": 0.00139
+        },
+        {
+            "name": "Helianthemum violaceum (Cav.) Pers.",
+            "id": "1357170",
+            "score": 0.00132
+        },
+        {
+            "name": "Retama monosperma (L.) Boiss.",
+            "id": "1359450",
+            "score": 0.00132
+        },
+        {
+            "name": "Polygonum patulum M.Bieb.",
+            "id": "1658461",
+            "score": 0.0013
+        },
+        {
+            "name": "Polygonum raii Bab.",
+            "id": "1394756",
+            "score": 0.00121
+        },
+        {
+            "name": "Oenanthe crocata L.",
+            "id": "1360761",
+            "score": 0.00118
+        },
+        {
+            "name": "Harpagocarpus snowdenii Hutch. & Dandy",
+            "id": "1658274",
+            "score": 0.00117
+        },
+        {
+            "name": "Salvia lanigera Poir.",
+            "id": "1358870",
+            "score": 0.00114
+        },
+        {
+            "name": "Stephanomeria exigua Nutt.",
+            "id": "1438659",
+            "score": 0.00114
+        },
+        {
+            "name": "Persicaria hydropiperoides (Michx.) Small",
+            "id": "1658314",
+            "score": 0.00114
+        },
+        {
+            "name": "Catabrosa aquatica (L.) P.Beauv.",
+            "id": "1390963",
+            "score": 0.0011
+        },
+        {
+            "name": "Stephanomeria diegensis Gottlieb",
+            "id": "1438657",
+            "score": 0.00107
+        },
+        {
+            "name": "Cullen plicatum (Delile) C.H.Stirt.",
+            "id": "1575990",
+            "score": 0.00106
+        },
+        {
+            "name": "Polygonum arenastrum Boreau",
+            "id": "1360116",
+            "score": 0.00106
+        },
+        {
+            "name": "Diodia virginiana L.",
+            "id": "1442571",
+            "score": 0.00105
+        },
+        {
+            "name": "Cercidiphyllum japonicum Siebold & Zucc. ex J.J.Hoffm. & J.H.Schult.bis",
+            "id": "1494963",
+            "score": 0.00105
+        },
+        {
+            "name": "Cichorium endivia L.",
+            "id": "1364163",
+            "score": 0.00101
+        },
+        {
+            "name": "Verbena officinalis L.",
+            "id": "1360860",
+            "score": 0.001
+        },
+        {
+            "name": "Justicia heterocarpa T.Anderson",
+            "id": "1446018",
+            "score": 0.00095
+        },
+        {
+            "name": "Dicliptera verticillata (Forssk.) C.Chr.",
+            "id": "1445302",
+            "score": 0.0009
+        },
+        {
+            "name": "Asparagus officinalis L.",
+            "id": "1363268",
+            "score": 0.00084
+        },
+        {
+            "name": "Cichorium spinosum L.",
+            "id": "1357497",
+            "score": 0.00074
+        },
+        {
+            "name": "Echinophora tenuifolia L.",
+            "id": "1399161",
+            "score": 0.00073
+        },
+        {
+            "name": "Verbena brasiliensis Vell.",
+            "id": "1378797",
+            "score": 0.00069
+        },
+        {
+            "name": "Cichorium pumilum Jacq.",
+            "id": "1357496",
+            "score": 0.00068
+        },
+        {
+            "name": "Dracaena fragrans (L.) Ker Gawl.",
+            "id": "1382522",
+            "score": 0.00056
+        },
+        {
+            "name": "Polygonum iranicum Mozaff.",
+            "id": "1769431",
+            "score": 0.0005
+        },
+        {
+            "name": "Jasminum nudiflorum Lindl.",
+            "id": "1393331",
+            "score": 0.00049
+        },
+        {
+            "name": "Neosparton aphyllum (Gillies & Hook.) Kuntze",
+            "id": "1696661",
+            "score": 0.00049
+        },
+        {
+            "name": "Thapsia gummifera (Desf.) Spreng.",
+            "id": "1743962",
+            "score": 0.00042
+        },
+        {
+            "name": "Eriogonum deflexum Torr.",
+            "id": "1443246",
+            "score": 0.00042
+        },
+        {
+            "name": "Neojeffreya decurrens (L.) Cabrera",
+            "id": "1375072",
+            "score": 0.00041
+        },
+        {
+            "name": "Foeniculum vulgare Mill.",
+            "id": "1360739",
+            "score": 0.00039
+        },
+        {
+            "name": "Equisetum ramosissimum Desf.",
+            "id": "1356397",
+            "score": 0.00038
+        },
+        {
+            "name": "Ephedra ciliata Fisch. & C.A.Mey.",
+            "id": "1747658",
+            "score": 0.00038
+        },
+        {
+            "name": "Symphyotrichum subulatum (Michx.) G.L.Nesom",
+            "id": "1396489",
+            "score": 0.00037
+        },
+        {
+            "name": "Bergia suffruticosa (Delile) Fenzl",
+            "id": "1363355",
+            "score": 0.00036
+        },
+        {
+            "name": "Andrographis paniculata (Burm.f.) Nees",
+            "id": "1429726",
+            "score": 0.00036
+        },
+        {
+            "name": "Launaea mucronata (Forssk.) Muschl.",
+            "id": "1357688",
+            "score": 0.00035
+        },
+        {
+            "name": "Salvia aethiopis L.",
+            "id": "1358858",
+            "score": 0.00035
+        },
+        {
+            "name": "Amaranthus albus L.",
+            "id": "1356471",
+            "score": 0.00034
+        },
+        {
+            "name": "Lavandula dhofarensis A.G.Mill.",
+            "id": "1560408",
+            "score": 0.00034
+        },
+        {
+            "name": "Lavandula coronopifolia Poir.",
+            "id": "1358756",
+            "score": 0.00034
+        },
+        {
+            "name": "Genista scorpius (L.) DC.",
+            "id": "1359216",
+            "score": 0.00033
+        },
+        {
+            "name": "Cynodon dactylon (L.) Pers.",
+            "id": "1363526",
+            "score": 0.00033
+        },
+        {
+            "name": "Echinophora spinosa L.",
+            "id": "1360701",
+            "score": 0.00032
+        },
+        {
+            "name": "Zygophyllum zilloides (Humbert) Christenh. & Byng",
+            "id": "1747815",
+            "score": 0.00031
+        },
+        {
+            "name": "Ephedra triandra Tul.",
+            "id": "1701699",
+            "score": 0.00031
+        },
+        {
+            "name": "Deverra denudata (Viv.) Pfisterer & Podlech",
+            "id": "1356273",
+            "score": 0.0003
+        },
+        {
+            "name": "Limonium hibericum Erben",
+            "id": "1647299",
+            "score": 0.0003
+        },
+        {
+            "name": "Monechma ciliatum (Jacq.) Milne-Redh.",
+            "id": "1384802",
+            "score": 0.0003
+        },
+        {
+            "name": "Hexaphylla hirsuta (Desf.) P.Caputo & Del Guacchio",
+            "id": "1743948",
+            "score": 0.00029
+        },
+        {
+            "name": "Angelica heterocarpa M.J.Lloyd",
+            "id": "1456535",
+            "score": 0.00029
+        },
+        {
+            "name": "Soda oppositifolia (Desf.) Akhani",
+            "id": "1743354",
+            "score": 0.00029
+        },
+        {
+            "name": "Launaea nudicaulis (L.) Hook.f.",
+            "id": "1425172",
+            "score": 0.00028
+        },
+        {
+            "name": "Stephanomeria virgata Benth.",
+            "id": "1438669",
+            "score": 0.00027
+        }
+    ]
+}

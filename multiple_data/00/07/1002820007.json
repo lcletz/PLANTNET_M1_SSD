@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Persea americana Mill.",
+            "id": "1364365",
+            "score": 0.92566
+        },
+        {
+            "name": "Cinnamomum camphora (L.) J.Presl",
+            "id": "1389656",
+            "score": 0.00613
+        },
+        {
+            "name": "Combretum kraussii Hochst.",
+            "id": "1381060",
+            "score": 0.00584
+        },
+        {
+            "name": "Laurus nobilis L.",
+            "id": "1363362",
+            "score": 0.00181
+        },
+        {
+            "name": "Litsea glutinosa (Lour.) C.B.Rob.",
+            "id": "1423725",
+            "score": 0.00157
+        },
+        {
+            "name": "Pittosporum undulatum Vent.",
+            "id": "1356064",
+            "score": 0.00103
+        }
+    ]
+}

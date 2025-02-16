@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Taxus brevifolia Nutt.",
+            "id": "1388847",
+            "score": 0.89632
+        },
+        {
+            "name": "Taxus baccata L.",
+            "id": "1396710",
+            "score": 0.07928
+        },
+        {
+            "name": "Tsuga canadensis (L.) Carrière",
+            "id": "1398279",
+            "score": 0.00841
+        },
+        {
+            "name": "Torreya nucifera (L.) Siebold & Zucc.",
+            "id": "1420765",
+            "score": 0.00159
+        },
+        {
+            "name": "Sequoia sempervirens (D.Don) Endl.",
+            "id": "1396213",
+            "score": 0.00131
+        },
+        {
+            "name": "Taxus canadensis Marshall",
+            "id": "1390006",
+            "score": 0.00107
+        }
+    ]
+}

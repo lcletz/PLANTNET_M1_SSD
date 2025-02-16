@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Crassula ovata (Mill.) Druce",
+            "id": "1363615",
+            "score": 0.69421
+        },
+        {
+            "name": "Crassula arborescens (Mill.) Willd.",
+            "id": "1418509",
+            "score": 0.02661
+        },
+        {
+            "name": "Crassula multicava Lem.",
+            "id": "1363618",
+            "score": 0.00659
+        },
+        {
+            "name": "Senecio crassissimus Humbert",
+            "id": "1744837",
+            "score": 0.0064
+        },
+        {
+            "name": "Cotyledon orbiculata L.",
+            "id": "1391424",
+            "score": 0.00442
+        },
+        {
+            "name": "Sedum praealtum A.DC.",
+            "id": "1529305",
+            "score": 0.00157
+        },
+        {
+            "name": "Portulaca oleracea L.",
+            "id": "1360141",
+            "score": 0.00126
+        }
+    ]
+}

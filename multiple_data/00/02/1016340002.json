@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ruta angustifolia Pers.",
+            "id": "1360443",
+            "score": 0.81377
+        },
+        {
+            "name": "Ruta chalepensis L.",
+            "id": "1364040",
+            "score": 0.10715
+        },
+        {
+            "name": "Ruta graveolens L.",
+            "id": "1364039",
+            "score": 0.02123
+        },
+        {
+            "name": "Ruta montana (L.) L.",
+            "id": "1360445",
+            "score": 0.01862
+        },
+        {
+            "name": "Artemisia thuscula Cav.",
+            "id": "1357290",
+            "score": 0.00208
+        },
+        {
+            "name": "Ruta corsica DC.",
+            "id": "1395707",
+            "score": 0.00188
+        },
+        {
+            "name": "Artemisia herba-alba Asso",
+            "id": "1357277",
+            "score": 0.00115
+        }
+    ]
+}

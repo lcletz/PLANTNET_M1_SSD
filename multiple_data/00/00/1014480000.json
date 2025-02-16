@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Centaurea scabiosa L.",
+            "id": "1391037",
+            "score": 0.84376
+        },
+        {
+            "name": "Centaurea collina L.",
+            "id": "1397345",
+            "score": 0.09705
+        },
+        {
+            "name": "Centaurea stoebe L.",
+            "id": "1391044",
+            "score": 0.00589
+        },
+        {
+            "name": "Ratibida columnifera (Nutt.) Wooton & Standl.",
+            "id": "1413450",
+            "score": 0.00272
+        },
+        {
+            "name": "Centaurea hanryi Jord.",
+            "id": "1391007",
+            "score": 0.00229
+        },
+        {
+            "name": "Centaurea ornata Willd.",
+            "id": "1362214",
+            "score": 0.00163
+        },
+        {
+            "name": "Centaurea arrigonii Greuter",
+            "id": "1502409",
+            "score": 0.00107
+        }
+    ]
+}

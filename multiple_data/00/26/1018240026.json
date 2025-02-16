@@ -1,0 +1,330 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Helictochloa bromoides (Gouan) Romero Zarco",
+            "id": "1363053",
+            "score": 0.49681
+        },
+        {
+            "name": "Gaudinia fragilis (L.) P.Beauv.",
+            "id": "1392502",
+            "score": 0.16413
+        },
+        {
+            "name": "Anthoxanthum odoratum L.",
+            "id": "1363461",
+            "score": 0.08599
+        },
+        {
+            "name": "Arrhenatherum elatius (L.) P.Beauv. ex J.Presl & C.Presl",
+            "id": "1396638",
+            "score": 0.0293
+        },
+        {
+            "name": "Avenula pubescens (Huds.) Dumort.",
+            "id": "1400086",
+            "score": 0.02141
+        },
+        {
+            "name": "Bromus lanceolatus Roth",
+            "id": "1361201",
+            "score": 0.01953
+        },
+        {
+            "name": "Anthoxanthum aristatum Boiss.",
+            "id": "1361165",
+            "score": 0.01594
+        },
+        {
+            "name": "Lolium multiflorum Lam.",
+            "id": "1363474",
+            "score": 0.014
+        },
+        {
+            "name": "Bromus squarrosus L.",
+            "id": "1361207",
+            "score": 0.01282
+        },
+        {
+            "name": "Trisetum flavescens (L.) P.Beauv.",
+            "id": "1396889",
+            "score": 0.01205
+        },
+        {
+            "name": "Lolium giganteum (L.) Darbysh.",
+            "id": "1728724",
+            "score": 0.00981
+        },
+        {
+            "name": "Bothriochloa ischaemum (L.) Keng",
+            "id": "1362951",
+            "score": 0.00963
+        },
+        {
+            "name": "Lolium perenne L.",
+            "id": "1363475",
+            "score": 0.00913
+        },
+        {
+            "name": "Bromus secalinus L.",
+            "id": "1361206",
+            "score": 0.0088
+        },
+        {
+            "name": "Trisetaria panicea (Lam.) Paunero",
+            "id": "1361446",
+            "score": 0.00833
+        },
+        {
+            "name": "Hordeum murinum L.",
+            "id": "1361307",
+            "score": 0.00829
+        },
+        {
+            "name": "Lamarckia aurea (L.) Moench",
+            "id": "1363507",
+            "score": 0.00791
+        },
+        {
+            "name": "Avena barbata Pott ex Link",
+            "id": "1363467",
+            "score": 0.00763
+        },
+        {
+            "name": "Calamagrostis epigejos (L.) Roth",
+            "id": "1379532",
+            "score": 0.00694
+        },
+        {
+            "name": "Andropogon schirensis Hochst. ex A.Rich.",
+            "id": "1748362",
+            "score": 0.00657
+        },
+        {
+            "name": "Anthoxanthum nipponicum Honda",
+            "id": "1720959",
+            "score": 0.00549
+        },
+        {
+            "name": "Bromus intermedius Guss.",
+            "id": "1361200",
+            "score": 0.00543
+        },
+        {
+            "name": "Chloris virgata Sw.",
+            "id": "1363582",
+            "score": 0.00501
+        },
+        {
+            "name": "Avena fatua L.",
+            "id": "1363468",
+            "score": 0.00464
+        },
+        {
+            "name": "Elymus caninus (L.) L.",
+            "id": "1391851",
+            "score": 0.00424
+        },
+        {
+            "name": "Avena strigosa Schreb.",
+            "id": "1400083",
+            "score": 0.00401
+        },
+        {
+            "name": "Helictotrichon sedenense (Clarion ex DC.) Holub",
+            "id": "1392734",
+            "score": 0.00391
+        },
+        {
+            "name": "Bromus hordeaceus L.",
+            "id": "1356286",
+            "score": 0.0038
+        },
+        {
+            "name": "Helictotrichon sempervirens (Vill.) Pilg.",
+            "id": "1392735",
+            "score": 0.00376
+        },
+        {
+            "name": "Avena sterilis L.",
+            "id": "1361190",
+            "score": 0.00372
+        },
+        {
+            "name": "Cenchrus pedicellatus (Trin.) Morrone",
+            "id": "1730684",
+            "score": 0.00359
+        },
+        {
+            "name": "Eriochloa meyeriana (Nees) Pilg.",
+            "id": "1650805",
+            "score": 0.00358
+        },
+        {
+            "name": "Achnatherum calamagrostis (L.) P.Beauv.",
+            "id": "1394074",
+            "score": 0.00294
+        },
+        {
+            "name": "Danthonia californica Bol.",
+            "id": "1411690",
+            "score": 0.00292
+        },
+        {
+            "name": "Elymus canadensis L.",
+            "id": "1398629",
+            "score": 0.0029
+        },
+        {
+            "name": "Sesleria caerulea (L.) Ard.",
+            "id": "1397494",
+            "score": 0.00271
+        },
+        {
+            "name": "Helictochloa versicolor (Vill.) Romero Zarco",
+            "id": "1389929",
+            "score": 0.00248
+        },
+        {
+            "name": "Helictotrichon parlatorei (J.Woods) Pilg.",
+            "id": "1392732",
+            "score": 0.00231
+        },
+        {
+            "name": "Elymus hystrix L.",
+            "id": "1411886",
+            "score": 0.00198
+        },
+        {
+            "name": "Elymus elymoides (Raf.) Swezey",
+            "id": "1411883",
+            "score": 0.00188
+        },
+        {
+            "name": "Arrhenatherum album (Vahl) Clayton",
+            "id": "1361175",
+            "score": 0.00179
+        },
+        {
+            "name": "Alopecurus myosuroides Huds.",
+            "id": "1361157",
+            "score": 0.00178
+        },
+        {
+            "name": "Melica ciliata L.",
+            "id": "1361329",
+            "score": 0.00177
+        },
+        {
+            "name": "Bromus scoparius L.",
+            "id": "1361205",
+            "score": 0.00175
+        },
+        {
+            "name": "Hyparrhenia papillipes (Hochst. ex A.Rich.) Andersson ex Stapf",
+            "id": "1651944",
+            "score": 0.00173
+        },
+        {
+            "name": "Festuca myuros L.",
+            "id": "1720968",
+            "score": 0.00171
+        },
+        {
+            "name": "Festuca ligustica (All.) Bertol.",
+            "id": "1738612",
+            "score": 0.00171
+        },
+        {
+            "name": "Helictochloa pratensis (L.) Romero Zarco",
+            "id": "1363056",
+            "score": 0.0017
+        },
+        {
+            "name": "Sehima nervosa (Rottler) Stapf",
+            "id": "1751373",
+            "score": 0.00162
+        },
+        {
+            "name": "Cenchrus squamulatus (Fresen.) Morrone",
+            "id": "1381402",
+            "score": 0.00155
+        },
+        {
+            "name": "Apera interrupta (L.) P.Beauv.",
+            "id": "1395152",
+            "score": 0.00149
+        },
+        {
+            "name": "Anthoxanthum ovatum Lag.",
+            "id": "1361167",
+            "score": 0.00145
+        },
+        {
+            "name": "Avena sativa L.",
+            "id": "1363469",
+            "score": 0.00136
+        },
+        {
+            "name": "Ischaemum afrum (J.F.Gmel.) Dandy",
+            "id": "1652116",
+            "score": 0.00132
+        },
+        {
+            "name": "Cortaderia selloana (Schult. & Schult.f.) Asch. & Graebn.",
+            "id": "1391361",
+            "score": 0.00129
+        },
+        {
+            "name": "Phalaris arundinacea L.",
+            "id": "1363490",
+            "score": 0.00129
+        },
+        {
+            "name": "Quercus velutina Lam.",
+            "id": "1398376",
+            "score": 0.00129
+        },
+        {
+            "name": "Dinebra retroflexa (Vahl) Panz.",
+            "id": "1361243",
+            "score": 0.00128
+        },
+        {
+            "name": "Calamagrostis scabrescens Griseb.",
+            "id": "1648972",
+            "score": 0.00123
+        },
+        {
+            "name": "Lolium rigidum Gaudin",
+            "id": "1363476",
+            "score": 0.00118
+        },
+        {
+            "name": "Bromus arvensis L.",
+            "id": "1397525",
+            "score": 0.00117
+        },
+        {
+            "name": "Triticum aestivum L.",
+            "id": "1363483",
+            "score": 0.0011
+        },
+        {
+            "name": "Stachys ocymastrum (L.) Briq.",
+            "id": "1358946",
+            "score": 0.00109
+        },
+        {
+            "name": "Helictochloa hackelii (Henriq.) Romero Zarco",
+            "id": "1743933",
+            "score": 0.00107
+        },
+        {
+            "name": "Alopecurus pratensis L.",
+            "id": "1362406",
+            "score": 0.00105
+        }
+    ]
+}

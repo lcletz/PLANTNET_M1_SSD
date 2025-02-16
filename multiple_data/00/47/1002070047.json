@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cornus kousa Bürger ex Hance",
+            "id": "1720853",
+            "score": 0.48328
+        },
+        {
+            "name": "Cornus florida L.",
+            "id": "1397618",
+            "score": 0.01712
+        },
+        {
+            "name": "Cornus chinensis Wangerin",
+            "id": "1528081",
+            "score": 0.01451
+        },
+        {
+            "name": "Cornus hongkongensis Hemsl.",
+            "id": "1418492",
+            "score": 0.00621
+        },
+        {
+            "name": "Cornus capitata Wall.",
+            "id": "1418489",
+            "score": 0.00104
+        }
+    ]
+}

@@ -1,0 +1,475 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lonicera fragrantissima Lindl. & Paxton",
+            "id": "1389306",
+            "score": 0.14291
+        },
+        {
+            "name": "Viburnum farreri Stearn",
+            "id": "1397610",
+            "score": 0.05898
+        },
+        {
+            "name": "Cornus mas L.",
+            "id": "1391354",
+            "score": 0.05072
+        },
+        {
+            "name": "Quercus rubra L.",
+            "id": "1395035",
+            "score": 0.04544
+        },
+        {
+            "name": "Lonicera caerulea L.",
+            "id": "1393631",
+            "score": 0.02853
+        },
+        {
+            "name": "Prunus × yedoensis Matsum.",
+            "id": "1668075",
+            "score": 0.01909
+        },
+        {
+            "name": "Forsythia viridissima Lindl.",
+            "id": "1398098",
+            "score": 0.01889
+        },
+        {
+            "name": "Forsythia suspensa (Thunb.) Vahl",
+            "id": "1392356",
+            "score": 0.01625
+        },
+        {
+            "name": "Phyllostachys nigra (Lodd. ex Lindl.) Munro",
+            "id": "1394711",
+            "score": 0.01533
+        },
+        {
+            "name": "Quercus bicolor Willd.",
+            "id": "1413402",
+            "score": 0.01457
+        },
+        {
+            "name": "Quercus muehlenbergii Engelm.",
+            "id": "1413407",
+            "score": 0.01087
+        },
+        {
+            "name": "Quercus phellos L.",
+            "id": "1437142",
+            "score": 0.01016
+        },
+        {
+            "name": "Prunus amygdalus Batsch",
+            "id": "1722605",
+            "score": 0.00996
+        },
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.00923
+        },
+        {
+            "name": "Wisteria floribunda (Willd.) DC.",
+            "id": "1397228",
+            "score": 0.00846
+        },
+        {
+            "name": "Syringa persica L.",
+            "id": "1419641",
+            "score": 0.00761
+        },
+        {
+            "name": "Quercus palustris Münchh.",
+            "id": "1397592",
+            "score": 0.00746
+        },
+        {
+            "name": "Cratoxylum formosum (Jack) Benth. & Hook.f. ex Dyer",
+            "id": "1718813",
+            "score": 0.00737
+        },
+        {
+            "name": "Lonicera canadensis J.Bartram & W.Bartram ex Marshall",
+            "id": "1815744",
+            "score": 0.00717
+        },
+        {
+            "name": "Acer triflorum Kom.",
+            "id": "1420604",
+            "score": 0.00713
+        },
+        {
+            "name": "Populus balsamifera L.",
+            "id": "1394775",
+            "score": 0.00711
+        },
+        {
+            "name": "Lactuca viminea (L.) J.Presl & C.Presl",
+            "id": "1393418",
+            "score": 0.00611
+        },
+        {
+            "name": "Chimonanthus praecox (L.) Link",
+            "id": "1418346",
+            "score": 0.00531
+        },
+        {
+            "name": "Quercus pyrenaica Willd.",
+            "id": "1358616",
+            "score": 0.00444
+        },
+        {
+            "name": "Acer saccharum Marshall",
+            "id": "1390591",
+            "score": 0.00434
+        },
+        {
+            "name": "Ulmus alata Michx.",
+            "id": "1420807",
+            "score": 0.00431
+        },
+        {
+            "name": "Feretia apodanthera Delile",
+            "id": "1361964",
+            "score": 0.004
+        },
+        {
+            "name": "Forsythia × intermedia Zabel",
+            "id": "1844237",
+            "score": 0.00389
+        },
+        {
+            "name": "Ulmus laevis Pall.",
+            "id": "1396951",
+            "score": 0.0037
+        },
+        {
+            "name": "Prunus tomentosa Thunb.",
+            "id": "1413354",
+            "score": 0.00348
+        },
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.00332
+        },
+        {
+            "name": "Quercus lusitanica Lam.",
+            "id": "1358615",
+            "score": 0.0033
+        },
+        {
+            "name": "Jasminum nudiflorum Lindl.",
+            "id": "1393331",
+            "score": 0.00328
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.00324
+        },
+        {
+            "name": "Quercus pontica K.Koch",
+            "id": "1419079",
+            "score": 0.00315
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00314
+        },
+        {
+            "name": "Barleria lupulina Lindl.",
+            "id": "1404999",
+            "score": 0.00299
+        },
+        {
+            "name": "Quercus velutina Lam.",
+            "id": "1398376",
+            "score": 0.00292
+        },
+        {
+            "name": "Glycine arenaria Tindale",
+            "id": "1578212",
+            "score": 0.00285
+        },
+        {
+            "name": "Philadelphus inodorus L.",
+            "id": "1413039",
+            "score": 0.00284
+        },
+        {
+            "name": "Gymnocladus dioicus (L.) K.Koch",
+            "id": "1745442",
+            "score": 0.0028
+        },
+        {
+            "name": "Quercus alba L.",
+            "id": "1409971",
+            "score": 0.00277
+        },
+        {
+            "name": "Lonicera × purpusii Rehder",
+            "id": "1844389",
+            "score": 0.00255
+        },
+        {
+            "name": "Betula alleghaniensis Britton",
+            "id": "1389062",
+            "score": 0.00254
+        },
+        {
+            "name": "Prunus serrulata Lindl.",
+            "id": "1394953",
+            "score": 0.00252
+        },
+        {
+            "name": "Quercus michauxii Nutt.",
+            "id": "1437132",
+            "score": 0.00246
+        },
+        {
+            "name": "Acer sterculiaceum Wall.",
+            "id": "1685335",
+            "score": 0.00245
+        },
+        {
+            "name": "Cornus officinalis Siebold & Zucc.",
+            "id": "1418495",
+            "score": 0.00233
+        },
+        {
+            "name": "Viburnum prunifolium L.",
+            "id": "1417592",
+            "score": 0.00231
+        },
+        {
+            "name": "Euonymus alatus (Thunb.) Siebold",
+            "id": "1412016",
+            "score": 0.00229
+        },
+        {
+            "name": "Ulmus glabra Huds.",
+            "id": "1397552",
+            "score": 0.00228
+        },
+        {
+            "name": "Amelanchier laevis Wiegand",
+            "id": "1412102",
+            "score": 0.00228
+        },
+        {
+            "name": "Castanea crenata Siebold & Zucc.",
+            "id": "1390962",
+            "score": 0.00226
+        },
+        {
+            "name": "Populus lasiocarpa Oliv.",
+            "id": "1398586",
+            "score": 0.0022
+        },
+        {
+            "name": "Robinia viscosa Michx. ex Vent.",
+            "id": "1742844",
+            "score": 0.00215
+        },
+        {
+            "name": "Quercus glauca Thunb.",
+            "id": "1548261",
+            "score": 0.00213
+        },
+        {
+            "name": "Viburnum × bodnantense Aberc. ex Stearn",
+            "id": "1844925",
+            "score": 0.00203
+        },
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.00203
+        },
+        {
+            "name": "Quercus nigra L.",
+            "id": "1389501",
+            "score": 0.00202
+        },
+        {
+            "name": "Cornus alternifolia L.f.",
+            "id": "1406479",
+            "score": 0.00193
+        },
+        {
+            "name": "Syringa reticulata (Blume) H.Hara",
+            "id": "1609522",
+            "score": 0.00192
+        },
+        {
+            "name": "Ficus subpisocarpa Gagnep.",
+            "id": "1602235",
+            "score": 0.00184
+        },
+        {
+            "name": "Diospyros lotus L.",
+            "id": "1391736",
+            "score": 0.00184
+        },
+        {
+            "name": "Corylopsis pauciflora Siebold & Zucc.",
+            "id": "1419161",
+            "score": 0.00176
+        },
+        {
+            "name": "Betula utilis D.Don",
+            "id": "1400127",
+            "score": 0.00173
+        },
+        {
+            "name": "Quercus aliena Blume",
+            "id": "1548087",
+            "score": 0.00169
+        },
+        {
+            "name": "Parthenocissus quinquefolia (L.) Planch.",
+            "id": "1394423",
+            "score": 0.00167
+        },
+        {
+            "name": "Lonicera maackii (Rupr.) Maxim.",
+            "id": "1418392",
+            "score": 0.00163
+        },
+        {
+            "name": "Forsythia europaea Degen & Bald.",
+            "id": "1609119",
+            "score": 0.0016
+        },
+        {
+            "name": "Ulmus thomasii Sarg.",
+            "id": "1414127",
+            "score": 0.00158
+        },
+        {
+            "name": "Canna × hybrida Rodigas",
+            "id": "1843876",
+            "score": 0.00157
+        },
+        {
+            "name": "Prunus persica (L.) Batsch",
+            "id": "1363997",
+            "score": 0.00156
+        },
+        {
+            "name": "Phyllostachys aurea (André) Rivière & C.Rivière",
+            "id": "1723194",
+            "score": 0.00156
+        },
+        {
+            "name": "Lactuca saligna L.",
+            "id": "1357681",
+            "score": 0.0015
+        },
+        {
+            "name": "Guadua angustifolia Kunth",
+            "id": "1651672",
+            "score": 0.00144
+        },
+        {
+            "name": "Acer cappadocicum Gled.",
+            "id": "1397300",
+            "score": 0.0014
+        },
+        {
+            "name": "Castilleja attenuata (A.Gray) T.I.Chuang & Heckard",
+            "id": "1815607",
+            "score": 0.00139
+        },
+        {
+            "name": "Quercus canariensis Willd.",
+            "id": "1358612",
+            "score": 0.00131
+        },
+        {
+            "name": "Wisteria sinensis (Sims) DC.",
+            "id": "1422166",
+            "score": 0.00131
+        },
+        {
+            "name": "Ligustrum japonicum Thunb.",
+            "id": "1397735",
+            "score": 0.0013
+        },
+        {
+            "name": "Populus angustifolia E.James",
+            "id": "1683812",
+            "score": 0.00129
+        },
+        {
+            "name": "Quercus mongolica Fisch. ex Ledeb.",
+            "id": "1548375",
+            "score": 0.00127
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.00125
+        },
+        {
+            "name": "Quercus acutissima Carruth.",
+            "id": "1419069",
+            "score": 0.00125
+        },
+        {
+            "name": "Tabebuia roseoalba (Ridl.) Sandwith",
+            "id": "1476995",
+            "score": 0.00124
+        },
+        {
+            "name": "Prunus × subhirtella Miq.",
+            "id": "1721663",
+            "score": 0.00123
+        },
+        {
+            "name": "Ulmus americana L.",
+            "id": "1390323",
+            "score": 0.00122
+        },
+        {
+            "name": "Lagerstroemia speciosa (L.) Pers.",
+            "id": "1376510",
+            "score": 0.00112
+        },
+        {
+            "name": "Carpinus orientalis Mill.",
+            "id": "1398832",
+            "score": 0.00109
+        },
+        {
+            "name": "Acer platanoides L.",
+            "id": "1397301",
+            "score": 0.00109
+        },
+        {
+            "name": "Sclerocarya birrea (A.Rich.) Hochst.",
+            "id": "1422577",
+            "score": 0.00108
+        },
+        {
+            "name": "Acer heldreichii Orph. ex Boiss.",
+            "id": "1420597",
+            "score": 0.00108
+        },
+        {
+            "name": "Populus simonii Carrière",
+            "id": "1394781",
+            "score": 0.00107
+        },
+        {
+            "name": "Salix triandra L.",
+            "id": "1360459",
+            "score": 0.00107
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.91802
+        },
+        {
+            "name": "Aesculus glabra Willd.",
+            "id": "1390602",
+            "score": 0.03158
+        },
+        {
+            "name": "Aesculus × carnea Zeyh.",
+            "id": "1420608",
+            "score": 0.00891
+        },
+        {
+            "name": "Aesculus pavia L.",
+            "id": "1389544",
+            "score": 0.00255
+        },
+        {
+            "name": "Aesculus flava Sol.",
+            "id": "1398407",
+            "score": 0.00155
+        }
+    ]
+}

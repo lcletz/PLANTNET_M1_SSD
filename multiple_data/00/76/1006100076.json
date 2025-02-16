@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viola tricolor L.",
+            "id": "1356215",
+            "score": 0.92035
+        },
+        {
+            "name": "Viola arvensis Murray",
+            "id": "1356214",
+            "score": 0.03801
+        },
+        {
+            "name": "Viola × wittrockiana Gams",
+            "id": "1844934",
+            "score": 0.01415
+        },
+        {
+            "name": "Viola kitaibeliana Schult.",
+            "id": "1360869",
+            "score": 0.00337
+        },
+        {
+            "name": "Viola × williamsii Wittr.",
+            "id": "1844933",
+            "score": 0.00221
+        },
+        {
+            "name": "Viola hispida Lam.",
+            "id": "1397149",
+            "score": 0.00125
+        }
+    ]
+}

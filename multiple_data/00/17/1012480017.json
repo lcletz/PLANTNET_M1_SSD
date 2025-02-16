@@ -1,0 +1,345 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pinus pinea L.",
+            "id": "1394612",
+            "score": 0.36014
+        },
+        {
+            "name": "Pinus halepensis Mill.",
+            "id": "1397460",
+            "score": 0.10157
+        },
+        {
+            "name": "Pinus pinaster Aiton",
+            "id": "1394611",
+            "score": 0.08376
+        },
+        {
+            "name": "Pinus ponderosa Douglas ex C.Lawson",
+            "id": "1419917",
+            "score": 0.07942
+        },
+        {
+            "name": "Pinus wallichiana A.B.Jacks.",
+            "id": "1394618",
+            "score": 0.05335
+        },
+        {
+            "name": "Pinus nigra J.F.Arnold",
+            "id": "1419915",
+            "score": 0.04696
+        },
+        {
+            "name": "Pinus strobus L.",
+            "id": "1394616",
+            "score": 0.04096
+        },
+        {
+            "name": "Pinus elliottii Engelm.",
+            "id": "1381528",
+            "score": 0.04081
+        },
+        {
+            "name": "Pinus caribaea Morelet",
+            "id": "1390018",
+            "score": 0.02545
+        },
+        {
+            "name": "Pinus sylvestris L.",
+            "id": "1394617",
+            "score": 0.02157
+        },
+        {
+            "name": "Pinus jeffreyi Balf.",
+            "id": "1390030",
+            "score": 0.01765
+        },
+        {
+            "name": "Pinus brutia Ten.",
+            "id": "1398092",
+            "score": 0.01558
+        },
+        {
+            "name": "Pinus torreyana Parry ex Carrière",
+            "id": "1436516",
+            "score": 0.01403
+        },
+        {
+            "name": "Pinus taeda L.",
+            "id": "1390011",
+            "score": 0.01372
+        },
+        {
+            "name": "Pinus cembra L.",
+            "id": "1394605",
+            "score": 0.01248
+        },
+        {
+            "name": "Pinus gerardiana Wall. ex D.Don",
+            "id": "1390027",
+            "score": 0.01214
+        },
+        {
+            "name": "Pinus pungens Lamb.",
+            "id": "1390040",
+            "score": 0.01155
+        },
+        {
+            "name": "Pinus radiata D.Don",
+            "id": "1394613",
+            "score": 0.01056
+        },
+        {
+            "name": "Pinus leiophylla Schiede ex Schltdl. & Cham.",
+            "id": "1701806",
+            "score": 0.00949
+        },
+        {
+            "name": "Pinus attenuata Lemmon",
+            "id": "1390015",
+            "score": 0.00937
+        },
+        {
+            "name": "Pinus resinosa Aiton",
+            "id": "1390041",
+            "score": 0.00882
+        },
+        {
+            "name": "Pinus strobiformis Engelm.",
+            "id": "1390046",
+            "score": 0.00624
+        },
+        {
+            "name": "Pinus thunbergii Parl.",
+            "id": "1390049",
+            "score": 0.00569
+        },
+        {
+            "name": "Pinus rigida Mill.",
+            "id": "1398532",
+            "score": 0.00528
+        },
+        {
+            "name": "Pinus canariensis C.Sm. ex DC.",
+            "id": "1722426",
+            "score": 0.00482
+        },
+        {
+            "name": "Pinus contorta Douglas ex Loudon",
+            "id": "1413085",
+            "score": 0.00482
+        },
+        {
+            "name": "Pinus flexilis E.James",
+            "id": "1390026",
+            "score": 0.00471
+        },
+        {
+            "name": "Pinus hartwegii Lindl.",
+            "id": "1390028",
+            "score": 0.00444
+        },
+        {
+            "name": "Pinus lambertiana Douglas",
+            "id": "1390032",
+            "score": 0.00441
+        },
+        {
+            "name": "Pinus mugo Turra",
+            "id": "1394608",
+            "score": 0.00435
+        },
+        {
+            "name": "Pinus serotina Michx.",
+            "id": "1390044",
+            "score": 0.00425
+        },
+        {
+            "name": "Pinus patula Schiede ex Schltdl. & Cham.",
+            "id": "1419916",
+            "score": 0.00425
+        },
+        {
+            "name": "Pinus sibirica Du Tour",
+            "id": "1390045",
+            "score": 0.00424
+        },
+        {
+            "name": "Pinus palustris Mill.",
+            "id": "1436512",
+            "score": 0.00367
+        },
+        {
+            "name": "Pinus montezumae Lamb.",
+            "id": "1422687",
+            "score": 0.0032
+        },
+        {
+            "name": "Picea pungens Engelm.",
+            "id": "1394563",
+            "score": 0.00303
+        },
+        {
+            "name": "Pinus monticola Douglas ex D.Don",
+            "id": "1390036",
+            "score": 0.00302
+        },
+        {
+            "name": "Pinus densiflora Siebold & Zucc.",
+            "id": "1390021",
+            "score": 0.00288
+        },
+        {
+            "name": "Pinus coulteri D.Don",
+            "id": "1398318",
+            "score": 0.00244
+        },
+        {
+            "name": "Pinus echinata Mill.",
+            "id": "1390023",
+            "score": 0.00234
+        },
+        {
+            "name": "Pinus engelmannii Carrière",
+            "id": "1390025",
+            "score": 0.00233
+        },
+        {
+            "name": "Pinus heldreichii Christ",
+            "id": "1390029",
+            "score": 0.00208
+        },
+        {
+            "name": "Arceuthobium campylopodum Engelm.",
+            "id": "1413043",
+            "score": 0.002
+        },
+        {
+            "name": "Pinus maximinoi H.E.Moore",
+            "id": "1701810",
+            "score": 0.00187
+        },
+        {
+            "name": "Pinus clausa (Chapm. ex Engelm.) Vasey ex Sarg.",
+            "id": "1436503",
+            "score": 0.00182
+        },
+        {
+            "name": "Pinus durangensis Martínez",
+            "id": "1701792",
+            "score": 0.00174
+        },
+        {
+            "name": "Cedrus deodara (Roxb. ex D.Don) G.Don",
+            "id": "1390972",
+            "score": 0.00173
+        },
+        {
+            "name": "Pinus bhutanica Grierson, D.G.Long & C.N.Page",
+            "id": "1701783",
+            "score": 0.00164
+        },
+        {
+            "name": "Pinus cembroides Zucc.",
+            "id": "1390019",
+            "score": 0.00161
+        },
+        {
+            "name": "Pinus nelsonii Shaw",
+            "id": "1701814",
+            "score": 0.0016
+        },
+        {
+            "name": "Larix decidua Mill.",
+            "id": "1397422",
+            "score": 0.0016
+        },
+        {
+            "name": "Pinus kesiya Royle ex Gordon",
+            "id": "1419912",
+            "score": 0.00147
+        },
+        {
+            "name": "Casuarina cunninghamiana Miq.",
+            "id": "1361847",
+            "score": 0.00131
+        },
+        {
+            "name": "Meliosma squamulata Hance",
+            "id": "1683374",
+            "score": 0.00119
+        },
+        {
+            "name": "Pinus uncinata Ramond ex DC.",
+            "id": "1701831",
+            "score": 0.00119
+        },
+        {
+            "name": "Pinus pumila (Pall.) Regel",
+            "id": "1419918",
+            "score": 0.00117
+        },
+        {
+            "name": "Pinus arizonica Engelm.",
+            "id": "1436501",
+            "score": 0.00107
+        },
+        {
+            "name": "Pinus peuce Griseb.",
+            "id": "1390039",
+            "score": 0.00105
+        },
+        {
+            "name": "Pinus koraiensis Siebold & Zucc.",
+            "id": "1390031",
+            "score": 0.00101
+        },
+        {
+            "name": "Abies concolor (Gordon & Glend.) Lindl. ex Hildebr.",
+            "id": "1396925",
+            "score": 0.00062
+        },
+        {
+            "name": "Cedrus libani A.Rich.",
+            "id": "1390973",
+            "score": 0.00054
+        },
+        {
+            "name": "Abies pinsapo Boiss.",
+            "id": "1393800",
+            "score": 0.00046
+        },
+        {
+            "name": "Cedrus atlantica (Endl.) Manetti ex Carrière",
+            "id": "1419901",
+            "score": 0.00045
+        },
+        {
+            "name": "Pinus sabiniana Douglas",
+            "id": "1390043",
+            "score": 0.00043
+        },
+        {
+            "name": "Pinus tabuliformis Carrière",
+            "id": "1390047",
+            "score": 0.00038
+        },
+        {
+            "name": "Pistacia chinensis Bunge",
+            "id": "1419331",
+            "score": 0.00037
+        },
+        {
+            "name": "Picea abies (L.) H.Karst.",
+            "id": "1397459",
+            "score": 0.00035
+        },
+        {
+            "name": "Pinus virginiana Mill.",
+            "id": "1413090",
+            "score": 0.0003
+        }
+    ]
+}

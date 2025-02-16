@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Ipomoea indica (Burm.) Merr.",
+            "id": "1364032",
+            "score": 0.70806
+        },
+        {
+            "name": "Ipomoea purpurea (L.) Roth",
+            "id": "1364031",
+            "score": 0.07395
+        },
+        {
+            "name": "Ipomoea sagittata Poir.",
+            "id": "1358019",
+            "score": 0.00649
+        },
+        {
+            "name": "Ipomoea batatas (L.) Lam.",
+            "id": "1364028",
+            "score": 0.00129
+        }
+    ]
+}

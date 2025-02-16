@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cornus florida L.",
+            "id": "1397618",
+            "score": 0.4221
+        },
+        {
+            "name": "Cornus kousa Bürger ex Hance",
+            "id": "1720853",
+            "score": 0.24903
+        },
+        {
+            "name": "Cornus canadensis L.",
+            "id": "1411545",
+            "score": 0.01305
+        },
+        {
+            "name": "Cornus sanguinea L.",
+            "id": "1397356",
+            "score": 0.00405
+        },
+        {
+            "name": "Clematis montana Buch.-Ham. ex DC.",
+            "id": "1391296",
+            "score": 0.00171
+        },
+        {
+            "name": "Cornus nuttallii Audubon ex Torr. & A.Gray",
+            "id": "1528093",
+            "score": 0.00149
+        }
+    ]
+}

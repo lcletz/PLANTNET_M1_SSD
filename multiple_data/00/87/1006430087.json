@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vicia hirsuta (L.) Gray",
+            "id": "1363671",
+            "score": 0.94672
+        },
+        {
+            "name": "Vicia parviflora Cav.",
+            "id": "1359570",
+            "score": 0.02346
+        },
+        {
+            "name": "Vicia tetrasperma (L.) Schreb.",
+            "id": "1359579",
+            "score": 0.00953
+        },
+        {
+            "name": "Vicia disperma DC.",
+            "id": "1359557",
+            "score": 0.00186
+        },
+        {
+            "name": "Polygala paniculata L.",
+            "id": "1356077",
+            "score": 0.00127
+        }
+    ]
+}

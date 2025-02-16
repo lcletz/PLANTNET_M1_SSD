@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hibiscus syriacus L.",
+            "id": "1392770",
+            "score": 0.94735
+        },
+        {
+            "name": "Hibiscus moscheutos L.",
+            "id": "1412258",
+            "score": 0.00367
+        },
+        {
+            "name": "Acer circinatum Pursh",
+            "id": "1411917",
+            "score": 0.0014
+        },
+        {
+            "name": "Ribes alpinum L.",
+            "id": "1358682",
+            "score": 0.00123
+        },
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.00119
+        },
+        {
+            "name": "Hibiscus rosa-sinensis L.",
+            "id": "1370542",
+            "score": 0.00102
+        }
+    ]
+}

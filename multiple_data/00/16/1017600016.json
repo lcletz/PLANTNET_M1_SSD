@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Petroselinum crispum (Mill.) Nyman ex A.W.Hill",
+            "id": "1398590",
+            "score": 0.55722
+        },
+        {
+            "name": "Apium graveolens L.",
+            "id": "1363218",
+            "score": 0.05491
+        },
+        {
+            "name": "Coriandrum sativum L.",
+            "id": "1363224",
+            "score": 0.00712
+        },
+        {
+            "name": "Anthriscus cerefolium (L.) Hoffm.",
+            "id": "1360613",
+            "score": 0.00504
+        },
+        {
+            "name": "Lepidium sativum L.",
+            "id": "1363894",
+            "score": 0.00437
+        },
+        {
+            "name": "Daucus carota L.",
+            "id": "1363227",
+            "score": 0.00128
+        }
+    ]
+}

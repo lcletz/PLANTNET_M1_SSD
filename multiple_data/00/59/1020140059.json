@@ -1,0 +1,55 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Erica carnea L.",
+            "id": "1358505",
+            "score": 0.66574
+        },
+        {
+            "name": "Erica scoparia L.",
+            "id": "1358511",
+            "score": 0.09936
+        },
+        {
+            "name": "Erica erigena R.Ross",
+            "id": "1392023",
+            "score": 0.08094
+        },
+        {
+            "name": "Erica vagans L.",
+            "id": "1361800",
+            "score": 0.03397
+        },
+        {
+            "name": "Erica arborea L.",
+            "id": "1358503",
+            "score": 0.02915
+        },
+        {
+            "name": "Empetrum nigrum L.",
+            "id": "1391868",
+            "score": 0.00753
+        },
+        {
+            "name": "Erica cinerea L.",
+            "id": "1358507",
+            "score": 0.00378
+        },
+        {
+            "name": "Erica multiflora L.",
+            "id": "1358509",
+            "score": 0.00297
+        },
+        {
+            "name": "Erica lusitanica Rudolphi",
+            "id": "1392024",
+            "score": 0.00212
+        },
+        {
+            "name": "Calluna vulgaris (L.) Hull",
+            "id": "1358501",
+            "score": 0.00137
+        }
+    ]
+}

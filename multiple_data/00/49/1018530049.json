@@ -1,0 +1,220 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Pinus halepensis Mill.",
+            "id": "1397460",
+            "score": 0.12251
+        },
+        {
+            "name": "Pinus pinaster Aiton",
+            "id": "1394611",
+            "score": 0.0761
+        },
+        {
+            "name": "Cedrus deodara (Roxb. ex D.Don) G.Don",
+            "id": "1390972",
+            "score": 0.05626
+        },
+        {
+            "name": "Cedrus atlantica (Endl.) Manetti ex Carrière",
+            "id": "1419901",
+            "score": 0.05187
+        },
+        {
+            "name": "Pinus pinea L.",
+            "id": "1394612",
+            "score": 0.0403
+        },
+        {
+            "name": "Pinus strobus L.",
+            "id": "1394616",
+            "score": 0.0195
+        },
+        {
+            "name": "Picea pungens Engelm.",
+            "id": "1394563",
+            "score": 0.01618
+        },
+        {
+            "name": "Pinus ponderosa Douglas ex C.Lawson",
+            "id": "1419917",
+            "score": 0.01287
+        },
+        {
+            "name": "Pinus nigra J.F.Arnold",
+            "id": "1419915",
+            "score": 0.01039
+        },
+        {
+            "name": "Catalpa bignonioides Walter",
+            "id": "1388727",
+            "score": 0.00925
+        },
+        {
+            "name": "Alnus glutinosa (L.) Gaertn.",
+            "id": "1356608",
+            "score": 0.00922
+        },
+        {
+            "name": "Larix decidua Mill.",
+            "id": "1397422",
+            "score": 0.00648
+        },
+        {
+            "name": "Ulmus minor Mill.",
+            "id": "1360607",
+            "score": 0.00637
+        },
+        {
+            "name": "Liquidambar styraciflua L.",
+            "id": "1393613",
+            "score": 0.00612
+        },
+        {
+            "name": "Ulmus pumila L.",
+            "id": "1390603",
+            "score": 0.00508
+        },
+        {
+            "name": "Picea abies (L.) H.Karst.",
+            "id": "1397459",
+            "score": 0.00454
+        },
+        {
+            "name": "Pinus sylvestris L.",
+            "id": "1394617",
+            "score": 0.00412
+        },
+        {
+            "name": "Ulmus glabra Huds.",
+            "id": "1397552",
+            "score": 0.00377
+        },
+        {
+            "name": "Pseudotsuga menziesii (Mirb.) Franco",
+            "id": "1394967",
+            "score": 0.00373
+        },
+        {
+            "name": "Corylus colurna L.",
+            "id": "1397579",
+            "score": 0.00303
+        },
+        {
+            "name": "Quercus pubescens Willd.",
+            "id": "1395026",
+            "score": 0.00299
+        },
+        {
+            "name": "Prunus serotina Ehrh.",
+            "id": "1370859",
+            "score": 0.00287
+        },
+        {
+            "name": "Pinus mugo Turra",
+            "id": "1394608",
+            "score": 0.00249
+        },
+        {
+            "name": "Pinus radiata D.Don",
+            "id": "1394613",
+            "score": 0.00224
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.00223
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.00184
+        },
+        {
+            "name": "Koelreuteria paniculata Laxm.",
+            "id": "1397985",
+            "score": 0.00184
+        },
+        {
+            "name": "Pinus cembra L.",
+            "id": "1394605",
+            "score": 0.00174
+        },
+        {
+            "name": "Pistacia vera L.",
+            "id": "1356568",
+            "score": 0.0017
+        },
+        {
+            "name": "Fraxinus americana L.",
+            "id": "1397619",
+            "score": 0.00162
+        },
+        {
+            "name": "Abies alba Mill.",
+            "id": "1397299",
+            "score": 0.00161
+        },
+        {
+            "name": "Alnus cordata (Loisel.) Duby",
+            "id": "1397307",
+            "score": 0.00158
+        },
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.00154
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.00149
+        },
+        {
+            "name": "Schinus molle L.",
+            "id": "1363642",
+            "score": 0.00146
+        },
+        {
+            "name": "Ulmus laevis Pall.",
+            "id": "1396951",
+            "score": 0.00137
+        },
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.00124
+        },
+        {
+            "name": "Cotinus coggygria Scop.",
+            "id": "1391375",
+            "score": 0.00123
+        },
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.00119
+        },
+        {
+            "name": "Quercus robur L.",
+            "id": "1357413",
+            "score": 0.00118
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.00103
+        },
+        {
+            "name": "Quercus petraea (Matt.) Liebl.",
+            "id": "1419076",
+            "score": 0.00102
+        },
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.00101
+        }
+    ]
+}

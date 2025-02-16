@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Papaver somniferum L.",
+            "id": "1363130",
+            "score": 0.94801
+        },
+        {
+            "name": "Dianthus plumarius L.",
+            "id": "1391707",
+            "score": 0.00305
+        },
+        {
+            "name": "Dianthus caryophyllus L.",
+            "id": "1356843",
+            "score": 0.00235
+        },
+        {
+            "name": "Papaver orientale L.",
+            "id": "1394404",
+            "score": 0.00175
+        }
+    ]
+}

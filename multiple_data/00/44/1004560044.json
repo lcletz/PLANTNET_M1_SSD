@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Mentha suaveolens Ehrh.",
+            "id": "1358789",
+            "score": 0.86092
+        },
+        {
+            "name": "Mentha × rotundifolia (L.) Huds.",
+            "id": "1560693",
+            "score": 0.04465
+        },
+        {
+            "name": "Mentha longifolia (L.) L.",
+            "id": "1356107",
+            "score": 0.01189
+        },
+        {
+            "name": "Mentha spicata L.",
+            "id": "1358788",
+            "score": 0.01176
+        },
+        {
+            "name": "Mentha × villosa Huds.",
+            "id": "1560698",
+            "score": 0.00868
+        }
+    ]
+}

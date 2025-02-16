@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Agave americana L.",
+            "id": "1360898",
+            "score": 0.94541
+        },
+        {
+            "name": "Agave asperrima Jacobi",
+            "id": "1441025",
+            "score": 0.01345
+        },
+        {
+            "name": "Agave salmiana Otto ex Salm-Dyck",
+            "id": "1417642",
+            "score": 0.01003
+        },
+        {
+            "name": "Agave shaferi Trel.",
+            "id": "1471147",
+            "score": 0.00801
+        },
+        {
+            "name": "Agave sisalana Perrine",
+            "id": "1357953",
+            "score": 0.00398
+        },
+        {
+            "name": "Agave tequilana F.A.C.Weber",
+            "id": "1417644",
+            "score": 0.00137
+        },
+        {
+            "name": "Agave guiengola Gentry",
+            "id": "1471073",
+            "score": 0.00114
+        }
+    ]
+}

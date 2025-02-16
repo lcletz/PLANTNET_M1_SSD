@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ocimum basilicum L.",
+            "id": "1361975",
+            "score": 0.95856
+        },
+        {
+            "name": "Ocimum americanum L.",
+            "id": "1419267",
+            "score": 0.00635
+        },
+        {
+            "name": "Capsicum annuum L.",
+            "id": "1361992",
+            "score": 0.00455
+        },
+        {
+            "name": "Spinacia oleracea L.",
+            "id": "1356556",
+            "score": 0.00138
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Magnolia grandiflora L.",
+            "id": "1393723",
+            "score": 0.63048
+        },
+        {
+            "name": "Magnolia virginiana L.",
+            "id": "1389430",
+            "score": 0.13393
+        },
+        {
+            "name": "Photinia serratifolia (Desf.) Kalkman",
+            "id": "1420392",
+            "score": 0.00235
+        },
+        {
+            "name": "Annona cherimola Mill.",
+            "id": "1390486",
+            "score": 0.00187
+        },
+        {
+            "name": "Magnolia macrophylla Michx.",
+            "id": "1419377",
+            "score": 0.0016
+        },
+        {
+            "name": "Annona spinescens Mart.",
+            "id": "1454791",
+            "score": 0.00131
+        },
+        {
+            "name": "Calodendrum capense (L.f.) Thunb.",
+            "id": "1422636",
+            "score": 0.00116
+        }
+    ]
+}

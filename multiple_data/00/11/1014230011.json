@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Malva moschata L.",
+            "id": "1393748",
+            "score": 0.68465
+        },
+        {
+            "name": "Malva alcea L.",
+            "id": "1359635",
+            "score": 0.13317
+        },
+        {
+            "name": "Sidalcea candida A.Gray",
+            "id": "1816148",
+            "score": 0.00739
+        },
+        {
+            "name": "Althaea officinalis L.",
+            "id": "1359625",
+            "score": 0.00656
+        },
+        {
+            "name": "Kitaibelia vitifolia Willd.",
+            "id": "1594568",
+            "score": 0.00401
+        },
+        {
+            "name": "Malva tournefortiana L.",
+            "id": "1359641",
+            "score": 0.00329
+        },
+        {
+            "name": "Polemonium caeruleum L.",
+            "id": "1394724",
+            "score": 0.00156
+        },
+        {
+            "name": "Malva verticillata L.",
+            "id": "1362102",
+            "score": 0.00128
+        },
+        {
+            "name": "Sidalcea campestris Greene",
+            "id": "1438219",
+            "score": 0.00115
+        },
+        {
+            "name": "Primula orbicularis Hemsl.",
+            "id": "1661326",
+            "score": 0.00109
+        }
+    ]
+}

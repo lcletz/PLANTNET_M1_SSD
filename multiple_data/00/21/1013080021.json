@@ -1,0 +1,300 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.54734
+        },
+        {
+            "name": "Fagus orientalis Lipsky",
+            "id": "1547791",
+            "score": 0.37124
+        },
+        {
+            "name": "Fagus grandifolia Ehrh.",
+            "id": "1412056",
+            "score": 0.07662
+        },
+        {
+            "name": "Magnolia tripetala (L.) L.",
+            "id": "1434433",
+            "score": 0.02241
+        },
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.01718
+        },
+        {
+            "name": "Betula nigra L.",
+            "id": "1390590",
+            "score": 0.01568
+        },
+        {
+            "name": "Alnus incana (L.) Moench",
+            "id": "1397308",
+            "score": 0.01158
+        },
+        {
+            "name": "Hamamelis vernalis Sarg.",
+            "id": "1419172",
+            "score": 0.00524
+        },
+        {
+            "name": "Magnolia macrophylla Michx.",
+            "id": "1419377",
+            "score": 0.00503
+        },
+        {
+            "name": "Quercus nigra L.",
+            "id": "1389501",
+            "score": 0.005
+        },
+        {
+            "name": "Fraxinus ornus L.",
+            "id": "1362963",
+            "score": 0.0049
+        },
+        {
+            "name": "Carpinus orientalis Mill.",
+            "id": "1398832",
+            "score": 0.00467
+        },
+        {
+            "name": "Carpinus caroliniana Walter",
+            "id": "1411338",
+            "score": 0.00456
+        },
+        {
+            "name": "Sorbus aucuparia L.",
+            "id": "1362987",
+            "score": 0.0043
+        },
+        {
+            "name": "Ficus carica L.",
+            "id": "1363142",
+            "score": 0.00338
+        },
+        {
+            "name": "Alnus serrulata (Aiton) Willd.",
+            "id": "1411837",
+            "score": 0.00309
+        },
+        {
+            "name": "Abies alba Mill.",
+            "id": "1397299",
+            "score": 0.003
+        },
+        {
+            "name": "Fagus japonica Maxim.",
+            "id": "1547788",
+            "score": 0.00284
+        },
+        {
+            "name": "Castanea sativa Mill.",
+            "id": "1358610",
+            "score": 0.0027
+        },
+        {
+            "name": "Acer opalus Mill.",
+            "id": "1362399",
+            "score": 0.00186
+        },
+        {
+            "name": "Aria edulis (Willd.) M.Roem.",
+            "id": "1737559",
+            "score": 0.00166
+        },
+        {
+            "name": "Asimina triloba (L.) Dunal",
+            "id": "1413867",
+            "score": 0.00158
+        },
+        {
+            "name": "Castanea dentata (Marshall) Borkh.",
+            "id": "1411348",
+            "score": 0.0015
+        },
+        {
+            "name": "Laburnum alpinum (Mill.) Bercht. & J.Presl",
+            "id": "1393412",
+            "score": 0.00149
+        },
+        {
+            "name": "Quercus rubra L.",
+            "id": "1395035",
+            "score": 0.00147
+        },
+        {
+            "name": "Alnus glutinosa (L.) Gaertn.",
+            "id": "1356608",
+            "score": 0.0014
+        },
+        {
+            "name": "Magnolia denudata Desr.",
+            "id": "1393717",
+            "score": 0.00134
+        },
+        {
+            "name": "Acer pseudoplatanus L.",
+            "id": "1356460",
+            "score": 0.00134
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.00126
+        },
+        {
+            "name": "Salix caprea L.",
+            "id": "1395765",
+            "score": 0.00117
+        },
+        {
+            "name": "Populus × canescens (Aiton) Sm.",
+            "id": "1683819",
+            "score": 0.00116
+        },
+        {
+            "name": "Magnolia liliiflora Desr.",
+            "id": "1397622",
+            "score": 0.00113
+        },
+        {
+            "name": "Magnolia fraseri Walter",
+            "id": "1419373",
+            "score": 0.0011
+        },
+        {
+            "name": "Viburnum dentatum L.",
+            "id": "1417545",
+            "score": 0.00102
+        },
+        {
+            "name": "Betula lenta L.",
+            "id": "1414284",
+            "score": 0.00101
+        },
+        {
+            "name": "Betula medwediewii Regel",
+            "id": "1390608",
+            "score": 0.001
+        },
+        {
+            "name": "Magnolia virginiana L.",
+            "id": "1389430",
+            "score": 0.00088
+        },
+        {
+            "name": "Populus tremula L.",
+            "id": "1360449",
+            "score": 0.00084
+        },
+        {
+            "name": "Laburnum anagyroides Medik.",
+            "id": "1397419",
+            "score": 0.00069
+        },
+        {
+            "name": "Rhamnus alpina L.",
+            "id": "1360261",
+            "score": 0.00066
+        },
+        {
+            "name": "Ilex opaca Aiton",
+            "id": "1420705",
+            "score": 0.00056
+        },
+        {
+            "name": "Quercus petraea (Matt.) Liebl.",
+            "id": "1419076",
+            "score": 0.00056
+        },
+        {
+            "name": "Quercus velutina Lam.",
+            "id": "1398376",
+            "score": 0.00055
+        },
+        {
+            "name": "Acer rubrum L.",
+            "id": "1398406",
+            "score": 0.00055
+        },
+        {
+            "name": "Aria vexans (E.F.Warb.) Sennikov & Kurtto",
+            "id": "1738921",
+            "score": 0.00053
+        },
+        {
+            "name": "Frangula alnus Mill.",
+            "id": "1360257",
+            "score": 0.00053
+        },
+        {
+            "name": "Quercus cerris L.",
+            "id": "1395020",
+            "score": 0.0005
+        },
+        {
+            "name": "Magnolia × soulangeana Soul.-Bod.",
+            "id": "1591282",
+            "score": 0.00048
+        },
+        {
+            "name": "Tilia × europaea L.",
+            "id": "1595800",
+            "score": 0.00045
+        },
+        {
+            "name": "Quercus ilicifolia Wangenh.",
+            "id": "1397874",
+            "score": 0.00042
+        },
+        {
+            "name": "Pinus strobus L.",
+            "id": "1394616",
+            "score": 0.00041
+        },
+        {
+            "name": "Magnolia champaca (L.) Baill. ex Pierre",
+            "id": "1410925",
+            "score": 0.00038
+        },
+        {
+            "name": "Alnus cordata (Loisel.) Duby",
+            "id": "1397307",
+            "score": 0.00038
+        },
+        {
+            "name": "Prunus laurocerasus L.",
+            "id": "1394952",
+            "score": 0.00032
+        },
+        {
+            "name": "Cassia fistula L.",
+            "id": "1368528",
+            "score": 0.00031
+        },
+        {
+            "name": "Laurus azorica (Seub.) Franco",
+            "id": "1359057",
+            "score": 0.00031
+        },
+        {
+            "name": "Magnolia × veitchii Bean",
+            "id": "1844411",
+            "score": 0.00031
+        },
+        {
+            "name": "Dombeya × cayeuxii André",
+            "id": "1844176",
+            "score": 0.0003
+        },
+        {
+            "name": "Rubus hispidus L.",
+            "id": "1413524",
+            "score": 0.0003
+        }
+    ]
+}

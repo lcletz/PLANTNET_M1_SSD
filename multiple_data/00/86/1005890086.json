@@ -1,0 +1,440 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Valeriana graciliflora (Fisch. & C.A.Mey.) Byng & Christenh.",
+            "id": "1743348",
+            "score": 0.42398
+        },
+        {
+            "name": "Valeriana cornucopiae L.",
+            "id": "1743969",
+            "score": 0.22671
+        },
+        {
+            "name": "Epilobium montanum L.",
+            "id": "1391922",
+            "score": 0.09419
+        },
+        {
+            "name": "Doronicum pardalianches L.",
+            "id": "1391759",
+            "score": 0.06895
+        },
+        {
+            "name": "Doronicum plantagineum L.",
+            "id": "1357561",
+            "score": 0.02633
+        },
+        {
+            "name": "Noccaea perfoliata (L.) Al-Shehbaz",
+            "id": "1737578",
+            "score": 0.02065
+        },
+        {
+            "name": "Diascia rigescens E.Mey. ex Benth.",
+            "id": "1396133",
+            "score": 0.02039
+        },
+        {
+            "name": "Philadelphus coronarius L.",
+            "id": "1394509",
+            "score": 0.01556
+        },
+        {
+            "name": "Campanula poscharskyana Degen",
+            "id": "1390649",
+            "score": 0.01221
+        },
+        {
+            "name": "Deutzia scabra Thunb.",
+            "id": "1391675",
+            "score": 0.01054
+        },
+        {
+            "name": "Doronicum columnae Ten.",
+            "id": "1391752",
+            "score": 0.00986
+        },
+        {
+            "name": "Pseudogynoxys chenopodioides (Kunth) Cabrera",
+            "id": "1409281",
+            "score": 0.00954
+        },
+        {
+            "name": "Mentha aquatica L.",
+            "id": "1356105",
+            "score": 0.00891
+        },
+        {
+            "name": "Keckiella cordifolia (Benth.) Straw",
+            "id": "1433496",
+            "score": 0.00885
+        },
+        {
+            "name": "Cissus rotundifolia Vahl",
+            "id": "1424424",
+            "score": 0.00883
+        },
+        {
+            "name": "Prunella vulgaris L.",
+            "id": "1356109",
+            "score": 0.00867
+        },
+        {
+            "name": "Veronica beccabunga L.",
+            "id": "1364067",
+            "score": 0.00728
+        },
+        {
+            "name": "Erythranthe lutea (L.) G.L.Nesom",
+            "id": "1390344",
+            "score": 0.00705
+        },
+        {
+            "name": "Fuchsia magellanica Lam.",
+            "id": "1392372",
+            "score": 0.0065
+        },
+        {
+            "name": "Heliopsis buphthalmoides (Jacq.) Dunal",
+            "id": "1509735",
+            "score": 0.00597
+        },
+        {
+            "name": "Trachelium caeruleum L.",
+            "id": "1356778",
+            "score": 0.0059
+        },
+        {
+            "name": "Epilobium collinum C.C.Gmel.",
+            "id": "1391891",
+            "score": 0.00572
+        },
+        {
+            "name": "Emilia sonchifolia (L.) DC.",
+            "id": "1373553",
+            "score": 0.00519
+        },
+        {
+            "name": "Prunella grandiflora (L.) Turra",
+            "id": "1737424",
+            "score": 0.00499
+        },
+        {
+            "name": "Viola sororia Willd.",
+            "id": "1414225",
+            "score": 0.00462
+        },
+        {
+            "name": "Fallopia dumetorum (L.) Holub",
+            "id": "1392251",
+            "score": 0.00421
+        },
+        {
+            "name": "Sonchus tenerrimus L.",
+            "id": "1364171",
+            "score": 0.00417
+        },
+        {
+            "name": "Lepidium draba L.",
+            "id": "1358347",
+            "score": 0.00396
+        },
+        {
+            "name": "Fuchsia × standishii J.Harrison",
+            "id": "1844241",
+            "score": 0.00389
+        },
+        {
+            "name": "Centella erecta (L.f.) Fernald",
+            "id": "1457081",
+            "score": 0.00386
+        },
+        {
+            "name": "Sonchus oleraceus L.",
+            "id": "1364170",
+            "score": 0.00386
+        },
+        {
+            "name": "Viola riviniana Rchb.",
+            "id": "1360878",
+            "score": 0.0038
+        },
+        {
+            "name": "Doronicum caucasicum M.Bieb.",
+            "id": "1741451",
+            "score": 0.00379
+        },
+        {
+            "name": "Atriplex prostrata Boucher ex DC.",
+            "id": "1356488",
+            "score": 0.00375
+        },
+        {
+            "name": "Epilobium ciliatum Raf.",
+            "id": "1391890",
+            "score": 0.00335
+        },
+        {
+            "name": "Phyteuma spicatum L.",
+            "id": "1394555",
+            "score": 0.0032
+        },
+        {
+            "name": "Plantago major L.",
+            "id": "1356067",
+            "score": 0.00297
+        },
+        {
+            "name": "Vandellia diffusa L.",
+            "id": "1373327",
+            "score": 0.0028
+        },
+        {
+            "name": "Kalanchoe daigremontiana Raym.-Hamet & H.Perrier",
+            "id": "1399973",
+            "score": 0.00277
+        },
+        {
+            "name": "Ocimum americanum L.",
+            "id": "1419267",
+            "score": 0.00272
+        },
+        {
+            "name": "Valeriana montana L.",
+            "id": "1396976",
+            "score": 0.0026
+        },
+        {
+            "name": "Kolkwitzia amabilis Graebn.",
+            "id": "1390685",
+            "score": 0.00249
+        },
+        {
+            "name": "Galinsoga parviflora Cav.",
+            "id": "1355935",
+            "score": 0.00248
+        },
+        {
+            "name": "Fuchsia procumbens R.Cunn.",
+            "id": "1419646",
+            "score": 0.00246
+        },
+        {
+            "name": "Callistephus chinensis (L.) Nees",
+            "id": "1390640",
+            "score": 0.00227
+        },
+        {
+            "name": "Forsythia suspensa (Thunb.) Vahl",
+            "id": "1392356",
+            "score": 0.00223
+        },
+        {
+            "name": "Galinsoga quadriradiata Ruiz & Pav.",
+            "id": "1357599",
+            "score": 0.00212
+        },
+        {
+            "name": "Centella asiatica (L.) Urb.",
+            "id": "1384653",
+            "score": 0.00203
+        },
+        {
+            "name": "Euphorbia nutans Lag.",
+            "id": "1358573",
+            "score": 0.00188
+        },
+        {
+            "name": "Campanula rapunculoides L.",
+            "id": "1383635",
+            "score": 0.00184
+        },
+        {
+            "name": "Penstemon smallii A.Heller",
+            "id": "1819341",
+            "score": 0.00181
+        },
+        {
+            "name": "Viola palustris L.",
+            "id": "1360874",
+            "score": 0.00181
+        },
+        {
+            "name": "Campanula rotundifolia L.",
+            "id": "1362422",
+            "score": 0.00177
+        },
+        {
+            "name": "Emilia fosbergii Nicolson",
+            "id": "1403917",
+            "score": 0.00169
+        },
+        {
+            "name": "Eurybia macrophylla (L.) Cass.",
+            "id": "1412043",
+            "score": 0.00169
+        },
+        {
+            "name": "Euphorbia hirta L.",
+            "id": "1355966",
+            "score": 0.0016
+        },
+        {
+            "name": "Hydrangea petiolaris Siebold & Zucc.",
+            "id": "1398621",
+            "score": 0.00159
+        },
+        {
+            "name": "Asarum arifolium Michx.",
+            "id": "1470877",
+            "score": 0.00158
+        },
+        {
+            "name": "Stellaria media (L.) Vill.",
+            "id": "1356571",
+            "score": 0.00157
+        },
+        {
+            "name": "Populus deltoides W.Bartram ex Marshall",
+            "id": "1738800",
+            "score": 0.0015
+        },
+        {
+            "name": "Drymonia serrulata (Jacq.) Mart.",
+            "id": "1419129",
+            "score": 0.00146
+        },
+        {
+            "name": "Glebionis segetum (L.) Fourr.",
+            "id": "1357603",
+            "score": 0.00141
+        },
+        {
+            "name": "Ternstroemia dentata (Aubl.) Sw.",
+            "id": "1404803",
+            "score": 0.0014
+        },
+        {
+            "name": "Symphyotrichum cordifolium (L.) G.L.Nesom",
+            "id": "1389527",
+            "score": 0.0014
+        },
+        {
+            "name": "Viola rostrata Muhl. ex Pursh",
+            "id": "1782460",
+            "score": 0.00135
+        },
+        {
+            "name": "Viburnum carlesii Hemsl.",
+            "id": "1397080",
+            "score": 0.00131
+        },
+        {
+            "name": "Cicerbita macrophylla (Willd.) Wallr.",
+            "id": "1737632",
+            "score": 0.00131
+        },
+        {
+            "name": "Tussilago farfara L.",
+            "id": "1357950",
+            "score": 0.00131
+        },
+        {
+            "name": "Kickxia spuria (L.) Dumort.",
+            "id": "1359892",
+            "score": 0.00131
+        },
+        {
+            "name": "Valeriana macrosiphon (Boiss.) E.Vilm.",
+            "id": "1744360",
+            "score": 0.00129
+        },
+        {
+            "name": "Campanula rhomboidalis L.",
+            "id": "1397255",
+            "score": 0.00123
+        },
+        {
+            "name": "Viola canina L.",
+            "id": "1360864",
+            "score": 0.00123
+        },
+        {
+            "name": "Veronica persica Poir.",
+            "id": "1364065",
+            "score": 0.00122
+        },
+        {
+            "name": "Viola × melissifolia Greene",
+            "id": "1815747",
+            "score": 0.0012
+        },
+        {
+            "name": "Valeriana calcitrapae L.",
+            "id": "1722514",
+            "score": 0.00119
+        },
+        {
+            "name": "Viola tripartita Elliott",
+            "id": "1439638",
+            "score": 0.00116
+        },
+        {
+            "name": "Veronica cymbalaria Bodard",
+            "id": "1359978",
+            "score": 0.00115
+        },
+        {
+            "name": "Epilobium parviflorum Schreb.",
+            "id": "1359686",
+            "score": 0.00113
+        },
+        {
+            "name": "Valeriana locusta L.",
+            "id": "1722516",
+            "score": 0.00111
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.00109
+        },
+        {
+            "name": "Viola odorata L.",
+            "id": "1360872",
+            "score": 0.00108
+        },
+        {
+            "name": "Viola biflora L.",
+            "id": "1397123",
+            "score": 0.00107
+        },
+        {
+            "name": "Androsace maxima L.",
+            "id": "1360142",
+            "score": 0.00107
+        },
+        {
+            "name": "Asplenium ruta-muraria L.",
+            "id": "1356355",
+            "score": 0.00105
+        },
+        {
+            "name": "Viola cucullata Aiton",
+            "id": "1397886",
+            "score": 0.00102
+        },
+        {
+            "name": "Raphanus raphanistrum L.",
+            "id": "1363901",
+            "score": 0.00101
+        },
+        {
+            "name": "Torenia crustacea (L.) Cham. & Schltdl.",
+            "id": "1373206",
+            "score": 0.00101
+        }
+    ]
+}

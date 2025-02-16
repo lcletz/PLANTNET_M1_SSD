@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rhamnus alaternus L.",
+            "id": "1360260",
+            "score": 0.96426
+        },
+        {
+            "name": "Ilex aquifolium L.",
+            "id": "1356576",
+            "score": 0.01541
+        },
+        {
+            "name": "Phillyrea latifolia L.",
+            "id": "1359678",
+            "score": 0.00728
+        },
+        {
+            "name": "Ilex vomitoria Aiton",
+            "id": "1420734",
+            "score": 0.00712
+        },
+        {
+            "name": "Ilex opaca Aiton",
+            "id": "1420705",
+            "score": 0.00457
+        },
+        {
+            "name": "Ilex × altaclerensis (Loudon) Dallim.",
+            "id": "1844318",
+            "score": 0.0016
+        },
+        {
+            "name": "Ilex canariensis Poir.",
+            "id": "1356577",
+            "score": 0.0014
+        }
+    ]
+}

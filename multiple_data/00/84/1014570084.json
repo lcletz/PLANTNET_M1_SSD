@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tanacetum vulgare L.",
+            "id": "1396512",
+            "score": 0.70474
+        },
+        {
+            "name": "Achillea ageratum L.",
+            "id": "1357182",
+            "score": 0.06155
+        },
+        {
+            "name": "Tanacetum macrophyllum (Waldst. & Kit.) Sch.Bip.",
+            "id": "1396507",
+            "score": 0.01019
+        },
+        {
+            "name": "Tanacetum audibertii DC.",
+            "id": "1743426",
+            "score": 0.0069
+        },
+        {
+            "name": "Tanacetum corymbosum (L.) Sch.Bip.",
+            "id": "1397508",
+            "score": 0.00602
+        },
+        {
+            "name": "Achillea filipendulina Lam.",
+            "id": "1392622",
+            "score": 0.00494
+        },
+        {
+            "name": "Tanacetum annuum L.",
+            "id": "1357915",
+            "score": 0.00418
+        },
+        {
+            "name": "Tanacetum balsamita L.",
+            "id": "1396509",
+            "score": 0.00314
+        },
+        {
+            "name": "Senecio squalidus L.",
+            "id": "1357867",
+            "score": 0.00228
+        },
+        {
+            "name": "Gonospermum gomerae Bolle",
+            "id": "1357612",
+            "score": 0.00129
+        },
+        {
+            "name": "Senecio sylvaticus L.",
+            "id": "1357868",
+            "score": 0.00125
+        },
+        {
+            "name": "Gonospermum fruticosum Less.",
+            "id": "1357611",
+            "score": 0.00123
+        }
+    ]
+}

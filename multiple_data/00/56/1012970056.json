@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Leucojum aestivum L.",
+            "id": "1393515",
+            "score": 0.76822
+        },
+        {
+            "name": "Leucojum vernum L.",
+            "id": "1393517",
+            "score": 0.0367
+        },
+        {
+            "name": "Galanthus plicatus M.Bieb.",
+            "id": "1392416",
+            "score": 0.00139
+        },
+        {
+            "name": "Malus spontanea (Makino) Makino",
+            "id": "1667546",
+            "score": 0.00131
+        },
+        {
+            "name": "Iris sari Schott ex Baker",
+            "id": "1556894",
+            "score": 0.00125
+        },
+        {
+            "name": "Galanthus nivalis L.",
+            "id": "1397391",
+            "score": 0.00106
+        },
+        {
+            "name": "Acis autumnalis (L.) Sweet",
+            "id": "1360947",
+            "score": 0.00104
+        }
+    ]
+}

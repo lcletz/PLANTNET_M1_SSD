@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salix reticulata L.",
+            "id": "1395868",
+            "score": 0.94535
+        },
+        {
+            "name": "Salix herbacea L.",
+            "id": "1395807",
+            "score": 0.01705
+        },
+        {
+            "name": "Salix nivalis Hook.",
+            "id": "1413617",
+            "score": 0.00533
+        },
+        {
+            "name": "Salix vestita Pursh",
+            "id": "1413649",
+            "score": 0.00212
+        },
+        {
+            "name": "Salix pyrenaica Gouan",
+            "id": "1395862",
+            "score": 0.00169
+        },
+        {
+            "name": "Salix rotundifolia Trautv.",
+            "id": "1413634",
+            "score": 0.00158
+        }
+    ]
+}

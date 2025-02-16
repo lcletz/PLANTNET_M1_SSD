@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus serotina Ehrh.",
+            "id": "1370859",
+            "score": 0.61655
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.20257
+        },
+        {
+            "name": "Prunus lusitanica L.",
+            "id": "1360322",
+            "score": 0.06206
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.01376
+        },
+        {
+            "name": "Phellodendron amurense Rupr.",
+            "id": "1413037",
+            "score": 0.00635
+        },
+        {
+            "name": "Syzygium cumini (L.) Skeels",
+            "id": "1382778",
+            "score": 0.00566
+        },
+        {
+            "name": "Prunus laurocerasus L.",
+            "id": "1394952",
+            "score": 0.00256
+        },
+        {
+            "name": "Ardisia compressa Kunth",
+            "id": "1659436",
+            "score": 0.00146
+        },
+        {
+            "name": "Prunus pensylvanica L.f.",
+            "id": "1420421",
+            "score": 0.00134
+        },
+        {
+            "name": "Elaeagnus umbellata Thunb.",
+            "id": "1391838",
+            "score": 0.00103
+        }
+    ]
+}

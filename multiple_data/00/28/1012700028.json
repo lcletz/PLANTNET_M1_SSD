@@ -1,0 +1,85 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus dulcis (Mill.) D.A.Webb",
+            "id": "1394948",
+            "score": 0.42191
+        },
+        {
+            "name": "Prunus persica (L.) Batsch",
+            "id": "1363997",
+            "score": 0.04556
+        },
+        {
+            "name": "Prunus tenella Batsch",
+            "id": "1394954",
+            "score": 0.04279
+        },
+        {
+            "name": "Prunus tomentosa Thunb.",
+            "id": "1413354",
+            "score": 0.02933
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.01541
+        },
+        {
+            "name": "Prunus prostrata Labill.",
+            "id": "1360325",
+            "score": 0.00368
+        },
+        {
+            "name": "Amelanchier ovalis Medik.",
+            "id": "1360275",
+            "score": 0.00352
+        },
+        {
+            "name": "Malus sylvestris (L.) Mill.",
+            "id": "1420379",
+            "score": 0.0035
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00266
+        },
+        {
+            "name": "Chaenomeles speciosa (Sweet) Nakai",
+            "id": "1391104",
+            "score": 0.00251
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.00214
+        },
+        {
+            "name": "Malus pumila Mill.",
+            "id": "1362849",
+            "score": 0.00179
+        },
+        {
+            "name": "Malus domestica Borkh.",
+            "id": "1393737",
+            "score": 0.0016
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.00158
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.00153
+        },
+        {
+            "name": "Prunus serrulata Lindl.",
+            "id": "1394953",
+            "score": 0.00113
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Glaucium flavum Crantz",
+            "id": "1359804",
+            "score": 0.86249
+        },
+        {
+            "name": "Glaucium corniculatum (L.) Curtis",
+            "id": "1419838",
+            "score": 0.01262
+        },
+        {
+            "name": "Argemone mexicana L.",
+            "id": "1356300",
+            "score": 0.00466
+        },
+        {
+            "name": "Eschscholzia californica Cham.",
+            "id": "1363125",
+            "score": 0.00181
+        },
+        {
+            "name": "Glaucium fimbrilligerum Boiss.",
+            "id": "1639663",
+            "score": 0.00146
+        },
+        {
+            "name": "Glebionis segetum (L.) Fourr.",
+            "id": "1357603",
+            "score": 0.00127
+        }
+    ]
+}

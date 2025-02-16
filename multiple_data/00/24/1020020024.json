@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Cistus albidus L.",
+            "id": "1357096",
+            "score": 0.86959
+        },
+        {
+            "name": "Cistus crispus L.",
+            "id": "1357100",
+            "score": 0.00959
+        },
+        {
+            "name": "Cistus creticus L.",
+            "id": "1357099",
+            "score": 0.00202
+        },
+        {
+            "name": "Helianthemum nummularium (L.) Mill.",
+            "id": "1357148",
+            "score": 0.00121
+        },
+        {
+            "name": "Cistus lasianthus Lam.",
+            "id": "1362183",
+            "score": 0.00112
+        },
+        {
+            "name": "Helianthemum apenninum (L.) Mill.",
+            "id": "1357126",
+            "score": 0.00104
+        }
+    ]
+}

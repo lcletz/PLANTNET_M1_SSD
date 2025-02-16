@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Clematis montana Buch.-Ham. ex DC.",
+            "id": "1391296",
+            "score": 0.93277
+        },
+        {
+            "name": "Clematis cirrhosa L.",
+            "id": "1360158",
+            "score": 0.00282
+        },
+        {
+            "name": "Clematis patens C.Morren & Decne.",
+            "id": "1420305",
+            "score": 0.00246
+        },
+        {
+            "name": "Clematis alpina (L.) Mill.",
+            "id": "1397354",
+            "score": 0.00173
+        },
+        {
+            "name": "Clematis viticella L.",
+            "id": "1391301",
+            "score": 0.00153
+        },
+        {
+            "name": "Anemonoides nemorosa (L.) Holub",
+            "id": "1737521",
+            "score": 0.00133
+        },
+        {
+            "name": "Anemonoides quinquefolia (L.) Holub",
+            "id": "1815461",
+            "score": 0.00117
+        }
+    ]
+}

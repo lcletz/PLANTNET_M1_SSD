@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viola arvensis Murray",
+            "id": "1356214",
+            "score": 0.84051
+        },
+        {
+            "name": "Viola kitaibeliana Schult.",
+            "id": "1360869",
+            "score": 0.10016
+        },
+        {
+            "name": "Viola tricolor L.",
+            "id": "1356215",
+            "score": 0.00451
+        },
+        {
+            "name": "Viola parvula Tineo",
+            "id": "1360876",
+            "score": 0.00131
+        },
+        {
+            "name": "Viola roccabrunensis Espeut",
+            "id": "1743559",
+            "score": 0.00124
+        }
+    ]
+}

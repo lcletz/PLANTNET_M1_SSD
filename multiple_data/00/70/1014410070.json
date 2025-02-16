@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Jacobaea alpina (L.) Moench",
+            "id": "1389240",
+            "score": 0.96416
+        },
+        {
+            "name": "Senecio squalidus L.",
+            "id": "1357867",
+            "score": 0.00209
+        },
+        {
+            "name": "Doronicum austriacum Jacq.",
+            "id": "1391753",
+            "score": 0.00191
+        },
+        {
+            "name": "Jacobaea subalpina (W.D.J.Koch) Pelser & Veldkamp",
+            "id": "1389254",
+            "score": 0.0019
+        },
+        {
+            "name": "Doronicum grandiflorum Lam.",
+            "id": "1391757",
+            "score": 0.00112
+        },
+        {
+            "name": "Sinapis alba L.",
+            "id": "1363889",
+            "score": 0.00106
+        }
+    ]
+}

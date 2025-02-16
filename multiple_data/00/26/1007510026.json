@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lythrum salicaria L.",
+            "id": "1356023",
+            "score": 0.75057
+        },
+        {
+            "name": "Lythrum virgatum L.",
+            "id": "1393714",
+            "score": 0.11709
+        },
+        {
+            "name": "Stachys sylvatica L.",
+            "id": "1358950",
+            "score": 0.01094
+        },
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.00692
+        },
+        {
+            "name": "Betonica officinalis L.",
+            "id": "1400126",
+            "score": 0.00255
+        },
+        {
+            "name": "Salvia nemorosa L.",
+            "id": "1397479",
+            "score": 0.00147
+        },
+        {
+            "name": "Betonica hirsuta L.",
+            "id": "1400125",
+            "score": 0.0013
+        }
+    ]
+}

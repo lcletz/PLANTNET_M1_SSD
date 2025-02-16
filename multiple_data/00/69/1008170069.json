@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lythrum salicaria L.",
+            "id": "1356023",
+            "score": 0.53856
+        },
+        {
+            "name": "Lythrum virgatum L.",
+            "id": "1393714",
+            "score": 0.3213
+        },
+        {
+            "name": "Linaria purpurea (L.) Mill.",
+            "id": "1362464",
+            "score": 0.0169
+        },
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.00255
+        },
+        {
+            "name": "Buddleja davidii Franch.",
+            "id": "1365253",
+            "score": 0.00113
+        },
+        {
+            "name": "Epilobium angustifolium L.",
+            "id": "1359681",
+            "score": 0.00109
+        }
+    ]
+}

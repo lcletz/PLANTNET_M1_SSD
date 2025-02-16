@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ranunculus ficaria L.",
+            "id": "1413421",
+            "score": 0.44605
+        },
+        {
+            "name": "Centella asiatica (L.) Urb.",
+            "id": "1384653",
+            "score": 0.12421
+        },
+        {
+            "name": "Caltha palustris L.",
+            "id": "1397332",
+            "score": 0.00895
+        },
+        {
+            "name": "Ranunculus bullatus L.",
+            "id": "1360194",
+            "score": 0.00842
+        },
+        {
+            "name": "Ranunculus hederaceus L.",
+            "id": "1360205",
+            "score": 0.00275
+        },
+        {
+            "name": "Ranunculus ficarioides Bory & Chaub.",
+            "id": "1425452",
+            "score": 0.00183
+        },
+        {
+            "name": "Ranunculus montanus Willd.",
+            "id": "1362363",
+            "score": 0.00182
+        }
+    ]
+}

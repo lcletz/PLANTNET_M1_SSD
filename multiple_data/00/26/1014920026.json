@@ -1,0 +1,475 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Brachychiton populneus (Schott & Endl.) R.Br.",
+            "id": "1398163",
+            "score": 0.45944
+        },
+        {
+            "name": "Ficus religiosa L.",
+            "id": "1405284",
+            "score": 0.03618
+        },
+        {
+            "name": "Ficus rumphii Blume",
+            "id": "1423892",
+            "score": 0.02184
+        },
+        {
+            "name": "Magnolia grandiflora L.",
+            "id": "1393723",
+            "score": 0.01551
+        },
+        {
+            "name": "Triadica sebifera (L.) Small",
+            "id": "1376366",
+            "score": 0.01353
+        },
+        {
+            "name": "Pyrus ussuriensis Maxim.",
+            "id": "1721668",
+            "score": 0.01055
+        },
+        {
+            "name": "Populus × tomentosa Carrière",
+            "id": "1683878",
+            "score": 0.01029
+        },
+        {
+            "name": "Populus balsamifera L.",
+            "id": "1394775",
+            "score": 0.00906
+        },
+        {
+            "name": "Magnolia virginiana L.",
+            "id": "1389430",
+            "score": 0.00892
+        },
+        {
+            "name": "Syringa reticulata (Blume) H.Hara",
+            "id": "1609522",
+            "score": 0.00762
+        },
+        {
+            "name": "Populus deltoides W.Bartram ex Marshall",
+            "id": "1738800",
+            "score": 0.00723
+        },
+        {
+            "name": "Thespesia populnea (L.) Sol. ex Corrêa",
+            "id": "1408768",
+            "score": 0.00663
+        },
+        {
+            "name": "Populus × canadensis Moench",
+            "id": "1683817",
+            "score": 0.00598
+        },
+        {
+            "name": "Cinnamomum camphora (L.) J.Presl",
+            "id": "1389656",
+            "score": 0.00597
+        },
+        {
+            "name": "Liquidambar styraciflua L.",
+            "id": "1393613",
+            "score": 0.00532
+        },
+        {
+            "name": "Pyrus calleryana Decne.",
+            "id": "1395003",
+            "score": 0.00485
+        },
+        {
+            "name": "Hymenaea courbaril L.",
+            "id": "1368680",
+            "score": 0.00383
+        },
+        {
+            "name": "Erythrina caffra Thunb.",
+            "id": "1366910",
+            "score": 0.00366
+        },
+        {
+            "name": "Hura crepitans L.",
+            "id": "1376239",
+            "score": 0.00326
+        },
+        {
+            "name": "Celtis occidentalis L.",
+            "id": "1397796",
+            "score": 0.0032
+        },
+        {
+            "name": "Casuarina cunninghamiana Miq.",
+            "id": "1361847",
+            "score": 0.00316
+        },
+        {
+            "name": "Brachychiton discolor F.Muell.",
+            "id": "1390502",
+            "score": 0.00292
+        },
+        {
+            "name": "Populus tremuloides Michx.",
+            "id": "1413261",
+            "score": 0.00287
+        },
+        {
+            "name": "Luehea divaricata Mart.",
+            "id": "1419432",
+            "score": 0.00279
+        },
+        {
+            "name": "Pera glabrata (Schott) Poepp. ex Baill.",
+            "id": "1641114",
+            "score": 0.00278
+        },
+        {
+            "name": "Croton sylvaticus Hochst.",
+            "id": "1375810",
+            "score": 0.00276
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.00242
+        },
+        {
+            "name": "Ipomoea intrapilosa Rose",
+            "id": "1369442",
+            "score": 0.0023
+        },
+        {
+            "name": "Copaifera langsdorffii Desf.",
+            "id": "1575367",
+            "score": 0.0021
+        },
+        {
+            "name": "Alnus cordata (Loisel.) Duby",
+            "id": "1397307",
+            "score": 0.00208
+        },
+        {
+            "name": "Persea barbujana (Cav.) Mabb. & Nieto Fel.",
+            "id": "1722629",
+            "score": 0.00207
+        },
+        {
+            "name": "Acer saccharinum L.",
+            "id": "1391667",
+            "score": 0.00206
+        },
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.00196
+        },
+        {
+            "name": "Maclura pomifera (Raf.) C.K.Schneid.",
+            "id": "1393715",
+            "score": 0.00195
+        },
+        {
+            "name": "Populus × generosa A.Henry",
+            "id": "1683828",
+            "score": 0.00195
+        },
+        {
+            "name": "Terminalia mantaly H.Perrier",
+            "id": "1424294",
+            "score": 0.00181
+        },
+        {
+            "name": "Ipomoea arborescens (Humb. & Bonpl. ex Willd.) G.Don",
+            "id": "1748917",
+            "score": 0.00171
+        },
+        {
+            "name": "Celtis bungeana Blume",
+            "id": "1490838",
+            "score": 0.00162
+        },
+        {
+            "name": "Croton urucurana Baill.",
+            "id": "1418816",
+            "score": 0.00162
+        },
+        {
+            "name": "Corymbia citriodora (Hook.) K.D.Hill & L.A.S.Johnson",
+            "id": "1419546",
+            "score": 0.00159
+        },
+        {
+            "name": "Sterculia foetida L.",
+            "id": "1378041",
+            "score": 0.00158
+        },
+        {
+            "name": "Prunus mume (Siebold) Siebold & Zucc.",
+            "id": "1420419",
+            "score": 0.0015
+        },
+        {
+            "name": "Syzygium smithii (Poir.) Nied.",
+            "id": "1419588",
+            "score": 0.00147
+        },
+        {
+            "name": "Syzygium paniculatum Gaertn.",
+            "id": "1419587",
+            "score": 0.00138
+        },
+        {
+            "name": "Albizia niopoides (Spruce ex Benth.) Burkart",
+            "id": "1407129",
+            "score": 0.00135
+        },
+        {
+            "name": "Bischofia polycarpa (H.Lév.) Airy Shaw",
+            "id": "1419887",
+            "score": 0.00132
+        },
+        {
+            "name": "Pterygota brasiliensis Allemão",
+            "id": "1595345",
+            "score": 0.00127
+        },
+        {
+            "name": "Trichilia dregeana Sond.",
+            "id": "1365957",
+            "score": 0.00126
+        },
+        {
+            "name": "Ficus lacor Buch.-Ham.",
+            "id": "1601993",
+            "score": 0.00124
+        },
+        {
+            "name": "Quercus virginiana Mill.",
+            "id": "1419081",
+            "score": 0.00124
+        },
+        {
+            "name": "Cordia subcordata Lam.",
+            "id": "1370026",
+            "score": 0.0012
+        },
+        {
+            "name": "Brachychiton rupestris (T.Mitch. ex Lindl.) K.Schum.",
+            "id": "1417537",
+            "score": 0.0012
+        },
+        {
+            "name": "Celtis laevigata Willd.",
+            "id": "1418375",
+            "score": 0.0011
+        },
+        {
+            "name": "Syzygium samarangense (Blume) Merr. & L.M.Perry",
+            "id": "1400835",
+            "score": 0.00109
+        },
+        {
+            "name": "Celtis eriocarpa Decne.",
+            "id": "1786772",
+            "score": 0.00106
+        },
+        {
+            "name": "Platymiscium pinnatum (Jacq.) Dugand",
+            "id": "1402873",
+            "score": 0.00104
+        },
+        {
+            "name": "Platanus orientalis L.",
+            "id": "1362358",
+            "score": 0.00102
+        },
+        {
+            "name": "Celtis australis L.",
+            "id": "1361742",
+            "score": 0.001
+        },
+        {
+            "name": "Martynia annua L.",
+            "id": "1409788",
+            "score": 0.00094
+        },
+        {
+            "name": "Grevillea robusta A.Cunn. ex R.Br.",
+            "id": "1394929",
+            "score": 0.00094
+        },
+        {
+            "name": "Jacaranda mimosifolia D.Don",
+            "id": "1400148",
+            "score": 0.00092
+        },
+        {
+            "name": "Liquidambar formosana Hance",
+            "id": "1390586",
+            "score": 0.00083
+        },
+        {
+            "name": "Liquidambar orientalis Mill.",
+            "id": "1390587",
+            "score": 0.00081
+        },
+        {
+            "name": "Syzygium jambos (L.) Alston",
+            "id": "1382774",
+            "score": 0.00077
+        },
+        {
+            "name": "Elaeocarpus reticulatus Sm.",
+            "id": "1418679",
+            "score": 0.00075
+        },
+        {
+            "name": "Fraxinus uhdei (Wenz.) Lingelsh.",
+            "id": "1419623",
+            "score": 0.00075
+        },
+        {
+            "name": "Casuarina equisetifolia L.",
+            "id": "1383149",
+            "score": 0.00067
+        },
+        {
+            "name": "Lagunaria patersonia (Andrews) G.Don",
+            "id": "1751688",
+            "score": 0.00066
+        },
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.00066
+        },
+        {
+            "name": "Brachychiton acerifolius (A.Cunn. ex G.Don) F.Muell.",
+            "id": "1419406",
+            "score": 0.00065
+        },
+        {
+            "name": "Cercis siliquastrum L.",
+            "id": "1359162",
+            "score": 0.00062
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00061
+        },
+        {
+            "name": "Catasetum maculatum Kunth",
+            "id": "1614589",
+            "score": 0.0006
+        },
+        {
+            "name": "Acrocarpus fraxinifolius Wight & Arn.",
+            "id": "1729284",
+            "score": 0.00059
+        },
+        {
+            "name": "Celtis sinensis Pers.",
+            "id": "1418377",
+            "score": 0.00059
+        },
+        {
+            "name": "Pittosporum undulatum Vent.",
+            "id": "1356064",
+            "score": 0.00058
+        },
+        {
+            "name": "Acer tataricum L.",
+            "id": "1398270",
+            "score": 0.00055
+        },
+        {
+            "name": "Alchornea glandulosa Poepp.",
+            "id": "1542751",
+            "score": 0.00054
+        },
+        {
+            "name": "Ilex rotunda Thunb.",
+            "id": "1420717",
+            "score": 0.00051
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.00048
+        },
+        {
+            "name": "Ocotea puberula (Rich.) Nees",
+            "id": "1401945",
+            "score": 0.00048
+        },
+        {
+            "name": "Erythrina lysistemon Hutch.",
+            "id": "1366916",
+            "score": 0.00047
+        },
+        {
+            "name": "Ligustrum lucidum W.T.Aiton",
+            "id": "1393525",
+            "score": 0.00047
+        },
+        {
+            "name": "Aristolochia maxima Jacq.",
+            "id": "1423533",
+            "score": 0.00046
+        },
+        {
+            "name": "Handroanthus heptaphyllus (Vell.) Mattos",
+            "id": "1418002",
+            "score": 0.00046
+        },
+        {
+            "name": "Acer platanoides L.",
+            "id": "1397301",
+            "score": 0.00046
+        },
+        {
+            "name": "Dialium englerianum Henriq.",
+            "id": "1366781",
+            "score": 0.00044
+        },
+        {
+            "name": "Paulownia tomentosa (Thunb.) Steud.",
+            "id": "1394426",
+            "score": 0.00044
+        },
+        {
+            "name": "Pterocarpus indicus Willd.",
+            "id": "1408606",
+            "score": 0.00042
+        },
+        {
+            "name": "Elaeocarpus serratus L.",
+            "id": "1408005",
+            "score": 0.00041
+        },
+        {
+            "name": "Neolamarckia macrophylla (Roxb.) Bosser",
+            "id": "1676048",
+            "score": 0.00041
+        },
+        {
+            "name": "Pongamia pinnata (L.) Pierre",
+            "id": "1408557",
+            "score": 0.0004
+        },
+        {
+            "name": "Suregada glomerulata (Blume) Baill.",
+            "id": "1430631",
+            "score": 0.0004
+        },
+        {
+            "name": "Cariniana estrellensis (Raddi) Kuntze",
+            "id": "1567653",
+            "score": 0.00039
+        }
+    ]
+}

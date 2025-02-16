@@ -1,0 +1,55 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Rumex thyrsoides Desf.",
+            "id": "1360137",
+            "score": 0.70693
+        },
+        {
+            "name": "Rumex acetosa L.",
+            "id": "1360120",
+            "score": 0.11849
+        },
+        {
+            "name": "Rumex intermedius DC.",
+            "id": "1360129",
+            "score": 0.05425
+        },
+        {
+            "name": "Rumex thyrsiflorus Fingerh.",
+            "id": "1397477",
+            "score": 0.04019
+        },
+        {
+            "name": "Rumex acetosella L.",
+            "id": "1356082",
+            "score": 0.02164
+        },
+        {
+            "name": "Rumex arifolius All.",
+            "id": "1395646",
+            "score": 0.01361
+        },
+        {
+            "name": "Rumex crispus L.",
+            "id": "1356079",
+            "score": 0.00307
+        },
+        {
+            "name": "Rumex obtusifolius L.",
+            "id": "1360132",
+            "score": 0.00188
+        },
+        {
+            "name": "Rumex tuberosus L.",
+            "id": "1360138",
+            "score": 0.00156
+        },
+        {
+            "name": "Rumex patientia L.",
+            "id": "1360135",
+            "score": 0.00103
+        }
+    ]
+}

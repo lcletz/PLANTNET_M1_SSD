@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Chamaeleon gummifer (L.) Cass.",
+            "id": "1743408",
+            "score": 0.93969
+        },
+        {
+            "name": "Cirsium acaule (L.) Scop.",
+            "id": "1737591",
+            "score": 0.00587
+        },
+        {
+            "name": "Onopordum illyricum L.",
+            "id": "1394057",
+            "score": 0.00391
+        },
+        {
+            "name": "Onopordum tauricum Willd.",
+            "id": "1394059",
+            "score": 0.0028
+        },
+        {
+            "name": "Atractylis humilis L.",
+            "id": "1362415",
+            "score": 0.00111
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pistacia lentiscus L.",
+            "id": "1356290",
+            "score": 0.90837
+        },
+        {
+            "name": "Schinus terebinthifolia Raddi",
+            "id": "1396078",
+            "score": 0.01681
+        },
+        {
+            "name": "Pistacia atlantica Desf.",
+            "id": "1356565",
+            "score": 0.00633
+        },
+        {
+            "name": "Pistacia terebinthus L.",
+            "id": "1356567",
+            "score": 0.00184
+        },
+        {
+            "name": "Zanthoxylum fagara (L.) Sarg.",
+            "id": "1439774",
+            "score": 0.00141
+        },
+        {
+            "name": "Zanthoxylum armatum DC.",
+            "id": "1420546",
+            "score": 0.00109
+        },
+        {
+            "name": "Schinus areira L.",
+            "id": "1423127",
+            "score": 0.00104
+        }
+    ]
+}

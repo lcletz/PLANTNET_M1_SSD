@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Citrus trifoliata L.",
+            "id": "1682410",
+            "score": 0.95059
+        },
+        {
+            "name": "Citrus × limon (L.) Osbeck",
+            "id": "1403436",
+            "score": 0.00401
+        },
+        {
+            "name": "Citrus × aurantiifolia (Christm.) Swingle",
+            "id": "1403434",
+            "score": 0.00171
+        },
+        {
+            "name": "Citrus hystrix DC.",
+            "id": "1404728",
+            "score": 0.00163
+        },
+        {
+            "name": "Citrus australasica F.Muell.",
+            "id": "1420510",
+            "score": 0.00147
+        },
+        {
+            "name": "Citrus × aurantium L.",
+            "id": "1403435",
+            "score": 0.00143
+        },
+        {
+            "name": "Citrus medica L.",
+            "id": "1364043",
+            "score": 0.00091
+        }
+    ]
+}

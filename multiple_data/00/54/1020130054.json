@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Juniperus communis L.",
+            "id": "1393364",
+            "score": 0.79953
+        },
+        {
+            "name": "Juniperus oxycedrus L.",
+            "id": "1393365",
+            "score": 0.15037
+        },
+        {
+            "name": "Juniperus macrocarpa Sm.",
+            "id": "1701525",
+            "score": 0.00867
+        },
+        {
+            "name": "Juniperus virginiana L.",
+            "id": "1393370",
+            "score": 0.00451
+        },
+        {
+            "name": "Erica arborea L.",
+            "id": "1358503",
+            "score": 0.00184
+        }
+    ]
+}

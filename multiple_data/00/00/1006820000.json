@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Philadelphus coronarius L.",
+            "id": "1394509",
+            "score": 0.50406
+        },
+        {
+            "name": "Philadelphus × virginalis Rehder",
+            "id": "1844555",
+            "score": 0.41038
+        },
+        {
+            "name": "Philadelphus pubescens Loisel.",
+            "id": "1398588",
+            "score": 0.00918
+        },
+        {
+            "name": "Philadelphus lewisii Pursh",
+            "id": "1413040",
+            "score": 0.00773
+        },
+        {
+            "name": "Deutzia scabra Thunb.",
+            "id": "1391675",
+            "score": 0.00304
+        },
+        {
+            "name": "Rosa multiflora Thunb.",
+            "id": "1360345",
+            "score": 0.00118
+        },
+        {
+            "name": "Rosa sempervirens L.",
+            "id": "1360348",
+            "score": 0.00105
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ceratonia siliqua L.",
+            "id": "1363660",
+            "score": 0.93898
+        },
+        {
+            "name": "Schotia brachypetala Sond.",
+            "id": "1366706",
+            "score": 0.00223
+        },
+        {
+            "name": "Pistacia vera L.",
+            "id": "1356568",
+            "score": 0.001
+        },
+        {
+            "name": "Albizia lebbeck (L.) Benth.",
+            "id": "1366605",
+            "score": 0.00056
+        },
+        {
+            "name": "Stryphnodendron adstringens (Mart.) Coville",
+            "id": "1586670",
+            "score": 0.00042
+        }
+    ]
+}

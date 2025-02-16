@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ribes sanguineum Pursh",
+            "id": "1395204",
+            "score": 0.93544
+        },
+        {
+            "name": "Ribes nevadense Kellogg",
+            "id": "1437374",
+            "score": 0.01351
+        },
+        {
+            "name": "Ribes malvaceum Sm.",
+            "id": "1437371",
+            "score": 0.00212
+        },
+        {
+            "name": "Ribes nigrum L.",
+            "id": "1395200",
+            "score": 0.00135
+        },
+        {
+            "name": "Rubus spectabilis Pursh",
+            "id": "1395613",
+            "score": 0.00109
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sherardia arvensis L.",
+            "id": "1364029",
+            "score": 0.9475
+        },
+        {
+            "name": "Veronica arvensis L.",
+            "id": "1364063",
+            "score": 0.01091
+        },
+        {
+            "name": "Veronica verna L.",
+            "id": "1359988",
+            "score": 0.0019
+        },
+        {
+            "name": "Asperula arvensis L.",
+            "id": "1360369",
+            "score": 0.00138
+        }
+    ]
+}

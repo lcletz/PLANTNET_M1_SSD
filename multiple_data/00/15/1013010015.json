@@ -1,0 +1,405 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ranunculus repens L.",
+            "id": "1360222",
+            "score": 0.65192
+        },
+        {
+            "name": "Ranunculus lanuginosus L.",
+            "id": "1395100",
+            "score": 0.31946
+        },
+        {
+            "name": "Ranunculus macrophyllus Desf.",
+            "id": "1360208",
+            "score": 0.07523
+        },
+        {
+            "name": "Ranunculus auricomus L.",
+            "id": "1395053",
+            "score": 0.07373
+        },
+        {
+            "name": "Ranunculus bulbosus L.",
+            "id": "1360193",
+            "score": 0.07059
+        },
+        {
+            "name": "Chaerophyllum hirsutum L.",
+            "id": "1391112",
+            "score": 0.06667
+        },
+        {
+            "name": "Ranunculus tuberosus Lapeyr.",
+            "id": "1395134",
+            "score": 0.05294
+        },
+        {
+            "name": "Ranunculus acris L.",
+            "id": "1360187",
+            "score": 0.0352
+        },
+        {
+            "name": "Chaerophyllum villarsii W.D.J.Koch",
+            "id": "1391113",
+            "score": 0.02882
+        },
+        {
+            "name": "Heracleum sphondylium L.",
+            "id": "1360744",
+            "score": 0.0219
+        },
+        {
+            "name": "Ranunculus arvensis L.",
+            "id": "1360188",
+            "score": 0.02152
+        },
+        {
+            "name": "Ranunculus montanus Willd.",
+            "id": "1362363",
+            "score": 0.0107
+        },
+        {
+            "name": "Betonica officinalis L.",
+            "id": "1400126",
+            "score": 0.0078
+        },
+        {
+            "name": "Ranunculus sardous Crantz",
+            "id": "1360223",
+            "score": 0.00635
+        },
+        {
+            "name": "Heracleum sibiricum L.",
+            "id": "1392757",
+            "score": 0.00597
+        },
+        {
+            "name": "Daucus carota L.",
+            "id": "1363227",
+            "score": 0.00543
+        },
+        {
+            "name": "Ranunculus hispidus Michx.",
+            "id": "1413426",
+            "score": 0.00502
+        },
+        {
+            "name": "Ranunculus villarsii DC.",
+            "id": "1397879",
+            "score": 0.00476
+        },
+        {
+            "name": "Ranunculus muricatus L.",
+            "id": "1363972",
+            "score": 0.0045
+        },
+        {
+            "name": "Ranunculus gouanii Willd.",
+            "id": "1395089",
+            "score": 0.00426
+        },
+        {
+            "name": "Anthriscus sylvestris (L.) Hoffm.",
+            "id": "1360614",
+            "score": 0.00413
+        },
+        {
+            "name": "Anemonoides sylvestris (L.) Galasso, Banfi & Soldano",
+            "id": "1737523",
+            "score": 0.00384
+        },
+        {
+            "name": "Ranunculus polyanthemos L.",
+            "id": "1395117",
+            "score": 0.00368
+        },
+        {
+            "name": "Geranium sylvaticum L.",
+            "id": "1392599",
+            "score": 0.00301
+        },
+        {
+            "name": "Chaerophyllum aureum L.",
+            "id": "1391110",
+            "score": 0.00283
+        },
+        {
+            "name": "Ranunculus flammula L.",
+            "id": "1360203",
+            "score": 0.0023
+        },
+        {
+            "name": "Myrrhis odorata (L.) Scop.",
+            "id": "1393910",
+            "score": 0.00199
+        },
+        {
+            "name": "Galeopsis tetrahit L.",
+            "id": "1392433",
+            "score": 0.00197
+        },
+        {
+            "name": "Carex hirta L.",
+            "id": "1361058",
+            "score": 0.00177
+        },
+        {
+            "name": "Ranunculus cortusifolius Willd.",
+            "id": "1360197",
+            "score": 0.00164
+        },
+        {
+            "name": "Cruciata laevipes Opiz",
+            "id": "1391478",
+            "score": 0.00161
+        },
+        {
+            "name": "Geranium palustre L.",
+            "id": "1392591",
+            "score": 0.0016
+        },
+        {
+            "name": "Ranunculus macounii Britton",
+            "id": "1413432",
+            "score": 0.00154
+        },
+        {
+            "name": "Ranunculus californicus Benth.",
+            "id": "1413414",
+            "score": 0.00153
+        },
+        {
+            "name": "Urtica dioica L.",
+            "id": "1356200",
+            "score": 0.00142
+        },
+        {
+            "name": "Angelica razulii Gouan",
+            "id": "1394580",
+            "score": 0.00129
+        },
+        {
+            "name": "Betonica hirsuta L.",
+            "id": "1400125",
+            "score": 0.00122
+        },
+        {
+            "name": "Ballota nigra L.",
+            "id": "1358722",
+            "score": 0.0012
+        },
+        {
+            "name": "Lamium album L.",
+            "id": "1393423",
+            "score": 0.00115
+        },
+        {
+            "name": "Aconitum lycoctonum L.",
+            "id": "1395010",
+            "score": 0.00111
+        },
+        {
+            "name": "Apium graveolens L.",
+            "id": "1363218",
+            "score": 0.00108
+        },
+        {
+            "name": "Leontodon hispidus L.",
+            "id": "1357697",
+            "score": 0.00105
+        },
+        {
+            "name": "Salvia pratensis L.",
+            "id": "1395913",
+            "score": 0.00104
+        },
+        {
+            "name": "Anemonastrum narcissiflorum (L.) Holub",
+            "id": "1741807",
+            "score": 0.00097
+        },
+        {
+            "name": "Pimpinella major (L.) Huds.",
+            "id": "1394592",
+            "score": 0.00091
+        },
+        {
+            "name": "Erodium botrys (Cav.) Bertol.",
+            "id": "1355991",
+            "score": 0.00083
+        },
+        {
+            "name": "Chaerophyllum temulum L.",
+            "id": "1360671",
+            "score": 0.00078
+        },
+        {
+            "name": "Tordylium apulum L.",
+            "id": "1360814",
+            "score": 0.00078
+        },
+        {
+            "name": "Geranium dissectum L.",
+            "id": "1356007",
+            "score": 0.00069
+        },
+        {
+            "name": "Geranium pyrenaicum Burm.f.",
+            "id": "1397395",
+            "score": 0.00067
+        },
+        {
+            "name": "Betonica alopecuros L.",
+            "id": "1398116",
+            "score": 0.00063
+        },
+        {
+            "name": "Pentaglottis sempervirens (L.) Tausch ex L.H.Bailey",
+            "id": "1394459",
+            "score": 0.0006
+        },
+        {
+            "name": "Clinopodium vulgare L.",
+            "id": "1358742",
+            "score": 0.00056
+        },
+        {
+            "name": "Allium subhirsutum L.",
+            "id": "1360938",
+            "score": 0.00053
+        },
+        {
+            "name": "Plantago major L.",
+            "id": "1356067",
+            "score": 0.00048
+        },
+        {
+            "name": "Stachys sylvatica L.",
+            "id": "1358950",
+            "score": 0.00047
+        },
+        {
+            "name": "Panicum capillare L.",
+            "id": "1361351",
+            "score": 0.00044
+        },
+        {
+            "name": "Allium neapolitanum Cirillo",
+            "id": "1360925",
+            "score": 0.00041
+        },
+        {
+            "name": "Erodium manescavi Coss.",
+            "id": "1550182",
+            "score": 0.00041
+        },
+        {
+            "name": "Meum athamanticum Jacq.",
+            "id": "1360759",
+            "score": 0.0004
+        },
+        {
+            "name": "Erodium cicutarium (L.) L'Hér.",
+            "id": "1355994",
+            "score": 0.0004
+        },
+        {
+            "name": "Erodium moschatum (L.) L'Hér.",
+            "id": "1355995",
+            "score": 0.0004
+        },
+        {
+            "name": "Geranium sanguineum L.",
+            "id": "1392597",
+            "score": 0.00037
+        },
+        {
+            "name": "Heracleum mantegazzianum Sommier & Levier",
+            "id": "1392753",
+            "score": 0.00037
+        },
+        {
+            "name": "Cucurbita maxima Duchesne",
+            "id": "1391483",
+            "score": 0.00037
+        },
+        {
+            "name": "Knautia arvensis (L.) Coult.",
+            "id": "1362327",
+            "score": 0.00037
+        },
+        {
+            "name": "Glechoma hederacea L.",
+            "id": "1358746",
+            "score": 0.00036
+        },
+        {
+            "name": "Campanula patula L.",
+            "id": "1390669",
+            "score": 0.00036
+        },
+        {
+            "name": "Geum urbanum L.",
+            "id": "1360300",
+            "score": 0.00034
+        },
+        {
+            "name": "Anthriscus cerefolium (L.) Hoffm.",
+            "id": "1360613",
+            "score": 0.00034
+        },
+        {
+            "name": "Cerastium fontanum Baumg.",
+            "id": "1356277",
+            "score": 0.00034
+        },
+        {
+            "name": "Tordylium maximum L.",
+            "id": "1396812",
+            "score": 0.00033
+        },
+        {
+            "name": "Heracleum maximum W.Bartram",
+            "id": "1389108",
+            "score": 0.00032
+        },
+        {
+            "name": "Lamium galeobdolon (L.) L.",
+            "id": "1361823",
+            "score": 0.00032
+        },
+        {
+            "name": "Allium triquetrum L.",
+            "id": "1358113",
+            "score": 0.0003
+        },
+        {
+            "name": "Torilis nodosa (L.) Gaertn.",
+            "id": "1363213",
+            "score": 0.0003
+        },
+        {
+            "name": "Silene dioica (L.) Clairv.",
+            "id": "1356985",
+            "score": 0.00029
+        },
+        {
+            "name": "Pimpinella saxifraga L.",
+            "id": "1394593",
+            "score": 0.00029
+        },
+        {
+            "name": "Conopodium majus (Gouan) Loret",
+            "id": "1360674",
+            "score": 0.00027
+        },
+        {
+            "name": "Lamium maculatum (L.) L.",
+            "id": "1393425",
+            "score": 0.00027
+        }
+    ]
+}

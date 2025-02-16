@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Eschscholzia californica Cham.",
+            "id": "1363125",
+            "score": 0.4963
+        },
+        {
+            "name": "Eschscholzia caespitosa Benth.",
+            "id": "1443494",
+            "score": 0.44189
+        },
+        {
+            "name": "Eschscholzia lobbii Greene",
+            "id": "1443498",
+            "score": 0.00339
+        },
+        {
+            "name": "Eschscholzia glyptosperma Greene",
+            "id": "1443495",
+            "score": 0.0027
+        },
+        {
+            "name": "Eschscholzia hypecoides Benth.",
+            "id": "1443496",
+            "score": 0.00177
+        }
+    ]
+}

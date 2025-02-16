@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sonchus asper (L.) Hill",
+            "id": "1357875",
+            "score": 0.84035
+        },
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.04401
+        },
+        {
+            "name": "Sonchus oleraceus L.",
+            "id": "1364170",
+            "score": 0.02688
+        },
+        {
+            "name": "Urospermum picroides (L.) Scop. ex F.W.Schmidt",
+            "id": "1396956",
+            "score": 0.01006
+        },
+        {
+            "name": "Brassica juncea (L.) Czern.",
+            "id": "1363904",
+            "score": 0.00267
+        },
+        {
+            "name": "Lactuca virosa L.",
+            "id": "1355868",
+            "score": 0.00145
+        },
+        {
+            "name": "Lactuca muralis (L.) E.Mey.",
+            "id": "1737633",
+            "score": 0.00105
+        }
+    ]
+}

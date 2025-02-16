@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Rhinanthus alectorolophus (Scop.) Pollich",
+            "id": "1395162",
+            "score": 0.64502
+        },
+        {
+            "name": "Rhinanthus major L.",
+            "id": "1437245",
+            "score": 0.37358
+        },
+        {
+            "name": "Rhinanthus minor L.",
+            "id": "1395169",
+            "score": 0.07054
+        },
+        {
+            "name": "Rhinanthus pumilus (Sterneck) Pau",
+            "id": "1743588",
+            "score": 0.02213
+        },
+        {
+            "name": "Rhinanthus glacialis Personnat",
+            "id": "1395168",
+            "score": 0.00606
+        },
+        {
+            "name": "Rhinanthus burnatii (Chabert) Soó",
+            "id": "1395166",
+            "score": 0.0059
+        }
+    ]
+}

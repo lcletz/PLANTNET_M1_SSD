@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Celosia argentea L.",
+            "id": "1363271",
+            "score": 0.8517
+        },
+        {
+            "name": "Amaranthus hybridus L.",
+            "id": "1356475",
+            "score": 0.05316
+        },
+        {
+            "name": "Amaranthus cruentus L.",
+            "id": "1363249",
+            "score": 0.03371
+        },
+        {
+            "name": "Amaranthus caudatus L.",
+            "id": "1363248",
+            "score": 0.01914
+        },
+        {
+            "name": "Amaranthus hypochondriacus L.",
+            "id": "1363259",
+            "score": 0.00463
+        },
+        {
+            "name": "Celosia elegantissima Hauman",
+            "id": "1387122",
+            "score": 0.00346
+        },
+        {
+            "name": "Celosia trigyna L.",
+            "id": "1363294",
+            "score": 0.00155
+        },
+        {
+            "name": "Celosia nitida Vahl",
+            "id": "1409450",
+            "score": 0.00133
+        }
+    ]
+}

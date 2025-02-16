@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Echinacea pallida (Nutt.) Nutt.",
+            "id": "1411840",
+            "score": 0.4018
+        },
+        {
+            "name": "Echinacea angustifolia DC.",
+            "id": "1411839",
+            "score": 0.28134
+        },
+        {
+            "name": "Echinacea purpurea (L.) Moench",
+            "id": "1398120",
+            "score": 0.06738
+        },
+        {
+            "name": "Echinacea tennesseensis (Beadle) Small",
+            "id": "1442775",
+            "score": 0.00344
+        },
+        {
+            "name": "Monarda didyma L.",
+            "id": "1397732",
+            "score": 0.00154
+        },
+        {
+            "name": "Echinacea paradoxa Britton",
+            "id": "1817100",
+            "score": 0.00134
+        },
+        {
+            "name": "Rudbeckia laciniata L.",
+            "id": "1395639",
+            "score": 0.00111
+        },
+        {
+            "name": "Tragopogon porrifolius L.",
+            "id": "1364168",
+            "score": 0.00106
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Typha latifolia L.",
+            "id": "1363339",
+            "score": 0.87581
+        },
+        {
+            "name": "Typha angustifolia L.",
+            "id": "1361721",
+            "score": 0.08477
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.00261
+        },
+        {
+            "name": "Typha × glauca Godr.",
+            "id": "1694379",
+            "score": 0.00212
+        },
+        {
+            "name": "Typha laxmannii Lepech.",
+            "id": "1396940",
+            "score": 0.00137
+        }
+    ]
+}

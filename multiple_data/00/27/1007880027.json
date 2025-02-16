@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hydrangea spp.",
+            "id": "1419192",
+            "score": 0.64711
+        },
+        {
+            "name": "Hydrangea macrophylla (Thunb.) Ser.",
+            "id": "1361819",
+            "score": 0.24343
+        },
+        {
+            "name": "Sinningia speciosa (Lodd.) Hiern",
+            "id": "1409209",
+            "score": 0.00756
+        },
+        {
+            "name": "Hydrangea arborescens L.",
+            "id": "1393222",
+            "score": 0.00733
+        },
+        {
+            "name": "Rosa gallica L.",
+            "id": "1360338",
+            "score": 0.0014
+        }
+    ]
+}

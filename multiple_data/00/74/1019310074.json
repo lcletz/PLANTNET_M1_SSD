@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Fraxinus angustifolia Vahl",
+            "id": "1362009",
+            "score": 0.74886
+        },
+        {
+            "name": "Fraxinus pennsylvanica Marshall",
+            "id": "1392363",
+            "score": 0.04635
+        },
+        {
+            "name": "Laburnum alpinum (Mill.) Bercht. & J.Presl",
+            "id": "1393412",
+            "score": 0.02421
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.01659
+        },
+        {
+            "name": "Fraxinus ornus L.",
+            "id": "1362963",
+            "score": 0.00894
+        },
+        {
+            "name": "Ptelea trifoliata L.",
+            "id": "1394968",
+            "score": 0.00166
+        },
+        {
+            "name": "Melia azedarach L.",
+            "id": "1363624",
+            "score": 0.00109
+        }
+    ]
+}

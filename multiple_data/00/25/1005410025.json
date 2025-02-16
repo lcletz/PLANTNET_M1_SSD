@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cistus monspeliensis L.",
+            "id": "1357105",
+            "score": 0.90205
+        },
+        {
+            "name": "Cistus creticus L.",
+            "id": "1357099",
+            "score": 0.04338
+        },
+        {
+            "name": "Cistus ladanifer L.",
+            "id": "1357103",
+            "score": 0.01631
+        },
+        {
+            "name": "Salvia mellifera Greene",
+            "id": "1437805",
+            "score": 0.00297
+        },
+        {
+            "name": "Salvia leucantha Cav.",
+            "id": "1356116",
+            "score": 0.00131
+        }
+    ]
+}

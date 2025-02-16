@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sanguisorba officinalis L.",
+            "id": "1395920",
+            "score": 0.94636
+        },
+        {
+            "name": "Sanguisorba hakusanensis Makino",
+            "id": "1669696",
+            "score": 0.00929
+        },
+        {
+            "name": "Sanguisorba obtusa Maxim.",
+            "id": "1669701",
+            "score": 0.00686
+        },
+        {
+            "name": "Sanguisorba alpina Bunge",
+            "id": "1669689",
+            "score": 0.00534
+        },
+        {
+            "name": "Sanguisorba minor Scop.",
+            "id": "1356303",
+            "score": 0.00197
+        },
+        {
+            "name": "Sanguisorba canadensis L.",
+            "id": "1395919",
+            "score": 0.00162
+        }
+    ]
+}

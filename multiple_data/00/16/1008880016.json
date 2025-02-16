@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lavandula latifolia Medik.",
+            "id": "1393466",
+            "score": 0.94683
+        },
+        {
+            "name": "Lavandula angustifolia Mill.",
+            "id": "1361824",
+            "score": 0.00627
+        },
+        {
+            "name": "Artemisia ludoviciana Nutt.",
+            "id": "1396735",
+            "score": 0.00381
+        },
+        {
+            "name": "Salvia apiana Jeps.",
+            "id": "1437781",
+            "score": 0.00189
+        }
+    ]
+}

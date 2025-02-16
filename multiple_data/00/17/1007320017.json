@@ -1,0 +1,90 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.8612
+        },
+        {
+            "name": "Prunus brigantina Vill.",
+            "id": "1394945",
+            "score": 0.06841
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.03818
+        },
+        {
+            "name": "Prunus japonica Thunb.",
+            "id": "1394940",
+            "score": 0.02958
+        },
+        {
+            "name": "Prunus × fruticans Weihe",
+            "id": "1667948",
+            "score": 0.01093
+        },
+        {
+            "name": "Salix aurita L.",
+            "id": "1395745",
+            "score": 0.00979
+        },
+        {
+            "name": "Celastrus orbiculatus Thunb.",
+            "id": "1390975",
+            "score": 0.00831
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.00654
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00487
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.00332
+        },
+        {
+            "name": "Prunus insititia L.",
+            "id": "1360321",
+            "score": 0.00269
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.0023
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.00198
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00188
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.00139
+        },
+        {
+            "name": "Vaccinium myrtillus L.",
+            "id": "1361801",
+            "score": 0.00113
+        },
+        {
+            "name": "Campanula rapunculoides L.",
+            "id": "1383635",
+            "score": 0.0004
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fragaria vesca L.",
+            "id": "1363991",
+            "score": 0.90563
+        },
+        {
+            "name": "Fragaria viridis Weston",
+            "id": "1397387",
+            "score": 0.04983
+        },
+        {
+            "name": "Fragaria moschata Duchesne ex Weston",
+            "id": "1737561",
+            "score": 0.00247
+        },
+        {
+            "name": "Fragaria × ananassa (Duchesne ex Weston) Duchesne ex Rozier",
+            "id": "1667445",
+            "score": 0.00238
+        },
+        {
+            "name": "Potentilla indica (Andrews) Th.Wolf",
+            "id": "1721637",
+            "score": 0.00121
+        }
+    ]
+}

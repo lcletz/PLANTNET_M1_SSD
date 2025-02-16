@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Primula veris L.",
+            "id": "1360145",
+            "score": 0.87385
+        },
+        {
+            "name": "Primula × polyantha Mill.",
+            "id": "1661341",
+            "score": 0.0236
+        },
+        {
+            "name": "Primula elatior (L.) Hill",
+            "id": "1394906",
+            "score": 0.01866
+        },
+        {
+            "name": "Primula auricula L.",
+            "id": "1394898",
+            "score": 0.0035
+        },
+        {
+            "name": "Primula × digenea A.Kern.",
+            "id": "1737511",
+            "score": 0.002
+        }
+    ]
+}

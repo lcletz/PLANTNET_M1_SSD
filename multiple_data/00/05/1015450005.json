@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.94956
+        },
+        {
+            "name": "Betonica officinalis L.",
+            "id": "1400126",
+            "score": 0.00178
+        },
+        {
+            "name": "Stachys arvensis (L.) L.",
+            "id": "1396422",
+            "score": 0.00145
+        },
+        {
+            "name": "Stachys mexicana Benth.",
+            "id": "1413912",
+            "score": 0.00109
+        },
+        {
+            "name": "Stachys bullata Benth.",
+            "id": "1438593",
+            "score": 0.00106
+        }
+    ]
+}

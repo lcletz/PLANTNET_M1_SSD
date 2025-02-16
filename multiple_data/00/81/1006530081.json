@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Nicotiana tabacum L.",
+            "id": "1356159",
+            "score": 0.92015
+        },
+        {
+            "name": "Nicotiana rustica L.",
+            "id": "1356160",
+            "score": 0.04755
+        },
+        {
+            "name": "Nicotiana sylvestris Speg.",
+            "id": "1398133",
+            "score": 0.00631
+        },
+        {
+            "name": "Nicotiana alata Link & Otto",
+            "id": "1361885",
+            "score": 0.00447
+        },
+        {
+            "name": "Solanum melongena L.",
+            "id": "1356172",
+            "score": 0.0028
+        },
+        {
+            "name": "Solanum betaceum Cav.",
+            "id": "1407911",
+            "score": 0.00196
+        }
+    ]
+}

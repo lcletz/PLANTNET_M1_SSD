@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sonchus oleraceus L.",
+            "id": "1364170",
+            "score": 0.43337
+        },
+        {
+            "name": "Sonchus tenerrimus L.",
+            "id": "1364171",
+            "score": 0.02759
+        },
+        {
+            "name": "Sonchus asper (L.) Hill",
+            "id": "1357875",
+            "score": 0.02531
+        },
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.01247
+        },
+        {
+            "name": "Crepis foetida L.",
+            "id": "1355870",
+            "score": 0.00358
+        },
+        {
+            "name": "Crepis vesicaria L.",
+            "id": "1357549",
+            "score": 0.00269
+        },
+        {
+            "name": "Lactuca serriola L.",
+            "id": "1364173",
+            "score": 0.00238
+        },
+        {
+            "name": "Andryala integrifolia L.",
+            "id": "1357207",
+            "score": 0.00167
+        },
+        {
+            "name": "Senecio vulgaris L.",
+            "id": "1364138",
+            "score": 0.00157
+        },
+        {
+            "name": "Hieracium umbellatum L.",
+            "id": "1393169",
+            "score": 0.00128
+        }
+    ]
+}

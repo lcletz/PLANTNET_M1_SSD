@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Buxus sempervirens L.",
+            "id": "1356729",
+            "score": 0.84432
+        },
+        {
+            "name": "Buxus balearica Lam.",
+            "id": "1356728",
+            "score": 0.04981
+        },
+        {
+            "name": "Myrtus communis L.",
+            "id": "1359662",
+            "score": 0.01778
+        },
+        {
+            "name": "Punica granatum L.",
+            "id": "1359616",
+            "score": 0.00619
+        },
+        {
+            "name": "Phillyrea latifolia L.",
+            "id": "1359678",
+            "score": 0.0016
+        },
+        {
+            "name": "Rhododendron ferrugineum L.",
+            "id": "1397475",
+            "score": 0.00124
+        },
+        {
+            "name": "Pyracantha coccinea M.Roem.",
+            "id": "1394994",
+            "score": 0.00113
+        },
+        {
+            "name": "Polygala myrtifolia L.",
+            "id": "1360101",
+            "score": 0.00104
+        },
+        {
+            "name": "Antirrhinum majus L.",
+            "id": "1359845",
+            "score": 0.00104
+        }
+    ]
+}

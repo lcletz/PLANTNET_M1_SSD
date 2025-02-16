@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Arbutus unedo L.",
+            "id": "1358500",
+            "score": 0.77379
+        },
+        {
+            "name": "Arbutus andrachne L.",
+            "id": "1395933",
+            "score": 0.13705
+        },
+        {
+            "name": "Arbutus menziesii Pursh",
+            "id": "1413017",
+            "score": 0.01175
+        },
+        {
+            "name": "Phillyrea latifolia L.",
+            "id": "1359678",
+            "score": 0.00181
+        },
+        {
+            "name": "Arbutus × andrachnoides Link",
+            "id": "1537929",
+            "score": 0.00173
+        },
+        {
+            "name": "Myrica faya Aiton",
+            "id": "1399738",
+            "score": 0.00127
+        },
+        {
+            "name": "Salix cinerea L.",
+            "id": "1362486",
+            "score": 0.00108
+        }
+    ]
+}

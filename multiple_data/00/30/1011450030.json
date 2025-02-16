@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Paulownia tomentosa (Thunb.) Steud.",
+            "id": "1394426",
+            "score": 0.45811
+        },
+        {
+            "name": "Abutilon theophrasti Medik.",
+            "id": "1363953",
+            "score": 0.07895
+        },
+        {
+            "name": "Sicyos edulis Jacq.",
+            "id": "1722531",
+            "score": 0.00646
+        },
+        {
+            "name": "Phaseolus vulgaris L.",
+            "id": "1394501",
+            "score": 0.00325
+        },
+        {
+            "name": "Cucumis sativus L.",
+            "id": "1384472",
+            "score": 0.0025
+        }
+    ]
+}

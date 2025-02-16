@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Datura stramonium L.",
+            "id": "1360549",
+            "score": 0.87636
+        },
+        {
+            "name": "Datura ferox L.",
+            "id": "1356149",
+            "score": 0.06864
+        },
+        {
+            "name": "Datura metel L.",
+            "id": "1356150",
+            "score": 0.00919
+        },
+        {
+            "name": "Datura innoxia Mill.",
+            "id": "1391658",
+            "score": 0.00433
+        }
+    ]
+}

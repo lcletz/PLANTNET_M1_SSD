@@ -1,0 +1,425 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Solidago virgaurea L.",
+            "id": "1357872",
+            "score": 0.90824
+        },
+        {
+            "name": "Hieracium umbellatum L.",
+            "id": "1393169",
+            "score": 0.02247
+        },
+        {
+            "name": "Cynoglossum officinale L.",
+            "id": "1391501",
+            "score": 0.01409
+        },
+        {
+            "name": "Aster amellus L.",
+            "id": "1382107",
+            "score": 0.01175
+        },
+        {
+            "name": "Erysimum cheiranthoides L.",
+            "id": "1358289",
+            "score": 0.01155
+        },
+        {
+            "name": "Cynoglossum germanicum Jacq.",
+            "id": "1391500",
+            "score": 0.01078
+        },
+        {
+            "name": "Lepidium latifolium L.",
+            "id": "1358352",
+            "score": 0.00939
+        },
+        {
+            "name": "Campanula rapunculoides L.",
+            "id": "1383635",
+            "score": 0.009
+        },
+        {
+            "name": "Solidago gigantea Aiton",
+            "id": "1396337",
+            "score": 0.00863
+        },
+        {
+            "name": "Erigeron speciosus (Lindl.) DC.",
+            "id": "1392033",
+            "score": 0.00843
+        },
+        {
+            "name": "Antirrhinum majus L.",
+            "id": "1359845",
+            "score": 0.00801
+        },
+        {
+            "name": "Solidago canadensis L.",
+            "id": "1396336",
+            "score": 0.00752
+        },
+        {
+            "name": "Aster alpinus L.",
+            "id": "1397971",
+            "score": 0.00732
+        },
+        {
+            "name": "Solidago puberula Nutt.",
+            "id": "1413857",
+            "score": 0.00727
+        },
+        {
+            "name": "Eurybia macrophylla (L.) Cass.",
+            "id": "1412043",
+            "score": 0.00555
+        },
+        {
+            "name": "Buphthalmum salicifolium L.",
+            "id": "1397329",
+            "score": 0.00544
+        },
+        {
+            "name": "Symphyotrichum novi-belgii (L.) G.L.Nesom",
+            "id": "1396487",
+            "score": 0.0052
+        },
+        {
+            "name": "Antirrhinum australe Rothm.",
+            "id": "1359841",
+            "score": 0.00467
+        },
+        {
+            "name": "Lepidium draba L.",
+            "id": "1358347",
+            "score": 0.00435
+        },
+        {
+            "name": "Solidago speciosa Nutt.",
+            "id": "1413860",
+            "score": 0.00427
+        },
+        {
+            "name": "Solidago caesia L.",
+            "id": "1413842",
+            "score": 0.0042
+        },
+        {
+            "name": "Hesperis matronalis L.",
+            "id": "1392765",
+            "score": 0.004
+        },
+        {
+            "name": "Helenium autumnale L.",
+            "id": "1392703",
+            "score": 0.00393
+        },
+        {
+            "name": "Erigeron strigosus Muhl. ex Willd.",
+            "id": "1411968",
+            "score": 0.00319
+        },
+        {
+            "name": "Oenothera lindheimeri (Engelm. & A.Gray) W.L.Wagner & Hoch",
+            "id": "1390068",
+            "score": 0.00307
+        },
+        {
+            "name": "Symphyotrichum ericoides (L.) G.L.Nesom",
+            "id": "1396483",
+            "score": 0.00306
+        },
+        {
+            "name": "Lycium barbarum L.",
+            "id": "1360557",
+            "score": 0.00306
+        },
+        {
+            "name": "Solidago macrophylla Banks ex Pursh",
+            "id": "1521456",
+            "score": 0.0026
+        },
+        {
+            "name": "Echinacea purpurea (L.) Moench",
+            "id": "1398120",
+            "score": 0.00254
+        },
+        {
+            "name": "Symphyotrichum lanceolatum (Willd.) G.L.Nesom",
+            "id": "1396485",
+            "score": 0.00232
+        },
+        {
+            "name": "Centaurea montana L.",
+            "id": "1411388",
+            "score": 0.00211
+        },
+        {
+            "name": "Campanula rapunculus L.",
+            "id": "1356752",
+            "score": 0.00193
+        },
+        {
+            "name": "Solidago nemoralis Aiton",
+            "id": "1413855",
+            "score": 0.00189
+        },
+        {
+            "name": "Symphyotrichum georgianum (Alexander) G.L.Nesom",
+            "id": "1522190",
+            "score": 0.00189
+        },
+        {
+            "name": "Eclipta prostrata (L.) L.",
+            "id": "1364146",
+            "score": 0.00178
+        },
+        {
+            "name": "Solidago flexicaulis L.",
+            "id": "1413846",
+            "score": 0.00173
+        },
+        {
+            "name": "Centaurea nigrescens Willd.",
+            "id": "1391025",
+            "score": 0.00172
+        },
+        {
+            "name": "Senecio ovatus (G.Gaertn., B.Mey. & Scherb.) Willd.",
+            "id": "1728570",
+            "score": 0.00168
+        },
+        {
+            "name": "Pseudoturritis turrita (L.) Al-Shehbaz",
+            "id": "1390300",
+            "score": 0.00168
+        },
+        {
+            "name": "Symphyotrichum cordifolium (L.) G.L.Nesom",
+            "id": "1389527",
+            "score": 0.00166
+        },
+        {
+            "name": "Phlox maculata L.",
+            "id": "1413052",
+            "score": 0.00154
+        },
+        {
+            "name": "Echinacea angustifolia DC.",
+            "id": "1411839",
+            "score": 0.00146
+        },
+        {
+            "name": "Plumbago europaea L.",
+            "id": "1360092",
+            "score": 0.00139
+        },
+        {
+            "name": "Picris hieracioides L.",
+            "id": "1364160",
+            "score": 0.00135
+        },
+        {
+            "name": "Symphytum officinale L.",
+            "id": "1370072",
+            "score": 0.0013
+        },
+        {
+            "name": "Centaurea nigra L.",
+            "id": "1357438",
+            "score": 0.00127
+        },
+        {
+            "name": "Symphyotrichum shortii (Lindl.) G.L.Nesom",
+            "id": "1522235",
+            "score": 0.00123
+        },
+        {
+            "name": "Solidago rugosa Mill.",
+            "id": "1396340",
+            "score": 0.00122
+        },
+        {
+            "name": "Phlox paniculata L.",
+            "id": "1394721",
+            "score": 0.00119
+        },
+        {
+            "name": "Campanula persicifolia L.",
+            "id": "1390671",
+            "score": 0.00119
+        },
+        {
+            "name": "Cestrum nocturnum L.",
+            "id": "1380602",
+            "score": 0.00117
+        },
+        {
+            "name": "Lobelia cardinalis L.",
+            "id": "1398228",
+            "score": 0.00113
+        },
+        {
+            "name": "Solidago juncea Aiton",
+            "id": "1413848",
+            "score": 0.00111
+        },
+        {
+            "name": "Symphyotrichum laeve (L.) Á.Löve & D.Löve",
+            "id": "1396484",
+            "score": 0.00102
+        },
+        {
+            "name": "Pentanema salicinum (L.) D.Gut.Larr., Santos-Vicente, Anderb., E.Rico & M.M.Mart.Ort.",
+            "id": "1737667",
+            "score": 0.001
+        },
+        {
+            "name": "Hackelia virginiana (L.) I.M.Johnst.",
+            "id": "1815837",
+            "score": 0.00081
+        },
+        {
+            "name": "Campanula rotundifolia L.",
+            "id": "1362422",
+            "score": 0.00079
+        },
+        {
+            "name": "Centaurea jacea L.",
+            "id": "1362427",
+            "score": 0.00078
+        },
+        {
+            "name": "Lapsana communis L.",
+            "id": "1364164",
+            "score": 0.00077
+        },
+        {
+            "name": "Potamogeton lucens L.",
+            "id": "1361168",
+            "score": 0.00075
+        },
+        {
+            "name": "Camelina sativa (L.) Crantz",
+            "id": "1358207",
+            "score": 0.00059
+        },
+        {
+            "name": "Armoracia rusticana G.Gaertn., B.Mey. & Scherb.",
+            "id": "1411051",
+            "score": 0.00059
+        },
+        {
+            "name": "Lactuca floridana (L.) Gaertn.",
+            "id": "1409746",
+            "score": 0.00059
+        },
+        {
+            "name": "Isatis tinctoria L.",
+            "id": "1358340",
+            "score": 0.00057
+        },
+        {
+            "name": "Andryala integrifolia L.",
+            "id": "1357207",
+            "score": 0.00057
+        },
+        {
+            "name": "Erigeron annuus (L.) Desf",
+            "id": "1737555",
+            "score": 0.00057
+        },
+        {
+            "name": "Epilobium angustifolium L.",
+            "id": "1359681",
+            "score": 0.00057
+        },
+        {
+            "name": "Oenothera gaura W.L.Wagner & Hoch",
+            "id": "1390070",
+            "score": 0.00054
+        },
+        {
+            "name": "Cynoglossum creticum Mill.",
+            "id": "1356634",
+            "score": 0.00053
+        },
+        {
+            "name": "Leptochilus pteropus (Blume) Fraser-Jenk.",
+            "id": "1420159",
+            "score": 0.0005
+        },
+        {
+            "name": "Verbascum virgatum Stokes",
+            "id": "1364058",
+            "score": 0.0005
+        },
+        {
+            "name": "Prenanthes purpurea L.",
+            "id": "1394894",
+            "score": 0.00049
+        },
+        {
+            "name": "Silene chalcedonica (L.) E.H.L.Krause",
+            "id": "1418409",
+            "score": 0.00047
+        },
+        {
+            "name": "Thlaspi arvense L.",
+            "id": "1363886",
+            "score": 0.00047
+        },
+        {
+            "name": "Erigeron philadelphicus L.",
+            "id": "1392052",
+            "score": 0.00044
+        },
+        {
+            "name": "Crepis pulchra L.",
+            "id": "1357542",
+            "score": 0.00043
+        },
+        {
+            "name": "Carthamus tinctorius L.",
+            "id": "1364165",
+            "score": 0.00043
+        },
+        {
+            "name": "Petiveria alliacea L.",
+            "id": "1376703",
+            "score": 0.00042
+        },
+        {
+            "name": "Hieracium murorum L.",
+            "id": "1393025",
+            "score": 0.00042
+        },
+        {
+            "name": "Solidago ulmifolia Muhl. ex Willd.",
+            "id": "1413864",
+            "score": 0.00039
+        },
+        {
+            "name": "Solidago hispida Muhl. ex Willd.",
+            "id": "1413847",
+            "score": 0.00039
+        },
+        {
+            "name": "Bunias orientalis L.",
+            "id": "1389581",
+            "score": 0.00038
+        },
+        {
+            "name": "Cynoglossum amabile Stapf & J.R.Drumm.",
+            "id": "1399940",
+            "score": 0.00037
+        },
+        {
+            "name": "Hackelia velutina (Piper) I.M.Johnst.",
+            "id": "1818325",
+            "score": 0.00037
+        }
+    ]
+}

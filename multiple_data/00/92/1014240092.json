@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ononis spinosa L.",
+            "id": "1359431",
+            "score": 0.75967
+        },
+        {
+            "name": "Ononis arvensis L.",
+            "id": "1394046",
+            "score": 0.09854
+        },
+        {
+            "name": "Ononis reclinata L.",
+            "id": "1363708",
+            "score": 0.02688
+        },
+        {
+            "name": "Ononis mitissima L.",
+            "id": "1359411",
+            "score": 0.00434
+        },
+        {
+            "name": "Echium plantagineum L.",
+            "id": "1363849",
+            "score": 0.00356
+        },
+        {
+            "name": "Ononis alopecuroides L.",
+            "id": "1359376",
+            "score": 0.00197
+        },
+        {
+            "name": "Misopates orontium (L.) Raf.",
+            "id": "1359943",
+            "score": 0.00194
+        },
+        {
+            "name": "Ononis rotundifolia L.",
+            "id": "1394049",
+            "score": 0.001
+        }
+    ]
+}

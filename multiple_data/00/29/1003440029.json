@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lamium purpureum L.",
+            "id": "1358752",
+            "score": 0.70684
+        },
+        {
+            "name": "Lamium hybridum Vill.",
+            "id": "1358751",
+            "score": 0.19642
+        },
+        {
+            "name": "Lamium maculatum (L.) L.",
+            "id": "1393425",
+            "score": 0.00386
+        },
+        {
+            "name": "Lamium amplexicaule L.",
+            "id": "1356111",
+            "score": 0.0038
+        },
+        {
+            "name": "Lamium bifidum Cirillo",
+            "id": "1358748",
+            "score": 0.00128
+        },
+        {
+            "name": "Glechoma hederacea L.",
+            "id": "1358746",
+            "score": 0.00107
+        }
+    ]
+}

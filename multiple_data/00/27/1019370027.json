@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Arbutus unedo L.",
+            "id": "1358500",
+            "score": 0.34872
+        },
+        {
+            "name": "Myrica gale L.",
+            "id": "1393906",
+            "score": 0.00648
+        },
+        {
+            "name": "Quercus lusitanica Lam.",
+            "id": "1358615",
+            "score": 0.00324
+        },
+        {
+            "name": "Carex magellanica Lam.",
+            "id": "1397276",
+            "score": 0.00179
+        },
+        {
+            "name": "Quercus × auzendei Gren. & Godr.",
+            "id": "1743448",
+            "score": 0.00127
+        },
+        {
+            "name": "Myrica faya Aiton",
+            "id": "1399738",
+            "score": 0.00123
+        }
+    ]
+}

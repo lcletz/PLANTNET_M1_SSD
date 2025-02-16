@@ -1,0 +1,475 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Scabiosa columbaria L.",
+            "id": "1361926",
+            "score": 0.62968
+        },
+        {
+            "name": "Scabiosa lucida Vill.",
+            "id": "1397488",
+            "score": 0.16649
+        },
+        {
+            "name": "Conopodium majus (Gouan) Loret",
+            "id": "1360674",
+            "score": 0.0698
+        },
+        {
+            "name": "Cenchrus echinatus L.",
+            "id": "1363464",
+            "score": 0.06627
+        },
+        {
+            "name": "Scabiosa triandra L.",
+            "id": "1396063",
+            "score": 0.06013
+        },
+        {
+            "name": "Scabiosa atropurpurea L.",
+            "id": "1396055",
+            "score": 0.05419
+        },
+        {
+            "name": "Lomelosia graminifolia (L.) Greuter & Burdet",
+            "id": "1358463",
+            "score": 0.04347
+        },
+        {
+            "name": "Geum urbanum L.",
+            "id": "1360300",
+            "score": 0.04331
+        },
+        {
+            "name": "Lepidium sativum L.",
+            "id": "1363894",
+            "score": 0.04309
+        },
+        {
+            "name": "Scabiosa ochroleuca L.",
+            "id": "1358478",
+            "score": 0.03631
+        },
+        {
+            "name": "Lemna minor L.",
+            "id": "1361113",
+            "score": 0.03299
+        },
+        {
+            "name": "Daucus carota L.",
+            "id": "1363227",
+            "score": 0.02263
+        },
+        {
+            "name": "Rubus idaeus L.",
+            "id": "1395507",
+            "score": 0.02026
+        },
+        {
+            "name": "Veronica cymbalaria Bodard",
+            "id": "1359978",
+            "score": 0.01915
+        },
+        {
+            "name": "Knautia arvensis (L.) Coult.",
+            "id": "1362327",
+            "score": 0.01779
+        },
+        {
+            "name": "Veronica hederifolia L.",
+            "id": "1364064",
+            "score": 0.01742
+        },
+        {
+            "name": "Myosotis arvensis (L.) Hill",
+            "id": "1363858",
+            "score": 0.0171
+        },
+        {
+            "name": "Gilia capitata Sims",
+            "id": "1394722",
+            "score": 0.01691
+        },
+        {
+            "name": "Agrimonia eupatoria L.",
+            "id": "1363994",
+            "score": 0.01681
+        },
+        {
+            "name": "Echium pininana Webb & Berthel.",
+            "id": "1418026",
+            "score": 0.01436
+        },
+        {
+            "name": "Lemna minuta Kunth",
+            "id": "1393473",
+            "score": 0.01434
+        },
+        {
+            "name": "Scabiosa cinerea Lapeyr. ex Lam.",
+            "id": "1397487",
+            "score": 0.01397
+        },
+        {
+            "name": "Ammi majus L.",
+            "id": "1363217",
+            "score": 0.0137
+        },
+        {
+            "name": "Vicia hirsuta (L.) Gray",
+            "id": "1363671",
+            "score": 0.01301
+        },
+        {
+            "name": "Galeopsis tetrahit L.",
+            "id": "1392433",
+            "score": 0.01147
+        },
+        {
+            "name": "Mesosphaerum suaveolens (L.) Kuntze",
+            "id": "1714635",
+            "score": 0.01136
+        },
+        {
+            "name": "Scabiosa canescens Waldst. & Kit.",
+            "id": "1396057",
+            "score": 0.01102
+        },
+        {
+            "name": "Clinopodium vulgare L.",
+            "id": "1358742",
+            "score": 0.01056
+        },
+        {
+            "name": "Veronica montana L.",
+            "id": "1359979",
+            "score": 0.00847
+        },
+        {
+            "name": "Medicago polymorpha L.",
+            "id": "1363731",
+            "score": 0.00825
+        },
+        {
+            "name": "Coriandrum sativum L.",
+            "id": "1363224",
+            "score": 0.0081
+        },
+        {
+            "name": "Lomelosia stellata (L.) Raf.",
+            "id": "1358469",
+            "score": 0.00778
+        },
+        {
+            "name": "Setaria verticillata (L.) P.Beauv.",
+            "id": "1396252",
+            "score": 0.00763
+        },
+        {
+            "name": "Geranium rotundifolium L.",
+            "id": "1356013",
+            "score": 0.0072
+        },
+        {
+            "name": "Galeopsis bifida Boenn.",
+            "id": "1392420",
+            "score": 0.00698
+        },
+        {
+            "name": "Geranium sibiricum L.",
+            "id": "1392598",
+            "score": 0.00691
+        },
+        {
+            "name": "Myosotis discolor Pers.",
+            "id": "1363859",
+            "score": 0.00594
+        },
+        {
+            "name": "Veronica urticifolia Jacq.",
+            "id": "1397077",
+            "score": 0.0053
+        },
+        {
+            "name": "Briza minor L.",
+            "id": "1363441",
+            "score": 0.005
+        },
+        {
+            "name": "Cyperus brevifolius (Rottb.) Hassk.",
+            "id": "1427744",
+            "score": 0.00496
+        },
+        {
+            "name": "Ambrosia artemisiifolia L.",
+            "id": "1355901",
+            "score": 0.00493
+        },
+        {
+            "name": "Carex leporina L.",
+            "id": "1362424",
+            "score": 0.00464
+        },
+        {
+            "name": "Lomelosia cretica (L.) Greuter & Burdet",
+            "id": "1389463",
+            "score": 0.00439
+        },
+        {
+            "name": "Veronica officinalis L.",
+            "id": "1364068",
+            "score": 0.00422
+        },
+        {
+            "name": "Bunium bulbocastanum L.",
+            "id": "1362269",
+            "score": 0.004
+        },
+        {
+            "name": "Geranium columbinum L.",
+            "id": "1358671",
+            "score": 0.00398
+        },
+        {
+            "name": "Kickxia elatine (L.) Dumort.",
+            "id": "1359885",
+            "score": 0.00392
+        },
+        {
+            "name": "Carex divulsa Stokes",
+            "id": "1361050",
+            "score": 0.00383
+        },
+        {
+            "name": "Delphinium consolida L.",
+            "id": "1360164",
+            "score": 0.00374
+        },
+        {
+            "name": "Veronica persica Poir.",
+            "id": "1364065",
+            "score": 0.00366
+        },
+        {
+            "name": "Odontites vernus (Bellardi) Dumort.",
+            "id": "1393989",
+            "score": 0.00362
+        },
+        {
+            "name": "Buglossoides arvensis (L.) I.M.Johnst.",
+            "id": "1389576",
+            "score": 0.00345
+        },
+        {
+            "name": "Vicia disperma DC.",
+            "id": "1359557",
+            "score": 0.00342
+        },
+        {
+            "name": "Peucedanum gallicum Latourr.",
+            "id": "1394486",
+            "score": 0.0034
+        },
+        {
+            "name": "Setaria pumila (Poir.) Roem. & Schult.",
+            "id": "1363386",
+            "score": 0.00338
+        },
+        {
+            "name": "Spirodela polyrhiza (L.) Schleid.",
+            "id": "1396411",
+            "score": 0.00328
+        },
+        {
+            "name": "Cardamine pratensis L.",
+            "id": "1358213",
+            "score": 0.00326
+        },
+        {
+            "name": "Torilis arvensis (Huds.) Link",
+            "id": "1363212",
+            "score": 0.00319
+        },
+        {
+            "name": "Myosotis ramosissima Rochel",
+            "id": "1356709",
+            "score": 0.00319
+        },
+        {
+            "name": "Coreopsis tinctoria Nutt.",
+            "id": "1391351",
+            "score": 0.00311
+        },
+        {
+            "name": "Seseli montanum L.",
+            "id": "1362375",
+            "score": 0.00307
+        },
+        {
+            "name": "Abutilon theophrasti Medik.",
+            "id": "1363953",
+            "score": 0.00304
+        },
+        {
+            "name": "Anethum graveolens L.",
+            "id": "1363232",
+            "score": 0.00295
+        },
+        {
+            "name": "Scabiosa holosericea Bertol.",
+            "id": "1399397",
+            "score": 0.0029
+        },
+        {
+            "name": "Spergula arvensis L.",
+            "id": "1356538",
+            "score": 0.00281
+        },
+        {
+            "name": "Lobelia inflata L.",
+            "id": "1412536",
+            "score": 0.00279
+        },
+        {
+            "name": "Plantago coronopus L.",
+            "id": "1356065",
+            "score": 0.00266
+        },
+        {
+            "name": "Rubus spectabilis Pursh",
+            "id": "1395613",
+            "score": 0.00262
+        },
+        {
+            "name": "Vicia hybrida L.",
+            "id": "1359562",
+            "score": 0.00247
+        },
+        {
+            "name": "Succisa pratensis Moench",
+            "id": "1358491",
+            "score": 0.00242
+        },
+        {
+            "name": "Euphrasia hirtella Jord. ex Reut.",
+            "id": "1392212",
+            "score": 0.00239
+        },
+        {
+            "name": "Cosmos bipinnatus Cav.",
+            "id": "1364120",
+            "score": 0.00239
+        },
+        {
+            "name": "Oldenlandia corymbosa L.",
+            "id": "1360427",
+            "score": 0.0023
+        },
+        {
+            "name": "Mammillaria vetula Mart.",
+            "id": "1487447",
+            "score": 0.00224
+        },
+        {
+            "name": "Knautia integrifolia (Honck. ex L.) Bertol.",
+            "id": "1743313",
+            "score": 0.00223
+        },
+        {
+            "name": "Sida urens L.",
+            "id": "1402066",
+            "score": 0.00222
+        },
+        {
+            "name": "Clinopodium nepeta (L.) Kuntze",
+            "id": "1391306",
+            "score": 0.00212
+        },
+        {
+            "name": "Aeschynomene americana L.",
+            "id": "1366875",
+            "score": 0.00207
+        },
+        {
+            "name": "Scabiosa japonica Miq.",
+            "id": "1491537",
+            "score": 0.00206
+        },
+        {
+            "name": "Geranium versicolor L.",
+            "id": "1392600",
+            "score": 0.00206
+        },
+        {
+            "name": "Alopecurus pratensis L.",
+            "id": "1362406",
+            "score": 0.00206
+        },
+        {
+            "name": "Gilia tricolor Benth.",
+            "id": "1420131",
+            "score": 0.00198
+        },
+        {
+            "name": "Linaria arvensis (L.) Desf.",
+            "id": "1359897",
+            "score": 0.00197
+        },
+        {
+            "name": "Brachyscome iberidifolia Benth.",
+            "id": "1417781",
+            "score": 0.00197
+        },
+        {
+            "name": "Mentha spicata L.",
+            "id": "1358788",
+            "score": 0.00197
+        },
+        {
+            "name": "Mammillaria winterae Boed.",
+            "id": "1487454",
+            "score": 0.00193
+        },
+        {
+            "name": "Veronica sublobata M.A.Fisch.",
+            "id": "1711843",
+            "score": 0.00189
+        },
+        {
+            "name": "Mentha longifolia (L.) L.",
+            "id": "1356107",
+            "score": 0.00185
+        },
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.00178
+        },
+        {
+            "name": "Geum laciniatum Murray",
+            "id": "1392604",
+            "score": 0.00172
+        },
+        {
+            "name": "Delphinium carolinianum Walter",
+            "id": "1411704",
+            "score": 0.00171
+        },
+        {
+            "name": "Geum macrophyllum Willd.",
+            "id": "1398509",
+            "score": 0.0017
+        },
+        {
+            "name": "Melissa officinalis L.",
+            "id": "1358784",
+            "score": 0.00164
+        },
+        {
+            "name": "Marsypianthes chamaedrys (Vahl) Kuntze",
+            "id": "1401897",
+            "score": 0.00159
+        }
+    ]
+}

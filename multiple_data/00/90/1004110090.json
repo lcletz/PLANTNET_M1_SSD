@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Helianthus annuus L.",
+            "id": "1364145",
+            "score": 0.8894
+        },
+        {
+            "name": "Helianthus giganteus L.",
+            "id": "1389511",
+            "score": 0.05315
+        },
+        {
+            "name": "Helianthus petiolaris Nutt.",
+            "id": "1392722",
+            "score": 0.00671
+        },
+        {
+            "name": "Helianthus tuberosus L.",
+            "id": "1357617",
+            "score": 0.00612
+        },
+        {
+            "name": "Helianthus debilis Nutt.",
+            "id": "1379525",
+            "score": 0.00352
+        },
+        {
+            "name": "Monarda didyma L.",
+            "id": "1397732",
+            "score": 0.00145
+        }
+    ]
+}

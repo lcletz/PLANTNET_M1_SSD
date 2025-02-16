@@ -1,0 +1,25 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Solanum chenopodioides Lam.",
+            "id": "1356162",
+            "score": 0.29714
+        },
+        {
+            "name": "Solanum nigrum L.",
+            "id": "1356167",
+            "score": 0.21841
+        },
+        {
+            "name": "Solanum villosum Mill.",
+            "id": "1361993",
+            "score": 0.05191
+        },
+        {
+            "name": "Solanum dulcamara L.",
+            "id": "1360566",
+            "score": 0.00095
+        }
+    ]
+}

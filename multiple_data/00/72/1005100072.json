@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cistus albidus L.",
+            "id": "1357096",
+            "score": 0.96947
+        },
+        {
+            "name": "Cistus crispus L.",
+            "id": "1357100",
+            "score": 0.0024
+        },
+        {
+            "name": "Cneorum tricoccon L.",
+            "id": "1362990",
+            "score": 0.00187
+        },
+        {
+            "name": "Cistus monspeliensis L.",
+            "id": "1357105",
+            "score": 0.00133
+        },
+        {
+            "name": "Cistus halimifolius L.",
+            "id": "1361753",
+            "score": 0.00114
+        },
+        {
+            "name": "Cistus lasianthus Lam.",
+            "id": "1362183",
+            "score": 0.00113
+        },
+        {
+            "name": "Cistus creticus L.",
+            "id": "1357099",
+            "score": 0.00111
+        },
+        {
+            "name": "Lavandula stoechas L.",
+            "id": "1358766",
+            "score": 0.0007
+        }
+    ]
+}

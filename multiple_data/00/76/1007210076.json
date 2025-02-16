@@ -1,0 +1,40 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Calystegia sepium (L.) R.Br.",
+            "id": "1426068",
+            "score": 0.25766
+        },
+        {
+            "name": "Cynanchum acutum L.",
+            "id": "1356591",
+            "score": 0.01954
+        },
+        {
+            "name": "Calystegia silvatica (Kit.) Griseb.",
+            "id": "1357966",
+            "score": 0.01658
+        },
+        {
+            "name": "Fallopia convolvulus (L.) Á.Löve",
+            "id": "1392250",
+            "score": 0.00633
+        },
+        {
+            "name": "Convolvulus arvensis L.",
+            "id": "1364006",
+            "score": 0.00482
+        },
+        {
+            "name": "Ipomoea purpurea (L.) Roth",
+            "id": "1364031",
+            "score": 0.00232
+        },
+        {
+            "name": "Fallopia dumetorum (L.) Holub",
+            "id": "1392251",
+            "score": 0.00128
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Scrophularia canina L.",
+            "id": "1360497",
+            "score": 0.82165
+        },
+        {
+            "name": "Scrophularia lucida L.",
+            "id": "1396121",
+            "score": 0.07848
+        },
+        {
+            "name": "Scrophularia frutescens L.",
+            "id": "1360501",
+            "score": 0.00547
+        },
+        {
+            "name": "Scrophularia auriculata L.",
+            "id": "1360495",
+            "score": 0.00532
+        },
+        {
+            "name": "Lipandra polysperma (L.) S.Fuentes, Uotila & Borsch",
+            "id": "1389976",
+            "score": 0.00485
+        },
+        {
+            "name": "Scrophularia striata Boiss.",
+            "id": "1765599",
+            "score": 0.00389
+        },
+        {
+            "name": "Pistacia terebinthus L.",
+            "id": "1356567",
+            "score": 0.003
+        }
+    ]
+}

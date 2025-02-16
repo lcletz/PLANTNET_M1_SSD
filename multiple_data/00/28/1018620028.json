@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Clematis vitalba L.",
+            "id": "1360161",
+            "score": 0.85127
+        },
+        {
+            "name": "Clematis flammula L.",
+            "id": "1360159",
+            "score": 0.02937
+        },
+        {
+            "name": "Clematis viticella L.",
+            "id": "1391301",
+            "score": 0.02358
+        },
+        {
+            "name": "Clematis recta L.",
+            "id": "1391298",
+            "score": 0.01067
+        }
+    ]
+}

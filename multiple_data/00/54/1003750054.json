@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Urtica dioica L.",
+            "id": "1356200",
+            "score": 0.91025
+        },
+        {
+            "name": "Urtica atrovirens Req. ex Loisel.",
+            "id": "1396958",
+            "score": 0.00338
+        },
+        {
+            "name": "Urtica urens L.",
+            "id": "1356201",
+            "score": 0.00319
+        },
+        {
+            "name": "Urtica membranacea Poir. ex Savigny",
+            "id": "1695710",
+            "score": 0.00236
+        },
+        {
+            "name": "Urtica pilulifera L.",
+            "id": "1360831",
+            "score": 0.00142
+        },
+        {
+            "name": "Lamium album L.",
+            "id": "1393423",
+            "score": 0.0011
+        }
+    ]
+}

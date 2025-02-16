@@ -1,0 +1,90 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Acer platanoides L.",
+            "id": "1397301",
+            "score": 0.54515
+        },
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.3126
+        },
+        {
+            "name": "Fraxinus americana L.",
+            "id": "1397619",
+            "score": 0.01908
+        },
+        {
+            "name": "Liriodendron tulipifera L.",
+            "id": "1393614",
+            "score": 0.01628
+        },
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.01532
+        },
+        {
+            "name": "Acer saccharum Marshall",
+            "id": "1390591",
+            "score": 0.01509
+        },
+        {
+            "name": "Fraxinus angustifolia Vahl",
+            "id": "1362009",
+            "score": 0.0128
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.0117
+        },
+        {
+            "name": "Quercus robur L.",
+            "id": "1357413",
+            "score": 0.00728
+        },
+        {
+            "name": "Tilia cordata Mill.",
+            "id": "1396797",
+            "score": 0.00704
+        },
+        {
+            "name": "Tilia platyphyllos Scop.",
+            "id": "1396802",
+            "score": 0.00512
+        },
+        {
+            "name": "Tilia americana L.",
+            "id": "1397800",
+            "score": 0.00311
+        },
+        {
+            "name": "Quercus acutissima Carruth.",
+            "id": "1419069",
+            "score": 0.00152
+        },
+        {
+            "name": "Quercus palustris Münchh.",
+            "id": "1397592",
+            "score": 0.00132
+        },
+        {
+            "name": "Catalpa bignonioides Walter",
+            "id": "1388727",
+            "score": 0.00129
+        },
+        {
+            "name": "Quercus cerris L.",
+            "id": "1395020",
+            "score": 0.00114
+        },
+        {
+            "name": "Quercus rubra L.",
+            "id": "1395035",
+            "score": 0.00105
+        }
+    ]
+}

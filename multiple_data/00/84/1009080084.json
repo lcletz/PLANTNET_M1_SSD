@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Parnassia palustris L.",
+            "id": "1359835",
+            "score": 0.89499
+        },
+        {
+            "name": "Parnassia glauca Raf.",
+            "id": "1412954",
+            "score": 0.00632
+        },
+        {
+            "name": "Saxifraga aspera L.",
+            "id": "1395945",
+            "score": 0.00265
+        },
+        {
+            "name": "Limnanthes floccosa Howell",
+            "id": "1433927",
+            "score": 0.00204
+        },
+        {
+            "name": "Fragaria viridis Weston",
+            "id": "1397387",
+            "score": 0.00188
+        },
+        {
+            "name": "Ranunculus alpestris L.",
+            "id": "1397471",
+            "score": 0.00175
+        }
+    ]
+}

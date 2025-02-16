@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.60968
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.12221
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.07173
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.03252
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.01873
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.01708
+        },
+        {
+            "name": "Prunus fruticosa Pall.",
+            "id": "1394939",
+            "score": 0.00483
+        },
+        {
+            "name": "Prunus × syriaca Borkh.",
+            "id": "1741908",
+            "score": 0.00288
+        },
+        {
+            "name": "Prunus mume (Siebold) Siebold & Zucc.",
+            "id": "1420419",
+            "score": 0.00236
+        },
+        {
+            "name": "Spiraea thunbergii Siebold ex Blume",
+            "id": "1413895",
+            "score": 0.00163
+        },
+        {
+            "name": "Citrus trifoliata L.",
+            "id": "1682410",
+            "score": 0.00159
+        },
+        {
+            "name": "Prunus × fruticans Weihe",
+            "id": "1667948",
+            "score": 0.00158
+        },
+        {
+            "name": "Prunus brigantina Vill.",
+            "id": "1394945",
+            "score": 0.00149
+        },
+        {
+            "name": "Prunus × subhirtella Miq.",
+            "id": "1721663",
+            "score": 0.00104
+        },
+        {
+            "name": "Filipendula vulgaris Moench",
+            "id": "1360297",
+            "score": 0.00104
+        }
+    ]
+}

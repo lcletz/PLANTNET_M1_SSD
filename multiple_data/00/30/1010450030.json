@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.89152
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.03717
+        },
+        {
+            "name": "Prunus serotina Ehrh.",
+            "id": "1370859",
+            "score": 0.03421
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.00285
+        },
+        {
+            "name": "Amelanchier ovalis Medik.",
+            "id": "1360275",
+            "score": 0.00264
+        },
+        {
+            "name": "Amelanchier × spicata (Lam.) K.Koch",
+            "id": "1843656",
+            "score": 0.00242
+        },
+        {
+            "name": "Amelanchier alnifolia (Nutt.) Nutt. ex M.Roem.",
+            "id": "1420336",
+            "score": 0.00185
+        },
+        {
+            "name": "Amelanchier canadensis (L.) Medik.",
+            "id": "1397734",
+            "score": 0.00184
+        },
+        {
+            "name": "Prunus pensylvanica L.f.",
+            "id": "1420421",
+            "score": 0.00094
+        }
+    ]
+}

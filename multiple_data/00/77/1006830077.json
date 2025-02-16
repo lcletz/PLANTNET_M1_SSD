@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus serrulata Lindl.",
+            "id": "1394953",
+            "score": 0.9581
+        },
+        {
+            "name": "Prunus triloba Lindl.",
+            "id": "1398678",
+            "score": 0.03109
+        },
+        {
+            "name": "Prunus × yedoensis Matsum.",
+            "id": "1668075",
+            "score": 0.00577
+        },
+        {
+            "name": "Prunus × subhirtella Miq.",
+            "id": "1721663",
+            "score": 0.00329
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.0022
+        },
+        {
+            "name": "Tabebuia rosea (Bertol.) Bertero ex A.DC.",
+            "id": "1418008",
+            "score": 0.00125
+        },
+        {
+            "name": "Prunus persica (L.) Batsch",
+            "id": "1363997",
+            "score": 0.00073
+        },
+        {
+            "name": "Prunus sargentii Rehder",
+            "id": "1420426",
+            "score": 0.0006
+        },
+        {
+            "name": "Prunus campanulata Maxim.",
+            "id": "1420402",
+            "score": 0.00039
+        },
+        {
+            "name": "Prunus glandulosa Thunb.",
+            "id": "1413348",
+            "score": 0.00038
+        }
+    ]
+}

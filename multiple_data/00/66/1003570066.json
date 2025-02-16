@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Equisetum arvense L.",
+            "id": "1356394",
+            "score": 0.81216
+        },
+        {
+            "name": "Equisetum pratense Ehrh.",
+            "id": "1391990",
+            "score": 0.0461
+        },
+        {
+            "name": "Equisetum telmateia Ehrh.",
+            "id": "1356398",
+            "score": 0.03999
+        },
+        {
+            "name": "Equisetum fluviatile L.",
+            "id": "1356395",
+            "score": 0.01747
+        },
+        {
+            "name": "Equisetum sylvaticum L.",
+            "id": "1391994",
+            "score": 0.00674
+        },
+        {
+            "name": "Equisetum palustre L.",
+            "id": "1391989",
+            "score": 0.004
+        },
+        {
+            "name": "Cynosurus cristatus L.",
+            "id": "1361225",
+            "score": 0.00125
+        },
+        {
+            "name": "Ceratophyllum demersum L.",
+            "id": "1357093",
+            "score": 0.00116
+        }
+    ]
+}

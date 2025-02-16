@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Crassula ovata (Mill.) Druce",
+            "id": "1363615",
+            "score": 0.87249
+        },
+        {
+            "name": "Crassula arborescens (Mill.) Willd.",
+            "id": "1418509",
+            "score": 0.05866
+        },
+        {
+            "name": "Cotyledon orbiculata L.",
+            "id": "1391424",
+            "score": 0.01591
+        },
+        {
+            "name": "Crassula multicava Lem.",
+            "id": "1363618",
+            "score": 0.01316
+        },
+        {
+            "name": "Sedum praealtum A.DC.",
+            "id": "1529305",
+            "score": 0.00177
+        }
+    ]
+}

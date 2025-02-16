@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hordeum vulgare L.",
+            "id": "1363481",
+            "score": 0.83617
+        },
+        {
+            "name": "Oryza sativa L.",
+            "id": "1363477",
+            "score": 0.03837
+        },
+        {
+            "name": "Triticum aestivum L.",
+            "id": "1363483",
+            "score": 0.01587
+        },
+        {
+            "name": "Secale cereale L.",
+            "id": "1363451",
+            "score": 0.01027
+        },
+        {
+            "name": "Typha × glauca Godr.",
+            "id": "1694379",
+            "score": 0.00243
+        },
+        {
+            "name": "Hordeum spontaneum K.Koch",
+            "id": "1425101",
+            "score": 0.00183
+        },
+        {
+            "name": "Stipellula capensis (Thunb.) Röser & Hamasha",
+            "id": "1722444",
+            "score": 0.00159
+        },
+        {
+            "name": "Triticum monococcum L.",
+            "id": "1363485",
+            "score": 0.00148
+        },
+        {
+            "name": "Hordeum murinum L.",
+            "id": "1361307",
+            "score": 0.00144
+        },
+        {
+            "name": "Avena fatua L.",
+            "id": "1363468",
+            "score": 0.00103
+        }
+    ]
+}

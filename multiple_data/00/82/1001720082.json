@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iris lutescens Lam.",
+            "id": "1362462",
+            "score": 0.91608
+        },
+        {
+            "name": "Iris pumila L.",
+            "id": "1398617",
+            "score": 0.04282
+        },
+        {
+            "name": "Iris pseudacorus L.",
+            "id": "1361543",
+            "score": 0.00429
+        },
+        {
+            "name": "Iris pseudopumila Tineo",
+            "id": "1399635",
+            "score": 0.00299
+        },
+        {
+            "name": "Iris reichenbachii Heuff.",
+            "id": "1556876",
+            "score": 0.00251
+        },
+        {
+            "name": "Iris × germanica L.",
+            "id": "1556750",
+            "score": 0.00188
+        },
+        {
+            "name": "Iris humilis Georgi",
+            "id": "1383889",
+            "score": 0.00152
+        },
+        {
+            "name": "Iris variegata L.",
+            "id": "1397946",
+            "score": 0.00135
+        }
+    ]
+}

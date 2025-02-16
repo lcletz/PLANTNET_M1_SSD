@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ribes sanguineum Pursh",
+            "id": "1395204",
+            "score": 0.88252
+        },
+        {
+            "name": "Rubus spectabilis Pursh",
+            "id": "1395613",
+            "score": 0.00308
+        },
+        {
+            "name": "Ribes nevadense Kellogg",
+            "id": "1437374",
+            "score": 0.00285
+        },
+        {
+            "name": "Acer opalus Mill.",
+            "id": "1362399",
+            "score": 0.00161
+        },
+        {
+            "name": "Ribes alpinum L.",
+            "id": "1358682",
+            "score": 0.00115
+        },
+        {
+            "name": "Aesculus pavia L.",
+            "id": "1389544",
+            "score": 0.00113
+        },
+        {
+            "name": "Ribes nigrum L.",
+            "id": "1395200",
+            "score": 0.00112
+        },
+        {
+            "name": "Ribes uva-crispa L.",
+            "id": "1358684",
+            "score": 0.0011
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Papaver somniferum L.",
+            "id": "1363130",
+            "score": 0.85336
+        },
+        {
+            "name": "Papaver orientale L.",
+            "id": "1394404",
+            "score": 0.10016
+        },
+        {
+            "name": "Papaver rhoeas L.",
+            "id": "1363128",
+            "score": 0.00555
+        },
+        {
+            "name": "Roemeria argemone (L.) C.Morales, R.Mend. & Romero García",
+            "id": "1737479",
+            "score": 0.00236
+        },
+        {
+            "name": "Papaver bracteatum Lindl.",
+            "id": "1398594",
+            "score": 0.00159
+        },
+        {
+            "name": "Papaver dubium L.",
+            "id": "1363129",
+            "score": 0.00139
+        },
+        {
+            "name": "Papaver setiferum Goldblatt",
+            "id": "1737543",
+            "score": 0.00137
+        }
+    ]
+}

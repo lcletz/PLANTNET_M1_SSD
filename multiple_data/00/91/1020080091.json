@@ -1,0 +1,55 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Lotus hirsutus L.",
+            "id": "1743246",
+            "score": 0.52693
+        },
+        {
+            "name": "Vicia benghalensis L.",
+            "id": "1363670",
+            "score": 0.00562
+        },
+        {
+            "name": "Trifolium stellatum L.",
+            "id": "1359525",
+            "score": 0.00336
+        },
+        {
+            "name": "Lotus dorycnium L.",
+            "id": "1743245",
+            "score": 0.00283
+        },
+        {
+            "name": "Anthyllis vulneraria L.",
+            "id": "1356330",
+            "score": 0.00281
+        },
+        {
+            "name": "Convolvulus lanuginosus Desr.",
+            "id": "1357980",
+            "score": 0.00227
+        },
+        {
+            "name": "Lotus herbaceus (Vill.) Jauzein",
+            "id": "1362716",
+            "score": 0.00198
+        },
+        {
+            "name": "Lotus rectus L.",
+            "id": "1743242",
+            "score": 0.00184
+        },
+        {
+            "name": "Lotus parviflorus Desf.",
+            "id": "1359321",
+            "score": 0.00156
+        },
+        {
+            "name": "Anthyllis montana L.",
+            "id": "1359086",
+            "score": 0.00101
+        }
+    ]
+}

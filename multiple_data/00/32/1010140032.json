@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Quercus palustris Münchh.",
+            "id": "1397592",
+            "score": 0.94979
+        },
+        {
+            "name": "Quercus rubra L.",
+            "id": "1395035",
+            "score": 0.02396
+        },
+        {
+            "name": "Quercus coccinea Münchh.",
+            "id": "1397716",
+            "score": 0.00891
+        },
+        {
+            "name": "Quercus velutina Lam.",
+            "id": "1398376",
+            "score": 0.00422
+        },
+        {
+            "name": "Quercus falcata Michx.",
+            "id": "1419072",
+            "score": 0.00242
+        },
+        {
+            "name": "Quercus cerris L.",
+            "id": "1395020",
+            "score": 0.00143
+        },
+        {
+            "name": "Quercus macrocarpa Michx.",
+            "id": "1413406",
+            "score": 0.00133
+        },
+        {
+            "name": "Quercus buckleyi Nixon & Dorr",
+            "id": "1437095",
+            "score": 0.0011
+        }
+    ]
+}

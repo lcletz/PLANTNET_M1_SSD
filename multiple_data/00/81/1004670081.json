@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rosa spinosissima L.",
+            "id": "1360350",
+            "score": 0.93537
+        },
+        {
+            "name": "Rosa webbiana Wall. ex Royle",
+            "id": "1668440",
+            "score": 0.0031
+        },
+        {
+            "name": "Rosa xanthina Lindl.",
+            "id": "1395238",
+            "score": 0.00164
+        },
+        {
+            "name": "Rosa villosa L.",
+            "id": "1395371",
+            "score": 0.00154
+        },
+        {
+            "name": "Rosa sericea Lindl.",
+            "id": "1395236",
+            "score": 0.00108
+        }
+    ]
+}

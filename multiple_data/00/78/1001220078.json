@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viburnum tinus L.",
+            "id": "1356793",
+            "score": 0.76699
+        },
+        {
+            "name": "Viburnum rugosum Pers.",
+            "id": "1722512",
+            "score": 0.11398
+        },
+        {
+            "name": "Viburnum treleasei Gand.",
+            "id": "1748131",
+            "score": 0.00659
+        },
+        {
+            "name": "Viburnum davidi Franch.",
+            "id": "1774594",
+            "score": 0.00506
+        },
+        {
+            "name": "Cissus erosa Rich.",
+            "id": "1403710",
+            "score": 0.00146
+        },
+        {
+            "name": "Viburnum cinnamomifolium Rehder",
+            "id": "1447847",
+            "score": 0.001
+        }
+    ]
+}

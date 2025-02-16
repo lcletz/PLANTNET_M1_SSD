@@ -1,0 +1,95 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Solanum villosum Mill.",
+            "id": "1361993",
+            "score": 0.79869
+        },
+        {
+            "name": "Solanum nigrum L.",
+            "id": "1356167",
+            "score": 0.36644
+        },
+        {
+            "name": "Solanum chenopodioides Lam.",
+            "id": "1356162",
+            "score": 0.04865
+        },
+        {
+            "name": "Solanum americanum Mill.",
+            "id": "1360564",
+            "score": 0.03498
+        },
+        {
+            "name": "Solanum alatum Moench",
+            "id": "1738799",
+            "score": 0.01132
+        },
+        {
+            "name": "Solanum pseudocapsicum L.",
+            "id": "1356168",
+            "score": 0.0046
+        },
+        {
+            "name": "Capsicum annuum L.",
+            "id": "1361992",
+            "score": 0.00424
+        },
+        {
+            "name": "Viburnum opulus L.",
+            "id": "1361743",
+            "score": 0.00322
+        },
+        {
+            "name": "Solanum × procurrens A.C.Leslie",
+            "id": "1738945",
+            "score": 0.00226
+        },
+        {
+            "name": "Solanum nigrescens M.Martens & Galeotti",
+            "id": "1405221",
+            "score": 0.00211
+        },
+        {
+            "name": "Solanum violaceum Ortega",
+            "id": "1408711",
+            "score": 0.00176
+        },
+        {
+            "name": "Solanum anguivi Lam.",
+            "id": "1377894",
+            "score": 0.00137
+        },
+        {
+            "name": "Solanum torvum Sw.",
+            "id": "1377910",
+            "score": 0.00128
+        },
+        {
+            "name": "Ribes aureum Pursh",
+            "id": "1397291",
+            "score": 0.00123
+        },
+        {
+            "name": "Solanum douglasii Dunal",
+            "id": "1438373",
+            "score": 0.00116
+        },
+        {
+            "name": "Bryonia cretica L.",
+            "id": "1358446",
+            "score": 0.00093
+        },
+        {
+            "name": "Viburnum sargentii Koehne",
+            "id": "1447924",
+            "score": 0.0006
+        },
+        {
+            "name": "Hedera helix L.",
+            "id": "1363575",
+            "score": 0.00056
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Avena fatua L.",
+            "id": "1363468",
+            "score": 0.71531
+        },
+        {
+            "name": "Avena barbata Pott ex Link",
+            "id": "1363467",
+            "score": 0.23654
+        },
+        {
+            "name": "Avena sterilis L.",
+            "id": "1361190",
+            "score": 0.01727
+        },
+        {
+            "name": "Avena sativa L.",
+            "id": "1363469",
+            "score": 0.00317
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagopyrum esculentum Moench",
+            "id": "1356095",
+            "score": 0.88141
+        },
+        {
+            "name": "Fagopyrum tataricum (L.) Gaertn.",
+            "id": "1392244",
+            "score": 0.01777
+        },
+        {
+            "name": "Persicaria maculosa Gray",
+            "id": "1356094",
+            "score": 0.00271
+        },
+        {
+            "name": "Fallopia convolvulus (L.) Á.Löve",
+            "id": "1392250",
+            "score": 0.00241
+        },
+        {
+            "name": "Fagopyrum cymosum (Trevir.) Meisn.",
+            "id": "1721554",
+            "score": 0.0012
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Acer platanoides L.",
+            "id": "1397301",
+            "score": 0.89303
+        },
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.02707
+        },
+        {
+            "name": "Acer opalus Mill.",
+            "id": "1362399",
+            "score": 0.01652
+        },
+        {
+            "name": "Acer rubrum L.",
+            "id": "1398406",
+            "score": 0.01142
+        },
+        {
+            "name": "Acer japonicum Thunb.",
+            "id": "1390723",
+            "score": 0.0055
+        },
+        {
+            "name": "Sassafras albidum (Nutt.) Nees",
+            "id": "1413669",
+            "score": 0.00378
+        },
+        {
+            "name": "Acer macrophyllum Pursh",
+            "id": "1412158",
+            "score": 0.00265
+        },
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.00169
+        },
+        {
+            "name": "Acer pseudoplatanus L.",
+            "id": "1356460",
+            "score": 0.00163
+        },
+        {
+            "name": "Cornus officinalis Siebold & Zucc.",
+            "id": "1418495",
+            "score": 0.00147
+        },
+        {
+            "name": "Acer monspessulanum L.",
+            "id": "1356457",
+            "score": 0.00132
+        },
+        {
+            "name": "Cornus mas L.",
+            "id": "1391354",
+            "score": 0.00116
+        }
+    ]
+}

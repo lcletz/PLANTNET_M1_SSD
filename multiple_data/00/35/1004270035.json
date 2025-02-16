@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Himantoglossum hircinum (L.) Spreng.",
+            "id": "1361650",
+            "score": 0.8845
+        },
+        {
+            "name": "Himantoglossum adriaticum H.Baumann",
+            "id": "1623684",
+            "score": 0.03838
+        },
+        {
+            "name": "Habenaria humilior Rchb.f.",
+            "id": "1623190",
+            "score": 0.00184
+        },
+        {
+            "name": "Orchis anthropophora (L.) All.",
+            "id": "1361673",
+            "score": 0.00169
+        },
+        {
+            "name": "Orchis militaris L.",
+            "id": "1394279",
+            "score": 0.0014
+        },
+        {
+            "name": "Habenaria schimperiana Hochst. ex A.Rich.",
+            "id": "1623470",
+            "score": 0.0012
+        },
+        {
+            "name": "Platanthera leucophaea (Nutt.) Lindl.",
+            "id": "1413126",
+            "score": 0.00112
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.68109
+        },
+        {
+            "name": "Fagus orientalis Lipsky",
+            "id": "1547791",
+            "score": 0.1877
+        },
+        {
+            "name": "Fagus grandifolia Ehrh.",
+            "id": "1412056",
+            "score": 0.02265
+        },
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.0034
+        },
+        {
+            "name": "Hamamelis virginiana L.",
+            "id": "1397621",
+            "score": 0.00211
+        },
+        {
+            "name": "Fagus engleriana Seemen ex Diels",
+            "id": "1547786",
+            "score": 0.00182
+        },
+        {
+            "name": "Fagus lucida Rehder & E.H.Wilson",
+            "id": "1547790",
+            "score": 0.00144
+        },
+        {
+            "name": "Fagus crenata Blume",
+            "id": "1419065",
+            "score": 0.00139
+        },
+        {
+            "name": "Fagus sinensis Oliv.",
+            "id": "1772808",
+            "score": 0.00137
+        },
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.00135
+        },
+        {
+            "name": "Nyssa sylvatica Marshall",
+            "id": "1412837",
+            "score": 0.00134
+        },
+        {
+            "name": "Quercus bicolor Willd.",
+            "id": "1413402",
+            "score": 0.00108
+        }
+    ]
+}

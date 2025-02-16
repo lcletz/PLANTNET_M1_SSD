@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rosa banksiae R.Br.",
+            "id": "1420444",
+            "score": 0.64434
+        },
+        {
+            "name": "Kerria japonica (L.) DC.",
+            "id": "1393375",
+            "score": 0.00572
+        },
+        {
+            "name": "Rosa abietina Gren. ex Christ",
+            "id": "1741909",
+            "score": 0.00236
+        },
+        {
+            "name": "Rosa multiflora Thunb.",
+            "id": "1360345",
+            "score": 0.00112
+        },
+        {
+            "name": "Rosa moschata Herrm.",
+            "id": "1360344",
+            "score": 0.00104
+        }
+    ]
+}

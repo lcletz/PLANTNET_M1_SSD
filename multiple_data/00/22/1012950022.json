@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Plantago lanceolata L.",
+            "id": "1356066",
+            "score": 0.74306
+        },
+        {
+            "name": "Plantago argentea Chaix",
+            "id": "1394627",
+            "score": 0.12631
+        },
+        {
+            "name": "Plantago ovata Forssk.",
+            "id": "1356072",
+            "score": 0.03815
+        },
+        {
+            "name": "Plantago lagopus L.",
+            "id": "1359959",
+            "score": 0.01972
+        },
+        {
+            "name": "Plantago media L.",
+            "id": "1394636",
+            "score": 0.01111
+        },
+        {
+            "name": "Plantago monosperma Pourr.",
+            "id": "1394638",
+            "score": 0.00321
+        },
+        {
+            "name": "Arnica chamissonis Less.",
+            "id": "1413399",
+            "score": 0.0014
+        }
+    ]
+}

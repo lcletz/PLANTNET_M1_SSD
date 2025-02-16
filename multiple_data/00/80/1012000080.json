@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rubus caesius L.",
+            "id": "1360354",
+            "score": 0.91307
+        },
+        {
+            "name": "Rubus fruticosus L.",
+            "id": "1395477",
+            "score": 0.0031
+        },
+        {
+            "name": "Rubus occidentalis L.",
+            "id": "1413531",
+            "score": 0.0021
+        },
+        {
+            "name": "Rubus saxatilis L.",
+            "id": "1395601",
+            "score": 0.00206
+        },
+        {
+            "name": "Rubus argutus Link",
+            "id": "1421896",
+            "score": 0.00129
+        }
+    ]
+}

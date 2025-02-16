@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lycopsis arvensis L.",
+            "id": "1393704",
+            "score": 0.35387
+        },
+        {
+            "name": "Echium calycinum Viv.",
+            "id": "1391832",
+            "score": 0.00651
+        },
+        {
+            "name": "Borago officinalis L.",
+            "id": "1363835",
+            "score": 0.00405
+        },
+        {
+            "name": "Asperugo procumbens L.",
+            "id": "1356623",
+            "score": 0.00244
+        },
+        {
+            "name": "Buglossoides incrassata (Guss.) I.M.Johnst.",
+            "id": "1389336",
+            "score": 0.00233
+        },
+        {
+            "name": "Veronica arvensis L.",
+            "id": "1364063",
+            "score": 0.00147
+        },
+        {
+            "name": "Buglossoides arvensis (L.) I.M.Johnst.",
+            "id": "1389576",
+            "score": 0.00105
+        }
+    ]
+}

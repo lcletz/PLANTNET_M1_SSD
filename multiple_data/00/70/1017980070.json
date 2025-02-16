@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Saponaria officinalis L.",
+            "id": "1356803",
+            "score": 0.88934
+        },
+        {
+            "name": "Dianthus barbatus L.",
+            "id": "1397367",
+            "score": 0.00538
+        },
+        {
+            "name": "Silene noctiflora L.",
+            "id": "1363341",
+            "score": 0.00334
+        },
+        {
+            "name": "Silene latifolia Poir.",
+            "id": "1357009",
+            "score": 0.00243
+        },
+        {
+            "name": "Antirrhinum majus L.",
+            "id": "1359845",
+            "score": 0.00209
+        },
+        {
+            "name": "Zinnia elegans Jacq.",
+            "id": "1374114",
+            "score": 0.00188
+        },
+        {
+            "name": "Zinnia peruviana (L.) L.",
+            "id": "1374113",
+            "score": 0.0016
+        },
+        {
+            "name": "Zinnia haageana Regel",
+            "id": "1397251",
+            "score": 0.00152
+        },
+        {
+            "name": "Gentiana cruciata L.",
+            "id": "1397392",
+            "score": 0.00115
+        },
+        {
+            "name": "Baccharis trinervis Pers.",
+            "id": "1712606",
+            "score": 0.00111
+        }
+    ]
+}

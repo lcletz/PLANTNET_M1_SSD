@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dianthus deltoides L.",
+            "id": "1397368",
+            "score": 0.93877
+        },
+        {
+            "name": "Dianthus armeria L.",
+            "id": "1397366",
+            "score": 0.03349
+        },
+        {
+            "name": "Dianthus seguieri Vill.",
+            "id": "1397371",
+            "score": 0.00648
+        },
+        {
+            "name": "Dianthus carthusianorum L.",
+            "id": "1391680",
+            "score": 0.00565
+        },
+        {
+            "name": "Dianthus diffusus Sm.",
+            "id": "1492584",
+            "score": 0.0021
+        }
+    ]
+}

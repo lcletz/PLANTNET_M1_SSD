@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Physalis alkekengi L.",
+            "id": "1360561",
+            "score": 0.38587
+        },
+        {
+            "name": "Capsicum annuum L.",
+            "id": "1361992",
+            "score": 0.00489
+        },
+        {
+            "name": "Lysimachia punctata L.",
+            "id": "1397433",
+            "score": 0.00411
+        },
+        {
+            "name": "Philadelphus coronarius L.",
+            "id": "1394509",
+            "score": 0.00236
+        },
+        {
+            "name": "Solanum tuberosum L.",
+            "id": "1356171",
+            "score": 0.00187
+        },
+        {
+            "name": "Physalis peruviana L.",
+            "id": "1356153",
+            "score": 0.00122
+        }
+    ]
+}

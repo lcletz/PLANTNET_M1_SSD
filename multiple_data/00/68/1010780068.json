@@ -1,0 +1,105 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.67178
+        },
+        {
+            "name": "Phalaris arundinacea L.",
+            "id": "1363490",
+            "score": 0.03981
+        },
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.02841
+        },
+        {
+            "name": "Holcus lanatus L.",
+            "id": "1363460",
+            "score": 0.0145
+        },
+        {
+            "name": "Koeleria pyramidata (Lam.) P.Beauv.",
+            "id": "1393407",
+            "score": 0.00457
+        },
+        {
+            "name": "Calamagrostis epigejos (L.) Roth",
+            "id": "1379532",
+            "score": 0.00418
+        },
+        {
+            "name": "Poa bonariensis (Lam.) Kunth",
+            "id": "1654035",
+            "score": 0.00399
+        },
+        {
+            "name": "Poa trivialis L.",
+            "id": "1363459",
+            "score": 0.00348
+        },
+        {
+            "name": "Agrostis capillaris L.",
+            "id": "1361133",
+            "score": 0.00329
+        },
+        {
+            "name": "Calamagrostis canescens (Weber) Roth",
+            "id": "1397331",
+            "score": 0.00308
+        },
+        {
+            "name": "Luzula sylvatica (Huds.) Gaudin",
+            "id": "1397430",
+            "score": 0.0027
+        },
+        {
+            "name": "Alopecurus pratensis L.",
+            "id": "1362406",
+            "score": 0.00232
+        },
+        {
+            "name": "Arrhenatherum elatius (L.) P.Beauv. ex J.Presl & C.Presl",
+            "id": "1396638",
+            "score": 0.00227
+        },
+        {
+            "name": "Poa alpina L.",
+            "id": "1361367",
+            "score": 0.00223
+        },
+        {
+            "name": "Cynosurus cristatus L.",
+            "id": "1361225",
+            "score": 0.00184
+        },
+        {
+            "name": "Briza media L.",
+            "id": "1361195",
+            "score": 0.00147
+        },
+        {
+            "name": "Agrostis gigantea Roth",
+            "id": "1363472",
+            "score": 0.00134
+        },
+        {
+            "name": "Poa palustris L.",
+            "id": "1394677",
+            "score": 0.00126
+        },
+        {
+            "name": "Poa angustifolia L.",
+            "id": "1654010",
+            "score": 0.00116
+        },
+        {
+            "name": "Luzula pediformis (Chaix) DC.",
+            "id": "1393687",
+            "score": 0.00109
+        }
+    ]
+}

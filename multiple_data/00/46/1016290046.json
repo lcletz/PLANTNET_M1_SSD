@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Clematis cirrhosa L.",
+            "id": "1360158",
+            "score": 0.93214
+        },
+        {
+            "name": "Clematis montana Buch.-Ham. ex DC.",
+            "id": "1391296",
+            "score": 0.0026
+        },
+        {
+            "name": "Clematis alpina (L.) Mill.",
+            "id": "1397354",
+            "score": 0.00183
+        },
+        {
+            "name": "Helleborus niger L.",
+            "id": "1397560",
+            "score": 0.00143
+        },
+        {
+            "name": "Clematis mauritiana Lam.",
+            "id": "1407827",
+            "score": 0.00117
+        }
+    ]
+}

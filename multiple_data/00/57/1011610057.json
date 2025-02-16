@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Mentha arvensis L.",
+            "id": "1358785",
+            "score": 0.91995
+        },
+        {
+            "name": "Mentha pulegium L.",
+            "id": "1356106",
+            "score": 0.02602
+        },
+        {
+            "name": "Mentha × verticillata L.",
+            "id": "1560697",
+            "score": 0.00483
+        },
+        {
+            "name": "Mentha × gracilis Sole",
+            "id": "1737423",
+            "score": 0.00338
+        },
+        {
+            "name": "Mentha spicata L.",
+            "id": "1358788",
+            "score": 0.00316
+        },
+        {
+            "name": "Mentha canadensis L.",
+            "id": "1560671",
+            "score": 0.00298
+        },
+        {
+            "name": "Mentha aquatica L.",
+            "id": "1356105",
+            "score": 0.00237
+        },
+        {
+            "name": "Lycopus europaeus L.",
+            "id": "1358770",
+            "score": 0.00159
+        }
+    ]
+}

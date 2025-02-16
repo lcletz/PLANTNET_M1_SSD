@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lysimachia punctata L.",
+            "id": "1397433",
+            "score": 0.77417
+        },
+        {
+            "name": "Lysimachia vulgaris L.",
+            "id": "1361863",
+            "score": 0.08127
+        },
+        {
+            "name": "Lysimachia ephemerum L.",
+            "id": "1361862",
+            "score": 0.00228
+        },
+        {
+            "name": "Oenothera fruticosa L.",
+            "id": "1398605",
+            "score": 0.00189
+        },
+        {
+            "name": "Lysimachia quadrifolia L.",
+            "id": "1412641",
+            "score": 0.00123
+        },
+        {
+            "name": "Oenothera biennis L.",
+            "id": "1361953",
+            "score": 0.00117
+        },
+        {
+            "name": "Lysimachia ciliata L.",
+            "id": "1393707",
+            "score": 0.00112
+        }
+    ]
+}

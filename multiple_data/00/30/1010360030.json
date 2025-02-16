@@ -1,0 +1,105 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hordeum murinum L.",
+            "id": "1361307",
+            "score": 0.70012
+        },
+        {
+            "name": "Hordeum jubatum L.",
+            "id": "1397404",
+            "score": 0.04475
+        },
+        {
+            "name": "Hordeum comosum J.Presl",
+            "id": "1651900",
+            "score": 0.02639
+        },
+        {
+            "name": "Hordeum marinum Huds.",
+            "id": "1361306",
+            "score": 0.02083
+        },
+        {
+            "name": "Hordeum secalinum Schreb.",
+            "id": "1361308",
+            "score": 0.00861
+        },
+        {
+            "name": "Hordeum bulbosum L.",
+            "id": "1361304",
+            "score": 0.00846
+        },
+        {
+            "name": "Crithopsis delileana (Schult.) Roshev.",
+            "id": "1361216",
+            "score": 0.00755
+        },
+        {
+            "name": "Stipellula capensis (Thunb.) Röser & Hamasha",
+            "id": "1722444",
+            "score": 0.00603
+        },
+        {
+            "name": "Taeniatherum caput-medusae (L.) Nevski",
+            "id": "1361437",
+            "score": 0.00547
+        },
+        {
+            "name": "Festuca myuros L.",
+            "id": "1720968",
+            "score": 0.00491
+        },
+        {
+            "name": "Festuca fasciculata Forssk.",
+            "id": "1738610",
+            "score": 0.00465
+        },
+        {
+            "name": "Secale cereale L.",
+            "id": "1363451",
+            "score": 0.00378
+        },
+        {
+            "name": "Festuca ambigua Le Gall",
+            "id": "1722435",
+            "score": 0.00378
+        },
+        {
+            "name": "Hordelymus europaeus (L.) Jess. ex Harz",
+            "id": "1651891",
+            "score": 0.0035
+        },
+        {
+            "name": "Hordeum vulgare L.",
+            "id": "1363481",
+            "score": 0.00284
+        },
+        {
+            "name": "Elymus canadensis L.",
+            "id": "1398629",
+            "score": 0.00268
+        },
+        {
+            "name": "Elymus villosus Muhl. ex Willd.",
+            "id": "1406504",
+            "score": 0.00226
+        },
+        {
+            "name": "Aristida adoensis Hochst. ex A.Rich.",
+            "id": "1647871",
+            "score": 0.00216
+        },
+        {
+            "name": "Hordeum pusillum Nutt.",
+            "id": "1393202",
+            "score": 0.00215
+        },
+        {
+            "name": "Bromus madritensis L.",
+            "id": "1422217",
+            "score": 0.00138
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cercis siliquastrum L.",
+            "id": "1359162",
+            "score": 0.5136
+        },
+        {
+            "name": "Cercis canadensis L.",
+            "id": "1397806",
+            "score": 0.32199
+        },
+        {
+            "name": "Cercis occidentalis Torr. ex A.Gray",
+            "id": "1397805",
+            "score": 0.02562
+        },
+        {
+            "name": "Cercis chinensis Bunge",
+            "id": "1418915",
+            "score": 0.01605
+        },
+        {
+            "name": "Cercis glabra Pamp.",
+            "id": "1574666",
+            "score": 0.00254
+        },
+        {
+            "name": "Robinia hispida L.",
+            "id": "1395210",
+            "score": 0.00138
+        }
+    ]
+}

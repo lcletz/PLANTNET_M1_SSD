@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Amaranthus hypochondriacus L.",
+            "id": "1363259",
+            "score": 0.60797
+        },
+        {
+            "name": "Amaranthus caudatus L.",
+            "id": "1363248",
+            "score": 0.24108
+        },
+        {
+            "name": "Amaranthus cruentus L.",
+            "id": "1363249",
+            "score": 0.01925
+        },
+        {
+            "name": "Amaranthus hybridus L.",
+            "id": "1356475",
+            "score": 0.00831
+        },
+        {
+            "name": "Amaranthus tricolor L.",
+            "id": "1363257",
+            "score": 0.00731
+        },
+        {
+            "name": "Celosia argentea L.",
+            "id": "1363271",
+            "score": 0.00587
+        },
+        {
+            "name": "Phytolacca americana L.",
+            "id": "1356062",
+            "score": 0.00169
+        },
+        {
+            "name": "Amaranthus tortuosus Hornem.",
+            "id": "1745420",
+            "score": 0.00126
+        },
+        {
+            "name": "Phytolacca acinosa Roxb.",
+            "id": "1394558",
+            "score": 0.00111
+        },
+        {
+            "name": "Rheum palmatum L.",
+            "id": "1398842",
+            "score": 0.00105
+        }
+    ]
+}

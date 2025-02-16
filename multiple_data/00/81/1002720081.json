@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Quercus rubra L.",
+            "id": "1395035",
+            "score": 0.56287
+        },
+        {
+            "name": "Quercus velutina Lam.",
+            "id": "1398376",
+            "score": 0.25093
+        },
+        {
+            "name": "Quercus palustris Münchh.",
+            "id": "1397592",
+            "score": 0.04752
+        },
+        {
+            "name": "Quercus shumardii Buckley",
+            "id": "1413409",
+            "score": 0.02469
+        },
+        {
+            "name": "Quercus coccinea Münchh.",
+            "id": "1397716",
+            "score": 0.02209
+        },
+        {
+            "name": "Quercus kelloggii Newb.",
+            "id": "1548316",
+            "score": 0.00541
+        },
+        {
+            "name": "Quercus × benderi Baen.",
+            "id": "1548121",
+            "score": 0.0035
+        },
+        {
+            "name": "Quercus ellipsoidalis E.J.Hill",
+            "id": "1419071",
+            "score": 0.00346
+        },
+        {
+            "name": "Acer saccharinum L.",
+            "id": "1391667",
+            "score": 0.00248
+        },
+        {
+            "name": "Quercus texana Buckley",
+            "id": "1437155",
+            "score": 0.00247
+        },
+        {
+            "name": "Quercus cerris L.",
+            "id": "1395020",
+            "score": 0.0023
+        },
+        {
+            "name": "Platanus orientalis L.",
+            "id": "1362358",
+            "score": 0.00185
+        },
+        {
+            "name": "Quercus castaneifolia C.A.Mey.",
+            "id": "1390589",
+            "score": 0.00163
+        },
+        {
+            "name": "Quercus gravesii Sudw.",
+            "id": "1437114",
+            "score": 0.00162
+        },
+        {
+            "name": "Quercus libani G.Olivier",
+            "id": "1548339",
+            "score": 0.00111
+        }
+    ]
+}

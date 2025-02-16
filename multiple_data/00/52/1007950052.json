@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aconitum lycoctonum L.",
+            "id": "1395010",
+            "score": 0.86167
+        },
+        {
+            "name": "Aconitum vulparia Rchb.",
+            "id": "1360146",
+            "score": 0.0692
+        },
+        {
+            "name": "Aconitum anthora L.",
+            "id": "1394604",
+            "score": 0.00325
+        },
+        {
+            "name": "Aconitum moldavicum Hacq.",
+            "id": "1663067",
+            "score": 0.00293
+        },
+        {
+            "name": "Aconitum krylovii Steinb.",
+            "id": "1663035",
+            "score": 0.00216
+        },
+        {
+            "name": "Aconitum leucostomum Vorosch.",
+            "id": "1663050",
+            "score": 0.00209
+        },
+        {
+            "name": "Digitalis lutea L.",
+            "id": "1362533",
+            "score": 0.00161
+        }
+    ]
+}

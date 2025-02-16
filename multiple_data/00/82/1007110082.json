@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Eschscholzia californica Cham.",
+            "id": "1363125",
+            "score": 0.73522
+        },
+        {
+            "name": "Eschscholzia caespitosa Benth.",
+            "id": "1443494",
+            "score": 0.19771
+        },
+        {
+            "name": "Eschscholzia lemmonii Greene",
+            "id": "1443497",
+            "score": 0.00754
+        },
+        {
+            "name": "Eschscholzia lobbii Greene",
+            "id": "1443498",
+            "score": 0.00192
+        },
+        {
+            "name": "Papaver alpinum L.",
+            "id": "1394399",
+            "score": 0.00151
+        },
+        {
+            "name": "Glaucium flavum Crantz",
+            "id": "1359804",
+            "score": 0.00115
+        }
+    ]
+}

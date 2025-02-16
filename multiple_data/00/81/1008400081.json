@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Digitalis grandiflora Mill.",
+            "id": "1391727",
+            "score": 0.9091
+        },
+        {
+            "name": "Digitalis lutea L.",
+            "id": "1362533",
+            "score": 0.02835
+        },
+        {
+            "name": "Digitalis purpurea L.",
+            "id": "1364079",
+            "score": 0.01025
+        },
+        {
+            "name": "Digitalis obscura L.",
+            "id": "1362291",
+            "score": 0.00154
+        }
+    ]
+}

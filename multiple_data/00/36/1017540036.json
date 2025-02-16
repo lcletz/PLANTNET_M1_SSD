@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Papaver setiferum Goldblatt",
+            "id": "1737543",
+            "score": 0.499
+        },
+        {
+            "name": "Papaver rhoeas L.",
+            "id": "1363128",
+            "score": 0.23587
+        },
+        {
+            "name": "Roemeria argemone (L.) C.Morales, R.Mend. & Romero García",
+            "id": "1737479",
+            "score": 0.0896
+        },
+        {
+            "name": "Papaver dubium L.",
+            "id": "1363129",
+            "score": 0.01694
+        },
+        {
+            "name": "Roemeria sicula (Guss.) ined.",
+            "id": "1739196",
+            "score": 0.00412
+        },
+        {
+            "name": "Papaver somniferum L.",
+            "id": "1363130",
+            "score": 0.00275
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Berberis thunbergii DC.",
+            "id": "1400119",
+            "score": 0.87668
+        },
+        {
+            "name": "Berberis vulgaris L.",
+            "id": "1356603",
+            "score": 0.02364
+        },
+        {
+            "name": "Malus × floribunda Siebold ex Van Houtte",
+            "id": "1782760",
+            "score": 0.00296
+        },
+        {
+            "name": "Berberis × ottawensis C.K.Schneid. ex Rehder",
+            "id": "1843811",
+            "score": 0.00283
+        },
+        {
+            "name": "Cotoneaster horizontalis Decne.",
+            "id": "1391410",
+            "score": 0.00124
+        },
+        {
+            "name": "Chaenomeles japonica (Thunb.) Lindl. ex Spach",
+            "id": "1391103",
+            "score": 0.0011
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Petasites hybridus (L.) G.Gaertn., B.Mey. & Scherb.",
+            "id": "1711822",
+            "score": 0.79425
+        },
+        {
+            "name": "Petasites japonicus (Siebold & Zucc.) Maxim.",
+            "id": "1398589",
+            "score": 0.08805
+        },
+        {
+            "name": "Tussilago farfara L.",
+            "id": "1357950",
+            "score": 0.04752
+        },
+        {
+            "name": "Petasites albus (L.) Gaertn.",
+            "id": "1361771",
+            "score": 0.02431
+        },
+        {
+            "name": "Petasites paradoxus (Retz.) Baumg.",
+            "id": "1361772",
+            "score": 0.00713
+        },
+        {
+            "name": "Arctium lappa L.",
+            "id": "1396002",
+            "score": 0.00116
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Meconopsis cambrica (L.) Vig.",
+            "id": "1393763",
+            "score": 0.36371
+        },
+        {
+            "name": "Papaver dubium L.",
+            "id": "1363129",
+            "score": 0.01474
+        },
+        {
+            "name": "Eschscholzia californica Cham.",
+            "id": "1363125",
+            "score": 0.00734
+        },
+        {
+            "name": "Convolvulus sepium L.",
+            "id": "1391341",
+            "score": 0.00549
+        },
+        {
+            "name": "Papaver argemone L.",
+            "id": "1363126",
+            "score": 0.005
+        },
+        {
+            "name": "Papaver rhoeas L.",
+            "id": "1363128",
+            "score": 0.00328
+        }
+    ]
+}

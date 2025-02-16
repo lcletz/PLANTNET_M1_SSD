@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Borago officinalis L.",
+            "id": "1363835",
+            "score": 0.81239
+        },
+        {
+            "name": "Borago pygmaea (DC.) Chater & Greuter",
+            "id": "1400186",
+            "score": 0.07418
+        },
+        {
+            "name": "Anchusa azurea Mill.",
+            "id": "1363832",
+            "score": 0.00189
+        },
+        {
+            "name": "Pentaglottis sempervirens (L.) Tausch ex L.H.Bailey",
+            "id": "1394459",
+            "score": 0.00104
+        },
+        {
+            "name": "Symphytum × uplandicum Nyman",
+            "id": "1478916",
+            "score": 0.00103
+        }
+    ]
+}

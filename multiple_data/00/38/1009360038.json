@@ -1,0 +1,365 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Erigeron sumatrensis Retz.",
+            "id": "1355908",
+            "score": 0.22295
+        },
+        {
+            "name": "Erigeron canadensis L.",
+            "id": "1392041",
+            "score": 0.20024
+        },
+        {
+            "name": "Dittrichia viscosa (L.) Greuter",
+            "id": "1357560",
+            "score": 0.06333
+        },
+        {
+            "name": "Solidago virgaurea L.",
+            "id": "1357872",
+            "score": 0.04169
+        },
+        {
+            "name": "Erigeron floribundus (Kunth) Sch.Bip.",
+            "id": "1388806",
+            "score": 0.03919
+        },
+        {
+            "name": "Solidago bicolor L.",
+            "id": "1413841",
+            "score": 0.02933
+        },
+        {
+            "name": "Senecio sylvaticus L.",
+            "id": "1357868",
+            "score": 0.02895
+        },
+        {
+            "name": "Erigeron bonariensis L.",
+            "id": "1355905",
+            "score": 0.02633
+        },
+        {
+            "name": "Solidago puberula Nutt.",
+            "id": "1413857",
+            "score": 0.0169
+        },
+        {
+            "name": "Rumex crispus L.",
+            "id": "1356079",
+            "score": 0.01662
+        },
+        {
+            "name": "Verbascum lychnitis L.",
+            "id": "1360531",
+            "score": 0.01635
+        },
+        {
+            "name": "Veratrum album L.",
+            "id": "1396991",
+            "score": 0.01612
+        },
+        {
+            "name": "Dittrichia graveolens (L.) Greuter",
+            "id": "1364127",
+            "score": 0.0101
+        },
+        {
+            "name": "Pentanema squarrosum (L.) D.Gut.Larr., Santos-Vicente, Anderb., E.Rico & M.M.Mart.Ort.",
+            "id": "1737671",
+            "score": 0.00906
+        },
+        {
+            "name": "Erigeron schimperi (Sch.Bip. ex A.Rich.) Sch.Bip. ex Schweinf.",
+            "id": "1749657",
+            "score": 0.00674
+        },
+        {
+            "name": "Rumex patientia L.",
+            "id": "1360135",
+            "score": 0.0059
+        },
+        {
+            "name": "Trixis praestans (Vell.) Cabrera",
+            "id": "1525222",
+            "score": 0.00528
+        },
+        {
+            "name": "Sorghum bicolor (L.) Moench",
+            "id": "1356240",
+            "score": 0.0049
+        },
+        {
+            "name": "Solidago gigantea Aiton",
+            "id": "1396337",
+            "score": 0.00406
+        },
+        {
+            "name": "Solidago hispida Muhl. ex Willd.",
+            "id": "1413847",
+            "score": 0.00397
+        },
+        {
+            "name": "Jacobaea vulgaris Gaertn.",
+            "id": "1362040",
+            "score": 0.00392
+        },
+        {
+            "name": "Senecio doria L.",
+            "id": "1357857",
+            "score": 0.00354
+        },
+        {
+            "name": "Rumex longifolius DC.",
+            "id": "1395667",
+            "score": 0.00346
+        },
+        {
+            "name": "Euthamia graminifolia (L.) Nutt.",
+            "id": "1392232",
+            "score": 0.00308
+        },
+        {
+            "name": "Reseda luteola L.",
+            "id": "1363978",
+            "score": 0.00305
+        },
+        {
+            "name": "Artemisia annua L.",
+            "id": "1382106",
+            "score": 0.00303
+        },
+        {
+            "name": "Artemisia dracunculus L.",
+            "id": "1362645",
+            "score": 0.00303
+        },
+        {
+            "name": "Verbascum thapsus L.",
+            "id": "1364059",
+            "score": 0.003
+        },
+        {
+            "name": "Baccharis halimifolia L.",
+            "id": "1400088",
+            "score": 0.00268
+        },
+        {
+            "name": "Tripolium pannonicum (Jacq.) Dobrocz.",
+            "id": "1362648",
+            "score": 0.00255
+        },
+        {
+            "name": "Solidago canadensis L.",
+            "id": "1396336",
+            "score": 0.00252
+        },
+        {
+            "name": "Senecio pterophorus DC.",
+            "id": "1389059",
+            "score": 0.00237
+        },
+        {
+            "name": "Solidago chilensis Meyen",
+            "id": "1521427",
+            "score": 0.00236
+        },
+        {
+            "name": "Verbascum pulverulentum Vill.",
+            "id": "1360539",
+            "score": 0.00232
+        },
+        {
+            "name": "Laggera crispata (Vahl) Hepper & J.R.I.Wood",
+            "id": "1513292",
+            "score": 0.0021
+        },
+        {
+            "name": "Artemisia absinthium L.",
+            "id": "1357268",
+            "score": 0.00192
+        },
+        {
+            "name": "Solidago nemoralis Aiton",
+            "id": "1413855",
+            "score": 0.00189
+        },
+        {
+            "name": "Echium flavum Desf.",
+            "id": "1356656",
+            "score": 0.00182
+        },
+        {
+            "name": "Cannabis sativa L.",
+            "id": "1356780",
+            "score": 0.00176
+        },
+        {
+            "name": "Andryala integrifolia L.",
+            "id": "1357207",
+            "score": 0.00174
+        },
+        {
+            "name": "Solidago caesia L.",
+            "id": "1413842",
+            "score": 0.00171
+        },
+        {
+            "name": "Blumea lacera (Burm.f.) DC.",
+            "id": "1417777",
+            "score": 0.00168
+        },
+        {
+            "name": "Solidago speciosa Nutt.",
+            "id": "1413860",
+            "score": 0.00164
+        },
+        {
+            "name": "Amphiachyris dracunculoides (DC.) Nutt.",
+            "id": "1444205",
+            "score": 0.00164
+        },
+        {
+            "name": "Verbascum speciosum Schrad.",
+            "id": "1398668",
+            "score": 0.00158
+        },
+        {
+            "name": "Senecio bayonnensis Boiss.",
+            "id": "1396188",
+            "score": 0.00151
+        },
+        {
+            "name": "Erigeron acris L.",
+            "id": "1357568",
+            "score": 0.00142
+        },
+        {
+            "name": "Artemisia campestris L.",
+            "id": "1357275",
+            "score": 0.00142
+        },
+        {
+            "name": "Verbascum nigrum L.",
+            "id": "1397520",
+            "score": 0.00121
+        },
+        {
+            "name": "Nabalus serpentarius (Pursh) Hook.",
+            "id": "1515585",
+            "score": 0.00119
+        },
+        {
+            "name": "Petasites albus (L.) Gaertn.",
+            "id": "1361771",
+            "score": 0.00118
+        },
+        {
+            "name": "Nidorella aegyptiaca (L.) J.C.Manning & Goldblatt",
+            "id": "1720310",
+            "score": 0.00113
+        },
+        {
+            "name": "Agrimonia eupatoria L.",
+            "id": "1363994",
+            "score": 0.00109
+        },
+        {
+            "name": "Senecio cacaliaster Lam.",
+            "id": "1396189",
+            "score": 0.00108
+        },
+        {
+            "name": "Echium vulgare L.",
+            "id": "1363850",
+            "score": 0.00106
+        },
+        {
+            "name": "Eschenbachia stricta (Willd.) Raizada",
+            "id": "1747791",
+            "score": 0.00104
+        },
+        {
+            "name": "Hieracium umbellatum L.",
+            "id": "1393169",
+            "score": 0.00102
+        },
+        {
+            "name": "Iva frutescens L.",
+            "id": "1412344",
+            "score": 0.00094
+        },
+        {
+            "name": "Panicum miliaceum L.",
+            "id": "1363446",
+            "score": 0.00089
+        },
+        {
+            "name": "Rumex acetosella L.",
+            "id": "1356082",
+            "score": 0.00084
+        },
+        {
+            "name": "Rumex acetosa L.",
+            "id": "1360120",
+            "score": 0.00081
+        },
+        {
+            "name": "Rumex obtusifolius L.",
+            "id": "1360132",
+            "score": 0.00073
+        },
+        {
+            "name": "Veratrum lobelianum Bernh.",
+            "id": "1596739",
+            "score": 0.00068
+        },
+        {
+            "name": "Solidago sempervirens L.",
+            "id": "1396341",
+            "score": 0.00059
+        },
+        {
+            "name": "Erigeron blakei Cabrera",
+            "id": "1392040",
+            "score": 0.00054
+        },
+        {
+            "name": "Rumex confertus Willd.",
+            "id": "1398843",
+            "score": 0.0005
+        },
+        {
+            "name": "Epipactis helleborine (L.) Crantz",
+            "id": "1362294",
+            "score": 0.00049
+        },
+        {
+            "name": "Lysimachia vulgaris L.",
+            "id": "1361863",
+            "score": 0.00049
+        },
+        {
+            "name": "Rumex thyrsoides Desf.",
+            "id": "1360137",
+            "score": 0.0004
+        },
+        {
+            "name": "Nepeta nuda L.",
+            "id": "1397442",
+            "score": 0.0004
+        },
+        {
+            "name": "Cyperus virens Michx.",
+            "id": "1391504",
+            "score": 0.0004
+        },
+        {
+            "name": "Artemisia vulgaris L.",
+            "id": "1364152",
+            "score": 0.00037
+        }
+    ]
+}

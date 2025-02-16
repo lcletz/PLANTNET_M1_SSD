@@ -1,0 +1,385 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Impatiens balsamina L.",
+            "id": "1363815",
+            "score": 0.16204
+        },
+        {
+            "name": "Veronicastrum virginicum (L.) Farw.",
+            "id": "1414182",
+            "score": 0.10097
+        },
+        {
+            "name": "Forsythia viridissima Lindl.",
+            "id": "1398098",
+            "score": 0.02326
+        },
+        {
+            "name": "Asclepias curassavica L.",
+            "id": "1363822",
+            "score": 0.02137
+        },
+        {
+            "name": "Verbena hastata L.",
+            "id": "1398136",
+            "score": 0.01735
+        },
+        {
+            "name": "Spiraea alba Du Roi",
+            "id": "1396390",
+            "score": 0.01252
+        },
+        {
+            "name": "Hydrangea arborescens L.",
+            "id": "1393222",
+            "score": 0.01124
+        },
+        {
+            "name": "Eutrochium maculatum (L.) E.E.Lamont",
+            "id": "1507899",
+            "score": 0.01071
+        },
+        {
+            "name": "Physostegia virginiana (L.) Benth.",
+            "id": "1394534",
+            "score": 0.01029
+        },
+        {
+            "name": "Spiraea douglasii Hook.",
+            "id": "1396399",
+            "score": 0.01019
+        },
+        {
+            "name": "Veronica longifolia L.",
+            "id": "1397056",
+            "score": 0.00816
+        },
+        {
+            "name": "Hydrangea paniculata Siebold",
+            "id": "1393223",
+            "score": 0.00811
+        },
+        {
+            "name": "Deutzia gracilis Siebold & Zucc.",
+            "id": "1391671",
+            "score": 0.00754
+        },
+        {
+            "name": "Impatiens glandulifera Royle",
+            "id": "1393275",
+            "score": 0.0069
+        },
+        {
+            "name": "Spiraea japonica L.f.",
+            "id": "1396400",
+            "score": 0.00613
+        },
+        {
+            "name": "Spiraea salicifolia L.",
+            "id": "1396405",
+            "score": 0.0059
+        },
+        {
+            "name": "Vernonia noveboracensis (L.) Michx.",
+            "id": "1439547",
+            "score": 0.00564
+        },
+        {
+            "name": "Solidago gigantea Aiton",
+            "id": "1396337",
+            "score": 0.00544
+        },
+        {
+            "name": "Senecio ovatus (G.Gaertn., B.Mey. & Scherb.) Willd.",
+            "id": "1728570",
+            "score": 0.00539
+        },
+        {
+            "name": "Rhododendron ponticum L.",
+            "id": "1358517",
+            "score": 0.00516
+        },
+        {
+            "name": "Vernonia gigantea (Walter) Trel.",
+            "id": "1414174",
+            "score": 0.00509
+        },
+        {
+            "name": "Veronica spicata L.",
+            "id": "1397522",
+            "score": 0.00507
+        },
+        {
+            "name": "Salvia uliginosa Benth.",
+            "id": "1388783",
+            "score": 0.00481
+        },
+        {
+            "name": "Helianthus × laetiflorus Pers.",
+            "id": "1509310",
+            "score": 0.0048
+        },
+        {
+            "name": "Clethra alnifolia L.",
+            "id": "1398480",
+            "score": 0.00475
+        },
+        {
+            "name": "Aloysia citrodora Paláu",
+            "id": "1409132",
+            "score": 0.00465
+        },
+        {
+            "name": "Ruellia simplex C.Wright",
+            "id": "1419888",
+            "score": 0.00463
+        },
+        {
+            "name": "Platycodon grandiflorus (Jacq.) A.DC.",
+            "id": "1418374",
+            "score": 0.00391
+        },
+        {
+            "name": "Asclepias incarnata L.",
+            "id": "1413787",
+            "score": 0.00378
+        },
+        {
+            "name": "Mercurialis perennis L.",
+            "id": "1358605",
+            "score": 0.00366
+        },
+        {
+            "name": "Helianthus tuberosus L.",
+            "id": "1357617",
+            "score": 0.00342
+        },
+        {
+            "name": "Salvia leucantha Cav.",
+            "id": "1356116",
+            "score": 0.0034
+        },
+        {
+            "name": "Lysimachia clethroides Duby",
+            "id": "1412637",
+            "score": 0.00334
+        },
+        {
+            "name": "Forsythia suspensa (Thunb.) Vahl",
+            "id": "1392356",
+            "score": 0.00306
+        },
+        {
+            "name": "Spiraea × billardii Hérincq",
+            "id": "1844858",
+            "score": 0.00288
+        },
+        {
+            "name": "Veronicastrum sibiricum (L.) Pennell",
+            "id": "1646817",
+            "score": 0.00251
+        },
+        {
+            "name": "Senecio bayonnensis Boiss.",
+            "id": "1396188",
+            "score": 0.0021
+        },
+        {
+            "name": "Ayapana triplinervis (Vahl) R.M.King & H.Rob.",
+            "id": "1403789",
+            "score": 0.00207
+        },
+        {
+            "name": "Ceanothus americanus L.",
+            "id": "1390968",
+            "score": 0.00206
+        },
+        {
+            "name": "Catharanthus roseus (L.) G.Don",
+            "id": "1401889",
+            "score": 0.00204
+        },
+        {
+            "name": "Hydrangea febrifuga (Lour.) Y.De Smet & Granados",
+            "id": "1720139",
+            "score": 0.00202
+        },
+        {
+            "name": "Impatiens hawkeri W.Bull",
+            "id": "1417920",
+            "score": 0.002
+        },
+        {
+            "name": "Elsholtzia stauntonii Benth.",
+            "id": "1419261",
+            "score": 0.00192
+        },
+        {
+            "name": "Linaria purpurea (L.) Mill.",
+            "id": "1362464",
+            "score": 0.0019
+        },
+        {
+            "name": "Gillenia trifoliata (L.) Moench",
+            "id": "1412176",
+            "score": 0.00189
+        },
+        {
+            "name": "Senecio cacaliaster Lam.",
+            "id": "1396189",
+            "score": 0.00186
+        },
+        {
+            "name": "Vernonia arkansana DC.",
+            "id": "1417909",
+            "score": 0.00183
+        },
+        {
+            "name": "Lobelia laxiflora Kunth",
+            "id": "1356771",
+            "score": 0.00181
+        },
+        {
+            "name": "Mentha spicata L.",
+            "id": "1358788",
+            "score": 0.00178
+        },
+        {
+            "name": "Senecio sarracenicus L.",
+            "id": "1396206",
+            "score": 0.00178
+        },
+        {
+            "name": "Rubia tinctorum L.",
+            "id": "1360434",
+            "score": 0.00164
+        },
+        {
+            "name": "Rotheca myricoides (Hochst.) Steane & Mabb.",
+            "id": "1410258",
+            "score": 0.00162
+        },
+        {
+            "name": "Aristotelia serrata (J.R.Forst. & G.Forst.) Oliv.",
+            "id": "1537132",
+            "score": 0.00147
+        },
+        {
+            "name": "Chionanthus virginicus L.",
+            "id": "1419614",
+            "score": 0.00137
+        },
+        {
+            "name": "Phlox paniculata L.",
+            "id": "1394721",
+            "score": 0.00137
+        },
+        {
+            "name": "Justicia gendarussa Burm.f.",
+            "id": "1400245",
+            "score": 0.00133
+        },
+        {
+            "name": "Guizotia abyssinica (L.f.) Cass.",
+            "id": "1392658",
+            "score": 0.00133
+        },
+        {
+            "name": "Hydrangea quercifolia W.Bartram",
+            "id": "1390614",
+            "score": 0.0013
+        },
+        {
+            "name": "Rhododendron luteum Sweet",
+            "id": "1540273",
+            "score": 0.00129
+        },
+        {
+            "name": "Leucanthemella serotina (L.) Tzvelev",
+            "id": "1393493",
+            "score": 0.00127
+        },
+        {
+            "name": "Callicarpa americana L.",
+            "id": "1419249",
+            "score": 0.00127
+        },
+        {
+            "name": "Viburnum farreri Stearn",
+            "id": "1397610",
+            "score": 0.00124
+        },
+        {
+            "name": "Sarcandra glabra (Thunb.) Nakai",
+            "id": "1430248",
+            "score": 0.00124
+        },
+        {
+            "name": "Tecoma stans (L.) Juss. ex Kunth",
+            "id": "1400150",
+            "score": 0.00122
+        },
+        {
+            "name": "Buddleja davidii Franch.",
+            "id": "1365253",
+            "score": 0.00119
+        },
+        {
+            "name": "Helianthus divaricatus L.",
+            "id": "1412232",
+            "score": 0.00118
+        },
+        {
+            "name": "Crocosmia × crocosmiiflora (Lemoine) N.E.Br.",
+            "id": "1556072",
+            "score": 0.00116
+        },
+        {
+            "name": "Verbena rigida Spreng.",
+            "id": "1356211",
+            "score": 0.00113
+        },
+        {
+            "name": "Tulbaghia violacea Harv.",
+            "id": "1453904",
+            "score": 0.00113
+        },
+        {
+            "name": "Veronica crinita Kit. ex Schult.",
+            "id": "1745372",
+            "score": 0.00111
+        },
+        {
+            "name": "Berberis insignis Hook.f. & Thomson",
+            "id": "1475671",
+            "score": 0.0011
+        },
+        {
+            "name": "Hydrangea macrophylla (Thunb.) Ser.",
+            "id": "1361819",
+            "score": 0.00109
+        },
+        {
+            "name": "Amsonia tabernaemontana Walter",
+            "id": "1420019",
+            "score": 0.00105
+        },
+        {
+            "name": "Weigela florida (Bunge) A.DC.",
+            "id": "1390686",
+            "score": 0.00104
+        },
+        {
+            "name": "Verbena bonariensis L.",
+            "id": "1356209",
+            "score": 0.00102
+        },
+        {
+            "name": "Gomphocarpus physocarpus E.Mey.",
+            "id": "1392654",
+            "score": 0.00101
+        }
+    ]
+}

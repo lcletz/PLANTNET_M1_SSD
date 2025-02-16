@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Smyrnium olusatrum L.",
+            "id": "1360801",
+            "score": 0.8912
+        },
+        {
+            "name": "Angelica archangelica L.",
+            "id": "1397313",
+            "score": 0.03216
+        },
+        {
+            "name": "Smyrnium perfoliatum L.",
+            "id": "1360802",
+            "score": 0.00592
+        },
+        {
+            "name": "Heracleum sibiricum L.",
+            "id": "1392757",
+            "score": 0.00485
+        },
+        {
+            "name": "Apium graveolens L.",
+            "id": "1363218",
+            "score": 0.00234
+        },
+        {
+            "name": "Ferula communis L.",
+            "id": "1363236",
+            "score": 0.00117
+        },
+        {
+            "name": "Oenanthe crocata L.",
+            "id": "1360761",
+            "score": 0.00114
+        },
+        {
+            "name": "Heracleum sphondylium L.",
+            "id": "1360744",
+            "score": 0.00114
+        }
+    ]
+}

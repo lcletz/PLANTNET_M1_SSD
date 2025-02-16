@@ -1,0 +1,470 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cicuta virosa L.",
+            "id": "1391163",
+            "score": 0.19803
+        },
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.11697
+        },
+        {
+            "name": "Sambucus canadensis L.",
+            "id": "1356462",
+            "score": 0.08264
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.07242
+        },
+        {
+            "name": "Grevillea robusta A.Cunn. ex R.Br.",
+            "id": "1394929",
+            "score": 0.06606
+        },
+        {
+            "name": "Lyonothamnus floribundus A.Gray",
+            "id": "1818359",
+            "score": 0.05223
+        },
+        {
+            "name": "Pimpinella major (L.) Huds.",
+            "id": "1394592",
+            "score": 0.02626
+        },
+        {
+            "name": "Sambucus ebulus L.",
+            "id": "1356276",
+            "score": 0.02214
+        },
+        {
+            "name": "Actaea simplex (DC.) Wormsk. ex Prantl",
+            "id": "1420284",
+            "score": 0.01286
+        },
+        {
+            "name": "Eriogonum arborescens Greene",
+            "id": "1443207",
+            "score": 0.01212
+        },
+        {
+            "name": "Cenolophium fischeri (Spreng.) W.D.J.Koch",
+            "id": "1743044",
+            "score": 0.00952
+        },
+        {
+            "name": "Tamarix parviflora DC.",
+            "id": "1364093",
+            "score": 0.00841
+        },
+        {
+            "name": "Rubus nemoralis P.J.Müll.",
+            "id": "1395553",
+            "score": 0.00591
+        },
+        {
+            "name": "Seseli annuum L.",
+            "id": "1396241",
+            "score": 0.00527
+        },
+        {
+            "name": "Tabebuia rosea (Bertol.) Bertero ex A.DC.",
+            "id": "1418008",
+            "score": 0.0047
+        },
+        {
+            "name": "Filipendula rubra (Hill) B.L.Rob.",
+            "id": "1667442",
+            "score": 0.00464
+        },
+        {
+            "name": "Cornus alba L.",
+            "id": "1397617",
+            "score": 0.00457
+        },
+        {
+            "name": "Eriogonum giganteum S.Watson",
+            "id": "1398810",
+            "score": 0.00439
+        },
+        {
+            "name": "Actaea racemosa L.",
+            "id": "1414305",
+            "score": 0.00436
+        },
+        {
+            "name": "Chaerophyllum hirsutum L.",
+            "id": "1391112",
+            "score": 0.0042
+        },
+        {
+            "name": "Astilbe japonica (C.Morren & Decne.) A.Gray",
+            "id": "1398452",
+            "score": 0.00376
+        },
+        {
+            "name": "Clerodendrum quadriloculare (Blanco) Merr.",
+            "id": "1426962",
+            "score": 0.00336
+        },
+        {
+            "name": "Daucus insularis (Parl.) Spalik, Wojew., Banasiak & Reduron",
+            "id": "1748243",
+            "score": 0.00333
+        },
+        {
+            "name": "Mutellina purpurea (Poir.) Reduron, Charpin & Pimenov",
+            "id": "1741629",
+            "score": 0.00328
+        },
+        {
+            "name": "Sambucus palmensis Link",
+            "id": "1356465",
+            "score": 0.00303
+        },
+        {
+            "name": "Leea rubra Blume",
+            "id": "1763078",
+            "score": 0.00277
+        },
+        {
+            "name": "Paeonia anomala L.",
+            "id": "1419812",
+            "score": 0.00273
+        },
+        {
+            "name": "Visnaga daucoides Gaertn.",
+            "id": "1362719",
+            "score": 0.00256
+        },
+        {
+            "name": "Viburnum rhytidophyllum Hemsl.",
+            "id": "1417595",
+            "score": 0.00251
+        },
+        {
+            "name": "Viburnum sargentii Koehne",
+            "id": "1447924",
+            "score": 0.00249
+        },
+        {
+            "name": "Tabebuia roseoalba (Ridl.) Sandwith",
+            "id": "1476995",
+            "score": 0.00226
+        },
+        {
+            "name": "Gypsophila paniculata L.",
+            "id": "1392678",
+            "score": 0.00221
+        },
+        {
+            "name": "Ophiopogon planiscapus Nakai",
+            "id": "1389412",
+            "score": 0.00191
+        },
+        {
+            "name": "Acer japonicum Thunb.",
+            "id": "1390723",
+            "score": 0.00174
+        },
+        {
+            "name": "Valeriana officinalis L.",
+            "id": "1396978",
+            "score": 0.00166
+        },
+        {
+            "name": "Acacia baileyana F.Muell.",
+            "id": "1400104",
+            "score": 0.00163
+        },
+        {
+            "name": "Angelica razulii Gouan",
+            "id": "1394580",
+            "score": 0.00162
+        },
+        {
+            "name": "Daucus carota L.",
+            "id": "1363227",
+            "score": 0.00161
+        },
+        {
+            "name": "Artemisia lactiflora Wall. ex DC.",
+            "id": "1417767",
+            "score": 0.00158
+        },
+        {
+            "name": "Caesalpinia pulcherrima (L.) Sw.",
+            "id": "1366954",
+            "score": 0.00156
+        },
+        {
+            "name": "Calliandra surinamensis Benth.",
+            "id": "1366525",
+            "score": 0.00151
+        },
+        {
+            "name": "Nandina domestica Thunb.",
+            "id": "1409295",
+            "score": 0.00149
+        },
+        {
+            "name": "Calochlaena straminea (Labill.) M.D.Turner & R.A.White",
+            "id": "1414728",
+            "score": 0.0014
+        },
+        {
+            "name": "Cnidium silaifolium (Jacq.) Simonk.",
+            "id": "1457187",
+            "score": 0.00138
+        },
+        {
+            "name": "Artemisia verlotiorum Lamotte",
+            "id": "1357291",
+            "score": 0.00134
+        },
+        {
+            "name": "Sambucus australis Cham. & Schltdl.",
+            "id": "1447814",
+            "score": 0.00128
+        },
+        {
+            "name": "Valeriana tripteris L.",
+            "id": "1396984",
+            "score": 0.00119
+        },
+        {
+            "name": "Ligusticum scothicum L.",
+            "id": "1737456",
+            "score": 0.00114
+        },
+        {
+            "name": "Actaea cordifolia DC.",
+            "id": "1663225",
+            "score": 0.00113
+        },
+        {
+            "name": "Calliandra selloi (Spreng.) J.F.Macbr.",
+            "id": "1719818",
+            "score": 0.00112
+        },
+        {
+            "name": "Dahlia × cultorum Thorsrud & Reisaeter",
+            "id": "1844132",
+            "score": 0.00112
+        },
+        {
+            "name": "Daucus edulis (Lowe) Wojew., Reduron, Banasiak & Spalik",
+            "id": "1748294",
+            "score": 0.00111
+        },
+        {
+            "name": "Ozothamnus diosmifolius (Vent.) DC.",
+            "id": "1417871",
+            "score": 0.00111
+        },
+        {
+            "name": "Asparagus aethiopicus L.",
+            "id": "1386159",
+            "score": 0.00111
+        },
+        {
+            "name": "Valeriana calcitrapae L.",
+            "id": "1722514",
+            "score": 0.00106
+        },
+        {
+            "name": "Carum carvi L.",
+            "id": "1363229",
+            "score": 0.00106
+        },
+        {
+            "name": "Agalinis purpurea (L.) Pennell",
+            "id": "1411140",
+            "score": 0.00102
+        },
+        {
+            "name": "Heracleum mantegazzianum Sommier & Levier",
+            "id": "1392753",
+            "score": 0.00101
+        },
+        {
+            "name": "Achillea grandifolia Friv.",
+            "id": "1497778",
+            "score": 0.00099
+        },
+        {
+            "name": "Selinum carvifolium (L.) L.",
+            "id": "1737493",
+            "score": 0.00097
+        },
+        {
+            "name": "Peucedanum palustre (L.) Moench",
+            "id": "1436064",
+            "score": 0.00097
+        },
+        {
+            "name": "Rheum alexandrae Batalin",
+            "id": "1420149",
+            "score": 0.00097
+        },
+        {
+            "name": "Ligusticopsis wallichiana (DC.) Pimenov & Kljuykov",
+            "id": "1773836",
+            "score": 0.00096
+        },
+        {
+            "name": "Peucedanum lancifolium Lange",
+            "id": "1458369",
+            "score": 0.00094
+        },
+        {
+            "name": "Rhododendron periclymenoides (Michx.) Shinners",
+            "id": "1437263",
+            "score": 0.00091
+        },
+        {
+            "name": "Hydrangea sargentiana Rehder",
+            "id": "1554981",
+            "score": 0.0009
+        },
+        {
+            "name": "Clerodendrum bungei Steud.",
+            "id": "1378722",
+            "score": 0.00075
+        },
+        {
+            "name": "Styrax japonicus Siebold & Zucc.",
+            "id": "1420758",
+            "score": 0.00073
+        },
+        {
+            "name": "Achillea nobilis L.",
+            "id": "1397302",
+            "score": 0.00072
+        },
+        {
+            "name": "Aeonium ciliatum (Willd.) Webb & Berthel.",
+            "id": "1358031",
+            "score": 0.0007
+        },
+        {
+            "name": "Calytrix tetragona Labill.",
+            "id": "1603228",
+            "score": 0.00069
+        },
+        {
+            "name": "Prunus × subhirtella Miq.",
+            "id": "1721663",
+            "score": 0.00069
+        },
+        {
+            "name": "Acer palmatum Thunb.",
+            "id": "1390731",
+            "score": 0.00066
+        },
+        {
+            "name": "Chamaecyparis pisifera (Siebold & Zucc.) Endl.",
+            "id": "1391117",
+            "score": 0.00065
+        },
+        {
+            "name": "Gleditsia triacanthos L.",
+            "id": "1363687",
+            "score": 0.00064
+        },
+        {
+            "name": "Rhododendron rubropilosum Hayata",
+            "id": "1540413",
+            "score": 0.00064
+        },
+        {
+            "name": "Libidibia ferrea (Mart. ex Tul.) L.P.Queiroz",
+            "id": "1719969",
+            "score": 0.00062
+        },
+        {
+            "name": "Sorbus vilmorinii C.K.Schneid.",
+            "id": "1420476",
+            "score": 0.00061
+        },
+        {
+            "name": "Aethusa cynapium L.",
+            "id": "1360608",
+            "score": 0.0006
+        },
+        {
+            "name": "Crataegus azarolus L.",
+            "id": "1360290",
+            "score": 0.00059
+        },
+        {
+            "name": "Adenocarpus hispanicus (Lam.) DC.",
+            "id": "1569358",
+            "score": 0.00058
+        },
+        {
+            "name": "Sorbus koehneana C.K.Schneid.",
+            "id": "1669837",
+            "score": 0.00058
+        },
+        {
+            "name": "Grevillea tetragonoloba Meisn.",
+            "id": "1662244",
+            "score": 0.00057
+        },
+        {
+            "name": "Valeriana tuberosa L.",
+            "id": "1360841",
+            "score": 0.00057
+        },
+        {
+            "name": "Fraxinus ornus L.",
+            "id": "1362963",
+            "score": 0.00057
+        },
+        {
+            "name": "Viburnum nudum L.",
+            "id": "1414188",
+            "score": 0.00057
+        },
+        {
+            "name": "Daucus rouyi Spalik & Reduron",
+            "id": "1743404",
+            "score": 0.00056
+        },
+        {
+            "name": "Calliandra riparia Pittier",
+            "id": "1418895",
+            "score": 0.00056
+        },
+        {
+            "name": "Daucus decipiens (Schrad. & J.C.Wendl.) Spalik, Wojew., Banasiak & Reduron",
+            "id": "1738890",
+            "score": 0.00056
+        },
+        {
+            "name": "Vicia peregrina L.",
+            "id": "1359572",
+            "score": 0.00054
+        },
+        {
+            "name": "Chamelaucium uncinatum Schauer",
+            "id": "1419545",
+            "score": 0.00053
+        },
+        {
+            "name": "Hypochaeris echegarayi Hieron.",
+            "id": "1423243",
+            "score": 0.00051
+        },
+        {
+            "name": "Sedum anglicum Huds.",
+            "id": "1362489",
+            "score": 0.00051
+        }
+    ]
+}

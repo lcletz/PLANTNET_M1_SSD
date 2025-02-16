@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Holcus lanatus L.",
+            "id": "1363460",
+            "score": 0.50635
+        },
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.34712
+        },
+        {
+            "name": "Holcus mollis L.",
+            "id": "1361302",
+            "score": 0.01154
+        },
+        {
+            "name": "Poa trivialis L.",
+            "id": "1363459",
+            "score": 0.00562
+        },
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.00344
+        },
+        {
+            "name": "Phalaris arundinacea L.",
+            "id": "1363490",
+            "score": 0.00259
+        },
+        {
+            "name": "Calamagrostis canescens (Weber) Roth",
+            "id": "1397331",
+            "score": 0.00256
+        },
+        {
+            "name": "Poa compressa L.",
+            "id": "1361369",
+            "score": 0.00241
+        },
+        {
+            "name": "Poa alpina L.",
+            "id": "1361367",
+            "score": 0.00227
+        },
+        {
+            "name": "Lolium arundinaceum (Schreb.) Darbysh.",
+            "id": "1720971",
+            "score": 0.00193
+        },
+        {
+            "name": "Agrostis stolonifera L.",
+            "id": "1356321",
+            "score": 0.00146
+        },
+        {
+            "name": "Poa annua L.",
+            "id": "1363455",
+            "score": 0.0014
+        },
+        {
+            "name": "Poa bonariensis (Lam.) Kunth",
+            "id": "1654035",
+            "score": 0.00139
+        },
+        {
+            "name": "Poa palustris L.",
+            "id": "1394677",
+            "score": 0.00139
+        },
+        {
+            "name": "Agrostis capillaris L.",
+            "id": "1361133",
+            "score": 0.00131
+        }
+    ]
+}

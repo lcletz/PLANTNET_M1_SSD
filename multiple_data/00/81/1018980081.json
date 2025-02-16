@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Bromus madritensis L.",
+            "id": "1422217",
+            "score": 0.3113
+        },
+        {
+            "name": "Bromus rubens L.",
+            "id": "1422218",
+            "score": 0.27983
+        },
+        {
+            "name": "Bromus tectorum L.",
+            "id": "1414367",
+            "score": 0.00949
+        },
+        {
+            "name": "Bromus diandrus Roth",
+            "id": "1414353",
+            "score": 0.00316
+        },
+        {
+            "name": "Bromus racemosus L.",
+            "id": "1361203",
+            "score": 0.00223
+        },
+        {
+            "name": "Festuca ligustica (All.) Bertol.",
+            "id": "1738612",
+            "score": 0.00219
+        },
+        {
+            "name": "Bromus erectus Huds.",
+            "id": "1414354",
+            "score": 0.00189
+        },
+        {
+            "name": "Bromus sterilis L.",
+            "id": "1414366",
+            "score": 0.00175
+        }
+    ]
+}

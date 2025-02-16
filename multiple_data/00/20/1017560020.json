@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Arabidopsis arenosa (L.) Lawalrée",
+            "id": "1389345",
+            "score": 0.88638
+        },
+        {
+            "name": "Arabis alpina L.",
+            "id": "1363887",
+            "score": 0.03392
+        },
+        {
+            "name": "Arabidopsis halleri (L.) O'Kane & Al-Shehbaz",
+            "id": "1389346",
+            "score": 0.01018
+        },
+        {
+            "name": "Arabidopsis thaliana (L.) Heynh.",
+            "id": "1363915",
+            "score": 0.00436
+        },
+        {
+            "name": "Arabis caucasica Willd.",
+            "id": "1479393",
+            "score": 0.00434
+        },
+        {
+            "name": "Cardamine pratensis L.",
+            "id": "1358213",
+            "score": 0.00358
+        },
+        {
+            "name": "Crambe filiformis Jacq.",
+            "id": "1358226",
+            "score": 0.00326
+        },
+        {
+            "name": "Brassica barrelieri (L.) Janka",
+            "id": "1358194",
+            "score": 0.00264
+        },
+        {
+            "name": "Calepina irregularis (Asso) Thell.",
+            "id": "1358204",
+            "score": 0.00232
+        },
+        {
+            "name": "Crambe hispanica L.",
+            "id": "1363895",
+            "score": 0.00124
+        },
+        {
+            "name": "Bunias erucago L.",
+            "id": "1363920",
+            "score": 0.00112
+        },
+        {
+            "name": "Hornungia alpina (L.) O.Appel",
+            "id": "1393214",
+            "score": 0.00108
+        }
+    ]
+}

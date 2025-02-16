@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.65893
+        },
+        {
+            "name": "Ostrya carpinifolia Scop.",
+            "id": "1394357",
+            "score": 0.0634
+        },
+        {
+            "name": "Carpinus orientalis Mill.",
+            "id": "1398832",
+            "score": 0.06259
+        },
+        {
+            "name": "Carpinus caroliniana Walter",
+            "id": "1411338",
+            "score": 0.05489
+        },
+        {
+            "name": "Carpinus japonica Blume",
+            "id": "1417983",
+            "score": 0.00447
+        },
+        {
+            "name": "Carpinus cordata Blume",
+            "id": "1476257",
+            "score": 0.00194
+        },
+        {
+            "name": "Corylus colurna L.",
+            "id": "1397579",
+            "score": 0.00145
+        },
+        {
+            "name": "Alnus incana (L.) Moench",
+            "id": "1397308",
+            "score": 0.0012
+        }
+    ]
+}

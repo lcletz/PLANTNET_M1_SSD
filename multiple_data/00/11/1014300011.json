@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Papaver somniferum L.",
+            "id": "1363130",
+            "score": 0.91319
+        },
+        {
+            "name": "Papaver orientale L.",
+            "id": "1394404",
+            "score": 0.00365
+        },
+        {
+            "name": "Tulipa agenensis Redouté",
+            "id": "1743462",
+            "score": 0.00213
+        },
+        {
+            "name": "Paeonia officinalis L.",
+            "id": "1362842",
+            "score": 0.00209
+        },
+        {
+            "name": "Paeonia × suffruticosa Andrews",
+            "id": "1638045",
+            "score": 0.00168
+        },
+        {
+            "name": "Ranunculus asiaticus L.",
+            "id": "1360189",
+            "score": 0.00156
+        },
+        {
+            "name": "Paeonia lactiflora Pall.",
+            "id": "1412934",
+            "score": 0.00141
+        },
+        {
+            "name": "Dianthus caryophyllus L.",
+            "id": "1356843",
+            "score": 0.00108
+        }
+    ]
+}

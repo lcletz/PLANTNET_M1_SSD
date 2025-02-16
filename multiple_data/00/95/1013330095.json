@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Barbarea vulgaris R.Br.",
+            "id": "1400100",
+            "score": 0.3016
+        },
+        {
+            "name": "Barbarea verna (Mill.) Asch.",
+            "id": "1363871",
+            "score": 0.1637
+        },
+        {
+            "name": "Brassica rapa L.",
+            "id": "1363906",
+            "score": 0.00401
+        },
+        {
+            "name": "Bunias orientalis L.",
+            "id": "1389581",
+            "score": 0.00228
+        },
+        {
+            "name": "Brassica napus L.",
+            "id": "1363908",
+            "score": 0.00142
+        }
+    ]
+}

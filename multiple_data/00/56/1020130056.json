@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Euphorbia prostrata Aiton",
+            "id": "1355984",
+            "score": 0.60888
+        },
+        {
+            "name": "Euphorbia maculata L.",
+            "id": "1358564",
+            "score": 0.17783
+        },
+        {
+            "name": "Euphorbia serpens Kunth",
+            "id": "1355970",
+            "score": 0.02396
+        },
+        {
+            "name": "Euphorbia chamaesyce L.",
+            "id": "1355987",
+            "score": 0.01843
+        },
+        {
+            "name": "Euphorbia humifusa Willd.",
+            "id": "1361803",
+            "score": 0.0045
+        },
+        {
+            "name": "Euphorbia hypericifolia L.",
+            "id": "1355967",
+            "score": 0.00182
+        },
+        {
+            "name": "Herniaria hirsuta L.",
+            "id": "1356873",
+            "score": 0.0012
+        },
+        {
+            "name": "Euphorbia glyptosperma Engelm.",
+            "id": "1392164",
+            "score": 0.00108
+        }
+    ]
+}

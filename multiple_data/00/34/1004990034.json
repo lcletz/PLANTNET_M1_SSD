@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Rubus nemoralis P.J.Müll.",
+            "id": "1395553",
+            "score": 0.90047
+        },
+        {
+            "name": "Anthriscus sylvestris (L.) Hoffm.",
+            "id": "1360614",
+            "score": 0.00233
+        },
+        {
+            "name": "Conium maculatum L.",
+            "id": "1363216",
+            "score": 0.00171
+        },
+        {
+            "name": "Artemisia vulgaris L.",
+            "id": "1364152",
+            "score": 0.00111
+        }
+    ]
+}

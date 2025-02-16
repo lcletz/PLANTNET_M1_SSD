@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Antirrhinum majus L.",
+            "id": "1359845",
+            "score": 0.64124
+        },
+        {
+            "name": "Antirrhinum australe Rothm.",
+            "id": "1359841",
+            "score": 0.21318
+        },
+        {
+            "name": "Antirrhinum graniticum Rothm.",
+            "id": "1400022",
+            "score": 0.00371
+        },
+        {
+            "name": "Antirrhinum siculum Mill.",
+            "id": "1359847",
+            "score": 0.0017
+        },
+        {
+            "name": "Antirrhinum latifolium Mill.",
+            "id": "1362531",
+            "score": 0.00156
+        },
+        {
+            "name": "Digitalis obscura L.",
+            "id": "1362291",
+            "score": 0.00137
+        },
+        {
+            "name": "Misopates orontium (L.) Raf.",
+            "id": "1359943",
+            "score": 0.00124
+        },
+        {
+            "name": "Linaria maroccana Hook.f.",
+            "id": "1393591",
+            "score": 0.00117
+        },
+        {
+            "name": "Salvia microphylla Kunth",
+            "id": "1356117",
+            "score": 0.001
+        }
+    ]
+}

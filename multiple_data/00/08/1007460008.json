@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Malva punctata (L.) Alef.",
+            "id": "1393749",
+            "score": 0.28418
+        },
+        {
+            "name": "Malva alcea L.",
+            "id": "1359635",
+            "score": 0.02613
+        },
+        {
+            "name": "Malva moschata L.",
+            "id": "1393748",
+            "score": 0.00906
+        },
+        {
+            "name": "Malva neglecta Wallr.",
+            "id": "1363944",
+            "score": 0.00576
+        },
+        {
+            "name": "Convolvulus cantabrica L.",
+            "id": "1357968",
+            "score": 0.00524
+        },
+        {
+            "name": "Malva setigera Spenn.",
+            "id": "1393750",
+            "score": 0.0041
+        },
+        {
+            "name": "Convolvulus arvensis L.",
+            "id": "1364006",
+            "score": 0.00169
+        },
+        {
+            "name": "Geranium columbinum L.",
+            "id": "1358671",
+            "score": 0.0012
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium campestre Schreb.",
+            "id": "1359488",
+            "score": 0.61928
+        },
+        {
+            "name": "Trifolium aureum Pollich",
+            "id": "1359486",
+            "score": 0.2729
+        },
+        {
+            "name": "Trifolium dubium Sibth.",
+            "id": "1363737",
+            "score": 0.02547
+        },
+        {
+            "name": "Medicago lupulina L.",
+            "id": "1363730",
+            "score": 0.00656
+        },
+        {
+            "name": "Trifolium badium Schreb.",
+            "id": "1397551",
+            "score": 0.00429
+        },
+        {
+            "name": "Trifolium patens Schreb.",
+            "id": "1359514",
+            "score": 0.00341
+        },
+        {
+            "name": "Trifolium velenovskyi Vandas",
+            "id": "1587620",
+            "score": 0.00135
+        },
+        {
+            "name": "Medicago polymorpha L.",
+            "id": "1363731",
+            "score": 0.00117
+        }
+    ]
+}

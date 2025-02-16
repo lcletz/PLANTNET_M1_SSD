@@ -1,0 +1,60 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Scrophularia nodosa L.",
+            "id": "1396122",
+            "score": 0.94839
+        },
+        {
+            "name": "Scrophularia alpestris J.Gay ex Benth.",
+            "id": "1396119",
+            "score": 0.05091
+        },
+        {
+            "name": "Scrophularia auriculata L.",
+            "id": "1360495",
+            "score": 0.04667
+        },
+        {
+            "name": "Scrophularia peregrina L.",
+            "id": "1360507",
+            "score": 0.03318
+        },
+        {
+            "name": "Stachys sylvatica L.",
+            "id": "1358950",
+            "score": 0.00941
+        },
+        {
+            "name": "Scrophularia scorodonia L.",
+            "id": "1360510",
+            "score": 0.00704
+        },
+        {
+            "name": "Stachys alpina L.",
+            "id": "1397502",
+            "score": 0.00571
+        },
+        {
+            "name": "Scrophularia oblongifolia Loisel.",
+            "id": "1396124",
+            "score": 0.00294
+        },
+        {
+            "name": "Campanula trachelium L.",
+            "id": "1356757",
+            "score": 0.00211
+        },
+        {
+            "name": "Campanula rapunculoides L.",
+            "id": "1383635",
+            "score": 0.0015
+        },
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.0011
+        }
+    ]
+}

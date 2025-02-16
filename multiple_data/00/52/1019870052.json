@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Silphium perfoliatum L.",
+            "id": "1396301",
+            "score": 0.96219
+        },
+        {
+            "name": "Silphium integrifolium Michx.",
+            "id": "1413808",
+            "score": 0.00856
+        },
+        {
+            "name": "Silphium terebinthinaceum Jacq.",
+            "id": "1413811",
+            "score": 0.00372
+        },
+        {
+            "name": "Silphium laciniatum L.",
+            "id": "1413809",
+            "score": 0.00315
+        },
+        {
+            "name": "Silphium radula Nutt.",
+            "id": "1438304",
+            "score": 0.0022
+        },
+        {
+            "name": "Silphium asteriscus L.",
+            "id": "1438295",
+            "score": 0.00165
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Berberis aquifolium Pursh",
+            "id": "1400122",
+            "score": 0.65556
+        },
+        {
+            "name": "Berberis repens Lindl.",
+            "id": "1398614",
+            "score": 0.24401
+        },
+        {
+            "name": "Berberis darwinii Hook.",
+            "id": "1400115",
+            "score": 0.00395
+        },
+        {
+            "name": "Berberis vulgaris L.",
+            "id": "1356603",
+            "score": 0.00336
+        },
+        {
+            "name": "Berberis japonica (Thunb.) Spreng.",
+            "id": "1721496",
+            "score": 0.0022
+        },
+        {
+            "name": "Berberis nervosa Pursh",
+            "id": "1815603",
+            "score": 0.00105
+        }
+    ]
+}

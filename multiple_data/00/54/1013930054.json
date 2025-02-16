@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lathyrus tuberosus L.",
+            "id": "1359284",
+            "score": 0.72896
+        },
+        {
+            "name": "Lathyrus odoratus L.",
+            "id": "1363802",
+            "score": 0.20362
+        },
+        {
+            "name": "Lathyrus latifolius L.",
+            "id": "1363801",
+            "score": 0.01731
+        },
+        {
+            "name": "Lathyrus sylvestris L.",
+            "id": "1393458",
+            "score": 0.00991
+        },
+        {
+            "name": "Lathyrus heterophyllus L.",
+            "id": "1393455",
+            "score": 0.00154
+        }
+    ]
+}

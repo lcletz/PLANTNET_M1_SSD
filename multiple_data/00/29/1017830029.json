@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Orchis militaris L.",
+            "id": "1394279",
+            "score": 0.88962
+        },
+        {
+            "name": "Orchis × beyrichii (Rchb.f.) A.Kern.",
+            "id": "1628936",
+            "score": 0.05132
+        },
+        {
+            "name": "Orchis × hybrida (Lindl.) Boenn. ex Rchb.",
+            "id": "1628948",
+            "score": 0.00503
+        },
+        {
+            "name": "Orchis simia Lam.",
+            "id": "1361687",
+            "score": 0.00335
+        },
+        {
+            "name": "Orchis × spuria Rchb.f.",
+            "id": "1628969",
+            "score": 0.00167
+        }
+    ]
+}

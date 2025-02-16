@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salvia argentea L.",
+            "id": "1358860",
+            "score": 0.80784
+        },
+        {
+            "name": "Salvia aethiopis L.",
+            "id": "1358858",
+            "score": 0.15351
+        },
+        {
+            "name": "Salvia sclarea L.",
+            "id": "1358876",
+            "score": 0.01152
+        },
+        {
+            "name": "Stachys germanica L.",
+            "id": "1358939",
+            "score": 0.00271
+        },
+        {
+            "name": "Onopordum acanthium L.",
+            "id": "1357723",
+            "score": 0.00206
+        },
+        {
+            "name": "Stachys byzantina K.Koch",
+            "id": "1396424",
+            "score": 0.00133
+        },
+        {
+            "name": "Verbascum boerhavii L.",
+            "id": "1360520",
+            "score": 0.00105
+        }
+    ]
+}

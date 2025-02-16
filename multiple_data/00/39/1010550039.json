@@ -1,0 +1,330 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rosa sempervirens L.",
+            "id": "1360348",
+            "score": 0.8811
+        },
+        {
+            "name": "Rosa arvensis Huds.",
+            "id": "1395253",
+            "score": 0.58816
+        },
+        {
+            "name": "Rubus odoratus L.",
+            "id": "1398378",
+            "score": 0.06992
+        },
+        {
+            "name": "Rubus caesius L.",
+            "id": "1360354",
+            "score": 0.05255
+        },
+        {
+            "name": "Rosa spinosissima L.",
+            "id": "1360350",
+            "score": 0.05022
+        },
+        {
+            "name": "Rosa gallica L.",
+            "id": "1360338",
+            "score": 0.01257
+        },
+        {
+            "name": "Rubus rosifolius Sm.",
+            "id": "1370821",
+            "score": 0.01149
+        },
+        {
+            "name": "Rosa agrestis Savi",
+            "id": "1360330",
+            "score": 0.01085
+        },
+        {
+            "name": "Rosa chinensis Jacq.",
+            "id": "1395231",
+            "score": 0.00958
+        },
+        {
+            "name": "Rubus idaeus L.",
+            "id": "1395507",
+            "score": 0.0095
+        },
+        {
+            "name": "Rosa inodora Fr.",
+            "id": "1395299",
+            "score": 0.00738
+        },
+        {
+            "name": "Rosa stylosa Desv.",
+            "id": "1360352",
+            "score": 0.00622
+        },
+        {
+            "name": "Rubus nemorosus Hayne ex Willd.",
+            "id": "1737571",
+            "score": 0.00523
+        },
+        {
+            "name": "Rosa banksiae R.Br.",
+            "id": "1420444",
+            "score": 0.0049
+        },
+        {
+            "name": "Camellia sinensis (L.) Kuntze",
+            "id": "1379192",
+            "score": 0.00479
+        },
+        {
+            "name": "Rosa moschata Herrm.",
+            "id": "1360344",
+            "score": 0.00461
+        },
+        {
+            "name": "Rosa bracteata J.C.Wendl.",
+            "id": "1398421",
+            "score": 0.00428
+        },
+        {
+            "name": "Rosa xanthina Lindl.",
+            "id": "1395238",
+            "score": 0.00422
+        },
+        {
+            "name": "Rosa rugosa Thunb.",
+            "id": "1395343",
+            "score": 0.00421
+        },
+        {
+            "name": "Sibbaldia tridentata (Aiton) Paule & Soják",
+            "id": "1815360",
+            "score": 0.00417
+        },
+        {
+            "name": "Cistus salviifolius L.",
+            "id": "1357111",
+            "score": 0.00397
+        },
+        {
+            "name": "Calystegia sepium (L.) R.Br.",
+            "id": "1426068",
+            "score": 0.00394
+        },
+        {
+            "name": "Carpenteria californica Torr.",
+            "id": "1440835",
+            "score": 0.00347
+        },
+        {
+            "name": "Rosa marginata Wallr.",
+            "id": "1397868",
+            "score": 0.00342
+        },
+        {
+            "name": "Rosa canina L.",
+            "id": "1360334",
+            "score": 0.00331
+        },
+        {
+            "name": "Hydrangea sargentiana Rehder",
+            "id": "1554981",
+            "score": 0.00308
+        },
+        {
+            "name": "Cistus laurifolius L.",
+            "id": "1357104",
+            "score": 0.00288
+        },
+        {
+            "name": "Rosa abietina Gren. ex Christ",
+            "id": "1741909",
+            "score": 0.00278
+        },
+        {
+            "name": "Rosa laevigata Michx.",
+            "id": "1360339",
+            "score": 0.00264
+        },
+        {
+            "name": "Helianthemum apenninum (L.) Mill.",
+            "id": "1357126",
+            "score": 0.00257
+        },
+        {
+            "name": "Rosa multiflora Thunb.",
+            "id": "1360345",
+            "score": 0.00249
+        },
+        {
+            "name": "Rosa pendulina L.",
+            "id": "1395329",
+            "score": 0.0022
+        },
+        {
+            "name": "Cistus ladanifer L.",
+            "id": "1357103",
+            "score": 0.00212
+        },
+        {
+            "name": "Cistus monspeliensis L.",
+            "id": "1357105",
+            "score": 0.00198
+        },
+        {
+            "name": "Cicer arietinum L.",
+            "id": "1363794",
+            "score": 0.00197
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.00187
+        },
+        {
+            "name": "Sida cuspidata (A.Robyns) Krapov.",
+            "id": "1595513",
+            "score": 0.00176
+        },
+        {
+            "name": "Rosa corymbifera Borkh.",
+            "id": "1360335",
+            "score": 0.00172
+        },
+        {
+            "name": "Cienfuegosia digitata Cav.",
+            "id": "1356099",
+            "score": 0.0017
+        },
+        {
+            "name": "Dryas octopetala L.",
+            "id": "1391797",
+            "score": 0.00168
+        },
+        {
+            "name": "Sida linifolia Juss. ex Cav.",
+            "id": "1379656",
+            "score": 0.00162
+        },
+        {
+            "name": "Stewartia serrata Maxim.",
+            "id": "1721459",
+            "score": 0.00161
+        },
+        {
+            "name": "Rosa villosa L.",
+            "id": "1395371",
+            "score": 0.00155
+        },
+        {
+            "name": "Stewartia sinensis Rehder & E.H.Wilson",
+            "id": "1775706",
+            "score": 0.0015
+        },
+        {
+            "name": "Sida rhombifolia L.",
+            "id": "1359645",
+            "score": 0.00146
+        },
+        {
+            "name": "Rosa foetida Herrm.",
+            "id": "1395284",
+            "score": 0.00146
+        },
+        {
+            "name": "Paeonia officinalis L.",
+            "id": "1362842",
+            "score": 0.00144
+        },
+        {
+            "name": "Rubus alceifolius Poir.",
+            "id": "1408635",
+            "score": 0.00143
+        },
+        {
+            "name": "Rubus chamaemorus L.",
+            "id": "1413518",
+            "score": 0.00139
+        },
+        {
+            "name": "Camellia japonica L.",
+            "id": "1379149",
+            "score": 0.00135
+        },
+        {
+            "name": "Visnea mocanera L.f.",
+            "id": "1399906",
+            "score": 0.00126
+        },
+        {
+            "name": "Camellia yunnanensis (Pit. ex Diels) Cohen-Stuart",
+            "id": "1693283",
+            "score": 0.00123
+        },
+        {
+            "name": "Pericopsis elata (Harms) Meeuwen",
+            "id": "1368838",
+            "score": 0.00121
+        },
+        {
+            "name": "Rhodotypos scandens (Thunb.) Makino",
+            "id": "1395192",
+            "score": 0.00119
+        },
+        {
+            "name": "Oncoba spinosa Forssk.",
+            "id": "1423646",
+            "score": 0.00117
+        },
+        {
+            "name": "Rosa setigera Michx.",
+            "id": "1395350",
+            "score": 0.00117
+        },
+        {
+            "name": "Cistus populifolius L.",
+            "id": "1357109",
+            "score": 0.00115
+        },
+        {
+            "name": "Gossypium hirsutum L.",
+            "id": "1370585",
+            "score": 0.00112
+        },
+        {
+            "name": "Rosa tomentosa Sm.",
+            "id": "1395366",
+            "score": 0.00109
+        },
+        {
+            "name": "Rubus illecebrosus Focke",
+            "id": "1413525",
+            "score": 0.00108
+        },
+        {
+            "name": "Saurauia montana Seem.",
+            "id": "1447761",
+            "score": 0.00106
+        },
+        {
+            "name": "Hypericum × hidcoteense Geerinck",
+            "id": "1844315",
+            "score": 0.00105
+        },
+        {
+            "name": "Rhododendron ferrugineum L.",
+            "id": "1397475",
+            "score": 0.00101
+        },
+        {
+            "name": "Rubus tricolor Focke ex Prain",
+            "id": "1669600",
+            "score": 0.00101
+        },
+        {
+            "name": "Rubus formosensis Kuntze",
+            "id": "1668835",
+            "score": 0.00101
+        }
+    ]
+}

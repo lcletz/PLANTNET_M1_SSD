@@ -1,0 +1,20 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Triticum aestivum L.",
+            "id": "1363483",
+            "score": 0.94519
+        },
+        {
+            "name": "Triticum turgidum L.",
+            "id": "1363487",
+            "score": 0.00332
+        },
+        {
+            "name": "Secale cereale L.",
+            "id": "1363451",
+            "score": 0.00128
+        }
+    ]
+}

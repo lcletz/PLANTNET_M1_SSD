@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vaccinium myrtillus L.",
+            "id": "1361801",
+            "score": 0.85179
+        },
+        {
+            "name": "Vaccinium membranaceum Douglas ex Torr.",
+            "id": "1414145",
+            "score": 0.0165
+        },
+        {
+            "name": "Vaccinium angustifolium Aiton",
+            "id": "1414140",
+            "score": 0.00836
+        },
+        {
+            "name": "Salix breviserrata Flod.",
+            "id": "1395758",
+            "score": 0.00224
+        },
+        {
+            "name": "Salix pentandra L.",
+            "id": "1395852",
+            "score": 0.00184
+        },
+        {
+            "name": "Gaultheria shallon Pursh",
+            "id": "1392505",
+            "score": 0.00143
+        },
+        {
+            "name": "Lonicera alpigena L.",
+            "id": "1393630",
+            "score": 0.00133
+        },
+        {
+            "name": "Salix hastata L.",
+            "id": "1397478",
+            "score": 0.00113
+        },
+        {
+            "name": "Vaccinium uliginosum L.",
+            "id": "1396970",
+            "score": 0.00112
+        },
+        {
+            "name": "Salix myrsinifolia Salisb.",
+            "id": "1395843",
+            "score": 0.00107
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Colocasia esculenta (L.) Schott",
+            "id": "1362626",
+            "score": 0.20592
+        },
+        {
+            "name": "Alocasia macrorrhizos (L.) G.Don",
+            "id": "1408045",
+            "score": 0.18783
+        },
+        {
+            "name": "Rumex hydrolapathum Huds.",
+            "id": "1395664",
+            "score": 0.01035
+        },
+        {
+            "name": "Zantedeschia aethiopica (L.) Spreng.",
+            "id": "1363264",
+            "score": 0.00624
+        },
+        {
+            "name": "Arum pictum L.f.",
+            "id": "1396965",
+            "score": 0.00263
+        },
+        {
+            "name": "Alisma plantago-aquatica L.",
+            "id": "1357998",
+            "score": 0.00182
+        },
+        {
+            "name": "Nuphar lutea (L.) Sm.",
+            "id": "1359668",
+            "score": 0.0014
+        },
+        {
+            "name": "Gunnera tinctoria (Molina) Mirb.",
+            "id": "1392660",
+            "score": 0.00126
+        }
+    ]
+}

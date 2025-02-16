@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Platanus occidentalis L.",
+            "id": "1398530",
+            "score": 0.51705
+        },
+        {
+            "name": "Platanus × hispanica Mill. ex Münchh.",
+            "id": "1844583",
+            "score": 0.28353
+        },
+        {
+            "name": "Platanus orientalis L.",
+            "id": "1362358",
+            "score": 0.07766
+        },
+        {
+            "name": "Acer saccharum Marshall",
+            "id": "1390591",
+            "score": 0.01089
+        },
+        {
+            "name": "Quercus velutina Lam.",
+            "id": "1398376",
+            "score": 0.00354
+        },
+        {
+            "name": "Populus euphratica Olivier",
+            "id": "1360448",
+            "score": 0.00331
+        },
+        {
+            "name": "Platanus racemosa Nutt.",
+            "id": "1436625",
+            "score": 0.00289
+        },
+        {
+            "name": "Populus × canescens (Aiton) Sm.",
+            "id": "1683819",
+            "score": 0.00107
+        }
+    ]
+}

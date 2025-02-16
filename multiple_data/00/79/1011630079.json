@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Buddleja davidii Franch.",
+            "id": "1365253",
+            "score": 0.88276
+        },
+        {
+            "name": "Buddleja japonica Hemsl.",
+            "id": "1389573",
+            "score": 0.03764
+        },
+        {
+            "name": "Buddleja alternifolia Maxim.",
+            "id": "1397799",
+            "score": 0.00449
+        },
+        {
+            "name": "Buddleja asiatica Lour.",
+            "id": "1365246",
+            "score": 0.00264
+        },
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.00207
+        },
+        {
+            "name": "Buddleja albiflora Hemsl.",
+            "id": "1389571",
+            "score": 0.0014
+        },
+        {
+            "name": "Buddleja nivea Duthie",
+            "id": "1688473",
+            "score": 0.00102
+        }
+    ]
+}

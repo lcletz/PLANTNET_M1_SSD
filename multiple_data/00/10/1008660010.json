@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pilosella aurantiaca (L.) F.W.Schultz & Sch.Bip.",
+            "id": "1394567",
+            "score": 0.8648
+        },
+        {
+            "name": "Pilosella guthnikiana (Hegetschw. & Heer) Soják",
+            "id": "1742019",
+            "score": 0.09077
+        },
+        {
+            "name": "Hieracium murorum L.",
+            "id": "1393025",
+            "score": 0.00237
+        },
+        {
+            "name": "Crepis aurea (L.) Cass.",
+            "id": "1505431",
+            "score": 0.00194
+        },
+        {
+            "name": "Hieracium lachenalii Suter",
+            "id": "1392971",
+            "score": 0.00186
+        },
+        {
+            "name": "Pilosella cymosa (L.) F.W.Schultz & Sch.Bip.",
+            "id": "1394573",
+            "score": 0.0015
+        }
+    ]
+}

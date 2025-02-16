@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Circaea lutetiana L.",
+            "id": "1359680",
+            "score": 0.80482
+        },
+        {
+            "name": "Circaea alpina L.",
+            "id": "1397350",
+            "score": 0.02539
+        },
+        {
+            "name": "Circaea canadensis (L.) Hill",
+            "id": "1747265",
+            "score": 0.02034
+        },
+        {
+            "name": "Circaea × intermedia Ehrh.",
+            "id": "1609596",
+            "score": 0.01432
+        },
+        {
+            "name": "Circaea mollis Siebold & Zucc.",
+            "id": "1609598",
+            "score": 0.00464
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Fagopyrum esculentum Moench",
+            "id": "1356095",
+            "score": 0.86797
+        },
+        {
+            "name": "Fagopyrum tataricum (L.) Gaertn.",
+            "id": "1392244",
+            "score": 0.03621
+        },
+        {
+            "name": "Fagopyrum cymosum (Trevir.) Meisn.",
+            "id": "1721554",
+            "score": 0.00706
+        },
+        {
+            "name": "Koenigia alpina (All.) T.M.Schust. & Reveal",
+            "id": "1737583",
+            "score": 0.00133
+        }
+    ]
+}

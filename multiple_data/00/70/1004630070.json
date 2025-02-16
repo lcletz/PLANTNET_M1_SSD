@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Mentha spicata L.",
+            "id": "1358788",
+            "score": 0.82091
+        },
+        {
+            "name": "Mentha suaveolens Ehrh.",
+            "id": "1358789",
+            "score": 0.07017
+        },
+        {
+            "name": "Mentha × piperita L.",
+            "id": "1560691",
+            "score": 0.03177
+        },
+        {
+            "name": "Mentha × rotundifolia (L.) Huds.",
+            "id": "1560693",
+            "score": 0.0218
+        },
+        {
+            "name": "Mentha longifolia (L.) L.",
+            "id": "1356107",
+            "score": 0.00426
+        },
+        {
+            "name": "Melissa officinalis L.",
+            "id": "1358784",
+            "score": 0.00345
+        },
+        {
+            "name": "Mentha aquatica L.",
+            "id": "1356105",
+            "score": 0.00226
+        },
+        {
+            "name": "Monarda didyma L.",
+            "id": "1397732",
+            "score": 0.00101
+        }
+    ]
+}

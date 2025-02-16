@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Scolymus hispanicus L.",
+            "id": "1357848",
+            "score": 0.75955
+        },
+        {
+            "name": "Scolymus grandiflorus Desf.",
+            "id": "1357847",
+            "score": 0.02571
+        },
+        {
+            "name": "Scolymus maculatus L.",
+            "id": "1355950",
+            "score": 0.02166
+        },
+        {
+            "name": "Carthamus lanatus L.",
+            "id": "1357379",
+            "score": 0.01821
+        },
+        {
+            "name": "Sonchus asper (L.) Hill",
+            "id": "1357875",
+            "score": 0.0069
+        },
+        {
+            "name": "Carlina corymbosa L.",
+            "id": "1397344",
+            "score": 0.00595
+        },
+        {
+            "name": "Carduus pycnocephalus L.",
+            "id": "1357351",
+            "score": 0.00168
+        },
+        {
+            "name": "Carduus tenuiflorus Curtis",
+            "id": "1355881",
+            "score": 0.00117
+        },
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.0011
+        },
+        {
+            "name": "Silybum marianum (L.) Gaertn.",
+            "id": "1364100",
+            "score": 0.00103
+        }
+    ]
+}

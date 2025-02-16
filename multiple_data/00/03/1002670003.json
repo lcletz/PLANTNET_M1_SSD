@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Saxifraga longifolia Lapeyr.",
+            "id": "1360478",
+            "score": 0.88372
+        },
+        {
+            "name": "Saxifraga paniculata Mill.",
+            "id": "1397549",
+            "score": 0.06176
+        },
+        {
+            "name": "Saxifraga cotyledon L.",
+            "id": "1395966",
+            "score": 0.00425
+        },
+        {
+            "name": "Saxifraga hostii Tausch",
+            "id": "1398310",
+            "score": 0.002
+        },
+        {
+            "name": "Saxifraga crustata Vest",
+            "id": "1398985",
+            "score": 0.00105
+        }
+    ]
+}

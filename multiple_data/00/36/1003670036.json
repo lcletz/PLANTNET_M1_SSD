@@ -1,0 +1,60 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.80879
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.07865
+        },
+        {
+            "name": "Prunus serotina Ehrh.",
+            "id": "1370859",
+            "score": 0.02579
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.00727
+        },
+        {
+            "name": "Rubus canescens DC.",
+            "id": "1395431",
+            "score": 0.00289
+        },
+        {
+            "name": "Cotoneaster multiflorus Bunge",
+            "id": "1391390",
+            "score": 0.00247
+        },
+        {
+            "name": "Amelanchier canadensis (L.) Medik.",
+            "id": "1397734",
+            "score": 0.00198
+        },
+        {
+            "name": "Amelanchier alnifolia (Nutt.) Nutt. ex M.Roem.",
+            "id": "1420336",
+            "score": 0.00188
+        },
+        {
+            "name": "Rosa multiflora Thunb.",
+            "id": "1360345",
+            "score": 0.00176
+        },
+        {
+            "name": "Amelanchier ovalis Medik.",
+            "id": "1360275",
+            "score": 0.00121
+        },
+        {
+            "name": "Amelanchier × spicata (Lam.) K.Koch",
+            "id": "1843656",
+            "score": 0.00107
+        }
+    ]
+}

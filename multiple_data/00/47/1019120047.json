@@ -1,0 +1,55 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Setaria verticillata (L.) P.Beauv.",
+            "id": "1396252",
+            "score": 0.77033
+        },
+        {
+            "name": "Setaria pumila (Poir.) Roem. & Schult.",
+            "id": "1363386",
+            "score": 0.07231
+        },
+        {
+            "name": "Echinochloa crus-galli (L.) P.Beauv.",
+            "id": "1391823",
+            "score": 0.01999
+        },
+        {
+            "name": "Setaria italica (L.) P.Beauv.",
+            "id": "1396251",
+            "score": 0.01215
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.00248
+        },
+        {
+            "name": "Carex pendula Huds.",
+            "id": "1361075",
+            "score": 0.00208
+        },
+        {
+            "name": "Setaria adhaerens (Forssk.) Chiov.",
+            "id": "1396249",
+            "score": 0.00166
+        },
+        {
+            "name": "Carex sylvatica Huds.",
+            "id": "1363283",
+            "score": 0.00157
+        },
+        {
+            "name": "Phyteuma spicatum L.",
+            "id": "1394555",
+            "score": 0.00113
+        },
+        {
+            "name": "Echinochloa colonum (L.) Link",
+            "id": "1424916",
+            "score": 0.00112
+        }
+    ]
+}

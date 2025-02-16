@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Parthenocissus tricuspidata (Siebold & Zucc.) Planch.",
+            "id": "1360884",
+            "score": 0.94474
+        },
+        {
+            "name": "Vitis vulpina L.",
+            "id": "1397214",
+            "score": 0.00221
+        },
+        {
+            "name": "Ampelopsis cordata Michx.",
+            "id": "1444188",
+            "score": 0.00219
+        },
+        {
+            "name": "Parthenocissus quinquefolia (L.) Planch.",
+            "id": "1394423",
+            "score": 0.00193
+        },
+        {
+            "name": "Vitis labrusca L.",
+            "id": "1363005",
+            "score": 0.00129
+        },
+        {
+            "name": "Vitis vinifera L.",
+            "id": "1356217",
+            "score": 0.00104
+        }
+    ]
+}

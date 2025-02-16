@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tragopogon pratensis L.",
+            "id": "1396832",
+            "score": 0.73636
+        },
+        {
+            "name": "Tragopogon orientalis L.",
+            "id": "1524939",
+            "score": 0.11264
+        },
+        {
+            "name": "Tragopogon dubius Scop.",
+            "id": "1364167",
+            "score": 0.04238
+        },
+        {
+            "name": "Scorzonera humilis L.",
+            "id": "1396115",
+            "score": 0.02987
+        },
+        {
+            "name": "Pseudopodospermum hispanicum (L.) Zaika, Sukhor. & N.Kilian",
+            "id": "1739189",
+            "score": 0.02183
+        },
+        {
+            "name": "Gelasia hirsuta (Gouan) Zaika, Sukhor. & N.Kilian",
+            "id": "1743889",
+            "score": 0.00513
+        }
+    ]
+}

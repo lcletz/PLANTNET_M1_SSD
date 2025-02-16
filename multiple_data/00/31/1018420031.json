@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Prenanthes purpurea L.",
+            "id": "1394894",
+            "score": 0.85932
+        },
+        {
+            "name": "Solidago virgaurea L.",
+            "id": "1357872",
+            "score": 0.00561
+        },
+        {
+            "name": "Doronicum corsicum (Loisel.) Poir.",
+            "id": "1391756",
+            "score": 0.0028
+        },
+        {
+            "name": "Hieracium prenanthoides Vill.",
+            "id": "1393092",
+            "score": 0.00184
+        },
+        {
+            "name": "Euphorbia dulcis L.",
+            "id": "1392156",
+            "score": 0.00153
+        },
+        {
+            "name": "Reichardia picroides (L.) Roth",
+            "id": "1357815",
+            "score": 0.00143
+        },
+        {
+            "name": "Buphthalmum salicifolium L.",
+            "id": "1397329",
+            "score": 0.00103
+        }
+    ]
+}

@@ -1,0 +1,490 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Buddleja davidii Franch.",
+            "id": "1365253",
+            "score": 0.71075
+        },
+        {
+            "name": "Rosa pouzinii Tratt.",
+            "id": "1360347",
+            "score": 0.35559
+        },
+        {
+            "name": "Buddleja globosa Hope",
+            "id": "1365271",
+            "score": 0.14215
+        },
+        {
+            "name": "Rosa pendulina L.",
+            "id": "1395329",
+            "score": 0.11545
+        },
+        {
+            "name": "Allium tuberosum Rottler ex Spreng.",
+            "id": "1418843",
+            "score": 0.09223
+        },
+        {
+            "name": "Rosa gallica L.",
+            "id": "1360338",
+            "score": 0.07331
+        },
+        {
+            "name": "Poa annua L.",
+            "id": "1363455",
+            "score": 0.07023
+        },
+        {
+            "name": "Rosa rubiginosa L.",
+            "id": "1363996",
+            "score": 0.06947
+        },
+        {
+            "name": "Lolium perenne L.",
+            "id": "1363475",
+            "score": 0.05571
+        },
+        {
+            "name": "Molinia caerulea (L.) Moench",
+            "id": "1363593",
+            "score": 0.04992
+        },
+        {
+            "name": "Rosa chinensis Jacq.",
+            "id": "1395231",
+            "score": 0.04992
+        },
+        {
+            "name": "Rosa sempervirens L.",
+            "id": "1360348",
+            "score": 0.04735
+        },
+        {
+            "name": "Poa chaixii Vill.",
+            "id": "1394663",
+            "score": 0.02965
+        },
+        {
+            "name": "Rosa abietina Gren. ex Christ",
+            "id": "1741909",
+            "score": 0.02761
+        },
+        {
+            "name": "Rosa multiflora Thunb.",
+            "id": "1360345",
+            "score": 0.02489
+        },
+        {
+            "name": "Rosa glauca Pourr.",
+            "id": "1668240",
+            "score": 0.0239
+        },
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.02172
+        },
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.02095
+        },
+        {
+            "name": "Stenotaphrum secundatum (Walter) Kuntze",
+            "id": "1363543",
+            "score": 0.01939
+        },
+        {
+            "name": "Buddleja japonica Hemsl.",
+            "id": "1389573",
+            "score": 0.01786
+        },
+        {
+            "name": "Amelanchier ovalis Medik.",
+            "id": "1360275",
+            "score": 0.01747
+        },
+        {
+            "name": "Acorus calamus L.",
+            "id": "1396585",
+            "score": 0.01683
+        },
+        {
+            "name": "Rosa canina L.",
+            "id": "1360334",
+            "score": 0.01672
+        },
+        {
+            "name": "Rosa agrestis Savi",
+            "id": "1360330",
+            "score": 0.01623
+        },
+        {
+            "name": "Allium sativum L.",
+            "id": "1358126",
+            "score": 0.01558
+        },
+        {
+            "name": "Buddleja albiflora Hemsl.",
+            "id": "1389571",
+            "score": 0.01523
+        },
+        {
+            "name": "Avena sativa L.",
+            "id": "1363469",
+            "score": 0.01499
+        },
+        {
+            "name": "Rosa spinosissima L.",
+            "id": "1360350",
+            "score": 0.01455
+        },
+        {
+            "name": "Carex paniculata L.",
+            "id": "1361074",
+            "score": 0.01423
+        },
+        {
+            "name": "Rosa × damascena Herrm.",
+            "id": "1668204",
+            "score": 0.01298
+        },
+        {
+            "name": "Melica nutans L.",
+            "id": "1393788",
+            "score": 0.0129
+        },
+        {
+            "name": "Iris sibirica L.",
+            "id": "1393304",
+            "score": 0.01089
+        },
+        {
+            "name": "Brachypodium sylvaticum (Huds.) P.Beauv.",
+            "id": "1389018",
+            "score": 0.01084
+        },
+        {
+            "name": "Sesleria caerulea (L.) Ard.",
+            "id": "1397494",
+            "score": 0.01056
+        },
+        {
+            "name": "Anthoxanthum nitens (Weber) Y.Schouten & Veldkamp",
+            "id": "1728709",
+            "score": 0.01039
+        },
+        {
+            "name": "Allium schoenoprasum L.",
+            "id": "1392774",
+            "score": 0.01
+        },
+        {
+            "name": "Poa nemoralis L.",
+            "id": "1361376",
+            "score": 0.00947
+        },
+        {
+            "name": "Allium angulosum L.",
+            "id": "1392503",
+            "score": 0.0087
+        },
+        {
+            "name": "Anthoxanthum odoratum L.",
+            "id": "1363461",
+            "score": 0.00869
+        },
+        {
+            "name": "Hordeum vulgare L.",
+            "id": "1363481",
+            "score": 0.00863
+        },
+        {
+            "name": "Amelanchier × lamarckii F.G.Schroed.",
+            "id": "1737557",
+            "score": 0.00822
+        },
+        {
+            "name": "Iris foetidissima L.",
+            "id": "1361540",
+            "score": 0.00639
+        },
+        {
+            "name": "Narcissus tazetta L.",
+            "id": "1360971",
+            "score": 0.00632
+        },
+        {
+            "name": "Rosa × andegavensis Bastard",
+            "id": "1668155",
+            "score": 0.00614
+        },
+        {
+            "name": "Oryza sativa L.",
+            "id": "1363477",
+            "score": 0.00592
+        },
+        {
+            "name": "Eleocharis palustris (L.) Roem. & Schult.",
+            "id": "1363275",
+            "score": 0.00543
+        },
+        {
+            "name": "Narcissus jonquilla L.",
+            "id": "1360962",
+            "score": 0.00493
+        },
+        {
+            "name": "Hemerocallis fulva (L.) L.",
+            "id": "1392748",
+            "score": 0.00487
+        },
+        {
+            "name": "Alopecurus pratensis L.",
+            "id": "1362406",
+            "score": 0.00484
+        },
+        {
+            "name": "Amelanchier alnifolia (Nutt.) Nutt. ex M.Roem.",
+            "id": "1420336",
+            "score": 0.00472
+        },
+        {
+            "name": "Imperata cylindrica (L.) Raeusch.",
+            "id": "1363401",
+            "score": 0.00445
+        },
+        {
+            "name": "Rosa lucieae Franch. & Rochebr. ex Crép.",
+            "id": "1420447",
+            "score": 0.00429
+        },
+        {
+            "name": "Cymbopogon citratus (DC.) Stapf",
+            "id": "1363530",
+            "score": 0.00424
+        },
+        {
+            "name": "Allium vineale L.",
+            "id": "1360945",
+            "score": 0.00416
+        },
+        {
+            "name": "Glyceria fluitans (L.) R.Br.",
+            "id": "1392636",
+            "score": 0.00407
+        },
+        {
+            "name": "Alopecurus myosuroides Huds.",
+            "id": "1361157",
+            "score": 0.00405
+        },
+        {
+            "name": "Amelanchier canadensis (L.) Medik.",
+            "id": "1397734",
+            "score": 0.00405
+        },
+        {
+            "name": "Rosa micrantha Borrer ex Sm.",
+            "id": "1360342",
+            "score": 0.00397
+        },
+        {
+            "name": "Melica uniflora Retz.",
+            "id": "1361335",
+            "score": 0.0039
+        },
+        {
+            "name": "Holcus lanatus L.",
+            "id": "1363460",
+            "score": 0.00385
+        },
+        {
+            "name": "Glyceria maxima (Hartm.) Holmb.",
+            "id": "1392637",
+            "score": 0.00378
+        },
+        {
+            "name": "Narcissus pseudonarcissus L.",
+            "id": "1360968",
+            "score": 0.00372
+        },
+        {
+            "name": "Salix lapponum L.",
+            "id": "1395821",
+            "score": 0.00343
+        },
+        {
+            "name": "Rosa dumalis Bechst.",
+            "id": "1362985",
+            "score": 0.00339
+        },
+        {
+            "name": "Rosa arvensis Huds.",
+            "id": "1395253",
+            "score": 0.00332
+        },
+        {
+            "name": "Carex nigra (L.) Reichard",
+            "id": "1361069",
+            "score": 0.00327
+        },
+        {
+            "name": "Rosa foetida Herrm.",
+            "id": "1395284",
+            "score": 0.00326
+        },
+        {
+            "name": "Buddleja asiatica Lour.",
+            "id": "1365246",
+            "score": 0.00321
+        },
+        {
+            "name": "Lysimachia vulgaris L.",
+            "id": "1361863",
+            "score": 0.0032
+        },
+        {
+            "name": "Buddleja alternifolia Maxim.",
+            "id": "1397799",
+            "score": 0.00314
+        },
+        {
+            "name": "Juncus conglomeratus L.",
+            "id": "1361574",
+            "score": 0.00314
+        },
+        {
+            "name": "Allium insubricum Boiss. & Reut.",
+            "id": "1452405",
+            "score": 0.00309
+        },
+        {
+            "name": "Amelanchier laevis Wiegand",
+            "id": "1412102",
+            "score": 0.00302
+        },
+        {
+            "name": "Poa trivialis L.",
+            "id": "1363459",
+            "score": 0.003
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.00293
+        },
+        {
+            "name": "Narcissus bicolor L.",
+            "id": "1393919",
+            "score": 0.00284
+        },
+        {
+            "name": "Vernonanthura tweedieana (Baker) H.Rob.",
+            "id": "1525664",
+            "score": 0.00282
+        },
+        {
+            "name": "Cistus ladanifer L.",
+            "id": "1357103",
+            "score": 0.00276
+        },
+        {
+            "name": "Rosa villosa L.",
+            "id": "1395371",
+            "score": 0.00269
+        },
+        {
+            "name": "Crocosmia × crocosmiiflora (Lemoine) N.E.Br.",
+            "id": "1556072",
+            "score": 0.00265
+        },
+        {
+            "name": "Allium oleraceum L.",
+            "id": "1392704",
+            "score": 0.00263
+        },
+        {
+            "name": "Rubus fruticosus L.",
+            "id": "1395477",
+            "score": 0.00262
+        },
+        {
+            "name": "Aralia elata (Miq.) Seem.",
+            "id": "1398447",
+            "score": 0.00252
+        },
+        {
+            "name": "Poa compressa L.",
+            "id": "1361369",
+            "score": 0.00252
+        },
+        {
+            "name": "Rosa × centifolia L.",
+            "id": "1844702",
+            "score": 0.0025
+        },
+        {
+            "name": "Aronia melanocarpa (Michx.) Elliott",
+            "id": "1398450",
+            "score": 0.00245
+        },
+        {
+            "name": "Tulbaghia violacea Harv.",
+            "id": "1453904",
+            "score": 0.00239
+        },
+        {
+            "name": "Briza media L.",
+            "id": "1361195",
+            "score": 0.00238
+        },
+        {
+            "name": "Cynodon dactylon (L.) Pers.",
+            "id": "1363526",
+            "score": 0.00222
+        },
+        {
+            "name": "Allium tricoccum Aiton",
+            "id": "1411756",
+            "score": 0.00219
+        },
+        {
+            "name": "Lolium giganteum (L.) Darbysh.",
+            "id": "1728724",
+            "score": 0.00218
+        },
+        {
+            "name": "Luzula sylvatica (Huds.) Gaudin",
+            "id": "1397430",
+            "score": 0.00217
+        },
+        {
+            "name": "Elymus repens (L.) Gould",
+            "id": "1411890",
+            "score": 0.00216
+        },
+        {
+            "name": "Rosa moyesii Hemsl. & E.H.Wilson",
+            "id": "1395234",
+            "score": 0.00214
+        },
+        {
+            "name": "Miscanthus sinensis Andersson",
+            "id": "1393844",
+            "score": 0.00212
+        },
+        {
+            "name": "Avenula pubescens (Huds.) Dumort.",
+            "id": "1400086",
+            "score": 0.00209
+        },
+        {
+            "name": "Hordeum spontaneum K.Koch",
+            "id": "1425101",
+            "score": 0.00209
+        }
+    ]
+}

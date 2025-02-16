@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Filipendula vulgaris Moench",
+            "id": "1360297",
+            "score": 0.96635
+        },
+        {
+            "name": "Achillea nobilis L.",
+            "id": "1397302",
+            "score": 0.00454
+        },
+        {
+            "name": "Achillea odorata L.",
+            "id": "1357187",
+            "score": 0.003
+        },
+        {
+            "name": "Achillea distans Waldst. & Kit. ex Willd.",
+            "id": "1392898",
+            "score": 0.00131
+        },
+        {
+            "name": "Achillea tomentosa L.",
+            "id": "1393953",
+            "score": 0.00126
+        }
+    ]
+}

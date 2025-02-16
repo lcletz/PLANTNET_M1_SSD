@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Primula vulgaris Huds.",
+            "id": "1394924",
+            "score": 0.90207
+        },
+        {
+            "name": "Primula × polyantha Mill.",
+            "id": "1661341",
+            "score": 0.02293
+        },
+        {
+            "name": "Primula elatior (L.) Hill",
+            "id": "1394906",
+            "score": 0.00792
+        },
+        {
+            "name": "Primula farinosa L.",
+            "id": "1397542",
+            "score": 0.0074
+        },
+        {
+            "name": "Primula veris L.",
+            "id": "1360145",
+            "score": 0.00469
+        },
+        {
+            "name": "Primula rosea Royle",
+            "id": "1420204",
+            "score": 0.00294
+        }
+    ]
+}

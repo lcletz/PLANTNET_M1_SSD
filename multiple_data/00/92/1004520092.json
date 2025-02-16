@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vaccinium uliginosum L.",
+            "id": "1396970",
+            "score": 0.96655
+        },
+        {
+            "name": "Lonicera caerulea L.",
+            "id": "1393631",
+            "score": 0.00527
+        },
+        {
+            "name": "Berberis vulgaris L.",
+            "id": "1356603",
+            "score": 0.00222
+        },
+        {
+            "name": "Cotoneaster integerrimus Medik.",
+            "id": "1391411",
+            "score": 0.00183
+        },
+        {
+            "name": "Symphoricarpos albus (L.) S.F.Blake",
+            "id": "1397506",
+            "score": 0.00135
+        }
+    ]
+}

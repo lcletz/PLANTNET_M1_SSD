@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus serrulata Lindl.",
+            "id": "1394953",
+            "score": 0.79867
+        },
+        {
+            "name": "Prunus triloba Lindl.",
+            "id": "1398678",
+            "score": 0.1103
+        },
+        {
+            "name": "Prunus × yedoensis Matsum.",
+            "id": "1668075",
+            "score": 0.01453
+        },
+        {
+            "name": "Prunus × subhirtella Miq.",
+            "id": "1721663",
+            "score": 0.00538
+        },
+        {
+            "name": "Rhododendron fortunei Lindl.",
+            "id": "1540158",
+            "score": 0.00144
+        },
+        {
+            "name": "Prunus amygdalus Batsch",
+            "id": "1722605",
+            "score": 0.00128
+        }
+    ]
+}

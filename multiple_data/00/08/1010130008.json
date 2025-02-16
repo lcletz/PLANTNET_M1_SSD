@@ -1,0 +1,385 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.16357
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.10411
+        },
+        {
+            "name": "Mercurialis perennis L.",
+            "id": "1358605",
+            "score": 0.06518
+        },
+        {
+            "name": "Veronica officinalis L.",
+            "id": "1364068",
+            "score": 0.02549
+        },
+        {
+            "name": "Stevia rebaudiana (Bertoni) Bertoni",
+            "id": "1430604",
+            "score": 0.0196
+        },
+        {
+            "name": "Salix myrsinifolia Salisb.",
+            "id": "1395843",
+            "score": 0.01629
+        },
+        {
+            "name": "Salix hastata L.",
+            "id": "1397478",
+            "score": 0.01497
+        },
+        {
+            "name": "Salix breviserrata Flod.",
+            "id": "1395758",
+            "score": 0.01283
+        },
+        {
+            "name": "Prunus japonica Thunb.",
+            "id": "1394940",
+            "score": 0.01203
+        },
+        {
+            "name": "Verbena stricta Vent.",
+            "id": "1414171",
+            "score": 0.00962
+        },
+        {
+            "name": "Rhamnus saxatilis Jacq.",
+            "id": "1395158",
+            "score": 0.00845
+        },
+        {
+            "name": "Spiraea alba Du Roi",
+            "id": "1396390",
+            "score": 0.00798
+        },
+        {
+            "name": "Vaccinium myrtillus L.",
+            "id": "1361801",
+            "score": 0.00793
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00769
+        },
+        {
+            "name": "Stachys recta L.",
+            "id": "1396435",
+            "score": 0.00727
+        },
+        {
+            "name": "Chamaemespilus alpina (Mill.) K.R.Robertson & J.B.Phipps",
+            "id": "1741903",
+            "score": 0.00691
+        },
+        {
+            "name": "Mercurialis ovata Sternb. & Hoppe",
+            "id": "1397723",
+            "score": 0.00632
+        },
+        {
+            "name": "Salvia nemorosa L.",
+            "id": "1397479",
+            "score": 0.00595
+        },
+        {
+            "name": "Commiphora madagascariensis Jacq.",
+            "id": "1365807",
+            "score": 0.00591
+        },
+        {
+            "name": "Malus domestica (Suckow) Borkh.",
+            "id": "1729464",
+            "score": 0.00579
+        },
+        {
+            "name": "Verbena bonariensis L.",
+            "id": "1356209",
+            "score": 0.0042
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00406
+        },
+        {
+            "name": "Spiraea cantoniensis Lour.",
+            "id": "1396397",
+            "score": 0.00322
+        },
+        {
+            "name": "Prunus glandulosa Thunb.",
+            "id": "1413348",
+            "score": 0.00303
+        },
+        {
+            "name": "Hydrangea petiolaris Siebold & Zucc.",
+            "id": "1398621",
+            "score": 0.003
+        },
+        {
+            "name": "Salix caprea L.",
+            "id": "1395765",
+            "score": 0.00298
+        },
+        {
+            "name": "Populus balsamifera L.",
+            "id": "1394775",
+            "score": 0.0029
+        },
+        {
+            "name": "Platycodon grandiflorus (Jacq.) A.DC.",
+            "id": "1418374",
+            "score": 0.00287
+        },
+        {
+            "name": "Digitalis purpurea L.",
+            "id": "1364079",
+            "score": 0.00284
+        },
+        {
+            "name": "Eupatorium perfoliatum L.",
+            "id": "1412024",
+            "score": 0.00279
+        },
+        {
+            "name": "Buddleja globosa Hope",
+            "id": "1365271",
+            "score": 0.00275
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.0027
+        },
+        {
+            "name": "Prunus × fruticans Weihe",
+            "id": "1667948",
+            "score": 0.00269
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.0026
+        },
+        {
+            "name": "Forsythia suspensa (Thunb.) Vahl",
+            "id": "1392356",
+            "score": 0.00258
+        },
+        {
+            "name": "Rhododendron hirsutum L.",
+            "id": "1395190",
+            "score": 0.00245
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.00241
+        },
+        {
+            "name": "Nothofagus dombeyi (Mirb.) Oerst.",
+            "id": "1608027",
+            "score": 0.00227
+        },
+        {
+            "name": "Aronia melanocarpa (Michx.) Elliott",
+            "id": "1398450",
+            "score": 0.00225
+        },
+        {
+            "name": "Helleborus viridis L.",
+            "id": "1397399",
+            "score": 0.00207
+        },
+        {
+            "name": "Helleborus orientalis Lam.",
+            "id": "1392740",
+            "score": 0.00205
+        },
+        {
+            "name": "Teucrium scorodonia L.",
+            "id": "1359020",
+            "score": 0.00181
+        },
+        {
+            "name": "Lippia alba (Mill.) N.E.Br. ex Britton & P.Wilson",
+            "id": "1420825",
+            "score": 0.00176
+        },
+        {
+            "name": "Salix appendiculata Vill.",
+            "id": "1395742",
+            "score": 0.00176
+        },
+        {
+            "name": "Escallonia rubra (Ruiz & Pav.) Pers.",
+            "id": "1392136",
+            "score": 0.00161
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.00157
+        },
+        {
+            "name": "Verbascum virgatum Stokes",
+            "id": "1364058",
+            "score": 0.00156
+        },
+        {
+            "name": "Forsythia × intermedia Zabel",
+            "id": "1844237",
+            "score": 0.00151
+        },
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.0015
+        },
+        {
+            "name": "Melittis melissophyllum L.",
+            "id": "1397437",
+            "score": 0.00148
+        },
+        {
+            "name": "Rhododendron simsii Planch.",
+            "id": "1395189",
+            "score": 0.00144
+        },
+        {
+            "name": "Salix cinerea L.",
+            "id": "1362486",
+            "score": 0.00138
+        },
+        {
+            "name": "Eupatorium cannabinum L.",
+            "id": "1362447",
+            "score": 0.00138
+        },
+        {
+            "name": "Salix repens L.",
+            "id": "1395867",
+            "score": 0.00137
+        },
+        {
+            "name": "Digitalis thapsi L.",
+            "id": "1400052",
+            "score": 0.00137
+        },
+        {
+            "name": "Teucrium canadense L.",
+            "id": "1414011",
+            "score": 0.00136
+        },
+        {
+            "name": "Coleus barbatus (Andrews) Benth. ex G.Don",
+            "id": "1748272",
+            "score": 0.00135
+        },
+        {
+            "name": "Daphne mezereum L.",
+            "id": "1391652",
+            "score": 0.00128
+        },
+        {
+            "name": "Stachys alpina L.",
+            "id": "1397502",
+            "score": 0.00127
+        },
+        {
+            "name": "Synedrella nodiflora (L.) Gaertn.",
+            "id": "1375059",
+            "score": 0.00127
+        },
+        {
+            "name": "Salix herbacea L.",
+            "id": "1395807",
+            "score": 0.00124
+        },
+        {
+            "name": "Bartsia alpina L.",
+            "id": "1400101",
+            "score": 0.00124
+        },
+        {
+            "name": "Veronica longifolia L.",
+            "id": "1397056",
+            "score": 0.00122
+        },
+        {
+            "name": "Ageratum conyzoides L.",
+            "id": "1355899",
+            "score": 0.00117
+        },
+        {
+            "name": "Salix laggeri Wimm.",
+            "id": "1395820",
+            "score": 0.00116
+        },
+        {
+            "name": "Veronica austriaca L.",
+            "id": "1362391",
+            "score": 0.00113
+        },
+        {
+            "name": "Chaenomeles japonica (Thunb.) Lindl. ex Spach",
+            "id": "1391103",
+            "score": 0.00112
+        },
+        {
+            "name": "Prunus × syriaca Borkh.",
+            "id": "1741908",
+            "score": 0.00108
+        },
+        {
+            "name": "Spiraea tomentosa L.",
+            "id": "1396389",
+            "score": 0.00107
+        },
+        {
+            "name": "Celastrus orbiculatus Thunb.",
+            "id": "1390975",
+            "score": 0.00106
+        },
+        {
+            "name": "Spiraea × vanhouttei (Briot) Carrière",
+            "id": "1844864",
+            "score": 0.00104
+        },
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.00103
+        },
+        {
+            "name": "Arctous alpina (L.) Nied.",
+            "id": "1418688",
+            "score": 0.00102
+        },
+        {
+            "name": "Rhododendron indicum (L.) Sweet",
+            "id": "1418768",
+            "score": 0.00101
+        },
+        {
+            "name": "Eutrochium maculatum (L.) E.E.Lamont",
+            "id": "1507899",
+            "score": 0.00101
+        },
+        {
+            "name": "Liquidambar styraciflua L.",
+            "id": "1393613",
+            "score": 0.001
+        }
+    ]
+}

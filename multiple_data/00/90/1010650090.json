@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Galium aparine L.",
+            "id": "1360385",
+            "score": 0.68572
+        },
+        {
+            "name": "Galium verrucosum Huds.",
+            "id": "1360420",
+            "score": 0.1863
+        },
+        {
+            "name": "Galium maritimum L.",
+            "id": "1392467",
+            "score": 0.06512
+        },
+        {
+            "name": "Galium tricornutum Dandy",
+            "id": "1360417",
+            "score": 0.00945
+        },
+        {
+            "name": "Galium spurium L.",
+            "id": "1360416",
+            "score": 0.00651
+        },
+        {
+            "name": "Galium lucidum All.",
+            "id": "1360398",
+            "score": 0.00166
+        },
+        {
+            "name": "Asperula arvensis L.",
+            "id": "1360369",
+            "score": 0.00144
+        }
+    ]
+}

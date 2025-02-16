@@ -1,0 +1,60 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.4801
+        },
+        {
+            "name": "Fagus orientalis Lipsky",
+            "id": "1547791",
+            "score": 0.26515
+        },
+        {
+            "name": "Carpinus orientalis Mill.",
+            "id": "1398832",
+            "score": 0.07729
+        },
+        {
+            "name": "Fagus grandifolia Ehrh.",
+            "id": "1412056",
+            "score": 0.06857
+        },
+        {
+            "name": "Fagus japonica Maxim.",
+            "id": "1547788",
+            "score": 0.00778
+        },
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.00277
+        },
+        {
+            "name": "Betula nigra L.",
+            "id": "1390590",
+            "score": 0.00269
+        },
+        {
+            "name": "Carpinus caroliniana Walter",
+            "id": "1411338",
+            "score": 0.00183
+        },
+        {
+            "name": "Nothofagus alpina (Poepp. & Endl.) Oerst.",
+            "id": "1419595",
+            "score": 0.00166
+        },
+        {
+            "name": "Fagus crenata Blume",
+            "id": "1419065",
+            "score": 0.00159
+        },
+        {
+            "name": "Fagus hayatae Palib. ex Hayata",
+            "id": "1547787",
+            "score": 0.00133
+        }
+    ]
+}

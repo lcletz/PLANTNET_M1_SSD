@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.62252
+        },
+        {
+            "name": "Acer platanoides L.",
+            "id": "1397301",
+            "score": 0.07202
+        },
+        {
+            "name": "Acer opalus Mill.",
+            "id": "1362399",
+            "score": 0.02013
+        },
+        {
+            "name": "Acer monspessulanum L.",
+            "id": "1356457",
+            "score": 0.01606
+        },
+        {
+            "name": "Acer pseudoplatanus L.",
+            "id": "1356460",
+            "score": 0.00801
+        },
+        {
+            "name": "Acer cappadocicum Gled.",
+            "id": "1397300",
+            "score": 0.00345
+        },
+        {
+            "name": "Quercus robur L.",
+            "id": "1357413",
+            "score": 0.00126
+        },
+        {
+            "name": "Quercus × rosacea Bechst.",
+            "id": "1548458",
+            "score": 0.001
+        }
+    ]
+}

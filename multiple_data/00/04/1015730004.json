@@ -1,0 +1,475 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.40792
+        },
+        {
+            "name": "Populus × canadensis Moench",
+            "id": "1683817",
+            "score": 0.20024
+        },
+        {
+            "name": "Tilia × europaea L.",
+            "id": "1595800",
+            "score": 0.15659
+        },
+        {
+            "name": "Corylus colurna L.",
+            "id": "1397579",
+            "score": 0.02145
+        },
+        {
+            "name": "Urera caracasana (Jacq.) Gaudich. ex Griseb.",
+            "id": "1695667",
+            "score": 0.01216
+        },
+        {
+            "name": "Populus deltoides W.Bartram ex Marshall",
+            "id": "1738800",
+            "score": 0.00988
+        },
+        {
+            "name": "Tilia cordata Mill.",
+            "id": "1396797",
+            "score": 0.00964
+        },
+        {
+            "name": "Populus tremula L.",
+            "id": "1360449",
+            "score": 0.00942
+        },
+        {
+            "name": "Rhoicissus tomentosa (Lam.) Wild & R.B.Drumm.",
+            "id": "1752850",
+            "score": 0.00874
+        },
+        {
+            "name": "Sequoia sempervirens (D.Don) Endl.",
+            "id": "1396213",
+            "score": 0.00853
+        },
+        {
+            "name": "Vitis rotundifolia Michx.",
+            "id": "1397212",
+            "score": 0.00709
+        },
+        {
+            "name": "Populus tremuloides Michx.",
+            "id": "1413261",
+            "score": 0.00685
+        },
+        {
+            "name": "Tilia platyphyllos Scop.",
+            "id": "1396802",
+            "score": 0.00664
+        },
+        {
+            "name": "Catalpa ovata G.Don",
+            "id": "1397254",
+            "score": 0.00662
+        },
+        {
+            "name": "Olinia ventosa (L.) Cufod.",
+            "id": "1640618",
+            "score": 0.00659
+        },
+        {
+            "name": "Liquidambar styraciflua L.",
+            "id": "1393613",
+            "score": 0.00658
+        },
+        {
+            "name": "Tilia dasystyla Steven",
+            "id": "1595796",
+            "score": 0.00622
+        },
+        {
+            "name": "Populus balsamifera L.",
+            "id": "1394775",
+            "score": 0.00586
+        },
+        {
+            "name": "Tilia americana L.",
+            "id": "1397800",
+            "score": 0.00529
+        },
+        {
+            "name": "Torminalis glaberrima (Gand.) Sennikov & Kurtto",
+            "id": "1737588",
+            "score": 0.00501
+        },
+        {
+            "name": "Populus × canescens (Aiton) Sm.",
+            "id": "1683819",
+            "score": 0.0049
+        },
+        {
+            "name": "Catalpa bignonioides Walter",
+            "id": "1388727",
+            "score": 0.00479
+        },
+        {
+            "name": "Pterocarya fraxinifolia (Poir.) Spach",
+            "id": "1394969",
+            "score": 0.00479
+        },
+        {
+            "name": "Sequoiadendron giganteum (Lindl.) J.Buchholz",
+            "id": "1396214",
+            "score": 0.00428
+        },
+        {
+            "name": "Populus alba L.",
+            "id": "1364046",
+            "score": 0.00427
+        },
+        {
+            "name": "Thespesia populnea (L.) Sol. ex Corrêa",
+            "id": "1408768",
+            "score": 0.00425
+        },
+        {
+            "name": "Pteroceltis tatarinowii Maxim.",
+            "id": "1418381",
+            "score": 0.00414
+        },
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.00412
+        },
+        {
+            "name": "Populus × tomentosa Carrière",
+            "id": "1683878",
+            "score": 0.00406
+        },
+        {
+            "name": "Catalpa bungei C.A.Mey.",
+            "id": "1417993",
+            "score": 0.00403
+        },
+        {
+            "name": "Hedera canariensis Willd.",
+            "id": "1356580",
+            "score": 0.0039
+        },
+        {
+            "name": "Populus fremontii S.Watson",
+            "id": "1683826",
+            "score": 0.00383
+        },
+        {
+            "name": "Liriodendron tulipifera L.",
+            "id": "1393614",
+            "score": 0.00381
+        },
+        {
+            "name": "Cupressus sempervirens L.",
+            "id": "1391488",
+            "score": 0.00374
+        },
+        {
+            "name": "Toxicodendron radicans (L.) Kuntze",
+            "id": "1396819",
+            "score": 0.00347
+        },
+        {
+            "name": "Vitis vulpina L.",
+            "id": "1397214",
+            "score": 0.00314
+        },
+        {
+            "name": "Ulmus laevis Pall.",
+            "id": "1396951",
+            "score": 0.00301
+        },
+        {
+            "name": "Paulownia kawakamii T.Itô",
+            "id": "1640554",
+            "score": 0.00284
+        },
+        {
+            "name": "Parthenocissus tricuspidata (Siebold & Zucc.) Planch.",
+            "id": "1360884",
+            "score": 0.00262
+        },
+        {
+            "name": "Tilia tomentosa Moench",
+            "id": "1396803",
+            "score": 0.00248
+        },
+        {
+            "name": "Hedera helix L.",
+            "id": "1363575",
+            "score": 0.00233
+        },
+        {
+            "name": "Pinus strobus L.",
+            "id": "1394616",
+            "score": 0.00232
+        },
+        {
+            "name": "Metrosideros robusta A.Cunn.",
+            "id": "1419573",
+            "score": 0.00228
+        },
+        {
+            "name": "Populus × generosa A.Henry",
+            "id": "1683828",
+            "score": 0.00224
+        },
+        {
+            "name": "Eucalyptus globulus Labill.",
+            "id": "1356282",
+            "score": 0.00214
+        },
+        {
+            "name": "Salix babylonica L.",
+            "id": "1360452",
+            "score": 0.00211
+        },
+        {
+            "name": "Thespesia gummiflua Capuron",
+            "id": "1595787",
+            "score": 0.00211
+        },
+        {
+            "name": "Rhamnus cathartica L.",
+            "id": "1360262",
+            "score": 0.0021
+        },
+        {
+            "name": "Pseudotsuga menziesii (Mirb.) Franco",
+            "id": "1394967",
+            "score": 0.00204
+        },
+        {
+            "name": "Platanus occidentalis L.",
+            "id": "1398530",
+            "score": 0.00201
+        },
+        {
+            "name": "Ficus hookeriana Corner",
+            "id": "1601954",
+            "score": 0.00201
+        },
+        {
+            "name": "Hampea platanifolia Standl.",
+            "id": "1594155",
+            "score": 0.002
+        },
+        {
+            "name": "Hovenia dulcis Thunb.",
+            "id": "1370770",
+            "score": 0.00198
+        },
+        {
+            "name": "Pterygota brasiliensis Allemão",
+            "id": "1595345",
+            "score": 0.00194
+        },
+        {
+            "name": "Dombeya × cayeuxii André",
+            "id": "1844176",
+            "score": 0.00192
+        },
+        {
+            "name": "Brachylaena neriifolia (L.) R.Br.",
+            "id": "1501555",
+            "score": 0.00186
+        },
+        {
+            "name": "Pyrus calleryana Decne.",
+            "id": "1395003",
+            "score": 0.00181
+        },
+        {
+            "name": "Populus × berolinensis K.Koch",
+            "id": "1683815",
+            "score": 0.00181
+        },
+        {
+            "name": "Robinia pseudoacacia L.",
+            "id": "1363698",
+            "score": 0.00177
+        },
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.00172
+        },
+        {
+            "name": "Betula pendula Roth",
+            "id": "1356609",
+            "score": 0.00158
+        },
+        {
+            "name": "Calycophyllum candidissimum (Vahl) DC.",
+            "id": "1671174",
+            "score": 0.00158
+        },
+        {
+            "name": "Styphnolobium japonicum (L.) Schott",
+            "id": "1369068",
+            "score": 0.00158
+        },
+        {
+            "name": "Vitis labrusca L.",
+            "id": "1363005",
+            "score": 0.00158
+        },
+        {
+            "name": "Acer rubrum L.",
+            "id": "1398406",
+            "score": 0.00155
+        },
+        {
+            "name": "Metasequoia glyptostroboides Hu & W.C.Cheng",
+            "id": "1396708",
+            "score": 0.00154
+        },
+        {
+            "name": "Quercus macrocarpa Michx.",
+            "id": "1413406",
+            "score": 0.00146
+        },
+        {
+            "name": "Albizia anthelmintica (A.Rich.) Brongn.",
+            "id": "1751488",
+            "score": 0.00141
+        },
+        {
+            "name": "Eucalyptus robusta Sm.",
+            "id": "1361806",
+            "score": 0.00141
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.00139
+        },
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.00138
+        },
+        {
+            "name": "Betula pubescens Ehrh.",
+            "id": "1362746",
+            "score": 0.00138
+        },
+        {
+            "name": "Populus tristis Fisch.",
+            "id": "1741869",
+            "score": 0.00138
+        },
+        {
+            "name": "Betula populifolia Marshall",
+            "id": "1414289",
+            "score": 0.00138
+        },
+        {
+            "name": "Pithecellobium dulce (Roxb.) Benth.",
+            "id": "1368555",
+            "score": 0.00136
+        },
+        {
+            "name": "Alnus glutinosa (L.) Gaertn.",
+            "id": "1356608",
+            "score": 0.00135
+        },
+        {
+            "name": "Cormus domestica (L.) Spach",
+            "id": "1738846",
+            "score": 0.00134
+        },
+        {
+            "name": "Dombeya rotundifolia (Hochst.) Planch.",
+            "id": "1431541",
+            "score": 0.00132
+        },
+        {
+            "name": "Viscum album L.",
+            "id": "1361900",
+            "score": 0.00129
+        },
+        {
+            "name": "Parthenocissus quinquefolia (L.) Planch.",
+            "id": "1394423",
+            "score": 0.00125
+        },
+        {
+            "name": "Ginkgo biloba L.",
+            "id": "1392617",
+            "score": 0.00118
+        },
+        {
+            "name": "Ficus vallis-choudae Delile",
+            "id": "1384110",
+            "score": 0.00114
+        },
+        {
+            "name": "Betula davurica Pall.",
+            "id": "1763523",
+            "score": 0.0011
+        },
+        {
+            "name": "Ficus sycomorus L.",
+            "id": "1361856",
+            "score": 0.00108
+        },
+        {
+            "name": "Pinus halepensis Mill.",
+            "id": "1397460",
+            "score": 0.00108
+        },
+        {
+            "name": "Alnus cordata (Loisel.) Duby",
+            "id": "1397307",
+            "score": 0.00105
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.00104
+        },
+        {
+            "name": "Populus adenopoda Maxim.",
+            "id": "1683808",
+            "score": 0.00103
+        },
+        {
+            "name": "Alnus orientalis Decne.",
+            "id": "1476145",
+            "score": 0.00102
+        },
+        {
+            "name": "Tilia × euchlora K.Koch",
+            "id": "1595799",
+            "score": 0.001
+        },
+        {
+            "name": "Zanthoxylum chalybeum Engl.",
+            "id": "1432515",
+            "score": 0.00098
+        },
+        {
+            "name": "Salix euxina I.V.Belyaeva",
+            "id": "1684004",
+            "score": 0.00095
+        },
+        {
+            "name": "Cyrtophyllum fragrans (Roxb.) DC.",
+            "id": "1719842",
+            "score": 0.00095
+        },
+        {
+            "name": "Metrosideros excelsa Sol. ex Gaertn.",
+            "id": "1389375",
+            "score": 0.00092
+        }
+    ]
+}

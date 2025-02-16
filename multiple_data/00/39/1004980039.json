@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Citrullus lanatus (Thunb.) Matsum. & Nakai",
+            "id": "1363148",
+            "score": 0.9733
+        },
+        {
+            "name": "Cucumis anguria L.",
+            "id": "1404600",
+            "score": 0.00639
+        },
+        {
+            "name": "Momordica charantia L.",
+            "id": "1399937",
+            "score": 0.00358
+        },
+        {
+            "name": "Citrullus colocynthis (L.) Schrad.",
+            "id": "1363149",
+            "score": 0.00343
+        },
+        {
+            "name": "Momordica balsamina L.",
+            "id": "1384418",
+            "score": 0.00117
+        }
+    ]
+}

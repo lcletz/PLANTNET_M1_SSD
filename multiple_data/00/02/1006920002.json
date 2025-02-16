@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Punica granatum L.",
+            "id": "1359616",
+            "score": 0.81285
+        },
+        {
+            "name": "Chaenomeles japonica (Thunb.) Lindl. ex Spach",
+            "id": "1391103",
+            "score": 0.0041
+        },
+        {
+            "name": "Chaenomeles speciosa (Sweet) Nakai",
+            "id": "1391104",
+            "score": 0.00403
+        },
+        {
+            "name": "Myrtus communis L.",
+            "id": "1359662",
+            "score": 0.00166
+        },
+        {
+            "name": "Camellia sasanqua Thunb.",
+            "id": "1379181",
+            "score": 0.00125
+        }
+    ]
+}

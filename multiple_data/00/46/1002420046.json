@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Artemisia vulgaris L.",
+            "id": "1364152",
+            "score": 0.91391
+        },
+        {
+            "name": "Artemisia campestris L.",
+            "id": "1357275",
+            "score": 0.01732
+        },
+        {
+            "name": "Chenopodium album L.",
+            "id": "1363173",
+            "score": 0.00486
+        },
+        {
+            "name": "Artemisia absinthium L.",
+            "id": "1357268",
+            "score": 0.00224
+        },
+        {
+            "name": "Artemisia verlotiorum Lamotte",
+            "id": "1357291",
+            "score": 0.00213
+        },
+        {
+            "name": "Artemisia ludoviciana Nutt.",
+            "id": "1396735",
+            "score": 0.00117
+        },
+        {
+            "name": "Chenopodium pratericola Rydb.",
+            "id": "1397289",
+            "score": 0.0011
+        }
+    ]
+}

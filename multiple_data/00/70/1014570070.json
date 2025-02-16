@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Kalmia latifolia L.",
+            "id": "1398517",
+            "score": 0.8899
+        },
+        {
+            "name": "Kalmia angustifolia L.",
+            "id": "1398516",
+            "score": 0.02842
+        },
+        {
+            "name": "Kalmia polifolia Wangenh.",
+            "id": "1412398",
+            "score": 0.00278
+        },
+        {
+            "name": "Kalmia hirsuta Walter",
+            "id": "1433488",
+            "score": 0.00154
+        },
+        {
+            "name": "Hoya longifolia Wall. ex Wight",
+            "id": "1420272",
+            "score": 0.00101
+        }
+    ]
+}

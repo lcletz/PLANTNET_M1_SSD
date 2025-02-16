@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia lathyris L.",
+            "id": "1355968",
+            "score": 0.84013
+        },
+        {
+            "name": "Euphorbia dulcis L.",
+            "id": "1392156",
+            "score": 0.00694
+        },
+        {
+            "name": "Lathyrus oleraceus Lam.",
+            "id": "1741625",
+            "score": 0.00256
+        },
+        {
+            "name": "Euphorbia wallichii Hook.f.",
+            "id": "1546271",
+            "score": 0.00218
+        },
+        {
+            "name": "Euphorbia terracina L.",
+            "id": "1358595",
+            "score": 0.00165
+        }
+    ]
+}

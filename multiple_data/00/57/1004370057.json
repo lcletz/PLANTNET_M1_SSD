@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Saxifraga bryoides L.",
+            "id": "1395949",
+            "score": 0.92869
+        },
+        {
+            "name": "Saxifraga exarata Vill.",
+            "id": "1395973",
+            "score": 0.01531
+        },
+        {
+            "name": "Saxifraga aspera L.",
+            "id": "1395945",
+            "score": 0.01383
+        },
+        {
+            "name": "Saxifraga muscoides All.",
+            "id": "1396016",
+            "score": 0.00448
+        },
+        {
+            "name": "Saxifraga paniculata Mill.",
+            "id": "1397549",
+            "score": 0.00439
+        },
+        {
+            "name": "Saxifraga praetermissa D.A.Webb",
+            "id": "1396023",
+            "score": 0.00384
+        },
+        {
+            "name": "Saxifraga moschata Wulfen",
+            "id": "1396015",
+            "score": 0.00232
+        }
+    ]
+}

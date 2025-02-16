@@ -1,0 +1,415 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Arnica montana L.",
+            "id": "1396472",
+            "score": 0.04945
+        },
+        {
+            "name": "Bellis perennis L.",
+            "id": "1357317",
+            "score": 0.04177
+        },
+        {
+            "name": "Bellis annua L.",
+            "id": "1357314",
+            "score": 0.02866
+        },
+        {
+            "name": "Craterostigma plantagineum Hochst.",
+            "id": "1373121",
+            "score": 0.02661
+        },
+        {
+            "name": "Craterostigma pumilum Hochst.",
+            "id": "1373124",
+            "score": 0.02592
+        },
+        {
+            "name": "Bellis sylvestris Cirillo",
+            "id": "1357320",
+            "score": 0.02269
+        },
+        {
+            "name": "Plantago virginica L.",
+            "id": "1394642",
+            "score": 0.01936
+        },
+        {
+            "name": "Myosotis martini Sennen",
+            "id": "1390093",
+            "score": 0.01787
+        },
+        {
+            "name": "Nonea lutea (Desr.) DC.",
+            "id": "1478631",
+            "score": 0.01527
+        },
+        {
+            "name": "Verbascum phlomoides L.",
+            "id": "1397025",
+            "score": 0.01243
+        },
+        {
+            "name": "Arabis hirsuta (L.) Scop.",
+            "id": "1358171",
+            "score": 0.01228
+        },
+        {
+            "name": "Plantago media L.",
+            "id": "1394636",
+            "score": 0.01174
+        },
+        {
+            "name": "Pilosella officinarum Vaill.",
+            "id": "1517561",
+            "score": 0.01133
+        },
+        {
+            "name": "Echium plantagineum L.",
+            "id": "1363849",
+            "score": 0.0113
+        },
+        {
+            "name": "Cerastium glomeratum Thuill.",
+            "id": "1356697",
+            "score": 0.01125
+        },
+        {
+            "name": "Silene littorea Brot.",
+            "id": "1357011",
+            "score": 0.01057
+        },
+        {
+            "name": "Pilosella aurantiaca (L.) F.W.Schultz & Sch.Bip.",
+            "id": "1394567",
+            "score": 0.01045
+        },
+        {
+            "name": "Echium asperrimum Lam.",
+            "id": "1356646",
+            "score": 0.00993
+        },
+        {
+            "name": "Verbascum thapsus L.",
+            "id": "1364059",
+            "score": 0.00822
+        },
+        {
+            "name": "Hypochaeris glabra L.",
+            "id": "1355871",
+            "score": 0.00806
+        },
+        {
+            "name": "Nicotiana rustica L.",
+            "id": "1356160",
+            "score": 0.00733
+        },
+        {
+            "name": "Myosotis ramosissima Rochel",
+            "id": "1356709",
+            "score": 0.0061
+        },
+        {
+            "name": "Plantago lagopus L.",
+            "id": "1359959",
+            "score": 0.00609
+        },
+        {
+            "name": "Plantago australis Lam.",
+            "id": "1408529",
+            "score": 0.00604
+        },
+        {
+            "name": "Tuberaria guttata (L.) Fourr.",
+            "id": "1357176",
+            "score": 0.00589
+        },
+        {
+            "name": "Echium vulgare L.",
+            "id": "1363850",
+            "score": 0.00573
+        },
+        {
+            "name": "Calendula arvensis L.",
+            "id": "1390637",
+            "score": 0.005
+        },
+        {
+            "name": "Hedypnois rhagadioloides (L.) F.W.Schmidt",
+            "id": "1392699",
+            "score": 0.00461
+        },
+        {
+            "name": "Plantago rhodosperma Decne.",
+            "id": "1436601",
+            "score": 0.00445
+        },
+        {
+            "name": "Myosotis sicula Guss.",
+            "id": "1356711",
+            "score": 0.0044
+        },
+        {
+            "name": "Arabidopsis thaliana (L.) Heynh.",
+            "id": "1363915",
+            "score": 0.00413
+        },
+        {
+            "name": "Pinguicula grandiflora Lam.",
+            "id": "1394598",
+            "score": 0.00395
+        },
+        {
+            "name": "Calendula officinalis L.",
+            "id": "1357330",
+            "score": 0.00344
+        },
+        {
+            "name": "Pulicaria odora (L.) Rchb.",
+            "id": "1357805",
+            "score": 0.00305
+        },
+        {
+            "name": "Rudbeckia hirta L.",
+            "id": "1395638",
+            "score": 0.00301
+        },
+        {
+            "name": "Pulmonaria officinalis L.",
+            "id": "1394988",
+            "score": 0.00293
+        },
+        {
+            "name": "Mesembryanthemum crystallinum L.",
+            "id": "1356044",
+            "score": 0.00279
+        },
+        {
+            "name": "Hypochaeris radicata L.",
+            "id": "1355872",
+            "score": 0.00276
+        },
+        {
+            "name": "Ononis viscosa L.",
+            "id": "1359440",
+            "score": 0.00271
+        },
+        {
+            "name": "Craterostigma hirsutum S.Moore",
+            "id": "1589259",
+            "score": 0.00271
+        },
+        {
+            "name": "Verbascum olympicum Boiss.",
+            "id": "1439493",
+            "score": 0.00268
+        },
+        {
+            "name": "Draba nemorosa L.",
+            "id": "1391775",
+            "score": 0.00267
+        },
+        {
+            "name": "Plantago major L.",
+            "id": "1356067",
+            "score": 0.00265
+        },
+        {
+            "name": "Erigeron canadensis L.",
+            "id": "1392041",
+            "score": 0.00258
+        },
+        {
+            "name": "Hieracium maculatum Schrank",
+            "id": "1393002",
+            "score": 0.00252
+        },
+        {
+            "name": "Pallenis spinosa (L.) Cass.",
+            "id": "1357743",
+            "score": 0.00248
+        },
+        {
+            "name": "Rudbeckia fulgida Aiton",
+            "id": "1397722",
+            "score": 0.00236
+        },
+        {
+            "name": "Taraxacum obovatum (Willd.) DC.",
+            "id": "1357928",
+            "score": 0.00223
+        },
+        {
+            "name": "Hypochaeris maculata L.",
+            "id": "1393262",
+            "score": 0.00213
+        },
+        {
+            "name": "Madia sativa Molina",
+            "id": "1398184",
+            "score": 0.00205
+        },
+        {
+            "name": "Centaurea melitensis L.",
+            "id": "1355885",
+            "score": 0.00191
+        },
+        {
+            "name": "Draba verna L.",
+            "id": "1391786",
+            "score": 0.0019
+        },
+        {
+            "name": "Chlorophytum pusillum Schweinf. ex Baker",
+            "id": "1386140",
+            "score": 0.00188
+        },
+        {
+            "name": "Verbascum boerhavii L.",
+            "id": "1360520",
+            "score": 0.00187
+        },
+        {
+            "name": "Lactuca sativa L.",
+            "id": "1364172",
+            "score": 0.00178
+        },
+        {
+            "name": "Echium italicum L.",
+            "id": "1356663",
+            "score": 0.00174
+        },
+        {
+            "name": "Aeonium canariense (L.) Webb & Berthel.",
+            "id": "1358029",
+            "score": 0.00174
+        },
+        {
+            "name": "Verbascum phoeniceum L.",
+            "id": "1396994",
+            "score": 0.00169
+        },
+        {
+            "name": "Veronica arvensis L.",
+            "id": "1364063",
+            "score": 0.00167
+        },
+        {
+            "name": "Pulmonaria obscura Dumort.",
+            "id": "1394987",
+            "score": 0.00165
+        },
+        {
+            "name": "Pulmonaria saccharata Mill.",
+            "id": "1394990",
+            "score": 0.00158
+        },
+        {
+            "name": "Crepis mollis (Jacq.) Asch.",
+            "id": "1391455",
+            "score": 0.00157
+        },
+        {
+            "name": "Urospermum dalechampii (L.) Scop. ex F.W.Schmidt",
+            "id": "1396955",
+            "score": 0.00157
+        },
+        {
+            "name": "Mandragora officinarum L.",
+            "id": "1360560",
+            "score": 0.00152
+        },
+        {
+            "name": "Smallanthus sonchifolius (Poepp.) H.Rob.",
+            "id": "1417894",
+            "score": 0.0015
+        },
+        {
+            "name": "Ipomoea blepharophylla Hallier f.",
+            "id": "1369720",
+            "score": 0.00131
+        },
+        {
+            "name": "Chlorophytum tetraphyllum (L.f.) Baker",
+            "id": "1471769",
+            "score": 0.00128
+        },
+        {
+            "name": "Myosotis arvensis (L.) Hill",
+            "id": "1363858",
+            "score": 0.00123
+        },
+        {
+            "name": "Solanum melongena L.",
+            "id": "1356172",
+            "score": 0.00123
+        },
+        {
+            "name": "Veronica bellidioides L.",
+            "id": "1397046",
+            "score": 0.00119
+        },
+        {
+            "name": "Pallenis maritima (L.) Greuter",
+            "id": "1357742",
+            "score": 0.00117
+        },
+        {
+            "name": "Arabis planisiliqua (Pers.) Rchb.",
+            "id": "1395772",
+            "score": 0.00117
+        },
+        {
+            "name": "Hypochaeris eremophila Cabrera",
+            "id": "1512197",
+            "score": 0.00116
+        },
+        {
+            "name": "Huynhia pulchra (Willd. ex Roem. & Schult.) Greuter & Burdet",
+            "id": "1766647",
+            "score": 0.00115
+        },
+        {
+            "name": "Aeonium tabulaeforme (Haw.) Webb & Berthel.",
+            "id": "1748170",
+            "score": 0.00113
+        },
+        {
+            "name": "Petunia × atkinsiana (Sweet) D.Don ex W.H.Baxter",
+            "id": "1844540",
+            "score": 0.00109
+        },
+        {
+            "name": "Nonea echioides (L.) Roem. & Schult.",
+            "id": "1393969",
+            "score": 0.00109
+        },
+        {
+            "name": "Cotyledon tomentosa Harv.",
+            "id": "1528427",
+            "score": 0.00106
+        },
+        {
+            "name": "Dichrostachys cinerea (L.) Wight & Arn.",
+            "id": "1359183",
+            "score": 0.00105
+        },
+        {
+            "name": "Hieracium tomentosum L.",
+            "id": "1393160",
+            "score": 0.00105
+        },
+        {
+            "name": "Sempervivum montanum L.",
+            "id": "1396180",
+            "score": 0.00103
+        },
+        {
+            "name": "Chlorophytum zavattarii (Cufod.) Nordal",
+            "id": "1386152",
+            "score": 0.00103
+        }
+    ]
+}

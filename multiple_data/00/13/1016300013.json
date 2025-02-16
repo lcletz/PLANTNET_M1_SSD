@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Verbascum sinuatum L.",
+            "id": "1360542",
+            "score": 0.86158
+        },
+        {
+            "name": "Verbascum undulatum Lam.",
+            "id": "1389473",
+            "score": 0.06177
+        },
+        {
+            "name": "Glaucium flavum Crantz",
+            "id": "1359804",
+            "score": 0.01057
+        },
+        {
+            "name": "Verbascum niveum Ten.",
+            "id": "1399441",
+            "score": 0.00236
+        },
+        {
+            "name": "Verbascum speciosum Schrad.",
+            "id": "1398668",
+            "score": 0.00195
+        },
+        {
+            "name": "Verbascum boerhavii L.",
+            "id": "1360520",
+            "score": 0.00169
+        },
+        {
+            "name": "Verbascum pseudonobile Stoj. & Stef.",
+            "id": "1689636",
+            "score": 0.00158
+        }
+    ]
+}

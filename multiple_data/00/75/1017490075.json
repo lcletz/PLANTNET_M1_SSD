@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ribes rubrum L.",
+            "id": "1397543",
+            "score": 0.80513
+        },
+        {
+            "name": "Ribes nigrum L.",
+            "id": "1395200",
+            "score": 0.03407
+        },
+        {
+            "name": "Ribes petraeum Wulfen",
+            "id": "1358683",
+            "score": 0.01573
+        },
+        {
+            "name": "Ribes uva-crispa L.",
+            "id": "1358684",
+            "score": 0.00988
+        },
+        {
+            "name": "Ribes alpinum L.",
+            "id": "1358682",
+            "score": 0.00741
+        },
+        {
+            "name": "Ribes americanum Mill.",
+            "id": "1413471",
+            "score": 0.00266
+        },
+        {
+            "name": "Ribes magellanicum Poir.",
+            "id": "1554170",
+            "score": 0.00186
+        },
+        {
+            "name": "Ribes lacustre (Pers.) Poir.",
+            "id": "1413482",
+            "score": 0.00144
+        },
+        {
+            "name": "Ribes sanguineum Pursh",
+            "id": "1395204",
+            "score": 0.00103
+        }
+    ]
+}

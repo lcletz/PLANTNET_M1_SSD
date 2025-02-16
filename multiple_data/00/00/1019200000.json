@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Dianthus hyssopifolius L.",
+            "id": "1391697",
+            "score": 0.61233
+        },
+        {
+            "name": "Dianthus superbus L.",
+            "id": "1391716",
+            "score": 0.06488
+        },
+        {
+            "name": "Dianthus monspessulanus L.",
+            "id": "1743140",
+            "score": 0.02051
+        },
+        {
+            "name": "Dianthus broteri Boiss. & Reut.",
+            "id": "1390623",
+            "score": 0.00752
+        },
+        {
+            "name": "Centaurea stoebe L.",
+            "id": "1391044",
+            "score": 0.00118
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Saponaria officinalis L.",
+            "id": "1356803",
+            "score": 0.97386
+        },
+        {
+            "name": "Saponaria caespitosa DC.",
+            "id": "1395928",
+            "score": 0.00333
+        },
+        {
+            "name": "Antirrhinum majus L.",
+            "id": "1359845",
+            "score": 0.00286
+        },
+        {
+            "name": "Saponaria ocymoides L.",
+            "id": "1361747",
+            "score": 0.00169
+        },
+        {
+            "name": "Gentiana cruciata L.",
+            "id": "1397392",
+            "score": 0.00102
+        }
+    ]
+}

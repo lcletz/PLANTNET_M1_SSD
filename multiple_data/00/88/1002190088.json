@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hydrangea spp.",
+            "id": "1419192",
+            "score": 0.84808
+        },
+        {
+            "name": "Hydrangea macrophylla (Thunb.) Ser.",
+            "id": "1361819",
+            "score": 0.07595
+        },
+        {
+            "name": "Hydrangea paniculata Siebold",
+            "id": "1393223",
+            "score": 0.00353
+        },
+        {
+            "name": "Begonia coccinea Hook.",
+            "id": "1409390",
+            "score": 0.00123
+        },
+        {
+            "name": "Euphorbia milii Des Moul.",
+            "id": "1361945",
+            "score": 0.00114
+        },
+        {
+            "name": "Impatiens walleriana Hook.f.",
+            "id": "1397707",
+            "score": 0.00104
+        }
+    ]
+}

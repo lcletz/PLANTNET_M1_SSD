@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Verbascum thapsus L.",
+            "id": "1364059",
+            "score": 0.45646
+        },
+        {
+            "name": "Verbascum densiflorum Bertol.",
+            "id": "1360523",
+            "score": 0.38793
+        },
+        {
+            "name": "Verbascum pulverulentum Vill.",
+            "id": "1360539",
+            "score": 0.01459
+        },
+        {
+            "name": "Verbascum lychnitis L.",
+            "id": "1360531",
+            "score": 0.00905
+        },
+        {
+            "name": "Verbascum giganteum Willk.",
+            "id": "1400036",
+            "score": 0.00895
+        },
+        {
+            "name": "Verbascum phlomoides L.",
+            "id": "1397025",
+            "score": 0.00482
+        },
+        {
+            "name": "Verbascum litigiosum Samp.",
+            "id": "1689622",
+            "score": 0.0048
+        },
+        {
+            "name": "Verbascum virgatum Stokes",
+            "id": "1364058",
+            "score": 0.00155
+        },
+        {
+            "name": "Verbascum nigrum L.",
+            "id": "1397520",
+            "score": 0.0013
+        }
+    ]
+}

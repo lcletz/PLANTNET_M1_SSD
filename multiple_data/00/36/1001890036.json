@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia lathyris L.",
+            "id": "1355968",
+            "score": 0.83574
+        },
+        {
+            "name": "Euphorbia dulcis L.",
+            "id": "1392156",
+            "score": 0.01688
+        },
+        {
+            "name": "Euphorbia hyberna L.",
+            "id": "1392167",
+            "score": 0.00249
+        },
+        {
+            "name": "Euphorbia platyphyllos L.",
+            "id": "1355986",
+            "score": 0.00248
+        },
+        {
+            "name": "Euphorbia serrata L.",
+            "id": "1355971",
+            "score": 0.00246
+        },
+        {
+            "name": "Valeriana rubra L.",
+            "id": "1722520",
+            "score": 0.00176
+        },
+        {
+            "name": "Euphorbia terracina L.",
+            "id": "1358595",
+            "score": 0.00162
+        }
+    ]
+}

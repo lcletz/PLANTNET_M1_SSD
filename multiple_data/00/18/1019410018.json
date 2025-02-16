@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Xanthium strumarium L.",
+            "id": "1355898",
+            "score": 0.81764
+        },
+        {
+            "name": "Xanthium orientale L.",
+            "id": "1361786",
+            "score": 0.1431
+        },
+        {
+            "name": "Helianthus annuus L.",
+            "id": "1364145",
+            "score": 0.00965
+        },
+        {
+            "name": "Malva trimestris (L.) Salisb.",
+            "id": "1362892",
+            "score": 0.00199
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lavandula angustifolia Mill.",
+            "id": "1361824",
+            "score": 0.79901
+        },
+        {
+            "name": "Lavandula latifolia Medik.",
+            "id": "1393466",
+            "score": 0.10848
+        },
+        {
+            "name": "Lavandula × intermedia Emeric ex Loisel.",
+            "id": "1560415",
+            "score": 0.00795
+        },
+        {
+            "name": "Lavandula dentata L.",
+            "id": "1356126",
+            "score": 0.00411
+        },
+        {
+            "name": "Salvia officinalis L.",
+            "id": "1356118",
+            "score": 0.00243
+        },
+        {
+            "name": "Salvia fruticosa Mill.",
+            "id": "1358866",
+            "score": 0.00208
+        },
+        {
+            "name": "Betonica officinalis L.",
+            "id": "1400126",
+            "score": 0.00135
+        },
+        {
+            "name": "Lavandula lanata Boiss.",
+            "id": "1398786",
+            "score": 0.00131
+        },
+        {
+            "name": "Salvia × sylvestris L.",
+            "id": "1563105",
+            "score": 0.00105
+        },
+        {
+            "name": "Salvia verbenaca L.",
+            "id": "1356115",
+            "score": 0.00105
+        }
+    ]
+}

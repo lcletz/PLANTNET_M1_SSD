@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phytolacca bogotensis Kunth",
+            "id": "1436467",
+            "score": 0.47347
+        },
+        {
+            "name": "Phytolacca americana L.",
+            "id": "1356062",
+            "score": 0.20291
+        },
+        {
+            "name": "Phytolacca acinosa Roxb.",
+            "id": "1394558",
+            "score": 0.1238
+        },
+        {
+            "name": "Phytolacca icosandra L.",
+            "id": "1406199",
+            "score": 0.00393
+        },
+        {
+            "name": "Phytolacca rivinoides Kunth & C.D.Bouché",
+            "id": "1419893",
+            "score": 0.00228
+        },
+        {
+            "name": "Phytolacca dioica L.",
+            "id": "1356063",
+            "score": 0.00225
+        },
+        {
+            "name": "Amaranthus caudatus L.",
+            "id": "1363248",
+            "score": 0.00123
+        }
+    ]
+}

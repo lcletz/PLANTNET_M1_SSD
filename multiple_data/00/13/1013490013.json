@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dipsacus fullonum L.",
+            "id": "1358454",
+            "score": 0.75418
+        },
+        {
+            "name": "Dipsacus sativus (L.) Honck.",
+            "id": "1391749",
+            "score": 0.27108
+        },
+        {
+            "name": "Dipsacus laciniatus L.",
+            "id": "1391747",
+            "score": 0.02631
+        },
+        {
+            "name": "Dipsacus pilosus L.",
+            "id": "1391748",
+            "score": 0.00407
+        },
+        {
+            "name": "Inula helenium L.",
+            "id": "1397412",
+            "score": 0.00399
+        },
+        {
+            "name": "Impatiens glandulifera Royle",
+            "id": "1393275",
+            "score": 0.0025
+        },
+        {
+            "name": "Rumex hydrolapathum Huds.",
+            "id": "1395664",
+            "score": 0.0018
+        },
+        {
+            "name": "Rumex patientia L.",
+            "id": "1360135",
+            "score": 0.00115
+        }
+    ]
+}

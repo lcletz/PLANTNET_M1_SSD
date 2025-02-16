@@ -1,0 +1,70 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lactuca serriola L.",
+            "id": "1364173",
+            "score": 0.35939
+        },
+        {
+            "name": "Lactuca virosa L.",
+            "id": "1355868",
+            "score": 0.20821
+        },
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.01114
+        },
+        {
+            "name": "Sonchus maritimus L.",
+            "id": "1364169",
+            "score": 0.00894
+        },
+        {
+            "name": "Lactuca sativa L.",
+            "id": "1364172",
+            "score": 0.00871
+        },
+        {
+            "name": "Rumex patientia L.",
+            "id": "1360135",
+            "score": 0.00712
+        },
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.00516
+        },
+        {
+            "name": "Cichorium endivia L.",
+            "id": "1364163",
+            "score": 0.00402
+        },
+        {
+            "name": "Rumex altissimus Alph.Wood",
+            "id": "1815823",
+            "score": 0.00311
+        },
+        {
+            "name": "Klasea flavescens (L.) Holub",
+            "id": "1357671",
+            "score": 0.00197
+        },
+        {
+            "name": "Lactuca saligna L.",
+            "id": "1357681",
+            "score": 0.00159
+        },
+        {
+            "name": "Lactuca canadensis L.",
+            "id": "1412413",
+            "score": 0.00148
+        },
+        {
+            "name": "Sonchus palustris L.",
+            "id": "1361781",
+            "score": 0.00109
+        }
+    ]
+}

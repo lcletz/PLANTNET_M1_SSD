@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.85844
+        },
+        {
+            "name": "Fraxinus angustifolia Vahl",
+            "id": "1362009",
+            "score": 0.08148
+        },
+        {
+            "name": "Fraxinus ornus L.",
+            "id": "1362963",
+            "score": 0.02224
+        },
+        {
+            "name": "Fraxinus americana L.",
+            "id": "1397619",
+            "score": 0.00895
+        },
+        {
+            "name": "Fraxinus latifolia Benth.",
+            "id": "1412090",
+            "score": 0.00339
+        },
+        {
+            "name": "Fraxinus pennsylvanica Marshall",
+            "id": "1392363",
+            "score": 0.00297
+        },
+        {
+            "name": "Pterocarya stenoptera C.DC.",
+            "id": "1390588",
+            "score": 0.0012
+        },
+        {
+            "name": "Fraxinus nigra Marshall",
+            "id": "1412091",
+            "score": 0.0011
+        }
+    ]
+}

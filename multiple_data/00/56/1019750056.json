@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Rubia peregrina L.",
+            "id": "1360433",
+            "score": 0.91118
+        },
+        {
+            "name": "Rubia tinctorum L.",
+            "id": "1360434",
+            "score": 0.01195
+        },
+        {
+            "name": "Jasminum nudiflorum Lindl.",
+            "id": "1393331",
+            "score": 0.00325
+        },
+        {
+            "name": "Galium rotundifolium L.",
+            "id": "1360412",
+            "score": 0.00161
+        }
+    ]
+}

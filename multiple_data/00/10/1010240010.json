@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lathraea squamaria L.",
+            "id": "1393450",
+            "score": 0.84729
+        },
+        {
+            "name": "Lathraea clandestina L.",
+            "id": "1393449",
+            "score": 0.00492
+        },
+        {
+            "name": "Petasites hybridus (L.) G.Gaertn., B.Mey. & Scherb.",
+            "id": "1711822",
+            "score": 0.00443
+        },
+        {
+            "name": "Himantoglossum robertianum (Loisel.) P.Delforge",
+            "id": "1361652",
+            "score": 0.00157
+        },
+        {
+            "name": "Corydalis solida (L.) Clairv.",
+            "id": "1359761",
+            "score": 0.00125
+        },
+        {
+            "name": "Orobanche rapum-genistae Thuill.",
+            "id": "1359734",
+            "score": 0.00125
+        }
+    ]
+}

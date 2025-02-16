@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hordeum vulgare L.",
+            "id": "1363481",
+            "score": 0.8989
+        },
+        {
+            "name": "Hordeum murinum L.",
+            "id": "1361307",
+            "score": 0.01634
+        },
+        {
+            "name": "Hordeum jubatum L.",
+            "id": "1397404",
+            "score": 0.00588
+        },
+        {
+            "name": "Secale cereale L.",
+            "id": "1363451",
+            "score": 0.00524
+        },
+        {
+            "name": "Hordeum spontaneum K.Koch",
+            "id": "1425101",
+            "score": 0.00175
+        },
+        {
+            "name": "Stipellula capensis (Thunb.) Röser & Hamasha",
+            "id": "1722444",
+            "score": 0.00159
+        },
+        {
+            "name": "Triticum aestivum L.",
+            "id": "1363483",
+            "score": 0.00156
+        },
+        {
+            "name": "Hordeum distichon L.",
+            "id": "1651903",
+            "score": 0.00145
+        },
+        {
+            "name": "Secale sylvestre Host",
+            "id": "1654958",
+            "score": 0.00126
+        }
+    ]
+}

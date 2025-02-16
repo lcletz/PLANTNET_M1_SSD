@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sorbus aucuparia L.",
+            "id": "1362987",
+            "score": 0.84427
+        },
+        {
+            "name": "Rosa multiflora Thunb.",
+            "id": "1360345",
+            "score": 0.04213
+        },
+        {
+            "name": "Cormus domestica (L.) Spach",
+            "id": "1738846",
+            "score": 0.00729
+        },
+        {
+            "name": "Sorbaria sorbifolia (L.) A.Braun",
+            "id": "1396352",
+            "score": 0.00489
+        },
+        {
+            "name": "Sorbus americana Marshall",
+            "id": "1413868",
+            "score": 0.00438
+        },
+        {
+            "name": "Rosa arvensis Huds.",
+            "id": "1395253",
+            "score": 0.00372
+        },
+        {
+            "name": "Pimpinella saxifraga L.",
+            "id": "1394593",
+            "score": 0.00262
+        },
+        {
+            "name": "Rosa spinosissima L.",
+            "id": "1360350",
+            "score": 0.00114
+        }
+    ]
+}

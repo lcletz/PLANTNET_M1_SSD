@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Papaver somniferum L.",
+            "id": "1363130",
+            "score": 0.88356
+        },
+        {
+            "name": "Papaver orientale L.",
+            "id": "1394404",
+            "score": 0.0039
+        },
+        {
+            "name": "Papaver setiferum Goldblatt",
+            "id": "1737543",
+            "score": 0.00311
+        },
+        {
+            "name": "Papaver aculeatum Thunb.",
+            "id": "1639725",
+            "score": 0.00149
+        },
+        {
+            "name": "Roemeria sicula (Guss.) ined.",
+            "id": "1739196",
+            "score": 0.00114
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Salvia pratensis L.",
+            "id": "1395913",
+            "score": 0.48441
+        },
+        {
+            "name": "Salvia × sylvestris L.",
+            "id": "1563105",
+            "score": 0.39335
+        },
+        {
+            "name": "Salvia verbenaca L.",
+            "id": "1356115",
+            "score": 0.09801
+        },
+        {
+            "name": "Salvia nemorosa L.",
+            "id": "1397479",
+            "score": 0.03429
+        },
+        {
+            "name": "Salvia sclarea L.",
+            "id": "1358876",
+            "score": 0.01504
+        },
+        {
+            "name": "Salvia officinalis L.",
+            "id": "1356118",
+            "score": 0.00538
+        },
+        {
+            "name": "Salvia viridis L.",
+            "id": "1358881",
+            "score": 0.00355
+        },
+        {
+            "name": "Salvia verticillata L.",
+            "id": "1397480",
+            "score": 0.0029
+        },
+        {
+            "name": "Stachys sylvatica L.",
+            "id": "1358950",
+            "score": 0.0023
+        },
+        {
+            "name": "Horminum pyrenaicum L.",
+            "id": "1393213",
+            "score": 0.00179
+        },
+        {
+            "name": "Salvia fruticosa Mill.",
+            "id": "1358866",
+            "score": 0.00128
+        }
+    ]
+}

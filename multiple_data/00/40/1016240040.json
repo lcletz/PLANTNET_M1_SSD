@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.92463
+        },
+        {
+            "name": "Carpinus caroliniana Walter",
+            "id": "1411338",
+            "score": 0.00692
+        },
+        {
+            "name": "Ostrya carpinifolia Scop.",
+            "id": "1394357",
+            "score": 0.0024
+        },
+        {
+            "name": "Ricinus communis L.",
+            "id": "1358609",
+            "score": 0.00203
+        },
+        {
+            "name": "Carpinus orientalis Mill.",
+            "id": "1398832",
+            "score": 0.00154
+        },
+        {
+            "name": "Quercus trojana Webb",
+            "id": "1398834",
+            "score": 0.00143
+        }
+    ]
+}

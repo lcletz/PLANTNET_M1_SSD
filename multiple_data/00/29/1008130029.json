@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viscum album L.",
+            "id": "1361900",
+            "score": 0.90293
+        },
+        {
+            "name": "Viscum cruciatum Sieber ex Boiss.",
+            "id": "1685197",
+            "score": 0.04649
+        },
+        {
+            "name": "Phoradendron quadrangulare (Kunth) Griseb.",
+            "id": "1409915",
+            "score": 0.00734
+        },
+        {
+            "name": "Viscum multicostatum Baker",
+            "id": "1685215",
+            "score": 0.00219
+        },
+        {
+            "name": "Phoradendron piperoides (Kunth) Trel.",
+            "id": "1402001",
+            "score": 0.00187
+        },
+        {
+            "name": "Gaiadendron punctatum (Ruiz & Pav.) G.Don",
+            "id": "1404308",
+            "score": 0.00161
+        }
+    ]
+}

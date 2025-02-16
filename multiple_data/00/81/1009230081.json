@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Foeniculum vulgare Mill.",
+            "id": "1360739",
+            "score": 0.40349
+        },
+        {
+            "name": "Meum athamanticum Jacq.",
+            "id": "1360759",
+            "score": 0.37331
+        },
+        {
+            "name": "Tripleurospermum inodorum (L.) Sch.Bip.",
+            "id": "1525142",
+            "score": 0.03416
+        },
+        {
+            "name": "Anethum graveolens L.",
+            "id": "1363232",
+            "score": 0.02205
+        },
+        {
+            "name": "Ferula communis L.",
+            "id": "1363236",
+            "score": 0.01753
+        },
+        {
+            "name": "Nigella damascena L.",
+            "id": "1360185",
+            "score": 0.00971
+        },
+        {
+            "name": "Matricaria chamomilla L.",
+            "id": "1362332",
+            "score": 0.00903
+        },
+        {
+            "name": "Chamaemelum nobile (L.) All.",
+            "id": "1357465",
+            "score": 0.00276
+        },
+        {
+            "name": "Artemisia abrotanum L.",
+            "id": "1396736",
+            "score": 0.00237
+        },
+        {
+            "name": "Pimpinella anisum L.",
+            "id": "1363222",
+            "score": 0.00212
+        },
+        {
+            "name": "Carum carvi L.",
+            "id": "1363229",
+            "score": 0.00201
+        },
+        {
+            "name": "Asparagus officinalis L.",
+            "id": "1363268",
+            "score": 0.00161
+        },
+        {
+            "name": "Trocdaris verticillata (L.) Raf.",
+            "id": "1738679",
+            "score": 0.00124
+        },
+        {
+            "name": "Visnaga daucoides Gaertn.",
+            "id": "1362719",
+            "score": 0.00118
+        },
+        {
+            "name": "Ferulago galbanifera (Mill.) W.D.J.Koch",
+            "id": "1457846",
+            "score": 0.00101
+        }
+    ]
+}

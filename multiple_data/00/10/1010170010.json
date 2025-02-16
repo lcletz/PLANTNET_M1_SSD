@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lilium martagon L.",
+            "id": "1393534",
+            "score": 0.912
+        },
+        {
+            "name": "Veratrum viride Aiton",
+            "id": "1414166",
+            "score": 0.01118
+        },
+        {
+            "name": "Lilium lancifolium Thunb.",
+            "id": "1393528",
+            "score": 0.00923
+        },
+        {
+            "name": "Lilium bulbiferum L.",
+            "id": "1393532",
+            "score": 0.00403
+        },
+        {
+            "name": "Fritillaria imperialis L.",
+            "id": "1397600",
+            "score": 0.00294
+        },
+        {
+            "name": "Allium ursinum L.",
+            "id": "1397306",
+            "score": 0.00137
+        },
+        {
+            "name": "Veratrum album L.",
+            "id": "1396991",
+            "score": 0.0013
+        }
+    ]
+}

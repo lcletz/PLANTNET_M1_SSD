@@ -1,0 +1,40 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Iris × germanica L.",
+            "id": "1556750",
+            "score": 0.1316
+        },
+        {
+            "name": "Iris lutescens Lam.",
+            "id": "1362462",
+            "score": 0.01592
+        },
+        {
+            "name": "Iris aphylla L.",
+            "id": "1393299",
+            "score": 0.00659
+        },
+        {
+            "name": "Iris spuria L.",
+            "id": "1361544",
+            "score": 0.00321
+        },
+        {
+            "name": "Iris perrieri Simonet ex N.Service",
+            "id": "1398243",
+            "score": 0.00282
+        },
+        {
+            "name": "Iris pallida Lam.",
+            "id": "1361541",
+            "score": 0.00271
+        },
+        {
+            "name": "Iris florentina L.",
+            "id": "1722421",
+            "score": 0.00233
+        }
+    ]
+}

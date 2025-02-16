@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lysimachia vulgaris L.",
+            "id": "1361863",
+            "score": 0.92284
+        },
+        {
+            "name": "Lysimachia punctata L.",
+            "id": "1397433",
+            "score": 0.01115
+        },
+        {
+            "name": "Lysimachia quadrifolia L.",
+            "id": "1412641",
+            "score": 0.00827
+        },
+        {
+            "name": "Lysimachia ciliata L.",
+            "id": "1393707",
+            "score": 0.00255
+        },
+        {
+            "name": "Hypericum hirsutum L.",
+            "id": "1358700",
+            "score": 0.00115
+        },
+        {
+            "name": "Vincetoxicum hirundinaria Medik.",
+            "id": "1356597",
+            "score": 0.00108
+        }
+    ]
+}

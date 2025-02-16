@@ -1,0 +1,420 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cercis siliquastrum L.",
+            "id": "1359162",
+            "score": 0.50871
+        },
+        {
+            "name": "Platanus occidentalis L.",
+            "id": "1398530",
+            "score": 0.39394
+        },
+        {
+            "name": "Cercis canadensis L.",
+            "id": "1397806",
+            "score": 0.28225
+        },
+        {
+            "name": "Platanus × hispanica Mill. ex Münchh.",
+            "id": "1844583",
+            "score": 0.16697
+        },
+        {
+            "name": "Platanus orientalis L.",
+            "id": "1362358",
+            "score": 0.09351
+        },
+        {
+            "name": "Acer platanoides L.",
+            "id": "1397301",
+            "score": 0.08786
+        },
+        {
+            "name": "Cercis occidentalis Torr. ex A.Gray",
+            "id": "1397805",
+            "score": 0.07622
+        },
+        {
+            "name": "Acer saccharum Marshall",
+            "id": "1390591",
+            "score": 0.03703
+        },
+        {
+            "name": "Tilia cordata Mill.",
+            "id": "1396797",
+            "score": 0.01201
+        },
+        {
+            "name": "Cordia monoica Roxb.",
+            "id": "1424453",
+            "score": 0.01029
+        },
+        {
+            "name": "Cercis griffithii Boiss.",
+            "id": "1574667",
+            "score": 0.00936
+        },
+        {
+            "name": "Cercidiphyllum japonicum Siebold & Zucc. ex J.J.Hoffm. & J.H.Schult.bis",
+            "id": "1494963",
+            "score": 0.00733
+        },
+        {
+            "name": "Opuntia tomentosa Salm-Dyck",
+            "id": "1356733",
+            "score": 0.00716
+        },
+        {
+            "name": "Parrotia persica C.A.Mey.",
+            "id": "1738716",
+            "score": 0.00692
+        },
+        {
+            "name": "Eugenia involucrata DC.",
+            "id": "1419554",
+            "score": 0.00586
+        },
+        {
+            "name": "Cercis chinensis Bunge",
+            "id": "1418915",
+            "score": 0.00441
+        },
+        {
+            "name": "Acer macrophyllum Pursh",
+            "id": "1412158",
+            "score": 0.00364
+        },
+        {
+            "name": "Psidium guajava L.",
+            "id": "1382846",
+            "score": 0.00341
+        },
+        {
+            "name": "Acer × freemanii A.E.Murray",
+            "id": "1685267",
+            "score": 0.00326
+        },
+        {
+            "name": "Opuntia ficus-indica (L.) Mill.",
+            "id": "1363598",
+            "score": 0.00322
+        },
+        {
+            "name": "Tilia henryana Szyszył.",
+            "id": "1595804",
+            "score": 0.00294
+        },
+        {
+            "name": "Vachellia xanthophloea (Benth.) Banfi & Galasso",
+            "id": "1751094",
+            "score": 0.00278
+        },
+        {
+            "name": "Lagerstroemia indica L.",
+            "id": "1376509",
+            "score": 0.00273
+        },
+        {
+            "name": "Quercus velutina Lam.",
+            "id": "1398376",
+            "score": 0.00266
+        },
+        {
+            "name": "Terminalia arjuna (Roxb. ex DC.) Wight & Arn.",
+            "id": "1409055",
+            "score": 0.00248
+        },
+        {
+            "name": "Thespesia populnea (L.) Sol. ex Corrêa",
+            "id": "1408768",
+            "score": 0.00225
+        },
+        {
+            "name": "Tilia americana L.",
+            "id": "1397800",
+            "score": 0.00225
+        },
+        {
+            "name": "Hamamelis virginiana L.",
+            "id": "1397621",
+            "score": 0.00206
+        },
+        {
+            "name": "Pinus bungeana Zucc. ex Endl.",
+            "id": "1390017",
+            "score": 0.00194
+        },
+        {
+            "name": "Acer saccharinum L.",
+            "id": "1391667",
+            "score": 0.00184
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.00166
+        },
+        {
+            "name": "Calycolpus moritzianus (O.Berg) Burret",
+            "id": "1602864",
+            "score": 0.00162
+        },
+        {
+            "name": "Cercis racemosa Oliv.",
+            "id": "1574670",
+            "score": 0.00161
+        },
+        {
+            "name": "Acer diabolicum Blume ex K.Koch",
+            "id": "1685254",
+            "score": 0.00156
+        },
+        {
+            "name": "Libidibia punctata (Willd.) Britton",
+            "id": "1724792",
+            "score": 0.00155
+        },
+        {
+            "name": "Aristolochia macrophylla Lam.",
+            "id": "1396303",
+            "score": 0.00149
+        },
+        {
+            "name": "Plumeria rubra L.",
+            "id": "1369885",
+            "score": 0.00139
+        },
+        {
+            "name": "Alnus cordata (Loisel.) Duby",
+            "id": "1397307",
+            "score": 0.00126
+        },
+        {
+            "name": "Opuntia cochenillifera (L.) Mill.",
+            "id": "1384030",
+            "score": 0.00123
+        },
+        {
+            "name": "Acer rubrum L.",
+            "id": "1398406",
+            "score": 0.00119
+        },
+        {
+            "name": "Lysiphyllum hookeri (F.Muell.) Pedley",
+            "id": "1581200",
+            "score": 0.00108
+        },
+        {
+            "name": "Ipomoea obscura (L.) Ker Gawl.",
+            "id": "1358017",
+            "score": 0.00104
+        },
+        {
+            "name": "Hibiscus tiliaceus L.",
+            "id": "1408172",
+            "score": 0.00102
+        },
+        {
+            "name": "Pteroceltis tatarinowii Maxim.",
+            "id": "1418381",
+            "score": 0.00101
+        },
+        {
+            "name": "Libidibia ferrea (Mart. ex Tul.) L.P.Queiroz",
+            "id": "1719969",
+            "score": 0.00088
+        },
+        {
+            "name": "Cydonia oblonga Mill.",
+            "id": "1363999",
+            "score": 0.00085
+        },
+        {
+            "name": "Psidium cattleyanum Sabine",
+            "id": "1419578",
+            "score": 0.00079
+        },
+        {
+            "name": "Opuntia dillenii (Ker Gawl.) Haw.",
+            "id": "1399848",
+            "score": 0.00072
+        },
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.00071
+        },
+        {
+            "name": "Citrus × aurantium L.",
+            "id": "1403435",
+            "score": 0.00071
+        },
+        {
+            "name": "Guaiacum officinale L.",
+            "id": "1379303",
+            "score": 0.00068
+        },
+        {
+            "name": "Lagerstroemia speciosa (L.) Pers.",
+            "id": "1376510",
+            "score": 0.00067
+        },
+        {
+            "name": "Plumeria alba L.",
+            "id": "1369884",
+            "score": 0.00067
+        },
+        {
+            "name": "Eucalyptus globulus Labill.",
+            "id": "1356282",
+            "score": 0.00063
+        },
+        {
+            "name": "Plinia edulis (Vell.) Sobral",
+            "id": "1606471",
+            "score": 0.00056
+        },
+        {
+            "name": "Eucalyptus camaldulensis Dehnh.",
+            "id": "1361792",
+            "score": 0.0005
+        },
+        {
+            "name": "Psidium friedrichsthalianum (O.Berg) Nied.",
+            "id": "1419579",
+            "score": 0.00049
+        },
+        {
+            "name": "Hesperocyparis arizonica (Greene) Bartel",
+            "id": "1432840",
+            "score": 0.00049
+        },
+        {
+            "name": "Plinia spirito-sanctensis (Mattos) Mattos",
+            "id": "1730193",
+            "score": 0.00046
+        },
+        {
+            "name": "Commiphora baluensis Engl.",
+            "id": "1365620",
+            "score": 0.00045
+        },
+        {
+            "name": "Ceratonia siliqua L.",
+            "id": "1363660",
+            "score": 0.00044
+        },
+        {
+            "name": "Opuntia triacanthos (Willd.) Sweet",
+            "id": "1829882",
+            "score": 0.00043
+        },
+        {
+            "name": "Polygala polygama Walter",
+            "id": "1413191",
+            "score": 0.0004
+        },
+        {
+            "name": "Opuntia maxima Mill.",
+            "id": "1394251",
+            "score": 0.00038
+        },
+        {
+            "name": "Balfourodendron riedelianum (Engl.) Engl.",
+            "id": "1682212",
+            "score": 0.00038
+        },
+        {
+            "name": "Corymbia citriodora (Hook.) K.D.Hill & L.A.S.Johnson",
+            "id": "1419546",
+            "score": 0.00038
+        },
+        {
+            "name": "Ilex aquifolium L.",
+            "id": "1356576",
+            "score": 0.00036
+        },
+        {
+            "name": "Randia echinocarpa Moc. & Sessé ex DC.",
+            "id": "1679589",
+            "score": 0.00036
+        },
+        {
+            "name": "Hesperocyparis guadalupensis (S.Watson) Bartel",
+            "id": "1822772",
+            "score": 0.00036
+        },
+        {
+            "name": "Bougainvillea spectabilis Willd.",
+            "id": "1362134",
+            "score": 0.00036
+        },
+        {
+            "name": "Ceiba speciosa (A.St.-Hil., A.Juss. & Cambess.) Ravenna",
+            "id": "1390214",
+            "score": 0.00036
+        },
+        {
+            "name": "Libidibia glabrata (Kunth) C.Cast. & G.P.Lewis",
+            "id": "1726581",
+            "score": 0.00035
+        },
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.00033
+        },
+        {
+            "name": "Euphorbia neriifolia L.",
+            "id": "1408062",
+            "score": 0.00033
+        },
+        {
+            "name": "Carica papaya L.",
+            "id": "1378024",
+            "score": 0.00033
+        },
+        {
+            "name": "Calycophyllum spruceanum (Benth.) Hook.f. ex K.Schum.",
+            "id": "1671181",
+            "score": 0.00031
+        },
+        {
+            "name": "Cornus kousa Bürger ex Hance",
+            "id": "1720853",
+            "score": 0.00031
+        },
+        {
+            "name": "Austrocylindropuntia subulata (Muehlenpf.) Backeb.",
+            "id": "1356732",
+            "score": 0.0003
+        },
+        {
+            "name": "Savia dictyocarpa Müll.Arg.",
+            "id": "1642925",
+            "score": 0.00028
+        },
+        {
+            "name": "Opuntia stricta (Haw.) Haw.",
+            "id": "1363600",
+            "score": 0.00028
+        },
+        {
+            "name": "Spathodea campanulata P.Beauv.",
+            "id": "1389151",
+            "score": 0.00027
+        },
+        {
+            "name": "Euphorbia alluaudii Drake",
+            "id": "1544691",
+            "score": 0.00027
+        },
+        {
+            "name": "Clerodendrum indicum (L.) Kuntze",
+            "id": "1406401",
+            "score": 0.00027
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Saponaria officinalis L.",
+            "id": "1356803",
+            "score": 0.88189
+        },
+        {
+            "name": "Saponaria caespitosa DC.",
+            "id": "1395928",
+            "score": 0.01767
+        },
+        {
+            "name": "Galega officinalis L.",
+            "id": "1359197",
+            "score": 0.00128
+        },
+        {
+            "name": "Saponaria bellidifolia Sm.",
+            "id": "1395926",
+            "score": 0.00111
+        }
+    ]
+}

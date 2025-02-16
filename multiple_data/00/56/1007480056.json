@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viburnum plicatum Thunb.",
+            "id": "1397609",
+            "score": 0.95291
+        },
+        {
+            "name": "Viburnum farreri Stearn",
+            "id": "1397610",
+            "score": 0.01253
+        },
+        {
+            "name": "Prunus tomentosa Thunb.",
+            "id": "1413354",
+            "score": 0.00511
+        },
+        {
+            "name": "Hydrangea paniculata Siebold",
+            "id": "1393223",
+            "score": 0.00212
+        },
+        {
+            "name": "Callicarpa americana L.",
+            "id": "1419249",
+            "score": 0.0015
+        }
+    ]
+}

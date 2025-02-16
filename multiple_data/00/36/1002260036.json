@@ -1,0 +1,365 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hydrocotyle sibthorpioides Lam.",
+            "id": "1384659",
+            "score": 0.15773
+        },
+        {
+            "name": "Ranunculus tuberosus Lapeyr.",
+            "id": "1395134",
+            "score": 0.06905
+        },
+        {
+            "name": "Waldsteinia ternata (Stephan) Fritsch",
+            "id": "1670101",
+            "score": 0.06434
+        },
+        {
+            "name": "Ribes nigrum L.",
+            "id": "1395200",
+            "score": 0.04715
+        },
+        {
+            "name": "Fragaria vesca L.",
+            "id": "1363991",
+            "score": 0.04387
+        },
+        {
+            "name": "Petroselinum crispum (Mill.) Fuss",
+            "id": "1363214",
+            "score": 0.04095
+        },
+        {
+            "name": "Coriandrum sativum L.",
+            "id": "1363224",
+            "score": 0.02581
+        },
+        {
+            "name": "Fragaria × ananassa (Duchesne ex Weston) Duchesne ex Rozier",
+            "id": "1667445",
+            "score": 0.02363
+        },
+        {
+            "name": "Tellima grandiflora (Pursh) Douglas ex Lindl.",
+            "id": "1396714",
+            "score": 0.0219
+        },
+        {
+            "name": "Ribes rubrum L.",
+            "id": "1397543",
+            "score": 0.01876
+        },
+        {
+            "name": "Geranium lucidum L.",
+            "id": "1358674",
+            "score": 0.01575
+        },
+        {
+            "name": "Geranium gracile Ledeb. ex Nordm.",
+            "id": "1550322",
+            "score": 0.0152
+        },
+        {
+            "name": "Geranium endressii J.Gay",
+            "id": "1392581",
+            "score": 0.01352
+        },
+        {
+            "name": "Waldsteinia fragarioides (Michx.) Tratt.",
+            "id": "1414232",
+            "score": 0.01203
+        },
+        {
+            "name": "Coptis trifolia (L.) Salisb.",
+            "id": "1411530",
+            "score": 0.01087
+        },
+        {
+            "name": "Potentilla indica (Andrews) Th.Wolf",
+            "id": "1721637",
+            "score": 0.01018
+        },
+        {
+            "name": "Geum macrophyllum Willd.",
+            "id": "1398509",
+            "score": 0.00918
+        },
+        {
+            "name": "Bowlesia incana Ruiz & Pav.",
+            "id": "1388767",
+            "score": 0.00856
+        },
+        {
+            "name": "Ribes sanguineum Pursh",
+            "id": "1395204",
+            "score": 0.00798
+        },
+        {
+            "name": "Ribes uva-crispa L.",
+            "id": "1358684",
+            "score": 0.00726
+        },
+        {
+            "name": "Aquilegia canadensis L.",
+            "id": "1412807",
+            "score": 0.00686
+        },
+        {
+            "name": "Ranunculus lanuginosus L.",
+            "id": "1395100",
+            "score": 0.00678
+        },
+        {
+            "name": "Geranium nodosum L.",
+            "id": "1392588",
+            "score": 0.00634
+        },
+        {
+            "name": "Sanicula canadensis L.",
+            "id": "1413660",
+            "score": 0.00625
+        },
+        {
+            "name": "Pimpinella anisum L.",
+            "id": "1363222",
+            "score": 0.00574
+        },
+        {
+            "name": "Ribes alpinum L.",
+            "id": "1358682",
+            "score": 0.00568
+        },
+        {
+            "name": "Ribes cynosbati L.",
+            "id": "1413474",
+            "score": 0.00563
+        },
+        {
+            "name": "Modiola caroliniana (L.) G.Don",
+            "id": "1393845",
+            "score": 0.0053
+        },
+        {
+            "name": "Gynostemma pentaphyllum (Thunb.) Makino",
+            "id": "1529914",
+            "score": 0.00506
+        },
+        {
+            "name": "Geranium rotundifolium L.",
+            "id": "1356013",
+            "score": 0.00485
+        },
+        {
+            "name": "Apium graveolens L.",
+            "id": "1363218",
+            "score": 0.00475
+        },
+        {
+            "name": "Potentilla sterilis (L.) Garcke",
+            "id": "1394877",
+            "score": 0.00474
+        },
+        {
+            "name": "Geranium albanum M.Bieb.",
+            "id": "1550217",
+            "score": 0.00469
+        },
+        {
+            "name": "Ribes aureum Pursh",
+            "id": "1397291",
+            "score": 0.00453
+        },
+        {
+            "name": "Potentilla anglica Laichard.",
+            "id": "1360304",
+            "score": 0.00443
+        },
+        {
+            "name": "Potentilla norvegica L.",
+            "id": "1394867",
+            "score": 0.00415
+        },
+        {
+            "name": "Malva pusilla Sm.",
+            "id": "1363946",
+            "score": 0.00415
+        },
+        {
+            "name": "Ribes divaricatum Douglas",
+            "id": "1413477",
+            "score": 0.00409
+        },
+        {
+            "name": "Geranium macrorrhizum L.",
+            "id": "1392585",
+            "score": 0.0036
+        },
+        {
+            "name": "Fragaria chiloensis (L.) Mill.",
+            "id": "1408979",
+            "score": 0.00343
+        },
+        {
+            "name": "Geum aleppicum Jacq.",
+            "id": "1412165",
+            "score": 0.00337
+        },
+        {
+            "name": "Vitis rotundifolia Michx.",
+            "id": "1397212",
+            "score": 0.00334
+        },
+        {
+            "name": "Fragaria virginiana Mill.",
+            "id": "1420364",
+            "score": 0.00315
+        },
+        {
+            "name": "Geranium sibiricum L.",
+            "id": "1392598",
+            "score": 0.00296
+        },
+        {
+            "name": "Fragaria viridis Weston",
+            "id": "1397387",
+            "score": 0.00294
+        },
+        {
+            "name": "Rubus arcticus L.",
+            "id": "1413517",
+            "score": 0.00267
+        },
+        {
+            "name": "Ranunculus sardous Crantz",
+            "id": "1360223",
+            "score": 0.00254
+        },
+        {
+            "name": "Ribes fasciculatum Siebold & Zucc.",
+            "id": "1554123",
+            "score": 0.00251
+        },
+        {
+            "name": "Rubus phoenicolasius Maxim.",
+            "id": "1395394",
+            "score": 0.00246
+        },
+        {
+            "name": "Alchemilla erythropoda Juz.",
+            "id": "1666422",
+            "score": 0.00238
+        },
+        {
+            "name": "Geranium phaeum L.",
+            "id": "1392592",
+            "score": 0.00231
+        },
+        {
+            "name": "Geum coccineum Sm.",
+            "id": "1398510",
+            "score": 0.0023
+        },
+        {
+            "name": "Nepeta cataria L.",
+            "id": "1358827",
+            "score": 0.0021
+        },
+        {
+            "name": "Vitis vinifera L.",
+            "id": "1356217",
+            "score": 0.00199
+        },
+        {
+            "name": "Leonurus cardiaca L.",
+            "id": "1358768",
+            "score": 0.00192
+        },
+        {
+            "name": "Potentilla simplex Michx.",
+            "id": "1413317",
+            "score": 0.00189
+        },
+        {
+            "name": "Ranunculus muricatus L.",
+            "id": "1363972",
+            "score": 0.00174
+        },
+        {
+            "name": "Geranium versicolor L.",
+            "id": "1392600",
+            "score": 0.00164
+        },
+        {
+            "name": "Saxifraga rotundifolia L.",
+            "id": "1397486",
+            "score": 0.00158
+        },
+        {
+            "name": "Geranium pyrenaicum Burm.f.",
+            "id": "1397395",
+            "score": 0.00152
+        },
+        {
+            "name": "Ranunculus recurvatus Poir.",
+            "id": "1413440",
+            "score": 0.00145
+        },
+        {
+            "name": "Sibthorpia peregrina L.",
+            "id": "1360516",
+            "score": 0.00142
+        },
+        {
+            "name": "Geum urbanum L.",
+            "id": "1360300",
+            "score": 0.00139
+        },
+        {
+            "name": "Ranunculus asiaticus L.",
+            "id": "1360189",
+            "score": 0.00133
+        },
+        {
+            "name": "Ranunculus cortusifolius Willd.",
+            "id": "1360197",
+            "score": 0.00131
+        },
+        {
+            "name": "Ranunculus sceleratus L.",
+            "id": "1363974",
+            "score": 0.00126
+        },
+        {
+            "name": "Tiarella trifoliata L.",
+            "id": "1414041",
+            "score": 0.00117
+        },
+        {
+            "name": "Geranium platypetalum Fisch. & C.A.Mey.",
+            "id": "1398511",
+            "score": 0.00117
+        },
+        {
+            "name": "Ribes missouriense Nutt.",
+            "id": "1413485",
+            "score": 0.00116
+        },
+        {
+            "name": "Smyrnium olusatrum L.",
+            "id": "1360801",
+            "score": 0.00108
+        },
+        {
+            "name": "Aquilegia nigricans Baumg.",
+            "id": "1398909",
+            "score": 0.00105
+        },
+        {
+            "name": "Crataegus marshallii Eggl.",
+            "id": "1441803",
+            "score": 0.00104
+        }
+    ]
+}

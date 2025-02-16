@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cercis siliquastrum L.",
+            "id": "1359162",
+            "score": 0.84809
+        },
+        {
+            "name": "Cercis canadensis L.",
+            "id": "1397806",
+            "score": 0.1043
+        },
+        {
+            "name": "Cercis chinensis Bunge",
+            "id": "1418915",
+            "score": 0.00415
+        },
+        {
+            "name": "Prunus serrulata Lindl.",
+            "id": "1394953",
+            "score": 0.00256
+        },
+        {
+            "name": "Bauhinia variegata L.",
+            "id": "1389161",
+            "score": 0.00198
+        }
+    ]
+}

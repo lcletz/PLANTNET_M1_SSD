@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Primula vulgaris Huds.",
+            "id": "1394924",
+            "score": 0.823
+        },
+        {
+            "name": "Primula elatior (L.) Hill",
+            "id": "1394906",
+            "score": 0.05338
+        },
+        {
+            "name": "Primula × polyantha Mill.",
+            "id": "1661341",
+            "score": 0.04255
+        },
+        {
+            "name": "Primula veris L.",
+            "id": "1360145",
+            "score": 0.00498
+        },
+        {
+            "name": "Primula auricula L.",
+            "id": "1394898",
+            "score": 0.00132
+        }
+    ]
+}

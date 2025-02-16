@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Eryngium planum L.",
+            "id": "1361890",
+            "score": 0.92799
+        },
+        {
+            "name": "Eryngium bourgatii Gouan",
+            "id": "1360709",
+            "score": 0.03264
+        },
+        {
+            "name": "Eryngium amethystinum L.",
+            "id": "1399168",
+            "score": 0.00493
+        },
+        {
+            "name": "Eryngium creticum Lam.",
+            "id": "1360713",
+            "score": 0.00421
+        },
+        {
+            "name": "Eryngium campestre L.",
+            "id": "1360711",
+            "score": 0.00398
+        }
+    ]
+}

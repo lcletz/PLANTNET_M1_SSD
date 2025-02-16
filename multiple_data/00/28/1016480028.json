@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Galinsoga parviflora Cav.",
+            "id": "1355935",
+            "score": 0.87387
+        },
+        {
+            "name": "Galinsoga quadriradiata Ruiz & Pav.",
+            "id": "1357599",
+            "score": 0.01858
+        },
+        {
+            "name": "Bidens pilosa L.",
+            "id": "1364143",
+            "score": 0.00202
+        },
+        {
+            "name": "Baltimora recta L.",
+            "id": "1422062",
+            "score": 0.00161
+        },
+        {
+            "name": "Eclipta prostrata (L.) L.",
+            "id": "1364146",
+            "score": 0.00107
+        }
+    ]
+}

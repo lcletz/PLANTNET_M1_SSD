@@ -1,0 +1,60 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Alopecurus pratensis L.",
+            "id": "1362406",
+            "score": 0.82148
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.05373
+        },
+        {
+            "name": "Alopecurus arundinaceus Poir.",
+            "id": "1361153",
+            "score": 0.02381
+        },
+        {
+            "name": "Phalaris coerulescens Desf.",
+            "id": "1361357",
+            "score": 0.02286
+        },
+        {
+            "name": "Alopecurus geniculatus L.",
+            "id": "1361155",
+            "score": 0.01025
+        },
+        {
+            "name": "Phalaris aquatica L.",
+            "id": "1363489",
+            "score": 0.00617
+        },
+        {
+            "name": "Phleum phleoides (L.) H.Karst.",
+            "id": "1394523",
+            "score": 0.00541
+        },
+        {
+            "name": "Alopecurus gerardii (All.) Vill.",
+            "id": "1647677",
+            "score": 0.00293
+        },
+        {
+            "name": "Phleum alpinum L.",
+            "id": "1362482",
+            "score": 0.00277
+        },
+        {
+            "name": "Phleum bertolonii DC.",
+            "id": "1653859",
+            "score": 0.00126
+        },
+        {
+            "name": "Plantago lagopus L.",
+            "id": "1359959",
+            "score": 0.001
+        }
+    ]
+}

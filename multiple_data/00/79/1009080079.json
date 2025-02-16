@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viburnum rugosum Pers.",
+            "id": "1722512",
+            "score": 0.60758
+        },
+        {
+            "name": "Viburnum tinus L.",
+            "id": "1356793",
+            "score": 0.38474
+        },
+        {
+            "name": "Viburnum odoratissimum Ker Gawl.",
+            "id": "1417575",
+            "score": 0.00263
+        },
+        {
+            "name": "Viburnum davidi Franch.",
+            "id": "1774594",
+            "score": 0.00246
+        },
+        {
+            "name": "Osmanthus fragrans Lour.",
+            "id": "1394028",
+            "score": 0.00235
+        },
+        {
+            "name": "Viburnum nudum L.",
+            "id": "1414188",
+            "score": 0.0016
+        },
+        {
+            "name": "Hydrangea arborescens L.",
+            "id": "1393222",
+            "score": 0.00109
+        },
+        {
+            "name": "Laurus nobilis L.",
+            "id": "1363362",
+            "score": 0.001
+        }
+    ]
+}

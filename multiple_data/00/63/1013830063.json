@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Convolvulus cantabrica L.",
+            "id": "1357968",
+            "score": 0.91491
+        },
+        {
+            "name": "Convolvulus oleifolius Desr.",
+            "id": "1357987",
+            "score": 0.01806
+        },
+        {
+            "name": "Convolvulus althaeoides L.",
+            "id": "1364016",
+            "score": 0.01537
+        },
+        {
+            "name": "Convolvulus lineatus L.",
+            "id": "1357981",
+            "score": 0.00753
+        },
+        {
+            "name": "Convolvulus dorycnium L.",
+            "id": "1357971",
+            "score": 0.00378
+        },
+        {
+            "name": "Convolvulus arvensis L.",
+            "id": "1364006",
+            "score": 0.00247
+        },
+        {
+            "name": "Convolvulus lanuginosus Desr.",
+            "id": "1357980",
+            "score": 0.00131
+        }
+    ]
+}

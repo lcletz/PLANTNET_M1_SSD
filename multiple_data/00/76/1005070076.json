@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Wisteria sinensis (Sims) Sweet",
+            "id": "1397230",
+            "score": 0.73877
+        },
+        {
+            "name": "Wisteria floribunda (Willd.) DC.",
+            "id": "1397228",
+            "score": 0.05483
+        },
+        {
+            "name": "Senna occidentalis (L.) Link",
+            "id": "1363758",
+            "score": 0.00445
+        },
+        {
+            "name": "Robinia pseudoacacia L.",
+            "id": "1363698",
+            "score": 0.0025
+        },
+        {
+            "name": "Tecoma stans (L.) Juss. ex Kunth",
+            "id": "1400150",
+            "score": 0.00205
+        }
+    ]
+}

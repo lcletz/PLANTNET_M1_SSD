@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fritillaria meleagris L.",
+            "id": "1392367",
+            "score": 0.93541
+        },
+        {
+            "name": "Fritillaria tubaeformis Gren. & Godr.",
+            "id": "1743466",
+            "score": 0.01627
+        },
+        {
+            "name": "Fritillaria montana Hoppe ex W.D.J.Koch",
+            "id": "1588658",
+            "score": 0.00192
+        },
+        {
+            "name": "Fritillaria meleagroides Patrin ex Schult. & Schult.f.",
+            "id": "1588651",
+            "score": 0.00128
+        },
+        {
+            "name": "Fritillaria pyrenaica L.",
+            "id": "1392370",
+            "score": 0.00109
+        }
+    ]
+}

@@ -1,0 +1,400 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.35057
+        },
+        {
+            "name": "Ricinus communis L.",
+            "id": "1358609",
+            "score": 0.07495
+        },
+        {
+            "name": "Cyclanthera pedata (L.) Schrad.",
+            "id": "1384544",
+            "score": 0.02791
+        },
+        {
+            "name": "Cedrela odorata L.",
+            "id": "1365961",
+            "score": 0.01404
+        },
+        {
+            "name": "Tabernaemontana hystrix Steud.",
+            "id": "1463067",
+            "score": 0.01234
+        },
+        {
+            "name": "Quercus coccifera L.",
+            "id": "1358613",
+            "score": 0.0112
+        },
+        {
+            "name": "Dioscorea alata L.",
+            "id": "1374921",
+            "score": 0.01
+        },
+        {
+            "name": "Tessmannia africana Harms",
+            "id": "1368657",
+            "score": 0.00859
+        },
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.00732
+        },
+        {
+            "name": "Aesculus glabra Willd.",
+            "id": "1390602",
+            "score": 0.0073
+        },
+        {
+            "name": "Terminalia catappa L.",
+            "id": "1376792",
+            "score": 0.00726
+        },
+        {
+            "name": "Luffa operculata (L.) Cogn.",
+            "id": "1384498",
+            "score": 0.0067
+        },
+        {
+            "name": "Bixa orellana L.",
+            "id": "1377104",
+            "score": 0.00594
+        },
+        {
+            "name": "Xanthium orientale L.",
+            "id": "1361786",
+            "score": 0.00553
+        },
+        {
+            "name": "Rosa laevigata Michx.",
+            "id": "1360339",
+            "score": 0.00516
+        },
+        {
+            "name": "Annona montana Macfad.",
+            "id": "1401227",
+            "score": 0.00513
+        },
+        {
+            "name": "Sapindus oahuensis Hillebr. ex Radlk.",
+            "id": "1686262",
+            "score": 0.00508
+        },
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.00493
+        },
+        {
+            "name": "Cedrela tonduzii C.DC.",
+            "id": "1600541",
+            "score": 0.00454
+        },
+        {
+            "name": "Flindersia australis R.Br.",
+            "id": "1682686",
+            "score": 0.00416
+        },
+        {
+            "name": "Quercus faginea Lam.",
+            "id": "1358614",
+            "score": 0.00404
+        },
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.00401
+        },
+        {
+            "name": "Asclepias syriaca L.",
+            "id": "1397115",
+            "score": 0.00352
+        },
+        {
+            "name": "Momordica charantia L.",
+            "id": "1399937",
+            "score": 0.00338
+        },
+        {
+            "name": "Aesculus × carnea Zeyh.",
+            "id": "1420608",
+            "score": 0.00327
+        },
+        {
+            "name": "Juglans nigra L.",
+            "id": "1393337",
+            "score": 0.00322
+        },
+        {
+            "name": "Hovenia dulcis Thunb.",
+            "id": "1370770",
+            "score": 0.003
+        },
+        {
+            "name": "Nyssa aquatica L.",
+            "id": "1418498",
+            "score": 0.003
+        },
+        {
+            "name": "Ficus pumila L.",
+            "id": "1363143",
+            "score": 0.00289
+        },
+        {
+            "name": "Xanthium strumarium L.",
+            "id": "1355898",
+            "score": 0.00279
+        },
+        {
+            "name": "Litchi chinensis Sonn.",
+            "id": "1408305",
+            "score": 0.00272
+        },
+        {
+            "name": "Ceiba pentandra (L.) Gaertn.",
+            "id": "1388740",
+            "score": 0.00265
+        },
+        {
+            "name": "Amomum subulatum Roxb.",
+            "id": "1429452",
+            "score": 0.00264
+        },
+        {
+            "name": "Paubrasilia echinata (Lam.) Gagnon, H.C.Lima & G.P.Lewis",
+            "id": "1730026",
+            "score": 0.00259
+        },
+        {
+            "name": "Guilandina bonduc L.",
+            "id": "1366953",
+            "score": 0.00256
+        },
+        {
+            "name": "Fagus grandifolia Ehrh.",
+            "id": "1412056",
+            "score": 0.00253
+        },
+        {
+            "name": "Antiaris toxicaria (J.F.Gmel.) Lesch.",
+            "id": "1719788",
+            "score": 0.00252
+        },
+        {
+            "name": "Annona muricata L.",
+            "id": "1386673",
+            "score": 0.00246
+        },
+        {
+            "name": "Magnolia obovata Thunb.",
+            "id": "1419379",
+            "score": 0.00243
+        },
+        {
+            "name": "Chimonanthus praecox (L.) Link",
+            "id": "1418346",
+            "score": 0.00239
+        },
+        {
+            "name": "Paulownia tomentosa (Thunb.) Steud.",
+            "id": "1394426",
+            "score": 0.00234
+        },
+        {
+            "name": "Ayenia voulily (Baill.) Christenh. & Byng",
+            "id": "1759611",
+            "score": 0.00234
+        },
+        {
+            "name": "Artocarpus hypargyreus Hance ex Benth.",
+            "id": "1601544",
+            "score": 0.00226
+        },
+        {
+            "name": "Cedrela salvadorensis Standl.",
+            "id": "1600540",
+            "score": 0.00218
+        },
+        {
+            "name": "Matelea biflora (Raf.) Woodson",
+            "id": "1434555",
+            "score": 0.00205
+        },
+        {
+            "name": "Betula pendula Roth",
+            "id": "1356609",
+            "score": 0.00203
+        },
+        {
+            "name": "Terminalia arjuna (Roxb. ex DC.) Wight & Arn.",
+            "id": "1409055",
+            "score": 0.00192
+        },
+        {
+            "name": "Cordyla madagascariensis R.Vig.",
+            "id": "1575412",
+            "score": 0.00191
+        },
+        {
+            "name": "Bunchosia argentea (Jacq.) DC.",
+            "id": "1403911",
+            "score": 0.00178
+        },
+        {
+            "name": "Eucalyptus robusta Sm.",
+            "id": "1361806",
+            "score": 0.00178
+        },
+        {
+            "name": "Opuntia ficus-indica (L.) Mill.",
+            "id": "1363598",
+            "score": 0.00173
+        },
+        {
+            "name": "Populus alba L.",
+            "id": "1364046",
+            "score": 0.00158
+        },
+        {
+            "name": "Liquidambar orientalis Mill.",
+            "id": "1390587",
+            "score": 0.00156
+        },
+        {
+            "name": "Persea indica (L.) Spreng.",
+            "id": "1359058",
+            "score": 0.0015
+        },
+        {
+            "name": "Guazuma ulmifolia Lam.",
+            "id": "1378186",
+            "score": 0.00143
+        },
+        {
+            "name": "Apios americana Medik.",
+            "id": "1395209",
+            "score": 0.00142
+        },
+        {
+            "name": "Lithocarpus pseudokunstleri A.Camus",
+            "id": "1429115",
+            "score": 0.00139
+        },
+        {
+            "name": "Iris graminea L.",
+            "id": "1393300",
+            "score": 0.00136
+        },
+        {
+            "name": "Cucumis ficifolius A.Rich.",
+            "id": "1418560",
+            "score": 0.00136
+        },
+        {
+            "name": "Liquidambar styraciflua L.",
+            "id": "1393613",
+            "score": 0.00135
+        },
+        {
+            "name": "Salacca affinis Griff.",
+            "id": "1430211",
+            "score": 0.00134
+        },
+        {
+            "name": "Alnus japonica (Thunb.) Steud.",
+            "id": "1398105",
+            "score": 0.00133
+        },
+        {
+            "name": "Ibicella lutea (Lindl.) Van Eselt.",
+            "id": "1356055",
+            "score": 0.00132
+        },
+        {
+            "name": "Momordica balsamina L.",
+            "id": "1384418",
+            "score": 0.00131
+        },
+        {
+            "name": "Cedrela fissilis Vell.",
+            "id": "1600531",
+            "score": 0.00124
+        },
+        {
+            "name": "Sterculia murex Hemsl.",
+            "id": "1422600",
+            "score": 0.00124
+        },
+        {
+            "name": "Fagus orientalis Lipsky",
+            "id": "1547791",
+            "score": 0.00123
+        },
+        {
+            "name": "Iris pseudacorus L.",
+            "id": "1361543",
+            "score": 0.0012
+        },
+        {
+            "name": "Prunus amygdalus Batsch",
+            "id": "1722605",
+            "score": 0.00116
+        },
+        {
+            "name": "Cucumis myriocarpus Naudin",
+            "id": "1398486",
+            "score": 0.00115
+        },
+        {
+            "name": "Quercus castaneifolia C.A.Mey.",
+            "id": "1390589",
+            "score": 0.00114
+        },
+        {
+            "name": "Esenbeckia grandiflora Mart.",
+            "id": "1405135",
+            "score": 0.00113
+        },
+        {
+            "name": "Sloanea picapica Standl.",
+            "id": "1713956",
+            "score": 0.00109
+        },
+        {
+            "name": "Bunchosia armeniaca (Cav.) DC.",
+            "id": "1408959",
+            "score": 0.00109
+        },
+        {
+            "name": "Pichonia dubia (Pierre ex Guillaumin) Swenson & Munzinger",
+            "id": "1417310",
+            "score": 0.00107
+        },
+        {
+            "name": "Calodendrum capense (L.f.) Thunb.",
+            "id": "1422636",
+            "score": 0.00105
+        },
+        {
+            "name": "Canna indica L.",
+            "id": "1356134",
+            "score": 0.00105
+        },
+        {
+            "name": "Torminalis glaberrima (Gand.) Sennikov & Kurtto",
+            "id": "1737588",
+            "score": 0.00103
+        },
+        {
+            "name": "Asclepias speciosa Torr.",
+            "id": "1413818",
+            "score": 0.00103
+        }
+    ]
+}

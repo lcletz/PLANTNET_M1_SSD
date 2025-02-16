@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vicia sativa L.",
+            "id": "1359575",
+            "score": 0.77294
+        },
+        {
+            "name": "Vicia lathyroides L.",
+            "id": "1363677",
+            "score": 0.14144
+        },
+        {
+            "name": "Lathyrus hirsutus L.",
+            "id": "1363800",
+            "score": 0.02952
+        },
+        {
+            "name": "Vicia peregrina L.",
+            "id": "1359572",
+            "score": 0.0086
+        },
+        {
+            "name": "Vicia pyrenaica Pourr.",
+            "id": "1397106",
+            "score": 0.00315
+        },
+        {
+            "name": "Vicia bithynica (L.) L.",
+            "id": "1359551",
+            "score": 0.00257
+        },
+        {
+            "name": "Vicia hybrida L.",
+            "id": "1359562",
+            "score": 0.00138
+        }
+    ]
+}

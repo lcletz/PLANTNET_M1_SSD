@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phillyrea media L.",
+            "id": "1394512",
+            "score": 0.60251
+        },
+        {
+            "name": "Phillyrea latifolia L.",
+            "id": "1359678",
+            "score": 0.29889
+        },
+        {
+            "name": "Phillyrea angustifolia L.",
+            "id": "1359677",
+            "score": 0.01365
+        },
+        {
+            "name": "Rhamnus alaternus L.",
+            "id": "1360260",
+            "score": 0.00127
+        },
+        {
+            "name": "Salix triandra L.",
+            "id": "1360459",
+            "score": 0.00103
+        }
+    ]
+}

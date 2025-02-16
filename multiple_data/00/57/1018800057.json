@@ -1,0 +1,55 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Carduus nutans L.",
+            "id": "1357350",
+            "score": 0.87464
+        },
+        {
+            "name": "Carduus acanthoides L.",
+            "id": "1362653",
+            "score": 0.01173
+        },
+        {
+            "name": "Carduus nigrescens Vill.",
+            "id": "1390740",
+            "score": 0.01171
+        },
+        {
+            "name": "Onopordum tauricum Willd.",
+            "id": "1394059",
+            "score": 0.00871
+        },
+        {
+            "name": "Onopordum illyricum L.",
+            "id": "1394057",
+            "score": 0.00521
+        },
+        {
+            "name": "Onopordum acanthium L.",
+            "id": "1357723",
+            "score": 0.00356
+        },
+        {
+            "name": "Carduus defloratus L.",
+            "id": "1397340",
+            "score": 0.00245
+        },
+        {
+            "name": "Cirsium eriophorum (L.) Scop.",
+            "id": "1391192",
+            "score": 0.00161
+        },
+        {
+            "name": "Carduus carlinoides Gouan",
+            "id": "1397339",
+            "score": 0.00142
+        },
+        {
+            "name": "Carduus crispus L.",
+            "id": "1390725",
+            "score": 0.0013
+        }
+    ]
+}

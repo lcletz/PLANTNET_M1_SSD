@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Glechoma hederacea L.",
+            "id": "1358746",
+            "score": 0.9394
+        },
+        {
+            "name": "Nepeta cataria L.",
+            "id": "1358827",
+            "score": 0.01246
+        },
+        {
+            "name": "Glechoma hirsuta Waldst. & Kit.",
+            "id": "1392624",
+            "score": 0.00487
+        },
+        {
+            "name": "Nepeta racemosa Lam.",
+            "id": "1389635",
+            "score": 0.00183
+        },
+        {
+            "name": "Ballota nigra L.",
+            "id": "1358722",
+            "score": 0.00129
+        }
+    ]
+}

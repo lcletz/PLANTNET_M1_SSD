@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Urtica urens L.",
+            "id": "1356201",
+            "score": 0.88114
+        },
+        {
+            "name": "Urtica pilulifera L.",
+            "id": "1360831",
+            "score": 0.02715
+        },
+        {
+            "name": "Urtica dioica L.",
+            "id": "1356200",
+            "score": 0.00659
+        },
+        {
+            "name": "Urtica chamaedryoides Pursh",
+            "id": "1424320",
+            "score": 0.00312
+        },
+        {
+            "name": "Lycopus europaeus L.",
+            "id": "1358770",
+            "score": 0.00191
+        },
+        {
+            "name": "Urtica kioviensis Rogow.",
+            "id": "1425749",
+            "score": 0.00158
+        },
+        {
+            "name": "Lamium album L.",
+            "id": "1393423",
+            "score": 0.00132
+        },
+        {
+            "name": "Leonurus cardiaca L.",
+            "id": "1358768",
+            "score": 0.00129
+        },
+        {
+            "name": "Urtica membranacea Poir. ex Savigny",
+            "id": "1695710",
+            "score": 0.00106
+        }
+    ]
+}

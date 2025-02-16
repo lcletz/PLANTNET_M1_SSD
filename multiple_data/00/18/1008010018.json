@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Paeonia officinalis L.",
+            "id": "1362842",
+            "score": 0.66031
+        },
+        {
+            "name": "Paeonia lactiflora Pall.",
+            "id": "1412934",
+            "score": 0.18355
+        },
+        {
+            "name": "Paeonia mascula (L.) Mill.",
+            "id": "1359758",
+            "score": 0.11167
+        },
+        {
+            "name": "Trillium grandiflorum (Michx.) Salisb.",
+            "id": "1414095",
+            "score": 0.003
+        },
+        {
+            "name": "Clematis montana Buch.-Ham. ex DC.",
+            "id": "1391296",
+            "score": 0.00284
+        },
+        {
+            "name": "Hydrophyllum virginianum L.",
+            "id": "1393226",
+            "score": 0.00155
+        },
+        {
+            "name": "Polemonium reptans L.",
+            "id": "1398531",
+            "score": 0.00106
+        }
+    ]
+}

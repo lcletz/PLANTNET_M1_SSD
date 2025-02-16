@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aconitum napellus L.",
+            "id": "1395208",
+            "score": 0.92892
+        },
+        {
+            "name": "Aconitum variegatum L.",
+            "id": "1396228",
+            "score": 0.02085
+        },
+        {
+            "name": "Aconitum tauricum Wulfen",
+            "id": "1663191",
+            "score": 0.00425
+        },
+        {
+            "name": "Aconitum carmichaelii Debeaux",
+            "id": "1420275",
+            "score": 0.00249
+        },
+        {
+            "name": "Delphinium elatum L.",
+            "id": "1380238",
+            "score": 0.00139
+        },
+        {
+            "name": "Aconitum leucostomum Vorosch.",
+            "id": "1663050",
+            "score": 0.00125
+        },
+        {
+            "name": "Aconitum plicatum Köhler ex Rchb.",
+            "id": "1663106",
+            "score": 0.00111
+        }
+    ]
+}

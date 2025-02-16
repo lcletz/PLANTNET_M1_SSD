@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Conyza canadensis (L.) Cronquist",
+            "id": "1405532",
+            "score": 0.34833
+        },
+        {
+            "name": "Conyza bonariensis (L.) Cronquist",
+            "id": "1403879",
+            "score": 0.03288
+        },
+        {
+            "name": "Lepidium virginicum L.",
+            "id": "1363893",
+            "score": 0.00749
+        },
+        {
+            "name": "Solidago canadensis L.",
+            "id": "1396336",
+            "score": 0.00451
+        },
+        {
+            "name": "Cascabela thevetia (L.) Lippold",
+            "id": "1369909",
+            "score": 0.00448
+        },
+        {
+            "name": "Solidago gigantea Aiton",
+            "id": "1396337",
+            "score": 0.00415
+        },
+        {
+            "name": "Linaria vulgaris Mill.",
+            "id": "1393600",
+            "score": 0.00129
+        }
+    ]
+}

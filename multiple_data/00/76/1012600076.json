@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Solanum villosum Mill.",
+            "id": "1361993",
+            "score": 0.9645
+        },
+        {
+            "name": "Solanum nigrum L.",
+            "id": "1356167",
+            "score": 0.01037
+        },
+        {
+            "name": "Solanum chenopodioides Lam.",
+            "id": "1356162",
+            "score": 0.0095
+        },
+        {
+            "name": "Solanum americanum Mill.",
+            "id": "1360564",
+            "score": 0.00123
+        },
+        {
+            "name": "Solanum physalifolium Rusby",
+            "id": "1396327",
+            "score": 0.00123
+        }
+    ]
+}

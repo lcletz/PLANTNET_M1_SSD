@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sorghum bicolor (L.) Moench",
+            "id": "1356240",
+            "score": 0.91877
+        },
+        {
+            "name": "Panicum miliaceum L.",
+            "id": "1363446",
+            "score": 0.00636
+        },
+        {
+            "name": "Zea mays L.",
+            "id": "1363500",
+            "score": 0.00541
+        },
+        {
+            "name": "Sorghum halepense (L.) Pers.",
+            "id": "1363508",
+            "score": 0.00279
+        },
+        {
+            "name": "Sorghum × drummondii (Nees ex Steud.) Millsp. & Chase",
+            "id": "1655121",
+            "score": 0.00148
+        },
+        {
+            "name": "Setaria italica (L.) P.Beauv.",
+            "id": "1396251",
+            "score": 0.00107
+        }
+    ]
+}

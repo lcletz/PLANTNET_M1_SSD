@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Berberis vulgaris L.",
+            "id": "1356603",
+            "score": 0.91284
+        },
+        {
+            "name": "Berberis thunbergii DC.",
+            "id": "1400119",
+            "score": 0.01193
+        },
+        {
+            "name": "Berberis koreana Palib.",
+            "id": "1417949",
+            "score": 0.00876
+        },
+        {
+            "name": "Berberis amurensis Rupr.",
+            "id": "1475451",
+            "score": 0.00866
+        },
+        {
+            "name": "Berberis aetnensis C.Presl",
+            "id": "1400121",
+            "score": 0.00188
+        },
+        {
+            "name": "Berberis sanguinea Franch.",
+            "id": "1475872",
+            "score": 0.00166
+        },
+        {
+            "name": "Berberis julianae C.K.Schneid.",
+            "id": "1400117",
+            "score": 0.00134
+        }
+    ]
+}

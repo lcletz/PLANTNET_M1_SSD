@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Asparagus setaceus (Kunth) Jessop",
+            "id": "1363267",
+            "score": 0.97057
+        },
+        {
+            "name": "Asparagus umbellatus Link",
+            "id": "1361011",
+            "score": 0.00344
+        },
+        {
+            "name": "Asparagus officinalis L.",
+            "id": "1363268",
+            "score": 0.0031
+        },
+        {
+            "name": "Asparagus scoparius Lowe",
+            "id": "1361010",
+            "score": 0.00219
+        },
+        {
+            "name": "Foeniculum vulgare Mill.",
+            "id": "1360739",
+            "score": 0.00116
+        }
+    ]
+}

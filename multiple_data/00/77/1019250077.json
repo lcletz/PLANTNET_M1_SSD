@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Aquilegia alpina L.",
+            "id": "1395292",
+            "score": 0.42549
+        },
+        {
+            "name": "Aquilegia vulgaris L.",
+            "id": "1360155",
+            "score": 0.18753
+        },
+        {
+            "name": "Aquilegia pyrenaica DC.",
+            "id": "1397315",
+            "score": 0.07926
+        },
+        {
+            "name": "Aquilegia atrata W.D.J.Koch",
+            "id": "1395297",
+            "score": 0.0226
+        },
+        {
+            "name": "Aquilegia dumeticola Jord.",
+            "id": "1395309",
+            "score": 0.02249
+        },
+        {
+            "name": "Aquilegia bernardii Gren. & Godr.",
+            "id": "1743392",
+            "score": 0.00471
+        },
+        {
+            "name": "Aquilegia reuteri Boiss.",
+            "id": "1395323",
+            "score": 0.00298
+        },
+        {
+            "name": "Aquilegia viscosa Gouan",
+            "id": "1395332",
+            "score": 0.00244
+        },
+        {
+            "name": "Aquilegia nevadensis Boiss. & Reut.",
+            "id": "1663449",
+            "score": 0.00215
+        }
+    ]
+}

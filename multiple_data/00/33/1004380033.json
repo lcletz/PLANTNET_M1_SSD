@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Convolvulus arvensis L.",
+            "id": "1364006",
+            "score": 0.8883
+        },
+        {
+            "name": "Calystegia soldanella (L.) R.Br.",
+            "id": "1721018",
+            "score": 0.0325
+        },
+        {
+            "name": "Convolvulus lineatus L.",
+            "id": "1357981",
+            "score": 0.00581
+        },
+        {
+            "name": "Calystegia sepium (L.) R.Br.",
+            "id": "1426068",
+            "score": 0.00297
+        },
+        {
+            "name": "Convolvulus althaeoides L.",
+            "id": "1364016",
+            "score": 0.00219
+        },
+        {
+            "name": "Ipomoea cordatotriloba Dennst.",
+            "id": "1433235",
+            "score": 0.00219
+        },
+        {
+            "name": "Calystegia purpurata (Greene) Brummitt",
+            "id": "1440492",
+            "score": 0.00207
+        },
+        {
+            "name": "Calystegia macrostegia (Greene) Brummitt",
+            "id": "1440488",
+            "score": 0.00111
+        }
+    ]
+}

@@ -1,0 +1,310 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.79945
+        },
+        {
+            "name": "Ulmus pumila L.",
+            "id": "1390603",
+            "score": 0.06322
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.06022
+        },
+        {
+            "name": "Ulmus minor Mill.",
+            "id": "1360607",
+            "score": 0.05846
+        },
+        {
+            "name": "Prunus pensylvanica L.f.",
+            "id": "1420421",
+            "score": 0.04115
+        },
+        {
+            "name": "Prunus × subhirtella Miq.",
+            "id": "1721663",
+            "score": 0.0383
+        },
+        {
+            "name": "Ulmus americana L.",
+            "id": "1390323",
+            "score": 0.03471
+        },
+        {
+            "name": "Prunus × yedoensis Matsum.",
+            "id": "1668075",
+            "score": 0.03349
+        },
+        {
+            "name": "Zelkova serrata (Thunb.) Makino",
+            "id": "1398535",
+            "score": 0.03129
+        },
+        {
+            "name": "Prunus serrulata Lindl.",
+            "id": "1394953",
+            "score": 0.01309
+        },
+        {
+            "name": "Ulmus parvifolia Jacq.",
+            "id": "1414124",
+            "score": 0.01243
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.01089
+        },
+        {
+            "name": "Rhamnus cathartica L.",
+            "id": "1360262",
+            "score": 0.00863
+        },
+        {
+            "name": "Ulmus glabra Huds.",
+            "id": "1397552",
+            "score": 0.00839
+        },
+        {
+            "name": "Betula × caerulea Blanch.",
+            "id": "1476168",
+            "score": 0.0078
+        },
+        {
+            "name": "Ulmus mexicana (Liebm.) Planch.",
+            "id": "1694429",
+            "score": 0.00745
+        },
+        {
+            "name": "Ulmus alata Michx.",
+            "id": "1420807",
+            "score": 0.00676
+        },
+        {
+            "name": "Zelkova schneideriana Hand.-Mazz.",
+            "id": "1694440",
+            "score": 0.00625
+        },
+        {
+            "name": "Celtis australis L.",
+            "id": "1361742",
+            "score": 0.00609
+        },
+        {
+            "name": "Ostrya virginiana (Mill.) K.Koch",
+            "id": "1476305",
+            "score": 0.00494
+        },
+        {
+            "name": "Prunus × fruticans Weihe",
+            "id": "1667948",
+            "score": 0.00493
+        },
+        {
+            "name": "Ostrya carpinifolia Scop.",
+            "id": "1394357",
+            "score": 0.00489
+        },
+        {
+            "name": "Roseodendron chryseum (S.F.Blake) Miranda",
+            "id": "1476903",
+            "score": 0.00446
+        },
+        {
+            "name": "Betula pubescens Ehrh.",
+            "id": "1362746",
+            "score": 0.00446
+        },
+        {
+            "name": "Ulmus laevis Pall.",
+            "id": "1396951",
+            "score": 0.00403
+        },
+        {
+            "name": "Hoheria lyallii Hook.f.",
+            "id": "1419427",
+            "score": 0.00333
+        },
+        {
+            "name": "Prunus serotina Ehrh.",
+            "id": "1370859",
+            "score": 0.00285
+        },
+        {
+            "name": "Ulmus × hollandica Mill.",
+            "id": "1694424",
+            "score": 0.00239
+        },
+        {
+            "name": "Carpinus kawakamii Hayata",
+            "id": "1476265",
+            "score": 0.00186
+        },
+        {
+            "name": "Prunus brigantina Vill.",
+            "id": "1394945",
+            "score": 0.00182
+        },
+        {
+            "name": "Betula pendula Roth",
+            "id": "1356609",
+            "score": 0.00168
+        },
+        {
+            "name": "Pinus strobus L.",
+            "id": "1394616",
+            "score": 0.00154
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.00154
+        },
+        {
+            "name": "Betula utilis D.Don",
+            "id": "1400127",
+            "score": 0.00152
+        },
+        {
+            "name": "Maclura tinctoria (L.) D.Don ex G.Don",
+            "id": "1820170",
+            "score": 0.00125
+        },
+        {
+            "name": "Ulmus uyematsui Hayata",
+            "id": "1694436",
+            "score": 0.00125
+        },
+        {
+            "name": "Prunus glandulifolia Rupr.",
+            "id": "1747431",
+            "score": 0.00115
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.00107
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.00105
+        },
+        {
+            "name": "Lonicera periclymenum L.",
+            "id": "1356790",
+            "score": 0.00093
+        },
+        {
+            "name": "Prunus canescens Bois",
+            "id": "1667917",
+            "score": 0.0008
+        },
+        {
+            "name": "Abies balsamea (L.) Mill.",
+            "id": "1398265",
+            "score": 0.00079
+        },
+        {
+            "name": "Betula tianschanica Rupr.",
+            "id": "1476245",
+            "score": 0.0007
+        },
+        {
+            "name": "Corylus avellana L.",
+            "id": "1391368",
+            "score": 0.00061
+        },
+        {
+            "name": "Betula alleghaniensis Britton",
+            "id": "1389062",
+            "score": 0.00057
+        },
+        {
+            "name": "Alnus incana (L.) Moench",
+            "id": "1397308",
+            "score": 0.00057
+        },
+        {
+            "name": "Malus sylvestris (L.) Mill.",
+            "id": "1420379",
+            "score": 0.00055
+        },
+        {
+            "name": "Pseudotsuga menziesii (Mirb.) Franco",
+            "id": "1394967",
+            "score": 0.00051
+        },
+        {
+            "name": "Frangula alnus Mill.",
+            "id": "1360257",
+            "score": 0.00051
+        },
+        {
+            "name": "Betula ermanii Cham.",
+            "id": "1389063",
+            "score": 0.00044
+        },
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.00042
+        },
+        {
+            "name": "Betula lenta L.",
+            "id": "1414284",
+            "score": 0.00041
+        },
+        {
+            "name": "Lonicera alpigena L.",
+            "id": "1393630",
+            "score": 0.00038
+        },
+        {
+            "name": "Populus tremula L.",
+            "id": "1360449",
+            "score": 0.00038
+        },
+        {
+            "name": "Bursera simaruba (L.) Sarg.",
+            "id": "1409422",
+            "score": 0.00037
+        },
+        {
+            "name": "Crataegus germanica (L.) Kuntze",
+            "id": "1391434",
+            "score": 0.00035
+        },
+        {
+            "name": "Betula papyrifera Marshall",
+            "id": "1398459",
+            "score": 0.00034
+        },
+        {
+            "name": "Betula chinensis Maxim.",
+            "id": "1476173",
+            "score": 0.00033
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.0003
+        },
+        {
+            "name": "Rhus typhina L.",
+            "id": "1395193",
+            "score": 0.0003
+        },
+        {
+            "name": "Sorbus aucuparia L.",
+            "id": "1362987",
+            "score": 0.00029
+        }
+    ]
+}

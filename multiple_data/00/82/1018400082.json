@@ -1,0 +1,55 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Quercus coccifera L.",
+            "id": "1358613",
+            "score": 0.60994
+        },
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.11298
+        },
+        {
+            "name": "Quercus faginea Lam.",
+            "id": "1358614",
+            "score": 0.0422
+        },
+        {
+            "name": "Quercus × coutinhoi Samp.",
+            "id": "1548182",
+            "score": 0.02832
+        },
+        {
+            "name": "Ilex aquifolium L.",
+            "id": "1356576",
+            "score": 0.00789
+        },
+        {
+            "name": "Quercus rotundifolia Lam.",
+            "id": "1548459",
+            "score": 0.00411
+        },
+        {
+            "name": "Phillyrea latifolia L.",
+            "id": "1359678",
+            "score": 0.00373
+        },
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.0033
+        },
+        {
+            "name": "Quercus lusitanica Lam.",
+            "id": "1358615",
+            "score": 0.00253
+        },
+        {
+            "name": "Quercus × auzendei Gren. & Godr.",
+            "id": "1743448",
+            "score": 0.00132
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phytolacca americana L.",
+            "id": "1356062",
+            "score": 0.84673
+        },
+        {
+            "name": "Phytolacca bogotensis Kunth",
+            "id": "1436467",
+            "score": 0.08258
+        },
+        {
+            "name": "Phytolacca acinosa Roxb.",
+            "id": "1394558",
+            "score": 0.01934
+        },
+        {
+            "name": "Phytolacca icosandra L.",
+            "id": "1406199",
+            "score": 0.00167
+        },
+        {
+            "name": "Buddleja davidii Franch.",
+            "id": "1365253",
+            "score": 0.00166
+        },
+        {
+            "name": "Amaranthus caudatus L.",
+            "id": "1363248",
+            "score": 0.00141
+        },
+        {
+            "name": "Digera muricata (L.) Mart.",
+            "id": "1356512",
+            "score": 0.00103
+        }
+    ]
+}

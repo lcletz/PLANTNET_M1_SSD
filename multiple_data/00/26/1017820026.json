@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ornithopus perpusillus L.",
+            "id": "1359443",
+            "score": 0.78985
+        },
+        {
+            "name": "Ornithopus compressus L.",
+            "id": "1359442",
+            "score": 0.13375
+        },
+        {
+            "name": "Ornithopus sativus Brot.",
+            "id": "1363658",
+            "score": 0.01937
+        },
+        {
+            "name": "Silene colorata Poir.",
+            "id": "1356975",
+            "score": 0.00213
+        },
+        {
+            "name": "Trifolium stellatum L.",
+            "id": "1359525",
+            "score": 0.00158
+        },
+        {
+            "name": "Ornithopus pinnatus (Mill.) Druce",
+            "id": "1359444",
+            "score": 0.00152
+        },
+        {
+            "name": "Sulla spinosissima (L.) B.H.Choi & H.Ohashi",
+            "id": "1743300",
+            "score": 0.00129
+        },
+        {
+            "name": "Vicia sativa L.",
+            "id": "1359575",
+            "score": 0.00123
+        },
+        {
+            "name": "Silene gallica L.",
+            "id": "1356595",
+            "score": 0.00108
+        },
+        {
+            "name": "Astragalus hamosus L.",
+            "id": "1359124",
+            "score": 0.00102
+        }
+    ]
+}

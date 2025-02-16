@@ -1,0 +1,60 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Euphorbia characias L.",
+            "id": "1358543",
+            "score": 0.45487
+        },
+        {
+            "name": "Euphorbia × martini Rouy",
+            "id": "1545589",
+            "score": 0.2496
+        },
+        {
+            "name": "Euphorbia amygdaloides L.",
+            "id": "1358525",
+            "score": 0.14843
+        },
+        {
+            "name": "Euphorbia segetalis L.",
+            "id": "1358590",
+            "score": 0.01972
+        },
+        {
+            "name": "Euphorbia esula L.",
+            "id": "1392158",
+            "score": 0.01395
+        },
+        {
+            "name": "Euphorbia dulcis L.",
+            "id": "1392156",
+            "score": 0.00685
+        },
+        {
+            "name": "Euphorbia myrsinites L.",
+            "id": "1392176",
+            "score": 0.00237
+        },
+        {
+            "name": "Euphorbia nicaeensis All.",
+            "id": "1358572",
+            "score": 0.00234
+        },
+        {
+            "name": "Euphorbia biumbellata Poir.",
+            "id": "1358532",
+            "score": 0.00234
+        },
+        {
+            "name": "Euphorbia paralias L.",
+            "id": "1355977",
+            "score": 0.00171
+        },
+        {
+            "name": "Euphorbia serrata L.",
+            "id": "1355971",
+            "score": 0.00128
+        }
+    ]
+}

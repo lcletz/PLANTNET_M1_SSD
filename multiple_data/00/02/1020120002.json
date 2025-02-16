@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Glechoma hederacea L.",
+            "id": "1358746",
+            "score": 0.58045
+        },
+        {
+            "name": "Geranium rotundifolium L.",
+            "id": "1356013",
+            "score": 0.00344
+        },
+        {
+            "name": "Sibthorpia europaea L.",
+            "id": "1373165",
+            "score": 0.00189
+        },
+        {
+            "name": "Asarina procumbens Mill.",
+            "id": "1397107",
+            "score": 0.00111
+        },
+        {
+            "name": "Lamium amplexicaule L.",
+            "id": "1356111",
+            "score": 0.00107
+        }
+    ]
+}

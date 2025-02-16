@@ -1,0 +1,60 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Phedimus spurius (M.Bieb.) 't Hart",
+            "id": "1737461",
+            "score": 0.2883
+        },
+        {
+            "name": "Saxifraga cuneifolia L.",
+            "id": "1397547",
+            "score": 0.03829
+        },
+        {
+            "name": "Saxifraga paniculata Mill.",
+            "id": "1397549",
+            "score": 0.0164
+        },
+        {
+            "name": "Chrysosplenium oppositifolium L.",
+            "id": "1391161",
+            "score": 0.0156
+        },
+        {
+            "name": "Saxifraga umbrosa L.",
+            "id": "1396042",
+            "score": 0.00604
+        },
+        {
+            "name": "Umbilicus rupestris (Salisb.) Dandy",
+            "id": "1358147",
+            "score": 0.00397
+        },
+        {
+            "name": "Soleirolia soleirolii (Req.) Dandy",
+            "id": "1360828",
+            "score": 0.00329
+        },
+        {
+            "name": "Saxifraga oppositifolia L.",
+            "id": "1396018",
+            "score": 0.00201
+        },
+        {
+            "name": "Saxifraga rosacea Moench",
+            "id": "1396032",
+            "score": 0.00165
+        },
+        {
+            "name": "Chrysosplenium alternifolium L.",
+            "id": "1391159",
+            "score": 0.00135
+        },
+        {
+            "name": "Sedum acre L.",
+            "id": "1358094",
+            "score": 0.00121
+        }
+    ]
+}

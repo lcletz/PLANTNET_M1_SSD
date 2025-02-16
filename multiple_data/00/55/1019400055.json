@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Salvia jordanii J.B.Walker",
+            "id": "1744243",
+            "score": 0.52275
+        },
+        {
+            "name": "Salvia rosmarinus Spenn.",
+            "id": "1722409",
+            "score": 0.21057
+        },
+        {
+            "name": "Salvia × lavandulacea (de Noé) Roma-Marzio & Galasso",
+            "id": "1744279",
+            "score": 0.00673
+        },
+        {
+            "name": "Erica arborea L.",
+            "id": "1358503",
+            "score": 0.00427
+        },
+        {
+            "name": "Erica vagans L.",
+            "id": "1361800",
+            "score": 0.00284
+        },
+        {
+            "name": "Andromeda polifolia L.",
+            "id": "1394064",
+            "score": 0.00128
+        },
+        {
+            "name": "Rhamnus lycioides L.",
+            "id": "1360267",
+            "score": 0.00101
+        }
+    ]
+}

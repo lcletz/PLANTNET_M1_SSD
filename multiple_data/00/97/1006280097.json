@@ -1,0 +1,350 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Leucanthemum maximum (Ramond) DC.",
+            "id": "1363116",
+            "score": 0.42521
+        },
+        {
+            "name": "Coleostephus myconis (L.) Rchb.f.",
+            "id": "1417798",
+            "score": 0.06716
+        },
+        {
+            "name": "Leucanthemum vulgare Lam.",
+            "id": "1393513",
+            "score": 0.04302
+        },
+        {
+            "name": "Tanacetum balsamita L.",
+            "id": "1396509",
+            "score": 0.03281
+        },
+        {
+            "name": "Solidago canadensis L.",
+            "id": "1396336",
+            "score": 0.02409
+        },
+        {
+            "name": "Eryngium planum L.",
+            "id": "1361890",
+            "score": 0.02226
+        },
+        {
+            "name": "Erigeron canadensis L.",
+            "id": "1392041",
+            "score": 0.01337
+        },
+        {
+            "name": "Arnica montana L.",
+            "id": "1396472",
+            "score": 0.01297
+        },
+        {
+            "name": "Solidago juncea Aiton",
+            "id": "1413848",
+            "score": 0.00955
+        },
+        {
+            "name": "Rhamnus cathartica L.",
+            "id": "1360262",
+            "score": 0.00907
+        },
+        {
+            "name": "Eryngium foetidum L.",
+            "id": "1384694",
+            "score": 0.00753
+        },
+        {
+            "name": "Nipponanthemum nipponicum (Franch. ex Maxim.) Kitam.",
+            "id": "1417861",
+            "score": 0.00744
+        },
+        {
+            "name": "Bellis sylvestris Cirillo",
+            "id": "1357320",
+            "score": 0.00738
+        },
+        {
+            "name": "Solidago flexicaulis L.",
+            "id": "1413846",
+            "score": 0.00724
+        },
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.00624
+        },
+        {
+            "name": "Euphorbia helioscopia L.",
+            "id": "1355964",
+            "score": 0.00594
+        },
+        {
+            "name": "Stevia rebaudiana (Bertoni) Bertoni",
+            "id": "1430604",
+            "score": 0.00578
+        },
+        {
+            "name": "Lepidium latifolium L.",
+            "id": "1358352",
+            "score": 0.0055
+        },
+        {
+            "name": "Veronica spicata L.",
+            "id": "1397522",
+            "score": 0.00541
+        },
+        {
+            "name": "Solidago gigantea Aiton",
+            "id": "1396337",
+            "score": 0.00517
+        },
+        {
+            "name": "Glebionis segetum (L.) Fourr.",
+            "id": "1357603",
+            "score": 0.0051
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.00508
+        },
+        {
+            "name": "Digitalis lutea L.",
+            "id": "1362533",
+            "score": 0.00454
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.00435
+        },
+        {
+            "name": "Coleus amboinicus Lour.",
+            "id": "1749482",
+            "score": 0.0043
+        },
+        {
+            "name": "Impatiens balsamina L.",
+            "id": "1363815",
+            "score": 0.00427
+        },
+        {
+            "name": "Forsythia suspensa (Thunb.) Vahl",
+            "id": "1392356",
+            "score": 0.00392
+        },
+        {
+            "name": "Lepidium virginicum L.",
+            "id": "1363893",
+            "score": 0.00382
+        },
+        {
+            "name": "Kundmannia sicula (L.) DC.",
+            "id": "1360752",
+            "score": 0.00363
+        },
+        {
+            "name": "Veronica officinalis L.",
+            "id": "1364068",
+            "score": 0.0033
+        },
+        {
+            "name": "Salvia farinacea Benth.",
+            "id": "1377389",
+            "score": 0.00324
+        },
+        {
+            "name": "Erigeron sumatrensis Retz.",
+            "id": "1355908",
+            "score": 0.00302
+        },
+        {
+            "name": "Anarrhinum bellidifolium (L.) Willd.",
+            "id": "1393976",
+            "score": 0.0029
+        },
+        {
+            "name": "Erigeron bonariensis L.",
+            "id": "1355905",
+            "score": 0.00279
+        },
+        {
+            "name": "Coleus barbatus (Andrews) Benth. ex G.Don",
+            "id": "1748272",
+            "score": 0.00251
+        },
+        {
+            "name": "Ononis alopecuroides L.",
+            "id": "1359376",
+            "score": 0.00247
+        },
+        {
+            "name": "Solidago virgaurea L.",
+            "id": "1357872",
+            "score": 0.00245
+        },
+        {
+            "name": "Solidago hispida Muhl. ex Willd.",
+            "id": "1413847",
+            "score": 0.0024
+        },
+        {
+            "name": "Sambucus cerulea Raf.",
+            "id": "1447816",
+            "score": 0.00218
+        },
+        {
+            "name": "Veronica beccabunga L.",
+            "id": "1364067",
+            "score": 0.00216
+        },
+        {
+            "name": "Cyphostemma currorii (Hook.f.) Desc.",
+            "id": "1697958",
+            "score": 0.00214
+        },
+        {
+            "name": "Lepidium draba L.",
+            "id": "1358347",
+            "score": 0.00212
+        },
+        {
+            "name": "Helianthus annuus L.",
+            "id": "1364145",
+            "score": 0.00203
+        },
+        {
+            "name": "Solidago missouriensis Nutt.",
+            "id": "1413851",
+            "score": 0.00192
+        },
+        {
+            "name": "Senecio doronicum (L.) L.",
+            "id": "1396191",
+            "score": 0.00188
+        },
+        {
+            "name": "Leucanthemum ircutianum DC.",
+            "id": "1393506",
+            "score": 0.00176
+        },
+        {
+            "name": "Zizia aurea (L.) W.D.J.Koch",
+            "id": "1815702",
+            "score": 0.00173
+        },
+        {
+            "name": "Grindelia hirsutula Hook. & Arn.",
+            "id": "1412201",
+            "score": 0.00167
+        },
+        {
+            "name": "Digitalis purpurea L.",
+            "id": "1364079",
+            "score": 0.00165
+        },
+        {
+            "name": "Capraria biflora L.",
+            "id": "1373178",
+            "score": 0.0016
+        },
+        {
+            "name": "Leucanthemum × superbum (Bergmans ex J.W.Ingram) D.H.Kent",
+            "id": "1513979",
+            "score": 0.00157
+        },
+        {
+            "name": "Tripolium pannonicum (Jacq.) Dobrocz.",
+            "id": "1362648",
+            "score": 0.00153
+        },
+        {
+            "name": "Malus domestica (Suckow) Borkh.",
+            "id": "1729464",
+            "score": 0.00152
+        },
+        {
+            "name": "Calendula officinalis L.",
+            "id": "1357330",
+            "score": 0.00151
+        },
+        {
+            "name": "Bellis perennis L.",
+            "id": "1357317",
+            "score": 0.00146
+        },
+        {
+            "name": "Celtis australis L.",
+            "id": "1361742",
+            "score": 0.00145
+        },
+        {
+            "name": "Senecio ampullaceus Hook.",
+            "id": "1438078",
+            "score": 0.0013
+        },
+        {
+            "name": "Dimorphanthera alpina J.J.Sm.",
+            "id": "1538273",
+            "score": 0.00126
+        },
+        {
+            "name": "Helenium autumnale L.",
+            "id": "1392703",
+            "score": 0.00125
+        },
+        {
+            "name": "Plantago ovata Forssk.",
+            "id": "1356072",
+            "score": 0.0012
+        },
+        {
+            "name": "Solidago arguta Aiton",
+            "id": "1413840",
+            "score": 0.00114
+        },
+        {
+            "name": "Campuloclinium macrocephalum (Less.) DC.",
+            "id": "1502018",
+            "score": 0.00111
+        },
+        {
+            "name": "Plantago lagopus L.",
+            "id": "1359959",
+            "score": 0.0011
+        },
+        {
+            "name": "Digitalis grandiflora Mill.",
+            "id": "1391727",
+            "score": 0.00109
+        },
+        {
+            "name": "Euphorbia nutans Lag.",
+            "id": "1358573",
+            "score": 0.00108
+        },
+        {
+            "name": "Foeniculum vulgare Mill.",
+            "id": "1360739",
+            "score": 0.00105
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.00104
+        },
+        {
+            "name": "Carthamus dianius (Webb) Sch.Bip.",
+            "id": "1502217",
+            "score": 0.00102
+        },
+        {
+            "name": "Neopicrorhiza scrophulariiflora (Pennell) D.Y.Hong",
+            "id": "1646321",
+            "score": 0.00101
+        }
+    ]
+}

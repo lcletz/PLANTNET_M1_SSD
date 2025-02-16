@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vitex agnus-castus L.",
+            "id": "1356208",
+            "score": 0.73255
+        },
+        {
+            "name": "Vitex negundo L.",
+            "id": "1378635",
+            "score": 0.10924
+        },
+        {
+            "name": "Spiraea alba Du Roi",
+            "id": "1396390",
+            "score": 0.00114
+        },
+        {
+            "name": "Aesculus glabra Willd.",
+            "id": "1390602",
+            "score": 0.00106
+        },
+        {
+            "name": "Aesculus californica (Spach) Nutt.",
+            "id": "1440633",
+            "score": 0.00101
+        }
+    ]
+}

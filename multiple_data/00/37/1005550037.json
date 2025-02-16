@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.91436
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.02002
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00627
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00564
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.00251
+        },
+        {
+            "name": "Prunus mume (Siebold) Siebold & Zucc.",
+            "id": "1420419",
+            "score": 0.00172
+        },
+        {
+            "name": "Prunus maritima Marshall",
+            "id": "1420417",
+            "score": 0.00143
+        },
+        {
+            "name": "Prunus rivularis Scheele",
+            "id": "1420424",
+            "score": 0.00137
+        },
+        {
+            "name": "Prunus × subhirtella Miq.",
+            "id": "1721663",
+            "score": 0.00114
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.0011
+        }
+    ]
+}

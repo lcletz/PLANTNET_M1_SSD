@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phyla nodiflora (L.) Greene",
+            "id": "1360859",
+            "score": 0.93441
+        },
+        {
+            "name": "Phyla lanceolata (Michx.) Greene",
+            "id": "1413059",
+            "score": 0.00458
+        },
+        {
+            "name": "Iberis umbellata L.",
+            "id": "1363926",
+            "score": 0.00144
+        },
+        {
+            "name": "Lantana involucrata L.",
+            "id": "1409748",
+            "score": 0.0014
+        },
+        {
+            "name": "Lobularia maritima (L.) Desv.",
+            "id": "1363882",
+            "score": 0.00111
+        },
+        {
+            "name": "Iberis amara L.",
+            "id": "1358322",
+            "score": 0.00103
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stellaria graminea L.",
+            "id": "1396446",
+            "score": 0.95734
+        },
+        {
+            "name": "Stellaria longifolia Muhl. ex Willd.",
+            "id": "1413925",
+            "score": 0.0072
+        },
+        {
+            "name": "Stellaria palustris Ehrh. ex Hoffm.",
+            "id": "1721301",
+            "score": 0.00192
+        },
+        {
+            "name": "Spergula arvensis L.",
+            "id": "1356538",
+            "score": 0.00154
+        },
+        {
+            "name": "Stellaria borealis Bigelow",
+            "id": "1413919",
+            "score": 0.00127
+        },
+        {
+            "name": "Stellaria alsine Grimm",
+            "id": "1357080",
+            "score": 0.00124
+        },
+        {
+            "name": "Stellaria nemorum L.",
+            "id": "1382174",
+            "score": 0.00102
+        }
+    ]
+}

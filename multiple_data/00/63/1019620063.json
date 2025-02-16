@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Sempervivum arachnoideum L.",
+            "id": "1396175",
+            "score": 0.85766
+        },
+        {
+            "name": "Sempervivum montanum L.",
+            "id": "1396180",
+            "score": 0.07647
+        },
+        {
+            "name": "Sempervivum tectorum L.",
+            "id": "1362492",
+            "score": 0.00437
+        },
+        {
+            "name": "Sedum atratum L.",
+            "id": "1397491",
+            "score": 0.00103
+        }
+    ]
+}

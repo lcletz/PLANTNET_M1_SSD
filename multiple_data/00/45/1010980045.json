@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viburnum plicatum Thunb.",
+            "id": "1397609",
+            "score": 0.86996
+        },
+        {
+            "name": "Viburnum lantanoides Michx.",
+            "id": "1414186",
+            "score": 0.02943
+        },
+        {
+            "name": "Viburnum opulus L.",
+            "id": "1361743",
+            "score": 0.02068
+        },
+        {
+            "name": "Viburnum sargentii Koehne",
+            "id": "1447924",
+            "score": 0.00326
+        },
+        {
+            "name": "Viburnum trilobum Marshall",
+            "id": "1397611",
+            "score": 0.00281
+        },
+        {
+            "name": "Hydrangea paniculata Siebold",
+            "id": "1393223",
+            "score": 0.00259
+        },
+        {
+            "name": "Hydrangea quercifolia W.Bartram",
+            "id": "1390614",
+            "score": 0.00174
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tetraclinis articulata (Vahl) Mast.",
+            "id": "1398830",
+            "score": 0.8341
+        },
+        {
+            "name": "Juniperus virginiana L.",
+            "id": "1393370",
+            "score": 0.0342
+        },
+        {
+            "name": "Juniperus phoenicea L.",
+            "id": "1393366",
+            "score": 0.01535
+        },
+        {
+            "name": "Juniperus osteosperma (Torr.) Little",
+            "id": "1388821",
+            "score": 0.00492
+        },
+        {
+            "name": "Juniperus sabina L.",
+            "id": "1393367",
+            "score": 0.00269
+        },
+        {
+            "name": "Hesperocyparis arizonica (Greene) Bartel",
+            "id": "1432840",
+            "score": 0.00267
+        },
+        {
+            "name": "Hesperocyparis lusitanica (Mill.) Bartel",
+            "id": "1738619",
+            "score": 0.0021
+        },
+        {
+            "name": "Juniperus thurifera L.",
+            "id": "1393369",
+            "score": 0.00102
+        }
+    ]
+}

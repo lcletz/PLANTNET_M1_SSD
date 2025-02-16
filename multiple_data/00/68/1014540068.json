@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Allium roseum L.",
+            "id": "1360931",
+            "score": 0.93901
+        },
+        {
+            "name": "Allium angulosum L.",
+            "id": "1392503",
+            "score": 0.00885
+        },
+        {
+            "name": "Allium massaessylum Batt. & Trab.",
+            "id": "1362020",
+            "score": 0.00679
+        },
+        {
+            "name": "Allium lusitanicum Lam.",
+            "id": "1392657",
+            "score": 0.00344
+        },
+        {
+            "name": "Allium narcissiflorum Vill.",
+            "id": "1392696",
+            "score": 0.00153
+        }
+    ]
+}

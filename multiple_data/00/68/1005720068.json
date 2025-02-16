@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hesperocyparis macrocarpa (Hartw.) Bartel",
+            "id": "1432847",
+            "score": 0.56171
+        },
+        {
+            "name": "Juniperus chinensis L.",
+            "id": "1393361",
+            "score": 0.00411
+        },
+        {
+            "name": "Calluna vulgaris (L.) Hull",
+            "id": "1358501",
+            "score": 0.0023
+        },
+        {
+            "name": "Platycladus orientalis (L.) Franco",
+            "id": "1394647",
+            "score": 0.00175
+        },
+        {
+            "name": "Chamaecyparis pisifera (Siebold & Zucc.) Endl.",
+            "id": "1391117",
+            "score": 0.0011
+        },
+        {
+            "name": "Cupressus sempervirens L.",
+            "id": "1391488",
+            "score": 0.00103
+        }
+    ]
+}

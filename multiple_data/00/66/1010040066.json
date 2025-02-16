@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aegilops geniculata Roth",
+            "id": "1361117",
+            "score": 0.74033
+        },
+        {
+            "name": "Aegilops neglecta Req. ex Bertol.",
+            "id": "1361120",
+            "score": 0.13094
+        },
+        {
+            "name": "Aegilops triuncialis L.",
+            "id": "1361124",
+            "score": 0.01804
+        },
+        {
+            "name": "Hordeum murinum L.",
+            "id": "1361307",
+            "score": 0.01137
+        },
+        {
+            "name": "Aegilops biuncialis Vis.",
+            "id": "1361115",
+            "score": 0.00375
+        },
+        {
+            "name": "Hordeum vulgare L.",
+            "id": "1363481",
+            "score": 0.00136
+        }
+    ]
+}

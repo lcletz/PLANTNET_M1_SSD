@@ -1,0 +1,75 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Helleborus viridis L.",
+            "id": "1397399",
+            "score": 0.90483
+        },
+        {
+            "name": "Helleborus foetidus L.",
+            "id": "1360182",
+            "score": 0.02299
+        },
+        {
+            "name": "Trollius europaeus L.",
+            "id": "1397516",
+            "score": 0.01733
+        },
+        {
+            "name": "Astrantia major L.",
+            "id": "1398449",
+            "score": 0.00412
+        },
+        {
+            "name": "Astrantia minor L.",
+            "id": "1398471",
+            "score": 0.00365
+        },
+        {
+            "name": "Ranunculus platanifolius L.",
+            "id": "1395114",
+            "score": 0.00327
+        },
+        {
+            "name": "Helleborus niger L.",
+            "id": "1397560",
+            "score": 0.0032
+        },
+        {
+            "name": "Aconitum variegatum L.",
+            "id": "1396228",
+            "score": 0.00255
+        },
+        {
+            "name": "Ranunculus aconitifolius L.",
+            "id": "1395045",
+            "score": 0.00247
+        },
+        {
+            "name": "Helleborus orientalis Lam.",
+            "id": "1392740",
+            "score": 0.00222
+        },
+        {
+            "name": "Eryngium alpinum L.",
+            "id": "1392102",
+            "score": 0.00196
+        },
+        {
+            "name": "Serratula tinctoria L.",
+            "id": "1357870",
+            "score": 0.00194
+        },
+        {
+            "name": "Helleborus argutifolius Viv.",
+            "id": "1392741",
+            "score": 0.00183
+        },
+        {
+            "name": "Lilium martagon L.",
+            "id": "1393534",
+            "score": 0.00162
+        }
+    ]
+}

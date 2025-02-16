@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sonchus asper (L.) Hill",
+            "id": "1357875",
+            "score": 0.29468
+        },
+        {
+            "name": "Sonchus oleraceus L.",
+            "id": "1364170",
+            "score": 0.1358
+        },
+        {
+            "name": "Sonchus tenerrimus L.",
+            "id": "1364171",
+            "score": 0.09629
+        },
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.07108
+        },
+        {
+            "name": "Crepis foetida L.",
+            "id": "1355870",
+            "score": 0.05782
+        },
+        {
+            "name": "Crepis vesicaria L.",
+            "id": "1357549",
+            "score": 0.03691
+        },
+        {
+            "name": "Crepis setosa Haller f.",
+            "id": "1361760",
+            "score": 0.01778
+        },
+        {
+            "name": "Crepis capillaris (L.) Wallr.",
+            "id": "1355869",
+            "score": 0.01137
+        },
+        {
+            "name": "Urospermum picroides (L.) Scop. ex F.W.Schmidt",
+            "id": "1396956",
+            "score": 0.00875
+        },
+        {
+            "name": "Crepis biennis L.",
+            "id": "1391445",
+            "score": 0.00548
+        },
+        {
+            "name": "Sonchus palustris L.",
+            "id": "1361781",
+            "score": 0.00443
+        },
+        {
+            "name": "Picris hieracioides L.",
+            "id": "1364160",
+            "score": 0.00363
+        },
+        {
+            "name": "Reichardia picroides (L.) Roth",
+            "id": "1357815",
+            "score": 0.00237
+        },
+        {
+            "name": "Andryala integrifolia L.",
+            "id": "1357207",
+            "score": 0.00127
+        },
+        {
+            "name": "Crepis sancta (L.) Bornm.",
+            "id": "1357546",
+            "score": 0.00106
+        }
+    ]
+}

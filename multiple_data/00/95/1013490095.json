@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.94958
+        },
+        {
+            "name": "Poa trivialis L.",
+            "id": "1363459",
+            "score": 0.00423
+        },
+        {
+            "name": "Agrostis capillaris L.",
+            "id": "1361133",
+            "score": 0.00188
+        },
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.00165
+        },
+        {
+            "name": "Poa palustris L.",
+            "id": "1394677",
+            "score": 0.00128
+        },
+        {
+            "name": "Poa bonariensis (Lam.) Kunth",
+            "id": "1654035",
+            "score": 0.00122
+        },
+        {
+            "name": "Poa alpina L.",
+            "id": "1361367",
+            "score": 0.00107
+        }
+    ]
+}

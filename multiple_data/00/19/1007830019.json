@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Centaurea scabiosa L.",
+            "id": "1391037",
+            "score": 0.95338
+        },
+        {
+            "name": "Centaurea nigra L.",
+            "id": "1357438",
+            "score": 0.00311
+        },
+        {
+            "name": "Centaurea kotschyana Heuff.",
+            "id": "1502657",
+            "score": 0.00199
+        },
+        {
+            "name": "Centaurea jacea L.",
+            "id": "1362427",
+            "score": 0.0013
+        },
+        {
+            "name": "Centaurea uniflora Turra",
+            "id": "1362433",
+            "score": 0.00113
+        }
+    ]
+}

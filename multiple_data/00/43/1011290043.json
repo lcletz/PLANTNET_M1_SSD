@@ -1,0 +1,350 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Linaria repens (L.) Mill.",
+            "id": "1393595",
+            "score": 0.93103
+        },
+        {
+            "name": "Linaria purpurea (L.) Mill.",
+            "id": "1362464",
+            "score": 0.03384
+        },
+        {
+            "name": "Galium sylvaticum L.",
+            "id": "1392491",
+            "score": 0.02966
+        },
+        {
+            "name": "Linaria arvensis (L.) Desf.",
+            "id": "1359897",
+            "score": 0.01729
+        },
+        {
+            "name": "Galium glaucum L.",
+            "id": "1392461",
+            "score": 0.01524
+        },
+        {
+            "name": "Falcaria vulgaris Bernh.",
+            "id": "1361891",
+            "score": 0.01458
+        },
+        {
+            "name": "Linum tenuifolium L.",
+            "id": "1393610",
+            "score": 0.01303
+        },
+        {
+            "name": "Centaurium erythraea Rafn",
+            "id": "1358624",
+            "score": 0.01023
+        },
+        {
+            "name": "Galium boreale L.",
+            "id": "1392445",
+            "score": 0.00797
+        },
+        {
+            "name": "Galium aparine L.",
+            "id": "1360385",
+            "score": 0.00723
+        },
+        {
+            "name": "Stellaria graminea L.",
+            "id": "1396446",
+            "score": 0.0071
+        },
+        {
+            "name": "Gypsophila paniculata L.",
+            "id": "1392678",
+            "score": 0.00649
+        },
+        {
+            "name": "Silene vulgaris (Moench) Garcke",
+            "id": "1357059",
+            "score": 0.00486
+        },
+        {
+            "name": "Cardamine pratensis L.",
+            "id": "1358213",
+            "score": 0.0047
+        },
+        {
+            "name": "Dianthus armeria L.",
+            "id": "1397366",
+            "score": 0.00443
+        },
+        {
+            "name": "Galium mollugo L.",
+            "id": "1360399",
+            "score": 0.00437
+        },
+        {
+            "name": "Silene nutans L.",
+            "id": "1357026",
+            "score": 0.00433
+        },
+        {
+            "name": "Gypsophila elegans M.Bieb.",
+            "id": "1392676",
+            "score": 0.0041
+        },
+        {
+            "name": "Arabidopsis thaliana (L.) Heynh.",
+            "id": "1363915",
+            "score": 0.00367
+        },
+        {
+            "name": "Lathyrus pannonicus (Jacq.) Garcke",
+            "id": "1393457",
+            "score": 0.00366
+        },
+        {
+            "name": "Penstemon laxiflorus Pennell",
+            "id": "1435863",
+            "score": 0.00363
+        },
+        {
+            "name": "Galium album Mill.",
+            "id": "1392438",
+            "score": 0.0036
+        },
+        {
+            "name": "Osyris alba L.",
+            "id": "1364049",
+            "score": 0.0034
+        },
+        {
+            "name": "Verbena officinalis L.",
+            "id": "1360860",
+            "score": 0.00324
+        },
+        {
+            "name": "Linaria vulgaris Mill.",
+            "id": "1393600",
+            "score": 0.00308
+        },
+        {
+            "name": "Oenanthe pimpinelloides L.",
+            "id": "1360767",
+            "score": 0.0028
+        },
+        {
+            "name": "Asparagus officinalis L.",
+            "id": "1363268",
+            "score": 0.00277
+        },
+        {
+            "name": "Galium palustre L.",
+            "id": "1360406",
+            "score": 0.00275
+        },
+        {
+            "name": "Ranunculus platanifolius L.",
+            "id": "1395114",
+            "score": 0.00263
+        },
+        {
+            "name": "Valeriana officinalis L.",
+            "id": "1396978",
+            "score": 0.00262
+        },
+        {
+            "name": "Galium pumilum Murray",
+            "id": "1362307",
+            "score": 0.00257
+        },
+        {
+            "name": "Linum catharticum L.",
+            "id": "1359592",
+            "score": 0.00254
+        },
+        {
+            "name": "Conopodium majus (Gouan) Loret",
+            "id": "1360674",
+            "score": 0.00251
+        },
+        {
+            "name": "Vicia hirsuta (L.) Gray",
+            "id": "1363671",
+            "score": 0.00244
+        },
+        {
+            "name": "Thalictrum flavum L.",
+            "id": "1360229",
+            "score": 0.0023
+        },
+        {
+            "name": "Verbena halei Small",
+            "id": "1439504",
+            "score": 0.00213
+        },
+        {
+            "name": "Valeriana tripteris L.",
+            "id": "1396984",
+            "score": 0.00208
+        },
+        {
+            "name": "Silene italica (L.) Pers.",
+            "id": "1357004",
+            "score": 0.00204
+        },
+        {
+            "name": "Asperula tinctoria L.",
+            "id": "1397248",
+            "score": 0.00203
+        },
+        {
+            "name": "Campanula rotundifolia L.",
+            "id": "1362422",
+            "score": 0.00201
+        },
+        {
+            "name": "Ranunculus acris L.",
+            "id": "1360187",
+            "score": 0.002
+        },
+        {
+            "name": "Veronica scutellata L.",
+            "id": "1361878",
+            "score": 0.00196
+        },
+        {
+            "name": "Galium aristatum L.",
+            "id": "1392441",
+            "score": 0.00195
+        },
+        {
+            "name": "Campanula rapunculus L.",
+            "id": "1356752",
+            "score": 0.00172
+        },
+        {
+            "name": "Misopates orontium (L.) Raf.",
+            "id": "1359943",
+            "score": 0.00172
+        },
+        {
+            "name": "Rabelera holostea (L.) M.T.Sharples & E.A.Tripp",
+            "id": "1737674",
+            "score": 0.00169
+        },
+        {
+            "name": "Galium lucidum All.",
+            "id": "1360398",
+            "score": 0.00167
+        },
+        {
+            "name": "Kohautia tenuis (Bowdich) Mabb.",
+            "id": "1379980",
+            "score": 0.0015
+        },
+        {
+            "name": "Dichoropetalum schottii (Besser ex DC.) Pimenov & Kljuykov",
+            "id": "1390270",
+            "score": 0.00149
+        },
+        {
+            "name": "Linum narbonense L.",
+            "id": "1359596",
+            "score": 0.00135
+        },
+        {
+            "name": "Knautia arvensis (L.) Coult.",
+            "id": "1362327",
+            "score": 0.00134
+        },
+        {
+            "name": "Jasione montana L.",
+            "id": "1356766",
+            "score": 0.00134
+        },
+        {
+            "name": "Pimpinella saxifraga L.",
+            "id": "1394593",
+            "score": 0.00132
+        },
+        {
+            "name": "Polygonatum verticillatum (L.) All.",
+            "id": "1394745",
+            "score": 0.0013
+        },
+        {
+            "name": "Agrostis capillaris L.",
+            "id": "1361133",
+            "score": 0.00129
+        },
+        {
+            "name": "Briza minor L.",
+            "id": "1363441",
+            "score": 0.00129
+        },
+        {
+            "name": "Linaria nivea Boiss. & Reut.",
+            "id": "1646254",
+            "score": 0.00128
+        },
+        {
+            "name": "Valeriana angustifolia Mill.",
+            "id": "1743107",
+            "score": 0.00126
+        },
+        {
+            "name": "Thesium linophyllon L.",
+            "id": "1396758",
+            "score": 0.00122
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.00121
+        },
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.0012
+        },
+        {
+            "name": "Equisetum palustre L.",
+            "id": "1391989",
+            "score": 0.00118
+        },
+        {
+            "name": "Thalictrum minus L.",
+            "id": "1356304",
+            "score": 0.00113
+        },
+        {
+            "name": "Linum suffruticosum L.",
+            "id": "1359601",
+            "score": 0.00113
+        },
+        {
+            "name": "Epilobium ciliatum Raf.",
+            "id": "1391890",
+            "score": 0.00108
+        },
+        {
+            "name": "Petrorhagia saxifraga (L.) Link",
+            "id": "1394479",
+            "score": 0.00102
+        },
+        {
+            "name": "Lathyrus cicera L.",
+            "id": "1359268",
+            "score": 0.00097
+        },
+        {
+            "name": "Euphorbia corollata L.",
+            "id": "1412028",
+            "score": 0.00096
+        },
+        {
+            "name": "Anthoxanthum odoratum L.",
+            "id": "1363461",
+            "score": 0.00095
+        }
+    ]
+}

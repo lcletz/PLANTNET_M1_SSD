@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rosa rugosa Thunb.",
+            "id": "1395343",
+            "score": 0.94034
+        },
+        {
+            "name": "Rosa corymbifera Borkh.",
+            "id": "1360335",
+            "score": 0.00936
+        },
+        {
+            "name": "Rosa arvensis Huds.",
+            "id": "1395253",
+            "score": 0.00635
+        },
+        {
+            "name": "Rosa canina L.",
+            "id": "1360334",
+            "score": 0.00278
+        },
+        {
+            "name": "Rosa sempervirens L.",
+            "id": "1360348",
+            "score": 0.00183
+        },
+        {
+            "name": "Rosa agrestis Savi",
+            "id": "1360330",
+            "score": 0.00126
+        }
+    ]
+}

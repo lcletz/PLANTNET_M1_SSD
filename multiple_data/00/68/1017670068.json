@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tanacetum parthenium (L.) Sch.Bip.",
+            "id": "1396511",
+            "score": 0.91749
+        },
+        {
+            "name": "Artemisia annua L.",
+            "id": "1382106",
+            "score": 0.01408
+        },
+        {
+            "name": "Anthriscus caucalis M.Bieb.",
+            "id": "1394851",
+            "score": 0.0076
+        },
+        {
+            "name": "Anthriscus cerefolium (L.) Hoffm.",
+            "id": "1360613",
+            "score": 0.00478
+        },
+        {
+            "name": "Myrrhis odorata (L.) Scop.",
+            "id": "1393910",
+            "score": 0.00213
+        },
+        {
+            "name": "Artemisia verlotiorum Lamotte",
+            "id": "1357291",
+            "score": 0.00151
+        }
+    ]
+}

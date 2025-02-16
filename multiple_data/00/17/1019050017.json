@@ -1,0 +1,55 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Pinus pinaster Aiton",
+            "id": "1394611",
+            "score": 0.23354
+        },
+        {
+            "name": "Pinus halepensis Mill.",
+            "id": "1397460",
+            "score": 0.13317
+        },
+        {
+            "name": "Pinus nigra J.F.Arnold",
+            "id": "1419915",
+            "score": 0.07658
+        },
+        {
+            "name": "Pinus pinea L.",
+            "id": "1394612",
+            "score": 0.04756
+        },
+        {
+            "name": "Pinus ponderosa Douglas ex C.Lawson",
+            "id": "1419917",
+            "score": 0.02213
+        },
+        {
+            "name": "Pinus radiata D.Don",
+            "id": "1394613",
+            "score": 0.01133
+        },
+        {
+            "name": "Pinus mugo Turra",
+            "id": "1394608",
+            "score": 0.00999
+        },
+        {
+            "name": "Pinus cembra L.",
+            "id": "1394605",
+            "score": 0.00246
+        },
+        {
+            "name": "Pinus sylvestris L.",
+            "id": "1394617",
+            "score": 0.00206
+        },
+        {
+            "name": "Pinus muricata D.Don",
+            "id": "1390038",
+            "score": 0.00201
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Physalis peruviana L.",
+            "id": "1356153",
+            "score": 0.86186
+        },
+        {
+            "name": "Solanum chenopodioides Lam.",
+            "id": "1356162",
+            "score": 0.00406
+        },
+        {
+            "name": "Alkekengi officinarum Moench",
+            "id": "1738735",
+            "score": 0.00238
+        },
+        {
+            "name": "Physalis philadelphica Lam.",
+            "id": "1356154",
+            "score": 0.00153
+        },
+        {
+            "name": "Solanum villosum Mill.",
+            "id": "1361993",
+            "score": 0.00147
+        },
+        {
+            "name": "Datura innoxia Mill.",
+            "id": "1391658",
+            "score": 0.00102
+        }
+    ]
+}

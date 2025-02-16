@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus persica (L.) Batsch",
+            "id": "1363997",
+            "score": 0.82506
+        },
+        {
+            "name": "Prunus tenella Batsch",
+            "id": "1394954",
+            "score": 0.03067
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.00833
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.0065
+        },
+        {
+            "name": "Chaenomeles japonica (Thunb.) Lindl. ex Spach",
+            "id": "1391103",
+            "score": 0.00238
+        },
+        {
+            "name": "Impatiens balsamina L.",
+            "id": "1363815",
+            "score": 0.00207
+        },
+        {
+            "name": "Prunus triloba Lindl.",
+            "id": "1398678",
+            "score": 0.00144
+        },
+        {
+            "name": "Comarum palustre L.",
+            "id": "1391330",
+            "score": 0.00114
+        }
+    ]
+}

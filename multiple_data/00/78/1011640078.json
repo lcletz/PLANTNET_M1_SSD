@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vaccinium myrtillus L.",
+            "id": "1361801",
+            "score": 0.95579
+        },
+        {
+            "name": "Vaccinium pallidum Aiton",
+            "id": "1414150",
+            "score": 0.00191
+        },
+        {
+            "name": "Vaccinium vitis-idaea L.",
+            "id": "1396971",
+            "score": 0.00166
+        },
+        {
+            "name": "Vaccinium angustifolium Aiton",
+            "id": "1414140",
+            "score": 0.00153
+        },
+        {
+            "name": "Vaccinium scoparium Leiberg ex Coville",
+            "id": "1414152",
+            "score": 0.00119
+        }
+    ]
+}

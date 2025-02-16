@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Passiflora edulis Sims",
+            "id": "1356048",
+            "score": 0.93857
+        },
+        {
+            "name": "Passiflora incarnata L.",
+            "id": "1429824",
+            "score": 0.01937
+        },
+        {
+            "name": "Passiflora cincinnata Mast.",
+            "id": "1640003",
+            "score": 0.0046
+        },
+        {
+            "name": "Passiflora foetida L.",
+            "id": "1376583",
+            "score": 0.0025
+        },
+        {
+            "name": "Passiflora quadrangularis L.",
+            "id": "1376593",
+            "score": 0.00162
+        }
+    ]
+}

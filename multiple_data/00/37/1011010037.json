@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Carex remota L.",
+            "id": "1361080",
+            "score": 0.95838
+        },
+        {
+            "name": "Carex sylvatica Huds.",
+            "id": "1363283",
+            "score": 0.00323
+        },
+        {
+            "name": "Carex echinata Murray",
+            "id": "1361051",
+            "score": 0.00288
+        },
+        {
+            "name": "Carex divulsa Stokes",
+            "id": "1361050",
+            "score": 0.00176
+        },
+        {
+            "name": "Carex brizoides L.",
+            "id": "1390778",
+            "score": 0.00169
+        },
+        {
+            "name": "Carex hirta L.",
+            "id": "1361058",
+            "score": 0.00125
+        },
+        {
+            "name": "Carex brunnea Thunb.",
+            "id": "1407781",
+            "score": 0.00109
+        }
+    ]
+}

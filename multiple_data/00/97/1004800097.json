@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Gomphrena globosa L.",
+            "id": "1385060",
+            "score": 0.92832
+        },
+        {
+            "name": "Gomphrena haageana Klotzsch",
+            "id": "1444070",
+            "score": 0.0053
+        },
+        {
+            "name": "Gomphrena serrata L.",
+            "id": "1421299",
+            "score": 0.00494
+        },
+        {
+            "name": "Trifolium alpestre L.",
+            "id": "1396842",
+            "score": 0.00214
+        },
+        {
+            "name": "Celosia argentea L.",
+            "id": "1363271",
+            "score": 0.00135
+        }
+    ]
+}

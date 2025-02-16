@@ -1,0 +1,470 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus brigantina Vill.",
+            "id": "1394945",
+            "score": 0.43635
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.15977
+        },
+        {
+            "name": "Prunus japonica Thunb.",
+            "id": "1394940",
+            "score": 0.10986
+        },
+        {
+            "name": "Monarda didyma L.",
+            "id": "1397732",
+            "score": 0.06794
+        },
+        {
+            "name": "Spiraea alba Du Roi",
+            "id": "1396390",
+            "score": 0.05883
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.03489
+        },
+        {
+            "name": "Crataegus germanica (L.) Kuntze",
+            "id": "1391434",
+            "score": 0.02666
+        },
+        {
+            "name": "Chelone lyonii Pursh",
+            "id": "1441233",
+            "score": 0.01851
+        },
+        {
+            "name": "Chaenomeles speciosa (Sweet) Nakai",
+            "id": "1391104",
+            "score": 0.01718
+        },
+        {
+            "name": "Bidens pilosa L.",
+            "id": "1364143",
+            "score": 0.01484
+        },
+        {
+            "name": "Prunus pensylvanica L.f.",
+            "id": "1420421",
+            "score": 0.01482
+        },
+        {
+            "name": "Pappea capensis Eckl. & Zeyh.",
+            "id": "1372706",
+            "score": 0.01286
+        },
+        {
+            "name": "Salix aurita L.",
+            "id": "1395745",
+            "score": 0.0125
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.01249
+        },
+        {
+            "name": "Chaenomeles japonica (Thunb.) Lindl. ex Spach",
+            "id": "1391103",
+            "score": 0.01188
+        },
+        {
+            "name": "Celastrus orbiculatus Thunb.",
+            "id": "1390975",
+            "score": 0.00856
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.00767
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00762
+        },
+        {
+            "name": "Fraxinus ornus L.",
+            "id": "1362963",
+            "score": 0.00741
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.00678
+        },
+        {
+            "name": "Malus domestica (Suckow) Borkh.",
+            "id": "1729464",
+            "score": 0.00652
+        },
+        {
+            "name": "Physocarpus opulifolius (L.) Maxim.",
+            "id": "1413073",
+            "score": 0.00647
+        },
+        {
+            "name": "Lysimachia vulgaris L.",
+            "id": "1361863",
+            "score": 0.00643
+        },
+        {
+            "name": "Justicia brandegeeana Wassh. & L.B.Sm.",
+            "id": "1410254",
+            "score": 0.00589
+        },
+        {
+            "name": "Spiraea douglasii Hook.",
+            "id": "1396399",
+            "score": 0.00552
+        },
+        {
+            "name": "Mercurialis perennis L.",
+            "id": "1358605",
+            "score": 0.00466
+        },
+        {
+            "name": "Crossandra infundibuliformis (L.) Nees",
+            "id": "1409186",
+            "score": 0.00433
+        },
+        {
+            "name": "Buddleja globosa Hope",
+            "id": "1365271",
+            "score": 0.00426
+        },
+        {
+            "name": "Malus sylvestris (L.) Mill.",
+            "id": "1420379",
+            "score": 0.00417
+        },
+        {
+            "name": "Ceratostigma plumbaginoides Bunge",
+            "id": "1391099",
+            "score": 0.00416
+        },
+        {
+            "name": "Aronia melanocarpa (Michx.) Elliott",
+            "id": "1398450",
+            "score": 0.00408
+        },
+        {
+            "name": "Salix myrsinifolia Salisb.",
+            "id": "1395843",
+            "score": 0.00393
+        },
+        {
+            "name": "Lysimachia punctata L.",
+            "id": "1397433",
+            "score": 0.00357
+        },
+        {
+            "name": "Prunus triloba Lindl.",
+            "id": "1398678",
+            "score": 0.00356
+        },
+        {
+            "name": "Spiraea tomentosa L.",
+            "id": "1396389",
+            "score": 0.00355
+        },
+        {
+            "name": "Lonicera alpigena L.",
+            "id": "1393630",
+            "score": 0.00337
+        },
+        {
+            "name": "Elephantopus carolinianus Raeusch.",
+            "id": "1442864",
+            "score": 0.00335
+        },
+        {
+            "name": "Inula helenium L.",
+            "id": "1397412",
+            "score": 0.00328
+        },
+        {
+            "name": "Salix hastata L.",
+            "id": "1397478",
+            "score": 0.00318
+        },
+        {
+            "name": "Trixis inula Crantz",
+            "id": "1439388",
+            "score": 0.00297
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.00279
+        },
+        {
+            "name": "Bidens alba (L.) DC.",
+            "id": "1400133",
+            "score": 0.0026
+        },
+        {
+            "name": "Elephantopus elatus Bertol.",
+            "id": "1442865",
+            "score": 0.00252
+        },
+        {
+            "name": "Prunus persica (L.) Batsch",
+            "id": "1363997",
+            "score": 0.00249
+        },
+        {
+            "name": "Celastrus scandens L.",
+            "id": "1390974",
+            "score": 0.00247
+        },
+        {
+            "name": "Clethra alnifolia L.",
+            "id": "1398480",
+            "score": 0.00241
+        },
+        {
+            "name": "Tanacetum balsamita L.",
+            "id": "1396509",
+            "score": 0.00235
+        },
+        {
+            "name": "Hydrangea petiolaris Siebold & Zucc.",
+            "id": "1398621",
+            "score": 0.00229
+        },
+        {
+            "name": "Pyracantha coccinea M.Roem.",
+            "id": "1394994",
+            "score": 0.00222
+        },
+        {
+            "name": "Rumex conglomeratus Murray",
+            "id": "1356078",
+            "score": 0.00219
+        },
+        {
+            "name": "Prunus umbellata Elliott",
+            "id": "1436948",
+            "score": 0.00217
+        },
+        {
+            "name": "Eucryphia cordifolia Cav.",
+            "id": "1418576",
+            "score": 0.00204
+        },
+        {
+            "name": "Spiraea salicifolia L.",
+            "id": "1396405",
+            "score": 0.00198
+        },
+        {
+            "name": "Fagopyrum esculentum Moench",
+            "id": "1356095",
+            "score": 0.00195
+        },
+        {
+            "name": "Pyrus cordata Desv.",
+            "id": "1360328",
+            "score": 0.0019
+        },
+        {
+            "name": "Eurybia divaricata (L.) G.L.Nesom",
+            "id": "1389267",
+            "score": 0.0019
+        },
+        {
+            "name": "Verbesina virginica L.",
+            "id": "1439531",
+            "score": 0.00187
+        },
+        {
+            "name": "Elephantopus mollis Kunth",
+            "id": "1374997",
+            "score": 0.00177
+        },
+        {
+            "name": "Alkekengi officinarum Moench",
+            "id": "1738735",
+            "score": 0.00176
+        },
+        {
+            "name": "Citrus × limon (L.) Osbeck",
+            "id": "1403436",
+            "score": 0.00172
+        },
+        {
+            "name": "Ulmus × hollandica Mill.",
+            "id": "1694424",
+            "score": 0.00171
+        },
+        {
+            "name": "Crataegus × lavallei Herincq ex Lavallée",
+            "id": "1843990",
+            "score": 0.00168
+        },
+        {
+            "name": "Verbesina alternifolia (L.) Britton ex Kearney",
+            "id": "1397038",
+            "score": 0.00165
+        },
+        {
+            "name": "Malus hupehensis (Pamp.) Rehder",
+            "id": "1393732",
+            "score": 0.00165
+        },
+        {
+            "name": "Dahlia pinnata Cav.",
+            "id": "1391643",
+            "score": 0.00164
+        },
+        {
+            "name": "Salix caprea L.",
+            "id": "1395765",
+            "score": 0.00162
+        },
+        {
+            "name": "Erechtites hieraciifolius (L.) Raf. ex DC.",
+            "id": "1389921",
+            "score": 0.00162
+        },
+        {
+            "name": "Salix cinerea L.",
+            "id": "1362486",
+            "score": 0.00156
+        },
+        {
+            "name": "Heliopsis helianthoides (L.) Sweet",
+            "id": "1412238",
+            "score": 0.00155
+        },
+        {
+            "name": "Torminalis glaberrima (Gand.) Sennikov & Kurtto",
+            "id": "1737588",
+            "score": 0.00154
+        },
+        {
+            "name": "Prunus salicina Lindl.",
+            "id": "1420425",
+            "score": 0.00145
+        },
+        {
+            "name": "Crataegus laevigata (Poir.) DC.",
+            "id": "1360293",
+            "score": 0.00138
+        },
+        {
+            "name": "Sphagneticola trilobata (L.) Pruski",
+            "id": "1405547",
+            "score": 0.00137
+        },
+        {
+            "name": "Dipsacus pilosus L.",
+            "id": "1391748",
+            "score": 0.00136
+        },
+        {
+            "name": "Prunus × fruticans Weihe",
+            "id": "1667948",
+            "score": 0.00134
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.00132
+        },
+        {
+            "name": "Campanula rapunculoides L.",
+            "id": "1383635",
+            "score": 0.00132
+        },
+        {
+            "name": "Angelica archangelica L.",
+            "id": "1397313",
+            "score": 0.00131
+        },
+        {
+            "name": "Euonymus europaeus L.",
+            "id": "1392236",
+            "score": 0.00131
+        },
+        {
+            "name": "Citrus medica L.",
+            "id": "1364043",
+            "score": 0.00125
+        },
+        {
+            "name": "Persicaria lapathifolia (L.) Delarbre",
+            "id": "1356091",
+            "score": 0.00125
+        },
+        {
+            "name": "Rhododendron calendulaceum (Michx.) Torr.",
+            "id": "1395179",
+            "score": 0.00125
+        },
+        {
+            "name": "Diervilla lonicera Mill.",
+            "id": "1411760",
+            "score": 0.00123
+        },
+        {
+            "name": "Lysimachia ciliata L.",
+            "id": "1393707",
+            "score": 0.00122
+        },
+        {
+            "name": "Tithonia rotundifolia (Mill.) S.F.Blake",
+            "id": "1417905",
+            "score": 0.00116
+        },
+        {
+            "name": "Dahlia × cultorum Thorsrud & Reisaeter",
+            "id": "1844132",
+            "score": 0.00112
+        },
+        {
+            "name": "Acmella oleracea (L.) R.K.Jansen",
+            "id": "1407743",
+            "score": 0.0011
+        },
+        {
+            "name": "Monarda fistulosa L.",
+            "id": "1397733",
+            "score": 0.0011
+        },
+        {
+            "name": "Helianthus tuberosus L.",
+            "id": "1357617",
+            "score": 0.00104
+        },
+        {
+            "name": "Acacia concurrens Pedley",
+            "id": "1568142",
+            "score": 0.00103
+        },
+        {
+            "name": "Ceratostigma willmottianum Stapf",
+            "id": "1391098",
+            "score": 0.00103
+        },
+        {
+            "name": "Tellima grandiflora (Pursh) Douglas ex Lindl.",
+            "id": "1396714",
+            "score": 0.00102
+        },
+        {
+            "name": "Ficus thonningii Blume",
+            "id": "1384066",
+            "score": 0.00102
+        }
+    ]
+}

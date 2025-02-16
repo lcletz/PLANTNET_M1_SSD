@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Eranthis hyemalis (L.) Salisb.",
+            "id": "1392020",
+            "score": 0.80883
+        },
+        {
+            "name": "Eranthis longistipitata Regel",
+            "id": "1664321",
+            "score": 0.00361
+        },
+        {
+            "name": "Anemonoides ranunculoides (L.) Holub",
+            "id": "1737522",
+            "score": 0.00239
+        },
+        {
+            "name": "Aconitum plicatum Köhler ex Rchb.",
+            "id": "1663106",
+            "score": 0.0017
+        },
+        {
+            "name": "Trillium sessile L.",
+            "id": "1439333",
+            "score": 0.00126
+        },
+        {
+            "name": "Trollius europaeus L.",
+            "id": "1397516",
+            "score": 0.00126
+        },
+        {
+            "name": "Trollius laxus Salisb.",
+            "id": "1414121",
+            "score": 0.00116
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Adiantum raddianum C. Presl",
+            "id": "1361724",
+            "score": 0.49581
+        },
+        {
+            "name": "Adiantum capillus-veneris L.",
+            "id": "1356337",
+            "score": 0.26386
+        },
+        {
+            "name": "Adiantum spp.",
+            "id": "1420964",
+            "score": 0.00939
+        },
+        {
+            "name": "Adiantum pedatum L.",
+            "id": "1414355",
+            "score": 0.00726
+        },
+        {
+            "name": "Adiantum tenerum Sw.",
+            "id": "1401372",
+            "score": 0.00653
+        },
+        {
+            "name": "Adiantum trapeziforme L.",
+            "id": "1401374",
+            "score": 0.0022
+        },
+        {
+            "name": "Adiantum peruvianum Klotzsch",
+            "id": "1420264",
+            "score": 0.00161
+        },
+        {
+            "name": "Adiantum poiretii Wikstr.",
+            "id": "1401370",
+            "score": 0.00105
+        }
+    ]
+}

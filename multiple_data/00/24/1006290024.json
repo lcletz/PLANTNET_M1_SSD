@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.71862
+        },
+        {
+            "name": "Aesculus × carnea Zeyh.",
+            "id": "1420608",
+            "score": 0.08872
+        },
+        {
+            "name": "Aesculus pavia L.",
+            "id": "1389544",
+            "score": 0.00497
+        },
+        {
+            "name": "Aesculus turbinata Blume",
+            "id": "1420609",
+            "score": 0.00206
+        },
+        {
+            "name": "Filipendula rubra (Hill) B.L.Rob.",
+            "id": "1667442",
+            "score": 0.00139
+        },
+        {
+            "name": "Rodgersia aesculifolia Batalin",
+            "id": "1687857",
+            "score": 0.00125
+        },
+        {
+            "name": "Prunus serrulata Lindl.",
+            "id": "1394953",
+            "score": 0.001
+        }
+    ]
+}

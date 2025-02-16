@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Chaerophyllum aureum L.",
+            "id": "1391110",
+            "score": 0.78538
+        },
+        {
+            "name": "Anthriscus sylvestris (L.) Hoffm.",
+            "id": "1360614",
+            "score": 0.08865
+        },
+        {
+            "name": "Myrrhis odorata (L.) Scop.",
+            "id": "1393910",
+            "score": 0.03063
+        },
+        {
+            "name": "Anthriscus cerefolium (L.) Hoffm.",
+            "id": "1360613",
+            "score": 0.01428
+        },
+        {
+            "name": "Chaerophyllum hirsutum L.",
+            "id": "1391112",
+            "score": 0.01417
+        },
+        {
+            "name": "Torilis japonica (Houtt.) DC.",
+            "id": "1360816",
+            "score": 0.00802
+        },
+        {
+            "name": "Chaerophyllum temulum L.",
+            "id": "1360671",
+            "score": 0.00793
+        },
+        {
+            "name": "Anthriscus nitida (Wahlenb.) Hazsl.",
+            "id": "1394872",
+            "score": 0.00474
+        },
+        {
+            "name": "Anthriscus caucalis M.Bieb.",
+            "id": "1394851",
+            "score": 0.00374
+        },
+        {
+            "name": "Conium maculatum L.",
+            "id": "1363216",
+            "score": 0.00316
+        },
+        {
+            "name": "Chaerophyllum bulbosum L.",
+            "id": "1397349",
+            "score": 0.00298
+        },
+        {
+            "name": "Cicuta maculata L.",
+            "id": "1411457",
+            "score": 0.0011
+        }
+    ]
+}

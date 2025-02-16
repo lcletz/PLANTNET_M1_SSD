@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.474
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.377
+        },
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.01701
+        },
+        {
+            "name": "Hibiscus rosa-sinensis L.",
+            "id": "1370542",
+            "score": 0.00715
+        },
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.00437
+        },
+        {
+            "name": "Morus macroura Miq.",
+            "id": "1429529",
+            "score": 0.00268
+        },
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.00167
+        },
+        {
+            "name": "Acer tataricum L.",
+            "id": "1398270",
+            "score": 0.0012
+        },
+        {
+            "name": "Vitis vulpina L.",
+            "id": "1397214",
+            "score": 0.00106
+        }
+    ]
+}

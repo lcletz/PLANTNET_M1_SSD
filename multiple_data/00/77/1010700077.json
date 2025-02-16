@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Symphytum officinale L.",
+            "id": "1370072",
+            "score": 0.8025
+        },
+        {
+            "name": "Symphytum × uplandicum Nyman",
+            "id": "1478916",
+            "score": 0.09294
+        },
+        {
+            "name": "Symphytum asperum Lepech.",
+            "id": "1396491",
+            "score": 0.06455
+        },
+        {
+            "name": "Symphytum tuberosum L.",
+            "id": "1397507",
+            "score": 0.00351
+        },
+        {
+            "name": "Solanum dulcamara L.",
+            "id": "1360566",
+            "score": 0.0029
+        },
+        {
+            "name": "Cynoglossum officinale L.",
+            "id": "1391501",
+            "score": 0.00256
+        },
+        {
+            "name": "Symphytum bulbosum K.F.Schimp.",
+            "id": "1396492",
+            "score": 0.00102
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rosa centifolia L.",
+            "id": "1413506",
+            "score": 0.46371
+        },
+        {
+            "name": "Rosa gallica L.",
+            "id": "1360338",
+            "score": 0.17648
+        },
+        {
+            "name": "Rosa villosa L.",
+            "id": "1395371",
+            "score": 0.04215
+        },
+        {
+            "name": "Rosa pendulina L.",
+            "id": "1395329",
+            "score": 0.01886
+        },
+        {
+            "name": "Rosa chinensis Jacq.",
+            "id": "1395231",
+            "score": 0.01629
+        },
+        {
+            "name": "Rosa roxburghii Tratt.",
+            "id": "1420449",
+            "score": 0.00657
+        },
+        {
+            "name": "Rubus odoratus L.",
+            "id": "1398378",
+            "score": 0.00595
+        },
+        {
+            "name": "Paeonia officinalis L.",
+            "id": "1362842",
+            "score": 0.00565
+        },
+        {
+            "name": "Paeonia mascula (L.) Mill.",
+            "id": "1359758",
+            "score": 0.00523
+        },
+        {
+            "name": "Rosa rugosa Thunb.",
+            "id": "1395343",
+            "score": 0.0045
+        },
+        {
+            "name": "Rosa rubiginosa L.",
+            "id": "1363996",
+            "score": 0.00423
+        },
+        {
+            "name": "Rosa canina L.",
+            "id": "1360334",
+            "score": 0.00332
+        },
+        {
+            "name": "Rosa setigera Michx.",
+            "id": "1395350",
+            "score": 0.00273
+        },
+        {
+            "name": "Rosa spp.",
+            "id": "1420450",
+            "score": 0.00209
+        }
+    ]
+}

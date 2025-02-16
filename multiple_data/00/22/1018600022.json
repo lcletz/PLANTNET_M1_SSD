@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Platanthera chlorantha (Custer) Rchb.",
+            "id": "1397462",
+            "score": 0.8755
+        },
+        {
+            "name": "Platanthera bifolia (L.) Rich.",
+            "id": "1361691",
+            "score": 0.15745
+        },
+        {
+            "name": "Platanthera algeriensis Batt. & Trab.",
+            "id": "1361690",
+            "score": 0.00647
+        },
+        {
+            "name": "Dactylorhiza sambucina (L.) Soó",
+            "id": "1391605",
+            "score": 0.00344
+        },
+        {
+            "name": "Orchis pallens L.",
+            "id": "1394280",
+            "score": 0.00144
+        }
+    ]
+}

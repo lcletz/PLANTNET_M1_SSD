@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Silene coronaria (L.) Clairv.",
+            "id": "1356979",
+            "score": 0.38306
+        },
+        {
+            "name": "Stachys byzantina K.Koch",
+            "id": "1396424",
+            "score": 0.00379
+        },
+        {
+            "name": "Atocion armeria (L.) Raf.",
+            "id": "1398690",
+            "score": 0.00198
+        },
+        {
+            "name": "Agrostemma githago L.",
+            "id": "1356672",
+            "score": 0.00191
+        },
+        {
+            "name": "Cerastium tomentosum L.",
+            "id": "1391092",
+            "score": 0.00165
+        },
+        {
+            "name": "Dianthus carthusianorum L.",
+            "id": "1391680",
+            "score": 0.00116
+        },
+        {
+            "name": "Silene boryi Boiss.",
+            "id": "1356967",
+            "score": 0.00107
+        }
+    ]
+}

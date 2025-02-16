@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Hydrangea macrophylla (Thunb.) Ser.",
+            "id": "1361819",
+            "score": 0.58821
+        },
+        {
+            "name": "Salvia hispanica L.",
+            "id": "1419283",
+            "score": 0.003
+        },
+        {
+            "name": "Impatiens parviflora DC.",
+            "id": "1393277",
+            "score": 0.00273
+        },
+        {
+            "name": "Impatiens balsamina L.",
+            "id": "1363815",
+            "score": 0.00186
+        }
+    ]
+}

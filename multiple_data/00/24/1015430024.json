@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Picea laxa (Münchh.) Sarg.",
+            "id": "1737434",
+            "score": 0.49031
+        },
+        {
+            "name": "Picea abies (L.) H.Karst.",
+            "id": "1397459",
+            "score": 0.003
+        },
+        {
+            "name": "Pinus banksiana Lamb.",
+            "id": "1398328",
+            "score": 0.0029
+        },
+        {
+            "name": "Picea omorika (Pancic) Purk.",
+            "id": "1394561",
+            "score": 0.00205
+        },
+        {
+            "name": "Pseudotsuga menziesii (Mirb.) Franco",
+            "id": "1394967",
+            "score": 0.00171
+        },
+        {
+            "name": "Pinus mugo Turra",
+            "id": "1394608",
+            "score": 0.00153
+        },
+        {
+            "name": "Picea pungens Engelm.",
+            "id": "1394563",
+            "score": 0.00124
+        },
+        {
+            "name": "Picea sitchensis (Bong.) Carrière",
+            "id": "1394564",
+            "score": 0.00101
+        }
+    ]
+}

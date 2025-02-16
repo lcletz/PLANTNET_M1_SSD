@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunella laciniata (L.) L.",
+            "id": "1358854",
+            "score": 0.78664
+        },
+        {
+            "name": "Prunella vulgaris L.",
+            "id": "1356109",
+            "score": 0.02246
+        },
+        {
+            "name": "Prunella × intermedia Link",
+            "id": "1562253",
+            "score": 0.01321
+        },
+        {
+            "name": "Prunella grandiflora (L.) Turra",
+            "id": "1737424",
+            "score": 0.00368
+        },
+        {
+            "name": "Prunella × bicolor Beck",
+            "id": "1562248",
+            "score": 0.00324
+        },
+        {
+            "name": "Prunella hyssopifolia L.",
+            "id": "1362041",
+            "score": 0.00306
+        },
+        {
+            "name": "Teucrium montanum L.",
+            "id": "1359006",
+            "score": 0.00159
+        },
+        {
+            "name": "Sideritis hyssopifolia L.",
+            "id": "1362495",
+            "score": 0.00127
+        }
+    ]
+}

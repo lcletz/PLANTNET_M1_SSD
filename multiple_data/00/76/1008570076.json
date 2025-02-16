@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cryptomeria japonica (Thunb. ex L.f.) D.Don",
+            "id": "1418585",
+            "score": 0.47926
+        },
+        {
+            "name": "Hesperocyparis macrocarpa (Hartw.) Bartel",
+            "id": "1432847",
+            "score": 0.00306
+        },
+        {
+            "name": "Chamaecyparis pisifera (Siebold & Zucc.) Endl.",
+            "id": "1391117",
+            "score": 0.00253
+        },
+        {
+            "name": "Juniperus communis L.",
+            "id": "1393364",
+            "score": 0.00235
+        },
+        {
+            "name": "Juniperus cedrus Webb & Berthel.",
+            "id": "1399864",
+            "score": 0.00223
+        }
+    ]
+}

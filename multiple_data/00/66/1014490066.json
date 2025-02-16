@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.7172
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.14299
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.07212
+        },
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.0171
+        },
+        {
+            "name": "Morus cathayana Hemsl.",
+            "id": "1602328",
+            "score": 0.00179
+        }
+    ]
+}

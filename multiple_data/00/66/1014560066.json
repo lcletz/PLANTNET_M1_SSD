@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.80919
+        },
+        {
+            "name": "Pyrus cordata Desv.",
+            "id": "1360328",
+            "score": 0.12084
+        },
+        {
+            "name": "Pyrus bourgaeana Decne.",
+            "id": "1360327",
+            "score": 0.00651
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.00566
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00295
+        },
+        {
+            "name": "Prunus × fruticans Weihe",
+            "id": "1667948",
+            "score": 0.00144
+        },
+        {
+            "name": "Prunus fruticosa Pall.",
+            "id": "1394939",
+            "score": 0.00125
+        },
+        {
+            "name": "Prunus brigantina Vill.",
+            "id": "1394945",
+            "score": 0.00115
+        }
+    ]
+}

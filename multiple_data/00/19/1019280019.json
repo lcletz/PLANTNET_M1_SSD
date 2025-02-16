@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Artemisia umbelliformis Lam.",
+            "id": "1396898",
+            "score": 0.87191
+        },
+        {
+            "name": "Artemisia genipi Stechm.",
+            "id": "1742075",
+            "score": 0.26933
+        },
+        {
+            "name": "Artemisia glacialis L.",
+            "id": "1396825",
+            "score": 0.02248
+        },
+        {
+            "name": "Artemisia absinthium L.",
+            "id": "1357268",
+            "score": 0.00508
+        },
+        {
+            "name": "Jacobaea incana (L.) Veldkamp",
+            "id": "1389244",
+            "score": 0.00272
+        },
+        {
+            "name": "Artemisia maritima L.",
+            "id": "1397320",
+            "score": 0.00142
+        }
+    ]
+}

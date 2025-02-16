@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.53826
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.21774
+        },
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.08303
+        },
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.03072
+        },
+        {
+            "name": "Celtis occidentalis L.",
+            "id": "1397796",
+            "score": 0.00419
+        },
+        {
+            "name": "Celtis sinensis Pers.",
+            "id": "1418377",
+            "score": 0.00285
+        },
+        {
+            "name": "Celtis australis L.",
+            "id": "1361742",
+            "score": 0.00118
+        },
+        {
+            "name": "Grewia tembensis Fresen.",
+            "id": "1359628",
+            "score": 0.00108
+        }
+    ]
+}

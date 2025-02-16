@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lamium purpureum L.",
+            "id": "1358752",
+            "score": 0.46759
+        },
+        {
+            "name": "Lamium hybridum Vill.",
+            "id": "1358751",
+            "score": 0.37299
+        },
+        {
+            "name": "Glechoma hederacea L.",
+            "id": "1358746",
+            "score": 0.01413
+        },
+        {
+            "name": "Lamium amplexicaule L.",
+            "id": "1356111",
+            "score": 0.00333
+        },
+        {
+            "name": "Salvia verticillata L.",
+            "id": "1397480",
+            "score": 0.00202
+        },
+        {
+            "name": "Marrubium vulgare L.",
+            "id": "1356123",
+            "score": 0.00188
+        },
+        {
+            "name": "Thymus serpyllum L.",
+            "id": "1362246",
+            "score": 0.00117
+        },
+        {
+            "name": "Ajuga pyramidalis L.",
+            "id": "1389405",
+            "score": 0.00115
+        }
+    ]
+}

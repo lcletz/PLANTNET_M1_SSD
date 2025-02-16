@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cistus albidus L.",
+            "id": "1357096",
+            "score": 0.90454
+        },
+        {
+            "name": "Cistus salviifolius L.",
+            "id": "1357111",
+            "score": 0.01517
+        },
+        {
+            "name": "Cistus crispus L.",
+            "id": "1357100",
+            "score": 0.00589
+        },
+        {
+            "name": "Cistus lasianthus Lam.",
+            "id": "1362183",
+            "score": 0.00381
+        },
+        {
+            "name": "Cistus creticus L.",
+            "id": "1357099",
+            "score": 0.00352
+        },
+        {
+            "name": "Cistus monspeliensis L.",
+            "id": "1357105",
+            "score": 0.00199
+        },
+        {
+            "name": "Cistus halimifolius L.",
+            "id": "1361753",
+            "score": 0.00155
+        }
+    ]
+}

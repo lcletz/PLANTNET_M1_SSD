@@ -1,0 +1,295 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Achillea millefolium L.",
+            "id": "1364157",
+            "score": 0.47985
+        },
+        {
+            "name": "Achillea nobilis L.",
+            "id": "1397302",
+            "score": 0.16317
+        },
+        {
+            "name": "Filipendula vulgaris Moench",
+            "id": "1360297",
+            "score": 0.0867
+        },
+        {
+            "name": "Tanacetum corymbosum (L.) Sch.Bip.",
+            "id": "1397508",
+            "score": 0.0741
+        },
+        {
+            "name": "Meum athamanticum Jacq.",
+            "id": "1360759",
+            "score": 0.07173
+        },
+        {
+            "name": "Achillea odorata L.",
+            "id": "1357187",
+            "score": 0.04102
+        },
+        {
+            "name": "Equisetum arvense L.",
+            "id": "1356394",
+            "score": 0.03878
+        },
+        {
+            "name": "Achillea distans Waldst. & Kit. ex Willd.",
+            "id": "1392898",
+            "score": 0.03054
+        },
+        {
+            "name": "Galium verum L.",
+            "id": "1360422",
+            "score": 0.02532
+        },
+        {
+            "name": "Carum carvi L.",
+            "id": "1363229",
+            "score": 0.02364
+        },
+        {
+            "name": "Achillea setacea Waldst. & Kit.",
+            "id": "1392587",
+            "score": 0.02083
+        },
+        {
+            "name": "Achillea tomentosa L.",
+            "id": "1393953",
+            "score": 0.01713
+        },
+        {
+            "name": "Lycopodium annotinum L.",
+            "id": "1397431",
+            "score": 0.01455
+        },
+        {
+            "name": "Equisetum sylvaticum L.",
+            "id": "1391994",
+            "score": 0.01405
+        },
+        {
+            "name": "Artemisia annua L.",
+            "id": "1382106",
+            "score": 0.01092
+        },
+        {
+            "name": "Achillea × roseoalba Ehrend.",
+            "id": "1742055",
+            "score": 0.0091
+        },
+        {
+            "name": "Equisetum telmateia Ehrh.",
+            "id": "1356398",
+            "score": 0.00836
+        },
+        {
+            "name": "Foeniculum vulgare Mill.",
+            "id": "1360739",
+            "score": 0.0083
+        },
+        {
+            "name": "Equisetum pratense Ehrh.",
+            "id": "1391990",
+            "score": 0.00799
+        },
+        {
+            "name": "Catapodium rigidum (L.) C.E.Hubb.",
+            "id": "1390967",
+            "score": 0.00641
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.00512
+        },
+        {
+            "name": "Myriophyllum aquaticum (Vell.) Verdc.",
+            "id": "1357454",
+            "score": 0.00503
+        },
+        {
+            "name": "Cyperus strigosus L.",
+            "id": "1399577",
+            "score": 0.00448
+        },
+        {
+            "name": "Descurainia sophia (L.) Webb ex Prantl",
+            "id": "1363917",
+            "score": 0.00443
+        },
+        {
+            "name": "Cynosurus cristatus L.",
+            "id": "1361225",
+            "score": 0.00421
+        },
+        {
+            "name": "Achillea filipendulina Lam.",
+            "id": "1392622",
+            "score": 0.00398
+        },
+        {
+            "name": "Anthemis arvensis L.",
+            "id": "1364154",
+            "score": 0.00365
+        },
+        {
+            "name": "Pedicularis comosa L.",
+            "id": "1397453",
+            "score": 0.00319
+        },
+        {
+            "name": "Equisetum fluviatile L.",
+            "id": "1356395",
+            "score": 0.00307
+        },
+        {
+            "name": "Pedicularis elongata A.Kern.",
+            "id": "1399342",
+            "score": 0.00266
+        },
+        {
+            "name": "Argentina anserina (L.) Rydb.",
+            "id": "1396261",
+            "score": 0.00246
+        },
+        {
+            "name": "Artemisia atrata Lam.",
+            "id": "1396746",
+            "score": 0.00243
+        },
+        {
+            "name": "Anacyclus clavatus (Desf.) Pers.",
+            "id": "1364151",
+            "score": 0.00217
+        },
+        {
+            "name": "Nigella damascena L.",
+            "id": "1360185",
+            "score": 0.00212
+        },
+        {
+            "name": "Ceratophyllum demersum L.",
+            "id": "1357093",
+            "score": 0.00204
+        },
+        {
+            "name": "Hippuris vulgaris L.",
+            "id": "1392778",
+            "score": 0.00183
+        },
+        {
+            "name": "Achillea crithmifolia Waldst. & Kit.",
+            "id": "1392771",
+            "score": 0.00179
+        },
+        {
+            "name": "Cota tinctoria (L.) J.Gay",
+            "id": "1417804",
+            "score": 0.00174
+        },
+        {
+            "name": "Acacia verticillata (L'Hér.) Willd.",
+            "id": "1400093",
+            "score": 0.00173
+        },
+        {
+            "name": "Campanula scheuchzeri Vill.",
+            "id": "1390674",
+            "score": 0.00172
+        },
+        {
+            "name": "Cyperus esculentus L.",
+            "id": "1361087",
+            "score": 0.00163
+        },
+        {
+            "name": "Asparagus tenuifolius Lam.",
+            "id": "1397182",
+            "score": 0.00144
+        },
+        {
+            "name": "Conopodium majus (Gouan) Loret",
+            "id": "1360674",
+            "score": 0.00136
+        },
+        {
+            "name": "Daucus carota L.",
+            "id": "1363227",
+            "score": 0.00134
+        },
+        {
+            "name": "Lupinus angustifolius L.",
+            "id": "1363699",
+            "score": 0.00129
+        },
+        {
+            "name": "Anthemis cotula L.",
+            "id": "1364155",
+            "score": 0.00126
+        },
+        {
+            "name": "Asparagus setaceus (Kunth) Jessop",
+            "id": "1363267",
+            "score": 0.0012
+        },
+        {
+            "name": "Vicia villosa Roth",
+            "id": "1359581",
+            "score": 0.0012
+        },
+        {
+            "name": "Chamaemelum nobile (L.) All.",
+            "id": "1357465",
+            "score": 0.0012
+        },
+        {
+            "name": "Erodium cicutarium (L.) L'Hér.",
+            "id": "1355994",
+            "score": 0.00118
+        },
+        {
+            "name": "Tanacetum vulgare L.",
+            "id": "1396512",
+            "score": 0.00116
+        },
+        {
+            "name": "Torilis nodosa (L.) Gaertn.",
+            "id": "1363213",
+            "score": 0.00112
+        },
+        {
+            "name": "Orlaya grandiflora (L.) Hoffm.",
+            "id": "1360771",
+            "score": 0.00112
+        },
+        {
+            "name": "Vicia tenuifolia Roth",
+            "id": "1359578",
+            "score": 0.00108
+        },
+        {
+            "name": "Thapsia asclepium L.",
+            "id": "1744344",
+            "score": 0.00104
+        },
+        {
+            "name": "Onobrychis viciifolia Scop.",
+            "id": "1363793",
+            "score": 0.00103
+        },
+        {
+            "name": "Scandix pecten-veneris L.",
+            "id": "1360793",
+            "score": 0.00101
+        },
+        {
+            "name": "Phacelia tanacetifolia Benth.",
+            "id": "1363358",
+            "score": 0.00101
+        }
+    ]
+}

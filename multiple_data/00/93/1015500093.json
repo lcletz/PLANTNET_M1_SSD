@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Yucca gloriosa L.",
+            "id": "1362946",
+            "score": 0.71957
+        },
+        {
+            "name": "Yucca filamentosa L.",
+            "id": "1397243",
+            "score": 0.1659
+        },
+        {
+            "name": "Yucca aloifolia L.",
+            "id": "1398112",
+            "score": 0.05977
+        },
+        {
+            "name": "Yucca flaccida Haw.",
+            "id": "1409149",
+            "score": 0.00546
+        },
+        {
+            "name": "Yucca madrensis Gentry",
+            "id": "1439758",
+            "score": 0.0039
+        },
+        {
+            "name": "Yucca gigantea Lem.",
+            "id": "1410190",
+            "score": 0.00221
+        },
+        {
+            "name": "Yucca baccata Torr.",
+            "id": "1439748",
+            "score": 0.00138
+        },
+        {
+            "name": "Yucca glauca Nutt.",
+            "id": "1414249",
+            "score": 0.00113
+        }
+    ]
+}

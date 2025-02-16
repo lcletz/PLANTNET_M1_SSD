@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cucumis sativus L.",
+            "id": "1384472",
+            "score": 0.96817
+        },
+        {
+            "name": "Cucumis melo L.",
+            "id": "1363647",
+            "score": 0.00634
+        },
+        {
+            "name": "Sicyos angulatus L.",
+            "id": "1413783",
+            "score": 0.00348
+        },
+        {
+            "name": "Cucurbita maxima Duchesne",
+            "id": "1391483",
+            "score": 0.00174
+        },
+        {
+            "name": "Cucurbita pepo L.",
+            "id": "1384485",
+            "score": 0.00166
+        },
+        {
+            "name": "Luffa acutangula (L.) Roxb.",
+            "id": "1384497",
+            "score": 0.00113
+        }
+    ]
+}

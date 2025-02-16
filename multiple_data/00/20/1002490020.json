@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cucurbita moschata Duchesne",
+            "id": "1399145",
+            "score": 0.87348
+        },
+        {
+            "name": "Cucurbita maxima Duchesne",
+            "id": "1391483",
+            "score": 0.0549
+        },
+        {
+            "name": "Cucurbita pepo L.",
+            "id": "1384485",
+            "score": 0.01612
+        },
+        {
+            "name": "Cucumis melo L.",
+            "id": "1363647",
+            "score": 0.00656
+        },
+        {
+            "name": "Lagenaria siceraria (Molina) Standl.",
+            "id": "1384499",
+            "score": 0.0042
+        },
+        {
+            "name": "Cucurbita foetidissima Kunth",
+            "id": "1418563",
+            "score": 0.00185
+        },
+        {
+            "name": "Cucumis sativus L.",
+            "id": "1384472",
+            "score": 0.00159
+        }
+    ]
+}

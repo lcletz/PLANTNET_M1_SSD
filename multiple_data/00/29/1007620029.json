@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hyssopus officinalis L.",
+            "id": "1358747",
+            "score": 0.45652
+        },
+        {
+            "name": "Satureja hortensis L.",
+            "id": "1395936",
+            "score": 0.3193
+        },
+        {
+            "name": "Satureja montana L.",
+            "id": "1361829",
+            "score": 0.17167
+        },
+        {
+            "name": "Thymus vulgaris L.",
+            "id": "1356108",
+            "score": 0.00501
+        },
+        {
+            "name": "Lavandula stoechas L.",
+            "id": "1358766",
+            "score": 0.00363
+        },
+        {
+            "name": "Lavandula angustifolia Mill.",
+            "id": "1361824",
+            "score": 0.00175
+        },
+        {
+            "name": "Salvia rosmarinoides A.St.-Hil. ex Benth.",
+            "id": "1563000",
+            "score": 0.00157
+        },
+        {
+            "name": "Felicia amelloides (L.) Voss",
+            "id": "1408069",
+            "score": 0.00101
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Eruca vesicaria (L.) Cav.",
+            "id": "1356328",
+            "score": 0.46716
+        },
+        {
+            "name": "Raphanus raphanistrum L.",
+            "id": "1363901",
+            "score": 0.02201
+        },
+        {
+            "name": "Brassica barrelieri (L.) Janka",
+            "id": "1358194",
+            "score": 0.00434
+        },
+        {
+            "name": "Moricandia arvensis (L.) DC.",
+            "id": "1358386",
+            "score": 0.00216
+        },
+        {
+            "name": "Carrichtera annua (L.) DC.",
+            "id": "1358214",
+            "score": 0.00181
+        }
+    ]
+}

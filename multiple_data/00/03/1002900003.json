@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Malus domestica Borkh.",
+            "id": "1393737",
+            "score": 0.44084
+        },
+        {
+            "name": "Malus pumila Mill.",
+            "id": "1362849",
+            "score": 0.23527
+        },
+        {
+            "name": "Prunus persica (L.) Batsch",
+            "id": "1363997",
+            "score": 0.07393
+        },
+        {
+            "name": "Malus sylvestris (L.) Mill.",
+            "id": "1420379",
+            "score": 0.00909
+        },
+        {
+            "name": "Chaenomeles japonica (Thunb.) Lindl. ex Spach",
+            "id": "1391103",
+            "score": 0.00555
+        },
+        {
+            "name": "Mangifera indica L.",
+            "id": "1384600",
+            "score": 0.00342
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.0021
+        },
+        {
+            "name": "Sorbus domestica L.",
+            "id": "1360365",
+            "score": 0.0019
+        },
+        {
+            "name": "Prunus salicina Lindl.",
+            "id": "1420425",
+            "score": 0.00164
+        },
+        {
+            "name": "Ziziphus jujuba Mill.",
+            "id": "1360271",
+            "score": 0.00154
+        },
+        {
+            "name": "Pyrus pyrifolia (Burm.f.) Nakai",
+            "id": "1420439",
+            "score": 0.00151
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.00127
+        }
+    ]
+}

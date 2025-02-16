@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iris lutescens Lam.",
+            "id": "1362462",
+            "score": 0.38353
+        },
+        {
+            "name": "Iris × germanica L.",
+            "id": "1556750",
+            "score": 0.32504
+        },
+        {
+            "name": "Iris pumila L.",
+            "id": "1398617",
+            "score": 0.07104
+        },
+        {
+            "name": "Iris perrieri Simonet ex N.Service",
+            "id": "1398243",
+            "score": 0.03345
+        },
+        {
+            "name": "Iris pallida Lam.",
+            "id": "1361541",
+            "score": 0.01623
+        },
+        {
+            "name": "Iris versicolor L.",
+            "id": "1393297",
+            "score": 0.01277
+        },
+        {
+            "name": "Iris sibirica L.",
+            "id": "1393304",
+            "score": 0.00693
+        },
+        {
+            "name": "Iris marsica I.Ricci & Colas.",
+            "id": "1399634",
+            "score": 0.00656
+        },
+        {
+            "name": "Iris aphylla L.",
+            "id": "1393299",
+            "score": 0.00464
+        },
+        {
+            "name": "Iris spuria L.",
+            "id": "1361544",
+            "score": 0.00248
+        },
+        {
+            "name": "Iris bicapitata Colas.",
+            "id": "1556679",
+            "score": 0.00121
+        },
+        {
+            "name": "Iris pseudopumila Tineo",
+            "id": "1399635",
+            "score": 0.00107
+        }
+    ]
+}

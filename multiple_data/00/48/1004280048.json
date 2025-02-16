@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Myosotis arvensis Hill",
+            "id": "1393880",
+            "score": 0.32103
+        },
+        {
+            "name": "Myosotis ramosissima Rochel",
+            "id": "1356709",
+            "score": 0.02961
+        },
+        {
+            "name": "Myosotis laxa Lehm.",
+            "id": "1356706",
+            "score": 0.01922
+        },
+        {
+            "name": "Myosotis discolor Pers.",
+            "id": "1363859",
+            "score": 0.00866
+        },
+        {
+            "name": "Lycopsis arvensis L.",
+            "id": "1393704",
+            "score": 0.00166
+        }
+    ]
+}

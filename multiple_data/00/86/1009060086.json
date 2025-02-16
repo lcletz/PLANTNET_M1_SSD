@@ -1,0 +1,375 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Omalotheca supina (L.) DC.",
+            "id": "1412857",
+            "score": 0.80853
+        },
+        {
+            "name": "Tussilago farfara L.",
+            "id": "1357950",
+            "score": 0.07847
+        },
+        {
+            "name": "Antennaria dioica (L.) Gaertn.",
+            "id": "1394643",
+            "score": 0.05676
+        },
+        {
+            "name": "Antennaria carpatica (Wahlenb.) Bluff & Fingerh.",
+            "id": "1394641",
+            "score": 0.05462
+        },
+        {
+            "name": "Adenostyles leucophylla Rchb.",
+            "id": "1742051",
+            "score": 0.03359
+        },
+        {
+            "name": "Omalotheca norvegica (Gunnerus) Sch.Bip. & F.W.Schultz",
+            "id": "1516081",
+            "score": 0.01818
+        },
+        {
+            "name": "Gamochaeta purpurea (L.) Cabrera",
+            "id": "1374758",
+            "score": 0.01553
+        },
+        {
+            "name": "Omalotheca sylvatica (L.) Sch.Bip. & F.W.Schultz",
+            "id": "1737652",
+            "score": 0.01512
+        },
+        {
+            "name": "Petasites paradoxus (Retz.) Baumg.",
+            "id": "1361772",
+            "score": 0.01055
+        },
+        {
+            "name": "Omalotheca hoppeana (W.D.J.Koch) Sch.Bip. & F.W.Schultz",
+            "id": "1742053",
+            "score": 0.00927
+        },
+        {
+            "name": "Gnaphalium uliginosum L.",
+            "id": "1357608",
+            "score": 0.00851
+        },
+        {
+            "name": "Gamochaeta pensylvanica (Willd.) Cabrera",
+            "id": "1421285",
+            "score": 0.00804
+        },
+        {
+            "name": "Salix daltoniana Andersson",
+            "id": "1683977",
+            "score": 0.00804
+        },
+        {
+            "name": "Saussurea graminifolia Wall. ex DC.",
+            "id": "1519087",
+            "score": 0.00706
+        },
+        {
+            "name": "Pseudognaphalium luteoalbum (L.) Hilliard & B.L.Burtt",
+            "id": "1737651",
+            "score": 0.00607
+        },
+        {
+            "name": "Leontopodium nivale (Ten.) A.Huet ex Hand.-Mazz.",
+            "id": "1742052",
+            "score": 0.00509
+        },
+        {
+            "name": "Philydrum lanuginosum Banks & Sol. ex Gaertn.",
+            "id": "1429894",
+            "score": 0.0046
+        },
+        {
+            "name": "Senecio doronicum (L.) L.",
+            "id": "1396191",
+            "score": 0.0045
+        },
+        {
+            "name": "Leucanthemopsis alpina (L.) Heywood",
+            "id": "1393494",
+            "score": 0.00448
+        },
+        {
+            "name": "Rubus armeniacus Focke",
+            "id": "1395412",
+            "score": 0.00433
+        },
+        {
+            "name": "Leontopodium jacotianum Beauverd",
+            "id": "1513568",
+            "score": 0.00426
+        },
+        {
+            "name": "Eriophyllum lanatum (Pursh) J.Forbes",
+            "id": "1398160",
+            "score": 0.00397
+        },
+        {
+            "name": "Antennaria solitaria Rydb.",
+            "id": "1433968",
+            "score": 0.00383
+        },
+        {
+            "name": "Antennaria plantaginifolia (L.) Hook.",
+            "id": "1815711",
+            "score": 0.00357
+        },
+        {
+            "name": "Leontopodium himalayanum DC.",
+            "id": "1513567",
+            "score": 0.00335
+        },
+        {
+            "name": "Jacobaea incana (L.) Veldkamp",
+            "id": "1389244",
+            "score": 0.00333
+        },
+        {
+            "name": "Homogyne alpina (L.) Cass.",
+            "id": "1393200",
+            "score": 0.00295
+        },
+        {
+            "name": "Chaptalia texana Greene",
+            "id": "1441196",
+            "score": 0.00294
+        },
+        {
+            "name": "Petasites frigidus (L.) Fr.",
+            "id": "1413018",
+            "score": 0.00293
+        },
+        {
+            "name": "Jacobaea alpina (L.) Moench",
+            "id": "1389240",
+            "score": 0.00272
+        },
+        {
+            "name": "Jacobaea carniolica (Willd.) Schrank",
+            "id": "1742046",
+            "score": 0.00258
+        },
+        {
+            "name": "Lobivia ancistrophora (Speg.) Schlumpb.",
+            "id": "1832973",
+            "score": 0.00255
+        },
+        {
+            "name": "Chryselium gnaphalioides (Kunth) Urtubey & S.E.Freire",
+            "id": "1831640",
+            "score": 0.00248
+        },
+        {
+            "name": "Aria edulis (Willd.) M.Roem.",
+            "id": "1737559",
+            "score": 0.00244
+        },
+        {
+            "name": "Petasites albus (L.) Gaertn.",
+            "id": "1361771",
+            "score": 0.0023
+        },
+        {
+            "name": "Saussurea alpina (L.) DC.",
+            "id": "1395937",
+            "score": 0.00228
+        },
+        {
+            "name": "Pseudognaphalium undulatum (L.) Hilliard & B.L.Burtt",
+            "id": "1518245",
+            "score": 0.00211
+        },
+        {
+            "name": "Eriophyllum ambiguum A.Gray",
+            "id": "1818544",
+            "score": 0.00198
+        },
+        {
+            "name": "Eriastrum signatum D.Gowen",
+            "id": "1656559",
+            "score": 0.00197
+        },
+        {
+            "name": "Logfia gallica (L.) Coss. & Germ.",
+            "id": "1393618",
+            "score": 0.00197
+        },
+        {
+            "name": "Epilobium alsinifolium Vill.",
+            "id": "1391878",
+            "score": 0.00191
+        },
+        {
+            "name": "Plantago monosperma Pourr.",
+            "id": "1394638",
+            "score": 0.0017
+        },
+        {
+            "name": "Pentanema montanum (L.) D.Gut.Larr., Santos-Vicente, Anderb., E.Rico & M.M.Mart.Ort.",
+            "id": "1743211",
+            "score": 0.00156
+        },
+        {
+            "name": "Malus domestica (Suckow) Borkh.",
+            "id": "1729464",
+            "score": 0.00148
+        },
+        {
+            "name": "Phagnalon graecum Boiss. & Heldr.",
+            "id": "1399677",
+            "score": 0.00142
+        },
+        {
+            "name": "Leontopodium pusillum (Beauverd) Hand.-Mazz.",
+            "id": "1513585",
+            "score": 0.00137
+        },
+        {
+            "name": "Gagea lacaitae A.Terracc.",
+            "id": "1392400",
+            "score": 0.00135
+        },
+        {
+            "name": "Pseudognaphalium elegans Kartesz",
+            "id": "1727476",
+            "score": 0.00129
+        },
+        {
+            "name": "Luzula forsteri (Sm.) DC.",
+            "id": "1361594",
+            "score": 0.00129
+        },
+        {
+            "name": "Senecio provincialis Druce",
+            "id": "1743796",
+            "score": 0.00129
+        },
+        {
+            "name": "Pseudognaphalium liebmannii (Sch.Bip. ex Klatt) Anderb.",
+            "id": "1518206",
+            "score": 0.00128
+        },
+        {
+            "name": "Artemisia umbelliformis Lam.",
+            "id": "1396898",
+            "score": 0.00127
+        },
+        {
+            "name": "Mniodes piptolepis (Wedd.) S.E.Freire, Chemisquy, Anderb. & Urtubey",
+            "id": "1727469",
+            "score": 0.00121
+        },
+        {
+            "name": "Chersodoma antennaria (Wedd.) Cabrera",
+            "id": "1423183",
+            "score": 0.00121
+        },
+        {
+            "name": "Phagnalon umbelliforme DC.",
+            "id": "1357772",
+            "score": 0.0012
+        },
+        {
+            "name": "Achillea nana L.",
+            "id": "1393625",
+            "score": 0.00119
+        },
+        {
+            "name": "Potentilla argentea L.",
+            "id": "1394830",
+            "score": 0.00115
+        },
+        {
+            "name": "Amelanchier ovalis Medik.",
+            "id": "1360275",
+            "score": 0.00114
+        },
+        {
+            "name": "Anemone palmata L.",
+            "id": "1360154",
+            "score": 0.00114
+        },
+        {
+            "name": "Antennaria pulchella Greene",
+            "id": "1433933",
+            "score": 0.00112
+        },
+        {
+            "name": "Tephroseris helenitis (L.) B.Nord.",
+            "id": "1396716",
+            "score": 0.00112
+        },
+        {
+            "name": "Leontopodium discolor Beauverd",
+            "id": "1513555",
+            "score": 0.00111
+        },
+        {
+            "name": "Antennaria alpina (L.) Gaertn.",
+            "id": "1412476",
+            "score": 0.0011
+        },
+        {
+            "name": "Senecio comosus Sch.Bip.",
+            "id": "1519950",
+            "score": 0.00107
+        },
+        {
+            "name": "Linochilus colombianus (Cuatrec.) Saldivia & O.M.Vargas",
+            "id": "1834456",
+            "score": 0.00105
+        },
+        {
+            "name": "Salix pyrenaica Gouan",
+            "id": "1395862",
+            "score": 0.00103
+        },
+        {
+            "name": "Galium minutulum Jord.",
+            "id": "1392470",
+            "score": 0.00102
+        },
+        {
+            "name": "Plantago nivalis Boiss.",
+            "id": "1646497",
+            "score": 0.00101
+        },
+        {
+            "name": "Senecio vulgaris L.",
+            "id": "1364138",
+            "score": 0.00098
+        },
+        {
+            "name": "Leontopodium monocephalum Edgew.",
+            "id": "1513578",
+            "score": 0.00098
+        },
+        {
+            "name": "Sideritis scardica Griseb.",
+            "id": "1563801",
+            "score": 0.00093
+        },
+        {
+            "name": "Plantago sericea Ruiz & Pav.",
+            "id": "1422859",
+            "score": 0.00076
+        },
+        {
+            "name": "Leontopodium kurilense Takeda",
+            "id": "1513570",
+            "score": 0.00057
+        },
+        {
+            "name": "Artemisia genipi Stechm.",
+            "id": "1742075",
+            "score": 0.00048
+        }
+    ]
+}

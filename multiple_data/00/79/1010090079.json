@@ -1,0 +1,85 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phragmites australis (Cav.) Trin. ex Steud.",
+            "id": "1356268",
+            "score": 0.80307
+        },
+        {
+            "name": "Arundo donax L.",
+            "id": "1363442",
+            "score": 0.04919
+        },
+        {
+            "name": "Phalaris arundinacea L.",
+            "id": "1363490",
+            "score": 0.02808
+        },
+        {
+            "name": "Typha latifolia L.",
+            "id": "1363339",
+            "score": 0.00931
+        },
+        {
+            "name": "Phragmites mauritianus Kunth",
+            "id": "1409035",
+            "score": 0.0042
+        },
+        {
+            "name": "Leymus arenarius (L.) Hochst.",
+            "id": "1393522",
+            "score": 0.00417
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.00372
+        },
+        {
+            "name": "Calamagrostis epigejos (L.) Roth",
+            "id": "1379532",
+            "score": 0.00275
+        },
+        {
+            "name": "Avena sativa L.",
+            "id": "1363469",
+            "score": 0.00241
+        },
+        {
+            "name": "Hordeum vulgare L.",
+            "id": "1363481",
+            "score": 0.00216
+        },
+        {
+            "name": "Phragmites karka (Retz.) Trin. ex Steud.",
+            "id": "1432104",
+            "score": 0.00171
+        },
+        {
+            "name": "Typha angustifolia L.",
+            "id": "1361721",
+            "score": 0.00131
+        },
+        {
+            "name": "Secale cereale L.",
+            "id": "1363451",
+            "score": 0.00112
+        },
+        {
+            "name": "Elymus repens (L.) Gould",
+            "id": "1411890",
+            "score": 0.00111
+        },
+        {
+            "name": "Triticum aestivum L.",
+            "id": "1363483",
+            "score": 0.00103
+        },
+        {
+            "name": "Iris pseudacorus L.",
+            "id": "1361543",
+            "score": 0.00102
+        }
+    ]
+}

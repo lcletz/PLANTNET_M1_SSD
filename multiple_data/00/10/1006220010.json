@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Asteriscus aquaticus (L.) Less.",
+            "id": "1357293",
+            "score": 0.84612
+        },
+        {
+            "name": "Pallenis spinosa (L.) Cass.",
+            "id": "1357743",
+            "score": 0.10367
+        },
+        {
+            "name": "Pallenis maritima (L.) Greuter",
+            "id": "1357742",
+            "score": 0.00535
+        },
+        {
+            "name": "Mentha pulegium L.",
+            "id": "1356106",
+            "score": 0.00175
+        },
+        {
+            "name": "Dittrichia graveolens (L.) Greuter",
+            "id": "1364127",
+            "score": 0.00164
+        }
+    ]
+}

@@ -1,0 +1,385 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rorippa sylvestris (L.) Besser",
+            "id": "1358416",
+            "score": 0.27000999999999999
+        },
+        {
+            "name": "Barbarea verna (Mill.) Asch.",
+            "id": "1363871",
+            "score": 0.16572
+        },
+        {
+            "name": "Rorippa palustris (L.) Besser",
+            "id": "1363914",
+            "score": 0.06781
+        },
+        {
+            "name": "Cardamine amara L.",
+            "id": "1397336",
+            "score": 0.06304
+        },
+        {
+            "name": "Rhamphospermum arvense (L.) Andrz. ex Besser",
+            "id": "1737463",
+            "score": 0.04496
+        },
+        {
+            "name": "Rorippa amphibia (L.) Besser",
+            "id": "1358413",
+            "score": 0.0381
+        },
+        {
+            "name": "Eruca vesicaria (L.) Cav.",
+            "id": "1356328",
+            "score": 0.02889
+        },
+        {
+            "name": "Sinapis alba L.",
+            "id": "1363889",
+            "score": 0.02022
+        },
+        {
+            "name": "Linaria genistifolia (L.) Mill.",
+            "id": "1397538",
+            "score": 0.01954
+        },
+        {
+            "name": "Cardamine flexuosa With.",
+            "id": "1363883",
+            "score": 0.019
+        },
+        {
+            "name": "Cardamine impatiens L.",
+            "id": "1397337",
+            "score": 0.01545
+        },
+        {
+            "name": "Barbarea vulgaris W.T.Aiton",
+            "id": "1728571",
+            "score": 0.01462
+        },
+        {
+            "name": "Brassica napus L.",
+            "id": "1363908",
+            "score": 0.01356
+        },
+        {
+            "name": "Brassica rapa L.",
+            "id": "1363906",
+            "score": 0.01231
+        },
+        {
+            "name": "Erucastrum nasturtiifolium (Poir.) O.E.Schulz",
+            "id": "1392096",
+            "score": 0.01131
+        },
+        {
+            "name": "Rorippa pyrenaica (All.) Rchb.",
+            "id": "1398930",
+            "score": 0.01094
+        },
+        {
+            "name": "Raphanus raphanistrum L.",
+            "id": "1363901",
+            "score": 0.01038
+        },
+        {
+            "name": "Sisymbrium irio L.",
+            "id": "1363896",
+            "score": 0.00799
+        },
+        {
+            "name": "Bunias erucago L.",
+            "id": "1363920",
+            "score": 0.00747
+        },
+        {
+            "name": "Sisymbrium loeselii L.",
+            "id": "1396308",
+            "score": 0.00713
+        },
+        {
+            "name": "Capsella bursa-pastoris (L.) Medik.",
+            "id": "1363910",
+            "score": 0.0071
+        },
+        {
+            "name": "Erucastrum gallicum (Willd.) O.E.Schulz",
+            "id": "1392093",
+            "score": 0.00678
+        },
+        {
+            "name": "Genista hispanica L.",
+            "id": "1392516",
+            "score": 0.00645
+        },
+        {
+            "name": "Hirschfeldia incana (L.) Lagr.-Foss.",
+            "id": "1363911",
+            "score": 0.00587
+        },
+        {
+            "name": "Rhamphospermum nigrum (L.) Al-Shehbaz",
+            "id": "1737676",
+            "score": 0.0057
+        },
+        {
+            "name": "Osyris alba L.",
+            "id": "1364049",
+            "score": 0.00567
+        },
+        {
+            "name": "Sisymbrium orientale L.",
+            "id": "1363898",
+            "score": 0.00533
+        },
+        {
+            "name": "Diplotaxis muralis (L.) DC.",
+            "id": "1363875",
+            "score": 0.00493
+        },
+        {
+            "name": "Cardamine parviflora L.",
+            "id": "1363885",
+            "score": 0.0049
+        },
+        {
+            "name": "Cardamine hirsuta L.",
+            "id": "1363884",
+            "score": 0.00474
+        },
+        {
+            "name": "Sisymbrium austriacum Jacq.",
+            "id": "1358428",
+            "score": 0.00474
+        },
+        {
+            "name": "Barbarea stricta Andrz. ex Besser",
+            "id": "1479511",
+            "score": 0.00473
+        },
+        {
+            "name": "Linaria angustissima (Loisel.) Borbás",
+            "id": "1393585",
+            "score": 0.00427
+        },
+        {
+            "name": "Cardamine pratensis L.",
+            "id": "1358213",
+            "score": 0.00412
+        },
+        {
+            "name": "Biscutella cichoriifolia Loisel.",
+            "id": "1400156",
+            "score": 0.0037
+        },
+        {
+            "name": "Linaria spartea (L.) Chaz.",
+            "id": "1359925",
+            "score": 0.00348
+        },
+        {
+            "name": "Senecio squalidus L.",
+            "id": "1357867",
+            "score": 0.0032
+        },
+        {
+            "name": "Sonchus tenerrimus L.",
+            "id": "1364171",
+            "score": 0.0032
+        },
+        {
+            "name": "Verbascum blattaria L.",
+            "id": "1364060",
+            "score": 0.00298
+        },
+        {
+            "name": "Sisymbrium officinale (L.) Scop.",
+            "id": "1363897",
+            "score": 0.0029
+        },
+        {
+            "name": "Descurainia sophia (L.) Webb ex Prantl",
+            "id": "1363917",
+            "score": 0.00268
+        },
+        {
+            "name": "Barbarea orthoceras Ledeb.",
+            "id": "1414275",
+            "score": 0.00267
+        },
+        {
+            "name": "Diplotaxis erucoides (L.) DC.",
+            "id": "1363878",
+            "score": 0.00267
+        },
+        {
+            "name": "Diplotaxis tenuifolia (L.) DC.",
+            "id": "1358257",
+            "score": 0.00265
+        },
+        {
+            "name": "Erysimum cheiranthoides L.",
+            "id": "1358289",
+            "score": 0.00261
+        },
+        {
+            "name": "Thlaspi arvense L.",
+            "id": "1363886",
+            "score": 0.00249
+        },
+        {
+            "name": "Genista germanica L.",
+            "id": "1392515",
+            "score": 0.00248
+        },
+        {
+            "name": "Linaria vulgaris Mill.",
+            "id": "1393600",
+            "score": 0.0024
+        },
+        {
+            "name": "Nasturtium officinale W.T.Aiton",
+            "id": "1409146",
+            "score": 0.00235
+        },
+        {
+            "name": "Brassica juncea (L.) Czern.",
+            "id": "1363904",
+            "score": 0.0023
+        },
+        {
+            "name": "Jacobaea vulgaris Gaertn.",
+            "id": "1362040",
+            "score": 0.00222
+        },
+        {
+            "name": "Genista anglica L.",
+            "id": "1362309",
+            "score": 0.00219
+        },
+        {
+            "name": "Brassica barrelieri (L.) Janka",
+            "id": "1358194",
+            "score": 0.00207
+        },
+        {
+            "name": "Rapistrum rugosum (L.) All.",
+            "id": "1363879",
+            "score": 0.00206
+        },
+        {
+            "name": "Rumex acetosella L.",
+            "id": "1356082",
+            "score": 0.00205
+        },
+        {
+            "name": "Erysimum odoratum Ehrh.",
+            "id": "1392121",
+            "score": 0.00202
+        },
+        {
+            "name": "Barbarea intermedia Boreau",
+            "id": "1363872",
+            "score": 0.00196
+        },
+        {
+            "name": "Sisymbrella aspera (L.) Spach",
+            "id": "1358426",
+            "score": 0.00183
+        },
+        {
+            "name": "Sisymbrium polyceratium L.",
+            "id": "1358432",
+            "score": 0.00161
+        },
+        {
+            "name": "Chenopodium album L.",
+            "id": "1363173",
+            "score": 0.0015
+        },
+        {
+            "name": "Cardamine pensylvanica Muhl. ex Willd.",
+            "id": "1414435",
+            "score": 0.00146
+        },
+        {
+            "name": "Jacobaea erratica (Bertol.) Fourr.",
+            "id": "1362687",
+            "score": 0.00143
+        },
+        {
+            "name": "Parentucellia viscosa (L.) Caruel",
+            "id": "1359739",
+            "score": 0.00138
+        },
+        {
+            "name": "Senecio lividus L.",
+            "id": "1357862",
+            "score": 0.00138
+        },
+        {
+            "name": "Rumex scutatus L.",
+            "id": "1362485",
+            "score": 0.00128
+        },
+        {
+            "name": "Reseda phyteuma L.",
+            "id": "1360247",
+            "score": 0.00124
+        },
+        {
+            "name": "Brassica fruticulosa Cirillo",
+            "id": "1358196",
+            "score": 0.00123
+        },
+        {
+            "name": "Arctotheca calendula (L.) Levyns",
+            "id": "1355927",
+            "score": 0.00117
+        },
+        {
+            "name": "Valeriana calcitrapae L.",
+            "id": "1722514",
+            "score": 0.00115
+        },
+        {
+            "name": "Nasturtium microphyllum (Boenn.) Rchb.",
+            "id": "1393939",
+            "score": 0.00113
+        },
+        {
+            "name": "Camelina sativa (L.) Crantz",
+            "id": "1358207",
+            "score": 0.00111
+        },
+        {
+            "name": "Barbarea rupicola Moris",
+            "id": "1400096",
+            "score": 0.00105
+        },
+        {
+            "name": "Legousia speculum-veneris (L.) Chaix",
+            "id": "1356770",
+            "score": 0.00102
+        },
+        {
+            "name": "Jasione montana L.",
+            "id": "1356766",
+            "score": 0.00101
+        },
+        {
+            "name": "Rhamphospermum pubescens (L.) Al-Shehbaz",
+            "id": "1743907",
+            "score": 0.00101
+        },
+        {
+            "name": "Barbarea bracteosa Guss.",
+            "id": "1400094",
+            "score": 0.00096
+        }
+    ]
+}

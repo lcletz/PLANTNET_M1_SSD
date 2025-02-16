@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tilia tomentosa Moench",
+            "id": "1396803",
+            "score": 0.88593
+        },
+        {
+            "name": "Tilia platyphyllos Scop.",
+            "id": "1396802",
+            "score": 0.05036
+        },
+        {
+            "name": "Tilia americana L.",
+            "id": "1397800",
+            "score": 0.02164
+        },
+        {
+            "name": "Tilia cordata Mill.",
+            "id": "1396797",
+            "score": 0.01143
+        },
+        {
+            "name": "Tilia × europaea L.",
+            "id": "1595800",
+            "score": 0.00876
+        },
+        {
+            "name": "Tilia dasystyla Steven",
+            "id": "1595796",
+            "score": 0.00178
+        },
+        {
+            "name": "Tilia henryana Szyszył.",
+            "id": "1595804",
+            "score": 0.00115
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Myrtus communis L.",
+            "id": "1359662",
+            "score": 0.82223
+        },
+        {
+            "name": "Buxus sempervirens L.",
+            "id": "1356729",
+            "score": 0.01408
+        },
+        {
+            "name": "Thymus serpyllum L.",
+            "id": "1362246",
+            "score": 0.00487
+        },
+        {
+            "name": "Buxus balearica Lam.",
+            "id": "1356728",
+            "score": 0.00472
+        },
+        {
+            "name": "Thymbra capitata (L.) Cav.",
+            "id": "1359029",
+            "score": 0.00411
+        },
+        {
+            "name": "Ligustrum ovalifolium Hassk.",
+            "id": "1393526",
+            "score": 0.00342
+        },
+        {
+            "name": "Phillyrea latifolia L.",
+            "id": "1359678",
+            "score": 0.00286
+        },
+        {
+            "name": "Spiraea hypericifolia L.",
+            "id": "1360367",
+            "score": 0.00214
+        },
+        {
+            "name": "Thymus × citriodorus (Pers.) Schreb.",
+            "id": "1564513",
+            "score": 0.00189
+        },
+        {
+            "name": "Rhododendron hirsutum L.",
+            "id": "1395190",
+            "score": 0.00147
+        },
+        {
+            "name": "Rhamnus saxatilis Jacq.",
+            "id": "1395158",
+            "score": 0.00124
+        },
+        {
+            "name": "Punica granatum L.",
+            "id": "1359616",
+            "score": 0.00123
+        },
+        {
+            "name": "Ligustrum vulgare L.",
+            "id": "1359675",
+            "score": 0.00116
+        },
+        {
+            "name": "Polygala myrtifolia L.",
+            "id": "1360101",
+            "score": 0.00113
+        }
+    ]
+}

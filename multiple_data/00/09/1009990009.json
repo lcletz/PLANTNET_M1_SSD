@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cardamine pratensis L.",
+            "id": "1358213",
+            "score": 0.89231
+        },
+        {
+            "name": "Arabidopsis arenosa (L.) Lawalrée",
+            "id": "1389345",
+            "score": 0.02584
+        },
+        {
+            "name": "Cardamine raphanifolia Pourr.",
+            "id": "1397338",
+            "score": 0.01553
+        },
+        {
+            "name": "Brassica barrelieri (L.) Janka",
+            "id": "1358194",
+            "score": 0.00232
+        },
+        {
+            "name": "Raphanus raphanistrum L.",
+            "id": "1363901",
+            "score": 0.00186
+        },
+        {
+            "name": "Brassica insularis Moris",
+            "id": "1358197",
+            "score": 0.00134
+        },
+        {
+            "name": "Cardamine amara L.",
+            "id": "1397336",
+            "score": 0.00122
+        }
+    ]
+}

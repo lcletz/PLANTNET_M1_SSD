@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cichorium endivia L.",
+            "id": "1364163",
+            "score": 0.54313
+        },
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.32491
+        },
+        {
+            "name": "Cichorium spinosum L.",
+            "id": "1357497",
+            "score": 0.01976
+        },
+        {
+            "name": "Cichorium pumilum Jacq.",
+            "id": "1357496",
+            "score": 0.01699
+        },
+        {
+            "name": "Picris hieracioides L.",
+            "id": "1364160",
+            "score": 0.00143
+        }
+    ]
+}

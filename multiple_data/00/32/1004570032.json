@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Symphoricarpos albus (L.) S.F.Blake",
+            "id": "1397506",
+            "score": 0.93852
+        },
+        {
+            "name": "Symphoricarpos mollis Nutt.",
+            "id": "1438785",
+            "score": 0.01713
+        },
+        {
+            "name": "Symphoricarpos rotundifolius A.Gray",
+            "id": "1815580",
+            "score": 0.00944
+        },
+        {
+            "name": "Symphoricarpos orbiculatus Moench",
+            "id": "1398555",
+            "score": 0.00404
+        },
+        {
+            "name": "Symphoricarpos occidentalis (R.Br.) Hook.",
+            "id": "1815378",
+            "score": 0.00356
+        }
+    ]
+}

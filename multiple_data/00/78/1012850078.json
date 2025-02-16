@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Populus × canescens (Aiton) Sm.",
+            "id": "1683819",
+            "score": 0.58698
+        },
+        {
+            "name": "Populus alba L.",
+            "id": "1364046",
+            "score": 0.04246
+        },
+        {
+            "name": "Styrax officinalis L.",
+            "id": "1396476",
+            "score": 0.00662
+        },
+        {
+            "name": "Populus tremula L.",
+            "id": "1360449",
+            "score": 0.00136
+        },
+        {
+            "name": "Aloysia gratissima (Gillies & Hook.) Tronc.",
+            "id": "1696032",
+            "score": 0.00121
+        },
+        {
+            "name": "Quercus vaseyana Buckley",
+            "id": "1437160",
+            "score": 0.00114
+        },
+        {
+            "name": "Solanum mitlense Dunal",
+            "id": "1691918",
+            "score": 0.00103
+        }
+    ]
+}

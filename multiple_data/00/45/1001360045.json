@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.94779
+        },
+        {
+            "name": "Acer cissifolium (Siebold & Zucc.) K.Koch",
+            "id": "1390599",
+            "score": 0.00376
+        },
+        {
+            "name": "Aralia nudicaulis L.",
+            "id": "1413002",
+            "score": 0.00166
+        },
+        {
+            "name": "Rubus fruticosus L.",
+            "id": "1395477",
+            "score": 0.0015
+        },
+        {
+            "name": "Rubus caesius L.",
+            "id": "1360354",
+            "score": 0.00135
+        },
+        {
+            "name": "Acer griseum (Franch.) Pax",
+            "id": "1390600",
+            "score": 0.00115
+        },
+        {
+            "name": "Toxicodendron radicans (L.) Kuntze",
+            "id": "1396819",
+            "score": 0.00102
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Zea mays L.",
+            "id": "1363500",
+            "score": 0.86924
+        },
+        {
+            "name": "Sorghum bicolor (L.) Moench",
+            "id": "1356240",
+            "score": 0.06337
+        },
+        {
+            "name": "Panicum miliaceum L.",
+            "id": "1363446",
+            "score": 0.01267
+        },
+        {
+            "name": "Sorghum halepense (L.) Pers.",
+            "id": "1363508",
+            "score": 0.005
+        },
+        {
+            "name": "Coix lacryma-jobi L.",
+            "id": "1363505",
+            "score": 0.00393
+        }
+    ]
+}

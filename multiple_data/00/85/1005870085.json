@@ -1,0 +1,95 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.54158
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.11322
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.10457
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.0407
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.03902
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.02454
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.01037
+        },
+        {
+            "name": "Prunus salicina Lindl.",
+            "id": "1420425",
+            "score": 0.00861
+        },
+        {
+            "name": "Prunus fruticosa Pall.",
+            "id": "1394939",
+            "score": 0.00342
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.00324
+        },
+        {
+            "name": "Prunus × gondouinii (Poit. & Turpin) Rehder",
+            "id": "1667954",
+            "score": 0.00312
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.00288
+        },
+        {
+            "name": "Pyrus spinosa Forssk.",
+            "id": "1395014",
+            "score": 0.00248
+        },
+        {
+            "name": "Prunus mume (Siebold) Siebold & Zucc.",
+            "id": "1420419",
+            "score": 0.00192
+        },
+        {
+            "name": "Prunus cocomilia Ten.",
+            "id": "1399013",
+            "score": 0.0015
+        },
+        {
+            "name": "Pyrus calleryana Decne.",
+            "id": "1395003",
+            "score": 0.00131
+        },
+        {
+            "name": "Prunus pensylvanica L.f.",
+            "id": "1420421",
+            "score": 0.00124
+        },
+        {
+            "name": "Prunus amygdalus Batsch",
+            "id": "1722605",
+            "score": 0.00109
+        }
+    ]
+}

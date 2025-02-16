@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iris pseudacorus L.",
+            "id": "1361543",
+            "score": 0.85022
+        },
+        {
+            "name": "Typha latifolia L.",
+            "id": "1363339",
+            "score": 0.05517
+        },
+        {
+            "name": "Acorus calamus L.",
+            "id": "1396585",
+            "score": 0.01785
+        },
+        {
+            "name": "Iris versicolor L.",
+            "id": "1393297",
+            "score": 0.00765
+        },
+        {
+            "name": "Iris sibirica L.",
+            "id": "1393304",
+            "score": 0.0074
+        },
+        {
+            "name": "Iris virginica L.",
+            "id": "1412339",
+            "score": 0.0043
+        },
+        {
+            "name": "Iris orientalis Mill.",
+            "id": "1388948",
+            "score": 0.00404
+        },
+        {
+            "name": "Typha angustifolia L.",
+            "id": "1361721",
+            "score": 0.00246
+        },
+        {
+            "name": "Sparganium erectum L.",
+            "id": "1361720",
+            "score": 0.00194
+        },
+        {
+            "name": "Iris × germanica L.",
+            "id": "1556750",
+            "score": 0.001
+        }
+    ]
+}

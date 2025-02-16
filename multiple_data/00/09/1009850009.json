@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lamium purpureum L.",
+            "id": "1358752",
+            "score": 0.48293
+        },
+        {
+            "name": "Lamium hybridum Vill.",
+            "id": "1358751",
+            "score": 0.4169
+        },
+        {
+            "name": "Lamium maculatum (L.) L.",
+            "id": "1393425",
+            "score": 0.0086
+        },
+        {
+            "name": "Lamium amplexicaule L.",
+            "id": "1356111",
+            "score": 0.00312
+        },
+        {
+            "name": "Lamium garganicum L.",
+            "id": "1358750",
+            "score": 0.00122
+        }
+    ]
+}

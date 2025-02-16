@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Papaver somniferum L.",
+            "id": "1363130",
+            "score": 0.76311
+        },
+        {
+            "name": "Papaver orientale L.",
+            "id": "1394404",
+            "score": 0.04635
+        },
+        {
+            "name": "Papaver setiferum Goldblatt",
+            "id": "1737543",
+            "score": 0.01888
+        },
+        {
+            "name": "Roemeria argemone (L.) C.Morales, R.Mend. & Romero García",
+            "id": "1737479",
+            "score": 0.00781
+        },
+        {
+            "name": "Leptospermum brevipes F.Muell.",
+            "id": "1605329",
+            "score": 0.00601
+        },
+        {
+            "name": "Papaver bracteatum Lindl.",
+            "id": "1398594",
+            "score": 0.00549
+        },
+        {
+            "name": "Papaver rhoeas L.",
+            "id": "1363128",
+            "score": 0.00499
+        },
+        {
+            "name": "Papaver croceum Ledeb.",
+            "id": "1394401",
+            "score": 0.00498
+        },
+        {
+            "name": "Roemeria sicula (Guss.) ined.",
+            "id": "1739196",
+            "score": 0.00187
+        },
+        {
+            "name": "Papaver dubium L.",
+            "id": "1363129",
+            "score": 0.00139
+        }
+    ]
+}

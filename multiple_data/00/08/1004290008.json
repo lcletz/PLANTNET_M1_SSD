@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ocimum kilimandscharicum Gürke",
+            "id": "1561124",
+            "score": 0.7317
+        },
+        {
+            "name": "Ocimum basilicum L.",
+            "id": "1361975",
+            "score": 0.18964
+        },
+        {
+            "name": "Ocimum americanum L.",
+            "id": "1419267",
+            "score": 0.00659
+        },
+        {
+            "name": "Ocimum tenuiflorum L.",
+            "id": "1377338",
+            "score": 0.00542
+        },
+        {
+            "name": "Mentha × piperita L.",
+            "id": "1560691",
+            "score": 0.00283
+        },
+        {
+            "name": "Mentha spicata L.",
+            "id": "1358788",
+            "score": 0.00263
+        },
+        {
+            "name": "Perilla frutescens (L.) Britton",
+            "id": "1398591",
+            "score": 0.00218
+        }
+    ]
+}

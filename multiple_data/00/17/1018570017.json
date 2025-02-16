@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Helminthotheca echioides (L.) Holub",
+            "id": "1357635",
+            "score": 0.77539
+        },
+        {
+            "name": "Crepis setosa Haller f.",
+            "id": "1361760",
+            "score": 0.00714
+        },
+        {
+            "name": "Crepis foetida L.",
+            "id": "1355870",
+            "score": 0.00585
+        },
+        {
+            "name": "Tuberaria guttata (L.) Fourr.",
+            "id": "1357176",
+            "score": 0.00182
+        },
+        {
+            "name": "Lotus angustissimus L.",
+            "id": "1359288",
+            "score": 0.00106
+        },
+        {
+            "name": "Picris hieracioides L.",
+            "id": "1364160",
+            "score": 0.00102
+        },
+        {
+            "name": "Rudbeckia hirta L.",
+            "id": "1395638",
+            "score": 0.00101
+        }
+    ]
+}

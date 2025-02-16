@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tagetes minuta L.",
+            "id": "1364158",
+            "score": 0.91084
+        },
+        {
+            "name": "Tagetes erecta L.",
+            "id": "1374048",
+            "score": 0.04184
+        },
+        {
+            "name": "Datisca cannabina L.",
+            "id": "1418624",
+            "score": 0.00224
+        },
+        {
+            "name": "Tagetes tenuifolia Cav.",
+            "id": "1389492",
+            "score": 0.00197
+        },
+        {
+            "name": "Cicuta virosa L.",
+            "id": "1391163",
+            "score": 0.00121
+        }
+    ]
+}

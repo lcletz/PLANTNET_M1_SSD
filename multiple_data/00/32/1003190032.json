@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cornus mas L.",
+            "id": "1391354",
+            "score": 0.6568
+        },
+        {
+            "name": "Cornus officinalis Siebold & Zucc.",
+            "id": "1418495",
+            "score": 0.21564
+        },
+        {
+            "name": "Lindera obtusiloba Blume",
+            "id": "1419305",
+            "score": 0.0034
+        },
+        {
+            "name": "Forestiera pubescens Nutt.",
+            "id": "1419617",
+            "score": 0.00216
+        },
+        {
+            "name": "Lindera benzoin (L.) Blume",
+            "id": "1412506",
+            "score": 0.00147
+        },
+        {
+            "name": "Chimonanthus praecox (L.) Link",
+            "id": "1418346",
+            "score": 0.00119
+        }
+    ]
+}

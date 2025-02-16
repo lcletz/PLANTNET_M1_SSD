@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Crataegus monogyna Jacq.",
+            "id": "1363988",
+            "score": 0.47298
+        },
+        {
+            "name": "Crataegus azarolus L.",
+            "id": "1360290",
+            "score": 0.27109
+        },
+        {
+            "name": "Crataegus laevigata (Poir.) DC.",
+            "id": "1360293",
+            "score": 0.12698
+        },
+        {
+            "name": "Crataegus rhipidophylla Gand.",
+            "id": "1363068",
+            "score": 0.08637
+        },
+        {
+            "name": "Crataegus laciniata Ucria",
+            "id": "1360292",
+            "score": 0.00284
+        },
+        {
+            "name": "Torminalis glaberrima (Gand.) Sennikov & Kurtto",
+            "id": "1737588",
+            "score": 0.00131
+        },
+        {
+            "name": "Rosa canina L.",
+            "id": "1360334",
+            "score": 0.00116
+        }
+    ]
+}

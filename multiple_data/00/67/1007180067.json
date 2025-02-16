@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ononis reclinata L.",
+            "id": "1363708",
+            "score": 0.79135
+        },
+        {
+            "name": "Ononis spinosa L.",
+            "id": "1359431",
+            "score": 0.08107
+        },
+        {
+            "name": "Ononis rotundifolia L.",
+            "id": "1394049",
+            "score": 0.03619
+        },
+        {
+            "name": "Ononis cristata Mill.",
+            "id": "1359392",
+            "score": 0.02296
+        },
+        {
+            "name": "Ononis mitissima L.",
+            "id": "1359411",
+            "score": 0.00288
+        },
+        {
+            "name": "Ononis striata Gouan",
+            "id": "1394050",
+            "score": 0.00173
+        },
+        {
+            "name": "Ononis arvensis L.",
+            "id": "1394046",
+            "score": 0.00156
+        },
+        {
+            "name": "Ononis fruticosa L.",
+            "id": "1359398",
+            "score": 0.00153
+        },
+        {
+            "name": "Ononis diffusa Ten.",
+            "id": "1359395",
+            "score": 0.00134
+        }
+    ]
+}

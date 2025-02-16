@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lamium galeobdolon (L.) L.",
+            "id": "1361823",
+            "score": 0.92109
+        },
+        {
+            "name": "Lamium maculatum (L.) L.",
+            "id": "1393425",
+            "score": 0.00266
+        },
+        {
+            "name": "Lamium album L.",
+            "id": "1393423",
+            "score": 0.00232
+        },
+        {
+            "name": "Lamium garganicum L.",
+            "id": "1358750",
+            "score": 0.0011
+        },
+        {
+            "name": "Lamium flexuosum Ten.",
+            "id": "1358749",
+            "score": 0.00102
+        }
+    ]
+}

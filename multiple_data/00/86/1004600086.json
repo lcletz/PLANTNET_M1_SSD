@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Centaurea paniculata L.",
+            "id": "1362429",
+            "score": 0.87934
+        },
+        {
+            "name": "Centaurea stoebe L.",
+            "id": "1391044",
+            "score": 0.01933
+        },
+        {
+            "name": "Centaurea hanryi Jord.",
+            "id": "1391007",
+            "score": 0.01391
+        },
+        {
+            "name": "Centaurea jacea L.",
+            "id": "1362427",
+            "score": 0.00647
+        },
+        {
+            "name": "Centaurea aplolepa Moretti",
+            "id": "1397843",
+            "score": 0.00342
+        },
+        {
+            "name": "Centaurea aspera L.",
+            "id": "1357401",
+            "score": 0.00341
+        },
+        {
+            "name": "Staehelina dubia L.",
+            "id": "1357911",
+            "score": 0.00222
+        },
+        {
+            "name": "Centaurea cineraria L.",
+            "id": "1362276",
+            "score": 0.00191
+        }
+    ]
+}

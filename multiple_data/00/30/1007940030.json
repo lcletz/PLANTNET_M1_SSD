@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Solanum lycopersicum L.",
+            "id": "1396325",
+            "score": 0.66093
+        },
+        {
+            "name": "Solanum pimpinellifolium L.",
+            "id": "1420742",
+            "score": 0.12676
+        },
+        {
+            "name": "Solanum rostratum Dunal",
+            "id": "1356169",
+            "score": 0.00323
+        },
+        {
+            "name": "Solanum dulcamara L.",
+            "id": "1360566",
+            "score": 0.00181
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ribes uva-crispa L.",
+            "id": "1358684",
+            "score": 0.94948
+        },
+        {
+            "name": "Ribes nigrum L.",
+            "id": "1395200",
+            "score": 0.00513
+        },
+        {
+            "name": "Ribes alpinum L.",
+            "id": "1358682",
+            "score": 0.00318
+        },
+        {
+            "name": "Ribes rubrum L.",
+            "id": "1397543",
+            "score": 0.00277
+        },
+        {
+            "name": "Ribes inerme Rydb.",
+            "id": "1413481",
+            "score": 0.00147
+        },
+        {
+            "name": "Ribes speciosum Pursh",
+            "id": "1395196",
+            "score": 0.00118
+        },
+        {
+            "name": "Ribes cereum Douglas",
+            "id": "1413473",
+            "score": 0.00116
+        }
+    ]
+}

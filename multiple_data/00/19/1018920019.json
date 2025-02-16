@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Geranium sanguineum L.",
+            "id": "1392597",
+            "score": 0.81954
+        },
+        {
+            "name": "Geranium palustre L.",
+            "id": "1392591",
+            "score": 0.08419
+        },
+        {
+            "name": "Geranium rivulare Vill.",
+            "id": "1392595",
+            "score": 0.00713
+        },
+        {
+            "name": "Geranium sylvaticum L.",
+            "id": "1392599",
+            "score": 0.00418
+        },
+        {
+            "name": "Geranium columbinum L.",
+            "id": "1358671",
+            "score": 0.0028
+        },
+        {
+            "name": "Geranium tuberosum L.",
+            "id": "1358681",
+            "score": 0.00234
+        },
+        {
+            "name": "Erodium foetidum (L.) L'Hér.",
+            "id": "1392078",
+            "score": 0.00164
+        },
+        {
+            "name": "Erodium carvifolium Boiss. & Reut.",
+            "id": "1550152",
+            "score": 0.00142
+        },
+        {
+            "name": "Geranium pratense L.",
+            "id": "1397394",
+            "score": 0.00103
+        }
+    ]
+}

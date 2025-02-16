@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.89345
+        },
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.00558
+        },
+        {
+            "name": "Quercus faginea Lam.",
+            "id": "1358614",
+            "score": 0.00367
+        },
+        {
+            "name": "Quercus virginiana Mill.",
+            "id": "1419081",
+            "score": 0.00265
+        },
+        {
+            "name": "Feijoa sellowiana (O.Berg) O.Berg",
+            "id": "1392255",
+            "score": 0.00117
+        },
+        {
+            "name": "Quercus pubescens Willd.",
+            "id": "1395026",
+            "score": 0.0011
+        }
+    ]
+}

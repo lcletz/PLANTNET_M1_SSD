@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ajuga reptans L.",
+            "id": "1358718",
+            "score": 0.85736
+        },
+        {
+            "name": "Ajuga genevensis L.",
+            "id": "1391853",
+            "score": 0.09074
+        },
+        {
+            "name": "Ajuga pyramidalis L.",
+            "id": "1389405",
+            "score": 0.02216
+        },
+        {
+            "name": "Ajuga × hybrida A.Kern.",
+            "id": "1558601",
+            "score": 0.00327
+        },
+        {
+            "name": "Glechoma hederacea L.",
+            "id": "1358746",
+            "score": 0.00105
+        }
+    ]
+}

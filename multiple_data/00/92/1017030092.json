@@ -1,0 +1,320 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.52655
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.18194
+        },
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.09247
+        },
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.05415
+        },
+        {
+            "name": "Ulmus pumila L.",
+            "id": "1390603",
+            "score": 0.01788
+        },
+        {
+            "name": "Celtis occidentalis L.",
+            "id": "1397796",
+            "score": 0.01222
+        },
+        {
+            "name": "Vachellia nilotica (L.) P.J.H.Hurter & Mabb.",
+            "id": "1410253",
+            "score": 0.00492
+        },
+        {
+            "name": "Populus × canadensis Moench",
+            "id": "1683817",
+            "score": 0.00462
+        },
+        {
+            "name": "Robinia pseudoacacia L.",
+            "id": "1363698",
+            "score": 0.00424
+        },
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.0041
+        },
+        {
+            "name": "Ulmus americana L.",
+            "id": "1390323",
+            "score": 0.00346
+        },
+        {
+            "name": "Maclura pomifera (Raf.) C.K.Schneid.",
+            "id": "1393715",
+            "score": 0.0034
+        },
+        {
+            "name": "Combretum imberbe Wawra",
+            "id": "1380963",
+            "score": 0.0034
+        },
+        {
+            "name": "Celtis australis L.",
+            "id": "1361742",
+            "score": 0.00337
+        },
+        {
+            "name": "Tilia × europaea L.",
+            "id": "1595800",
+            "score": 0.00311
+        },
+        {
+            "name": "Tipuana tipu (Benth.) Kuntze",
+            "id": "1389022",
+            "score": 0.0029
+        },
+        {
+            "name": "Vachellia farnesiana (L.) Wight & Arn.",
+            "id": "1409148",
+            "score": 0.00223
+        },
+        {
+            "name": "Pithecellobium dulce (Roxb.) Benth.",
+            "id": "1368555",
+            "score": 0.00218
+        },
+        {
+            "name": "Robinia viscosa Michx. ex Vent.",
+            "id": "1742844",
+            "score": 0.00211
+        },
+        {
+            "name": "Styphnolobium japonicum (L.) Schott",
+            "id": "1369068",
+            "score": 0.002
+        },
+        {
+            "name": "Celtis africana Burm.f.",
+            "id": "1424542",
+            "score": 0.00184
+        },
+        {
+            "name": "Ulmus laevis Pall.",
+            "id": "1396951",
+            "score": 0.00172
+        },
+        {
+            "name": "Celtis sinensis Pers.",
+            "id": "1418377",
+            "score": 0.0017
+        },
+        {
+            "name": "Fraxinus velutina Torr.",
+            "id": "1443766",
+            "score": 0.00167
+        },
+        {
+            "name": "Morus macroura Miq.",
+            "id": "1429529",
+            "score": 0.00156
+        },
+        {
+            "name": "Ulmus minor Mill.",
+            "id": "1360607",
+            "score": 0.00153
+        },
+        {
+            "name": "Erythrina crista-galli L.",
+            "id": "1366912",
+            "score": 0.00151
+        },
+        {
+            "name": "Populus deltoides W.Bartram ex Marshall",
+            "id": "1738800",
+            "score": 0.00149
+        },
+        {
+            "name": "Hovenia dulcis Thunb.",
+            "id": "1370770",
+            "score": 0.0013
+        },
+        {
+            "name": "Ulmus glabra Huds.",
+            "id": "1397552",
+            "score": 0.00107
+        },
+        {
+            "name": "Callianthe megapotamica (A.Spreng.) Dorr",
+            "id": "1735348",
+            "score": 0.00104
+        },
+        {
+            "name": "Triadica sebifera (L.) Small",
+            "id": "1376366",
+            "score": 0.00099
+        },
+        {
+            "name": "Pistacia atlantica Desf.",
+            "id": "1356565",
+            "score": 0.00098
+        },
+        {
+            "name": "Quercus robur L.",
+            "id": "1357413",
+            "score": 0.00093
+        },
+        {
+            "name": "Melia azedarach L.",
+            "id": "1363624",
+            "score": 0.00091
+        },
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.00081
+        },
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.00081
+        },
+        {
+            "name": "Pyrus spinosa Forssk.",
+            "id": "1395014",
+            "score": 0.00078
+        },
+        {
+            "name": "Vachellia karroo (Hayne) Banfi & Galasso",
+            "id": "1422615",
+            "score": 0.00076
+        },
+        {
+            "name": "Schinus terebinthifolia Raddi",
+            "id": "1396078",
+            "score": 0.00071
+        },
+        {
+            "name": "Ziziphus spina-christi (L.) Desf.",
+            "id": "1360273",
+            "score": 0.00069
+        },
+        {
+            "name": "Gleditsia triacanthos L.",
+            "id": "1363687",
+            "score": 0.00064
+        },
+        {
+            "name": "Juglans californica S.Watson",
+            "id": "1765805",
+            "score": 0.00063
+        },
+        {
+            "name": "Tamarix gallica L.",
+            "id": "1364090",
+            "score": 0.00063
+        },
+        {
+            "name": "Koelreuteria paniculata Laxm.",
+            "id": "1397985",
+            "score": 0.00058
+        },
+        {
+            "name": "Acer monspessulanum L.",
+            "id": "1356457",
+            "score": 0.00053
+        },
+        {
+            "name": "Prosopis glandulosa Torr.",
+            "id": "1436922",
+            "score": 0.00048
+        },
+        {
+            "name": "Populus simonii Carrière",
+            "id": "1394781",
+            "score": 0.00046
+        },
+        {
+            "name": "Salix babylonica L.",
+            "id": "1360452",
+            "score": 0.00046
+        },
+        {
+            "name": "Ulmus davidiana Planch.",
+            "id": "1420810",
+            "score": 0.00045
+        },
+        {
+            "name": "Vachellia caven (Molina) Seigler & Ebinger",
+            "id": "1422693",
+            "score": 0.00044
+        },
+        {
+            "name": "Tamarix canariensis Willd.",
+            "id": "1364089",
+            "score": 0.00044
+        },
+        {
+            "name": "Quercus lobata Née",
+            "id": "1437128",
+            "score": 0.00038
+        },
+        {
+            "name": "Tamarix aphylla (L.) H.Karst.",
+            "id": "1420762",
+            "score": 0.00036
+        },
+        {
+            "name": "Ziziphus mauritiana Lam.",
+            "id": "1363983",
+            "score": 0.00035
+        },
+        {
+            "name": "Prosopis affinis Spreng.",
+            "id": "1584549",
+            "score": 0.00034
+        },
+        {
+            "name": "Salix acmophylla Boiss.",
+            "id": "1425498",
+            "score": 0.00032
+        },
+        {
+            "name": "Ziziphus jujuba Mill.",
+            "id": "1360271",
+            "score": 0.00032
+        },
+        {
+            "name": "Quercus faginea Lam.",
+            "id": "1358614",
+            "score": 0.0003
+        },
+        {
+            "name": "Vachellia grandicornuta (Gerstner) Seigler & Ebinger",
+            "id": "1422614",
+            "score": 0.00029
+        },
+        {
+            "name": "Prosopis alba Griseb.",
+            "id": "1366898",
+            "score": 0.00028
+        },
+        {
+            "name": "Robinia hispida L.",
+            "id": "1395210",
+            "score": 0.00028
+        },
+        {
+            "name": "Grevillea robusta A.Cunn. ex R.Br.",
+            "id": "1394929",
+            "score": 0.00027
+        }
+    ]
+}

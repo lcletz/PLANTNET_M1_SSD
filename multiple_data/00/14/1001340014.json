@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Alnus glutinosa (L.) Gaertn.",
+            "id": "1356608",
+            "score": 0.85149
+        },
+        {
+            "name": "Alnus incana (L.) Moench",
+            "id": "1397308",
+            "score": 0.1076
+        },
+        {
+            "name": "Alnus cordata (Loisel.) Duby",
+            "id": "1397307",
+            "score": 0.01317
+        },
+        {
+            "name": "Alnus alnobetula (Ehrh.) K.Koch",
+            "id": "1392943",
+            "score": 0.00518
+        },
+        {
+            "name": "Alnus japonica (Thunb.) Steud.",
+            "id": "1398105",
+            "score": 0.00279
+        },
+        {
+            "name": "Alnus serrulata (Aiton) Willd.",
+            "id": "1411837",
+            "score": 0.00173
+        }
+    ]
+}

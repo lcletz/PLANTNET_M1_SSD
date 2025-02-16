@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Scolymus hispanicus L.",
+            "id": "1357848",
+            "score": 0.9135
+        },
+        {
+            "name": "Scolymus grandiflorus Desf.",
+            "id": "1357847",
+            "score": 0.02178
+        },
+        {
+            "name": "Scolymus maculatus L.",
+            "id": "1355950",
+            "score": 0.01651
+        },
+        {
+            "name": "Carthamus lanatus L.",
+            "id": "1357379",
+            "score": 0.00514
+        },
+        {
+            "name": "Carlina corymbosa L.",
+            "id": "1397344",
+            "score": 0.0019
+        }
+    ]
+}

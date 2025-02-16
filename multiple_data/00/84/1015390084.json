@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Morus kagayamae Koidz.",
+            "id": "1393861",
+            "score": 0.49772
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.05701
+        },
+        {
+            "name": "Acer pseudoplatanus L.",
+            "id": "1356460",
+            "score": 0.00513
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.00292
+        },
+        {
+            "name": "Acer platanoides L.",
+            "id": "1397301",
+            "score": 0.00093
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Potentilla indica (Andrews) Th.Wolf",
+            "id": "1721637",
+            "score": 0.36607
+        },
+        {
+            "name": "Potentilla sterilis (L.) Garcke",
+            "id": "1394877",
+            "score": 0.01102
+        },
+        {
+            "name": "Fragaria vesca L.",
+            "id": "1363991",
+            "score": 0.00457
+        },
+        {
+            "name": "Fragaria × ananassa (Duchesne ex Weston) Duchesne ex Rozier",
+            "id": "1667445",
+            "score": 0.0013
+        }
+    ]
+}

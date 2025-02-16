@@ -1,0 +1,310 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Nyssa sylvatica Marshall",
+            "id": "1412837",
+            "score": 0.3006
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.06976
+        },
+        {
+            "name": "Prunus serotina Ehrh.",
+            "id": "1370859",
+            "score": 0.05593
+        },
+        {
+            "name": "Aronia melanocarpa (Michx.) Elliott",
+            "id": "1398450",
+            "score": 0.04359
+        },
+        {
+            "name": "Vaccinium corymbosum L.",
+            "id": "1396966",
+            "score": 0.03282
+        },
+        {
+            "name": "Oxydendrum arboreum (L.) DC.",
+            "id": "1418732",
+            "score": 0.02694
+        },
+        {
+            "name": "Amelanchier canadensis (L.) Medik.",
+            "id": "1397734",
+            "score": 0.02515
+        },
+        {
+            "name": "Cotinus coggygria Scop.",
+            "id": "1391375",
+            "score": 0.02034
+        },
+        {
+            "name": "Amelanchier × lamarckii F.G.Schroed.",
+            "id": "1737557",
+            "score": 0.01502
+        },
+        {
+            "name": "Diospyros kaki L.f.",
+            "id": "1391735",
+            "score": 0.01191
+        },
+        {
+            "name": "Frangula alnus Mill.",
+            "id": "1360257",
+            "score": 0.01068
+        },
+        {
+            "name": "Euonymus alatus (Thunb.) Siebold",
+            "id": "1412016",
+            "score": 0.00989
+        },
+        {
+            "name": "Pistacia terebinthus L.",
+            "id": "1356567",
+            "score": 0.00884
+        },
+        {
+            "name": "Amelanchier ovalis Medik.",
+            "id": "1360275",
+            "score": 0.00773
+        },
+        {
+            "name": "Diospyros virginiana L.",
+            "id": "1389362",
+            "score": 0.00765
+        },
+        {
+            "name": "Aronia × prunifolia (Marshall) Rehder",
+            "id": "1666795",
+            "score": 0.00683
+        },
+        {
+            "name": "Fraxinus americana L.",
+            "id": "1397619",
+            "score": 0.00588
+        },
+        {
+            "name": "Fagus grandifolia Ehrh.",
+            "id": "1412056",
+            "score": 0.00531
+        },
+        {
+            "name": "Apocynum androsaemifolium L.",
+            "id": "1398229",
+            "score": 0.00484
+        },
+        {
+            "name": "Berchemia scandens (Hill) K.Koch",
+            "id": "1665509",
+            "score": 0.00479
+        },
+        {
+            "name": "Aronia arbutifolia (L.) Pers.",
+            "id": "1413527",
+            "score": 0.00467
+        },
+        {
+            "name": "Cotoneaster acutifolius Turcz.",
+            "id": "1411560",
+            "score": 0.00442
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.00405
+        },
+        {
+            "name": "Cotinus obovatus Raf.",
+            "id": "1419269",
+            "score": 0.00394
+        },
+        {
+            "name": "Lonicera japonica Thunb.",
+            "id": "1356786",
+            "score": 0.00387
+        },
+        {
+            "name": "Amelanchier alnifolia (Nutt.) Nutt. ex M.Roem.",
+            "id": "1420336",
+            "score": 0.0038
+        },
+        {
+            "name": "Populus glauca Haines",
+            "id": "1683830",
+            "score": 0.00366
+        },
+        {
+            "name": "Prunus pensylvanica L.f.",
+            "id": "1420421",
+            "score": 0.0033
+        },
+        {
+            "name": "Cornus sericea L.",
+            "id": "1397902",
+            "score": 0.0031
+        },
+        {
+            "name": "Gymnocladus dioicus (L.) K.Koch",
+            "id": "1745442",
+            "score": 0.0028
+        },
+        {
+            "name": "Euonymus europaeus L.",
+            "id": "1392236",
+            "score": 0.00277
+        },
+        {
+            "name": "Diervilla lonicera Mill.",
+            "id": "1411760",
+            "score": 0.00271
+        },
+        {
+            "name": "Euonymus latifolius (L.) Mill.",
+            "id": "1392238",
+            "score": 0.0025
+        },
+        {
+            "name": "Cotoneaster divaricatus Rehder & E.H.Wilson",
+            "id": "1391381",
+            "score": 0.00242
+        },
+        {
+            "name": "Toxicodendron vernix (L.) Kuntze",
+            "id": "1414056",
+            "score": 0.0023
+        },
+        {
+            "name": "Vaccinium angustifolium Aiton",
+            "id": "1414140",
+            "score": 0.00229
+        },
+        {
+            "name": "Nothofagus alpina (Poepp. & Endl.) Oerst.",
+            "id": "1419595",
+            "score": 0.00227
+        },
+        {
+            "name": "Ulmus alata Michx.",
+            "id": "1420807",
+            "score": 0.00225
+        },
+        {
+            "name": "Indigofera kirilowii Maxim. ex Palibin",
+            "id": "1418961",
+            "score": 0.00215
+        },
+        {
+            "name": "Lonicera caerulea L.",
+            "id": "1393631",
+            "score": 0.00213
+        },
+        {
+            "name": "Cotoneaster integerrimus Medik.",
+            "id": "1391411",
+            "score": 0.00208
+        },
+        {
+            "name": "Gaultheria shallon Pursh",
+            "id": "1392505",
+            "score": 0.00187
+        },
+        {
+            "name": "Celastrus scandens L.",
+            "id": "1390974",
+            "score": 0.00187
+        },
+        {
+            "name": "Castanea sativa Mill.",
+            "id": "1358610",
+            "score": 0.00177
+        },
+        {
+            "name": "Convallaria majalis L.",
+            "id": "1391336",
+            "score": 0.0017
+        },
+        {
+            "name": "Pinus jeffreyi Balf.",
+            "id": "1390030",
+            "score": 0.00168
+        },
+        {
+            "name": "Euonymus atropurpureus Jacq.",
+            "id": "1412017",
+            "score": 0.00153
+        },
+        {
+            "name": "Apocynum cannabinum L.",
+            "id": "1412793",
+            "score": 0.00144
+        },
+        {
+            "name": "Crataegus germanica (L.) Kuntze",
+            "id": "1391434",
+            "score": 0.00143
+        },
+        {
+            "name": "Lindera benzoin (L.) Blume",
+            "id": "1412506",
+            "score": 0.00135
+        },
+        {
+            "name": "Rhododendron periclymenoides (Michx.) Shinners",
+            "id": "1437263",
+            "score": 0.00135
+        },
+        {
+            "name": "Ligustrum vulgare L.",
+            "id": "1359675",
+            "score": 0.00132
+        },
+        {
+            "name": "Rhus copallinum L.",
+            "id": "1413464",
+            "score": 0.0013
+        },
+        {
+            "name": "Sassafras albidum (Nutt.) Nees",
+            "id": "1413669",
+            "score": 0.0013
+        },
+        {
+            "name": "Eucalyptus robusta Sm.",
+            "id": "1361806",
+            "score": 0.00123
+        },
+        {
+            "name": "Toxicodendron radicans (L.) Kuntze",
+            "id": "1396819",
+            "score": 0.00121
+        },
+        {
+            "name": "Vaccinium uliginosum L.",
+            "id": "1396970",
+            "score": 0.00112
+        },
+        {
+            "name": "Euonymus americanus L.",
+            "id": "1443549",
+            "score": 0.0011
+        },
+        {
+            "name": "Nyssa sinensis Oliv.",
+            "id": "1528133",
+            "score": 0.00108
+        },
+        {
+            "name": "Gaultheria procumbens L.",
+            "id": "1392504",
+            "score": 0.00106
+        },
+        {
+            "name": "Scilla madeirensis Menezes",
+            "id": "1390497",
+            "score": 0.00102
+        }
+    ]
+}

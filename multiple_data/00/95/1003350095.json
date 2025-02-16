@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.88171
+        },
+        {
+            "name": "Prunus maritima Marshall",
+            "id": "1420417",
+            "score": 0.01995
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.00594
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00362
+        },
+        {
+            "name": "Prunus rivularis Scheele",
+            "id": "1420424",
+            "score": 0.00251
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00174
+        },
+        {
+            "name": "Prunus angustifolia Marshall",
+            "id": "1420401",
+            "score": 0.00128
+        },
+        {
+            "name": "Linaria oligantha Lange",
+            "id": "1646256",
+            "score": 0.0011
+        }
+    ]
+}

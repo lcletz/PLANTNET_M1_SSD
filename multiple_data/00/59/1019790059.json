@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.55421
+        },
+        {
+            "name": "Quercus faginea Lam.",
+            "id": "1358614",
+            "score": 0.06964
+        },
+        {
+            "name": "Quercus rotundifolia Lam.",
+            "id": "1548459",
+            "score": 0.0543
+        },
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.01399
+        },
+        {
+            "name": "Quercus coccifera L.",
+            "id": "1358613",
+            "score": 0.00642
+        },
+        {
+            "name": "Quercus × auzendei Gren. & Godr.",
+            "id": "1743448",
+            "score": 0.00259
+        },
+        {
+            "name": "Quercus × hispanica Lam.",
+            "id": "1548289",
+            "score": 0.0016
+        }
+    ]
+}

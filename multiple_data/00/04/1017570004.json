@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bromus sterilis L.",
+            "id": "1414366",
+            "score": 0.42777
+        },
+        {
+            "name": "Bromus diandrus Roth",
+            "id": "1414353",
+            "score": 0.15736
+        },
+        {
+            "name": "Bromus tectorum L.",
+            "id": "1414367",
+            "score": 0.01304
+        },
+        {
+            "name": "Bromus racemosus L.",
+            "id": "1361203",
+            "score": 0.00713
+        },
+        {
+            "name": "Bromus madritensis L.",
+            "id": "1422217",
+            "score": 0.00389
+        },
+        {
+            "name": "Bromus ramosus Huds.",
+            "id": "1440300",
+            "score": 0.00285
+        },
+        {
+            "name": "Avena fatua L.",
+            "id": "1363468",
+            "score": 0.00227
+        },
+        {
+            "name": "Bromus rigidus Roth",
+            "id": "1422884",
+            "score": 0.00113
+        }
+    ]
+}

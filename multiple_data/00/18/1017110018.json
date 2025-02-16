@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pulmonaria officinalis L.",
+            "id": "1394988",
+            "score": 0.46372
+        },
+        {
+            "name": "Pulmonaria saccharata Mill.",
+            "id": "1394990",
+            "score": 0.32724
+        },
+        {
+            "name": "Pulmonaria affinis Jord.",
+            "id": "1394980",
+            "score": 0.07805
+        },
+        {
+            "name": "Pulmonaria obscura Dumort.",
+            "id": "1394987",
+            "score": 0.0104
+        },
+        {
+            "name": "Pulmonaria longifolia (Bastard) Boreau",
+            "id": "1394983",
+            "score": 0.00775
+        },
+        {
+            "name": "Pulmonaria helvetica Bolliger",
+            "id": "1397915",
+            "score": 0.00647
+        },
+        {
+            "name": "Pulmonaria angustifolia L.",
+            "id": "1394981",
+            "score": 0.00372
+        }
+    ]
+}

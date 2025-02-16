@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ranunculus ficaria L.",
+            "id": "1413421",
+            "score": 0.4219
+        },
+        {
+            "name": "Caltha palustris L.",
+            "id": "1397332",
+            "score": 0.00759
+        },
+        {
+            "name": "Ranunculus bullatus L.",
+            "id": "1360194",
+            "score": 0.00726
+        },
+        {
+            "name": "Ranunculus hederaceus L.",
+            "id": "1360205",
+            "score": 0.00281
+        },
+        {
+            "name": "Ranunculus montanus Willd.",
+            "id": "1362363",
+            "score": 0.00132
+        },
+        {
+            "name": "Gagea lutea (L.) Ker Gawl.",
+            "id": "1392402",
+            "score": 0.0012
+        }
+    ]
+}

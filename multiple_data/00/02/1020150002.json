@@ -1,0 +1,70 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Cyperus rotundus L.",
+            "id": "1361090",
+            "score": 0.88526
+        },
+        {
+            "name": "Cyperus esculentus L.",
+            "id": "1361087",
+            "score": 0.02989
+        },
+        {
+            "name": "Carex sylvatica Huds.",
+            "id": "1363283",
+            "score": 0.00971
+        },
+        {
+            "name": "Cyperus eragrostis Lam.",
+            "id": "1363293",
+            "score": 0.00962
+        },
+        {
+            "name": "Carex pendula Huds.",
+            "id": "1361075",
+            "score": 0.00358
+        },
+        {
+            "name": "Bolboschoenus maritimus (L.) Palla",
+            "id": "1362194",
+            "score": 0.00251
+        },
+        {
+            "name": "Scirpus sylvaticus L.",
+            "id": "1396099",
+            "score": 0.00182
+        },
+        {
+            "name": "Carex acutiformis Ehrh.",
+            "id": "1363281",
+            "score": 0.0015
+        },
+        {
+            "name": "Cyperus longus L.",
+            "id": "1356294",
+            "score": 0.00131
+        },
+        {
+            "name": "Carex arenaria L.",
+            "id": "1390761",
+            "score": 0.00131
+        },
+        {
+            "name": "Ornithogalum divergens Boreau",
+            "id": "1394319",
+            "score": 0.00126
+        },
+        {
+            "name": "Anthericum liliago L.",
+            "id": "1360998",
+            "score": 0.00118
+        },
+        {
+            "name": "Eleusine indica (L.) Gaertn.",
+            "id": "1361245",
+            "score": 0.00105
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Asplenium adiantum-nigrum L.",
+            "id": "1356341",
+            "score": 0.8171
+        },
+        {
+            "name": "Asplenium marinum L.",
+            "id": "1356350",
+            "score": 0.03688
+        },
+        {
+            "name": "Asplenium ruta-muraria L.",
+            "id": "1356355",
+            "score": 0.02857
+        },
+        {
+            "name": "Asplenium obovatum Viv.",
+            "id": "1356352",
+            "score": 0.0183
+        },
+        {
+            "name": "Asplenium onopteris L.",
+            "id": "1356353",
+            "score": 0.00582
+        },
+        {
+            "name": "Asplenium balearicum Shivas",
+            "id": "1397495",
+            "score": 0.00468
+        },
+        {
+            "name": "Cystopteris fragilis (L.) Bernh.",
+            "id": "1356367",
+            "score": 0.00404
+        },
+        {
+            "name": "Dryopteris cristata (L.) A.Gray",
+            "id": "1391807",
+            "score": 0.00242
+        },
+        {
+            "name": "Polypodium cambricum L.",
+            "id": "1356431",
+            "score": 0.00126
+        }
+    ]
+}

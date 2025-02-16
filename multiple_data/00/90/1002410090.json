@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.62423
+        },
+        {
+            "name": "Cichorium endivia L.",
+            "id": "1364163",
+            "score": 0.19718
+        },
+        {
+            "name": "Cichorium pumilum Jacq.",
+            "id": "1357496",
+            "score": 0.08614
+        },
+        {
+            "name": "Cichorium spinosum L.",
+            "id": "1357497",
+            "score": 0.01467
+        },
+        {
+            "name": "Lactuca perennis L.",
+            "id": "1397420",
+            "score": 0.0044
+        },
+        {
+            "name": "Lactuca inermis Forssk.",
+            "id": "1374066",
+            "score": 0.0015
+        },
+        {
+            "name": "Lactuca tenerrima Pourr.",
+            "id": "1357682",
+            "score": 0.00145
+        },
+        {
+            "name": "Stephanomeria diegensis Gottlieb",
+            "id": "1438657",
+            "score": 0.00108
+        }
+    ]
+}

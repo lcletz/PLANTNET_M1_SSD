@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ligustrum sinense Lour.",
+            "id": "1390584",
+            "score": 0.91534
+        },
+        {
+            "name": "Ligustrum ovalifolium Hassk.",
+            "id": "1393526",
+            "score": 0.02914
+        },
+        {
+            "name": "Ligustrum vulgare L.",
+            "id": "1359675",
+            "score": 0.01146
+        },
+        {
+            "name": "Ligustrum obtusifolium Siebold & Zucc.",
+            "id": "1419628",
+            "score": 0.00208
+        },
+        {
+            "name": "Ligustrum quihoui Carrière",
+            "id": "1419629",
+            "score": 0.00205
+        }
+    ]
+}

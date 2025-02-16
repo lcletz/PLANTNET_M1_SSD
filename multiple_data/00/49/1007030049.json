@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ajuga genevensis L.",
+            "id": "1391853",
+            "score": 0.67364
+        },
+        {
+            "name": "Ajuga reptans L.",
+            "id": "1358718",
+            "score": 0.15374
+        },
+        {
+            "name": "Ajuga pyramidalis L.",
+            "id": "1389405",
+            "score": 0.03366
+        },
+        {
+            "name": "Ajuga orientalis L.",
+            "id": "1399061",
+            "score": 0.00356
+        },
+        {
+            "name": "Salvia hispanica L.",
+            "id": "1419283",
+            "score": 0.00115
+        }
+    ]
+}

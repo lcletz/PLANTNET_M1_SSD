@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Oxalis acetosella L.",
+            "id": "1359750",
+            "score": 0.94199
+        },
+        {
+            "name": "Oxalis incarnata L.",
+            "id": "1394362",
+            "score": 0.01415
+        },
+        {
+            "name": "Oxalis montana Raf.",
+            "id": "1412891",
+            "score": 0.00338
+        },
+        {
+            "name": "Trifolium subterraneum L.",
+            "id": "1359528",
+            "score": 0.00199
+        },
+        {
+            "name": "Oxalis oregana Nutt.",
+            "id": "1412892",
+            "score": 0.00129
+        },
+        {
+            "name": "Oxalis stricta L.",
+            "id": "1362135",
+            "score": 0.00102
+        }
+    ]
+}

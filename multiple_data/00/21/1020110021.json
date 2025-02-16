@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.41274
+        },
+        {
+            "name": "Fraxinus ornus L.",
+            "id": "1362963",
+            "score": 0.20967
+        },
+        {
+            "name": "Fraxinus pennsylvanica Marshall",
+            "id": "1392363",
+            "score": 0.08059
+        },
+        {
+            "name": "Fraxinus angustifolia Vahl",
+            "id": "1362009",
+            "score": 0.0741
+        },
+        {
+            "name": "Fraxinus americana L.",
+            "id": "1397619",
+            "score": 0.00658
+        },
+        {
+            "name": "Juglans regia L.",
+            "id": "1358713",
+            "score": 0.00355
+        },
+        {
+            "name": "Podranea ricasoliana (Tanfani) Sprague",
+            "id": "1388692",
+            "score": 0.00345
+        },
+        {
+            "name": "Pterocarya fraxinifolia (Poir.) Spach",
+            "id": "1394969",
+            "score": 0.00185
+        }
+    ]
+}

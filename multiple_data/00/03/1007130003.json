@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Atropa bella-donna L.",
+            "id": "1360548",
+            "score": 0.7869
+        },
+        {
+            "name": "Lonicera alpigena L.",
+            "id": "1393630",
+            "score": 0.01267
+        },
+        {
+            "name": "Nicotiana tabacum L.",
+            "id": "1356159",
+            "score": 0.00536
+        },
+        {
+            "name": "Alkekengi officinarum Moench",
+            "id": "1738735",
+            "score": 0.00491
+        },
+        {
+            "name": "Solanum bonariense L.",
+            "id": "1360565",
+            "score": 0.00399
+        },
+        {
+            "name": "Leycesteria formosa Wall.",
+            "id": "1393519",
+            "score": 0.00374
+        },
+        {
+            "name": "Mirabilis jalapa L.",
+            "id": "1362100",
+            "score": 0.00232
+        },
+        {
+            "name": "Nicandra physalodes (L.) Gaertn.",
+            "id": "1356144",
+            "score": 0.00146
+        },
+        {
+            "name": "Phytolacca americana L.",
+            "id": "1356062",
+            "score": 0.00119
+        }
+    ]
+}

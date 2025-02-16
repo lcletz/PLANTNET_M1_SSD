@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Circaea lutetiana L.",
+            "id": "1359680",
+            "score": 0.78675
+        },
+        {
+            "name": "Circaea × intermedia Ehrh.",
+            "id": "1609596",
+            "score": 0.01254
+        },
+        {
+            "name": "Circaea alpina L.",
+            "id": "1397350",
+            "score": 0.00772
+        },
+        {
+            "name": "Circaea canadensis (L.) Hill",
+            "id": "1747265",
+            "score": 0.00453
+        },
+        {
+            "name": "Circaea mollis Siebold & Zucc.",
+            "id": "1609598",
+            "score": 0.00285
+        },
+        {
+            "name": "Verbena urticifolia L.",
+            "id": "1398544",
+            "score": 0.00258
+        },
+        {
+            "name": "Veronica urticifolia Jacq.",
+            "id": "1397077",
+            "score": 0.00126
+        }
+    ]
+}

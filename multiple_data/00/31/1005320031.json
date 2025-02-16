@@ -1,0 +1,300 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hesperocyparis arizonica (Greene) Bartel",
+            "id": "1432840",
+            "score": 0.51325
+        },
+        {
+            "name": "Pinus mugo Turra",
+            "id": "1394608",
+            "score": 0.0726
+        },
+        {
+            "name": "Pseudotsuga menziesii (Mirb.) Franco",
+            "id": "1394967",
+            "score": 0.04834
+        },
+        {
+            "name": "Pinus banksiana Lamb.",
+            "id": "1398328",
+            "score": 0.03594
+        },
+        {
+            "name": "Pinus sylvestris L.",
+            "id": "1394617",
+            "score": 0.03315
+        },
+        {
+            "name": "Cupressus sempervirens L.",
+            "id": "1391488",
+            "score": 0.02445
+        },
+        {
+            "name": "Sequoiadendron giganteum (Lindl.) J.Buchholz",
+            "id": "1396214",
+            "score": 0.02202
+        },
+        {
+            "name": "Pinus pinaster Aiton",
+            "id": "1394611",
+            "score": 0.02022
+        },
+        {
+            "name": "Picea abies (L.) H.Karst.",
+            "id": "1397459",
+            "score": 0.01907
+        },
+        {
+            "name": "Pinus halepensis Mill.",
+            "id": "1397460",
+            "score": 0.01339
+        },
+        {
+            "name": "Cedrus libani A.Rich.",
+            "id": "1390973",
+            "score": 0.0123
+        },
+        {
+            "name": "Pinus nigra J.F.Arnold",
+            "id": "1419915",
+            "score": 0.01226
+        },
+        {
+            "name": "Pinus contorta Douglas ex Loudon",
+            "id": "1413085",
+            "score": 0.01219
+        },
+        {
+            "name": "Pinus pinea L.",
+            "id": "1394612",
+            "score": 0.00841
+        },
+        {
+            "name": "Larix decidua Mill.",
+            "id": "1397422",
+            "score": 0.00718
+        },
+        {
+            "name": "Pinus resinosa Aiton",
+            "id": "1390041",
+            "score": 0.00716
+        },
+        {
+            "name": "Pinus aristata Engelm.",
+            "id": "1390013",
+            "score": 0.00664
+        },
+        {
+            "name": "Picea laxa (Münchh.) Sarg.",
+            "id": "1737434",
+            "score": 0.00663
+        },
+        {
+            "name": "Juniperus communis L.",
+            "id": "1393364",
+            "score": 0.00649
+        },
+        {
+            "name": "Hesperocyparis lusitanica (Mill.) Bartel",
+            "id": "1738619",
+            "score": 0.00598
+        },
+        {
+            "name": "Pinus cembra L.",
+            "id": "1394605",
+            "score": 0.00572
+        },
+        {
+            "name": "Platycladus orientalis (L.) Franco",
+            "id": "1394647",
+            "score": 0.00555
+        },
+        {
+            "name": "Cedrus atlantica (Endl.) Manetti ex Carrière",
+            "id": "1419901",
+            "score": 0.00549
+        },
+        {
+            "name": "Picea pungens Engelm.",
+            "id": "1394563",
+            "score": 0.00539
+        },
+        {
+            "name": "Juniperus oxycedrus L.",
+            "id": "1393365",
+            "score": 0.00508
+        },
+        {
+            "name": "Taxus baccata L.",
+            "id": "1396710",
+            "score": 0.00507
+        },
+        {
+            "name": "Juniperus virginiana L.",
+            "id": "1393370",
+            "score": 0.00501
+        },
+        {
+            "name": "Cryptomeria japonica (Thunb. ex L.f.) D.Don",
+            "id": "1418585",
+            "score": 0.00419
+        },
+        {
+            "name": "Hesperocyparis bakeri (Jeps.) Bartel",
+            "id": "1432841",
+            "score": 0.00417
+        },
+        {
+            "name": "Araucaria araucana (Molina) K.Koch",
+            "id": "1395924",
+            "score": 0.00413
+        },
+        {
+            "name": "Pinus radiata D.Don",
+            "id": "1394613",
+            "score": 0.00397
+        },
+        {
+            "name": "Picea sitchensis (Bong.) Carrière",
+            "id": "1394564",
+            "score": 0.00376
+        },
+        {
+            "name": "Abies concolor (Gordon & Glend.) Lindl. ex Hildebr.",
+            "id": "1396925",
+            "score": 0.00359
+        },
+        {
+            "name": "Taxus cuspidata Siebold & Zucc.",
+            "id": "1390008",
+            "score": 0.00358
+        },
+        {
+            "name": "Casuarina cunninghamiana Miq.",
+            "id": "1361847",
+            "score": 0.0034
+        },
+        {
+            "name": "Juniperus phoenicea L.",
+            "id": "1393366",
+            "score": 0.0032
+        },
+        {
+            "name": "Picea omorika (Pancic) Purk.",
+            "id": "1394561",
+            "score": 0.00305
+        },
+        {
+            "name": "Cedrus deodara (Roxb. ex D.Don) G.Don",
+            "id": "1390972",
+            "score": 0.00278
+        },
+        {
+            "name": "Cunninghamia lanceolata (Lamb.) Hook.",
+            "id": "1388922",
+            "score": 0.0025
+        },
+        {
+            "name": "Grevillea robusta A.Cunn. ex R.Br.",
+            "id": "1394929",
+            "score": 0.00248
+        },
+        {
+            "name": "Araucaria bidwillii Hook.",
+            "id": "1389996",
+            "score": 0.00221
+        },
+        {
+            "name": "Araucaria angustifolia (Bertol.) Kuntze",
+            "id": "1388818",
+            "score": 0.00221
+        },
+        {
+            "name": "Abies pinsapo Boiss.",
+            "id": "1393800",
+            "score": 0.00215
+        },
+        {
+            "name": "Pinus rigida Mill.",
+            "id": "1398532",
+            "score": 0.00205
+        },
+        {
+            "name": "Pinus wallichiana A.B.Jacks.",
+            "id": "1394618",
+            "score": 0.00194
+        },
+        {
+            "name": "Picea rubens Sarg.",
+            "id": "1388958",
+            "score": 0.00189
+        },
+        {
+            "name": "Sciadopitys verticillata (Thunb.) Siebold & Zucc.",
+            "id": "1398358",
+            "score": 0.00169
+        },
+        {
+            "name": "Viscum album L.",
+            "id": "1361900",
+            "score": 0.00165
+        },
+        {
+            "name": "Taxodium distichum (L.) Rich.",
+            "id": "1396709",
+            "score": 0.00165
+        },
+        {
+            "name": "Pinus longaeva D.K.Bailey",
+            "id": "1419913",
+            "score": 0.00153
+        },
+        {
+            "name": "Thuja occidentalis L.",
+            "id": "1396760",
+            "score": 0.00149
+        },
+        {
+            "name": "Hesperocyparis macrocarpa (Hartw.) Bartel",
+            "id": "1432847",
+            "score": 0.00144
+        },
+        {
+            "name": "Chamaecyparis lawsoniana (A.Murray bis) Parl.",
+            "id": "1418584",
+            "score": 0.00143
+        },
+        {
+            "name": "Juniperus horizontalis Moench",
+            "id": "1388819",
+            "score": 0.00139
+        },
+        {
+            "name": "Pinus sibirica Du Tour",
+            "id": "1390045",
+            "score": 0.00129
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.00118
+        },
+        {
+            "name": "Calocedrus decurrens (Torr.) Florin",
+            "id": "1390644",
+            "score": 0.00115
+        },
+        {
+            "name": "Pinus strobus L.",
+            "id": "1394616",
+            "score": 0.00105
+        },
+        {
+            "name": "Araucaria heterophylla (Salisb.) Franco",
+            "id": "1409177",
+            "score": 0.00102
+        }
+    ]
+}

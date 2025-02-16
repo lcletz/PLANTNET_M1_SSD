@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Orchis mascula (L.) L.",
+            "id": "1361682",
+            "score": 0.86583
+        },
+        {
+            "name": "Orchis olbiensis Reut. ex Gren.",
+            "id": "1361683",
+            "score": 0.00348
+        },
+        {
+            "name": "Anacamptis morio (L.) R.M.Bateman, Pridgeon & M.W.Chase",
+            "id": "1393877",
+            "score": 0.00285
+        },
+        {
+            "name": "Dactylorhiza maculata (L.) Soó",
+            "id": "1362443",
+            "score": 0.00254
+        },
+        {
+            "name": "Orchis provincialis Balb. ex Lam. & DC.",
+            "id": "1628961",
+            "score": 0.0021
+        },
+        {
+            "name": "Dactylorhiza majalis (Rchb.) P.F.Hunt & Summerh.",
+            "id": "1391596",
+            "score": 0.00162
+        }
+    ]
+}

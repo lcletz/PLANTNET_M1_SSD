@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Taxus baccata L.",
+            "id": "1396710",
+            "score": 0.79065
+        },
+        {
+            "name": "Taxus brevifolia Nutt.",
+            "id": "1388847",
+            "score": 0.0601
+        },
+        {
+            "name": "Taxus canadensis Marshall",
+            "id": "1390006",
+            "score": 0.0544
+        },
+        {
+            "name": "Taxus cuspidata Siebold & Zucc.",
+            "id": "1390008",
+            "score": 0.01275
+        },
+        {
+            "name": "Taxus wallichiana Zucc.",
+            "id": "1701977",
+            "score": 0.00319
+        },
+        {
+            "name": "Austrotaxus spicata Compton",
+            "id": "1417198",
+            "score": 0.00107
+        }
+    ]
+}

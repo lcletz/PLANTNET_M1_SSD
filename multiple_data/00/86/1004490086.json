@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Kalmia latifolia L.",
+            "id": "1398517",
+            "score": 0.87737
+        },
+        {
+            "name": "Kalmia angustifolia L.",
+            "id": "1398516",
+            "score": 0.01763
+        },
+        {
+            "name": "Kalmia polifolia Wangenh.",
+            "id": "1412398",
+            "score": 0.00563
+        },
+        {
+            "name": "Rhododendron hirsutum L.",
+            "id": "1395190",
+            "score": 0.00239
+        },
+        {
+            "name": "Rhododendron × detonsum Balf.f. & Forrest",
+            "id": "1774341",
+            "score": 0.00138
+        }
+    ]
+}

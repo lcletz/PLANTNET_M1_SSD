@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Epilobium parviflorum Schreb.",
+            "id": "1359686",
+            "score": 0.70717
+        },
+        {
+            "name": "Epilobium tetragonum L.",
+            "id": "1359688",
+            "score": 0.01733
+        },
+        {
+            "name": "Epilobium hirsutum L.",
+            "id": "1361947",
+            "score": 0.01066
+        },
+        {
+            "name": "Epilobium palustre L.",
+            "id": "1359685",
+            "score": 0.00428
+        },
+        {
+            "name": "Epilobium montanum L.",
+            "id": "1391922",
+            "score": 0.00344
+        },
+        {
+            "name": "Epilobium lanceolatum Sebast. & Mauri",
+            "id": "1359683",
+            "score": 0.0023
+        }
+    ]
+}

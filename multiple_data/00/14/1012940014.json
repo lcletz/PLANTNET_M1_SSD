@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Orchis mascula (L.) L.",
+            "id": "1361682",
+            "score": 0.8542
+        },
+        {
+            "name": "Orchis olbiensis Reut. ex Gren.",
+            "id": "1361683",
+            "score": 0.0309
+        },
+        {
+            "name": "Gymnadenia conopsea (L.) R.Br.",
+            "id": "1392661",
+            "score": 0.0187
+        },
+        {
+            "name": "Anacamptis laxiflora (Lam.) R.M.Bateman, Pridgeon & M.W.Chase",
+            "id": "1393873",
+            "score": 0.00255
+        },
+        {
+            "name": "Orchis militaris L.",
+            "id": "1394279",
+            "score": 0.00237
+        },
+        {
+            "name": "Dactylorhiza maculata (L.) Soó",
+            "id": "1362443",
+            "score": 0.00177
+        },
+        {
+            "name": "Anacamptis morio (L.) R.M.Bateman, Pridgeon & M.W.Chase",
+            "id": "1393877",
+            "score": 0.00171
+        },
+        {
+            "name": "Anacamptis palustris (Jacq.) R.M.Bateman, Pridgeon & M.W.Chase",
+            "id": "1393879",
+            "score": 0.00119
+        }
+    ]
+}

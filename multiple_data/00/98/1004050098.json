@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lygeum spartum L.",
+            "id": "1361324",
+            "score": 0.69442
+        },
+        {
+            "name": "Avena fatua L.",
+            "id": "1363468",
+            "score": 0.00764
+        },
+        {
+            "name": "Avena sterilis L.",
+            "id": "1361190",
+            "score": 0.00686
+        },
+        {
+            "name": "Lagurus ovatus L.",
+            "id": "1363433",
+            "score": 0.00324
+        },
+        {
+            "name": "Melica ciliata L.",
+            "id": "1361329",
+            "score": 0.00201
+        },
+        {
+            "name": "Avena barbata Pott ex Link",
+            "id": "1363467",
+            "score": 0.00126
+        }
+    ]
+}

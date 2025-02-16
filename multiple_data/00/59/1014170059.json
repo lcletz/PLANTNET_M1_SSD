@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium alpestre L.",
+            "id": "1396842",
+            "score": 0.94939
+        },
+        {
+            "name": "Trifolium rubens L.",
+            "id": "1361850",
+            "score": 0.0069
+        },
+        {
+            "name": "Trifolium medium L.",
+            "id": "1397514",
+            "score": 0.00585
+        },
+        {
+            "name": "Anthyllis montana L.",
+            "id": "1359086",
+            "score": 0.00368
+        },
+        {
+            "name": "Trifolium purpureum Loisel.",
+            "id": "1359518",
+            "score": 0.00204
+        },
+        {
+            "name": "Trifolium pratense L.",
+            "id": "1359517",
+            "score": 0.00172
+        }
+    ]
+}

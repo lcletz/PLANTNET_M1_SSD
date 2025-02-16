@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rumex acetosella L.",
+            "id": "1356082",
+            "score": 0.90935
+        },
+        {
+            "name": "Rumex bucephalophorus L.",
+            "id": "1360127",
+            "score": 0.01255
+        },
+        {
+            "name": "Rumex roseus L.",
+            "id": "1356083",
+            "score": 0.00388
+        },
+        {
+            "name": "Rumex acetosa L.",
+            "id": "1360120",
+            "score": 0.00169
+        },
+        {
+            "name": "Papaver rhoeas L.",
+            "id": "1363128",
+            "score": 0.00142
+        },
+        {
+            "name": "Erigeron karvinskianus DC.",
+            "id": "1355907",
+            "score": 0.00131
+        },
+        {
+            "name": "Silene nutans L.",
+            "id": "1357026",
+            "score": 0.00114
+        },
+        {
+            "name": "Tripolium pannonicum (Jacq.) Dobrocz.",
+            "id": "1362648",
+            "score": 0.00103
+        }
+    ]
+}

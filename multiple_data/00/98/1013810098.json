@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Nigella sativa L.",
+            "id": "1363976",
+            "score": 0.37186
+        },
+        {
+            "name": "Nigella damascena L.",
+            "id": "1360185",
+            "score": 0.34195
+        },
+        {
+            "name": "Nigella arvensis L.",
+            "id": "1360184",
+            "score": 0.07311
+        },
+        {
+            "name": "Nigella hispanica L.",
+            "id": "1393957",
+            "score": 0.00756
+        },
+        {
+            "name": "Nigella nigellastrum (L.) Willk.",
+            "id": "1393958",
+            "score": 0.00265
+        },
+        {
+            "name": "Stachys circinata L'Hér.",
+            "id": "1358935",
+            "score": 0.00168
+        }
+    ]
+}

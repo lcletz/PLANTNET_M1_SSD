@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Papaver orientale L.",
+            "id": "1394404",
+            "score": 0.92281
+        },
+        {
+            "name": "Papaver rhoeas L.",
+            "id": "1363128",
+            "score": 0.01354
+        },
+        {
+            "name": "Roemeria argemone (L.) C.Morales, R.Mend. & Romero García",
+            "id": "1737479",
+            "score": 0.00519
+        },
+        {
+            "name": "Papaver bracteatum Lindl.",
+            "id": "1398594",
+            "score": 0.00508
+        },
+        {
+            "name": "Achillea filipendulina Lam.",
+            "id": "1392622",
+            "score": 0.00192
+        },
+        {
+            "name": "Eschscholzia californica Cham.",
+            "id": "1363125",
+            "score": 0.00181
+        },
+        {
+            "name": "Papaver setiferum Goldblatt",
+            "id": "1737543",
+            "score": 0.00108
+        }
+    ]
+}

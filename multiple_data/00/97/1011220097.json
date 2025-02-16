@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cornus mas L.",
+            "id": "1391354",
+            "score": 0.95206
+        },
+        {
+            "name": "Cornus florida L.",
+            "id": "1397618",
+            "score": 0.00907
+        },
+        {
+            "name": "Cornus officinalis Siebold & Zucc.",
+            "id": "1418495",
+            "score": 0.00833
+        },
+        {
+            "name": "Cornus sanguinea L.",
+            "id": "1397356",
+            "score": 0.00511
+        },
+        {
+            "name": "Cornus kousa Bürger ex Hance",
+            "id": "1720853",
+            "score": 0.00183
+        }
+    ]
+}

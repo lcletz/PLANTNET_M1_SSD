@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Satureja montana L.",
+            "id": "1361829",
+            "score": 0.55359
+        },
+        {
+            "name": "Satureja hortensis L.",
+            "id": "1395936",
+            "score": 0.40148
+        },
+        {
+            "name": "Satureja spicigera (K.Koch) Boiss.",
+            "id": "1563249",
+            "score": 0.00475
+        },
+        {
+            "name": "Saponaria ocymoides L.",
+            "id": "1361747",
+            "score": 0.00462
+        },
+        {
+            "name": "Satureja cuneifolia Ten.",
+            "id": "1399392",
+            "score": 0.00259
+        },
+        {
+            "name": "Satureja intricata Lange",
+            "id": "1398783",
+            "score": 0.00244
+        },
+        {
+            "name": "Thymus vulgaris L.",
+            "id": "1356108",
+            "score": 0.00141
+        }
+    ]
+}

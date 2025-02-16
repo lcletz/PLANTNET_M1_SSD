@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Malus domestica Borkh.",
+            "id": "1393737",
+            "score": 0.25094
+        },
+        {
+            "name": "Malus sylvestris (L.) Mill.",
+            "id": "1420379",
+            "score": 0.18059
+        },
+        {
+            "name": "Malus pumila Mill.",
+            "id": "1362849",
+            "score": 0.1605
+        },
+        {
+            "name": "Cydonia oblonga Mill.",
+            "id": "1363999",
+            "score": 0.00344
+        },
+        {
+            "name": "Malus spectabilis (Aiton) Borkh.",
+            "id": "1393734",
+            "score": 0.00276
+        },
+        {
+            "name": "Malus halliana Koehne",
+            "id": "1420373",
+            "score": 0.00164
+        },
+        {
+            "name": "Sorbus domestica L.",
+            "id": "1360365",
+            "score": 0.00139
+        }
+    ]
+}

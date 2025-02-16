@@ -1,0 +1,70 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Iris lutescens Lam.",
+            "id": "1362462",
+            "score": 0.36016
+        },
+        {
+            "name": "Iris × germanica L.",
+            "id": "1556750",
+            "score": 0.31762
+        },
+        {
+            "name": "Iris pallida Lam.",
+            "id": "1361541",
+            "score": 0.03513
+        },
+        {
+            "name": "Iris pseudacorus L.",
+            "id": "1361543",
+            "score": 0.01531
+        },
+        {
+            "name": "Iris florentina L.",
+            "id": "1722421",
+            "score": 0.00996
+        },
+        {
+            "name": "Iris aphylla L.",
+            "id": "1393299",
+            "score": 0.00803
+        },
+        {
+            "name": "Iris foetidissima L.",
+            "id": "1361540",
+            "score": 0.00598
+        },
+        {
+            "name": "Pancratium maritimum L.",
+            "id": "1360978",
+            "score": 0.00332
+        },
+        {
+            "name": "Typha latifolia L.",
+            "id": "1363339",
+            "score": 0.00308
+        },
+        {
+            "name": "Iris sibirica L.",
+            "id": "1393304",
+            "score": 0.00307
+        },
+        {
+            "name": "Yucca filamentosa L.",
+            "id": "1397243",
+            "score": 0.00197
+        },
+        {
+            "name": "Iris perrieri Simonet ex N.Service",
+            "id": "1398243",
+            "score": 0.00152
+        },
+        {
+            "name": "Agave sisalana Perrine",
+            "id": "1357953",
+            "score": 0.00141
+        }
+    ]
+}

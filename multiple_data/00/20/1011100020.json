@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Potentilla indica (Andrews) Th.Wolf",
+            "id": "1721637",
+            "score": 0.58167
+        },
+        {
+            "name": "Potentilla sterilis (L.) Garcke",
+            "id": "1394877",
+            "score": 0.05317
+        },
+        {
+            "name": "Fragaria vesca L.",
+            "id": "1363991",
+            "score": 0.00586
+        },
+        {
+            "name": "Rubus rosifolius Sm.",
+            "id": "1370821",
+            "score": 0.00302
+        },
+        {
+            "name": "Fragaria × ananassa (Duchesne ex Weston) Duchesne ex Rozier",
+            "id": "1667445",
+            "score": 0.00174
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Berberis vulgaris L.",
+            "id": "1356603",
+            "score": 0.83388
+        },
+        {
+            "name": "Berberis aetnensis C.Presl",
+            "id": "1400121",
+            "score": 0.0703
+        },
+        {
+            "name": "Berberis prattii C.K.Schneid.",
+            "id": "1475831",
+            "score": 0.00684
+        },
+        {
+            "name": "Berberis thunbergii DC.",
+            "id": "1400119",
+            "score": 0.00537
+        },
+        {
+            "name": "Berberis amurensis Rupr.",
+            "id": "1475451",
+            "score": 0.00356
+        },
+        {
+            "name": "Berberis aggregata C.K.Schneid.",
+            "id": "1400113",
+            "score": 0.00215
+        },
+        {
+            "name": "Berberis integerrima Bunge",
+            "id": "1475673",
+            "score": 0.00112
+        }
+    ]
+}

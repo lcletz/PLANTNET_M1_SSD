@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia hypericifolia L.",
+            "id": "1355967",
+            "score": 0.82136
+        },
+        {
+            "name": "Euphorbia graminea Jacq.",
+            "id": "1404001",
+            "score": 0.03316
+        },
+        {
+            "name": "Euphorbia leucocephala Lotsy",
+            "id": "1408061",
+            "score": 0.02284
+        },
+        {
+            "name": "Clematis recta L.",
+            "id": "1391298",
+            "score": 0.00292
+        },
+        {
+            "name": "Pithecellobium dulce (Roxb.) Benth.",
+            "id": "1368555",
+            "score": 0.00137
+        },
+        {
+            "name": "Clematis flammula L.",
+            "id": "1360159",
+            "score": 0.0012
+        },
+        {
+            "name": "Euphorbia hirta L.",
+            "id": "1355966",
+            "score": 0.00102
+        }
+    ]
+}

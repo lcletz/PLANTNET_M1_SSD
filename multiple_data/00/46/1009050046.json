@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Melissa officinalis L.",
+            "id": "1358784",
+            "score": 0.92253
+        },
+        {
+            "name": "Ballota nigra L.",
+            "id": "1358722",
+            "score": 0.01014
+        },
+        {
+            "name": "Stachys arvensis (L.) L.",
+            "id": "1396422",
+            "score": 0.00713
+        },
+        {
+            "name": "Nepeta cataria L.",
+            "id": "1358827",
+            "score": 0.00304
+        },
+        {
+            "name": "Marrubium vulgare L.",
+            "id": "1356123",
+            "score": 0.00204
+        },
+        {
+            "name": "Mentha suaveolens Ehrh.",
+            "id": "1358789",
+            "score": 0.00112
+        }
+    ]
+}

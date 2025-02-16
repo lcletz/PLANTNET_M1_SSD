@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Pastinaca sativa L.",
+            "id": "1363226",
+            "score": 0.97108
+        },
+        {
+            "name": "Foeniculum vulgare Mill.",
+            "id": "1360739",
+            "score": 0.00431
+        },
+        {
+            "name": "Bupleurum falcatum L.",
+            "id": "1389590",
+            "score": 0.00354
+        },
+        {
+            "name": "Anethum graveolens L.",
+            "id": "1363232",
+            "score": 0.00194
+        }
+    ]
+}

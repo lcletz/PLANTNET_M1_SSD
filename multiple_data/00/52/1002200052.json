@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lupinus angustifolius L.",
+            "id": "1363699",
+            "score": 0.95708
+        },
+        {
+            "name": "Lupinus arboreus Sims",
+            "id": "1393654",
+            "score": 0.0061
+        },
+        {
+            "name": "Vicia sicula (Raf.) Guss.",
+            "id": "1359577",
+            "score": 0.00296
+        },
+        {
+            "name": "Lupinus luteus L.",
+            "id": "1363700",
+            "score": 0.00224
+        },
+        {
+            "name": "Trifolium angustifolium L.",
+            "id": "1359483",
+            "score": 0.00157
+        }
+    ]
+}

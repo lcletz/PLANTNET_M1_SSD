@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cedrus libani A.Rich.",
+            "id": "1390973",
+            "score": 0.45817
+        },
+        {
+            "name": "Cedrus deodara (Roxb. ex D.Don) G.Don",
+            "id": "1390972",
+            "score": 0.26884
+        },
+        {
+            "name": "Cedrus atlantica (Endl.) Manetti ex Carrière",
+            "id": "1419901",
+            "score": 0.11868
+        },
+        {
+            "name": "Pinus lambertiana Douglas",
+            "id": "1390032",
+            "score": 0.00166
+        },
+        {
+            "name": "Pinus parviflora Siebold & Zucc.",
+            "id": "1398281",
+            "score": 0.00125
+        },
+        {
+            "name": "Picea pungens Engelm.",
+            "id": "1394563",
+            "score": 0.0011
+        }
+    ]
+}

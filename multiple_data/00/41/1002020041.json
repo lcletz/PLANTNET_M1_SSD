@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tanacetum parthenium (L.) Sch.Bip.",
+            "id": "1396511",
+            "score": 0.88412
+        },
+        {
+            "name": "Tanacetum corymbosum (L.) Sch.Bip.",
+            "id": "1397508",
+            "score": 0.00737
+        },
+        {
+            "name": "Chrysanthemum indicum L.",
+            "id": "1391154",
+            "score": 0.00424
+        },
+        {
+            "name": "Artemisia annua L.",
+            "id": "1382106",
+            "score": 0.00408
+        },
+        {
+            "name": "Argyranthemum broussonetii (Balb. ex Pers.) Humphries",
+            "id": "1399916",
+            "score": 0.00117
+        },
+        {
+            "name": "Anthemis cotula L.",
+            "id": "1364155",
+            "score": 0.00106
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Eschscholzia californica Cham.",
+            "id": "1363125",
+            "score": 0.80329
+        },
+        {
+            "name": "Eschscholzia caespitosa Benth.",
+            "id": "1443494",
+            "score": 0.10634
+        },
+        {
+            "name": "Eschscholzia lobbii Greene",
+            "id": "1443498",
+            "score": 0.00334
+        },
+        {
+            "name": "Eschscholzia glyptosperma Greene",
+            "id": "1443495",
+            "score": 0.00294
+        },
+        {
+            "name": "Glaucium flavum Crantz",
+            "id": "1359804",
+            "score": 0.0021
+        },
+        {
+            "name": "Eschscholzia lemmonii Greene",
+            "id": "1443497",
+            "score": 0.00147
+        },
+        {
+            "name": "Tagetes tenuifolia Cav.",
+            "id": "1389492",
+            "score": 0.0012
+        },
+        {
+            "name": "Cistus lasianthus Lam.",
+            "id": "1362183",
+            "score": 0.00101
+        }
+    ]
+}

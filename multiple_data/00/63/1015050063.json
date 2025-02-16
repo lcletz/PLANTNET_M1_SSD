@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ligustrum vulgare L.",
+            "id": "1359675",
+            "score": 0.96053
+        },
+        {
+            "name": "Ligustrum sinense Lour.",
+            "id": "1390584",
+            "score": 0.003
+        },
+        {
+            "name": "Cestrum parqui (Lam.) L'Hér.",
+            "id": "1420711",
+            "score": 0.00277
+        },
+        {
+            "name": "Phillyrea angustifolia L.",
+            "id": "1359677",
+            "score": 0.00222
+        },
+        {
+            "name": "Ligustrum ovalifolium Hassk.",
+            "id": "1393526",
+            "score": 0.00179
+        }
+    ]
+}

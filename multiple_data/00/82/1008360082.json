@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Origanum onites L.",
+            "id": "1358844",
+            "score": 0.49417
+        },
+        {
+            "name": "Origanum majorana L.",
+            "id": "1356133",
+            "score": 0.43389
+        },
+        {
+            "name": "Origanum vulgare L.",
+            "id": "1358846",
+            "score": 0.02501
+        },
+        {
+            "name": "Melissa officinalis L.",
+            "id": "1358784",
+            "score": 0.0036
+        },
+        {
+            "name": "Thymus vulgaris L.",
+            "id": "1356108",
+            "score": 0.00147
+        },
+        {
+            "name": "Nepeta cataria L.",
+            "id": "1358827",
+            "score": 0.00134
+        },
+        {
+            "name": "Stevia rebaudiana (Bertoni) Bertoni",
+            "id": "1430604",
+            "score": 0.00131
+        }
+    ]
+}

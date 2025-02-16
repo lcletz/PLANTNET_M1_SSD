@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium incarnatum L.",
+            "id": "1359498",
+            "score": 0.7893
+        },
+        {
+            "name": "Trifolium rubens L.",
+            "id": "1361850",
+            "score": 0.04735
+        },
+        {
+            "name": "Trifolium purpureum Loisel.",
+            "id": "1359518",
+            "score": 0.01408
+        },
+        {
+            "name": "Trifolium alpestre L.",
+            "id": "1396842",
+            "score": 0.0054
+        },
+        {
+            "name": "Trifolium pratense L.",
+            "id": "1359517",
+            "score": 0.00536
+        },
+        {
+            "name": "Sulla coronaria (L.) B.H.Choi & H.Ohashi",
+            "id": "1738789",
+            "score": 0.00192
+        },
+        {
+            "name": "Trifolium montanum L.",
+            "id": "1359508",
+            "score": 0.00164
+        },
+        {
+            "name": "Trifolium alexandrinum L.",
+            "id": "1363735",
+            "score": 0.0011
+        }
+    ]
+}

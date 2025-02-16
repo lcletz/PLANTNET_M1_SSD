@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Anemone coronaria L.",
+            "id": "1360153",
+            "score": 0.92183
+        },
+        {
+            "name": "Pulsatilla vulgaris Mill.",
+            "id": "1737508",
+            "score": 0.00295
+        },
+        {
+            "name": "Ranunculus asiaticus L.",
+            "id": "1360189",
+            "score": 0.00285
+        },
+        {
+            "name": "Anemone hortensis L.",
+            "id": "1363110",
+            "score": 0.00187
+        },
+        {
+            "name": "Modiolastrum gilliesii (Steud.) Krapov.",
+            "id": "1594804",
+            "score": 0.0017
+        }
+    ]
+}

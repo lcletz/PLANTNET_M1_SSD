@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bistorta officinalis Delarbre",
+            "id": "1400175",
+            "score": 0.42948
+        },
+        {
+            "name": "Bistorta affinis (D.Don) Greene",
+            "id": "1729313",
+            "score": 0.05353
+        },
+        {
+            "name": "Persicaria orientalis (L.) Spach",
+            "id": "1360114",
+            "score": 0.01762
+        },
+        {
+            "name": "Persicaria amphibia (L.) Delarbre",
+            "id": "1356089",
+            "score": 0.0151
+        },
+        {
+            "name": "Bistorta amplexicaulis (D.Don) Greene",
+            "id": "1398461",
+            "score": 0.00561
+        },
+        {
+            "name": "Spiraea tomentosa L.",
+            "id": "1396389",
+            "score": 0.00444
+        },
+        {
+            "name": "Bistorta vivipara (L.) Delarbre",
+            "id": "1400176",
+            "score": 0.00194
+        },
+        {
+            "name": "Mentha spicata L.",
+            "id": "1358788",
+            "score": 0.00149
+        },
+        {
+            "name": "Mentha longifolia (L.) L.",
+            "id": "1356107",
+            "score": 0.00145
+        },
+        {
+            "name": "Spiraea douglasii Hook.",
+            "id": "1396399",
+            "score": 0.00136
+        },
+        {
+            "name": "Veronicastrum virginicum (L.) Farw.",
+            "id": "1414182",
+            "score": 0.00125
+        },
+        {
+            "name": "Persicaria lapathifolia (L.) Delarbre",
+            "id": "1356091",
+            "score": 0.00111
+        }
+    ]
+}

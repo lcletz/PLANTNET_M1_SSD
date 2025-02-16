@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Helleborus foetidus L.",
+            "id": "1360182",
+            "score": 0.95422
+        },
+        {
+            "name": "Helleborus argutifolius Viv.",
+            "id": "1392741",
+            "score": 0.00685
+        },
+        {
+            "name": "Helleborus viridis L.",
+            "id": "1397399",
+            "score": 0.00356
+        },
+        {
+            "name": "Helleborus lividus Aiton",
+            "id": "1397536",
+            "score": 0.00203
+        },
+        {
+            "name": "Euphorbia lathyris L.",
+            "id": "1355968",
+            "score": 0.00117
+        }
+    ]
+}

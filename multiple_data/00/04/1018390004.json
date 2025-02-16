@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Echium plantagineum L.",
+            "id": "1363849",
+            "score": 0.88725
+        },
+        {
+            "name": "Echium sabulicola Pomel",
+            "id": "1356674",
+            "score": 0.01414
+        },
+        {
+            "name": "Echium vulgare L.",
+            "id": "1363850",
+            "score": 0.01084
+        },
+        {
+            "name": "Echium creticum L.",
+            "id": "1356654",
+            "score": 0.00231
+        }
+    ]
+}

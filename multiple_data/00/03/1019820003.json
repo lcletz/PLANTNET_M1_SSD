@@ -1,0 +1,55 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Astragalus onobrychis L.",
+            "id": "1359139",
+            "score": 0.85502
+        },
+        {
+            "name": "Astragalus danicus Retz.",
+            "id": "1398272",
+            "score": 0.01296
+        },
+        {
+            "name": "Bituminaria bituminosa (L.) C.H.Stirt.",
+            "id": "1400177",
+            "score": 0.0095
+        },
+        {
+            "name": "Vicia tenuifolia Roth",
+            "id": "1359578",
+            "score": 0.00441
+        },
+        {
+            "name": "Vicia cracca L.",
+            "id": "1397085",
+            "score": 0.00323
+        },
+        {
+            "name": "Medicago sativa L.",
+            "id": "1363732",
+            "score": 0.00277
+        },
+        {
+            "name": "Trifolium resupinatum L.",
+            "id": "1359519",
+            "score": 0.00243
+        },
+        {
+            "name": "Vicia villosa Roth",
+            "id": "1359581",
+            "score": 0.00133
+        },
+        {
+            "name": "Astragalus hypoglottis L.",
+            "id": "1398288",
+            "score": 0.00132
+        },
+        {
+            "name": "Astragalus leontinus Wulfen",
+            "id": "1398290",
+            "score": 0.0013
+        }
+    ]
+}

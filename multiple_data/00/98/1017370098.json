@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Platanus orientalis L.",
+            "id": "1362358",
+            "score": 0.57317
+        },
+        {
+            "name": "Platanus occidentalis L.",
+            "id": "1398530",
+            "score": 0.19504
+        },
+        {
+            "name": "Platanus × hispanica Mill. ex Münchh.",
+            "id": "1844583",
+            "score": 0.18421
+        },
+        {
+            "name": "Platanus racemosa Nutt.",
+            "id": "1436625",
+            "score": 0.00495
+        },
+        {
+            "name": "Platanus mexicana Moric.",
+            "id": "1646830",
+            "score": 0.00133
+        },
+        {
+            "name": "Liquidambar orientalis Mill.",
+            "id": "1390587",
+            "score": 0.0012
+        }
+    ]
+}

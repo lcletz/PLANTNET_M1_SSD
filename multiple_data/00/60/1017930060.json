@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Oxalis articulata Savigny",
+            "id": "1359752",
+            "score": 0.81203
+        },
+        {
+            "name": "Oxalis debilis Kunth",
+            "id": "1359754",
+            "score": 0.11338
+        },
+        {
+            "name": "Oxalis latifolia Kunth",
+            "id": "1363639",
+            "score": 0.00411
+        },
+        {
+            "name": "Oxalis tetraphylla Cav.",
+            "id": "1394364",
+            "score": 0.00264
+        },
+        {
+            "name": "Oxalis violacea L.",
+            "id": "1435414",
+            "score": 0.00261
+        },
+        {
+            "name": "Oxalis incarnata L.",
+            "id": "1394362",
+            "score": 0.00237
+        }
+    ]
+}

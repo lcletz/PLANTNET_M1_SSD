@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viburnum carlesii Hemsl.",
+            "id": "1397080",
+            "score": 0.70063
+        },
+        {
+            "name": "Viburnum × burkwoodii Burkwood & Skipwith",
+            "id": "1844926",
+            "score": 0.09997
+        },
+        {
+            "name": "Viburnum × carlcephalum Burkwood ex Rullo, Brach & Gandhi",
+            "id": "1844927",
+            "score": 0.07846
+        },
+        {
+            "name": "Viburnum utile Hemsl.",
+            "id": "1447955",
+            "score": 0.01125
+        },
+        {
+            "name": "Spiraea cantoniensis Lour.",
+            "id": "1396397",
+            "score": 0.00814
+        },
+        {
+            "name": "Viburnum tinus L.",
+            "id": "1356793",
+            "score": 0.00664
+        },
+        {
+            "name": "Viburnum lantana L.",
+            "id": "1356792",
+            "score": 0.00449
+        },
+        {
+            "name": "Lobularia maritima (L.) Desv.",
+            "id": "1363882",
+            "score": 0.00316
+        },
+        {
+            "name": "Viburnum farreri Stearn",
+            "id": "1397610",
+            "score": 0.0019
+        },
+        {
+            "name": "Viburnum rugosum Pers.",
+            "id": "1722512",
+            "score": 0.00138
+        },
+        {
+            "name": "Viburnum rhytidophyllum Hemsl.",
+            "id": "1417595",
+            "score": 0.00115
+        },
+        {
+            "name": "Kalmia latifolia L.",
+            "id": "1398517",
+            "score": 0.00101
+        }
+    ]
+}

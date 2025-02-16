@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Helianthus annuus L.",
+            "id": "1364145",
+            "score": 0.8129
+        },
+        {
+            "name": "Helianthus giganteus L.",
+            "id": "1389511",
+            "score": 0.09101
+        },
+        {
+            "name": "Helianthus debilis Nutt.",
+            "id": "1379525",
+            "score": 0.00756
+        },
+        {
+            "name": "Echinacea purpurea (L.) Moench",
+            "id": "1398120",
+            "score": 0.00299
+        }
+    ]
+}

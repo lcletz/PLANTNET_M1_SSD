@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium dubium Sibth.",
+            "id": "1363737",
+            "score": 0.74534
+        },
+        {
+            "name": "Medicago lupulina L.",
+            "id": "1363730",
+            "score": 0.06008
+        },
+        {
+            "name": "Trifolium campestre Schreb.",
+            "id": "1359488",
+            "score": 0.05341
+        },
+        {
+            "name": "Trifolium aureum Pollich",
+            "id": "1359486",
+            "score": 0.0163
+        },
+        {
+            "name": "Melilotus indicus (L.) All.",
+            "id": "1363749",
+            "score": 0.0053
+        },
+        {
+            "name": "Trifolium micranthum Viv.",
+            "id": "1359506",
+            "score": 0.0045
+        },
+        {
+            "name": "Trifolium patens Schreb.",
+            "id": "1359514",
+            "score": 0.00291
+        },
+        {
+            "name": "Melilotus officinalis (L.) Lam.",
+            "id": "1393792",
+            "score": 0.00234
+        },
+        {
+            "name": "Crotalaria medicaginea Lam.",
+            "id": "1575791",
+            "score": 0.00193
+        },
+        {
+            "name": "Medicago minima (L.) Bartal.",
+            "id": "1425238",
+            "score": 0.0017
+        },
+        {
+            "name": "Medicago arabica (L.) Huds.",
+            "id": "1359333",
+            "score": 0.00132
+        },
+        {
+            "name": "Lotus corniculatus L.",
+            "id": "1359296",
+            "score": 0.0013
+        },
+        {
+            "name": "Melilotus altissimus Thuill.",
+            "id": "1393789",
+            "score": 0.00128
+        },
+        {
+            "name": "Trifolium badium Schreb.",
+            "id": "1397551",
+            "score": 0.00125
+        },
+        {
+            "name": "Lotus pedunculatus Cav.",
+            "id": "1359322",
+            "score": 0.0012
+        }
+    ]
+}

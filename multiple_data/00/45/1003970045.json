@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Melittis melissophyllum L.",
+            "id": "1397437",
+            "score": 0.90877
+        },
+        {
+            "name": "Stachys mexicana Benth.",
+            "id": "1413912",
+            "score": 0.00567
+        },
+        {
+            "name": "Lamium orvala L.",
+            "id": "1399231",
+            "score": 0.00243
+        },
+        {
+            "name": "Digitalis purpurea L.",
+            "id": "1364079",
+            "score": 0.00223
+        },
+        {
+            "name": "Lamium maculatum (L.) L.",
+            "id": "1393425",
+            "score": 0.00158
+        },
+        {
+            "name": "Antirrhinum majus L.",
+            "id": "1359845",
+            "score": 0.00129
+        },
+        {
+            "name": "Prunella grandiflora (L.) Turra",
+            "id": "1737424",
+            "score": 0.00105
+        }
+    ]
+}

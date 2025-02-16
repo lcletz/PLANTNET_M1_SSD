@@ -1,0 +1,65 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Lavandula latifolia Medik.",
+            "id": "1393466",
+            "score": 0.66011
+        },
+        {
+            "name": "Lavandula angustifolia Mill.",
+            "id": "1361824",
+            "score": 0.10173
+        },
+        {
+            "name": "Helichrysum italicum (Roth) G.Don",
+            "id": "1392725",
+            "score": 0.01489
+        },
+        {
+            "name": "Cerastium tomentosum L.",
+            "id": "1391092",
+            "score": 0.00358
+        },
+        {
+            "name": "Lavandula × intermedia Emeric ex Loisel.",
+            "id": "1560415",
+            "score": 0.00349
+        },
+        {
+            "name": "Lavandula stoechas L.",
+            "id": "1358766",
+            "score": 0.00325
+        },
+        {
+            "name": "Artemisia dracunculus L.",
+            "id": "1362645",
+            "score": 0.00268
+        },
+        {
+            "name": "Lavandula lanata Boiss.",
+            "id": "1398786",
+            "score": 0.00232
+        },
+        {
+            "name": "Andromeda polifolia L.",
+            "id": "1394064",
+            "score": 0.00151
+        },
+        {
+            "name": "Lavandula dentata L.",
+            "id": "1356126",
+            "score": 0.00143
+        },
+        {
+            "name": "Salvia rosmarinus Spenn.",
+            "id": "1722409",
+            "score": 0.00102
+        },
+        {
+            "name": "Salvia × lavandulacea (de Noé) Roma-Marzio & Galasso",
+            "id": "1744279",
+            "score": 0.00101
+        }
+    ]
+}

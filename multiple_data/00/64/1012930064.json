@@ -1,0 +1,75 @@
+{
+    "status": "REJECT",
+    "results": [
+        {
+            "name": "Screenshot",
+            "id": "Screenshot",
+            "score": 0.32442
+        },
+        {
+            "name": "Objectum",
+            "id": "Objectum",
+            "score": 0.04492
+        },
+        {
+            "name": "Art",
+            "id": "Art",
+            "score": 0.04378
+        },
+        {
+            "name": "Landscape",
+            "id": "Landscape",
+            "score": 0.04326
+        },
+        {
+            "name": "Food",
+            "id": "Food",
+            "score": 0.01468
+        },
+        {
+            "name": "Empty",
+            "id": "Empty",
+            "score": 0.01111
+        },
+        {
+            "name": "Fungi",
+            "id": "Fungi",
+            "score": 0.00926
+        },
+        {
+            "name": "Animalia",
+            "id": "Animalia",
+            "score": 0.00808
+        },
+        {
+            "name": "Sex",
+            "id": "Sex",
+            "score": 0.00639
+        },
+        {
+            "name": "Lichens",
+            "id": "Lichens",
+            "score": 0.00637
+        },
+        {
+            "name": "Insecta",
+            "id": "Insecta",
+            "score": 0.00619
+        },
+        {
+            "name": "Ground",
+            "id": "Ground",
+            "score": 0.00612
+        },
+        {
+            "name": "Mosses",
+            "id": "Mosses",
+            "score": 0.00606
+        },
+        {
+            "name": "Homo_sapiens_L",
+            "id": "Homo_sapiens_L",
+            "score": 0.00568
+        }
+    ]
+}

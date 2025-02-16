@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Satureja montana L.",
+            "id": "1361829",
+            "score": 0.47091
+        },
+        {
+            "name": "Satureja hortensis L.",
+            "id": "1395936",
+            "score": 0.46585
+        },
+        {
+            "name": "Satureja spicigera (K.Koch) Boiss.",
+            "id": "1563249",
+            "score": 0.01786
+        },
+        {
+            "name": "Phlox subulata L.",
+            "id": "1388814",
+            "score": 0.00369
+        },
+        {
+            "name": "Satureja subspicata Bartl. ex Vis.",
+            "id": "1399393",
+            "score": 0.00318
+        },
+        {
+            "name": "Mentha cervina L.",
+            "id": "1358786",
+            "score": 0.00275
+        },
+        {
+            "name": "Hyssopus officinalis L.",
+            "id": "1358747",
+            "score": 0.00218
+        },
+        {
+            "name": "Artemisia dracunculus L.",
+            "id": "1362645",
+            "score": 0.00191
+        },
+        {
+            "name": "Satureja thymbra L.",
+            "id": "1358884",
+            "score": 0.00131
+        }
+    ]
+}

@@ -1,0 +1,345 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cercis siliquastrum L.",
+            "id": "1359162",
+            "score": 0.36478
+        },
+        {
+            "name": "Cercis canadensis L.",
+            "id": "1397806",
+            "score": 0.30446
+        },
+        {
+            "name": "Cercis griffithii Boiss.",
+            "id": "1574667",
+            "score": 0.20175
+        },
+        {
+            "name": "Cercis chinensis Bunge",
+            "id": "1418915",
+            "score": 0.02038
+        },
+        {
+            "name": "Lathyrus odoratus L.",
+            "id": "1363802",
+            "score": 0.01809
+        },
+        {
+            "name": "Campsis radicans (L.) Bureau",
+            "id": "1390680",
+            "score": 0.01213
+        },
+        {
+            "name": "Caesalpinia pulcherrima (L.) Sw.",
+            "id": "1366954",
+            "score": 0.00846
+        },
+        {
+            "name": "Albizia julibrissin Durazz.",
+            "id": "1391958",
+            "score": 0.00641
+        },
+        {
+            "name": "Lathyrus oleraceus Lam.",
+            "id": "1741625",
+            "score": 0.00542
+        },
+        {
+            "name": "Cercis occidentalis Torr. ex A.Gray",
+            "id": "1397805",
+            "score": 0.00495
+        },
+        {
+            "name": "Vicia sepium L.",
+            "id": "1397110",
+            "score": 0.00439
+        },
+        {
+            "name": "Bauhinia purpurea L.",
+            "id": "1366759",
+            "score": 0.00388
+        },
+        {
+            "name": "Vicia cracca L.",
+            "id": "1397085",
+            "score": 0.00382
+        },
+        {
+            "name": "Robinia pseudoacacia L.",
+            "id": "1363698",
+            "score": 0.00357
+        },
+        {
+            "name": "Phaseolus vulgaris L.",
+            "id": "1394501",
+            "score": 0.00335
+        },
+        {
+            "name": "Lathyrus clymenum L.",
+            "id": "1363799",
+            "score": 0.00318
+        },
+        {
+            "name": "Bauhinia variegata L.",
+            "id": "1389161",
+            "score": 0.003
+        },
+        {
+            "name": "Canavalia rosea (Sw.) DC.",
+            "id": "1366543",
+            "score": 0.00298
+        },
+        {
+            "name": "Lathyrus sylvestris L.",
+            "id": "1393458",
+            "score": 0.00282
+        },
+        {
+            "name": "Lunaria rediviva L.",
+            "id": "1393653",
+            "score": 0.00259
+        },
+        {
+            "name": "Vicia villosa Roth",
+            "id": "1359581",
+            "score": 0.00251
+        },
+        {
+            "name": "Gymnocladus dioicus (L.) K.Koch",
+            "id": "1745442",
+            "score": 0.00251
+        },
+        {
+            "name": "Acacia dealbata Link",
+            "id": "1363764",
+            "score": 0.00205
+        },
+        {
+            "name": "Sesbania vesicaria (Jacq.) Elliott",
+            "id": "1438152",
+            "score": 0.00198
+        },
+        {
+            "name": "Cenostigma pluviosum (DC.) Gagnon & G.P.Lewis",
+            "id": "1735429",
+            "score": 0.00181
+        },
+        {
+            "name": "Leucaena leucocephala (Lam.) de Wit",
+            "id": "1363651",
+            "score": 0.00169
+        },
+        {
+            "name": "Cytisus scoparius (L.) Link",
+            "id": "1363728",
+            "score": 0.00167
+        },
+        {
+            "name": "Acacia abbreviata Maslin",
+            "id": "1567888",
+            "score": 0.00162
+        },
+        {
+            "name": "Lathyrus latifolius L.",
+            "id": "1363801",
+            "score": 0.0015
+        },
+        {
+            "name": "Bauhinia monandra Kurz",
+            "id": "1366773",
+            "score": 0.00149
+        },
+        {
+            "name": "Lathyrus ochrus (L.) DC.",
+            "id": "1359279",
+            "score": 0.00145
+        },
+        {
+            "name": "Vicia faba L.",
+            "id": "1363676",
+            "score": 0.00139
+        },
+        {
+            "name": "Vicia tetrasperma (L.) Schreb.",
+            "id": "1359579",
+            "score": 0.00124
+        },
+        {
+            "name": "Lathyrus setifolius L.",
+            "id": "1359282",
+            "score": 0.00117
+        },
+        {
+            "name": "Albizia lebbeck (L.) Benth.",
+            "id": "1366605",
+            "score": 0.00117
+        },
+        {
+            "name": "Clitoria ternatea L.",
+            "id": "1362003",
+            "score": 0.00113
+        },
+        {
+            "name": "Lathyrus pratensis L.",
+            "id": "1363803",
+            "score": 0.00109
+        },
+        {
+            "name": "Bauhinia forficata Link",
+            "id": "1427046",
+            "score": 0.00108
+        },
+        {
+            "name": "Phaseolus lunatus L.",
+            "id": "1379545",
+            "score": 0.00105
+        },
+        {
+            "name": "Cytisophyllum sessilifolium (L.) O.Lang",
+            "id": "1391531",
+            "score": 0.00102
+        },
+        {
+            "name": "Vicia sativa L.",
+            "id": "1359575",
+            "score": 0.00096
+        },
+        {
+            "name": "Colutea arborescens L.",
+            "id": "1362283",
+            "score": 0.00095
+        },
+        {
+            "name": "Lablab purpureus (L.) Sweet",
+            "id": "1359263",
+            "score": 0.00089
+        },
+        {
+            "name": "Bauhinia acuminata L.",
+            "id": "1366771",
+            "score": 0.00085
+        },
+        {
+            "name": "Canavalia gladiata (Jacq.) DC.",
+            "id": "1409435",
+            "score": 0.00083
+        },
+        {
+            "name": "Bauhinia tomentosa L.",
+            "id": "1366760",
+            "score": 0.00081
+        },
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.00072
+        },
+        {
+            "name": "Albizia anthelmintica (A.Rich.) Brongn.",
+            "id": "1751488",
+            "score": 0.00072
+        },
+        {
+            "name": "Vicia caroliniana Walter",
+            "id": "1414192",
+            "score": 0.00067
+        },
+        {
+            "name": "Vicia eriocarpa (Hausskn.) Halácsy",
+            "id": "1397807",
+            "score": 0.00067
+        },
+        {
+            "name": "Biancaea decapetala (Roth) O.Deg.",
+            "id": "1719806",
+            "score": 0.00065
+        },
+        {
+            "name": "Albizia adinocephala (Donn.Sm.) Britton & Rose ex Record",
+            "id": "1823871",
+            "score": 0.00064
+        },
+        {
+            "name": "Campsis grandiflora (Thunb.) K.Schum.",
+            "id": "1390679",
+            "score": 0.00063
+        },
+        {
+            "name": "Tipuana tipu (Benth.) Kuntze",
+            "id": "1389022",
+            "score": 0.00059
+        },
+        {
+            "name": "Canavalia cathartica Thouars",
+            "id": "1366546",
+            "score": 0.00058
+        },
+        {
+            "name": "Lathyrus annuus L.",
+            "id": "1363805",
+            "score": 0.00056
+        },
+        {
+            "name": "Vicia hirsuta (L.) Gray",
+            "id": "1363671",
+            "score": 0.00053
+        },
+        {
+            "name": "Delonix regia (Bojer ex Hook.) Raf.",
+            "id": "1363784",
+            "score": 0.00051
+        },
+        {
+            "name": "Robinia hispida L.",
+            "id": "1395210",
+            "score": 0.00051
+        },
+        {
+            "name": "Lathyrus aphaca L.",
+            "id": "1363798",
+            "score": 0.00049
+        },
+        {
+            "name": "Acer platanoides L.",
+            "id": "1397301",
+            "score": 0.00048
+        },
+        {
+            "name": "Amomyrtus meli (Phil.) D.Legrand & Kausel",
+            "id": "1602657",
+            "score": 0.00047
+        },
+        {
+            "name": "Platymiscium pinnatum (Jacq.) Dugand",
+            "id": "1402873",
+            "score": 0.00046
+        },
+        {
+            "name": "Ceratonia siliqua L.",
+            "id": "1363660",
+            "score": 0.00045
+        },
+        {
+            "name": "Vicia lutea L.",
+            "id": "1359565",
+            "score": 0.00044
+        },
+        {
+            "name": "Bauhinia lunarioides A.Gray ex S.Watson",
+            "id": "1819131",
+            "score": 0.00041
+        },
+        {
+            "name": "Vicia sylvatica L.",
+            "id": "1362394",
+            "score": 0.00041
+        },
+        {
+            "name": "Eperua falcata Aubl.",
+            "id": "1400561",
+            "score": 0.00041
+        }
+    ]
+}

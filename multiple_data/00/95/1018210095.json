@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Solanum tuberosum L.",
+            "id": "1356171",
+            "score": 0.94773
+        },
+        {
+            "name": "Solanum demissum Lindl.",
+            "id": "1691606",
+            "score": 0.00327
+        },
+        {
+            "name": "Solanum chacoense Bitter",
+            "id": "1389722",
+            "score": 0.00213
+        },
+        {
+            "name": "Solanum violaceimarmoratum Bitter",
+            "id": "1692325",
+            "score": 0.00111
+        },
+        {
+            "name": "Solanum pimpinellifolium L.",
+            "id": "1420742",
+            "score": 0.00102
+        }
+    ]
+}

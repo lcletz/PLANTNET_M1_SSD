@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Phymosia umbellata (Cav.) Kearney",
+            "id": "1419441",
+            "score": 0.81916
+        },
+        {
+            "name": "Malva olbia (L.) Alef.",
+            "id": "1362899",
+            "score": 0.02291
+        },
+        {
+            "name": "Malva subovata (DC.) Molero & J.M.Monts.",
+            "id": "1390058",
+            "score": 0.00374
+        },
+        {
+            "name": "Malva thuringiaca (L.) Vis.",
+            "id": "1362903",
+            "score": 0.00303
+        },
+        {
+            "name": "Althaea officinalis L.",
+            "id": "1359625",
+            "score": 0.00248
+        },
+        {
+            "name": "Alcea rosea L.",
+            "id": "1359620",
+            "score": 0.00116
+        }
+    ]
+}

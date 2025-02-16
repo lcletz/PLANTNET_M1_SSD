@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Scrophularia auriculata L.",
+            "id": "1360495",
+            "score": 0.89053
+        },
+        {
+            "name": "Scrophularia nodosa L.",
+            "id": "1396122",
+            "score": 0.07877
+        },
+        {
+            "name": "Scrophularia oblongifolia Loisel.",
+            "id": "1396124",
+            "score": 0.00323
+        },
+        {
+            "name": "Stachys alpina L.",
+            "id": "1397502",
+            "score": 0.00194
+        },
+        {
+            "name": "Scrophularia peregrina L.",
+            "id": "1360507",
+            "score": 0.00164
+        },
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.00156
+        }
+    ]
+}

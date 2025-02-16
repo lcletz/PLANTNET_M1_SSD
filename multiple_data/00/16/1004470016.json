@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Olea europaea L.",
+            "id": "1359676",
+            "score": 0.86313
+        },
+        {
+            "name": "Metrosideros excelsa Sol. ex Gaertn.",
+            "id": "1389375",
+            "score": 0.01316
+        },
+        {
+            "name": "Ilex vomitoria Aiton",
+            "id": "1420734",
+            "score": 0.00885
+        },
+        {
+            "name": "Phillyrea latifolia L.",
+            "id": "1359678",
+            "score": 0.0088
+        },
+        {
+            "name": "Phillyrea angustifolia L.",
+            "id": "1359677",
+            "score": 0.00357
+        },
+        {
+            "name": "Myrtus communis L.",
+            "id": "1359662",
+            "score": 0.00183
+        },
+        {
+            "name": "Buxus sempervirens L.",
+            "id": "1356729",
+            "score": 0.00183
+        },
+        {
+            "name": "Quercus fusiformis Small",
+            "id": "1437108",
+            "score": 0.00119
+        },
+        {
+            "name": "Ziziphus jujuba Mill.",
+            "id": "1360271",
+            "score": 0.00109
+        }
+    ]
+}

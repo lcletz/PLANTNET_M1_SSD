@@ -1,0 +1,405 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fraxinus pennsylvanica Marshall",
+            "id": "1392363",
+            "score": 0.23402
+        },
+        {
+            "name": "Carya illinoinensis (Wangenh.) K.Koch",
+            "id": "1407788",
+            "score": 0.06526
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.05258
+        },
+        {
+            "name": "Tecoma stans (L.) Juss. ex Kunth",
+            "id": "1400150",
+            "score": 0.04038
+        },
+        {
+            "name": "Fraxinus americana L.",
+            "id": "1397619",
+            "score": 0.04014
+        },
+        {
+            "name": "Fraxinus angustifolia Vahl",
+            "id": "1362009",
+            "score": 0.02254
+        },
+        {
+            "name": "Zelkova serrata (Thunb.) Makino",
+            "id": "1398535",
+            "score": 0.01977
+        },
+        {
+            "name": "Azadirachta indica A.Juss.",
+            "id": "1405342",
+            "score": 0.01219
+        },
+        {
+            "name": "Juglans nigra L.",
+            "id": "1393337",
+            "score": 0.01118
+        },
+        {
+            "name": "Koelreuteria paniculata Laxm.",
+            "id": "1397985",
+            "score": 0.00603
+        },
+        {
+            "name": "Fraxinus uhdei (Wenz.) Lingelsh.",
+            "id": "1419623",
+            "score": 0.0057
+        },
+        {
+            "name": "Melia dubia Cav.",
+            "id": "1719450",
+            "score": 0.00521
+        },
+        {
+            "name": "Maclura tinctoria (L.) D.Don ex G.Don",
+            "id": "1820170",
+            "score": 0.00496
+        },
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.00485
+        },
+        {
+            "name": "Juglans californica S.Watson",
+            "id": "1765805",
+            "score": 0.0048
+        },
+        {
+            "name": "Melia azedarach L.",
+            "id": "1363624",
+            "score": 0.00476
+        },
+        {
+            "name": "Fraxinus velutina Torr.",
+            "id": "1443766",
+            "score": 0.00455
+        },
+        {
+            "name": "Koelreuteria bipinnata Franch.",
+            "id": "1420619",
+            "score": 0.00433
+        },
+        {
+            "name": "Pistacia chinensis Bunge",
+            "id": "1419331",
+            "score": 0.0043
+        },
+        {
+            "name": "Rhus glabra L.",
+            "id": "1397601",
+            "score": 0.00381
+        },
+        {
+            "name": "Zanthoxylum acanthopodium DC.",
+            "id": "1683170",
+            "score": 0.00332
+        },
+        {
+            "name": "Juglans × intermedia Jacques",
+            "id": "1844333",
+            "score": 0.00325
+        },
+        {
+            "name": "Sapindus saponaria L.",
+            "id": "1372764",
+            "score": 0.00293
+        },
+        {
+            "name": "Maclura pomifera (Raf.) C.K.Schneid.",
+            "id": "1393715",
+            "score": 0.00283
+        },
+        {
+            "name": "Schinus terebinthifolia Raddi",
+            "id": "1396078",
+            "score": 0.00279
+        },
+        {
+            "name": "Fontanesia fortunei Carrière",
+            "id": "1609104",
+            "score": 0.00268
+        },
+        {
+            "name": "Celtis occidentalis L.",
+            "id": "1397796",
+            "score": 0.00265
+        },
+        {
+            "name": "Ailanthus excelsa Roxb.",
+            "id": "1428300",
+            "score": 0.00249
+        },
+        {
+            "name": "Rosa orientalis A.Dupont ex Ser.",
+            "id": "1668338",
+            "score": 0.00242
+        },
+        {
+            "name": "Salix babylonica L.",
+            "id": "1360452",
+            "score": 0.00234
+        },
+        {
+            "name": "Platycarya strobilacea Siebold & Zucc.",
+            "id": "1557967",
+            "score": 0.00224
+        },
+        {
+            "name": "Astronium graveolens Jacq.",
+            "id": "1454107",
+            "score": 0.0021
+        },
+        {
+            "name": "Cedrela odorata L.",
+            "id": "1365961",
+            "score": 0.00207
+        },
+        {
+            "name": "Campsis × tagliabuana (Vis.) C.Massal.",
+            "id": "1843874",
+            "score": 0.00205
+        },
+        {
+            "name": "Carya glabra (Mill.) Sweet",
+            "id": "1411341",
+            "score": 0.00204
+        },
+        {
+            "name": "Fontanesia philliraeoides Labill.",
+            "id": "1746108",
+            "score": 0.00204
+        },
+        {
+            "name": "Styphnolobium japonicum (L.) Schott",
+            "id": "1369068",
+            "score": 0.00203
+        },
+        {
+            "name": "Salix pentandra L.",
+            "id": "1395852",
+            "score": 0.00195
+        },
+        {
+            "name": "Ziziphus jujuba Mill.",
+            "id": "1360271",
+            "score": 0.00185
+        },
+        {
+            "name": "Fraxinus ornus L.",
+            "id": "1362963",
+            "score": 0.00164
+        },
+        {
+            "name": "Juglans cinerea L.",
+            "id": "1412349",
+            "score": 0.00152
+        },
+        {
+            "name": "Fraxinus quadrangulata Michx.",
+            "id": "1412093",
+            "score": 0.0015
+        },
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.00147
+        },
+        {
+            "name": "Rosa moschata Herrm.",
+            "id": "1360344",
+            "score": 0.00146
+        },
+        {
+            "name": "Carya cordiformis (Wangenh.) K.Koch",
+            "id": "1557922",
+            "score": 0.00144
+        },
+        {
+            "name": "Aegle marmelos (L.) Corrêa",
+            "id": "1372577",
+            "score": 0.00135
+        },
+        {
+            "name": "Acer davidii Franch.",
+            "id": "1390684",
+            "score": 0.0013
+        },
+        {
+            "name": "Pistacia atlantica Desf.",
+            "id": "1356565",
+            "score": 0.00125
+        },
+        {
+            "name": "Handroanthus impetiginosus (Mart. ex DC.) Mattos",
+            "id": "1423924",
+            "score": 0.00116
+        },
+        {
+            "name": "Ailanthus altissima (Mill.) Swingle",
+            "id": "1360547",
+            "score": 0.00112
+        },
+        {
+            "name": "Chukrasia tabularis A.Juss.",
+            "id": "1432729",
+            "score": 0.00109
+        },
+        {
+            "name": "Dahlia imperialis Roezl ex Ortgies",
+            "id": "1417809",
+            "score": 0.00108
+        },
+        {
+            "name": "Carya pallida (Ashe) Engelm. & Graebn.",
+            "id": "1557932",
+            "score": 0.00107
+        },
+        {
+            "name": "Fraxinus chinensis Roxb.",
+            "id": "1609137",
+            "score": 0.00101
+        },
+        {
+            "name": "Campsis grandiflora (Thunb.) K.Schum.",
+            "id": "1390679",
+            "score": 0.00101
+        },
+        {
+            "name": "Salix euxina I.V.Belyaeva",
+            "id": "1684004",
+            "score": 0.00097
+        },
+        {
+            "name": "Quercus castaneifolia C.A.Mey.",
+            "id": "1390589",
+            "score": 0.00085
+        },
+        {
+            "name": "Juglans regia L.",
+            "id": "1358713",
+            "score": 0.00082
+        },
+        {
+            "name": "Ulmus pumila L.",
+            "id": "1390603",
+            "score": 0.00081
+        },
+        {
+            "name": "Ulmus americana L.",
+            "id": "1390323",
+            "score": 0.00072
+        },
+        {
+            "name": "Celtis bungeana Blume",
+            "id": "1490838",
+            "score": 0.00065
+        },
+        {
+            "name": "Eucommia ulmoides Oliv.",
+            "id": "1418813",
+            "score": 0.00059
+        },
+        {
+            "name": "Vitex negundo L.",
+            "id": "1378635",
+            "score": 0.00056
+        },
+        {
+            "name": "Maytenus boaria Molina",
+            "id": "1423469",
+            "score": 0.00052
+        },
+        {
+            "name": "Platanus orientalis L.",
+            "id": "1362358",
+            "score": 0.00045
+        },
+        {
+            "name": "Salix triandra L.",
+            "id": "1360459",
+            "score": 0.00045
+        },
+        {
+            "name": "Populus balsamifera L.",
+            "id": "1394775",
+            "score": 0.00044
+        },
+        {
+            "name": "Gymnocladus dioicus (L.) K.Koch",
+            "id": "1745442",
+            "score": 0.00043
+        },
+        {
+            "name": "Sambucus australis Cham. & Schltdl.",
+            "id": "1447814",
+            "score": 0.00043
+        },
+        {
+            "name": "Handroanthus speciosus (DC. ex Mart.) ined.",
+            "id": "1731498",
+            "score": 0.00043
+        },
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.00039
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.00037
+        },
+        {
+            "name": "Muntingia calabura L.",
+            "id": "1401621",
+            "score": 0.00036
+        },
+        {
+            "name": "Swietenia mahagoni (L.) Jacq.",
+            "id": "1366100",
+            "score": 0.00035
+        },
+        {
+            "name": "Juglans mandshurica Maxim.",
+            "id": "1419240",
+            "score": 0.00035
+        },
+        {
+            "name": "Erythrina crista-galli L.",
+            "id": "1366912",
+            "score": 0.00034
+        },
+        {
+            "name": "Juglans major (Torr.) A.Heller",
+            "id": "1766303",
+            "score": 0.0003
+        },
+        {
+            "name": "Cinnamomum camphora (L.) J.Presl",
+            "id": "1389656",
+            "score": 0.0003
+        },
+        {
+            "name": "Aspidosperma quebracho-blanco Schltdl.",
+            "id": "1459372",
+            "score": 0.00029
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.00028
+        }
+    ]
+}

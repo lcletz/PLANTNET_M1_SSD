@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ranunculus ficaria L.",
+            "id": "1413421",
+            "score": 0.4612
+        },
+        {
+            "name": "Caltha palustris L.",
+            "id": "1397332",
+            "score": 0.00876
+        },
+        {
+            "name": "Ranunculus hederaceus L.",
+            "id": "1360205",
+            "score": 0.00552
+        },
+        {
+            "name": "Ranunculus montanus Willd.",
+            "id": "1362363",
+            "score": 0.00263
+        },
+        {
+            "name": "Halerpestes cymbalaria (Pursh) Greene",
+            "id": "1664330",
+            "score": 0.00241
+        },
+        {
+            "name": "Ranunculus bullatus L.",
+            "id": "1360194",
+            "score": 0.00213
+        },
+        {
+            "name": "Ranunculus auricomus L.",
+            "id": "1395053",
+            "score": 0.00113
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Erica arborea L.",
+            "id": "1358503",
+            "score": 0.81938
+        },
+        {
+            "name": "Erica lusitanica Rudolphi",
+            "id": "1392024",
+            "score": 0.13081
+        },
+        {
+            "name": "Erica scoparia L.",
+            "id": "1358511",
+            "score": 0.0057
+        },
+        {
+            "name": "Erica australis L.",
+            "id": "1358504",
+            "score": 0.00327
+        },
+        {
+            "name": "Erica erigena R.Ross",
+            "id": "1392023",
+            "score": 0.00186
+        },
+        {
+            "name": "Erica multiflora L.",
+            "id": "1358509",
+            "score": 0.00135
+        },
+        {
+            "name": "Erica vagans L.",
+            "id": "1361800",
+            "score": 0.00133
+        }
+    ]
+}

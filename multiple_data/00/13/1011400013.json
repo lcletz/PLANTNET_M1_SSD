@@ -1,0 +1,65 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Armeria alpina (DC.) Willd.",
+            "id": "1647128",
+            "score": 0.91708
+        },
+        {
+            "name": "Armeria maritima (Mill.) Willd.",
+            "id": "1413349",
+            "score": 0.01282
+        },
+        {
+            "name": "Valeriana tuberosa L.",
+            "id": "1360841",
+            "score": 0.00436
+        },
+        {
+            "name": "Allium schoenoprasum L.",
+            "id": "1392774",
+            "score": 0.0034
+        },
+        {
+            "name": "Allium lusitanicum Lam.",
+            "id": "1392657",
+            "score": 0.00267
+        },
+        {
+            "name": "Armeria muelleri A.Huet",
+            "id": "1647166",
+            "score": 0.00234
+        },
+        {
+            "name": "Anthyllis montana L.",
+            "id": "1359086",
+            "score": 0.00186
+        },
+        {
+            "name": "Trifolium alpestre L.",
+            "id": "1396842",
+            "score": 0.00172
+        },
+        {
+            "name": "Armeria alliacea (Cav.) Hoffmanns. & Link",
+            "id": "1359990",
+            "score": 0.00153
+        },
+        {
+            "name": "Armeria castellana Boiss. & Reut. ex Leresche",
+            "id": "1647141",
+            "score": 0.00144
+        },
+        {
+            "name": "Traunsteinera globosa (L.) Rchb.",
+            "id": "1396835",
+            "score": 0.0013
+        },
+        {
+            "name": "Trifolium alpinum L.",
+            "id": "1396843",
+            "score": 0.0011
+        }
+    ]
+}

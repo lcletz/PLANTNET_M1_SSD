@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Verbascum nigrum L.",
+            "id": "1397520",
+            "score": 0.88244
+        },
+        {
+            "name": "Verbascum chaixii Vill.",
+            "id": "1397519",
+            "score": 0.07582
+        },
+        {
+            "name": "Verbascum virgatum Stokes",
+            "id": "1364058",
+            "score": 0.00506
+        },
+        {
+            "name": "Verbascum lychnitis L.",
+            "id": "1360531",
+            "score": 0.00137
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pieris japonica (Thunb.) D.Don ex G.Don",
+            "id": "1392031",
+            "score": 0.4989
+        },
+        {
+            "name": "Leucothoe davisiae Torr.",
+            "id": "1816591",
+            "score": 0.00571
+        },
+        {
+            "name": "Pieris formosa (Wall.) D.Don",
+            "id": "1392030",
+            "score": 0.00523
+        },
+        {
+            "name": "Arbutus andrachne L.",
+            "id": "1395933",
+            "score": 0.00212
+        },
+        {
+            "name": "Arbutus unedo L.",
+            "id": "1358500",
+            "score": 0.00169
+        }
+    ]
+}

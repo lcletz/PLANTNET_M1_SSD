@@ -1,0 +1,490 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagus orientalis Lipsky",
+            "id": "1547791",
+            "score": 0.87934
+        },
+        {
+            "name": "Catalpa ovata G.Don",
+            "id": "1397254",
+            "score": 0.03922
+        },
+        {
+            "name": "Neoshirakia japonica (Siebold & Zucc.) Esser",
+            "id": "1418846",
+            "score": 0.01852
+        },
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.01378
+        },
+        {
+            "name": "Hovenia dulcis Thunb.",
+            "id": "1370770",
+            "score": 0.00637
+        },
+        {
+            "name": "Magnolia kobus DC.",
+            "id": "1393719",
+            "score": 0.00624
+        },
+        {
+            "name": "Cornus florida L.",
+            "id": "1397618",
+            "score": 0.00591
+        },
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.00554
+        },
+        {
+            "name": "Fagus japonica Maxim.",
+            "id": "1547788",
+            "score": 0.00511
+        },
+        {
+            "name": "Magnolia acuminata (L.) L.",
+            "id": "1412655",
+            "score": 0.00488
+        },
+        {
+            "name": "Aralia nudicaulis L.",
+            "id": "1413002",
+            "score": 0.00487
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.00462
+        },
+        {
+            "name": "Styrax japonicus Siebold & Zucc.",
+            "id": "1420758",
+            "score": 0.00452
+        },
+        {
+            "name": "Fagus grandifolia Ehrh.",
+            "id": "1412056",
+            "score": 0.00447
+        },
+        {
+            "name": "Mallotus japonicus (L.f.) Müll.Arg.",
+            "id": "1418836",
+            "score": 0.00399
+        },
+        {
+            "name": "Idesia polycarpa Maxim.",
+            "id": "1433193",
+            "score": 0.00367
+        },
+        {
+            "name": "Vernicia fordii (Hemsl.) Airy Shaw",
+            "id": "1376001",
+            "score": 0.00359
+        },
+        {
+            "name": "Ptelea trifoliata L.",
+            "id": "1394968",
+            "score": 0.00358
+        },
+        {
+            "name": "Vitex glabrata R.Br.",
+            "id": "1408828",
+            "score": 0.00297
+        },
+        {
+            "name": "Fraxinus americana L.",
+            "id": "1397619",
+            "score": 0.00291
+        },
+        {
+            "name": "Handroanthus ochraceus (Cham.) Mattos",
+            "id": "1476704",
+            "score": 0.00288
+        },
+        {
+            "name": "Acer maximowiczianum Miq.",
+            "id": "1420600",
+            "score": 0.00256
+        },
+        {
+            "name": "Tabebuia rosea (Bertol.) Bertero ex A.DC.",
+            "id": "1418008",
+            "score": 0.00244
+        },
+        {
+            "name": "Magnolia sieboldii K.Koch",
+            "id": "1393720",
+            "score": 0.00242
+        },
+        {
+            "name": "Vaccinium corymbosum L.",
+            "id": "1396966",
+            "score": 0.00241
+        },
+        {
+            "name": "Celtis sinensis Pers.",
+            "id": "1418377",
+            "score": 0.00237
+        },
+        {
+            "name": "Pongamia pinnata (L.) Pierre",
+            "id": "1408557",
+            "score": 0.00236
+        },
+        {
+            "name": "Euonymus latifolius (L.) Mill.",
+            "id": "1392238",
+            "score": 0.00233
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.00215
+        },
+        {
+            "name": "Nephelium lappaceum L.",
+            "id": "1400287",
+            "score": 0.00189
+        },
+        {
+            "name": "Prunus brigantina Vill.",
+            "id": "1394945",
+            "score": 0.0018
+        },
+        {
+            "name": "Hura crepitans L.",
+            "id": "1376239",
+            "score": 0.00177
+        },
+        {
+            "name": "Cornus kousa Bürger ex Hance",
+            "id": "1720853",
+            "score": 0.00176
+        },
+        {
+            "name": "Ilex mucronata (L.) M.Powell, Savol. & S.Andrews",
+            "id": "1815756",
+            "score": 0.00169
+        },
+        {
+            "name": "Fraxinus pennsylvanica Marshall",
+            "id": "1392363",
+            "score": 0.00166
+        },
+        {
+            "name": "Populus balsamifera L.",
+            "id": "1394775",
+            "score": 0.00158
+        },
+        {
+            "name": "Ficus racemosa L.",
+            "id": "1419511",
+            "score": 0.00157
+        },
+        {
+            "name": "Dendrolobium umbellatum (L.) Benth.",
+            "id": "1407923",
+            "score": 0.00154
+        },
+        {
+            "name": "Lonicera canadensis J.Bartram & W.Bartram ex Marshall",
+            "id": "1815744",
+            "score": 0.00149
+        },
+        {
+            "name": "Sindora supa Merr.",
+            "id": "1430496",
+            "score": 0.00149
+        },
+        {
+            "name": "Ficus vallis-choudae Delile",
+            "id": "1384110",
+            "score": 0.00148
+        },
+        {
+            "name": "Carya glabra (Mill.) Sweet",
+            "id": "1411341",
+            "score": 0.00138
+        },
+        {
+            "name": "Lonicera fragrantissima Lindl. & Paxton",
+            "id": "1389306",
+            "score": 0.00137
+        },
+        {
+            "name": "Cariniana estrellensis (Raddi) Kuntze",
+            "id": "1567653",
+            "score": 0.00135
+        },
+        {
+            "name": "Diospyros virginiana L.",
+            "id": "1389362",
+            "score": 0.00133
+        },
+        {
+            "name": "Carpinus orientalis Mill.",
+            "id": "1398832",
+            "score": 0.00133
+        },
+        {
+            "name": "Rhododendron schlippenbachii Maxim.",
+            "id": "1418789",
+            "score": 0.00133
+        },
+        {
+            "name": "Fagus hayatae Palib. ex Hayata",
+            "id": "1547787",
+            "score": 0.00127
+        },
+        {
+            "name": "Acer capillipes Maxim.",
+            "id": "1721471",
+            "score": 0.00122
+        },
+        {
+            "name": "Fraxinus chinensis Roxb.",
+            "id": "1609137",
+            "score": 0.00121
+        },
+        {
+            "name": "Reynoutria sachalinensis (F.Schmidt) Nakai",
+            "id": "1395151",
+            "score": 0.00118
+        },
+        {
+            "name": "Broussonetia papyrifera (L.) L'Hér. ex Vent.",
+            "id": "1362912",
+            "score": 0.00115
+        },
+        {
+            "name": "Handroanthus albus (Cham.) Mattos",
+            "id": "1476689",
+            "score": 0.00113
+        },
+        {
+            "name": "Celtis koraiensis Nakai",
+            "id": "1390606",
+            "score": 0.00112
+        },
+        {
+            "name": "Magnolia liliiflora Desr.",
+            "id": "1397622",
+            "score": 0.0011
+        },
+        {
+            "name": "Cladrastis kentukea (Dum.Cours.) Rudd",
+            "id": "1418918",
+            "score": 0.00109
+        },
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.00108
+        },
+        {
+            "name": "Vitis riparia Michx.",
+            "id": "1363006",
+            "score": 0.00101
+        },
+        {
+            "name": "Populus tremuloides Michx.",
+            "id": "1413261",
+            "score": 0.00098
+        },
+        {
+            "name": "Jatropha gossypiifolia L.",
+            "id": "1401703",
+            "score": 0.00098
+        },
+        {
+            "name": "Carya ovata (Mill.) K.Koch",
+            "id": "1398330",
+            "score": 0.00098
+        },
+        {
+            "name": "Vaccinium membranaceum Douglas ex Torr.",
+            "id": "1414145",
+            "score": 0.00096
+        },
+        {
+            "name": "Hydrangea paniculata Siebold",
+            "id": "1393223",
+            "score": 0.00095
+        },
+        {
+            "name": "Salix myrsinifolia Salisb.",
+            "id": "1395843",
+            "score": 0.00087
+        },
+        {
+            "name": "Cornus alternifolia L.f.",
+            "id": "1406479",
+            "score": 0.00086
+        },
+        {
+            "name": "Lindera benzoin (L.) Blume",
+            "id": "1412506",
+            "score": 0.00083
+        },
+        {
+            "name": "Liquidambar formosana Hance",
+            "id": "1390586",
+            "score": 0.0008
+        },
+        {
+            "name": "Cornus controversa Hemsl.",
+            "id": "1418490",
+            "score": 0.0008
+        },
+        {
+            "name": "Toxicodendron radicans (L.) Kuntze",
+            "id": "1396819",
+            "score": 0.00078
+        },
+        {
+            "name": "Enkianthus perulatus (Miq.) C.K.Schneid.",
+            "id": "1538573",
+            "score": 0.00077
+        },
+        {
+            "name": "Ficus palmata Forssk.",
+            "id": "1363141",
+            "score": 0.00077
+        },
+        {
+            "name": "Poliothyrsis sinensis Hook.f.",
+            "id": "1776822",
+            "score": 0.00075
+        },
+        {
+            "name": "Acer tataricum L.",
+            "id": "1398270",
+            "score": 0.00073
+        },
+        {
+            "name": "Chionanthus virginicus L.",
+            "id": "1419614",
+            "score": 0.00072
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00069
+        },
+        {
+            "name": "Viburnum lentago L.",
+            "id": "1414187",
+            "score": 0.00068
+        },
+        {
+            "name": "Carpinus cordata Blume",
+            "id": "1476257",
+            "score": 0.00066
+        },
+        {
+            "name": "Diospyros kaki L.f.",
+            "id": "1391735",
+            "score": 0.00064
+        },
+        {
+            "name": "Davidia involucrata Baill.",
+            "id": "1419609",
+            "score": 0.00064
+        },
+        {
+            "name": "Cornus nuttallii Audubon ex Torr. & A.Gray",
+            "id": "1528093",
+            "score": 0.00063
+        },
+        {
+            "name": "Strychnos potatorum L.f.",
+            "id": "1432342",
+            "score": 0.00063
+        },
+        {
+            "name": "Aesculus × bushii C.K.Schneid.",
+            "id": "1685359",
+            "score": 0.00063
+        },
+        {
+            "name": "Fagus engleriana Seemen ex Diels",
+            "id": "1547786",
+            "score": 0.00062
+        },
+        {
+            "name": "Calycanthus floridus L.",
+            "id": "1398326",
+            "score": 0.0006
+        },
+        {
+            "name": "Nyssa sylvatica Marshall",
+            "id": "1412837",
+            "score": 0.0006
+        },
+        {
+            "name": "Rhamnus fallax Boiss.",
+            "id": "1741715",
+            "score": 0.00059
+        },
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.00059
+        },
+        {
+            "name": "Pueraria montana (Lour.) Merr.",
+            "id": "1419021",
+            "score": 0.00058
+        },
+        {
+            "name": "Celtis occidentalis L.",
+            "id": "1397796",
+            "score": 0.00058
+        },
+        {
+            "name": "Magnolia denudata Desr.",
+            "id": "1393717",
+            "score": 0.00056
+        },
+        {
+            "name": "Fraxinus stylosa Lingelsh.",
+            "id": "1609166",
+            "score": 0.00055
+        },
+        {
+            "name": "Alangium chinense (Lour.) Harms",
+            "id": "1388674",
+            "score": 0.00055
+        },
+        {
+            "name": "Fraxinus lanuginosa Koidz.",
+            "id": "1609147",
+            "score": 0.00053
+        },
+        {
+            "name": "Amelanchier canadensis (L.) Medik.",
+            "id": "1397734",
+            "score": 0.00052
+        },
+        {
+            "name": "Erythrina variegata L.",
+            "id": "1366936",
+            "score": 0.00052
+        },
+        {
+            "name": "Catalpa bignonioides Walter",
+            "id": "1388727",
+            "score": 0.00052
+        },
+        {
+            "name": "Vitex quinata (Lour.) F.N.Williams",
+            "id": "1431046",
+            "score": 0.00052
+        }
+    ]
+}

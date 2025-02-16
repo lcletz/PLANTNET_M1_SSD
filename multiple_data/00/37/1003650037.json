@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lamium album L.",
+            "id": "1393423",
+            "score": 0.7208
+        },
+        {
+            "name": "Lamium flexuosum Ten.",
+            "id": "1358749",
+            "score": 0.23367
+        },
+        {
+            "name": "Lamium maculatum (L.) L.",
+            "id": "1393425",
+            "score": 0.01161
+        },
+        {
+            "name": "Lamium purpureum L.",
+            "id": "1358752",
+            "score": 0.0032
+        },
+        {
+            "name": "Lamium orvala L.",
+            "id": "1399231",
+            "score": 0.00175
+        },
+        {
+            "name": "Lamium galeobdolon (L.) L.",
+            "id": "1361823",
+            "score": 0.00149
+        },
+        {
+            "name": "Lamium hybridum Vill.",
+            "id": "1358751",
+            "score": 0.00101
+        }
+    ]
+}

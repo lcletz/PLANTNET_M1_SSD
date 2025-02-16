@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Coreopsis lanceolata L.",
+            "id": "1391350",
+            "score": 0.47862
+        },
+        {
+            "name": "Coreopsis grandiflora Hogg ex Sweet",
+            "id": "1391349",
+            "score": 0.46943
+        },
+        {
+            "name": "Cosmos sulphureus Cav.",
+            "id": "1373705",
+            "score": 0.00709
+        },
+        {
+            "name": "Coreopsis auriculata L.",
+            "id": "1441678",
+            "score": 0.00463
+        },
+        {
+            "name": "Coreopsis tinctoria Nutt.",
+            "id": "1391351",
+            "score": 0.00364
+        },
+        {
+            "name": "Coreopsis pubescens Elliott",
+            "id": "1441701",
+            "score": 0.00224
+        },
+        {
+            "name": "Cosmos caudatus Kunth",
+            "id": "1406252",
+            "score": 0.00144
+        }
+    ]
+}

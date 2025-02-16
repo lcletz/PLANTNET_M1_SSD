@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dianthus caryophyllus L.",
+            "id": "1356843",
+            "score": 0.61638
+        },
+        {
+            "name": "Dianthus barbatus L.",
+            "id": "1397367",
+            "score": 0.18861
+        },
+        {
+            "name": "Dianthus chinensis L.",
+            "id": "1398495",
+            "score": 0.11926
+        },
+        {
+            "name": "Dianthus plumarius L.",
+            "id": "1391707",
+            "score": 0.01834
+        },
+        {
+            "name": "Dianthus petraeus Waldst. & Kit.",
+            "id": "1492717",
+            "score": 0.00198
+        },
+        {
+            "name": "Dianthus gratianopolitanus Vill.",
+            "id": "1391691",
+            "score": 0.00102
+        }
+    ]
+}

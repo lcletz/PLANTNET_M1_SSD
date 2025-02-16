@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ribes rubrum L.",
+            "id": "1397543",
+            "score": 0.88477
+        },
+        {
+            "name": "Ribes alpinum L.",
+            "id": "1358682",
+            "score": 0.01492
+        },
+        {
+            "name": "Ribes petraeum Wulfen",
+            "id": "1358683",
+            "score": 0.01162
+        },
+        {
+            "name": "Ribes nigrum L.",
+            "id": "1395200",
+            "score": 0.00386
+        },
+        {
+            "name": "Dioscorea communis (L.) Caddick & Wilkin",
+            "id": "1361109",
+            "score": 0.00319
+        },
+        {
+            "name": "Rubus saxatilis L.",
+            "id": "1395601",
+            "score": 0.00263
+        },
+        {
+            "name": "Ribes triste Pall.",
+            "id": "1413489",
+            "score": 0.0023
+        },
+        {
+            "name": "Viburnum trilobum Marshall",
+            "id": "1397611",
+            "score": 0.00153
+        }
+    ]
+}

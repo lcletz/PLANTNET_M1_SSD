@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Geranium rivulare Vill.",
+            "id": "1392595",
+            "score": 0.71124
+        },
+        {
+            "name": "Geranium sanguineum L.",
+            "id": "1392597",
+            "score": 0.19437
+        },
+        {
+            "name": "Geranium maculatum L.",
+            "id": "1412160",
+            "score": 0.03156
+        },
+        {
+            "name": "Geranium pratense L.",
+            "id": "1397394",
+            "score": 0.01114
+        },
+        {
+            "name": "Geranium columbinum L.",
+            "id": "1358671",
+            "score": 0.00254
+        },
+        {
+            "name": "Geranium versicolor L.",
+            "id": "1392600",
+            "score": 0.00106
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Veronica austriaca L.",
+            "id": "1362391",
+            "score": 0.5037
+        },
+        {
+            "name": "Veronica teucrium L.",
+            "id": "1397074",
+            "score": 0.31538
+        },
+        {
+            "name": "Veronica prostrata L.",
+            "id": "1397067",
+            "score": 0.03368
+        },
+        {
+            "name": "Veronica orsiniana Ten.",
+            "id": "1397061",
+            "score": 0.00862
+        },
+        {
+            "name": "Veronica chamaedrys L.",
+            "id": "1397521",
+            "score": 0.0063
+        },
+        {
+            "name": "Veronica beccabunga L.",
+            "id": "1364067",
+            "score": 0.00453
+        },
+        {
+            "name": "Veronica officinalis L.",
+            "id": "1364068",
+            "score": 0.00387
+        },
+        {
+            "name": "Veronica satureiifolia Poit. & Turpin",
+            "id": "1742112",
+            "score": 0.00242
+        },
+        {
+            "name": "Veronica anagallis-aquatica L.",
+            "id": "1364062",
+            "score": 0.00231
+        },
+        {
+            "name": "Veronica ponae Gouan",
+            "id": "1397065",
+            "score": 0.00203
+        }
+    ]
+}

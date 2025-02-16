@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Arbutus unedo L.",
+            "id": "1358500",
+            "score": 0.62088
+        },
+        {
+            "name": "Arbutus andrachne L.",
+            "id": "1395933",
+            "score": 0.33509
+        },
+        {
+            "name": "Arbutus × andrachnoides Link",
+            "id": "1537929",
+            "score": 0.01144
+        },
+        {
+            "name": "Myrica cerifera L.",
+            "id": "1380584",
+            "score": 0.00142
+        },
+        {
+            "name": "Myrica californica Cham.",
+            "id": "1815584",
+            "score": 0.00104
+        }
+    ]
+}

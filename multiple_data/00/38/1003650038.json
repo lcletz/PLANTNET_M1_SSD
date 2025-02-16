@@ -1,0 +1,325 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ranunculus ficaria L.",
+            "id": "1413421",
+            "score": 0.12012
+        },
+        {
+            "name": "Centella asiatica (L.) Urb.",
+            "id": "1384653",
+            "score": 0.0888
+        },
+        {
+            "name": "Sonchus tenerrimus L.",
+            "id": "1364171",
+            "score": 0.06641
+        },
+        {
+            "name": "Valeriana tripteris L.",
+            "id": "1396984",
+            "score": 0.04144
+        },
+        {
+            "name": "Lactuca muralis (L.) E.Mey.",
+            "id": "1737633",
+            "score": 0.02841
+        },
+        {
+            "name": "Rumex scutatus L.",
+            "id": "1362485",
+            "score": 0.01026
+        },
+        {
+            "name": "Cochlearia danica L.",
+            "id": "1391310",
+            "score": 0.00827
+        },
+        {
+            "name": "Melothria pendula L.",
+            "id": "1401361",
+            "score": 0.00824
+        },
+        {
+            "name": "Tussilago farfara L.",
+            "id": "1357950",
+            "score": 0.0079
+        },
+        {
+            "name": "Valeriana graciliflora (Fisch. & C.A.Mey.) Byng & Christenh.",
+            "id": "1743348",
+            "score": 0.00734
+        },
+        {
+            "name": "Delairea odorata Lem.",
+            "id": "1364133",
+            "score": 0.00734
+        },
+        {
+            "name": "Pericallis webbii (Sch.Bip.) Bolle",
+            "id": "1517160",
+            "score": 0.00649
+        },
+        {
+            "name": "Hesperocodon hederaceus (L.) Eddie & Cupido",
+            "id": "1738627",
+            "score": 0.00621
+        },
+        {
+            "name": "Ranunculus ficarioides Bory & Chaub.",
+            "id": "1425452",
+            "score": 0.00609
+        },
+        {
+            "name": "Sonchus oleraceus L.",
+            "id": "1364170",
+            "score": 0.00552
+        },
+        {
+            "name": "Hydrocotyle sibthorpioides Lam.",
+            "id": "1384659",
+            "score": 0.00544
+        },
+        {
+            "name": "Pericallis murrayi (Bornm.) B.Nord.",
+            "id": "1517157",
+            "score": 0.00429
+        },
+        {
+            "name": "Atriplex prostrata Boucher ex DC.",
+            "id": "1356488",
+            "score": 0.00428
+        },
+        {
+            "name": "Calystegia sepium (L.) R.Br.",
+            "id": "1426068",
+            "score": 0.00398
+        },
+        {
+            "name": "Cardamine raphanifolia Pourr.",
+            "id": "1397338",
+            "score": 0.00374
+        },
+        {
+            "name": "Cochlearia officinalis L.",
+            "id": "1391312",
+            "score": 0.00365
+        },
+        {
+            "name": "Barbarea verna (Mill.) Asch.",
+            "id": "1363871",
+            "score": 0.00317
+        },
+        {
+            "name": "Doronicum pardalianches L.",
+            "id": "1391759",
+            "score": 0.00307
+        },
+        {
+            "name": "Campanula poscharskyana Degen",
+            "id": "1390649",
+            "score": 0.00285
+        },
+        {
+            "name": "Campanula rotundifolia L.",
+            "id": "1362422",
+            "score": 0.00268
+        },
+        {
+            "name": "Caltha palustris L.",
+            "id": "1397332",
+            "score": 0.00264
+        },
+        {
+            "name": "Calystegia silvatica (Kit.) Griseb.",
+            "id": "1357966",
+            "score": 0.00263
+        },
+        {
+            "name": "Cardamine pratensis L.",
+            "id": "1358213",
+            "score": 0.00247
+        },
+        {
+            "name": "Fagopyrum esculentum Moench",
+            "id": "1356095",
+            "score": 0.00246
+        },
+        {
+            "name": "Crepis bursifolia L.",
+            "id": "1357526",
+            "score": 0.00245
+        },
+        {
+            "name": "Pericallis papyracea (DC.) B.Nord.",
+            "id": "1517158",
+            "score": 0.00225
+        },
+        {
+            "name": "Valeriana montana L.",
+            "id": "1396976",
+            "score": 0.00214
+        },
+        {
+            "name": "Homogyne alpina (L.) Cass.",
+            "id": "1393200",
+            "score": 0.00211
+        },
+        {
+            "name": "Emilia graminea DC.",
+            "id": "1506871",
+            "score": 0.0021
+        },
+        {
+            "name": "Smyrnium perfoliatum L.",
+            "id": "1360802",
+            "score": 0.00203
+        },
+        {
+            "name": "Cochlearia anglica L.",
+            "id": "1391309",
+            "score": 0.00186
+        },
+        {
+            "name": "Coccinia grandis (L.) Voigt",
+            "id": "1363157",
+            "score": 0.00176
+        },
+        {
+            "name": "Doronicum caucasicum M.Bieb.",
+            "id": "1741451",
+            "score": 0.00171
+        },
+        {
+            "name": "Cardamine amara L.",
+            "id": "1397336",
+            "score": 0.0017
+        },
+        {
+            "name": "Cicerbita alpina Wallr.",
+            "id": "1738123",
+            "score": 0.00163
+        },
+        {
+            "name": "Doronicum columnae Ten.",
+            "id": "1391752",
+            "score": 0.0016
+        },
+        {
+            "name": "Mikania scandens (L.) Willd.",
+            "id": "1405212",
+            "score": 0.00155
+        },
+        {
+            "name": "Senecio massaicus (Maire) Maire",
+            "id": "1357863",
+            "score": 0.0015
+        },
+        {
+            "name": "Pericallis lanata (L'Hér.) B.Nord.",
+            "id": "1389248",
+            "score": 0.0015
+        },
+        {
+            "name": "Valeriana cornucopiae L.",
+            "id": "1743969",
+            "score": 0.00148
+        },
+        {
+            "name": "Doronicum plantagineum L.",
+            "id": "1357561",
+            "score": 0.00147
+        },
+        {
+            "name": "Centella erecta (L.f.) Fernald",
+            "id": "1457081",
+            "score": 0.00143
+        },
+        {
+            "name": "Brassica rapa L.",
+            "id": "1363906",
+            "score": 0.00142
+        },
+        {
+            "name": "Lophospermum erubescens D.Don",
+            "id": "1408351",
+            "score": 0.00135
+        },
+        {
+            "name": "Oxyria digyna (L.) Hill",
+            "id": "1394366",
+            "score": 0.00129
+        },
+        {
+            "name": "Aposeris foetida (L.) Less.",
+            "id": "1395287",
+            "score": 0.00127
+        },
+        {
+            "name": "Nasturtium officinale W.T.Aiton",
+            "id": "1409146",
+            "score": 0.00126
+        },
+        {
+            "name": "Calystegia soldanella (L.) R.Br.",
+            "id": "1721018",
+            "score": 0.00119
+        },
+        {
+            "name": "Bossiaea aquifolium Benth.",
+            "id": "1573663",
+            "score": 0.00116
+        },
+        {
+            "name": "Cardamine flexuosa With.",
+            "id": "1363883",
+            "score": 0.00114
+        },
+        {
+            "name": "Thunbergia alata Bojer ex Sims",
+            "id": "1385353",
+            "score": 0.00112
+        },
+        {
+            "name": "Eutrema japonicum (Miq.) Koidz.",
+            "id": "1480824",
+            "score": 0.00109
+        },
+        {
+            "name": "Cyclanthera carthagenensis (Jacq.) H.Schaef. & S.S.Renner",
+            "id": "1726393",
+            "score": 0.00108
+        },
+        {
+            "name": "Cucumis melo L.",
+            "id": "1363647",
+            "score": 0.00107
+        },
+        {
+            "name": "Fallopia convolvulus (L.) Á.Löve",
+            "id": "1392250",
+            "score": 0.00105
+        },
+        {
+            "name": "Hyoseris radiata L.",
+            "id": "1357652",
+            "score": 0.00104
+        },
+        {
+            "name": "Phyteuma spicatum L.",
+            "id": "1394555",
+            "score": 0.00102
+        },
+        {
+            "name": "Campanula portenschlagiana Schult.",
+            "id": "1418359",
+            "score": 0.00101
+        },
+        {
+            "name": "Tropaeolum majus L.",
+            "id": "1356229",
+            "score": 0.00101
+        }
+    ]
+}

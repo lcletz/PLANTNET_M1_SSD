@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Epilobium hirsutum L.",
+            "id": "1361947",
+            "score": 0.92906
+        },
+        {
+            "name": "Epilobium parviflorum Schreb.",
+            "id": "1359686",
+            "score": 0.04384
+        },
+        {
+            "name": "Epilobium tetragonum L.",
+            "id": "1359688",
+            "score": 0.00254
+        },
+        {
+            "name": "Epilobium ciliatum Raf.",
+            "id": "1391890",
+            "score": 0.00153
+        },
+        {
+            "name": "Epilobium lanceolatum Sebast. & Mauri",
+            "id": "1359683",
+            "score": 0.00138
+        }
+    ]
+}

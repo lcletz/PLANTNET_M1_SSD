@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Veronica spicata L.",
+            "id": "1397522",
+            "score": 0.73813
+        },
+        {
+            "name": "Veronica longifolia L.",
+            "id": "1397056",
+            "score": 0.19814
+        },
+        {
+            "name": "Veronica porphyriana Pavlov",
+            "id": "1646755",
+            "score": 0.00279
+        },
+        {
+            "name": "Veronica allionii Vill.",
+            "id": "1397042",
+            "score": 0.00276
+        },
+        {
+            "name": "Veronicastrum virginicum (L.) Farw.",
+            "id": "1414182",
+            "score": 0.00267
+        },
+        {
+            "name": "Veronica spuria L.",
+            "id": "1646782",
+            "score": 0.00224
+        },
+        {
+            "name": "Veronicastrum sibiricum (L.) Pennell",
+            "id": "1646817",
+            "score": 0.0021
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sambucus canadensis L.",
+            "id": "1356462",
+            "score": 0.62699
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.19606
+        },
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.1157
+        },
+        {
+            "name": "Prunus brigantina Vill.",
+            "id": "1394945",
+            "score": 0.01111
+        },
+        {
+            "name": "Euonymus latifolius (L.) Mill.",
+            "id": "1392238",
+            "score": 0.00224
+        },
+        {
+            "name": "Sambucus ebulus L.",
+            "id": "1356276",
+            "score": 0.00055
+        },
+        {
+            "name": "Aralia spinosa L.",
+            "id": "1435260",
+            "score": 0.00043
+        }
+    ]
+}

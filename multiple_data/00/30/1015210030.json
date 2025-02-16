@@ -1,0 +1,485 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cistus lasianthus Lam.",
+            "id": "1362183",
+            "score": 0.53315
+        },
+        {
+            "name": "Cistus salviifolius L.",
+            "id": "1357111",
+            "score": 0.08179
+        },
+        {
+            "name": "Elaeagnus umbellata Thunb.",
+            "id": "1391838",
+            "score": 0.04438
+        },
+        {
+            "name": "Saponaria ocymoides L.",
+            "id": "1361747",
+            "score": 0.03918
+        },
+        {
+            "name": "Cistus crispus L.",
+            "id": "1357100",
+            "score": 0.03289
+        },
+        {
+            "name": "Cistus × laxus Aiton",
+            "id": "1495414",
+            "score": 0.02672
+        },
+        {
+            "name": "Cistus laurifolius L.",
+            "id": "1357104",
+            "score": 0.02218
+        },
+        {
+            "name": "Billardiera scandens Sm.",
+            "id": "1645690",
+            "score": 0.02102
+        },
+        {
+            "name": "Cistus × incanus L.",
+            "id": "1495412",
+            "score": 0.01836
+        },
+        {
+            "name": "Helianthemum nummularium (L.) Mill.",
+            "id": "1357148",
+            "score": 0.01498
+        },
+        {
+            "name": "Paronychia fastigiata (Raf.) Fernald",
+            "id": "1412957",
+            "score": 0.0149
+        },
+        {
+            "name": "Silene noctiflora L.",
+            "id": "1363341",
+            "score": 0.01283
+        },
+        {
+            "name": "Muehlenbeckia hastulata (Sm.) I.M.Johnst.",
+            "id": "1658281",
+            "score": 0.01217
+        },
+        {
+            "name": "Cistus creticus L.",
+            "id": "1357099",
+            "score": 0.01052
+        },
+        {
+            "name": "Cistus ocymoides Lam.",
+            "id": "1361749",
+            "score": 0.00816
+        },
+        {
+            "name": "Teucrium marum L.",
+            "id": "1362044",
+            "score": 0.00749
+        },
+        {
+            "name": "Cytisus villosus Pourr.",
+            "id": "1359182",
+            "score": 0.00726
+        },
+        {
+            "name": "Cistus albidus L.",
+            "id": "1357096",
+            "score": 0.00668
+        },
+        {
+            "name": "Crocanthemum brasiliense (Lam.) Spach",
+            "id": "1734536",
+            "score": 0.00608
+        },
+        {
+            "name": "Rhododendron intricatum Franch.",
+            "id": "1540215",
+            "score": 0.00582
+        },
+        {
+            "name": "Fuchsia microphylla Kunth",
+            "id": "1406309",
+            "score": 0.00523
+        },
+        {
+            "name": "Symphyotrichum georgianum (Alexander) G.L.Nesom",
+            "id": "1522190",
+            "score": 0.00513
+        },
+        {
+            "name": "Daboecia cantabrica (Huds.) K.Koch",
+            "id": "1391550",
+            "score": 0.00496
+        },
+        {
+            "name": "Salix aurita L.",
+            "id": "1395745",
+            "score": 0.00464
+        },
+        {
+            "name": "Cistus halimifolius L.",
+            "id": "1361753",
+            "score": 0.00452
+        },
+        {
+            "name": "Cistus umbellatus L.",
+            "id": "1362184",
+            "score": 0.00438
+        },
+        {
+            "name": "Goodenia heterophylla Sm.",
+            "id": "1553932",
+            "score": 0.00381
+        },
+        {
+            "name": "Antirrhinum graniticum Rothm.",
+            "id": "1400022",
+            "score": 0.00379
+        },
+        {
+            "name": "Patersonia sericea R.Br.",
+            "id": "1557366",
+            "score": 0.00369
+        },
+        {
+            "name": "Escallonia illinita C.Presl",
+            "id": "1392131",
+            "score": 0.00346
+        },
+        {
+            "name": "Cistus populifolius L.",
+            "id": "1357109",
+            "score": 0.00319
+        },
+        {
+            "name": "Nicotiana plumbaginifolia Viv.",
+            "id": "1356161",
+            "score": 0.00311
+        },
+        {
+            "name": "Bothriospermum zeylanicum (J.Jacq.) Druce",
+            "id": "1409021",
+            "score": 0.00305
+        },
+        {
+            "name": "Prostanthera rotundifolia R.Br.",
+            "id": "1562224",
+            "score": 0.00291
+        },
+        {
+            "name": "Plumbago zeylanica L.",
+            "id": "1363961",
+            "score": 0.00278
+        },
+        {
+            "name": "Silene baccifera (L.) Durande",
+            "id": "1721312",
+            "score": 0.00256
+        },
+        {
+            "name": "Cistus inflatus Pourr. ex J.-P.Demoly",
+            "id": "1495413",
+            "score": 0.00256
+        },
+        {
+            "name": "Cistus ladanifer L.",
+            "id": "1357103",
+            "score": 0.00253
+        },
+        {
+            "name": "Salix myrsinifolia Salisb.",
+            "id": "1395843",
+            "score": 0.00248
+        },
+        {
+            "name": "Galium rotundifolium L.",
+            "id": "1360412",
+            "score": 0.00238
+        },
+        {
+            "name": "Rhododendron roseum (Loisel.) Rehder",
+            "id": "1540408",
+            "score": 0.00232
+        },
+        {
+            "name": "Antirrhinum latifolium Mill.",
+            "id": "1362531",
+            "score": 0.00228
+        },
+        {
+            "name": "Delphinium consolida L.",
+            "id": "1360164",
+            "score": 0.00228
+        },
+        {
+            "name": "Asterolasia correifolia (A.Juss.) Benth.",
+            "id": "1682180",
+            "score": 0.00226
+        },
+        {
+            "name": "Rhododendron menziesii Craven",
+            "id": "1815296",
+            "score": 0.00223
+        },
+        {
+            "name": "Clematis viticella L.",
+            "id": "1391301",
+            "score": 0.00222
+        },
+        {
+            "name": "Rhododendron indicum (L.) Sweet",
+            "id": "1418768",
+            "score": 0.0022
+        },
+        {
+            "name": "Xerochlamys bojeriana (Baill.) F.Gérard",
+            "id": "1687593",
+            "score": 0.00219
+        },
+        {
+            "name": "Correa reflexa (Labill.) Vent.",
+            "id": "1420543",
+            "score": 0.00214
+        },
+        {
+            "name": "Crocanthemum corymbosum (Michx.) Britton",
+            "id": "1819373",
+            "score": 0.00205
+        },
+        {
+            "name": "Rhododendron kaempferi Planch.",
+            "id": "1389417",
+            "score": 0.00203
+        },
+        {
+            "name": "Rhododendron canescens (Michx.) Sweet",
+            "id": "1418751",
+            "score": 0.00189
+        },
+        {
+            "name": "Berteroa mutabilis (Vent.) DC.",
+            "id": "1398949",
+            "score": 0.00184
+        },
+        {
+            "name": "Chromolaena odorata (L.) R.M.King & H.Rob.",
+            "id": "1403855",
+            "score": 0.00182
+        },
+        {
+            "name": "Helianthemum aegyptiacum (L.) Mill.",
+            "id": "1357123",
+            "score": 0.00179
+        },
+        {
+            "name": "Filago pyramidata L.",
+            "id": "1357594",
+            "score": 0.00177
+        },
+        {
+            "name": "Baccharis dracunculifolia DC.",
+            "id": "1404365",
+            "score": 0.00171
+        },
+        {
+            "name": "Rumex conglomeratus Murray",
+            "id": "1356078",
+            "score": 0.00167
+        },
+        {
+            "name": "Fockea edulis (Thunb.) K.Schum.",
+            "id": "1460626",
+            "score": 0.00167
+        },
+        {
+            "name": "Legousia speculum-veneris (L.) Chaix",
+            "id": "1356770",
+            "score": 0.00159
+        },
+        {
+            "name": "Aquilegia nigricans Baumg.",
+            "id": "1398909",
+            "score": 0.00155
+        },
+        {
+            "name": "Viguiera dentata (Cav.) Spreng.",
+            "id": "1439586",
+            "score": 0.00152
+        },
+        {
+            "name": "Prostanthera incisa R.Br.",
+            "id": "1562195",
+            "score": 0.00152
+        },
+        {
+            "name": "Chenopodium vulvaria L.",
+            "id": "1356331",
+            "score": 0.00143
+        },
+        {
+            "name": "Silene dichotoma Ehrh.",
+            "id": "1356984",
+            "score": 0.00141
+        },
+        {
+            "name": "Berteroa incana (L.) DC.",
+            "id": "1397327",
+            "score": 0.0014
+        },
+        {
+            "name": "Stellaria aquatica (L.) Scop.",
+            "id": "1493766",
+            "score": 0.00139
+        },
+        {
+            "name": "Eriogonum umbellatum Torr.",
+            "id": "1411984",
+            "score": 0.00138
+        },
+        {
+            "name": "Psychotria andevorantensis Bremek.",
+            "id": "1677876",
+            "score": 0.00135
+        },
+        {
+            "name": "Lygodium japonicum (Thunb.) Sw.",
+            "id": "1419357",
+            "score": 0.00134
+        },
+        {
+            "name": "Antirrhinum australe Rothm.",
+            "id": "1359841",
+            "score": 0.00133
+        },
+        {
+            "name": "Cistus parviflorus Lam.",
+            "id": "1357108",
+            "score": 0.00132
+        },
+        {
+            "name": "Buddleja globosa Hope",
+            "id": "1365271",
+            "score": 0.0013
+        },
+        {
+            "name": "Lespedeza violacea Pers.",
+            "id": "1816941",
+            "score": 0.0013
+        },
+        {
+            "name": "Hibbertia empetrifolia (DC.) Hoogland",
+            "id": "1806033",
+            "score": 0.0013
+        },
+        {
+            "name": "Rhododendron uniflorum Hutch. & Kingdon-Ward",
+            "id": "1540505",
+            "score": 0.0012
+        },
+        {
+            "name": "Lotus rectus L.",
+            "id": "1743242",
+            "score": 0.00119
+        },
+        {
+            "name": "Nicotiana quadrivalvis Pursh",
+            "id": "1435181",
+            "score": 0.00118
+        },
+        {
+            "name": "Rhododendron canadense (L.) Torr.",
+            "id": "1413459",
+            "score": 0.00118
+        },
+        {
+            "name": "Escallonia resinosa (Ruiz & Pav.) Pers.",
+            "id": "1423510",
+            "score": 0.00118
+        },
+        {
+            "name": "Silene undulata Aiton",
+            "id": "1382175",
+            "score": 0.00117
+        },
+        {
+            "name": "Convolvulus glomeratus Choisy",
+            "id": "1527171",
+            "score": 0.00116
+        },
+        {
+            "name": "Dampiera purpurea R.Br.",
+            "id": "1553826",
+            "score": 0.00116
+        },
+        {
+            "name": "Oenothera rosea L'Hér. ex Aiton",
+            "id": "1361957",
+            "score": 0.00115
+        },
+        {
+            "name": "Salix atrocinerea Brot.",
+            "id": "1360451",
+            "score": 0.00115
+        },
+        {
+            "name": "Aloysia gratissima (Gillies & Hook.) Tronc.",
+            "id": "1696032",
+            "score": 0.00114
+        },
+        {
+            "name": "Rhinotropis cornuta (Kellogg) J.R.Abbott",
+            "id": "1818343",
+            "score": 0.00114
+        },
+        {
+            "name": "Eclipta prostrata (L.) L.",
+            "id": "1364146",
+            "score": 0.00109
+        },
+        {
+            "name": "Cerastium fontanum Baumg.",
+            "id": "1356277",
+            "score": 0.00108
+        },
+        {
+            "name": "Erigeron laevigatus Rich.",
+            "id": "1410300",
+            "score": 0.00108
+        },
+        {
+            "name": "Zaleya pentandra (L.) C.Jeffrey",
+            "id": "1408845",
+            "score": 0.00108
+        },
+        {
+            "name": "Thymus pulegioides L.",
+            "id": "1396792",
+            "score": 0.00107
+        },
+        {
+            "name": "Rhododendron simsii Planch.",
+            "id": "1395189",
+            "score": 0.00105
+        },
+        {
+            "name": "Silene mutabilis L.",
+            "id": "1396287",
+            "score": 0.00102
+        },
+        {
+            "name": "Strigosella africana (L.) Botsch.",
+            "id": "1741690",
+            "score": 0.001
+        },
+        {
+            "name": "Goodyera foliosa (Lindl.) Benth. ex C.B.Clarke",
+            "id": "1622753",
+            "score": 0.00099
+        }
+    ]
+}

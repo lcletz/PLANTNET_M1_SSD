@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Epilobium tetragonum L.",
+            "id": "1359688",
+            "score": 0.9351
+        },
+        {
+            "name": "Epilobium parviflorum Schreb.",
+            "id": "1359686",
+            "score": 0.01049
+        },
+        {
+            "name": "Epilobium ciliatum Raf.",
+            "id": "1391890",
+            "score": 0.0103
+        },
+        {
+            "name": "Digitalis lutea L.",
+            "id": "1362533",
+            "score": 0.00836
+        },
+        {
+            "name": "Epilobium hirsutum L.",
+            "id": "1361947",
+            "score": 0.00751
+        },
+        {
+            "name": "Valeriana locusta L.",
+            "id": "1722516",
+            "score": 0.00196
+        },
+        {
+            "name": "Digitalis grandiflora Mill.",
+            "id": "1391727",
+            "score": 0.00157
+        }
+    ]
+}

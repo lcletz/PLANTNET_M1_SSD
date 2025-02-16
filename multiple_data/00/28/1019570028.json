@@ -1,0 +1,60 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Reynoutria japonica Houtt.",
+            "id": "1395150",
+            "score": 0.25192
+        },
+        {
+            "name": "Reynoutria sachalinensis (F.Schmidt) Nakai",
+            "id": "1395151",
+            "score": 0.20732
+        },
+        {
+            "name": "Reynoutria × bohemica Chrtek & Chrtková",
+            "id": "1658529",
+            "score": 0.06994
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.0048
+        },
+        {
+            "name": "Solanum dulcamara L.",
+            "id": "1360566",
+            "score": 0.00374
+        },
+        {
+            "name": "Calystegia silvatica (Kit.) Griseb.",
+            "id": "1357966",
+            "score": 0.00354
+        },
+        {
+            "name": "Fallopia convolvulus (L.) Á.Löve",
+            "id": "1392250",
+            "score": 0.0029
+        },
+        {
+            "name": "Euonymus latifolius (L.) Mill.",
+            "id": "1392238",
+            "score": 0.00154
+        },
+        {
+            "name": "Alkekengi officinarum Moench",
+            "id": "1738735",
+            "score": 0.00142
+        },
+        {
+            "name": "Atropa bella-donna L.",
+            "id": "1360548",
+            "score": 0.00122
+        },
+        {
+            "name": "Fallopia dumetorum (L.) Holub",
+            "id": "1392251",
+            "score": 0.00109
+        }
+    ]
+}

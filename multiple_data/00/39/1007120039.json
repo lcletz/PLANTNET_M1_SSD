@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Calendula stellata Cav.",
+            "id": "1357331",
+            "score": 0.59117
+        },
+        {
+            "name": "Calendula officinalis L.",
+            "id": "1357330",
+            "score": 0.23099
+        },
+        {
+            "name": "Calendula arvensis L.",
+            "id": "1390637",
+            "score": 0.02073
+        },
+        {
+            "name": "Coreopsis grandiflora Hogg ex Sweet",
+            "id": "1391349",
+            "score": 0.00217
+        },
+        {
+            "name": "Trollius asiaticus L.",
+            "id": "1420318",
+            "score": 0.00208
+        }
+    ]
+}

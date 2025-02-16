@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Brassica oleracea L.",
+            "id": "1363909",
+            "score": 0.94361
+        },
+        {
+            "name": "Brassica rapa L.",
+            "id": "1363906",
+            "score": 0.00705
+        },
+        {
+            "name": "Lactuca sativa L.",
+            "id": "1364172",
+            "score": 0.00276
+        },
+        {
+            "name": "Dianthus caryophyllus L.",
+            "id": "1356843",
+            "score": 0.0013
+        },
+        {
+            "name": "Crambe maritima L.",
+            "id": "1391425",
+            "score": 0.00108
+        }
+    ]
+}

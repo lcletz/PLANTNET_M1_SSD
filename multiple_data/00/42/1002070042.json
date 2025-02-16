@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hieracium murorum L.",
+            "id": "1393025",
+            "score": 0.36182
+        },
+        {
+            "name": "Hieracium lachenalii Suter",
+            "id": "1392971",
+            "score": 0.13388
+        },
+        {
+            "name": "Hieracium glaucinum Jord.",
+            "id": "1392931",
+            "score": 0.04614
+        },
+        {
+            "name": "Hieracium umbrosum Jord.",
+            "id": "1393170",
+            "score": 0.04186
+        },
+        {
+            "name": "Hieracium umbellatum L.",
+            "id": "1393169",
+            "score": 0.02143
+        },
+        {
+            "name": "Hieracium maculatum Schrank",
+            "id": "1393002",
+            "score": 0.01378
+        },
+        {
+            "name": "Crepis paludosa (L.) Moench",
+            "id": "1391457",
+            "score": 0.01343
+        },
+        {
+            "name": "Hieracium laevigatum Willd.",
+            "id": "1392973",
+            "score": 0.01195
+        },
+        {
+            "name": "Hieracium sabaudum L.",
+            "id": "1393122",
+            "score": 0.00815
+        },
+        {
+            "name": "Hieracium amplexicaule L.",
+            "id": "1357643",
+            "score": 0.00423
+        },
+        {
+            "name": "Crepis biennis L.",
+            "id": "1391445",
+            "score": 0.00276
+        },
+        {
+            "name": "Hieracium bifidum Kit. ex Hornem.",
+            "id": "1737662",
+            "score": 0.00181
+        },
+        {
+            "name": "Crepis lampsanoides (Gouan) Tausch",
+            "id": "1391451",
+            "score": 0.00145
+        },
+        {
+            "name": "Lapsana communis L.",
+            "id": "1364164",
+            "score": 0.00123
+        },
+        {
+            "name": "Scorzonera humilis L.",
+            "id": "1396115",
+            "score": 0.00111
+        }
+    ]
+}

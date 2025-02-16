@@ -1,0 +1,460 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Andryala integrifolia L.",
+            "id": "1357207",
+            "score": 0.16379
+        },
+        {
+            "name": "Andryala ragusina L.",
+            "id": "1357212",
+            "score": 0.11296
+        },
+        {
+            "name": "Pulicaria arabica (L.) Cass.",
+            "id": "1357795",
+            "score": 0.07809
+        },
+        {
+            "name": "Matthiola tricuspidata (L.) W.T.Aiton",
+            "id": "1743249",
+            "score": 0.04605
+        },
+        {
+            "name": "Matthiola longipetala (Vent.) DC.",
+            "id": "1356293",
+            "score": 0.03188
+        },
+        {
+            "name": "Pulicaria paludosa Link",
+            "id": "1400034",
+            "score": 0.03055
+        },
+        {
+            "name": "Alyssum montanum L.",
+            "id": "1362251",
+            "score": 0.02151
+        },
+        {
+            "name": "Hieracium tomentosum L.",
+            "id": "1393160",
+            "score": 0.01588
+        },
+        {
+            "name": "Marcus-kochia littorea (L.) Al-Shehbaz",
+            "id": "1722619",
+            "score": 0.01442
+        },
+        {
+            "name": "Cistus lasianthus Lam.",
+            "id": "1362183",
+            "score": 0.01276
+        },
+        {
+            "name": "Silene colorata Poir.",
+            "id": "1356975",
+            "score": 0.01258
+        },
+        {
+            "name": "Aurinia saxatilis (L.) Desv.",
+            "id": "1397326",
+            "score": 0.01195
+        },
+        {
+            "name": "Convolvulus cantabrica L.",
+            "id": "1357968",
+            "score": 0.00968
+        },
+        {
+            "name": "Gutenbergia boranensis (S.Moore) M.G.Gilbert",
+            "id": "1508811",
+            "score": 0.00854
+        },
+        {
+            "name": "Cerastium tomentosum L.",
+            "id": "1391092",
+            "score": 0.00811
+        },
+        {
+            "name": "Helichrysum arenarium (L.) Moench",
+            "id": "1397398",
+            "score": 0.00802
+        },
+        {
+            "name": "Veronica spicata L.",
+            "id": "1397522",
+            "score": 0.00799
+        },
+        {
+            "name": "Pilosella breviscapa (DC.) Soják",
+            "id": "1389658",
+            "score": 0.00778
+        },
+        {
+            "name": "Cistus parviflorus Lam.",
+            "id": "1357108",
+            "score": 0.00735
+        },
+        {
+            "name": "Centaurea melitensis L.",
+            "id": "1355885",
+            "score": 0.00687
+        },
+        {
+            "name": "Fibigia clypeata (L.) Medik.",
+            "id": "1358302",
+            "score": 0.00684
+        },
+        {
+            "name": "Pilosella officinarum Vaill.",
+            "id": "1517561",
+            "score": 0.00683
+        },
+        {
+            "name": "Matthiola fruticulosa (L.) Maire",
+            "id": "1481437",
+            "score": 0.00681
+        },
+        {
+            "name": "Berteroa incana (L.) DC.",
+            "id": "1397327",
+            "score": 0.00634
+        },
+        {
+            "name": "Cleretum bellidiforme (Burm.f.) G.D.Rowley",
+            "id": "1757175",
+            "score": 0.00613
+        },
+        {
+            "name": "Pallenis maritima (L.) Greuter",
+            "id": "1357742",
+            "score": 0.00604
+        },
+        {
+            "name": "Andryala glandulosa Lam.",
+            "id": "1357206",
+            "score": 0.00567
+        },
+        {
+            "name": "Salvia fruticosa Mill.",
+            "id": "1358866",
+            "score": 0.0055
+        },
+        {
+            "name": "Echium sabulicola Pomel",
+            "id": "1356674",
+            "score": 0.00546
+        },
+        {
+            "name": "Aster amellus L.",
+            "id": "1382107",
+            "score": 0.00467
+        },
+        {
+            "name": "Lavandula stoechas L.",
+            "id": "1358766",
+            "score": 0.00464
+        },
+        {
+            "name": "Silene nocturna L.",
+            "id": "1357025",
+            "score": 0.00453
+        },
+        {
+            "name": "Cistus halimifolius L.",
+            "id": "1361753",
+            "score": 0.00432
+        },
+        {
+            "name": "Pilosella lactucella (Wallr.) P.D.Sell & C.West",
+            "id": "1394577",
+            "score": 0.00377
+        },
+        {
+            "name": "Marcus-kochia triloba (L.) Al-Shehbaz",
+            "id": "1743403",
+            "score": 0.00376
+        },
+        {
+            "name": "Silene nicaeensis All.",
+            "id": "1357023",
+            "score": 0.00347
+        },
+        {
+            "name": "Cerastium arvense L.",
+            "id": "1356817",
+            "score": 0.00331
+        },
+        {
+            "name": "Pallenis spinosa (L.) Cass.",
+            "id": "1357743",
+            "score": 0.00329
+        },
+        {
+            "name": "Helianthemum apenninum (L.) Mill.",
+            "id": "1357126",
+            "score": 0.00299
+        },
+        {
+            "name": "Marcus-kochia ramosissima (Desf.) Al-Shehbaz",
+            "id": "1743323",
+            "score": 0.00296
+        },
+        {
+            "name": "Corethrogyne filaginifolia (Hook. & Arn.) Nutt.",
+            "id": "1441705",
+            "score": 0.00288
+        },
+        {
+            "name": "Odontarrhena muralis (Waldst. & Kit.) Endl.",
+            "id": "1741640",
+            "score": 0.00285
+        },
+        {
+            "name": "Silene sericea All.",
+            "id": "1362756",
+            "score": 0.0027
+        },
+        {
+            "name": "Phlomis lychnitis L.",
+            "id": "1394527",
+            "score": 0.00267
+        },
+        {
+            "name": "Calendula arvensis L.",
+            "id": "1390637",
+            "score": 0.00266
+        },
+        {
+            "name": "Sideritis syriaca L.",
+            "id": "1399412",
+            "score": 0.00262
+        },
+        {
+            "name": "Pentanema montanum (L.) D.Gut.Larr., Santos-Vicente, Anderb., E.Rico & M.M.Mart.Ort.",
+            "id": "1743211",
+            "score": 0.00247
+        },
+        {
+            "name": "Aerva javanica (Burm.f.) Juss. ex Schult.",
+            "id": "1426083",
+            "score": 0.00234
+        },
+        {
+            "name": "Matthiola parviflora (Schousb.) W.T.Aiton",
+            "id": "1722478",
+            "score": 0.0023
+        },
+        {
+            "name": "Echium angustifolium Mill.",
+            "id": "1363851",
+            "score": 0.00218
+        },
+        {
+            "name": "Erysimum pseudorhaeticum Polatschek",
+            "id": "1398924",
+            "score": 0.00215
+        },
+        {
+            "name": "Aster alpinus L.",
+            "id": "1397971",
+            "score": 0.00209
+        },
+        {
+            "name": "Calendula suffruticosa Vahl",
+            "id": "1357332",
+            "score": 0.00199
+        },
+        {
+            "name": "Hieracium alpinum L.",
+            "id": "1392785",
+            "score": 0.00195
+        },
+        {
+            "name": "Silene littorea Brot.",
+            "id": "1357011",
+            "score": 0.00194
+        },
+        {
+            "name": "Pentanema aschersonianum (Janka) D.Gut.Larr., Santos-Vicente, Anderb., E.Rico & M.M.Mart.Ort.",
+            "id": "1745540",
+            "score": 0.00189
+        },
+        {
+            "name": "Silene italica (L.) Pers.",
+            "id": "1357004",
+            "score": 0.00181
+        },
+        {
+            "name": "Erigeron glaucus Ker Gawl.",
+            "id": "1392047",
+            "score": 0.00178
+        },
+        {
+            "name": "Pilosella peleteriana (Mérat) F.W.Schultz & Sch.Bip.",
+            "id": "1394581",
+            "score": 0.0017
+        },
+        {
+            "name": "Silene gallica L.",
+            "id": "1356595",
+            "score": 0.0017
+        },
+        {
+            "name": "Mesembryanthemum crystallinum L.",
+            "id": "1356044",
+            "score": 0.0017
+        },
+        {
+            "name": "Pseudognaphalium luteoalbum (L.) Hilliard & B.L.Burtt",
+            "id": "1737651",
+            "score": 0.00169
+        },
+        {
+            "name": "Buglossoides arvensis (L.) I.M.Johnst.",
+            "id": "1389576",
+            "score": 0.00161
+        },
+        {
+            "name": "Asteriscus aquaticus (L.) Less.",
+            "id": "1357293",
+            "score": 0.0016
+        },
+        {
+            "name": "Andryala agardhii Haens. ex DC.",
+            "id": "1498976",
+            "score": 0.00156
+        },
+        {
+            "name": "Silene conica L.",
+            "id": "1356976",
+            "score": 0.00154
+        },
+        {
+            "name": "Silene undulata Aiton",
+            "id": "1382175",
+            "score": 0.00151
+        },
+        {
+            "name": "Prenanthes petiolata (K.Koch) Sennikov",
+            "id": "1517994",
+            "score": 0.00149
+        },
+        {
+            "name": "Linaria supina (L.) Chaz.",
+            "id": "1362465",
+            "score": 0.00149
+        },
+        {
+            "name": "Dicliptera napierae E.A.Bruce",
+            "id": "1445238",
+            "score": 0.00148
+        },
+        {
+            "name": "Stachys cretica L.",
+            "id": "1396426",
+            "score": 0.00141
+        },
+        {
+            "name": "Epilobium canum (Greene) P.H.Raven",
+            "id": "1609658",
+            "score": 0.00139
+        },
+        {
+            "name": "Andryala pinnatifida Aiton",
+            "id": "1357211",
+            "score": 0.00133
+        },
+        {
+            "name": "Cistus creticus L.",
+            "id": "1357099",
+            "score": 0.00132
+        },
+        {
+            "name": "Helichrysum pendulum (C.Presl) C.Presl",
+            "id": "1509616",
+            "score": 0.00127
+        },
+        {
+            "name": "Casearia coronata Standl. & L.O.Williams",
+            "id": "1683530",
+            "score": 0.00121
+        },
+        {
+            "name": "Pilosella piloselloides (Vill.) Soják",
+            "id": "1394583",
+            "score": 0.0012
+        },
+        {
+            "name": "Aurinia sinuata (L.) Griseb.",
+            "id": "1398322",
+            "score": 0.00116
+        },
+        {
+            "name": "Convolvulus lineatus L.",
+            "id": "1357981",
+            "score": 0.00116
+        },
+        {
+            "name": "Alyssum alyssoides (L.) L.",
+            "id": "1358151",
+            "score": 0.00115
+        },
+        {
+            "name": "Crepis albida Vill.",
+            "id": "1357521",
+            "score": 0.00111
+        },
+        {
+            "name": "Tolpis staticifolia (All.) Sch.Bip.",
+            "id": "1396809",
+            "score": 0.00108
+        },
+        {
+            "name": "Hormathophylla lapeyrouseana (Jord.) P.Küpfer",
+            "id": "1743664",
+            "score": 0.00104
+        },
+        {
+            "name": "Cistus ocymoides Lam.",
+            "id": "1361749",
+            "score": 0.00097
+        },
+        {
+            "name": "Berteroa obliqua (Sm.) DC.",
+            "id": "1398948",
+            "score": 0.00096
+        },
+        {
+            "name": "Salvia muirii L.Bolus",
+            "id": "1562828",
+            "score": 0.00095
+        },
+        {
+            "name": "Heterotheca villosa (Pursh) Shinners",
+            "id": "1412249",
+            "score": 0.00094
+        },
+        {
+            "name": "Dittrichia graveolens (L.) Greuter",
+            "id": "1364127",
+            "score": 0.00093
+        },
+        {
+            "name": "Arabis cypria Holmboe",
+            "id": "1479395",
+            "score": 0.00093
+        },
+        {
+            "name": "Hieracium villosum Jacq.",
+            "id": "1393183",
+            "score": 0.00067
+        },
+        {
+            "name": "Hieracium pilosum Froel.",
+            "id": "1742002",
+            "score": 0.00053
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lagerstroemia indica L.",
+            "id": "1376509",
+            "score": 0.85027
+        },
+        {
+            "name": "Lagerstroemia speciosa (L.) Pers.",
+            "id": "1376510",
+            "score": 0.09453
+        },
+        {
+            "name": "Malpighia glabra L.",
+            "id": "1406672",
+            "score": 0.00512
+        },
+        {
+            "name": "Rhododendron ferrugineum L.",
+            "id": "1397475",
+            "score": 0.00132
+        },
+        {
+            "name": "Lagerstroemia limii Merr.",
+            "id": "1590983",
+            "score": 0.00126
+        }
+    ]
+}

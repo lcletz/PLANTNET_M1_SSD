@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium repens L.",
+            "id": "1363740",
+            "score": 0.89504
+        },
+        {
+            "name": "Trifolium nigrescens Viv.",
+            "id": "1363739",
+            "score": 0.06642
+        },
+        {
+            "name": "Trifolium hybridum L.",
+            "id": "1359497",
+            "score": 0.00657
+        },
+        {
+            "name": "Trifolium pallescens Schreb.",
+            "id": "1396858",
+            "score": 0.00185
+        },
+        {
+            "name": "Trifolium montanum L.",
+            "id": "1359508",
+            "score": 0.00137
+        },
+        {
+            "name": "Trifolium fragiferum L.",
+            "id": "1356278",
+            "score": 0.00111
+        }
+    ]
+}

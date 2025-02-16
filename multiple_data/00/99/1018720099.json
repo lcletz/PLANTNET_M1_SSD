@@ -1,0 +1,20 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Ficus carica L.",
+            "id": "1363142",
+            "score": 0.82291
+        },
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.00132
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.001
+        }
+    ]
+}

@@ -1,0 +1,490 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Artemisia pycnocephala (Less.) DC.",
+            "id": "1437259",
+            "score": 0.11321
+        },
+        {
+            "name": "Echium italicum L.",
+            "id": "1356663",
+            "score": 0.07163
+        },
+        {
+            "name": "Teucrium charidemi Sandwith",
+            "id": "1389402",
+            "score": 0.04879
+        },
+        {
+            "name": "Asparagus albus L.",
+            "id": "1361001",
+            "score": 0.03888
+        },
+        {
+            "name": "Cuscuta epithymum (L.) L.",
+            "id": "1358003",
+            "score": 0.03362
+        },
+        {
+            "name": "Teucrium polium L.",
+            "id": "1359009",
+            "score": 0.03299
+        },
+        {
+            "name": "Echium asperrimum Lam.",
+            "id": "1356646",
+            "score": 0.03112
+        },
+        {
+            "name": "Artemisia californica Less.",
+            "id": "1417764",
+            "score": 0.03097
+        },
+        {
+            "name": "Atriplex canescens (Pursh) Nutt.",
+            "id": "1356479",
+            "score": 0.03058
+        },
+        {
+            "name": "Paronychia capitata (L.) Lam.",
+            "id": "1356907",
+            "score": 0.02528
+        },
+        {
+            "name": "Artemisia tridentata Nutt.",
+            "id": "1413720",
+            "score": 0.02412
+        },
+        {
+            "name": "Camphorosma monspeliaca L.",
+            "id": "1356502",
+            "score": 0.01848
+        },
+        {
+            "name": "Atriplex polycarpa (Torr.) S.Watson",
+            "id": "1450856",
+            "score": 0.01644
+        },
+        {
+            "name": "Paronychia macrosepala Boiss.",
+            "id": "1362354",
+            "score": 0.01428
+        },
+        {
+            "name": "Aerva javanica (Burm.f.) Juss. ex Schult.",
+            "id": "1426083",
+            "score": 0.01148
+        },
+        {
+            "name": "Pleuricospora fimbriolata A.Gray",
+            "id": "1539897",
+            "score": 0.01075
+        },
+        {
+            "name": "Helichrysum stoechas (L.) Moench",
+            "id": "1357630",
+            "score": 0.01031
+        },
+        {
+            "name": "Artemisia arborescens L.",
+            "id": "1396742",
+            "score": 0.00986
+        },
+        {
+            "name": "Astragalus sempervirens Lam.",
+            "id": "1398369",
+            "score": 0.00969
+        },
+        {
+            "name": "Helichrysum italicum (Roth) G.Don",
+            "id": "1392725",
+            "score": 0.00898
+        },
+        {
+            "name": "Atriplex lampa (Moq.) Gillies ex D.Dietr.",
+            "id": "1450809",
+            "score": 0.00871
+        },
+        {
+            "name": "Caroxylon vermiculatum (L.) Akhani & Roalson",
+            "id": "1362940",
+            "score": 0.00813
+        },
+        {
+            "name": "Maireana sedifolia (F.Muell.) Paul G.Wilson",
+            "id": "1805047",
+            "score": 0.00774
+        },
+        {
+            "name": "Holodiscus discolor (Pursh) Maxim.",
+            "id": "1395391",
+            "score": 0.00676
+        },
+        {
+            "name": "Cuscuta palaestina Boiss.",
+            "id": "1358009",
+            "score": 0.00651
+        },
+        {
+            "name": "Croton setiger Hook.",
+            "id": "1544230",
+            "score": 0.00597
+        },
+        {
+            "name": "Pseudognaphalium undulatum (L.) Hilliard & B.L.Burtt",
+            "id": "1518245",
+            "score": 0.00503
+        },
+        {
+            "name": "Bombycilaena erecta (L.) Smoljan.",
+            "id": "1357325",
+            "score": 0.00495
+        },
+        {
+            "name": "Thymelaea velutina (Pourr. ex Cambess.) Endl.",
+            "id": "1390466",
+            "score": 0.0046
+        },
+        {
+            "name": "Ipomopsis congesta (Hook.) V.E.Grant",
+            "id": "1816200",
+            "score": 0.00451
+        },
+        {
+            "name": "Cuscuta salina Engelm.",
+            "id": "1411650",
+            "score": 0.00433
+        },
+        {
+            "name": "Artemisia ludoviciana Nutt.",
+            "id": "1396735",
+            "score": 0.00427
+        },
+        {
+            "name": "Conospermum incurvum Lindl.",
+            "id": "1661759",
+            "score": 0.00418
+        },
+        {
+            "name": "Anchusa crispa Viv.",
+            "id": "1394000",
+            "score": 0.00408
+        },
+        {
+            "name": "Erica lusitanica Rudolphi",
+            "id": "1392024",
+            "score": 0.00406
+        },
+        {
+            "name": "Acrotriche serrulata R.Br.",
+            "id": "1537688",
+            "score": 0.004
+        },
+        {
+            "name": "Baccharis pilularis DC.",
+            "id": "1440015",
+            "score": 0.004
+        },
+        {
+            "name": "Bromus madritensis L.",
+            "id": "1422217",
+            "score": 0.00393
+        },
+        {
+            "name": "Erica arborea L.",
+            "id": "1358503",
+            "score": 0.00381
+        },
+        {
+            "name": "Artemisia herba-alba Asso",
+            "id": "1357277",
+            "score": 0.0038
+        },
+        {
+            "name": "Ozothamnus leptophyllus (G.Forst.) Breitw. & J.M.Ward",
+            "id": "1417873",
+            "score": 0.00356
+        },
+        {
+            "name": "Pseudognaphalium californicum (DC.) Anderb.",
+            "id": "1436967",
+            "score": 0.00352
+        },
+        {
+            "name": "Artemisia caerulescens L.",
+            "id": "1396759",
+            "score": 0.00349
+        },
+        {
+            "name": "Lepidium latifolium L.",
+            "id": "1358352",
+            "score": 0.00343
+        },
+        {
+            "name": "Pseudognaphalium luteoalbum (L.) Hilliard & B.L.Burtt",
+            "id": "1737651",
+            "score": 0.00335
+        },
+        {
+            "name": "Maianthemum racemosum (L.) Link",
+            "id": "1412661",
+            "score": 0.00335
+        },
+        {
+            "name": "Ulex parviflorus Pourr.",
+            "id": "1359548",
+            "score": 0.00325
+        },
+        {
+            "name": "Baccharis salicina Torr. & A.Gray",
+            "id": "1500787",
+            "score": 0.00325
+        },
+        {
+            "name": "Ericameria ericoides (Less.) Nutt. ex Jeps.",
+            "id": "1507033",
+            "score": 0.00323
+        },
+        {
+            "name": "Orobanche caryophyllacea Sm.",
+            "id": "1359718",
+            "score": 0.00322
+        },
+        {
+            "name": "Melica ciliata L.",
+            "id": "1361329",
+            "score": 0.00318
+        },
+        {
+            "name": "Krascheninnikovia ceratoides (L.) Gueldenst.",
+            "id": "1356521",
+            "score": 0.00315
+        },
+        {
+            "name": "Lavandula stoechas L.",
+            "id": "1358766",
+            "score": 0.00311
+        },
+        {
+            "name": "Astragalus iranicus Bunge",
+            "id": "1768946",
+            "score": 0.00306
+        },
+        {
+            "name": "Dypsis pembana (H.E.Moore) Beentje & J.Dransf.",
+            "id": "1469487",
+            "score": 0.00272
+        },
+        {
+            "name": "Artemisia maritima L.",
+            "id": "1397320",
+            "score": 0.00266
+        },
+        {
+            "name": "Asparagus falcatus L.",
+            "id": "1386167",
+            "score": 0.00253
+        },
+        {
+            "name": "Astragalus siculus Biv.",
+            "id": "1399029",
+            "score": 0.00251
+        },
+        {
+            "name": "Sideritis endressii Willk.",
+            "id": "1396259",
+            "score": 0.00245
+        },
+        {
+            "name": "Ozothamnus cinereus (Labill.) Sweet",
+            "id": "1806282",
+            "score": 0.00243
+        },
+        {
+            "name": "Cressa cretica L.",
+            "id": "1364074",
+            "score": 0.00241
+        },
+        {
+            "name": "Ageratina altissima (L.) R.M.King & H.Rob.",
+            "id": "1398123",
+            "score": 0.00238
+        },
+        {
+            "name": "Ononis pubescens L.",
+            "id": "1359422",
+            "score": 0.00234
+        },
+        {
+            "name": "Paronychia argentea Lam.",
+            "id": "1356905",
+            "score": 0.00233
+        },
+        {
+            "name": "Achillea maritima (L.) Ehrend. & Y.P.Guo",
+            "id": "1388812",
+            "score": 0.00224
+        },
+        {
+            "name": "Olearia axillaris (DC.) F.Muell. ex Benth.",
+            "id": "1515878",
+            "score": 0.00219
+        },
+        {
+            "name": "Atriplex hymenelytra (Torr.) S.Watson",
+            "id": "1450791",
+            "score": 0.00217
+        },
+        {
+            "name": "Solidago canadensis L.",
+            "id": "1396336",
+            "score": 0.0021
+        },
+        {
+            "name": "Phlebodium aureum (L.) J.Sm.",
+            "id": "1400653",
+            "score": 0.00206
+        },
+        {
+            "name": "Artemisia arbuscula Nutt.",
+            "id": "1417763",
+            "score": 0.00194
+        },
+        {
+            "name": "Origanum onites L.",
+            "id": "1358844",
+            "score": 0.00192
+        },
+        {
+            "name": "Pseudognaphalium biolettii Anderb. ex Nesom",
+            "id": "1818506",
+            "score": 0.00187
+        },
+        {
+            "name": "Atriplex imbricata (Moq.) D.Dietr.",
+            "id": "1450796",
+            "score": 0.00185
+        },
+        {
+            "name": "Valantia hispida L.",
+            "id": "1364038",
+            "score": 0.00182
+        },
+        {
+            "name": "Rhamnus lycioides L.",
+            "id": "1360267",
+            "score": 0.00181
+        },
+        {
+            "name": "Lepidium subulatum L.",
+            "id": "1358358",
+            "score": 0.00178
+        },
+        {
+            "name": "Dracophyllum verticillatum Labill.",
+            "id": "1417506",
+            "score": 0.00173
+        },
+        {
+            "name": "Santolina decumbens Mill.",
+            "id": "1389058",
+            "score": 0.0017
+        },
+        {
+            "name": "Chamaerops humilis L.",
+            "id": "1361702",
+            "score": 0.00169
+        },
+        {
+            "name": "Dendrobium ngoyense Schltr.",
+            "id": "1618121",
+            "score": 0.00167
+        },
+        {
+            "name": "Sideritis hyssopifolia L.",
+            "id": "1362495",
+            "score": 0.00166
+        },
+        {
+            "name": "Echium vulgare L.",
+            "id": "1363850",
+            "score": 0.00166
+        },
+        {
+            "name": "Trachycarpus fortunei (Hook.) H.Wendl.",
+            "id": "1396821",
+            "score": 0.00162
+        },
+        {
+            "name": "Cuscuta approximata Bab.",
+            "id": "1364024",
+            "score": 0.00162
+        },
+        {
+            "name": "Salsola kali L.",
+            "id": "1363170",
+            "score": 0.00159
+        },
+        {
+            "name": "Tarchonanthus camphoratus L.",
+            "id": "1374189",
+            "score": 0.00155
+        },
+        {
+            "name": "Sedum mocinoanum Pérez-Calix",
+            "id": "1821503",
+            "score": 0.00155
+        },
+        {
+            "name": "Sideritis hirsuta L.",
+            "id": "1358906",
+            "score": 0.00152
+        },
+        {
+            "name": "Tamarix canariensis Willd.",
+            "id": "1364089",
+            "score": 0.00152
+        },
+        {
+            "name": "Trichoscypha oddonii De Wild.",
+            "id": "1385714",
+            "score": 0.0015
+        },
+        {
+            "name": "Sideritis tragoriganum Lag.",
+            "id": "1563814",
+            "score": 0.00146
+        },
+        {
+            "name": "Coris monspeliensis L.",
+            "id": "1356305",
+            "score": 0.00145
+        },
+        {
+            "name": "Sideritis dasygnaphala (Webb & Berthel.) Clos",
+            "id": "1358898",
+            "score": 0.00145
+        },
+        {
+            "name": "Phylica nitida Lam.",
+            "id": "1408503",
+            "score": 0.0014
+        },
+        {
+            "name": "Teucrium gnaphalodes L'Hér.",
+            "id": "1398113",
+            "score": 0.0014
+        },
+        {
+            "name": "Thymus vulgaris L.",
+            "id": "1356108",
+            "score": 0.0014
+        },
+        {
+            "name": "Eurychone rothschildiana (O'Brien) Schltr.",
+            "id": "1388634",
+            "score": 0.00139
+        }
+    ]
+}

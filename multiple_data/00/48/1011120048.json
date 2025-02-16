@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pseudodictamnus hirsutus (Willd.) Salmaki & Siadati",
+            "id": "1743236",
+            "score": 0.80542
+        },
+        {
+            "name": "Marrubium vulgare L.",
+            "id": "1356123",
+            "score": 0.03724
+        },
+        {
+            "name": "Leucas grandis Vatke",
+            "id": "1377450",
+            "score": 0.00518
+        },
+        {
+            "name": "Pseudodictamnus acetabulosus (L.) Salmaki & Siadati",
+            "id": "1745656",
+            "score": 0.00273
+        },
+        {
+            "name": "Pseudodictamnus mediterraneus Salmaki & Siadati",
+            "id": "1738638",
+            "score": 0.00247
+        },
+        {
+            "name": "Ballota nigra L.",
+            "id": "1358722",
+            "score": 0.0023
+        },
+        {
+            "name": "Salvia sclarea L.",
+            "id": "1358876",
+            "score": 0.00221
+        },
+        {
+            "name": "Mentha suaveolens Ehrh.",
+            "id": "1358789",
+            "score": 0.00165
+        },
+        {
+            "name": "Marrubium peregrinum L.",
+            "id": "1358781",
+            "score": 0.00111
+        },
+        {
+            "name": "Marrubium supinum L.",
+            "id": "1358782",
+            "score": 0.00101
+        }
+    ]
+}

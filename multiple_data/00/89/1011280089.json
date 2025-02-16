@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagopyrum esculentum Moench",
+            "id": "1356095",
+            "score": 0.91233
+        },
+        {
+            "name": "Fagopyrum tataricum (L.) Gaertn.",
+            "id": "1392244",
+            "score": 0.03132
+        },
+        {
+            "name": "Valeriana dioica L.",
+            "id": "1397518",
+            "score": 0.00137
+        },
+        {
+            "name": "Koenigia campanulata (Hook.f.) T.M.Schust. & Reveal",
+            "id": "1729563",
+            "score": 0.00137
+        },
+        {
+            "name": "Origanum vulgare L.",
+            "id": "1358846",
+            "score": 0.00126
+        }
+    ]
+}

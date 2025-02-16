@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tanacetum vulgare L.",
+            "id": "1396512",
+            "score": 0.92046
+        },
+        {
+            "name": "Achillea ageratum L.",
+            "id": "1357182",
+            "score": 0.00766
+        },
+        {
+            "name": "Tanacetum balsamita L.",
+            "id": "1396509",
+            "score": 0.00251
+        },
+        {
+            "name": "Tanacetum annuum L.",
+            "id": "1357915",
+            "score": 0.00224
+        },
+        {
+            "name": "Achillea filipendulina Lam.",
+            "id": "1392622",
+            "score": 0.00141
+        }
+    ]
+}

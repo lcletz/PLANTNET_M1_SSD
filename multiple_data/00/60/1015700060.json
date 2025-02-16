@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Thymus × citriodorus (Pers.) Schreb.",
+            "id": "1564513",
+            "score": 0.95388
+        },
+        {
+            "name": "Thymus vulgaris L.",
+            "id": "1356108",
+            "score": 0.01823
+        },
+        {
+            "name": "Thymus pulegioides L.",
+            "id": "1396792",
+            "score": 0.00373
+        },
+        {
+            "name": "Origanum majorana L.",
+            "id": "1356133",
+            "score": 0.00245
+        },
+        {
+            "name": "Thymus serpyllum L.",
+            "id": "1362246",
+            "score": 0.00185
+        },
+        {
+            "name": "Thymus praecox Opiz",
+            "id": "1397512",
+            "score": 0.00105
+        }
+    ]
+}

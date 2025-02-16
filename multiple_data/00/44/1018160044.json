@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Barbarea vulgaris R.Br.",
+            "id": "1400100",
+            "score": 0.48765
+        },
+        {
+            "name": "Barbarea verna (Mill.) Asch.",
+            "id": "1363871",
+            "score": 0.04278
+        },
+        {
+            "name": "Sinapis alba L.",
+            "id": "1363889",
+            "score": 0.021329999999999999
+        },
+        {
+            "name": "Brassica napus L.",
+            "id": "1363908",
+            "score": 0.00857
+        },
+        {
+            "name": "Brassica rapa L.",
+            "id": "1363906",
+            "score": 0.0069
+        },
+        {
+            "name": "Brassica juncea (L.) Czern.",
+            "id": "1363904",
+            "score": 0.00595
+        },
+        {
+            "name": "Brassica oleracea L.",
+            "id": "1363909",
+            "score": 0.00123
+        }
+    ]
+}

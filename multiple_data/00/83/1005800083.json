@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Malus sylvestris Mill.",
+            "id": "1364002",
+            "score": 0.38483
+        },
+        {
+            "name": "Malus pumila Mill.",
+            "id": "1362849",
+            "score": 0.09763
+        },
+        {
+            "name": "Sorbus domestica L.",
+            "id": "1360365",
+            "score": 0.00247
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.00221
+        },
+        {
+            "name": "Cydonia oblonga Mill.",
+            "id": "1363999",
+            "score": 0.00126
+        }
+    ]
+}

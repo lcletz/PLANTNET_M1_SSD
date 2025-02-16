@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Glechoma hederacea L.",
+            "id": "1358746",
+            "score": 0.89171
+        },
+        {
+            "name": "Glechoma hirsuta Waldst. & Kit.",
+            "id": "1392624",
+            "score": 0.0372
+        },
+        {
+            "name": "Nepeta cataria L.",
+            "id": "1358827",
+            "score": 0.00412
+        },
+        {
+            "name": "Nepeta racemosa Lam.",
+            "id": "1389635",
+            "score": 0.00188
+        },
+        {
+            "name": "Lamium amplexicaule L.",
+            "id": "1356111",
+            "score": 0.00103
+        }
+    ]
+}

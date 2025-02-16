@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Petasites hybridus (L.) G.Gaertn., B.Mey. & Scherb.",
+            "id": "1711822",
+            "score": 0.75675
+        },
+        {
+            "name": "Petasites japonicus (Siebold & Zucc.) Maxim.",
+            "id": "1398589",
+            "score": 0.02871
+        },
+        {
+            "name": "Gunnera tinctoria (Molina) Mirb.",
+            "id": "1392660",
+            "score": 0.00443
+        },
+        {
+            "name": "Arctium lappa L.",
+            "id": "1396002",
+            "score": 0.00367
+        },
+        {
+            "name": "Petasites paradoxus (Retz.) Baumg.",
+            "id": "1361772",
+            "score": 0.00138
+        },
+        {
+            "name": "Tussilago farfara L.",
+            "id": "1357950",
+            "score": 0.00119
+        },
+        {
+            "name": "Adenostyles alpina (L.) Bluff & Fingerh.",
+            "id": "1397303",
+            "score": 0.00111
+        }
+    ]
+}

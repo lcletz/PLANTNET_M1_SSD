@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phaseolus vulgaris L.",
+            "id": "1394501",
+            "score": 0.9709
+        },
+        {
+            "name": "Phaseolus coccineus L.",
+            "id": "1394500",
+            "score": 0.01234
+        },
+        {
+            "name": "Phaseolus lunatus L.",
+            "id": "1379545",
+            "score": 0.00682
+        },
+        {
+            "name": "Lablab purpureus (L.) Sweet",
+            "id": "1359263",
+            "score": 0.00196
+        }
+    ]
+}

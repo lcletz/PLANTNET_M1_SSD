@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lonicera implexa Aiton",
+            "id": "1356785",
+            "score": 0.81128
+        },
+        {
+            "name": "Lonicera etrusca Santi",
+            "id": "1356784",
+            "score": 0.05606
+        },
+        {
+            "name": "Lonicera caprifolium L.",
+            "id": "1393632",
+            "score": 0.04268
+        },
+        {
+            "name": "Lonicera sempervirens L.",
+            "id": "1393629",
+            "score": 0.02973
+        },
+        {
+            "name": "Lonicera periclymenum L.",
+            "id": "1356790",
+            "score": 0.00319
+        },
+        {
+            "name": "Lonicera splendida Boiss.",
+            "id": "1491445",
+            "score": 0.00237
+        }
+    ]
+}

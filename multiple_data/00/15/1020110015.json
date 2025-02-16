@@ -1,0 +1,70 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Centaurea nigrescens Willd.",
+            "id": "1391025",
+            "score": 0.44224
+        },
+        {
+            "name": "Centaurea jacea L.",
+            "id": "1362427",
+            "score": 0.30853
+        },
+        {
+            "name": "Centaurea decipiens Thuill.",
+            "id": "1390995",
+            "score": 0.05128
+        },
+        {
+            "name": "Centaurea stoebe L.",
+            "id": "1391044",
+            "score": 0.04115
+        },
+        {
+            "name": "Centaurea nigra L.",
+            "id": "1357438",
+            "score": 0.03307
+        },
+        {
+            "name": "Centaurea napifolia L.",
+            "id": "1357437",
+            "score": 0.0241
+        },
+        {
+            "name": "Centaurea nervosa Willd.",
+            "id": "1391023",
+            "score": 0.0227
+        },
+        {
+            "name": "Centaurea scabiosa L.",
+            "id": "1391037",
+            "score": 0.01
+        },
+        {
+            "name": "Centaurea paniculata L.",
+            "id": "1362429",
+            "score": 0.00458
+        },
+        {
+            "name": "Centaurea phrygia L.",
+            "id": "1390981",
+            "score": 0.00435
+        },
+        {
+            "name": "Centaurea uniflora Turra",
+            "id": "1362433",
+            "score": 0.00159
+        },
+        {
+            "name": "Centaurea aspera L.",
+            "id": "1357401",
+            "score": 0.00127
+        },
+        {
+            "name": "Centaurea deusta Ten.",
+            "id": "1399522",
+            "score": 0.0012
+        }
+    ]
+}

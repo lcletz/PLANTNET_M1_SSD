@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium campestre Schreb.",
+            "id": "1359488",
+            "score": 0.51902
+        },
+        {
+            "name": "Trifolium aureum Pollich",
+            "id": "1359486",
+            "score": 0.34279
+        },
+        {
+            "name": "Trifolium dubium Sibth.",
+            "id": "1363737",
+            "score": 0.05599
+        },
+        {
+            "name": "Medicago lupulina L.",
+            "id": "1363730",
+            "score": 0.00411
+        },
+        {
+            "name": "Trifolium patens Schreb.",
+            "id": "1359514",
+            "score": 0.00404
+        },
+        {
+            "name": "Trifolium badium Schreb.",
+            "id": "1397551",
+            "score": 0.00273
+        },
+        {
+            "name": "Lotus ornithopodioides L.",
+            "id": "1359320",
+            "score": 0.00151
+        },
+        {
+            "name": "Lotus corniculatus L.",
+            "id": "1359296",
+            "score": 0.00148
+        },
+        {
+            "name": "Coronilla minima L.",
+            "id": "1359169",
+            "score": 0.0013
+        },
+        {
+            "name": "Lotus pedunculatus Cav.",
+            "id": "1359322",
+            "score": 0.00102
+        }
+    ]
+}

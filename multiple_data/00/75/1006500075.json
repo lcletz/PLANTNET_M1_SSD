@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Mentha suaveolens Ehrh.",
+            "id": "1358789",
+            "score": 0.35176
+        },
+        {
+            "name": "Mentha × rotundifolia (L.) Huds.",
+            "id": "1560693",
+            "score": 0.31321
+        },
+        {
+            "name": "Mentha spicata L.",
+            "id": "1358788",
+            "score": 0.08233
+        },
+        {
+            "name": "Mentha × villosa Huds.",
+            "id": "1560698",
+            "score": 0.02385
+        },
+        {
+            "name": "Pulicaria dysenterica (L.) Bernh.",
+            "id": "1357799",
+            "score": 0.02213
+        },
+        {
+            "name": "Mentha longifolia (L.) L.",
+            "id": "1356107",
+            "score": 0.01035
+        },
+        {
+            "name": "Salvia verticillata L.",
+            "id": "1397480",
+            "score": 0.00634
+        },
+        {
+            "name": "Stachys affinis Bunge",
+            "id": "1396420",
+            "score": 0.0053
+        },
+        {
+            "name": "Scrophularia scorodonia L.",
+            "id": "1360510",
+            "score": 0.00526
+        },
+        {
+            "name": "Salvia scabra Thunb.",
+            "id": "1563027",
+            "score": 0.00456
+        },
+        {
+            "name": "Pulicaria vulgaris Gaertn.",
+            "id": "1357809",
+            "score": 0.00313
+        },
+        {
+            "name": "Calceolaria integrifolia L.",
+            "id": "1396129",
+            "score": 0.00168
+        },
+        {
+            "name": "Melittis melissophyllum L.",
+            "id": "1397437",
+            "score": 0.00147
+        },
+        {
+            "name": "Melissa officinalis L.",
+            "id": "1358784",
+            "score": 0.00144
+        },
+        {
+            "name": "Verbascum creticum (L.) Cav.",
+            "id": "1360522",
+            "score": 0.00122
+        }
+    ]
+}

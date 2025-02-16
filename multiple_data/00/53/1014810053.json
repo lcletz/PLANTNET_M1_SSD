@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Capsicum frutescens L.",
+            "id": "1356148",
+            "score": 0.9125
+        },
+        {
+            "name": "Capsicum annuum L.",
+            "id": "1361992",
+            "score": 0.05034
+        },
+        {
+            "name": "Capsicum chinense Jacq.",
+            "id": "1377886",
+            "score": 0.01033
+        },
+        {
+            "name": "Capsicum baccatum L.",
+            "id": "1420706",
+            "score": 0.00758
+        },
+        {
+            "name": "Solanum pseudocapsicum L.",
+            "id": "1356168",
+            "score": 0.00168
+        }
+    ]
+}

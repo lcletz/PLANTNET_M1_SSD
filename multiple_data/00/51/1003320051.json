@@ -1,0 +1,295 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.19382
+        },
+        {
+            "name": "Salix caprea L.",
+            "id": "1395765",
+            "score": 0.1833
+        },
+        {
+            "name": "Salix babylonica L.",
+            "id": "1360452",
+            "score": 0.10146
+        },
+        {
+            "name": "Salix viminalis L.",
+            "id": "1395903",
+            "score": 0.08292
+        },
+        {
+            "name": "Salix atrocinerea Brot.",
+            "id": "1360451",
+            "score": 0.07702
+        },
+        {
+            "name": "Salix cinerea L.",
+            "id": "1362486",
+            "score": 0.04565
+        },
+        {
+            "name": "Salix discolor Muhl.",
+            "id": "1413594",
+            "score": 0.01716
+        },
+        {
+            "name": "Ulmus pumila L.",
+            "id": "1390603",
+            "score": 0.01291
+        },
+        {
+            "name": "Ulmus americana L.",
+            "id": "1390323",
+            "score": 0.01278
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.01214
+        },
+        {
+            "name": "Salix triandra L.",
+            "id": "1360459",
+            "score": 0.01201
+        },
+        {
+            "name": "Salix nigra Marshall",
+            "id": "1413615",
+            "score": 0.01003
+        },
+        {
+            "name": "Prunus serotina Ehrh.",
+            "id": "1370859",
+            "score": 0.00985
+        },
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.00948
+        },
+        {
+            "name": "Juglans cinerea L.",
+            "id": "1412349",
+            "score": 0.00816
+        },
+        {
+            "name": "Pinus strobus L.",
+            "id": "1394616",
+            "score": 0.0073
+        },
+        {
+            "name": "Sassafras albidum (Nutt.) Nees",
+            "id": "1413669",
+            "score": 0.00597
+        },
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.00576
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.0053
+        },
+        {
+            "name": "Populus alba L.",
+            "id": "1364046",
+            "score": 0.00528
+        },
+        {
+            "name": "Pinus pinaster Aiton",
+            "id": "1394611",
+            "score": 0.00485
+        },
+        {
+            "name": "Salix × fragilis L.",
+            "id": "1684017",
+            "score": 0.00434
+        },
+        {
+            "name": "Celtis occidentalis L.",
+            "id": "1397796",
+            "score": 0.00425
+        },
+        {
+            "name": "Ulmus minor Mill.",
+            "id": "1360607",
+            "score": 0.00403
+        },
+        {
+            "name": "Salix euxina I.V.Belyaeva",
+            "id": "1684004",
+            "score": 0.00378
+        },
+        {
+            "name": "Fraxinus americana L.",
+            "id": "1397619",
+            "score": 0.00361
+        },
+        {
+            "name": "Juglans nigra L.",
+            "id": "1393337",
+            "score": 0.00294
+        },
+        {
+            "name": "Populus × canescens (Aiton) Sm.",
+            "id": "1683819",
+            "score": 0.00292
+        },
+        {
+            "name": "Populus tremula L.",
+            "id": "1360449",
+            "score": 0.00292
+        },
+        {
+            "name": "Salix × pendulina Wender.",
+            "id": "1684175",
+            "score": 0.00272
+        },
+        {
+            "name": "Salix eleagnos Scop.",
+            "id": "1395785",
+            "score": 0.00249
+        },
+        {
+            "name": "Salix appendiculata Vill.",
+            "id": "1395742",
+            "score": 0.00243
+        },
+        {
+            "name": "Tamarix gallica L.",
+            "id": "1364090",
+            "score": 0.00237
+        },
+        {
+            "name": "Salix laevigata Bebb",
+            "id": "1437761",
+            "score": 0.00218
+        },
+        {
+            "name": "Juglans californica S.Watson",
+            "id": "1765805",
+            "score": 0.00207
+        },
+        {
+            "name": "Acer rubrum L.",
+            "id": "1398406",
+            "score": 0.00202
+        },
+        {
+            "name": "Robinia pseudoacacia L.",
+            "id": "1363698",
+            "score": 0.00202
+        },
+        {
+            "name": "Salix gooddingii C.R.Ball",
+            "id": "1684026",
+            "score": 0.00191
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.00172
+        },
+        {
+            "name": "Prosopis glandulosa Torr.",
+            "id": "1436922",
+            "score": 0.0017
+        },
+        {
+            "name": "Populus balsamifera L.",
+            "id": "1394775",
+            "score": 0.00167
+        },
+        {
+            "name": "Salix purpurea L.",
+            "id": "1360457",
+            "score": 0.00163
+        },
+        {
+            "name": "Pinus radiata D.Don",
+            "id": "1394613",
+            "score": 0.00163
+        },
+        {
+            "name": "Populus tremuloides Michx.",
+            "id": "1413261",
+            "score": 0.00157
+        },
+        {
+            "name": "Tamarix canariensis Willd.",
+            "id": "1364089",
+            "score": 0.00156
+        },
+        {
+            "name": "Acer saccharinum L.",
+            "id": "1391667",
+            "score": 0.00149
+        },
+        {
+            "name": "Salix caroliniana Michx.",
+            "id": "1437752",
+            "score": 0.00137
+        },
+        {
+            "name": "Ulmus glabra Huds.",
+            "id": "1397552",
+            "score": 0.00136
+        },
+        {
+            "name": "Quercus macrocarpa Michx.",
+            "id": "1413406",
+            "score": 0.00133
+        },
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.00132
+        },
+        {
+            "name": "Triadica sebifera (L.) Small",
+            "id": "1376366",
+            "score": 0.00131
+        },
+        {
+            "name": "Salix × reichardtii A.Kern.",
+            "id": "1737553",
+            "score": 0.00126
+        },
+        {
+            "name": "Sambucus cerulea Raf.",
+            "id": "1447816",
+            "score": 0.00125
+        },
+        {
+            "name": "Salix bebbiana Sarg.",
+            "id": "1413583",
+            "score": 0.00121
+        },
+        {
+            "name": "Populus fremontii S.Watson",
+            "id": "1683826",
+            "score": 0.00105
+        },
+        {
+            "name": "Salix amygdaloides Andersson",
+            "id": "1413574",
+            "score": 0.00102
+        },
+        {
+            "name": "Alnus glutinosa (L.) Gaertn.",
+            "id": "1356608",
+            "score": 0.00101
+        },
+        {
+            "name": "Pinus halepensis Mill.",
+            "id": "1397460",
+            "score": 0.001
+        }
+    ]
+}

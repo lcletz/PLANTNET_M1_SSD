@@ -1,0 +1,305 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.385
+        },
+        {
+            "name": "Pyrus cordata Desv.",
+            "id": "1360328",
+            "score": 0.08755
+        },
+        {
+            "name": "Pyrus spinosa Forssk.",
+            "id": "1395014",
+            "score": 0.04951
+        },
+        {
+            "name": "Cormus domestica (L.) Spach",
+            "id": "1738846",
+            "score": 0.03617
+        },
+        {
+            "name": "Psidium guajava L.",
+            "id": "1382846",
+            "score": 0.03136
+        },
+        {
+            "name": "Aesculus parviflora Walter",
+            "id": "1398239",
+            "score": 0.01898
+        },
+        {
+            "name": "Psidium cattleyanum Sabine",
+            "id": "1419578",
+            "score": 0.01603
+        },
+        {
+            "name": "Dimocarpus longan Lour.",
+            "id": "1400220",
+            "score": 0.0126
+        },
+        {
+            "name": "Syzygium jambos (L.) Alston",
+            "id": "1382774",
+            "score": 0.01216
+        },
+        {
+            "name": "Sandoricum koetjape (Burm.f.) Merr.",
+            "id": "1419484",
+            "score": 0.00985
+        },
+        {
+            "name": "Spondias dulcis Parkinson",
+            "id": "1407118",
+            "score": 0.00917
+        },
+        {
+            "name": "Pyrus pyrifolia (Burm.f.) Nakai",
+            "id": "1420439",
+            "score": 0.00833
+        },
+        {
+            "name": "Ficus habrophylla G.Benn. ex Seem.",
+            "id": "1601937",
+            "score": 0.00829
+        },
+        {
+            "name": "Pyrus bourgaeana Decne.",
+            "id": "1360327",
+            "score": 0.00583
+        },
+        {
+            "name": "Juglans nigra L.",
+            "id": "1393337",
+            "score": 0.00582
+        },
+        {
+            "name": "Mimusops coriacea (A.DC.) Miq.",
+            "id": "1424021",
+            "score": 0.00453
+        },
+        {
+            "name": "Ficus racemosa L.",
+            "id": "1419511",
+            "score": 0.00443
+        },
+        {
+            "name": "Campomanesia lineatifolia Ruiz & Pav.",
+            "id": "1419543",
+            "score": 0.00441
+        },
+        {
+            "name": "Myristica fragrans Houtt.",
+            "id": "1408391",
+            "score": 0.00425
+        },
+        {
+            "name": "Cydonia oblonga Mill.",
+            "id": "1363999",
+            "score": 0.0041
+        },
+        {
+            "name": "Hancornia speciosa Gomes",
+            "id": "1420217",
+            "score": 0.00384
+        },
+        {
+            "name": "Ficus polita Vahl",
+            "id": "1602130",
+            "score": 0.00347
+        },
+        {
+            "name": "Garcinia macrophylla Mart.",
+            "id": "1418454",
+            "score": 0.00308
+        },
+        {
+            "name": "Annona glabra L.",
+            "id": "1386633",
+            "score": 0.00248
+        },
+        {
+            "name": "Terminalia bellirica (Gaertn.) Roxb.",
+            "id": "1376699",
+            "score": 0.00247
+        },
+        {
+            "name": "Aesculus pavia L.",
+            "id": "1389544",
+            "score": 0.00241
+        },
+        {
+            "name": "Ficus vallis-choudae Delile",
+            "id": "1384110",
+            "score": 0.00228
+        },
+        {
+            "name": "Talisia sylvatica (Aubl.) Radlk.",
+            "id": "1403474",
+            "score": 0.00227
+        },
+        {
+            "name": "Ficus leiocarpa (Bureau) Warb.",
+            "id": "1416109",
+            "score": 0.00192
+        },
+        {
+            "name": "Calophyllum inophyllum L.",
+            "id": "1373792",
+            "score": 0.00191
+        },
+        {
+            "name": "Citrus × limon (L.) Osbeck",
+            "id": "1403436",
+            "score": 0.00185
+        },
+        {
+            "name": "Genipa americana L.",
+            "id": "1403295",
+            "score": 0.00183
+        },
+        {
+            "name": "Chaenomeles thibetica T.T.Yu",
+            "id": "1666807",
+            "score": 0.00177
+        },
+        {
+            "name": "Psidium friedrichsthalianum (O.Berg) Nied.",
+            "id": "1419579",
+            "score": 0.00165
+        },
+        {
+            "name": "Virola laevigata Standl.",
+            "id": "1825416",
+            "score": 0.00165
+        },
+        {
+            "name": "Terminalia chebula Retz.",
+            "id": "1376889",
+            "score": 0.00165
+        },
+        {
+            "name": "Atractocarpus fitzalanii (F.Muell.) Puttock",
+            "id": "1670933",
+            "score": 0.00165
+        },
+        {
+            "name": "Persea americana Mill.",
+            "id": "1364365",
+            "score": 0.00165
+        },
+        {
+            "name": "Malus sylvestris (L.) Mill.",
+            "id": "1420379",
+            "score": 0.00163
+        },
+        {
+            "name": "Saba senegalensis (A.DC.) Pichon",
+            "id": "1420482",
+            "score": 0.00151
+        },
+        {
+            "name": "Ficus crassiuscula Warb. ex Standl.",
+            "id": "1601829",
+            "score": 0.00148
+        },
+        {
+            "name": "Mouriri huberi Cogn.",
+            "id": "1402275",
+            "score": 0.00146
+        },
+        {
+            "name": "Hernandia sonora L.",
+            "id": "1401837",
+            "score": 0.00133
+        },
+        {
+            "name": "Aesculus indica (Wall. ex Cambess.) Hook.",
+            "id": "1685363",
+            "score": 0.00132
+        },
+        {
+            "name": "Pyrus bretschneideri Rehder",
+            "id": "1420438",
+            "score": 0.0013
+        },
+        {
+            "name": "Syzygium cymosum (Lam.) DC.",
+            "id": "1408744",
+            "score": 0.00127
+        },
+        {
+            "name": "Chaenomeles japonica (Thunb.) Lindl. ex Spach",
+            "id": "1391103",
+            "score": 0.00127
+        },
+        {
+            "name": "Chaenomeles speciosa (Sweet) Nakai",
+            "id": "1391104",
+            "score": 0.00127
+        },
+        {
+            "name": "Ficus sycomorus L.",
+            "id": "1361856",
+            "score": 0.00125
+        },
+        {
+            "name": "Platonia insignis Mart.",
+            "id": "1401195",
+            "score": 0.00124
+        },
+        {
+            "name": "Malus baccata (L.) Borkh.",
+            "id": "1393736",
+            "score": 0.00123
+        },
+        {
+            "name": "Punica granatum L.",
+            "id": "1359616",
+            "score": 0.00119
+        },
+        {
+            "name": "Crateva adansonii DC.",
+            "id": "1358237",
+            "score": 0.00119
+        },
+        {
+            "name": "Juglans californica S.Watson",
+            "id": "1765805",
+            "score": 0.00115
+        },
+        {
+            "name": "Buchanania arborescens (Blume) Blume",
+            "id": "1427206",
+            "score": 0.00115
+        },
+        {
+            "name": "Styrax officinalis L.",
+            "id": "1396476",
+            "score": 0.00113
+        },
+        {
+            "name": "Sideroxylon foetidissimum Jacq.",
+            "id": "1410038",
+            "score": 0.00108
+        },
+        {
+            "name": "Citrus trifoliata L.",
+            "id": "1682410",
+            "score": 0.00107
+        },
+        {
+            "name": "Terminalia corrugata (Ducke) Gere & Boatwr.",
+            "id": "1735583",
+            "score": 0.00103
+        },
+        {
+            "name": "Epicharis parasitica (Osbeck) Mabb.",
+            "id": "1783408",
+            "score": 0.00101
+        }
+    ]
+}

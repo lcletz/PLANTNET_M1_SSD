@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Physalis peruviana L.",
+            "id": "1356153",
+            "score": 0.86638
+        },
+        {
+            "name": "Physalis pubescens L.",
+            "id": "1356155",
+            "score": 0.05807
+        },
+        {
+            "name": "Physalis heterophylla Nees",
+            "id": "1413066",
+            "score": 0.01882
+        },
+        {
+            "name": "Physalis philadelphica Lam.",
+            "id": "1356154",
+            "score": 0.00361
+        },
+        {
+            "name": "Tithonia rotundifolia (Mill.) S.F.Blake",
+            "id": "1417905",
+            "score": 0.00149
+        },
+        {
+            "name": "Alkekengi officinarum Moench",
+            "id": "1738735",
+            "score": 0.00138
+        },
+        {
+            "name": "Physalis viscosa L.",
+            "id": "1356156",
+            "score": 0.00109
+        }
+    ]
+}

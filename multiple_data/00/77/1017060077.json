@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus dulcis (Mill.) D.A.Webb",
+            "id": "1394948",
+            "score": 0.66971
+        },
+        {
+            "name": "Prunus persica (L.) Batsch",
+            "id": "1363997",
+            "score": 0.00913
+        },
+        {
+            "name": "Prunus spp.",
+            "id": "1420434",
+            "score": 0.00492
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.00346
+        },
+        {
+            "name": "Malus pumila Mill.",
+            "id": "1362849",
+            "score": 0.00141
+        },
+        {
+            "name": "Prunus tenella Batsch",
+            "id": "1394954",
+            "score": 0.00131
+        }
+    ]
+}

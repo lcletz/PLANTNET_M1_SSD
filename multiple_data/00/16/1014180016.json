@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.75434
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.13758
+        },
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.04926
+        },
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.0268
+        },
+        {
+            "name": "Acer tataricum L.",
+            "id": "1398270",
+            "score": 0.00163
+        },
+        {
+            "name": "Tilia americana L.",
+            "id": "1397800",
+            "score": 0.00139
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lonicera japonica Thunb.",
+            "id": "1356786",
+            "score": 0.77777
+        },
+        {
+            "name": "Lonicera caprifolium L.",
+            "id": "1393632",
+            "score": 0.11621
+        },
+        {
+            "name": "Lonicera periclymenum L.",
+            "id": "1356790",
+            "score": 0.01138
+        },
+        {
+            "name": "Lonicera etrusca Santi",
+            "id": "1356784",
+            "score": 0.00251
+        },
+        {
+            "name": "Lonicera fragrantissima Lindl. & Paxton",
+            "id": "1389306",
+            "score": 0.00168
+        },
+        {
+            "name": "Lonicera acuminata Wall.",
+            "id": "1429199",
+            "score": 0.00142
+        }
+    ]
+}

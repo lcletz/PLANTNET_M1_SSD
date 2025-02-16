@@ -1,0 +1,55 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.39983
+        },
+        {
+            "name": "Amaranthus cruentus L.",
+            "id": "1363249",
+            "score": 0.01864
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.01012
+        },
+        {
+            "name": "Cornus sanguinea L.",
+            "id": "1397356",
+            "score": 0.008
+        },
+        {
+            "name": "Rosa glauca Pourr.",
+            "id": "1668240",
+            "score": 0.00374
+        },
+        {
+            "name": "Amaranthus hybridus L.",
+            "id": "1356475",
+            "score": 0.00373
+        },
+        {
+            "name": "Rosa pouzinii Tratt.",
+            "id": "1360347",
+            "score": 0.00333
+        },
+        {
+            "name": "Atriplex hortensis L.",
+            "id": "1363180",
+            "score": 0.00265
+        },
+        {
+            "name": "Cotoneaster bullatus Bois",
+            "id": "1391402",
+            "score": 0.00231
+        },
+        {
+            "name": "Cotinus coggygria Scop.",
+            "id": "1391375",
+            "score": 0.00116
+        }
+    ]
+}

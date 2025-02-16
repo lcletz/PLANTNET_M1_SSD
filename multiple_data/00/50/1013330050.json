@@ -1,0 +1,255 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sequoiadendron giganteum (Lindl.) J.Buchholz",
+            "id": "1396214",
+            "score": 0.5416
+        },
+        {
+            "name": "Hesperocyparis lusitanica (Mill.) Bartel",
+            "id": "1738619",
+            "score": 0.04405
+        },
+        {
+            "name": "Chamaecyparis pisifera (Siebold & Zucc.) Endl.",
+            "id": "1391117",
+            "score": 0.03261
+        },
+        {
+            "name": "Tamarix ramosissima Ledeb.",
+            "id": "1364085",
+            "score": 0.02838
+        },
+        {
+            "name": "Tamarix gallica L.",
+            "id": "1364090",
+            "score": 0.02403
+        },
+        {
+            "name": "Tamarix chinensis Lour.",
+            "id": "1396504",
+            "score": 0.02331
+        },
+        {
+            "name": "Tamarix parviflora DC.",
+            "id": "1364093",
+            "score": 0.01822
+        },
+        {
+            "name": "Tetraclinis articulata (Vahl) Mast.",
+            "id": "1398830",
+            "score": 0.01295
+        },
+        {
+            "name": "Dacrydium elatum (Roxb.) Wall. ex Hook.",
+            "id": "1423810",
+            "score": 0.01277
+        },
+        {
+            "name": "Juniperus chinensis L.",
+            "id": "1393361",
+            "score": 0.01088
+        },
+        {
+            "name": "Taxodium distichum (L.) Rich.",
+            "id": "1396709",
+            "score": 0.00899
+        },
+        {
+            "name": "Juniperus procera Hochst. ex Endl.",
+            "id": "1381526",
+            "score": 0.00776
+        },
+        {
+            "name": "Tamarix africana Poir.",
+            "id": "1360582",
+            "score": 0.00633
+        },
+        {
+            "name": "Juniperus sabina L.",
+            "id": "1393367",
+            "score": 0.00583
+        },
+        {
+            "name": "Tamarix canariensis Willd.",
+            "id": "1364089",
+            "score": 0.00528
+        },
+        {
+            "name": "Cryptomeria japonica (Thunb. ex L.f.) D.Don",
+            "id": "1418585",
+            "score": 0.00525
+        },
+        {
+            "name": "Callitris sulcata (Parl.) Schltr.",
+            "id": "1415481",
+            "score": 0.00495
+        },
+        {
+            "name": "Juniperus virginiana L.",
+            "id": "1393370",
+            "score": 0.00461
+        },
+        {
+            "name": "Tamarix aphylla (L.) H.Karst.",
+            "id": "1420762",
+            "score": 0.00411
+        },
+        {
+            "name": "Callitris preissii Miq.",
+            "id": "1418582",
+            "score": 0.00411
+        },
+        {
+            "name": "Cupressus cashmeriana Royle ex Carrière",
+            "id": "1418586",
+            "score": 0.00392
+        },
+        {
+            "name": "Melaleuca huegelii Endl.",
+            "id": "1605614",
+            "score": 0.0039
+        },
+        {
+            "name": "Casuarina equisetifolia L.",
+            "id": "1383149",
+            "score": 0.00383
+        },
+        {
+            "name": "Calocedrus decurrens (Torr.) Florin",
+            "id": "1390644",
+            "score": 0.00377
+        },
+        {
+            "name": "Widdringtonia wallichii Endl. ex Carrière",
+            "id": "1701563",
+            "score": 0.00359
+        },
+        {
+            "name": "Cupressus dupreziana A.Camus",
+            "id": "1388827",
+            "score": 0.00333
+        },
+        {
+            "name": "Lepidothamnus intermedius (Kirk) Quinn",
+            "id": "1701861",
+            "score": 0.00288
+        },
+        {
+            "name": "Pinus pinea L.",
+            "id": "1394612",
+            "score": 0.00279
+        },
+        {
+            "name": "Casuarina cunninghamiana Miq.",
+            "id": "1361847",
+            "score": 0.00202
+        },
+        {
+            "name": "Juniperus turbinata Guss.",
+            "id": "1743226",
+            "score": 0.00181
+        },
+        {
+            "name": "Dacrydium balansae Brongn. & Gris",
+            "id": "1417235",
+            "score": 0.00169
+        },
+        {
+            "name": "Tamarix tetrandra Pall. ex M.Bieb.",
+            "id": "1396506",
+            "score": 0.00153
+        },
+        {
+            "name": "Tamarix smyrnensis Bunge",
+            "id": "1693002",
+            "score": 0.00124
+        },
+        {
+            "name": "Platycladus orientalis (L.) Franco",
+            "id": "1394647",
+            "score": 0.00122
+        },
+        {
+            "name": "Juniperus bermudiana L.",
+            "id": "1408254",
+            "score": 0.00114
+        },
+        {
+            "name": "Populus × tomentosa Carrière",
+            "id": "1683878",
+            "score": 0.00111
+        },
+        {
+            "name": "Gymnostoma poissonianum (Schltr.) L.A.S.Johnson",
+            "id": "1415090",
+            "score": 0.00106
+        },
+        {
+            "name": "Araucaria heterophylla (Salisb.) Franco",
+            "id": "1409177",
+            "score": 0.00104
+        },
+        {
+            "name": "Billardiera longiflora Labill.",
+            "id": "1645683",
+            "score": 0.00104
+        },
+        {
+            "name": "Gymnostoma australianum L.A.S.Johnson",
+            "id": "1493932",
+            "score": 0.00103
+        },
+        {
+            "name": "Pinus pinaster Aiton",
+            "id": "1394611",
+            "score": 0.00098
+        },
+        {
+            "name": "Araucaria luxurians (Brongn. & Gris) de Laub.",
+            "id": "1417229",
+            "score": 0.00082
+        },
+        {
+            "name": "Schizolobium parahyba (Vell.) S.F.Blake",
+            "id": "1426406",
+            "score": 0.00067
+        },
+        {
+            "name": "Hesperocyparis macrocarpa (Hartw.) Bartel",
+            "id": "1432847",
+            "score": 0.00064
+        },
+        {
+            "name": "Euphorbia tirucalli L.",
+            "id": "1355972",
+            "score": 0.00061
+        },
+        {
+            "name": "Araucaria cunninghamii Mudie",
+            "id": "1417550",
+            "score": 0.0006
+        },
+        {
+            "name": "Acacia confusa Merr.",
+            "id": "1421386",
+            "score": 0.00056
+        },
+        {
+            "name": "Dacrydium lycopodioides Brongn. & Gris",
+            "id": "1417237",
+            "score": 0.00051
+        },
+        {
+            "name": "Sequoia sempervirens (D.Don) Endl.",
+            "id": "1396213",
+            "score": 0.00047
+        },
+        {
+            "name": "Gymnostoma sumatranum (Jungh. ex de Vriese) L.A.S.Johnson",
+            "id": "1428694",
+            "score": 0.00043
+        }
+    ]
+}

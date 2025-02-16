@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aquilegia vulgaris L.",
+            "id": "1360155",
+            "score": 0.8154
+        },
+        {
+            "name": "Aquilegia nigricans Baumg.",
+            "id": "1398909",
+            "score": 0.05643
+        },
+        {
+            "name": "Aquilegia alpina L.",
+            "id": "1395292",
+            "score": 0.00675
+        },
+        {
+            "name": "Aquilegia atrata W.D.J.Koch",
+            "id": "1395297",
+            "score": 0.00419
+        },
+        {
+            "name": "Aquilegia canadensis L.",
+            "id": "1412807",
+            "score": 0.00288
+        },
+        {
+            "name": "Aquilegia pubescens Coville",
+            "id": "1434615",
+            "score": 0.00236
+        },
+        {
+            "name": "Campanula alliariifolia Willd.",
+            "id": "1390651",
+            "score": 0.00117
+        }
+    ]
+}

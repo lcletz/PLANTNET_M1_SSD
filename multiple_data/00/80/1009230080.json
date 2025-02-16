@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rosa spp.",
+            "id": "1420450",
+            "score": 0.57311
+        },
+        {
+            "name": "Rosa foetida Herrm.",
+            "id": "1395284",
+            "score": 0.15026
+        },
+        {
+            "name": "Rosa lucieae Franch. & Rochebr. ex Crép.",
+            "id": "1420447",
+            "score": 0.12538
+        },
+        {
+            "name": "Rosa chinensis Jacq.",
+            "id": "1395231",
+            "score": 0.02832
+        },
+        {
+            "name": "Rosa gallica L.",
+            "id": "1360338",
+            "score": 0.00391
+        },
+        {
+            "name": "Rosa pendulina L.",
+            "id": "1395329",
+            "score": 0.00351
+        }
+    ]
+}

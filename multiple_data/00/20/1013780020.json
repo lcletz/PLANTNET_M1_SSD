@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lepidium sativum L.",
+            "id": "1363894",
+            "score": 0.93288
+        },
+        {
+            "name": "Lepidium graminifolium L.",
+            "id": "1358349",
+            "score": 0.01197
+        },
+        {
+            "name": "Lepidium latifolium L.",
+            "id": "1358352",
+            "score": 0.00332
+        },
+        {
+            "name": "Lepidium virginicum L.",
+            "id": "1363893",
+            "score": 0.00193
+        },
+        {
+            "name": "Lepidium montanum Nutt.",
+            "id": "1433677",
+            "score": 0.00151
+        },
+        {
+            "name": "Calepina irregularis (Asso) Thell.",
+            "id": "1358204",
+            "score": 0.00135
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Setaria italica (L.) P.Beauv.",
+            "id": "1396251",
+            "score": 0.60273
+        },
+        {
+            "name": "Cenchrus americanus (L.) Morrone",
+            "id": "1389964",
+            "score": 0.26181
+        },
+        {
+            "name": "Sorghum bicolor (L.) Moench",
+            "id": "1356240",
+            "score": 0.00412
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.00172
+        },
+        {
+            "name": "Cenchrus purpureus (Schumach.) Morrone",
+            "id": "1363019",
+            "score": 0.00166
+        },
+        {
+            "name": "Setaria macrostachya Kunth",
+            "id": "1438165",
+            "score": 0.00163
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Epilobium angustifolium L.",
+            "id": "1359681",
+            "score": 0.78836
+        },
+        {
+            "name": "Epilobium dodonaei Vill.",
+            "id": "1391896",
+            "score": 0.09997
+        },
+        {
+            "name": "Epilobium latifolium L.",
+            "id": "1609722",
+            "score": 0.00156
+        },
+        {
+            "name": "Oenothera lindheimeri (Engelm. & A.Gray) W.L.Wagner & Hoch",
+            "id": "1390068",
+            "score": 0.00111
+        },
+        {
+            "name": "Oenothera gaura W.L.Wagner & Hoch",
+            "id": "1390070",
+            "score": 0.00106
+        }
+    ]
+}

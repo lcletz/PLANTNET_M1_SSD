@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Magnolia virginiana L.",
+            "id": "1389430",
+            "score": 0.59883
+        },
+        {
+            "name": "Magnolia grandiflora L.",
+            "id": "1393723",
+            "score": 0.35915
+        },
+        {
+            "name": "Arbutus menziesii Pursh",
+            "id": "1413017",
+            "score": 0.00124
+        },
+        {
+            "name": "Pittosporum undulatum Vent.",
+            "id": "1356064",
+            "score": 0.0012
+        },
+        {
+            "name": "Daphniphyllum macropodum Miq.",
+            "id": "1535252",
+            "score": 0.00104
+        }
+    ]
+}

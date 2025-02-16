@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Malus pumila Mill.",
+            "id": "1362849",
+            "score": 0.3112
+        },
+        {
+            "name": "Malus domestica Borkh.",
+            "id": "1393737",
+            "score": 0.25165
+        },
+        {
+            "name": "Malus sylvestris (L.) Mill.",
+            "id": "1420379",
+            "score": 0.02997
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.00725
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00351
+        },
+        {
+            "name": "Malus baccata (L.) Borkh.",
+            "id": "1393736",
+            "score": 0.00252
+        },
+        {
+            "name": "Chaenomeles japonica (Thunb.) Lindl. ex Spach",
+            "id": "1391103",
+            "score": 0.00129
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.00121
+        },
+        {
+            "name": "Malus hupehensis (Pamp.) Rehder",
+            "id": "1393732",
+            "score": 0.00108
+        }
+    ]
+}

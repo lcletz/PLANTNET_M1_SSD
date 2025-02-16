@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Helleborus foetidus L.",
+            "id": "1360182",
+            "score": 0.83364
+        },
+        {
+            "name": "Helleborus viridis L.",
+            "id": "1397399",
+            "score": 0.0436
+        },
+        {
+            "name": "Helleborus argutifolius Viv.",
+            "id": "1392741",
+            "score": 0.01159
+        },
+        {
+            "name": "Helleborus orientalis Lam.",
+            "id": "1392740",
+            "score": 0.00345
+        },
+        {
+            "name": "Helleborus niger L.",
+            "id": "1397560",
+            "score": 0.00232
+        },
+        {
+            "name": "Valeriana rubra L.",
+            "id": "1722520",
+            "score": 0.00105
+        }
+    ]
+}

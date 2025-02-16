@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viburnum tinus L.",
+            "id": "1356793",
+            "score": 0.45123
+        },
+        {
+            "name": "Viburnum rugosum Pers.",
+            "id": "1722512",
+            "score": 0.3559
+        },
+        {
+            "name": "Viburnum davidi Franch.",
+            "id": "1774594",
+            "score": 0.01205
+        },
+        {
+            "name": "Viburnum carlesii Hemsl.",
+            "id": "1397080",
+            "score": 0.01081
+        },
+        {
+            "name": "Skimmia japonica Thunb.",
+            "id": "1395709",
+            "score": 0.00277
+        },
+        {
+            "name": "Rogiera amoena Planch.",
+            "id": "1679751",
+            "score": 0.00218
+        },
+        {
+            "name": "Gaultheria shallon Pursh",
+            "id": "1392505",
+            "score": 0.00102
+        },
+        {
+            "name": "Rhaphiolepis indica (L.) Lindl.",
+            "id": "1409218",
+            "score": 0.00101
+        }
+    ]
+}

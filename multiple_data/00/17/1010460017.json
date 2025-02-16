@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Triticum aestivum L.",
+            "id": "1363483",
+            "score": 0.81713
+        },
+        {
+            "name": "Triticum turgidum L.",
+            "id": "1363487",
+            "score": 0.01077
+        },
+        {
+            "name": "Leymus arenarius (L.) Hochst.",
+            "id": "1393522",
+            "score": 0.00312
+        },
+        {
+            "name": "Hordeum vulgare L.",
+            "id": "1363481",
+            "score": 0.00192
+        },
+        {
+            "name": "Plantago coronopus L.",
+            "id": "1356065",
+            "score": 0.00184
+        },
+        {
+            "name": "Sorghum bicolor (L.) Moench",
+            "id": "1356240",
+            "score": 0.00167
+        },
+        {
+            "name": "Secale cereale L.",
+            "id": "1363451",
+            "score": 0.00147
+        },
+        {
+            "name": "Elymus repens (L.) Gould",
+            "id": "1411890",
+            "score": 0.00104
+        }
+    ]
+}

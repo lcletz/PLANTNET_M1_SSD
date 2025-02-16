@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Betula pendula Roth",
+            "id": "1356609",
+            "score": 0.93902
+        },
+        {
+            "name": "Betula pubescens Ehrh.",
+            "id": "1362746",
+            "score": 0.01817
+        },
+        {
+            "name": "Betula papyrifera Marshall",
+            "id": "1398459",
+            "score": 0.00742
+        },
+        {
+            "name": "Betula populifolia Marshall",
+            "id": "1414289",
+            "score": 0.00611
+        },
+        {
+            "name": "Tilia cordata Mill.",
+            "id": "1396797",
+            "score": 0.00378
+        },
+        {
+            "name": "Corylus colurna L.",
+            "id": "1397579",
+            "score": 0.00137
+        },
+        {
+            "name": "Betula utilis D.Don",
+            "id": "1400127",
+            "score": 0.00111
+        },
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.00104
+        },
+        {
+            "name": "Corylus avellana L.",
+            "id": "1391368",
+            "score": 0.00104
+        }
+    ]
+}

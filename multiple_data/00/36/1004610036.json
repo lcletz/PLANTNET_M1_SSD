@@ -1,0 +1,290 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.92424
+        },
+        {
+            "name": "Populus alba L.",
+            "id": "1364046",
+            "score": 0.03749
+        },
+        {
+            "name": "Salix triandra L.",
+            "id": "1360459",
+            "score": 0.0305
+        },
+        {
+            "name": "Fraxinus angustifolia Vahl",
+            "id": "1362009",
+            "score": 0.0274
+        },
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.02377
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.01514
+        },
+        {
+            "name": "Salix euxina I.V.Belyaeva",
+            "id": "1684004",
+            "score": 0.01513
+        },
+        {
+            "name": "Salix babylonica L.",
+            "id": "1360452",
+            "score": 0.01367
+        },
+        {
+            "name": "Salix pentandra L.",
+            "id": "1395852",
+            "score": 0.01356
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.01284
+        },
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.00954
+        },
+        {
+            "name": "Ziziphus jujuba Mill.",
+            "id": "1360271",
+            "score": 0.00925
+        },
+        {
+            "name": "Ulmus americana L.",
+            "id": "1390323",
+            "score": 0.00745
+        },
+        {
+            "name": "Salix cinerea L.",
+            "id": "1362486",
+            "score": 0.00612
+        },
+        {
+            "name": "Cormus domestica (L.) Spach",
+            "id": "1738846",
+            "score": 0.00387
+        },
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.00375
+        },
+        {
+            "name": "Salix atrocinerea Brot.",
+            "id": "1360451",
+            "score": 0.00298
+        },
+        {
+            "name": "Tipuana tipu (Benth.) Kuntze",
+            "id": "1389022",
+            "score": 0.00252
+        },
+        {
+            "name": "Chukrasia tabularis A.Juss.",
+            "id": "1432729",
+            "score": 0.00228
+        },
+        {
+            "name": "Alnus glutinosa (L.) Gaertn.",
+            "id": "1356608",
+            "score": 0.00195
+        },
+        {
+            "name": "Laurus nobilis L.",
+            "id": "1363362",
+            "score": 0.00194
+        },
+        {
+            "name": "Salix caprea L.",
+            "id": "1395765",
+            "score": 0.00184
+        },
+        {
+            "name": "Salix × pendulina Wender.",
+            "id": "1684175",
+            "score": 0.0018
+        },
+        {
+            "name": "Salix viminalis L.",
+            "id": "1395903",
+            "score": 0.00179
+        },
+        {
+            "name": "Ulmus minor Mill.",
+            "id": "1360607",
+            "score": 0.00161
+        },
+        {
+            "name": "Juglans nigra L.",
+            "id": "1393337",
+            "score": 0.00153
+        },
+        {
+            "name": "Eucalyptus globulus Labill.",
+            "id": "1356282",
+            "score": 0.00128
+        },
+        {
+            "name": "Elaeagnus angustifolia L.",
+            "id": "1358494",
+            "score": 0.00122
+        },
+        {
+            "name": "Schinus molle L.",
+            "id": "1363642",
+            "score": 0.00116
+        },
+        {
+            "name": "Ulmus glabra Huds.",
+            "id": "1397552",
+            "score": 0.00113
+        },
+        {
+            "name": "Umbellularia californica (Hook. & Arn.) Nutt.",
+            "id": "1397685",
+            "score": 0.00109
+        },
+        {
+            "name": "Pistacia terebinthus L.",
+            "id": "1356567",
+            "score": 0.00106
+        },
+        {
+            "name": "Olea europaea L.",
+            "id": "1359676",
+            "score": 0.001
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.00094
+        },
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.0009
+        },
+        {
+            "name": "Pyrus spinosa Forssk.",
+            "id": "1395014",
+            "score": 0.00084
+        },
+        {
+            "name": "Salix eleagnos Scop.",
+            "id": "1395785",
+            "score": 0.00077
+        },
+        {
+            "name": "Salix nigra Marshall",
+            "id": "1413615",
+            "score": 0.00076
+        },
+        {
+            "name": "Ostrya carpinifolia Scop.",
+            "id": "1394357",
+            "score": 0.00067
+        },
+        {
+            "name": "Salix purpurea L.",
+            "id": "1360457",
+            "score": 0.00067
+        },
+        {
+            "name": "Ligustrum lucidum W.T.Aiton",
+            "id": "1393525",
+            "score": 0.0006
+        },
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.0006
+        },
+        {
+            "name": "Pyrus salicifolia Pall.",
+            "id": "1395004",
+            "score": 0.00059
+        },
+        {
+            "name": "Ulmus laevis Pall.",
+            "id": "1396951",
+            "score": 0.00054
+        },
+        {
+            "name": "Populus tremula L.",
+            "id": "1360449",
+            "score": 0.0005
+        },
+        {
+            "name": "Cinnamomum camphora (L.) J.Presl",
+            "id": "1389656",
+            "score": 0.00049
+        },
+        {
+            "name": "Salix × fragilis L.",
+            "id": "1684017",
+            "score": 0.00049
+        },
+        {
+            "name": "Pyrus ussuriensis Maxim.",
+            "id": "1721668",
+            "score": 0.00047
+        },
+        {
+            "name": "Celtis caucasica Willd.",
+            "id": "1764719",
+            "score": 0.00046
+        },
+        {
+            "name": "Robinia pseudoacacia L.",
+            "id": "1363698",
+            "score": 0.00044
+        },
+        {
+            "name": "Acer monspessulanum L.",
+            "id": "1356457",
+            "score": 0.00043
+        },
+        {
+            "name": "Ulmus pumila L.",
+            "id": "1390603",
+            "score": 0.0004
+        },
+        {
+            "name": "Juglans californica S.Watson",
+            "id": "1765805",
+            "score": 0.00039
+        },
+        {
+            "name": "Pyrus cordata Desv.",
+            "id": "1360328",
+            "score": 0.00036
+        },
+        {
+            "name": "Carya illinoinensis (Wangenh.) K.Koch",
+            "id": "1407788",
+            "score": 0.00034
+        },
+        {
+            "name": "Vitex agnus-castus L.",
+            "id": "1356208",
+            "score": 0.00033
+        },
+        {
+            "name": "Tecoma stans (L.) Juss. ex Kunth",
+            "id": "1400150",
+            "score": 0.00028
+        }
+    ]
+}

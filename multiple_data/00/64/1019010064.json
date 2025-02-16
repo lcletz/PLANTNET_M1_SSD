@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.33
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.30774
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.06576
+        },
+        {
+            "name": "Celtis australis L.",
+            "id": "1361742",
+            "score": 0.00122
+        }
+    ]
+}

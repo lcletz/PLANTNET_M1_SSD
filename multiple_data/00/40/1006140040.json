@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia helioscopia L.",
+            "id": "1355964",
+            "score": 0.93581
+        },
+        {
+            "name": "Euphorbia segetalis L.",
+            "id": "1358590",
+            "score": 0.01471
+        },
+        {
+            "name": "Euphorbia nicaeensis All.",
+            "id": "1358572",
+            "score": 0.00717
+        },
+        {
+            "name": "Euphorbia pterococca Brot.",
+            "id": "1358584",
+            "score": 0.00335
+        },
+        {
+            "name": "Euphorbia serrata L.",
+            "id": "1355971",
+            "score": 0.00334
+        },
+        {
+            "name": "Euphorbia peplus L.",
+            "id": "1355969",
+            "score": 0.00331
+        }
+    ]
+}

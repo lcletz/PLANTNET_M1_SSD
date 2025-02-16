@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Carduus nutans L.",
+            "id": "1357350",
+            "score": 0.9406
+        },
+        {
+            "name": "Onopordum tauricum Willd.",
+            "id": "1394059",
+            "score": 0.034
+        },
+        {
+            "name": "Carduus nigrescens Vill.",
+            "id": "1390740",
+            "score": 0.00659
+        },
+        {
+            "name": "Carduus defloratus L.",
+            "id": "1397340",
+            "score": 0.00148
+        },
+        {
+            "name": "Onopordum illyricum L.",
+            "id": "1394057",
+            "score": 0.0012
+        },
+        {
+            "name": "Onopordum corymbosum Willk.",
+            "id": "1397447",
+            "score": 0.00109
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus laurocerasus L.",
+            "id": "1394952",
+            "score": 0.95679
+        },
+        {
+            "name": "Ilex paraguariensis A.St.-Hil.",
+            "id": "1420708",
+            "score": 0.00441
+        },
+        {
+            "name": "Asimina triloba (L.) Dunal",
+            "id": "1413867",
+            "score": 0.00353
+        },
+        {
+            "name": "Rhaphiolepis bibas (Lour.) Galasso & Banfi",
+            "id": "1743352",
+            "score": 0.00182
+        },
+        {
+            "name": "Camellia sinensis (L.) Kuntze",
+            "id": "1379192",
+            "score": 0.00165
+        },
+        {
+            "name": "Arbutus unedo L.",
+            "id": "1358500",
+            "score": 0.00103
+        }
+    ]
+}

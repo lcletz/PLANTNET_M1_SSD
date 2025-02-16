@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stachys sylvatica L.",
+            "id": "1358950",
+            "score": 0.88116
+        },
+        {
+            "name": "Stachys alpina L.",
+            "id": "1397502",
+            "score": 0.04539
+        },
+        {
+            "name": "Salvia verticillata L.",
+            "id": "1397480",
+            "score": 0.02044
+        },
+        {
+            "name": "Stachys bullata Benth.",
+            "id": "1438593",
+            "score": 0.00178
+        },
+        {
+            "name": "Stachys arvensis (L.) L.",
+            "id": "1396422",
+            "score": 0.00147
+        },
+        {
+            "name": "Stachys heraclea All.",
+            "id": "1396430",
+            "score": 0.00124
+        },
+        {
+            "name": "Stachys germanica L.",
+            "id": "1358939",
+            "score": 0.00123
+        }
+    ]
+}

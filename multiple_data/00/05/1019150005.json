@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Verbena bonariensis L.",
+            "id": "1356209",
+            "score": 0.80789
+        },
+        {
+            "name": "Verbena brasiliensis Vell.",
+            "id": "1378797",
+            "score": 0.06957
+        },
+        {
+            "name": "Verbena incompta P.W.Michael",
+            "id": "1389728",
+            "score": 0.00472
+        },
+        {
+            "name": "Limonium sinuatum (L.) Mill.",
+            "id": "1360075",
+            "score": 0.0013
+        },
+        {
+            "name": "Valeriana angustifolia Mill.",
+            "id": "1743107",
+            "score": 0.00115
+        }
+    ]
+}

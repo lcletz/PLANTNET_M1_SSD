@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ailanthus altissima (Mill.) Swingle",
+            "id": "1360547",
+            "score": 0.77296
+        },
+        {
+            "name": "Rhus glabra L.",
+            "id": "1397601",
+            "score": 0.1205
+        },
+        {
+            "name": "Rhus typhina L.",
+            "id": "1395193",
+            "score": 0.01147
+        },
+        {
+            "name": "Aralia elata (Miq.) Seem.",
+            "id": "1398447",
+            "score": 0.01108
+        },
+        {
+            "name": "Rhus copallinum L.",
+            "id": "1413464",
+            "score": 0.00171
+        },
+        {
+            "name": "Juglans nigra L.",
+            "id": "1393337",
+            "score": 0.00122
+        },
+        {
+            "name": "Phellodendron amurense Rupr.",
+            "id": "1413037",
+            "score": 0.0012
+        }
+    ]
+}

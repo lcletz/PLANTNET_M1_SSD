@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Veronica gentianoides Vahl",
+            "id": "1389278",
+            "score": 0.84483
+        },
+        {
+            "name": "Veronica urticifolia Jacq.",
+            "id": "1397077",
+            "score": 0.03636
+        },
+        {
+            "name": "Veronica serpyllifolia L.",
+            "id": "1364066",
+            "score": 0.00776
+        },
+        {
+            "name": "Veronica teucrium L.",
+            "id": "1397074",
+            "score": 0.00585
+        },
+        {
+            "name": "Veronica ponae Gouan",
+            "id": "1397065",
+            "score": 0.00285
+        },
+        {
+            "name": "Veronica petraea Steven",
+            "id": "1646750",
+            "score": 0.00241
+        },
+        {
+            "name": "Veronica spuria L.",
+            "id": "1646782",
+            "score": 0.00129
+        },
+        {
+            "name": "Veronica anagallis-aquatica L.",
+            "id": "1364062",
+            "score": 0.00128
+        }
+    ]
+}

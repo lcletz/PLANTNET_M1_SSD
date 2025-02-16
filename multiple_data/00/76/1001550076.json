@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium repens L.",
+            "id": "1363740",
+            "score": 0.89198
+        },
+        {
+            "name": "Trifolium hybridum L.",
+            "id": "1359497",
+            "score": 0.07835
+        },
+        {
+            "name": "Trifolium nigrescens Viv.",
+            "id": "1363739",
+            "score": 0.04146
+        },
+        {
+            "name": "Trifolium fragiferum L.",
+            "id": "1356278",
+            "score": 0.01974
+        },
+        {
+            "name": "Trifolium pallescens Schreb.",
+            "id": "1396858",
+            "score": 0.0079
+        },
+        {
+            "name": "Trifolium montanum L.",
+            "id": "1359508",
+            "score": 0.0065
+        },
+        {
+            "name": "Trifolium thalii Vill.",
+            "id": "1396869",
+            "score": 0.0019
+        },
+        {
+            "name": "Trifolium pratense L.",
+            "id": "1359517",
+            "score": 0.00154
+        },
+        {
+            "name": "Trifolium semipilosum Fresen.",
+            "id": "1408787",
+            "score": 0.00124
+        },
+        {
+            "name": "Trifolium occidentale Coombe",
+            "id": "1396857",
+            "score": 0.00121
+        }
+    ]
+}

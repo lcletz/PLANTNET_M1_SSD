@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.87576
+        },
+        {
+            "name": "Stachys pilosa Nutt.",
+            "id": "1413913",
+            "score": 0.00429
+        },
+        {
+            "name": "Betonica officinalis L.",
+            "id": "1400126",
+            "score": 0.00275
+        },
+        {
+            "name": "Teucrium canadense L.",
+            "id": "1414011",
+            "score": 0.0012
+        },
+        {
+            "name": "Dactylorhiza elata (Poir.) Soó",
+            "id": "1361640",
+            "score": 0.00112
+        },
+        {
+            "name": "Pedicularis verticillata L.",
+            "id": "1394451",
+            "score": 0.00111
+        }
+    ]
+}

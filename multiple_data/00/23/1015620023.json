@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lavandula latifolia Medik.",
+            "id": "1393466",
+            "score": 0.84848
+        },
+        {
+            "name": "Lavandula angustifolia Mill.",
+            "id": "1361824",
+            "score": 0.09068
+        },
+        {
+            "name": "Lavandula × intermedia Emeric ex Loisel.",
+            "id": "1560415",
+            "score": 0.00885
+        },
+        {
+            "name": "Artemisia ludoviciana Nutt.",
+            "id": "1396735",
+            "score": 0.00796
+        },
+        {
+            "name": "Helichrysum italicum (Roth) G.Don",
+            "id": "1392725",
+            "score": 0.00792
+        },
+        {
+            "name": "Helichrysum panormitanum Guss.",
+            "id": "1509610",
+            "score": 0.00316
+        },
+        {
+            "name": "Lavandula dentata L.",
+            "id": "1356126",
+            "score": 0.00251
+        },
+        {
+            "name": "Helichrysum orientale (L.) Gaertn.",
+            "id": "1392726",
+            "score": 0.00184
+        },
+        {
+            "name": "Artemisia cana Pursh",
+            "id": "1413613",
+            "score": 0.0016
+        }
+    ]
+}

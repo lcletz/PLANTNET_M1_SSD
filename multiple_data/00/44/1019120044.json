@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Centaurea scabiosa L.",
+            "id": "1391037",
+            "score": 0.95432
+        },
+        {
+            "name": "Centaurea collina L.",
+            "id": "1397345",
+            "score": 0.00584
+        },
+        {
+            "name": "Centaurea aspera L.",
+            "id": "1357401",
+            "score": 0.00164
+        },
+        {
+            "name": "Centaurea jacea L.",
+            "id": "1362427",
+            "score": 0.00149
+        },
+        {
+            "name": "Centaurea nigra L.",
+            "id": "1357438",
+            "score": 0.00114
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dipsacus fullonum L.",
+            "id": "1358454",
+            "score": 0.63472
+        },
+        {
+            "name": "Dipsacus sativus (L.) Honck.",
+            "id": "1391749",
+            "score": 0.25611
+        },
+        {
+            "name": "Dipsacus ferox Loisel.",
+            "id": "1358453",
+            "score": 0.01384
+        },
+        {
+            "name": "Dipsacus laciniatus L.",
+            "id": "1391747",
+            "score": 0.00903
+        },
+        {
+            "name": "Dipsacus pilosus L.",
+            "id": "1391748",
+            "score": 0.00384
+        },
+        {
+            "name": "Daucus carota L.",
+            "id": "1363227",
+            "score": 0.0012
+        },
+        {
+            "name": "Dipsacus strigosus Willd. ex Roem. & Schult.",
+            "id": "1399160",
+            "score": 0.00109
+        }
+    ]
+}

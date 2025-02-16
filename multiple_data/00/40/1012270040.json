@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Equisetum telmateia Ehrh.",
+            "id": "1356398",
+            "score": 0.43205
+        },
+        {
+            "name": "Equisetum sylvaticum L.",
+            "id": "1391994",
+            "score": 0.32886
+        },
+        {
+            "name": "Equisetum arvense L.",
+            "id": "1356394",
+            "score": 0.07863
+        },
+        {
+            "name": "Equisetum fluviatile L.",
+            "id": "1356395",
+            "score": 0.06773
+        },
+        {
+            "name": "Equisetum palustre L.",
+            "id": "1391989",
+            "score": 0.0203
+        },
+        {
+            "name": "Equisetum pratense Ehrh.",
+            "id": "1391990",
+            "score": 0.01562
+        },
+        {
+            "name": "Equisetum ramosissimum Desf.",
+            "id": "1356397",
+            "score": 0.00327
+        },
+        {
+            "name": "Equisetum × litorale Kühlew. ex Rupr.",
+            "id": "1706072",
+            "score": 0.00298
+        },
+        {
+            "name": "Parkinsonia aculeata L.",
+            "id": "1363705",
+            "score": 0.00175
+        },
+        {
+            "name": "Pinus strobus L.",
+            "id": "1394616",
+            "score": 0.00128
+        }
+    ]
+}

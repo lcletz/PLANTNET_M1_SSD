@@ -1,0 +1,335 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sambucus canadensis L.",
+            "id": "1356462",
+            "score": 0.18434
+        },
+        {
+            "name": "Rhamnus saxatilis Jacq.",
+            "id": "1395158",
+            "score": 0.15663
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.04734
+        },
+        {
+            "name": "Escallonia rubra (Ruiz & Pav.) Pers.",
+            "id": "1392136",
+            "score": 0.03097
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.02942
+        },
+        {
+            "name": "Prunus japonica Thunb.",
+            "id": "1394940",
+            "score": 0.02001
+        },
+        {
+            "name": "Rosa agrestis Savi",
+            "id": "1360330",
+            "score": 0.01745
+        },
+        {
+            "name": "Rosa multiflora Thunb.",
+            "id": "1360345",
+            "score": 0.01599
+        },
+        {
+            "name": "Forsythia suspensa (Thunb.) Vahl",
+            "id": "1392356",
+            "score": 0.01469
+        },
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.01359
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.0135
+        },
+        {
+            "name": "Rosa rubiginosa L.",
+            "id": "1363996",
+            "score": 0.01334
+        },
+        {
+            "name": "Spiraea alba Du Roi",
+            "id": "1396390",
+            "score": 0.012070000000000001
+        },
+        {
+            "name": "Hydrangea petiolaris Siebold & Zucc.",
+            "id": "1398621",
+            "score": 0.01055
+        },
+        {
+            "name": "Rhamnus cathartica L.",
+            "id": "1360262",
+            "score": 0.00711
+        },
+        {
+            "name": "Rosa rugosa Thunb.",
+            "id": "1395343",
+            "score": 0.00694
+        },
+        {
+            "name": "Forsythia × intermedia Zabel",
+            "id": "1844237",
+            "score": 0.00632
+        },
+        {
+            "name": "Angelica archangelica L.",
+            "id": "1397313",
+            "score": 0.00585
+        },
+        {
+            "name": "Celastrus orbiculatus Thunb.",
+            "id": "1390975",
+            "score": 0.00555
+        },
+        {
+            "name": "Tecomaria capensis (Thunb.) Spach",
+            "id": "1400151",
+            "score": 0.00511
+        },
+        {
+            "name": "Salix myrsinifolia Salisb.",
+            "id": "1395843",
+            "score": 0.00496
+        },
+        {
+            "name": "Prunus glandulosa Thunb.",
+            "id": "1413348",
+            "score": 0.0043
+        },
+        {
+            "name": "Citrus trifoliata L.",
+            "id": "1682410",
+            "score": 0.00408
+        },
+        {
+            "name": "Smyrnium olusatrum L.",
+            "id": "1360801",
+            "score": 0.00402
+        },
+        {
+            "name": "Vaccinium myrtillus L.",
+            "id": "1361801",
+            "score": 0.00387
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00385
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.00363
+        },
+        {
+            "name": "Rosa sempervirens L.",
+            "id": "1360348",
+            "score": 0.00361
+        },
+        {
+            "name": "Rosa abietina Gren. ex Christ",
+            "id": "1741909",
+            "score": 0.0032
+        },
+        {
+            "name": "Malus domestica (Suckow) Borkh.",
+            "id": "1729464",
+            "score": 0.0031
+        },
+        {
+            "name": "Prunus × fruticans Weihe",
+            "id": "1667948",
+            "score": 0.00301
+        },
+        {
+            "name": "Aronia melanocarpa (Michx.) Elliott",
+            "id": "1398450",
+            "score": 0.00273
+        },
+        {
+            "name": "Rosa canina L.",
+            "id": "1360334",
+            "score": 0.00265
+        },
+        {
+            "name": "Rhododendron hirsutum L.",
+            "id": "1395190",
+            "score": 0.00261
+        },
+        {
+            "name": "Rosa banksiae R.Br.",
+            "id": "1420444",
+            "score": 0.00245
+        },
+        {
+            "name": "Forsythia viridissima Lindl.",
+            "id": "1398098",
+            "score": 0.00235
+        },
+        {
+            "name": "Dictamnus albus L.",
+            "id": "1391724",
+            "score": 0.00227
+        },
+        {
+            "name": "Ceanothus arboreus Greene",
+            "id": "1390611",
+            "score": 0.00226
+        },
+        {
+            "name": "Escallonia leucantha Remy",
+            "id": "1542265",
+            "score": 0.00221
+        },
+        {
+            "name": "Deutzia gracilis Siebold & Zucc.",
+            "id": "1391671",
+            "score": 0.00216
+        },
+        {
+            "name": "Chaenomeles speciosa (Sweet) Nakai",
+            "id": "1391104",
+            "score": 0.00206
+        },
+        {
+            "name": "Chaenomeles japonica (Thunb.) Lindl. ex Spach",
+            "id": "1391103",
+            "score": 0.00182
+        },
+        {
+            "name": "Ligustrum ovalifolium Hassk.",
+            "id": "1393526",
+            "score": 0.00182
+        },
+        {
+            "name": "Pterocarya stenoptera C.DC.",
+            "id": "1390588",
+            "score": 0.00177
+        },
+        {
+            "name": "Hydrangea arborescens L.",
+            "id": "1393222",
+            "score": 0.00166
+        },
+        {
+            "name": "Vaccinium corymbosum L.",
+            "id": "1396966",
+            "score": 0.00158
+        },
+        {
+            "name": "Deutzia scabra Thunb.",
+            "id": "1391675",
+            "score": 0.00157
+        },
+        {
+            "name": "Symplocos paniculata (Thunb.) Miq.",
+            "id": "1438836",
+            "score": 0.00149
+        },
+        {
+            "name": "Zanthoxylum americanum Mill.",
+            "id": "1389743",
+            "score": 0.0013
+        },
+        {
+            "name": "Rosa spinosissima L.",
+            "id": "1360350",
+            "score": 0.00127
+        },
+        {
+            "name": "Zanthoxylum bungeanum Maxim.",
+            "id": "1683186",
+            "score": 0.00127
+        },
+        {
+            "name": "Staphylea pinnata L.",
+            "id": "1396437",
+            "score": 0.00122
+        },
+        {
+            "name": "Euonymus fortunei (Turcz.) Hand.-Mazz.",
+            "id": "1392235",
+            "score": 0.00121
+        },
+        {
+            "name": "Berberis vulgaris L.",
+            "id": "1356603",
+            "score": 0.0012
+        },
+        {
+            "name": "Prasium majus L.",
+            "id": "1358853",
+            "score": 0.0012
+        },
+        {
+            "name": "Crataegus crus-galli L.",
+            "id": "1391433",
+            "score": 0.00116
+        },
+        {
+            "name": "Helleborus orientalis Lam.",
+            "id": "1392740",
+            "score": 0.00113
+        },
+        {
+            "name": "Rosa gallica L.",
+            "id": "1360338",
+            "score": 0.00112
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00109
+        },
+        {
+            "name": "Rhododendron menziesii Craven",
+            "id": "1815296",
+            "score": 0.00108
+        },
+        {
+            "name": "Hydrangea paniculata Siebold",
+            "id": "1393223",
+            "score": 0.00107
+        },
+        {
+            "name": "Ribes nigrum L.",
+            "id": "1395200",
+            "score": 0.00107
+        },
+        {
+            "name": "Mercurialis perennis L.",
+            "id": "1358605",
+            "score": 0.00105
+        },
+        {
+            "name": "Prunus fruticosa Pall.",
+            "id": "1394939",
+            "score": 0.00104
+        },
+        {
+            "name": "Crataegus laevigata (Poir.) DC.",
+            "id": "1360293",
+            "score": 0.00103
+        },
+        {
+            "name": "Salvia microphylla Kunth",
+            "id": "1356117",
+            "score": 0.00101
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bunias orientalis L.",
+            "id": "1389581",
+            "score": 0.8854
+        },
+        {
+            "name": "Sisymbrium loeselii L.",
+            "id": "1396308",
+            "score": 0.00974
+        },
+        {
+            "name": "Rorippa amphibia (L.) Besser",
+            "id": "1358413",
+            "score": 0.00843
+        },
+        {
+            "name": "Sisymbrium austriacum Jacq.",
+            "id": "1358428",
+            "score": 0.00515
+        },
+        {
+            "name": "Erysimum cheiranthoides L.",
+            "id": "1358289",
+            "score": 0.00372
+        },
+        {
+            "name": "Brassica rapa L.",
+            "id": "1363906",
+            "score": 0.00175
+        },
+        {
+            "name": "Rapistrum rugosum (L.) All.",
+            "id": "1363879",
+            "score": 0.00114
+        }
+    ]
+}

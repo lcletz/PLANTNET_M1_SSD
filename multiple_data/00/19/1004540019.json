@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Anethum graveolens L.",
+            "id": "1363232",
+            "score": 0.95506
+        },
+        {
+            "name": "Coriandrum sativum L.",
+            "id": "1363224",
+            "score": 0.00489
+        },
+        {
+            "name": "Eschscholzia californica Cham.",
+            "id": "1363125",
+            "score": 0.00266
+        },
+        {
+            "name": "Nigella damascena L.",
+            "id": "1360185",
+            "score": 0.00191
+        },
+        {
+            "name": "Delphinium ajacis L.",
+            "id": "1360162",
+            "score": 0.00169
+        },
+        {
+            "name": "Cosmos bipinnatus Cav.",
+            "id": "1364120",
+            "score": 0.00152
+        },
+        {
+            "name": "Cyclospermum leptophyllum (Pers.) Sprague ex Britton & P.Wilson",
+            "id": "1408867",
+            "score": 0.00144
+        },
+        {
+            "name": "Jacobaea adonidifolia (Loisel.) Pelser & Veldkamp",
+            "id": "1512539",
+            "score": 0.00119
+        },
+        {
+            "name": "Daucus carota L.",
+            "id": "1363227",
+            "score": 0.00107
+        }
+    ]
+}

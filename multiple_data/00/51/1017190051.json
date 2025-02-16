@@ -1,0 +1,380 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Chrysanthemum indicum L.",
+            "id": "1391154",
+            "score": 0.38659
+        },
+        {
+            "name": "Chrysanthemum × morifolium (Ramat.) Hemsl.",
+            "id": "1719982",
+            "score": 0.20954
+        },
+        {
+            "name": "Tanacetum parthenium (L.) Sch.Bip.",
+            "id": "1396511",
+            "score": 0.05778
+        },
+        {
+            "name": "Nemophila menziesii Hook. & Arn.",
+            "id": "1418038",
+            "score": 0.03038
+        },
+        {
+            "name": "Coriandrum sativum L.",
+            "id": "1363224",
+            "score": 0.02868
+        },
+        {
+            "name": "Cotula australis Hook.f.",
+            "id": "1722671",
+            "score": 0.02506
+        },
+        {
+            "name": "Lepidium sativum L.",
+            "id": "1363894",
+            "score": 0.0188
+        },
+        {
+            "name": "Anemonoides apennina (L.) Holub",
+            "id": "1737519",
+            "score": 0.01618
+        },
+        {
+            "name": "Papaver dubium L.",
+            "id": "1363129",
+            "score": 0.01608
+        },
+        {
+            "name": "Ranunculus asiaticus L.",
+            "id": "1360189",
+            "score": 0.01473
+        },
+        {
+            "name": "Callistephus chinensis (L.) Nees",
+            "id": "1390640",
+            "score": 0.01423
+        },
+        {
+            "name": "Bidens aurea (Aiton) Sherff",
+            "id": "1357321",
+            "score": 0.00955
+        },
+        {
+            "name": "Artemisia absinthium L.",
+            "id": "1357268",
+            "score": 0.00909
+        },
+        {
+            "name": "Papaver nudicaule L.",
+            "id": "1412946",
+            "score": 0.00877
+        },
+        {
+            "name": "Bidens bipinnata L.",
+            "id": "1364141",
+            "score": 0.00874
+        },
+        {
+            "name": "Viola arvensis Murray",
+            "id": "1356214",
+            "score": 0.00862
+        },
+        {
+            "name": "Nemophila phacelioides W.P.C.Barton",
+            "id": "1817123",
+            "score": 0.00815
+        },
+        {
+            "name": "Nemophila maculata Benth. ex Lindl.",
+            "id": "1418037",
+            "score": 0.00806
+        },
+        {
+            "name": "Schizanthus pinnatus Ruiz & Pav.",
+            "id": "1381470",
+            "score": 0.00728
+        },
+        {
+            "name": "Tetradenia riparia (Hochst.) Codd",
+            "id": "1377046",
+            "score": 0.00632
+        },
+        {
+            "name": "Bidens triplinervia Kunth",
+            "id": "1423180",
+            "score": 0.00601
+        },
+        {
+            "name": "Dracocephalum moldavica L.",
+            "id": "1391787",
+            "score": 0.00538
+        },
+        {
+            "name": "Lepidium didymum L.",
+            "id": "1363892",
+            "score": 0.00505
+        },
+        {
+            "name": "Artemisia annua L.",
+            "id": "1382106",
+            "score": 0.00503
+        },
+        {
+            "name": "Tanacetum coccineum (Willd.) Grierson",
+            "id": "1398099",
+            "score": 0.00483
+        },
+        {
+            "name": "Viola tricolor L.",
+            "id": "1356215",
+            "score": 0.00476
+        },
+        {
+            "name": "Stevia rebaudiana (Bertoni) Bertoni",
+            "id": "1430604",
+            "score": 0.0047
+        },
+        {
+            "name": "Artemisia stelleriana Besser",
+            "id": "1413704",
+            "score": 0.0043
+        },
+        {
+            "name": "Ranunculus sardous Crantz",
+            "id": "1360223",
+            "score": 0.0042
+        },
+        {
+            "name": "Mauranthemum paludosum (Poir.) Vogt & Oberpr.",
+            "id": "1357715",
+            "score": 0.0034
+        },
+        {
+            "name": "Geranium lucidum L.",
+            "id": "1358674",
+            "score": 0.00317
+        },
+        {
+            "name": "Rorippa sylvestris (L.) Besser",
+            "id": "1358416",
+            "score": 0.00282
+        },
+        {
+            "name": "Senecio viscosus L.",
+            "id": "1396210",
+            "score": 0.00252
+        },
+        {
+            "name": "Curcuma aeruginosa Roxb.",
+            "id": "1423787",
+            "score": 0.00243
+        },
+        {
+            "name": "Quercus lobata Née",
+            "id": "1437128",
+            "score": 0.0024
+        },
+        {
+            "name": "Dimorphotheca sinuata DC.",
+            "id": "1374876",
+            "score": 0.00235
+        },
+        {
+            "name": "Artemisia verlotiorum Lamotte",
+            "id": "1357291",
+            "score": 0.00231
+        },
+        {
+            "name": "Anemone coronaria L.",
+            "id": "1360153",
+            "score": 0.0022
+        },
+        {
+            "name": "Anemonastrum obtusilobum (D.Don) Mosyakin",
+            "id": "1729980",
+            "score": 0.0022
+        },
+        {
+            "name": "Argyranthemum coronopifolium (Willd.) Webb",
+            "id": "1722679",
+            "score": 0.00219
+        },
+        {
+            "name": "Alchemilla arvensis (L.) Scop.",
+            "id": "1741884",
+            "score": 0.00192
+        },
+        {
+            "name": "Cathcartia chelidoniifolia (Bureau & Franch.) Grey-Wilson",
+            "id": "1776984",
+            "score": 0.00182
+        },
+        {
+            "name": "Kedrostis nana (Lam.) Cogn.",
+            "id": "1755098",
+            "score": 0.00182
+        },
+        {
+            "name": "Bocconia frutescens L.",
+            "id": "1407729",
+            "score": 0.00176
+        },
+        {
+            "name": "Geum aleppicum Jacq.",
+            "id": "1412165",
+            "score": 0.00174
+        },
+        {
+            "name": "Lippia dulcis Trevir.",
+            "id": "1718241",
+            "score": 0.00174
+        },
+        {
+            "name": "Phacelia ciliata Benth.",
+            "id": "1436092",
+            "score": 0.00171
+        },
+        {
+            "name": "Bowlesia incana Ruiz & Pav.",
+            "id": "1388767",
+            "score": 0.0017
+        },
+        {
+            "name": "Chrysanthemum arcticum L.",
+            "id": "1411448",
+            "score": 0.0017
+        },
+        {
+            "name": "Nemophila pedunculata Douglas ex Benth.",
+            "id": "1412811",
+            "score": 0.00155
+        },
+        {
+            "name": "Nepeta cataria L.",
+            "id": "1358827",
+            "score": 0.0015
+        },
+        {
+            "name": "Euryops chrysanthemoides (DC.) B.Nord.",
+            "id": "1507818",
+            "score": 0.00149
+        },
+        {
+            "name": "Geum quellyon Sweet",
+            "id": "1420367",
+            "score": 0.00147
+        },
+        {
+            "name": "Phacelia sericea (Graham) A.Gray",
+            "id": "1815269",
+            "score": 0.00142
+        },
+        {
+            "name": "Sphaeropteris medullaris (G.Forst.) Bernh.",
+            "id": "1390444",
+            "score": 0.00134
+        },
+        {
+            "name": "Nemophila aphylla (L.) Brummitt",
+            "id": "1435151",
+            "score": 0.00128
+        },
+        {
+            "name": "Anemonoides blanda (Schott & Kotschy) Holub",
+            "id": "1737520",
+            "score": 0.00127
+        },
+        {
+            "name": "Plectranthus saccatus Benth.",
+            "id": "1561843",
+            "score": 0.00126
+        },
+        {
+            "name": "Chaenostoma cordatum (Thunb.) Benth.",
+            "id": "1688525",
+            "score": 0.00124
+        },
+        {
+            "name": "Lavandula minutolii Bolle",
+            "id": "1358759",
+            "score": 0.0012
+        },
+        {
+            "name": "Lavandula multifida L.",
+            "id": "1358760",
+            "score": 0.00118
+        },
+        {
+            "name": "Solanum pimpinellifolium L.",
+            "id": "1420742",
+            "score": 0.00115
+        },
+        {
+            "name": "Papaver atlanticum (Ball) Coss.",
+            "id": "1359815",
+            "score": 0.00114
+        },
+        {
+            "name": "Apium graveolens L.",
+            "id": "1363218",
+            "score": 0.00114
+        },
+        {
+            "name": "Papaver alpinum L.",
+            "id": "1394399",
+            "score": 0.00113
+        },
+        {
+            "name": "Quercus garryana Douglas ex Hook.",
+            "id": "1413404",
+            "score": 0.00112
+        },
+        {
+            "name": "Argyranthemum hierrense Humphries",
+            "id": "1357256",
+            "score": 0.00112
+        },
+        {
+            "name": "Ribes cucullatum Hook. & Arn.",
+            "id": "1554112",
+            "score": 0.00112
+        },
+        {
+            "name": "Leucanthemum ircutianum DC.",
+            "id": "1393506",
+            "score": 0.00111
+        },
+        {
+            "name": "Ribes aureum Pursh",
+            "id": "1397291",
+            "score": 0.00106
+        },
+        {
+            "name": "Nemophila spatulata Coville",
+            "id": "1435156",
+            "score": 0.00104
+        },
+        {
+            "name": "Rorippa palustris (L.) Besser",
+            "id": "1363914",
+            "score": 0.00104
+        },
+        {
+            "name": "Phacelia grandiflora (Benth.) A.Gray",
+            "id": "1818162",
+            "score": 0.00101
+        },
+        {
+            "name": "Cordia alliodora (Ruiz & Pav.) Oken",
+            "id": "1403819",
+            "score": 0.00101
+        },
+        {
+            "name": "Cystopteris fragilis (L.) Bernh.",
+            "id": "1356367",
+            "score": 0.001
+        }
+    ]
+}

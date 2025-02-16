@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Urtica urens L.",
+            "id": "1356201",
+            "score": 0.93796
+        },
+        {
+            "name": "Urtica atrovirens Req. ex Loisel.",
+            "id": "1396958",
+            "score": 0.00179
+        },
+        {
+            "name": "Urtica chamaedryoides Pursh",
+            "id": "1424320",
+            "score": 0.00143
+        },
+        {
+            "name": "Urtica membranacea Poir. ex Savigny",
+            "id": "1695710",
+            "score": 0.00114
+        },
+        {
+            "name": "Veronica agrestis L.",
+            "id": "1364061",
+            "score": 0.00103
+        }
+    ]
+}

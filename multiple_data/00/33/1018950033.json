@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Paulownia tomentosa (Thunb.) Steud.",
+            "id": "1394426",
+            "score": 0.41466
+        },
+        {
+            "name": "Abutilon theophrasti Medik.",
+            "id": "1363953",
+            "score": 0.20523
+        },
+        {
+            "name": "Cucurbita pepo L.",
+            "id": "1384485",
+            "score": 0.00375
+        },
+        {
+            "name": "Cucurbita moschata Duchesne",
+            "id": "1399145",
+            "score": 0.00234
+        }
+    ]
+}

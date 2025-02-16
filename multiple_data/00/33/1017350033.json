@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lavandula stoechas L.",
+            "id": "1358766",
+            "score": 0.92548
+        },
+        {
+            "name": "Lavandula pedunculata (Mill.) Cav.",
+            "id": "1358761",
+            "score": 0.00488
+        },
+        {
+            "name": "Lavandula dentata L.",
+            "id": "1356126",
+            "score": 0.00199
+        },
+        {
+            "name": "Lavandula angustifolia Mill.",
+            "id": "1361824",
+            "score": 0.00135
+        },
+        {
+            "name": "Eremophila nivea Chinnock",
+            "id": "1688799",
+            "score": 0.00114
+        },
+        {
+            "name": "Thymbra capitata (L.) Cav.",
+            "id": "1359029",
+            "score": 0.0011
+        },
+        {
+            "name": "Lavandula latifolia Medik.",
+            "id": "1393466",
+            "score": 0.00103
+        }
+    ]
+}

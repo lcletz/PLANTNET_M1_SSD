@@ -1,0 +1,395 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Leontodon hispidus L.",
+            "id": "1357697",
+            "score": 0.11351
+        },
+        {
+            "name": "Scorzoneroides autumnalis (L.) Moench",
+            "id": "1396117",
+            "score": 0.0503
+        },
+        {
+            "name": "Scorzonera humilis L.",
+            "id": "1396115",
+            "score": 0.03836
+        },
+        {
+            "name": "Scorzoneroides pyrenaica (Gouan) Holub",
+            "id": "1388793",
+            "score": 0.02869
+        },
+        {
+            "name": "Crepis aurea (L.) Cass.",
+            "id": "1505431",
+            "score": 0.02668
+        },
+        {
+            "name": "Pilosella officinarum Vaill.",
+            "id": "1517561",
+            "score": 0.0244
+        },
+        {
+            "name": "Erigeron alpinus L.",
+            "id": "1374231",
+            "score": 0.01961
+        },
+        {
+            "name": "Carex curvula All.",
+            "id": "1390793",
+            "score": 0.01802
+        },
+        {
+            "name": "Scorzoneroides helvetica (Mérat) Holub",
+            "id": "1519650",
+            "score": 0.01297
+        },
+        {
+            "name": "Taraxacum palustre (Lyons) Symons",
+            "id": "1396640",
+            "score": 0.01258
+        },
+        {
+            "name": "Pilosella lactucella (Wallr.) P.D.Sell & C.West",
+            "id": "1394577",
+            "score": 0.0123
+        },
+        {
+            "name": "Crepis pygmaea L.",
+            "id": "1397361",
+            "score": 0.01003
+        },
+        {
+            "name": "Scorzonera aristata Ramond ex DC.",
+            "id": "1396112",
+            "score": 0.00859
+        },
+        {
+            "name": "Hypochaeris robertia (Sch.Bip.) Fiori",
+            "id": "1512231",
+            "score": 0.00784
+        },
+        {
+            "name": "Tolpis staticifolia (All.) Sch.Bip.",
+            "id": "1396809",
+            "score": 0.0077
+        },
+        {
+            "name": "Crepis rhaetica Hegetschw.",
+            "id": "1391459",
+            "score": 0.00605
+        },
+        {
+            "name": "Hieracium chaixianum Arv.-Touv. & Gaut.",
+            "id": "1392852",
+            "score": 0.00574
+        },
+        {
+            "name": "Scorzoneroides duboisii (Sennen ex Widder) Greuter",
+            "id": "1743792",
+            "score": 0.00544
+        },
+        {
+            "name": "Erigeron acris L.",
+            "id": "1357568",
+            "score": 0.00511
+        },
+        {
+            "name": "Eriophorum scheuchzeri Hoppe",
+            "id": "1392066",
+            "score": 0.00503
+        },
+        {
+            "name": "Erigeron uniflorus L.",
+            "id": "1397378",
+            "score": 0.00494
+        },
+        {
+            "name": "Hieracium alpinum L.",
+            "id": "1392785",
+            "score": 0.00483
+        },
+        {
+            "name": "Hypochaeris radicata L.",
+            "id": "1355872",
+            "score": 0.0044
+        },
+        {
+            "name": "Scorzoneroides carpetana (Lange) Greuter",
+            "id": "1519648",
+            "score": 0.00437
+        },
+        {
+            "name": "Taraxacum erythrospermum Andrz. ex Besser",
+            "id": "1362499",
+            "score": 0.00411
+        },
+        {
+            "name": "Scorzonera laciniata L.",
+            "id": "1437978",
+            "score": 0.00327
+        },
+        {
+            "name": "Taraxacum cucullatiforme Soest",
+            "id": "1396560",
+            "score": 0.00327
+        },
+        {
+            "name": "Hieracium villosum Jacq.",
+            "id": "1393183",
+            "score": 0.00318
+        },
+        {
+            "name": "Cirsium acaule (L.) Scop.",
+            "id": "1737591",
+            "score": 0.00315
+        },
+        {
+            "name": "Leontodon crispus Vill.",
+            "id": "1397425",
+            "score": 0.00287
+        },
+        {
+            "name": "Hypericum richeri Vill.",
+            "id": "1393257",
+            "score": 0.00256
+        },
+        {
+            "name": "Carex caryophyllea Latourr.",
+            "id": "1390782",
+            "score": 0.00256
+        },
+        {
+            "name": "Leontodon saxatilis Lam.",
+            "id": "1357700",
+            "score": 0.00241
+        },
+        {
+            "name": "Taraxacum sect. Taraxacum F.H.Wigg.",
+            "id": "1737545",
+            "score": 0.00234
+        },
+        {
+            "name": "Tragopogon pratensis L.",
+            "id": "1396832",
+            "score": 0.00223
+        },
+        {
+            "name": "Hypochaeris maculata L.",
+            "id": "1393262",
+            "score": 0.0022
+        },
+        {
+            "name": "Hypochaeris glabra L.",
+            "id": "1355871",
+            "score": 0.00205
+        },
+        {
+            "name": "Orobanche gracilis Sm.",
+            "id": "1359726",
+            "score": 0.00205
+        },
+        {
+            "name": "Eriophorum angustifolium Honck.",
+            "id": "1392059",
+            "score": 0.002
+        },
+        {
+            "name": "Taraxacum bavaricum Soest",
+            "id": "1390362",
+            "score": 0.00193
+        },
+        {
+            "name": "Gelasia hirsuta (Gouan) Zaika, Sukhor. & N.Kilian",
+            "id": "1743889",
+            "score": 0.00182
+        },
+        {
+            "name": "Carex pyrenaica Wahlenb.",
+            "id": "1390899",
+            "score": 0.0017
+        },
+        {
+            "name": "Carex humilis Leyss.",
+            "id": "1390837",
+            "score": 0.00166
+        },
+        {
+            "name": "Hieracium neocerinthe Fr.",
+            "id": "1393032",
+            "score": 0.00163
+        },
+        {
+            "name": "Crepis paludosa (L.) Moench",
+            "id": "1391457",
+            "score": 0.0016
+        },
+        {
+            "name": "Pinguicula vulgaris L.",
+            "id": "1394603",
+            "score": 0.00158
+        },
+        {
+            "name": "Jacobaea incana (L.) Veldkamp",
+            "id": "1389244",
+            "score": 0.00156
+        },
+        {
+            "name": "Crepis capillaris (L.) Wallr.",
+            "id": "1355869",
+            "score": 0.00154
+        },
+        {
+            "name": "Hypochaeris uniflora Vill.",
+            "id": "1357663",
+            "score": 0.00149
+        },
+        {
+            "name": "Dryas octopetala L.",
+            "id": "1391797",
+            "score": 0.00147
+        },
+        {
+            "name": "Takhtajaniantha austriaca (Willd.) Zaika, Sukhor. & N.Kilian",
+            "id": "1742100",
+            "score": 0.00145
+        },
+        {
+            "name": "Leontodon tuberosus L.",
+            "id": "1357702",
+            "score": 0.00142
+        },
+        {
+            "name": "Narcissus bulbocodium L.",
+            "id": "1360955",
+            "score": 0.00136
+        },
+        {
+            "name": "Pilosella corymbuloides (Arv.-Touv.) S.Bräut. & Greuter",
+            "id": "1389657",
+            "score": 0.00126
+        },
+        {
+            "name": "Taraxacum mattmarkense Soest",
+            "id": "1396621",
+            "score": 0.0012
+        },
+        {
+            "name": "Jasione laevis Lam.",
+            "id": "1397413",
+            "score": 0.00118
+        },
+        {
+            "name": "Carex frigida All.",
+            "id": "1390821",
+            "score": 0.00115
+        },
+        {
+            "name": "Arnica montana L.",
+            "id": "1396472",
+            "score": 0.00115
+        },
+        {
+            "name": "Carex firma Host",
+            "id": "1418612",
+            "score": 0.00114
+        },
+        {
+            "name": "Scorzoneroides montana (Lam.) Holub",
+            "id": "1396118",
+            "score": 0.00111
+        },
+        {
+            "name": "Narthecium ossifragum (L.) Huds.",
+            "id": "1393933",
+            "score": 0.00109
+        },
+        {
+            "name": "Pedicularis kerneri Dalla Torre",
+            "id": "1394438",
+            "score": 0.00109
+        },
+        {
+            "name": "Plantago maritima L.",
+            "id": "1359965",
+            "score": 0.00106
+        },
+        {
+            "name": "Globularia cordifolia L.",
+            "id": "1392628",
+            "score": 0.00104
+        },
+        {
+            "name": "Hieracium murorum L.",
+            "id": "1393025",
+            "score": 0.00104
+        },
+        {
+            "name": "Pseudopodospermum brevicaule (Vahl) Zaika, Sukhor. & N.Kilian",
+            "id": "1743891",
+            "score": 0.00101
+        },
+        {
+            "name": "Carex flacca Schreb.",
+            "id": "1361055",
+            "score": 0.001
+        },
+        {
+            "name": "Homogyne alpina (L.) Cass.",
+            "id": "1393200",
+            "score": 0.001
+        },
+        {
+            "name": "Erigeron schleicheri Gremli",
+            "id": "1392054",
+            "score": 0.00087
+        },
+        {
+            "name": "Tragopogon dubius Scop.",
+            "id": "1364167",
+            "score": 0.00086
+        },
+        {
+            "name": "Pulsatilla alpina (L.) Delarbre",
+            "id": "1741754",
+            "score": 0.00078
+        },
+        {
+            "name": "Armeria alpina (DC.) Willd.",
+            "id": "1647128",
+            "score": 0.00073
+        },
+        {
+            "name": "Bistorta vivipara (L.) Delarbre",
+            "id": "1400176",
+            "score": 0.0007
+        },
+        {
+            "name": "Trifolium pallescens Schreb.",
+            "id": "1396858",
+            "score": 0.00065
+        },
+        {
+            "name": "Petasites paradoxus (Retz.) Baumg.",
+            "id": "1361772",
+            "score": 0.00061
+        },
+        {
+            "name": "Hieracium umbellatum L.",
+            "id": "1393169",
+            "score": 0.00057
+        },
+        {
+            "name": "Tripolium pannonicum (Jacq.) Dobrocz.",
+            "id": "1362648",
+            "score": 0.00054
+        },
+        {
+            "name": "Carlina vulgaris L.",
+            "id": "1390949",
+            "score": 0.00052
+        }
+    ]
+}

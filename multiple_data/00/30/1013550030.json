@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Chamaerops humilis L.",
+            "id": "1361702",
+            "score": 0.94807
+        },
+        {
+            "name": "Trachycarpus fortunei (Hook.) H.Wendl.",
+            "id": "1396821",
+            "score": 0.0211
+        },
+        {
+            "name": "Washingtonia robusta H.Wendl.",
+            "id": "1397225",
+            "score": 0.00396
+        },
+        {
+            "name": "Livistona chinensis (Jacq.) R.Br. ex Mart.",
+            "id": "1403452",
+            "score": 0.00242
+        },
+        {
+            "name": "Washingtonia filifera (Rafarin) H.Wendl. ex de Bary",
+            "id": "1744166",
+            "score": 0.00156
+        }
+    ]
+}

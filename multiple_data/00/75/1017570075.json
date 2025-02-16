@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salvia × sylvestris L.",
+            "id": "1563105",
+            "score": 0.77855
+        },
+        {
+            "name": "Salvia verbenaca L.",
+            "id": "1356115",
+            "score": 0.15333
+        },
+        {
+            "name": "Salvia verticillata L.",
+            "id": "1397480",
+            "score": 0.00558
+        },
+        {
+            "name": "Salvia nilotica Juss. ex Jacq.",
+            "id": "1377391",
+            "score": 0.00535
+        },
+        {
+            "name": "Salvia misella Kunth",
+            "id": "1377394",
+            "score": 0.00144
+        },
+        {
+            "name": "Salvia pratensis L.",
+            "id": "1395913",
+            "score": 0.00102
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trollius europaeus L.",
+            "id": "1397516",
+            "score": 0.94458
+        },
+        {
+            "name": "Trollius asiaticus L.",
+            "id": "1420318",
+            "score": 0.00348
+        },
+        {
+            "name": "Ranunculus repens L.",
+            "id": "1360222",
+            "score": 0.00217
+        },
+        {
+            "name": "Trollius chinensis Bunge",
+            "id": "1398548",
+            "score": 0.00173
+        },
+        {
+            "name": "Ranunculus montanus Willd.",
+            "id": "1362363",
+            "score": 0.00172
+        },
+        {
+            "name": "Ranunculus granatensis Boiss.",
+            "id": "1664494",
+            "score": 0.0013
+        },
+        {
+            "name": "Trollius dschungaricus Regel",
+            "id": "1664822",
+            "score": 0.00102
+        }
+    ]
+}

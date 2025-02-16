@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Asphodelus ramosus L.",
+            "id": "1361020",
+            "score": 0.8045
+        },
+        {
+            "name": "Asphodelus albus Mill.",
+            "id": "1397256",
+            "score": 0.11285
+        },
+        {
+            "name": "Asphodelus macrocarpus Parl.",
+            "id": "1361019",
+            "score": 0.01345
+        },
+        {
+            "name": "Asphodelus fistulosus L.",
+            "id": "1361017",
+            "score": 0.01131
+        },
+        {
+            "name": "Asphodeline lutea (L.) Rchb.",
+            "id": "1361013",
+            "score": 0.00334
+        },
+        {
+            "name": "Ornithogalum pyrenaicum L.",
+            "id": "1361516",
+            "score": 0.00109
+        },
+        {
+            "name": "Anthericum liliago L.",
+            "id": "1360998",
+            "score": 0.00103
+        }
+    ]
+}

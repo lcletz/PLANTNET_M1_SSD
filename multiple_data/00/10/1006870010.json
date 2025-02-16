@@ -1,0 +1,55 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Mentha spicata L.",
+            "id": "1358788",
+            "score": 0.54471
+        },
+        {
+            "name": "Mentha longifolia (L.) L.",
+            "id": "1356107",
+            "score": 0.18101
+        },
+        {
+            "name": "Mentha × piperita L.",
+            "id": "1560691",
+            "score": 0.12045
+        },
+        {
+            "name": "Mentha suaveolens Ehrh.",
+            "id": "1358789",
+            "score": 0.00577
+        },
+        {
+            "name": "Aloysia citrodora Paláu",
+            "id": "1409132",
+            "score": 0.0056
+        },
+        {
+            "name": "Mentha pulegium L.",
+            "id": "1356106",
+            "score": 0.00502
+        },
+        {
+            "name": "Mentha arvensis L.",
+            "id": "1358785",
+            "score": 0.00338
+        },
+        {
+            "name": "Lippia alba (Mill.) N.E.Br. ex Britton & P.Wilson",
+            "id": "1420825",
+            "score": 0.0026
+        },
+        {
+            "name": "Mentha × rotundifolia (L.) Huds.",
+            "id": "1560693",
+            "score": 0.00129
+        },
+        {
+            "name": "Mentha aquatica L.",
+            "id": "1356105",
+            "score": 0.00106
+        }
+    ]
+}

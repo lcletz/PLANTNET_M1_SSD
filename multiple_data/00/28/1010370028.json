@@ -1,0 +1,475 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Grevillea robusta A.Cunn. ex R.Br.",
+            "id": "1394929",
+            "score": 0.27115
+        },
+        {
+            "name": "Cicuta virosa L.",
+            "id": "1391163",
+            "score": 0.11599
+        },
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.04685
+        },
+        {
+            "name": "Rubus nemoralis P.J.Müll.",
+            "id": "1395553",
+            "score": 0.0403
+        },
+        {
+            "name": "Paeonia officinalis L.",
+            "id": "1362842",
+            "score": 0.03519
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.0233
+        },
+        {
+            "name": "Paeonia × suffruticosa Andrews",
+            "id": "1638045",
+            "score": 0.02195
+        },
+        {
+            "name": "Berberis japonica (Thunb.) Spreng.",
+            "id": "1721496",
+            "score": 0.01986
+        },
+        {
+            "name": "Actaea racemosa L.",
+            "id": "1414305",
+            "score": 0.01506
+        },
+        {
+            "name": "Acer palmatum Thunb.",
+            "id": "1390731",
+            "score": 0.01299
+        },
+        {
+            "name": "Jasminum sambac (L.) Aiton",
+            "id": "1383127",
+            "score": 0.01071
+        },
+        {
+            "name": "Erythrina crista-galli L.",
+            "id": "1366912",
+            "score": 0.01015
+        },
+        {
+            "name": "Ranunculus hispidus Michx.",
+            "id": "1413426",
+            "score": 0.00838
+        },
+        {
+            "name": "Berberis bealei Fortune",
+            "id": "1721495",
+            "score": 0.00796
+        },
+        {
+            "name": "Actaea simplex (DC.) Wormsk. ex Prantl",
+            "id": "1420284",
+            "score": 0.00646
+        },
+        {
+            "name": "Aristolochia cauliflora Ule",
+            "id": "1470505",
+            "score": 0.00638
+        },
+        {
+            "name": "Euonymus alatus (Thunb.) Siebold",
+            "id": "1412016",
+            "score": 0.00634
+        },
+        {
+            "name": "Anemonoides nemorosa (L.) Holub",
+            "id": "1737521",
+            "score": 0.00633
+        },
+        {
+            "name": "Paeonia anomala L.",
+            "id": "1419812",
+            "score": 0.00613
+        },
+        {
+            "name": "Daucus carota L.",
+            "id": "1363227",
+            "score": 0.00553
+        },
+        {
+            "name": "Cardiospermum halicacabum L.",
+            "id": "1360468",
+            "score": 0.00532
+        },
+        {
+            "name": "Ehretia dicksonii Hance",
+            "id": "1418029",
+            "score": 0.0047
+        },
+        {
+            "name": "Delphinium elatum L.",
+            "id": "1380238",
+            "score": 0.00455
+        },
+        {
+            "name": "Clematis montana Buch.-Ham. ex DC.",
+            "id": "1391296",
+            "score": 0.00454
+        },
+        {
+            "name": "Ophiopogon planiscapus Nakai",
+            "id": "1389412",
+            "score": 0.00449
+        },
+        {
+            "name": "Ehretia macrophylla Wall.",
+            "id": "1477969",
+            "score": 0.00431
+        },
+        {
+            "name": "Paeonia delavayi Franch.",
+            "id": "1419815",
+            "score": 0.00414
+        },
+        {
+            "name": "Rudbeckia laciniata L.",
+            "id": "1395639",
+            "score": 0.00395
+        },
+        {
+            "name": "Acer japonicum Thunb.",
+            "id": "1390723",
+            "score": 0.00387
+        },
+        {
+            "name": "Paeonia rockii (S.G.Haw & Lauener) T.Hong & J.J.Li ex D.Y.Hong",
+            "id": "1419821",
+            "score": 0.00381
+        },
+        {
+            "name": "Artemisia verlotiorum Lamotte",
+            "id": "1357291",
+            "score": 0.00372
+        },
+        {
+            "name": "Pulsatilla pratensis (L.) Mill.",
+            "id": "1737509",
+            "score": 0.00354
+        },
+        {
+            "name": "Berberis aquifolium Pursh",
+            "id": "1400122",
+            "score": 0.00343
+        },
+        {
+            "name": "Jasminum grandiflorum L.",
+            "id": "1359672",
+            "score": 0.00326
+        },
+        {
+            "name": "Osmorhiza longistylis (Torr.) DC.",
+            "id": "1412885",
+            "score": 0.00318
+        },
+        {
+            "name": "Cussonia paniculata Eckl. & Zeyh.",
+            "id": "1421055",
+            "score": 0.00309
+        },
+        {
+            "name": "Paeonia mascula (L.) Mill.",
+            "id": "1359758",
+            "score": 0.00292
+        },
+        {
+            "name": "Tetrapanax papyrifer (Hook.) K.Koch",
+            "id": "1389376",
+            "score": 0.00284
+        },
+        {
+            "name": "Pulsatilla alpina (L.) Delarbre",
+            "id": "1741754",
+            "score": 0.0028
+        },
+        {
+            "name": "Hydrophyllum tenuipes A.Heller",
+            "id": "1478272",
+            "score": 0.00266
+        },
+        {
+            "name": "Hibiscus acetosella Welw. ex Hiern",
+            "id": "1370453",
+            "score": 0.00263
+        },
+        {
+            "name": "Bidens bipinnata L.",
+            "id": "1364141",
+            "score": 0.00263
+        },
+        {
+            "name": "Jasminum officinale L.",
+            "id": "1359673",
+            "score": 0.00238
+        },
+        {
+            "name": "Aconitum volubile Pall. ex Koelle",
+            "id": "1663210",
+            "score": 0.00236
+        },
+        {
+            "name": "Caulophyllum thalictroides (L.) Michx.",
+            "id": "1411383",
+            "score": 0.00235
+        },
+        {
+            "name": "Aristolochia watsonii Wooton & Standl.",
+            "id": "1436842",
+            "score": 0.00211
+        },
+        {
+            "name": "Sambucus canadensis L.",
+            "id": "1356462",
+            "score": 0.00209
+        },
+        {
+            "name": "Delphinium staphisagria L.",
+            "id": "1360179",
+            "score": 0.00204
+        },
+        {
+            "name": "Sambucus australis Cham. & Schltdl.",
+            "id": "1447814",
+            "score": 0.00202
+        },
+        {
+            "name": "Delphinium carolinianum Walter",
+            "id": "1411704",
+            "score": 0.00202
+        },
+        {
+            "name": "Pulsatilla vulgaris Mill.",
+            "id": "1737508",
+            "score": 0.002
+        },
+        {
+            "name": "Hemionitis querquobadii Christenh.",
+            "id": "1737218",
+            "score": 0.002
+        },
+        {
+            "name": "Actaea cimicifuga L.",
+            "id": "1420280",
+            "score": 0.0019
+        },
+        {
+            "name": "Paeonia lactiflora Pall.",
+            "id": "1412934",
+            "score": 0.00188
+        },
+        {
+            "name": "Torilis africana Spreng.",
+            "id": "1363255",
+            "score": 0.00177
+        },
+        {
+            "name": "Clematis hexapetala Pall.",
+            "id": "1663633",
+            "score": 0.00177
+        },
+        {
+            "name": "Clematis alpina (L.) Mill.",
+            "id": "1397354",
+            "score": 0.00174
+        },
+        {
+            "name": "Hedera helix L.",
+            "id": "1363575",
+            "score": 0.00174
+        },
+        {
+            "name": "Dahlia × cultorum Thorsrud & Reisaeter",
+            "id": "1844132",
+            "score": 0.0017
+        },
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.00152
+        },
+        {
+            "name": "Asteriscus sericeus (L.f.) DC.",
+            "id": "1500298",
+            "score": 0.0015
+        },
+        {
+            "name": "Leonurus sibiricus L.",
+            "id": "1397956",
+            "score": 0.00147
+        },
+        {
+            "name": "Conopodium majus (Gouan) Loret",
+            "id": "1360674",
+            "score": 0.00146
+        },
+        {
+            "name": "Artemisia lactiflora Wall. ex DC.",
+            "id": "1417767",
+            "score": 0.00144
+        },
+        {
+            "name": "Rhus typhina L.",
+            "id": "1395193",
+            "score": 0.00142
+        },
+        {
+            "name": "Cordyline australis (G.Forst.) Endl.",
+            "id": "1391346",
+            "score": 0.00142
+        },
+        {
+            "name": "Sindoropsis letestui (Pellegr.) J.Léonard",
+            "id": "1750115",
+            "score": 0.00142
+        },
+        {
+            "name": "Ranunculus acris L.",
+            "id": "1360187",
+            "score": 0.00138
+        },
+        {
+            "name": "Astilbe japonica (C.Morren & Decne.) A.Gray",
+            "id": "1398452",
+            "score": 0.00136
+        },
+        {
+            "name": "Actaea dahurica (Turcz. ex Fisch. & C.A.Mey.) Franch.",
+            "id": "1420281",
+            "score": 0.00134
+        },
+        {
+            "name": "Coprosma baueri Endl.",
+            "id": "1671758",
+            "score": 0.00129
+        },
+        {
+            "name": "Helleborus multifidus Vis.",
+            "id": "1388995",
+            "score": 0.00128
+        },
+        {
+            "name": "Beaumontia grandiflora Wall.",
+            "id": "1369878",
+            "score": 0.00127
+        },
+        {
+            "name": "Cicuta bulbifera L.",
+            "id": "1411455",
+            "score": 0.00125
+        },
+        {
+            "name": "Coffea arabica L.",
+            "id": "1360376",
+            "score": 0.00123
+        },
+        {
+            "name": "Syzygium sarmentosum J.W.Dawson",
+            "id": "1607512",
+            "score": 0.00123
+        },
+        {
+            "name": "Nandina domestica Thunb.",
+            "id": "1409295",
+            "score": 0.00121
+        },
+        {
+            "name": "Helleborus viridis L.",
+            "id": "1397399",
+            "score": 0.00121
+        },
+        {
+            "name": "Peucedanum palustre (L.) Moench",
+            "id": "1436064",
+            "score": 0.00118
+        },
+        {
+            "name": "Cardamine concatenata (Michx.) O.Schwarz",
+            "id": "1479755",
+            "score": 0.00117
+        },
+        {
+            "name": "Paeonia californica Nutt.",
+            "id": "1435481",
+            "score": 0.00116
+        },
+        {
+            "name": "Rudbeckia alpicola Piper",
+            "id": "1437624",
+            "score": 0.00111
+        },
+        {
+            "name": "Camptoloma canariense (Webb & Berthel.) Hilliard",
+            "id": "1362997",
+            "score": 0.00111
+        },
+        {
+            "name": "Juglans mandshurica Maxim.",
+            "id": "1419240",
+            "score": 0.00111
+        },
+        {
+            "name": "Artemisia ludoviciana Nutt.",
+            "id": "1396735",
+            "score": 0.00109
+        },
+        {
+            "name": "Bidens subalternans DC.",
+            "id": "1400143",
+            "score": 0.00107
+        },
+        {
+            "name": "Heliotropium arboreum (Blanco) Mabb.",
+            "id": "1720161",
+            "score": 0.00107
+        },
+        {
+            "name": "Achillea macrophylla L.",
+            "id": "1393307",
+            "score": 0.00105
+        },
+        {
+            "name": "Aconitum napellus L.",
+            "id": "1395208",
+            "score": 0.00105
+        },
+        {
+            "name": "Sideritis nutans Svent.",
+            "id": "1358920",
+            "score": 0.00105
+        },
+        {
+            "name": "Cosmos caudatus Kunth",
+            "id": "1406252",
+            "score": 0.00101
+        },
+        {
+            "name": "Aristolochia arborea Linden",
+            "id": "1470459",
+            "score": 0.00101
+        },
+        {
+            "name": "Geranium maderense Yeo",
+            "id": "1358675",
+            "score": 0.001
+        },
+        {
+            "name": "Argyranthemum frutescens (L.) Sch.Bip.",
+            "id": "1408638",
+            "score": 0.001
+        }
+    ]
+}

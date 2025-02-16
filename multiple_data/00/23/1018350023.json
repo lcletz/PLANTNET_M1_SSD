@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Ornithogalum pyrenaicum L.",
+            "id": "1361516",
+            "score": 0.61267
+        },
+        {
+            "name": "Ornithogalum sphaerocarpum A.Kern.",
+            "id": "1472934",
+            "score": 0.01749
+        },
+        {
+            "name": "Ornithogalum narbonense L.",
+            "id": "1361514",
+            "score": 0.00692
+        },
+        {
+            "name": "Silene nutans L.",
+            "id": "1357026",
+            "score": 0.00491
+        },
+        {
+            "name": "Dictamnus albus L.",
+            "id": "1391724",
+            "score": 0.00235
+        },
+        {
+            "name": "Clematis recta L.",
+            "id": "1391298",
+            "score": 0.00198
+        },
+        {
+            "name": "Tofieldia calyculata (L.) Wahlenb.",
+            "id": "1396806",
+            "score": 0.00178
+        },
+        {
+            "name": "Anthericum liliago L.",
+            "id": "1360998",
+            "score": 0.00136
+        }
+    ]
+}

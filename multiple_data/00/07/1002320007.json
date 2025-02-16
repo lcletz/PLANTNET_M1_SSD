@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Reseda luteola L.",
+            "id": "1363978",
+            "score": 0.92967
+        },
+        {
+            "name": "Reseda alba L.",
+            "id": "1360231",
+            "score": 0.01835
+        },
+        {
+            "name": "Plantago major L.",
+            "id": "1356067",
+            "score": 0.00341
+        },
+        {
+            "name": "Reseda lutea L.",
+            "id": "1356295",
+            "score": 0.00322
+        },
+        {
+            "name": "Reseda aucheri Boiss.",
+            "id": "1664939",
+            "score": 0.00162
+        },
+        {
+            "name": "Ambrosia artemisiifolia L.",
+            "id": "1355901",
+            "score": 0.00113
+        }
+    ]
+}

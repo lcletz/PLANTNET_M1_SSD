@@ -1,0 +1,55 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Potentilla erecta (L.) Raeusch.",
+            "id": "1360307",
+            "score": 0.7256
+        },
+        {
+            "name": "Potentilla anglica Laichard.",
+            "id": "1360304",
+            "score": 0.11986
+        },
+        {
+            "name": "Potentilla reptans L.",
+            "id": "1363993",
+            "score": 0.0355
+        },
+        {
+            "name": "Potentilla indica (Andrews) Th.Wolf",
+            "id": "1721637",
+            "score": 0.00321
+        },
+        {
+            "name": "Geum urbanum L.",
+            "id": "1360300",
+            "score": 0.00319
+        },
+        {
+            "name": "Potentilla aurea L.",
+            "id": "1397466",
+            "score": 0.00214
+        },
+        {
+            "name": "Fragaria vesca L.",
+            "id": "1363991",
+            "score": 0.00133
+        },
+        {
+            "name": "Potentilla pedata Willd. ex Hornem.",
+            "id": "1399781",
+            "score": 0.00123
+        },
+        {
+            "name": "Potentilla recta L.",
+            "id": "1360313",
+            "score": 0.00115
+        },
+        {
+            "name": "Ranunculus flammula L.",
+            "id": "1360203",
+            "score": 0.00102
+        }
+    ]
+}

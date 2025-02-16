@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Tanacetum vulgare L.",
+            "id": "1396512",
+            "score": 0.80547
+        },
+        {
+            "name": "Achillea filipendulina Lam.",
+            "id": "1392622",
+            "score": 0.02984
+        },
+        {
+            "name": "Senecio squalidus L.",
+            "id": "1357867",
+            "score": 0.00817
+        },
+        {
+            "name": "Tanacetum macrophyllum (Waldst. & Kit.) Sch.Bip.",
+            "id": "1396507",
+            "score": 0.00557
+        },
+        {
+            "name": "Jacobaea vulgaris Gaertn.",
+            "id": "1362040",
+            "score": 0.00535
+        },
+        {
+            "name": "Achillea ageratum L.",
+            "id": "1357182",
+            "score": 0.0038
+        },
+        {
+            "name": "Jacobaea erucifolia (L.) G.Gaertn., B.Mey. & Scherb.",
+            "id": "1728568",
+            "score": 0.00316
+        },
+        {
+            "name": "Tanacetum annuum L.",
+            "id": "1357915",
+            "score": 0.00156
+        }
+    ]
+}

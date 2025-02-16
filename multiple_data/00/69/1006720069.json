@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sambucus canadensis L.",
+            "id": "1356462",
+            "score": 0.46121
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.4138
+        },
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.07233
+        },
+        {
+            "name": "Sambucus ebulus L.",
+            "id": "1356276",
+            "score": 0.00138
+        },
+        {
+            "name": "Sambucus palmensis Link",
+            "id": "1356465",
+            "score": 0.00125
+        },
+        {
+            "name": "Sambucus lanceolata R.Br.",
+            "id": "1447817",
+            "score": 0.00103
+        }
+    ]
+}

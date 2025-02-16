@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iris sibirica L.",
+            "id": "1393304",
+            "score": 0.84428
+        },
+        {
+            "name": "Iris versicolor L.",
+            "id": "1393297",
+            "score": 0.04346
+        },
+        {
+            "name": "Iris spuria L.",
+            "id": "1361544",
+            "score": 0.00915
+        },
+        {
+            "name": "Iris × germanica L.",
+            "id": "1556750",
+            "score": 0.00562
+        },
+        {
+            "name": "Iris setosa Pall. ex Link",
+            "id": "1412338",
+            "score": 0.00366
+        },
+        {
+            "name": "Iris sanguinea Hornem.",
+            "id": "1433298",
+            "score": 0.00284
+        },
+        {
+            "name": "Iris pumila L.",
+            "id": "1398617",
+            "score": 0.00213
+        },
+        {
+            "name": "Iris pallida Lam.",
+            "id": "1361541",
+            "score": 0.00207
+        },
+        {
+            "name": "Iris ensata Thunb.",
+            "id": "1393295",
+            "score": 0.00118
+        },
+        {
+            "name": "Iris chrysographes Dykes",
+            "id": "1556707",
+            "score": 0.00115
+        }
+    ]
+}

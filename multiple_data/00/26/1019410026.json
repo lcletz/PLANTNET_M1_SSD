@@ -1,0 +1,55 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.59347
+        },
+        {
+            "name": "Salix × fragilis L.",
+            "id": "1684017",
+            "score": 0.04614
+        },
+        {
+            "name": "Salix triandra L.",
+            "id": "1360459",
+            "score": 0.0231
+        },
+        {
+            "name": "Salix daphnoides Vill.",
+            "id": "1395778",
+            "score": 0.01125
+        },
+        {
+            "name": "Salix pentandra L.",
+            "id": "1395852",
+            "score": 0.00956
+        },
+        {
+            "name": "Salix viminalis L.",
+            "id": "1395903",
+            "score": 0.00935
+        },
+        {
+            "name": "Salix × pendulina Wender.",
+            "id": "1684175",
+            "score": 0.00635
+        },
+        {
+            "name": "Salix purpurea L.",
+            "id": "1360457",
+            "score": 0.00258
+        },
+        {
+            "name": "Salix eleagnos Scop.",
+            "id": "1395785",
+            "score": 0.00145
+        },
+        {
+            "name": "Salix salviifolia Brot.",
+            "id": "1420584",
+            "score": 0.00107
+        }
+    ]
+}

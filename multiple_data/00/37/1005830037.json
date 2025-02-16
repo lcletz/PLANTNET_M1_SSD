@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia pulcherrima Willd. ex Klotzsch",
+            "id": "1355985",
+            "score": 0.88579
+        },
+        {
+            "name": "Euphorbia heterophylla L.",
+            "id": "1355965",
+            "score": 0.01843
+        },
+        {
+            "name": "Amaranthus viridis L.",
+            "id": "1393682",
+            "score": 0.00389
+        },
+        {
+            "name": "Amaranthus spinosus L.",
+            "id": "1363253",
+            "score": 0.0021
+        },
+        {
+            "name": "Toxicodendron radicans (L.) Kuntze",
+            "id": "1396819",
+            "score": 0.00201
+        },
+        {
+            "name": "Rivina humilis L.",
+            "id": "1356061",
+            "score": 0.002
+        },
+        {
+            "name": "Euphorbia cotinifolia L.",
+            "id": "1380521",
+            "score": 0.00129
+        },
+        {
+            "name": "Hura crepitans L.",
+            "id": "1376239",
+            "score": 0.00119
+        }
+    ]
+}

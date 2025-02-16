@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Linnaea borealis L.",
+            "id": "1393604",
+            "score": 0.90332
+        },
+        {
+            "name": "Cotoneaster horizontalis Decne.",
+            "id": "1391410",
+            "score": 0.00926
+        },
+        {
+            "name": "Veronica officinalis L.",
+            "id": "1364068",
+            "score": 0.00453
+        },
+        {
+            "name": "Gaultheria hispidula (L.) Muhl. ex Bigelow",
+            "id": "1412123",
+            "score": 0.00362
+        },
+        {
+            "name": "Symphoricarpos mollis Nutt.",
+            "id": "1438785",
+            "score": 0.00241
+        },
+        {
+            "name": "Arctous alpina (L.) Nied.",
+            "id": "1418688",
+            "score": 0.00125
+        },
+        {
+            "name": "Peperomia elliptica (Lam.) A.Dietr.",
+            "id": "1408485",
+            "score": 0.001
+        }
+    ]
+}

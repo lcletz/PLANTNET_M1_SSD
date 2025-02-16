@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Clinopodium vulgare L.",
+            "id": "1358742",
+            "score": 0.93484
+        },
+        {
+            "name": "Clinopodium alpinum (L.) Kuntze",
+            "id": "1391304",
+            "score": 0.0054
+        },
+        {
+            "name": "Clinopodium nepeta (L.) Kuntze",
+            "id": "1391306",
+            "score": 0.0025
+        },
+        {
+            "name": "Clinopodium grandiflorum (L.) Kuntze",
+            "id": "1391305",
+            "score": 0.00202
+        },
+        {
+            "name": "Clinopodium acinos (L.) Kuntze",
+            "id": "1391303",
+            "score": 0.00154
+        }
+    ]
+}

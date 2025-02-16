@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Tanacetum vulgare L.",
+            "id": "1396512",
+            "score": 0.34675
+        },
+        {
+            "name": "Tanacetum audibertii DC.",
+            "id": "1743426",
+            "score": 0.21741
+        },
+        {
+            "name": "Achillea ageratum L.",
+            "id": "1357182",
+            "score": 0.15857
+        },
+        {
+            "name": "Tanacetum annuum L.",
+            "id": "1357915",
+            "score": 0.01164
+        },
+        {
+            "name": "Achillea filipendulina Lam.",
+            "id": "1392622",
+            "score": 0.00368
+        },
+        {
+            "name": "Achillea ligustica All.",
+            "id": "1357185",
+            "score": 0.00182
+        },
+        {
+            "name": "Helichrysum arenarium (L.) Moench",
+            "id": "1397398",
+            "score": 0.00153
+        },
+        {
+            "name": "Tanacetum balsamita L.",
+            "id": "1396509",
+            "score": 0.00121
+        },
+        {
+            "name": "Achillea tomentosa L.",
+            "id": "1393953",
+            "score": 0.00112
+        }
+    ]
+}

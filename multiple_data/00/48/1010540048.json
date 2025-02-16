@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bistorta officinalis Delarbre",
+            "id": "1400175",
+            "score": 0.96208
+        },
+        {
+            "name": "Rumex patientia L.",
+            "id": "1360135",
+            "score": 0.00203
+        },
+        {
+            "name": "Persicaria orientalis (L.) Spach",
+            "id": "1360114",
+            "score": 0.00203
+        },
+        {
+            "name": "Bistorta affinis (D.Don) Greene",
+            "id": "1729313",
+            "score": 0.00124
+        },
+        {
+            "name": "Rumex obtusifolius L.",
+            "id": "1360132",
+            "score": 0.00123
+        }
+    ]
+}

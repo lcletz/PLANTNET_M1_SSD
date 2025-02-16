@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Geranium dissectum L.",
+            "id": "1356007",
+            "score": 0.96322
+        },
+        {
+            "name": "Geranium columbinum L.",
+            "id": "1358671",
+            "score": 0.00713
+        },
+        {
+            "name": "Geranium pusillum L.",
+            "id": "1392594",
+            "score": 0.00356
+        },
+        {
+            "name": "Geranium carolinianum L.",
+            "id": "1398512",
+            "score": 0.0018
+        },
+        {
+            "name": "Geranium sanguineum L.",
+            "id": "1392597",
+            "score": 0.0015
+        },
+        {
+            "name": "Erodium ciconium (L.) L'Hér.",
+            "id": "1358643",
+            "score": 0.00104
+        },
+        {
+            "name": "Geranium pratense L.",
+            "id": "1397394",
+            "score": 0.00104
+        }
+    ]
+}

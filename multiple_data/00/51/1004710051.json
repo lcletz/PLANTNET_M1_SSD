@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viburnum opulus L.",
+            "id": "1361743",
+            "score": 0.86036
+        },
+        {
+            "name": "Viburnum trilobum Marshall",
+            "id": "1397611",
+            "score": 0.05838
+        },
+        {
+            "name": "Viburnum acerifolium L.",
+            "id": "1414184",
+            "score": 0.00691
+        },
+        {
+            "name": "Viburnum sargentii Koehne",
+            "id": "1447924",
+            "score": 0.00458
+        },
+        {
+            "name": "Ribes alpinum L.",
+            "id": "1358682",
+            "score": 0.00143
+        }
+    ]
+}

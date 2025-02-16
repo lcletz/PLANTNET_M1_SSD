@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Convolvulus arvensis L.",
+            "id": "1364006",
+            "score": 0.89847
+        },
+        {
+            "name": "Calystegia soldanella (L.) R.Br.",
+            "id": "1721018",
+            "score": 0.01534
+        },
+        {
+            "name": "Convolvulus lineatus L.",
+            "id": "1357981",
+            "score": 0.00558
+        },
+        {
+            "name": "Calystegia purpurata (Greene) Brummitt",
+            "id": "1440492",
+            "score": 0.00417
+        },
+        {
+            "name": "Calystegia macrostegia (Greene) Brummitt",
+            "id": "1440488",
+            "score": 0.00387
+        },
+        {
+            "name": "Convolvulus cantabrica L.",
+            "id": "1357968",
+            "score": 0.00272
+        },
+        {
+            "name": "Calystegia sepium (L.) R.Br.",
+            "id": "1426068",
+            "score": 0.0024
+        },
+        {
+            "name": "Convolvulus althaeoides L.",
+            "id": "1364016",
+            "score": 0.0016
+        },
+        {
+            "name": "Convolvulus bonariensis Cav.",
+            "id": "1527159",
+            "score": 0.00123
+        },
+        {
+            "name": "Calystegia hederacea Wall.",
+            "id": "1414403",
+            "score": 0.0011
+        }
+    ]
+}

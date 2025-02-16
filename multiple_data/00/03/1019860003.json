@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.63724
+        },
+        {
+            "name": "Populus balsamifera L.",
+            "id": "1394775",
+            "score": 0.01108
+        },
+        {
+            "name": "Populus tristis Fisch.",
+            "id": "1741869",
+            "score": 0.01024
+        },
+        {
+            "name": "Populus deltoides W.Bartram ex Marshall",
+            "id": "1738800",
+            "score": 0.00594
+        },
+        {
+            "name": "Tilia cordata Mill.",
+            "id": "1396797",
+            "score": 0.00182
+        },
+        {
+            "name": "Populus × canescens (Aiton) Sm.",
+            "id": "1683819",
+            "score": 0.0009
+        },
+        {
+            "name": "Populus alba L.",
+            "id": "1364046",
+            "score": 0.00069
+        },
+        {
+            "name": "Tilia × europaea L.",
+            "id": "1595800",
+            "score": 0.00046
+        }
+    ]
+}

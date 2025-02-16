@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Rudbeckia fulgida Aiton",
+            "id": "1397722",
+            "score": 0.50359
+        },
+        {
+            "name": "Rudbeckia hirta L.",
+            "id": "1395638",
+            "score": 0.22724
+        },
+        {
+            "name": "Helianthus debilis Nutt.",
+            "id": "1379525",
+            "score": 0.01044
+        },
+        {
+            "name": "Helianthus tuberosus L.",
+            "id": "1357617",
+            "score": 0.00308
+        },
+        {
+            "name": "Helianthus pauciflorus Nutt.",
+            "id": "1392721",
+            "score": 0.00276
+        },
+        {
+            "name": "Helianthus annuus L.",
+            "id": "1364145",
+            "score": 0.00176
+        },
+        {
+            "name": "Arctotheca calendula (L.) Levyns",
+            "id": "1355927",
+            "score": 0.00175
+        },
+        {
+            "name": "Helianthus × laetiflorus Pers.",
+            "id": "1509310",
+            "score": 0.00166
+        }
+    ]
+}

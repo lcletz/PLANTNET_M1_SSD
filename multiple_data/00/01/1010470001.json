@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Carex pendula Huds.",
+            "id": "1361075",
+            "score": 0.87796
+        },
+        {
+            "name": "Carex acutiformis Ehrh.",
+            "id": "1363281",
+            "score": 0.07998
+        },
+        {
+            "name": "Carex pseudocyperus L.",
+            "id": "1361078",
+            "score": 0.00666
+        },
+        {
+            "name": "Carex crinita Lam.",
+            "id": "1411115",
+            "score": 0.00321
+        },
+        {
+            "name": "Carex riparia Curtis",
+            "id": "1361081",
+            "score": 0.00225
+        },
+        {
+            "name": "Carex sylvatica Huds.",
+            "id": "1363283",
+            "score": 0.0021
+        },
+        {
+            "name": "Carex flacca Schreb.",
+            "id": "1361055",
+            "score": 0.00117
+        }
+    ]
+}

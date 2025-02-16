@@ -1,0 +1,460 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viola reichenbachiana Jord. ex Boreau",
+            "id": "1397185",
+            "score": 0.54844
+        },
+        {
+            "name": "Escallonia rubra (Ruiz & Pav.) Pers.",
+            "id": "1392136",
+            "score": 0.12943
+        },
+        {
+            "name": "Pyracantha coccinea M.Roem.",
+            "id": "1394994",
+            "score": 0.11996
+        },
+        {
+            "name": "Pilosella aurantiaca (L.) F.W.Schultz & Sch.Bip.",
+            "id": "1394567",
+            "score": 0.11399
+        },
+        {
+            "name": "Viola riviniana Rchb.",
+            "id": "1360878",
+            "score": 0.07383
+        },
+        {
+            "name": "Chaenomeles speciosa (Sweet) Nakai",
+            "id": "1391104",
+            "score": 0.06097
+        },
+        {
+            "name": "Viola canina L.",
+            "id": "1360864",
+            "score": 0.06053
+        },
+        {
+            "name": "Myrsine africana L.",
+            "id": "1383319",
+            "score": 0.0604
+        },
+        {
+            "name": "Pyracantha crenulata (D.Don) M.Roem.",
+            "id": "1729475",
+            "score": 0.05003
+        },
+        {
+            "name": "Chaenomeles japonica (Thunb.) Lindl. ex Spach",
+            "id": "1391103",
+            "score": 0.04528
+        },
+        {
+            "name": "Myosotis martini Sennen",
+            "id": "1390093",
+            "score": 0.04257
+        },
+        {
+            "name": "Pyracantha koidzumii (Hayata) Rehder",
+            "id": "1389031",
+            "score": 0.03336
+        },
+        {
+            "name": "Ehretia microphylla Lam.",
+            "id": "1418030",
+            "score": 0.03153
+        },
+        {
+            "name": "Viola odorata L.",
+            "id": "1360872",
+            "score": 0.02745
+        },
+        {
+            "name": "Eryngium foetidum L.",
+            "id": "1384694",
+            "score": 0.02252
+        },
+        {
+            "name": "Viola rostrata Muhl. ex Pursh",
+            "id": "1782460",
+            "score": 0.02185
+        },
+        {
+            "name": "Myosotis arvensis (L.) Hill",
+            "id": "1363858",
+            "score": 0.02012
+        },
+        {
+            "name": "Myosotis scorpioides L.",
+            "id": "1393897",
+            "score": 0.01677
+        },
+        {
+            "name": "Viola hirta L.",
+            "id": "1361898",
+            "score": 0.01637
+        },
+        {
+            "name": "Rhamnus saxatilis Jacq.",
+            "id": "1395158",
+            "score": 0.01527
+        },
+        {
+            "name": "Viola labradorica Schrank",
+            "id": "1414204",
+            "score": 0.01479
+        },
+        {
+            "name": "Pilosella officinarum Vaill.",
+            "id": "1517561",
+            "score": 0.01331
+        },
+        {
+            "name": "Buxus sempervirens L.",
+            "id": "1356729",
+            "score": 0.01304
+        },
+        {
+            "name": "Lactuca sativa L.",
+            "id": "1364172",
+            "score": 0.01266
+        },
+        {
+            "name": "Viola alba Besser",
+            "id": "1360861",
+            "score": 0.01226
+        },
+        {
+            "name": "Cotoneaster dammeri C.K.Schneid.",
+            "id": "1391405",
+            "score": 0.01216
+        },
+        {
+            "name": "Bellis sylvestris Cirillo",
+            "id": "1357320",
+            "score": 0.012070000000000001
+        },
+        {
+            "name": "Epilobium tetragonum L.",
+            "id": "1359688",
+            "score": 0.01169
+        },
+        {
+            "name": "Helminthotheca echioides (L.) Holub",
+            "id": "1357635",
+            "score": 0.01122
+        },
+        {
+            "name": "Arabidopsis thaliana (L.) Heynh.",
+            "id": "1363915",
+            "score": 0.0111
+        },
+        {
+            "name": "Cotoneaster horizontalis Decne.",
+            "id": "1391410",
+            "score": 0.01109
+        },
+        {
+            "name": "Viola adunca Sm.",
+            "id": "1414195",
+            "score": 0.01009
+        },
+        {
+            "name": "Viola palustris L.",
+            "id": "1360874",
+            "score": 0.00979
+        },
+        {
+            "name": "Lactuca serriola L.",
+            "id": "1364173",
+            "score": 0.00975
+        },
+        {
+            "name": "Calendula arvensis L.",
+            "id": "1390637",
+            "score": 0.00925
+        },
+        {
+            "name": "Anchusa officinalis L.",
+            "id": "1394038",
+            "score": 0.00913
+        },
+        {
+            "name": "Punica granatum L.",
+            "id": "1359616",
+            "score": 0.00834
+        },
+        {
+            "name": "Hypochaeris glabra L.",
+            "id": "1355871",
+            "score": 0.00823
+        },
+        {
+            "name": "Capsella bursa-pastoris (L.) Medik.",
+            "id": "1363910",
+            "score": 0.00787
+        },
+        {
+            "name": "Amsinckia menziesii (Lehm.) A.Nelson & J.F.Macbr.",
+            "id": "1477184",
+            "score": 0.00781
+        },
+        {
+            "name": "Ilex vomitoria Aiton",
+            "id": "1420734",
+            "score": 0.00772
+        },
+        {
+            "name": "Calendula officinalis L.",
+            "id": "1357330",
+            "score": 0.00753
+        },
+        {
+            "name": "Hypochaeris achyrophorus L.",
+            "id": "1357654",
+            "score": 0.00728
+        },
+        {
+            "name": "Viola elatior Fr.",
+            "id": "1397142",
+            "score": 0.00727
+        },
+        {
+            "name": "Nicotiana tabacum L.",
+            "id": "1356159",
+            "score": 0.00704
+        },
+        {
+            "name": "Berberis vulgaris L.",
+            "id": "1356603",
+            "score": 0.00619
+        },
+        {
+            "name": "Cichorium endivia L.",
+            "id": "1364163",
+            "score": 0.00605
+        },
+        {
+            "name": "Myosotis stricta Link ex Roem. & Schult.",
+            "id": "1393901",
+            "score": 0.00599
+        },
+        {
+            "name": "Crepis foetida L.",
+            "id": "1355870",
+            "score": 0.00597
+        },
+        {
+            "name": "Erysimum perofskianum Fisch. & C.A.Mey.",
+            "id": "1418074",
+            "score": 0.00553
+        },
+        {
+            "name": "Lactuca virosa L.",
+            "id": "1355868",
+            "score": 0.0054
+        },
+        {
+            "name": "Viola pyrenaica Ramond ex DC.",
+            "id": "1362396",
+            "score": 0.00526
+        },
+        {
+            "name": "Viola rupestris F.W.Schmidt",
+            "id": "1397524",
+            "score": 0.00515
+        },
+        {
+            "name": "Vaccinium vitis-idaea L.",
+            "id": "1396971",
+            "score": 0.00492
+        },
+        {
+            "name": "Chorispora tenella (Pall.) DC.",
+            "id": "1358215",
+            "score": 0.00464
+        },
+        {
+            "name": "Centaurea cyanus L.",
+            "id": "1411387",
+            "score": 0.00459
+        },
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.00458
+        },
+        {
+            "name": "Tyrimnus leucographus (L.) Cass.",
+            "id": "1357951",
+            "score": 0.0043
+        },
+        {
+            "name": "Gaillardia aristata Pursh",
+            "id": "1392412",
+            "score": 0.00425
+        },
+        {
+            "name": "Escallonia illinita C.Presl",
+            "id": "1392131",
+            "score": 0.00421
+        },
+        {
+            "name": "Cotoneaster × suecicus G.Klotz",
+            "id": "1667117",
+            "score": 0.00414
+        },
+        {
+            "name": "Myosotis alpestris F.W.Schmidt",
+            "id": "1393878",
+            "score": 0.00399
+        },
+        {
+            "name": "Gazania rigens (L.) Gaertn.",
+            "id": "1361996",
+            "score": 0.00397
+        },
+        {
+            "name": "Asperugo procumbens L.",
+            "id": "1356623",
+            "score": 0.00392
+        },
+        {
+            "name": "Anchusa arvensis (L.) M.Bieb.",
+            "id": "1477188",
+            "score": 0.00381
+        },
+        {
+            "name": "Myosotis sicula Guss.",
+            "id": "1356711",
+            "score": 0.00354
+        },
+        {
+            "name": "Pilosella cymosa (L.) F.W.Schultz & Sch.Bip.",
+            "id": "1394573",
+            "score": 0.00345
+        },
+        {
+            "name": "Gomphrena globosa L.",
+            "id": "1385060",
+            "score": 0.00336
+        },
+        {
+            "name": "Eclipta prostrata (L.) L.",
+            "id": "1364146",
+            "score": 0.00331
+        },
+        {
+            "name": "Erigeron philadelphicus L.",
+            "id": "1392052",
+            "score": 0.0033
+        },
+        {
+            "name": "Myosotis discolor Pers.",
+            "id": "1363859",
+            "score": 0.0033
+        },
+        {
+            "name": "Dittrichia viscosa (L.) Greuter",
+            "id": "1357560",
+            "score": 0.00329
+        },
+        {
+            "name": "Cirsium altissimum (L.) Spreng.",
+            "id": "1817001",
+            "score": 0.00327
+        },
+        {
+            "name": "Viola × uechtritziana Borbás",
+            "id": "1737488",
+            "score": 0.00319
+        },
+        {
+            "name": "Ilex crenata Thunb.",
+            "id": "1420655",
+            "score": 0.00312
+        },
+        {
+            "name": "Artemisia dracunculus L.",
+            "id": "1362645",
+            "score": 0.00309
+        },
+        {
+            "name": "Buglossoides arvensis (L.) I.M.Johnst.",
+            "id": "1389576",
+            "score": 0.00287
+        },
+        {
+            "name": "Cerastium fontanum Baumg.",
+            "id": "1356277",
+            "score": 0.00287
+        },
+        {
+            "name": "Primula vialii Delavay ex Franch.",
+            "id": "1420206",
+            "score": 0.00284
+        },
+        {
+            "name": "Escallonia resinosa (Ruiz & Pav.) Pers.",
+            "id": "1423510",
+            "score": 0.00282
+        },
+        {
+            "name": "Coreopsis grandiflora Hogg ex Sweet",
+            "id": "1391349",
+            "score": 0.00276
+        },
+        {
+            "name": "Viola sororia Willd.",
+            "id": "1414225",
+            "score": 0.00273
+        },
+        {
+            "name": "Pseudognaphalium luteoalbum (L.) Hilliard & B.L.Burtt",
+            "id": "1737651",
+            "score": 0.00269
+        },
+        {
+            "name": "Phlox drummondii Hook.",
+            "id": "1413048",
+            "score": 0.00267
+        },
+        {
+            "name": "Spinacia oleracea L.",
+            "id": "1356556",
+            "score": 0.00267
+        },
+        {
+            "name": "Viola anagae Gilli",
+            "id": "1360862",
+            "score": 0.00265
+        },
+        {
+            "name": "Salix myrsinifolia Salisb.",
+            "id": "1395843",
+            "score": 0.00264
+        },
+        {
+            "name": "Impatiens balsamina L.",
+            "id": "1363815",
+            "score": 0.00263
+        },
+        {
+            "name": "Hesperis matronalis L.",
+            "id": "1392765",
+            "score": 0.00262
+        },
+        {
+            "name": "Draba verna L.",
+            "id": "1391786",
+            "score": 0.00239
+        },
+        {
+            "name": "Myosotis ramosissima Rochel",
+            "id": "1356709",
+            "score": 0.00234
+        }
+    ]
+}

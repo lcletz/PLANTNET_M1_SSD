@@ -1,0 +1,465 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Gazania rigens (L.) Gaertn.",
+            "id": "1361996",
+            "score": 0.11318
+        },
+        {
+            "name": "Triticum aestivum L.",
+            "id": "1363483",
+            "score": 0.08798
+        },
+        {
+            "name": "Euphorbia lathyris L.",
+            "id": "1355968",
+            "score": 0.02672
+        },
+        {
+            "name": "Agave tequilana F.A.C.Weber",
+            "id": "1417644",
+            "score": 0.02443
+        },
+        {
+            "name": "Nerium oleander L.",
+            "id": "1363813",
+            "score": 0.01628
+        },
+        {
+            "name": "Genista sagittalis L.",
+            "id": "1392524",
+            "score": 0.01344
+        },
+        {
+            "name": "Secale cereale L.",
+            "id": "1363451",
+            "score": 0.01067
+        },
+        {
+            "name": "Euphorbia characias L.",
+            "id": "1358543",
+            "score": 0.00936
+        },
+        {
+            "name": "Dracaena zebra Byng & Christenh.",
+            "id": "1753439",
+            "score": 0.00898
+        },
+        {
+            "name": "Strelitzia reginae Banks",
+            "id": "1387289",
+            "score": 0.00879
+        },
+        {
+            "name": "Elephantopus mollis Kunth",
+            "id": "1374997",
+            "score": 0.00849
+        },
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.00833
+        },
+        {
+            "name": "Encephalartos lehmannii Lehm.",
+            "id": "1420877",
+            "score": 0.00779
+        },
+        {
+            "name": "Rhaphiolepis bibas (Lour.) Galasso & Banfi",
+            "id": "1743352",
+            "score": 0.00729
+        },
+        {
+            "name": "Acacia retinodes Schltdl.",
+            "id": "1363778",
+            "score": 0.00723
+        },
+        {
+            "name": "Microsorum steerei Ching",
+            "id": "1777993",
+            "score": 0.00682
+        },
+        {
+            "name": "Biscutella laevigata L.",
+            "id": "1362417",
+            "score": 0.00621
+        },
+        {
+            "name": "Cissus quadrangularis L.",
+            "id": "1360883",
+            "score": 0.00565
+        },
+        {
+            "name": "Gazania linearis (Thunb.) Druce",
+            "id": "1417822",
+            "score": 0.00564
+        },
+        {
+            "name": "Omalotheca sylvatica (L.) Sch.Bip. & F.W.Schultz",
+            "id": "1737652",
+            "score": 0.00534
+        },
+        {
+            "name": "Pachypodium lamerei Drake",
+            "id": "1409870",
+            "score": 0.00528
+        },
+        {
+            "name": "Cirsium dissectum (L.) Hill",
+            "id": "1391190",
+            "score": 0.00513
+        },
+        {
+            "name": "Daucus carota L.",
+            "id": "1363227",
+            "score": 0.00483
+        },
+        {
+            "name": "Luzula campestris (L.) DC.",
+            "id": "1361592",
+            "score": 0.00431
+        },
+        {
+            "name": "Yucca filamentosa L.",
+            "id": "1397243",
+            "score": 0.00423
+        },
+        {
+            "name": "Cycas revoluta Thunb.",
+            "id": "1388904",
+            "score": 0.00416
+        },
+        {
+            "name": "Pilosella officinarum Vaill.",
+            "id": "1517561",
+            "score": 0.00409
+        },
+        {
+            "name": "Festuca glauca Vill.",
+            "id": "1362620",
+            "score": 0.00409
+        },
+        {
+            "name": "Plantago lanceolata L.",
+            "id": "1356066",
+            "score": 0.00393
+        },
+        {
+            "name": "Eryngium bourgatii Gouan",
+            "id": "1360709",
+            "score": 0.00383
+        },
+        {
+            "name": "Alocasia longiloba Miq.",
+            "id": "1408041",
+            "score": 0.00351
+        },
+        {
+            "name": "Narcissus pseudonarcissus L.",
+            "id": "1360968",
+            "score": 0.00344
+        },
+        {
+            "name": "Plantago argentea Chaix",
+            "id": "1394627",
+            "score": 0.00341
+        },
+        {
+            "name": "Galanthus plicatus M.Bieb.",
+            "id": "1392416",
+            "score": 0.00335
+        },
+        {
+            "name": "Ammobium alatum R.Br.",
+            "id": "1417758",
+            "score": 0.00328
+        },
+        {
+            "name": "Phoenix dactylifera L.",
+            "id": "1363261",
+            "score": 0.00315
+        },
+        {
+            "name": "Leymus arenarius (L.) Hochst.",
+            "id": "1393522",
+            "score": 0.00315
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.00313
+        },
+        {
+            "name": "Bistorta vivipara (L.) Delarbre",
+            "id": "1400176",
+            "score": 0.003
+        },
+        {
+            "name": "Elymus pungens (Pers.) Melderis",
+            "id": "1650353",
+            "score": 0.00288
+        },
+        {
+            "name": "Lolium perenne L.",
+            "id": "1363475",
+            "score": 0.00278
+        },
+        {
+            "name": "Syagrus campylospatha (Barb.Rodr.) Becc.",
+            "id": "1470338",
+            "score": 0.00278
+        },
+        {
+            "name": "Centaurea solstitialis L.",
+            "id": "1355886",
+            "score": 0.00275
+        },
+        {
+            "name": "Elaphoglossum metallicum Mickel",
+            "id": "1418662",
+            "score": 0.00274
+        },
+        {
+            "name": "Salix eleagnos Scop.",
+            "id": "1395785",
+            "score": 0.00272
+        },
+        {
+            "name": "Plantago albicans L.",
+            "id": "1356069",
+            "score": 0.00268
+        },
+        {
+            "name": "Curio repens (L.) P.V.Heath",
+            "id": "1748141",
+            "score": 0.00257
+        },
+        {
+            "name": "Onopordum acanthium L.",
+            "id": "1357723",
+            "score": 0.00244
+        },
+        {
+            "name": "Elaeagnus angustifolia L.",
+            "id": "1358494",
+            "score": 0.00228
+        },
+        {
+            "name": "Agave victoriae-reginae T.Moore",
+            "id": "1417646",
+            "score": 0.00228
+        },
+        {
+            "name": "Elymus repens (L.) Gould",
+            "id": "1411890",
+            "score": 0.00214
+        },
+        {
+            "name": "Acacia pycnantha Benth.",
+            "id": "1363772",
+            "score": 0.00213
+        },
+        {
+            "name": "Agave toumeyana Trel.",
+            "id": "1471159",
+            "score": 0.00212
+        },
+        {
+            "name": "Cirsium eriophorum (L.) Scop.",
+            "id": "1391192",
+            "score": 0.00204
+        },
+        {
+            "name": "Plantago bellardii All.",
+            "id": "1359950",
+            "score": 0.00203
+        },
+        {
+            "name": "Typha latifolia L.",
+            "id": "1363339",
+            "score": 0.0019
+        },
+        {
+            "name": "Dioon edule Lindl.",
+            "id": "1409561",
+            "score": 0.00189
+        },
+        {
+            "name": "Bromus hordeaceus L.",
+            "id": "1356286",
+            "score": 0.00187
+        },
+        {
+            "name": "Grevillea banksii R.Br.",
+            "id": "1408135",
+            "score": 0.00186
+        },
+        {
+            "name": "Olea europaea L.",
+            "id": "1359676",
+            "score": 0.00185
+        },
+        {
+            "name": "Agave americana L.",
+            "id": "1360898",
+            "score": 0.00182
+        },
+        {
+            "name": "Xylopia frutescens Aubl.",
+            "id": "1401701",
+            "score": 0.00181
+        },
+        {
+            "name": "Kalanchoe delagoensis Eckl. & Zeyh.",
+            "id": "1363610",
+            "score": 0.0017
+        },
+        {
+            "name": "Lactuca serriola L.",
+            "id": "1364173",
+            "score": 0.00168
+        },
+        {
+            "name": "Salix exigua Nutt.",
+            "id": "1413598",
+            "score": 0.00166
+        },
+        {
+            "name": "Holcus lanatus L.",
+            "id": "1363460",
+            "score": 0.00165
+        },
+        {
+            "name": "Cereus hexagonus (L.) Mill.",
+            "id": "1403967",
+            "score": 0.00165
+        },
+        {
+            "name": "Brachychiton rupestris (T.Mitch. ex Lindl.) K.Schum.",
+            "id": "1417537",
+            "score": 0.00161
+        },
+        {
+            "name": "Elaphoglossum heterolepis T.Moore",
+            "id": "1759704",
+            "score": 0.00157
+        },
+        {
+            "name": "Euphorbia dendroides L.",
+            "id": "1358548",
+            "score": 0.00157
+        },
+        {
+            "name": "Artemisia ludoviciana Nutt.",
+            "id": "1396735",
+            "score": 0.00149
+        },
+        {
+            "name": "Anchusa azurea Mill.",
+            "id": "1363832",
+            "score": 0.00149
+        },
+        {
+            "name": "Vanilla roscheri Rchb.f.",
+            "id": "1635984",
+            "score": 0.00147
+        },
+        {
+            "name": "Microgramma mortoniana de la Sota",
+            "id": "1708250",
+            "score": 0.00147
+        },
+        {
+            "name": "Curio talinoides (DC.) P.V.Heath",
+            "id": "1505806",
+            "score": 0.00146
+        },
+        {
+            "name": "Dracaena stuckyi (God.-Leb.) Byng & Christenh.",
+            "id": "1752362",
+            "score": 0.00145
+        },
+        {
+            "name": "Galactites tomentosus Moench",
+            "id": "1357598",
+            "score": 0.00145
+        },
+        {
+            "name": "Espeletia boyacensis Cuatrec.",
+            "id": "1507532",
+            "score": 0.00144
+        },
+        {
+            "name": "Eryngium foetidum L.",
+            "id": "1384694",
+            "score": 0.00144
+        },
+        {
+            "name": "Campyloneurum angustifolium (Sw.) Fée",
+            "id": "1400627",
+            "score": 0.0014
+        },
+        {
+            "name": "Camassia quamash (Pursh) Greene",
+            "id": "1414407",
+            "score": 0.0014
+        },
+        {
+            "name": "Spartium junceum L.",
+            "id": "1363706",
+            "score": 0.00136
+        },
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.00135
+        },
+        {
+            "name": "Plumeria obtusa L.",
+            "id": "1420463",
+            "score": 0.00133
+        },
+        {
+            "name": "Anchusa officinalis L.",
+            "id": "1394038",
+            "score": 0.00133
+        },
+        {
+            "name": "Festuca burgundiana Auquier & Kerguélen",
+            "id": "1392276",
+            "score": 0.00129
+        },
+        {
+            "name": "Pachypodium geayi Costantin & Bois",
+            "id": "1420394",
+            "score": 0.00128
+        },
+        {
+            "name": "Euchiton japonicus (Thunb.) Holub",
+            "id": "1507648",
+            "score": 0.00126
+        },
+        {
+            "name": "Microgramma lycopodioides (L.) Copel.",
+            "id": "1400646",
+            "score": 0.00125
+        },
+        {
+            "name": "Falcaria vulgaris Bernh.",
+            "id": "1361891",
+            "score": 0.00124
+        },
+        {
+            "name": "Lactuca saligna L.",
+            "id": "1357681",
+            "score": 0.00119
+        },
+        {
+            "name": "Centaurea cyanus L.",
+            "id": "1411387",
+            "score": 0.00118
+        }
+    ]
+}

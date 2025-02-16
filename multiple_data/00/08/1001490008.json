@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Urtica dioica L.",
+            "id": "1356200",
+            "score": 0.73738
+        },
+        {
+            "name": "Urtica urens L.",
+            "id": "1356201",
+            "score": 0.04902
+        },
+        {
+            "name": "Urtica membranacea Poir. ex Savigny",
+            "id": "1695710",
+            "score": 0.01405
+        },
+        {
+            "name": "Urtica pilulifera L.",
+            "id": "1360831",
+            "score": 0.00525
+        },
+        {
+            "name": "Urtica atrovirens Req. ex Loisel.",
+            "id": "1396958",
+            "score": 0.00358
+        },
+        {
+            "name": "Ballota nigra L.",
+            "id": "1358722",
+            "score": 0.00199
+        },
+        {
+            "name": "Lamium album L.",
+            "id": "1393423",
+            "score": 0.00148
+        },
+        {
+            "name": "Urtica rupestris Guss.",
+            "id": "1398886",
+            "score": 0.00143
+        },
+        {
+            "name": "Urtica incisa Poir.",
+            "id": "1396957",
+            "score": 0.00117
+        }
+    ]
+}

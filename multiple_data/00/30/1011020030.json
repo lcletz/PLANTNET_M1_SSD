@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Medicago minima (L.) L.",
+            "id": "1359345",
+            "score": 0.91181
+        },
+        {
+            "name": "Trifolium campestre Schreb.",
+            "id": "1359488",
+            "score": 0.00934
+        },
+        {
+            "name": "Medicago lupulina L.",
+            "id": "1363730",
+            "score": 0.00559
+        },
+        {
+            "name": "Medicago polymorpha L.",
+            "id": "1363731",
+            "score": 0.0023
+        },
+        {
+            "name": "Trifolium striatum L.",
+            "id": "1359526",
+            "score": 0.00219
+        },
+        {
+            "name": "Trifolium dubium Sibth.",
+            "id": "1363737",
+            "score": 0.00207
+        },
+        {
+            "name": "Trifolium arvense L.",
+            "id": "1359485",
+            "score": 0.00149
+        },
+        {
+            "name": "Trifolium squamosum L.",
+            "id": "1359524",
+            "score": 0.00134
+        },
+        {
+            "name": "Trifolium scabrum L.",
+            "id": "1359521",
+            "score": 0.00113
+        }
+    ]
+}

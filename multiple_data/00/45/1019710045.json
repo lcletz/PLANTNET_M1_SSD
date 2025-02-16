@@ -1,0 +1,20 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.39433
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.08853
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.01094
+        }
+    ]
+}

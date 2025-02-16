@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Santolina chamaecyparissus L.",
+            "id": "1395922",
+            "score": 0.67227
+        },
+        {
+            "name": "Santolina decumbens Mill.",
+            "id": "1389058",
+            "score": 0.09818
+        },
+        {
+            "name": "Santolina corsica Jord. & Fourr.",
+            "id": "1395923",
+            "score": 0.0276
+        },
+        {
+            "name": "Santolina africana Jord. & Fourr.",
+            "id": "1357843",
+            "score": 0.02327
+        },
+        {
+            "name": "Santolina rosmarinifolia L.",
+            "id": "1362488",
+            "score": 0.00588
+        },
+        {
+            "name": "Santolina neapolitana Jord. & Fourr.",
+            "id": "1399696",
+            "score": 0.00283
+        },
+        {
+            "name": "Santolina pectinata Lag.",
+            "id": "1357844",
+            "score": 0.00266
+        },
+        {
+            "name": "Artemisia caerulescens L.",
+            "id": "1396759",
+            "score": 0.00136
+        },
+        {
+            "name": "Lavandula dentata L.",
+            "id": "1356126",
+            "score": 0.00135
+        },
+        {
+            "name": "Santolina benthamiana Jord. & Fourr.",
+            "id": "1518931",
+            "score": 0.00124
+        },
+        {
+            "name": "Teucrium polium L.",
+            "id": "1359009",
+            "score": 0.00116
+        },
+        {
+            "name": "Helichrysum italicum (Roth) G.Don",
+            "id": "1392725",
+            "score": 0.0011
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cistus monspeliensis L.",
+            "id": "1357105",
+            "score": 0.8931
+        },
+        {
+            "name": "Cistus creticus L.",
+            "id": "1357099",
+            "score": 0.02568
+        },
+        {
+            "name": "Cistus salviifolius L.",
+            "id": "1357111",
+            "score": 0.0109
+        },
+        {
+            "name": "Cistus clusii Dunal",
+            "id": "1357098",
+            "score": 0.00442
+        },
+        {
+            "name": "Cistus ladanifer L.",
+            "id": "1357103",
+            "score": 0.00409
+        },
+        {
+            "name": "Helianthemum apenninum (L.) Mill.",
+            "id": "1357126",
+            "score": 0.00376
+        },
+        {
+            "name": "Cistus parviflorus Lam.",
+            "id": "1357108",
+            "score": 0.00236
+        },
+        {
+            "name": "Cistus umbellatus L.",
+            "id": "1362184",
+            "score": 0.00226
+        },
+        {
+            "name": "Cistus populifolius L.",
+            "id": "1357109",
+            "score": 0.00177
+        },
+        {
+            "name": "Cistus laurifolius L.",
+            "id": "1357104",
+            "score": 0.00131
+        }
+    ]
+}

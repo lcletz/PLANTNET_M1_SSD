@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ajuga reptans L.",
+            "id": "1358718",
+            "score": 0.53805
+        },
+        {
+            "name": "Ajuga genevensis L.",
+            "id": "1391853",
+            "score": 0.36188
+        },
+        {
+            "name": "Ajuga pyramidalis L.",
+            "id": "1389405",
+            "score": 0.10544
+        },
+        {
+            "name": "Ajuga orientalis L.",
+            "id": "1399061",
+            "score": 0.00346
+        },
+        {
+            "name": "Ajuga × hybrida A.Kern.",
+            "id": "1558601",
+            "score": 0.00276
+        },
+        {
+            "name": "Ajuga nipponensis Makino",
+            "id": "1558615",
+            "score": 0.00271
+        },
+        {
+            "name": "Ajuga australis R.Br.",
+            "id": "1419248",
+            "score": 0.00193
+        },
+        {
+            "name": "Ajuga decumbens Thunb.",
+            "id": "1558595",
+            "score": 0.00136
+        },
+        {
+            "name": "Salvia hispanica L.",
+            "id": "1419283",
+            "score": 0.00111
+        },
+        {
+            "name": "Orobanche nana Noë ex Rchb.",
+            "id": "1722485",
+            "score": 0.00111
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iris latifolia (Mill.) Voss",
+            "id": "1393302",
+            "score": 0.97353
+        },
+        {
+            "name": "Iris xiphium L.",
+            "id": "1361548",
+            "score": 0.00479
+        },
+        {
+            "name": "Iris sibirica L.",
+            "id": "1393304",
+            "score": 0.00128
+        },
+        {
+            "name": "Iris spuria L.",
+            "id": "1361544",
+            "score": 0.00109
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Angelica archangelica L.",
+            "id": "1397313",
+            "score": 0.39807
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.14646
+        },
+        {
+            "name": "Ammi majus L.",
+            "id": "1363217",
+            "score": 0.01705
+        },
+        {
+            "name": "Sambucus ebulus L.",
+            "id": "1356276",
+            "score": 0.01374
+        },
+        {
+            "name": "Angelica sylvestris L.",
+            "id": "1394591",
+            "score": 0.01309
+        },
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.00992
+        },
+        {
+            "name": "Bidens pilosa L.",
+            "id": "1364143",
+            "score": 0.0064
+        },
+        {
+            "name": "Dahlia pinnata Cav.",
+            "id": "1391643",
+            "score": 0.00568
+        },
+        {
+            "name": "Pastinaca sativa L.",
+            "id": "1363226",
+            "score": 0.00279
+        },
+        {
+            "name": "Cephalaria alpina (L.) Roem. & Schult.",
+            "id": "1741815",
+            "score": 0.00255
+        },
+        {
+            "name": "Fraxinus pennsylvanica Marshall",
+            "id": "1392363",
+            "score": 0.00248
+        },
+        {
+            "name": "Aegopodium podagraria L.",
+            "id": "1389510",
+            "score": 0.00221
+        },
+        {
+            "name": "Siler montanum Crantz",
+            "id": "1741693",
+            "score": 0.00214
+        },
+        {
+            "name": "Dictamnus albus L.",
+            "id": "1391724",
+            "score": 0.00128
+        },
+        {
+            "name": "Angelica heterocarpa M.J.Lloyd",
+            "id": "1456535",
+            "score": 0.00118
+        },
+        {
+            "name": "Smyrnium olusatrum L.",
+            "id": "1360801",
+            "score": 0.00106
+        }
+    ]
+}

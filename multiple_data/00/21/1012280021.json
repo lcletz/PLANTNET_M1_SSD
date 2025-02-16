@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viburnum tinus L.",
+            "id": "1356793",
+            "score": 0.85227
+        },
+        {
+            "name": "Viburnum rugosum Pers.",
+            "id": "1722512",
+            "score": 0.0473
+        },
+        {
+            "name": "Gaultheria shallon Pursh",
+            "id": "1392505",
+            "score": 0.01762
+        },
+        {
+            "name": "Lonicera japonica Thunb.",
+            "id": "1356786",
+            "score": 0.01111
+        },
+        {
+            "name": "Ficus glumosa Delile",
+            "id": "1384056",
+            "score": 0.00193
+        },
+        {
+            "name": "Gaultheria procumbens L.",
+            "id": "1392504",
+            "score": 0.00142
+        },
+        {
+            "name": "Lonicera caprifolium L.",
+            "id": "1393632",
+            "score": 0.00125
+        },
+        {
+            "name": "Rhododendron simsii Planch.",
+            "id": "1395189",
+            "score": 0.00114
+        },
+        {
+            "name": "Diervilla lonicera Mill.",
+            "id": "1411760",
+            "score": 0.00101
+        }
+    ]
+}

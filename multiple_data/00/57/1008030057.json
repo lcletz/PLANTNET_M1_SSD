@@ -1,0 +1,465 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hieracium umbellatum L.",
+            "id": "1393169",
+            "score": 0.69488
+        },
+        {
+            "name": "Hieracium sabaudum L.",
+            "id": "1393122",
+            "score": 0.10948
+        },
+        {
+            "name": "Hieracium glaucinum Jord.",
+            "id": "1392931",
+            "score": 0.05931
+        },
+        {
+            "name": "Hieracium lachenalii Suter",
+            "id": "1392971",
+            "score": 0.04167
+        },
+        {
+            "name": "Crepis tectorum L.",
+            "id": "1397531",
+            "score": 0.02285
+        },
+        {
+            "name": "Linaria repens (L.) Mill.",
+            "id": "1393595",
+            "score": 0.02099
+        },
+        {
+            "name": "Hieracium murorum L.",
+            "id": "1393025",
+            "score": 0.0172
+        },
+        {
+            "name": "Eupatorium hyssopifolium L.",
+            "id": "1443561",
+            "score": 0.014
+        },
+        {
+            "name": "Tolpis succulenta (Aiton) Lowe",
+            "id": "1357944",
+            "score": 0.01242
+        },
+        {
+            "name": "Crepis foetida L.",
+            "id": "1355870",
+            "score": 0.01208
+        },
+        {
+            "name": "Crepis biennis L.",
+            "id": "1391445",
+            "score": 0.01206
+        },
+        {
+            "name": "Penstemon roezlii Regel",
+            "id": "1435929",
+            "score": 0.01157
+        },
+        {
+            "name": "Croptilon divaricatum (Nutt.) Raf.",
+            "id": "1441881",
+            "score": 0.01143
+        },
+        {
+            "name": "Campanula rotundifolia L.",
+            "id": "1362422",
+            "score": 0.01085
+        },
+        {
+            "name": "Plantago indica L.",
+            "id": "1646477",
+            "score": 0.00974
+        },
+        {
+            "name": "Asclepias stenophylla A.Gray",
+            "id": "1459278",
+            "score": 0.00971
+        },
+        {
+            "name": "Sonchus tenerrimus L.",
+            "id": "1364171",
+            "score": 0.00839
+        },
+        {
+            "name": "Hieracium maculatum Schrank",
+            "id": "1393002",
+            "score": 0.00814
+        },
+        {
+            "name": "Palafoxia rosea (Bush) Cory",
+            "id": "1435488",
+            "score": 0.00787
+        },
+        {
+            "name": "Lactuca tatarica (L.) C.A.Mey.",
+            "id": "1417843",
+            "score": 0.00759
+        },
+        {
+            "name": "Andryala ragusina L.",
+            "id": "1357212",
+            "score": 0.00724
+        },
+        {
+            "name": "Mirabilis linearis (Pursh) Heimerl",
+            "id": "1412733",
+            "score": 0.00709
+        },
+        {
+            "name": "Epilobium dodonaei Vill.",
+            "id": "1391896",
+            "score": 0.00672
+        },
+        {
+            "name": "Vernonia angustifolia Michx.",
+            "id": "1439536",
+            "score": 0.00633
+        },
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.00609
+        },
+        {
+            "name": "Hieracium amplexicaule L.",
+            "id": "1357643",
+            "score": 0.00545
+        },
+        {
+            "name": "Scabiosa ochroleuca L.",
+            "id": "1358478",
+            "score": 0.00509
+        },
+        {
+            "name": "Crepis chondrilloides Jacq.",
+            "id": "1399555",
+            "score": 0.00455
+        },
+        {
+            "name": "Gomphocarpus integer (N.E.Br.) Bullock",
+            "id": "1460701",
+            "score": 0.00446
+        },
+        {
+            "name": "Hieracium pictum Pers.",
+            "id": "1511240",
+            "score": 0.00437
+        },
+        {
+            "name": "Tolpis staticifolia (All.) Sch.Bip.",
+            "id": "1396809",
+            "score": 0.00435
+        },
+        {
+            "name": "Tragopogon ucrainicus Artemczuk",
+            "id": "1524979",
+            "score": 0.00417
+        },
+        {
+            "name": "Monnina dictyocarpa Griseb.",
+            "id": "1656898",
+            "score": 0.00411
+        },
+        {
+            "name": "Gutenbergia cordifolia Benth. ex Oliv.",
+            "id": "1508812",
+            "score": 0.00405
+        },
+        {
+            "name": "Pentanema montanum (L.) D.Gut.Larr., Santos-Vicente, Anderb., E.Rico & M.M.Mart.Ort.",
+            "id": "1743211",
+            "score": 0.00365
+        },
+        {
+            "name": "Hieracium tomentosum L.",
+            "id": "1393160",
+            "score": 0.00359
+        },
+        {
+            "name": "Vernonia texana (A.Gray) Small",
+            "id": "1526209",
+            "score": 0.00323
+        },
+        {
+            "name": "Crepis paludosa (L.) Moench",
+            "id": "1391457",
+            "score": 0.00319
+        },
+        {
+            "name": "Crepis vesicaria L.",
+            "id": "1357549",
+            "score": 0.00312
+        },
+        {
+            "name": "Picris hieracioides L.",
+            "id": "1364160",
+            "score": 0.00303
+        },
+        {
+            "name": "Antirrhinum graniticum Rothm.",
+            "id": "1400022",
+            "score": 0.00281
+        },
+        {
+            "name": "Crepis capillaris (L.) Wallr.",
+            "id": "1355869",
+            "score": 0.00275
+        },
+        {
+            "name": "Malcolmia graeca Boiss. & Spruner",
+            "id": "1481382",
+            "score": 0.00237
+        },
+        {
+            "name": "Andryala integrifolia L.",
+            "id": "1357207",
+            "score": 0.00235
+        },
+        {
+            "name": "Chromolaena arnottiana (Griseb.) R.M.King & H.Rob.",
+            "id": "1503314",
+            "score": 0.00234
+        },
+        {
+            "name": "Dieteria canescens (Pursh) Nutt.",
+            "id": "1506216",
+            "score": 0.00233
+        },
+        {
+            "name": "Leontodon incanus (L.) Schrank",
+            "id": "1393481",
+            "score": 0.00233
+        },
+        {
+            "name": "Mirabilis albida (Walter) Heimerl",
+            "id": "1412732",
+            "score": 0.00226
+        },
+        {
+            "name": "Crepis setosa Haller f.",
+            "id": "1361760",
+            "score": 0.00226
+        },
+        {
+            "name": "Silene italica (L.) Pers.",
+            "id": "1357004",
+            "score": 0.00225
+        },
+        {
+            "name": "Launaea fragilis (Asso) Pau",
+            "id": "1357686",
+            "score": 0.00223
+        },
+        {
+            "name": "Cologania angustifolia Kunth",
+            "id": "1441594",
+            "score": 0.00216
+        },
+        {
+            "name": "Galeopsis angustifolia Ehrh. ex Hoffm.",
+            "id": "1358745",
+            "score": 0.00207
+        },
+        {
+            "name": "Hieracium cerinthoides L.",
+            "id": "1362684",
+            "score": 0.00207
+        },
+        {
+            "name": "Chondrilla juncea L.",
+            "id": "1357492",
+            "score": 0.00206
+        },
+        {
+            "name": "Heterotheca subaxillaris (Lam.) Britton & Rusby",
+            "id": "1425092",
+            "score": 0.00205
+        },
+        {
+            "name": "Delphinium cardinale Hook.",
+            "id": "1420308",
+            "score": 0.00204
+        },
+        {
+            "name": "Euploca tenella (Torr.) Feuillet & Halse",
+            "id": "1816999",
+            "score": 0.00196
+        },
+        {
+            "name": "Asclepias engelmanniana Woodson",
+            "id": "1437642",
+            "score": 0.00193
+        },
+        {
+            "name": "Scabiosa columbaria L.",
+            "id": "1361926",
+            "score": 0.00191
+        },
+        {
+            "name": "Epilobium palustre L.",
+            "id": "1359685",
+            "score": 0.00183
+        },
+        {
+            "name": "Plantago ovata Forssk.",
+            "id": "1356072",
+            "score": 0.00179
+        },
+        {
+            "name": "Heliotropium longiflorum (A.DC.) Jaub. & Spach",
+            "id": "1478194",
+            "score": 0.00174
+        },
+        {
+            "name": "Scorzoneroides autumnalis (L.) Moench",
+            "id": "1396117",
+            "score": 0.00174
+        },
+        {
+            "name": "Erysimum asperum (Nutt.) DC.",
+            "id": "1412002",
+            "score": 0.00171
+        },
+        {
+            "name": "Teucrium asiaticum L.",
+            "id": "1564274",
+            "score": 0.00161
+        },
+        {
+            "name": "Madia elegans D.Don",
+            "id": "1746431",
+            "score": 0.00158
+        },
+        {
+            "name": "Launaea mucronata (Forssk.) Muschl.",
+            "id": "1357688",
+            "score": 0.00155
+        },
+        {
+            "name": "Sonchus canariensis (Webb) Boulos",
+            "id": "1722644",
+            "score": 0.00151
+        },
+        {
+            "name": "Launaea arborescens (Batt.) Murb.",
+            "id": "1364114",
+            "score": 0.00151
+        },
+        {
+            "name": "Jurinea multiflora (L.) B.Fedtsch.",
+            "id": "1512771",
+            "score": 0.00146
+        },
+        {
+            "name": "Antirrhinum majus L.",
+            "id": "1359845",
+            "score": 0.00145
+        },
+        {
+            "name": "Eriogonum longifolium Nutt.",
+            "id": "1443313",
+            "score": 0.00144
+        },
+        {
+            "name": "Vernonanthura nudiflora (Less.) H.Rob.",
+            "id": "1525645",
+            "score": 0.00142
+        },
+        {
+            "name": "Hymenothrix wrightii A.Gray",
+            "id": "1512140",
+            "score": 0.00141
+        },
+        {
+            "name": "Tolpis virgata (Desf.) Bertol.",
+            "id": "1364101",
+            "score": 0.00137
+        },
+        {
+            "name": "Galatella linosyris (L.) Rchb.f.",
+            "id": "1392417",
+            "score": 0.00136
+        },
+        {
+            "name": "Matthiola fruticulosa (L.) Maire",
+            "id": "1481437",
+            "score": 0.00135
+        },
+        {
+            "name": "Convolvulus cantabrica L.",
+            "id": "1357968",
+            "score": 0.00134
+        },
+        {
+            "name": "Delphinium peregrinum L.",
+            "id": "1360177",
+            "score": 0.00134
+        },
+        {
+            "name": "Brickellia eupatorioides (L.) Shinners",
+            "id": "1440251",
+            "score": 0.00133
+        },
+        {
+            "name": "Reichardia picroides (L.) Roth",
+            "id": "1357815",
+            "score": 0.00131
+        },
+        {
+            "name": "Matthiola longipetala (Vent.) DC.",
+            "id": "1356293",
+            "score": 0.00128
+        },
+        {
+            "name": "Vernonia blodgettii Small",
+            "id": "1439538",
+            "score": 0.00123
+        },
+        {
+            "name": "Sonchus fruticosus L.f.",
+            "id": "1390491",
+            "score": 0.00121
+        },
+        {
+            "name": "Prunus pedunculata (Pall.) Maxim.",
+            "id": "1420420",
+            "score": 0.00118
+        },
+        {
+            "name": "Hieracium laevigatum Willd.",
+            "id": "1392973",
+            "score": 0.00116
+        },
+        {
+            "name": "Antirrhinum australe Rothm.",
+            "id": "1359841",
+            "score": 0.00116
+        },
+        {
+            "name": "Delphinium consolida L.",
+            "id": "1360164",
+            "score": 0.00115
+        },
+        {
+            "name": "Saba comorensis (Bojer ex A.DC.) Pichon",
+            "id": "1462733",
+            "score": 0.00115
+        },
+        {
+            "name": "Gomphocarpus fruticosus (L.) W.T.Aiton",
+            "id": "1408121",
+            "score": 0.00113
+        },
+        {
+            "name": "Cleome allamanii Chiov.",
+            "id": "1381161",
+            "score": 0.00113
+        }
+    ]
+}

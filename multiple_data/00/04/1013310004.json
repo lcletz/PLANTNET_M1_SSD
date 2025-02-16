@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Onobrychis supina (Chaix ex Vill.) DC.",
+            "id": "1394042",
+            "score": 0.67241
+        },
+        {
+            "name": "Onobrychis viciifolia Scop.",
+            "id": "1363793",
+            "score": 0.07223
+        },
+        {
+            "name": "Onobrychis argentea Boiss.",
+            "id": "1398217",
+            "score": 0.03932
+        },
+        {
+            "name": "Onobrychis saxatilis (L.) Lam.",
+            "id": "1359374",
+            "score": 0.00561
+        },
+        {
+            "name": "Onobrychis caput-galli (L.) Lam.",
+            "id": "1359368",
+            "score": 0.00199
+        }
+    ]
+}

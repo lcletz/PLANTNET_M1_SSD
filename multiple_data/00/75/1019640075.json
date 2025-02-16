@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Trifolium repens L.",
+            "id": "1363740",
+            "score": 0.64055
+        },
+        {
+            "name": "Trifolium nigrescens Viv.",
+            "id": "1363739",
+            "score": 0.22906
+        },
+        {
+            "name": "Trifolium fragiferum L.",
+            "id": "1356278",
+            "score": 0.02528
+        },
+        {
+            "name": "Trifolium hybridum L.",
+            "id": "1359497",
+            "score": 0.02301
+        },
+        {
+            "name": "Trifolium resupinatum L.",
+            "id": "1359519",
+            "score": 0.00317
+        },
+        {
+            "name": "Trifolium glomeratum L.",
+            "id": "1363738",
+            "score": 0.00228
+        },
+        {
+            "name": "Trifolium pallescens Schreb.",
+            "id": "1396858",
+            "score": 0.00211
+        },
+        {
+            "name": "Trifolium pratense L.",
+            "id": "1359517",
+            "score": 0.00192
+        }
+    ]
+}

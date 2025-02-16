@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Orobanche gracilis Sm.",
+            "id": "1359726",
+            "score": 0.9676
+        },
+        {
+            "name": "Orobanche rapum-genistae Thuill.",
+            "id": "1359734",
+            "score": 0.00867
+        },
+        {
+            "name": "Orobanche alba Stephan ex Willd.",
+            "id": "1394326",
+            "score": 0.00501
+        },
+        {
+            "name": "Orobanche variegata Wallr.",
+            "id": "1394350",
+            "score": 0.00291
+        },
+        {
+            "name": "Orobanche minor Sm.",
+            "id": "1356136",
+            "score": 0.00249
+        }
+    ]
+}

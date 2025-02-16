@@ -1,0 +1,390 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cynodon dactylon (L.) Pers.",
+            "id": "1363526",
+            "score": 0.18637
+        },
+        {
+            "name": "Cynodon plectostachyus (K.Schum.) Pilg.",
+            "id": "1423802",
+            "score": 0.08639
+        },
+        {
+            "name": "Brachypodium pinnatum (L.) P.Beauv.",
+            "id": "1388809",
+            "score": 0.05353
+        },
+        {
+            "name": "Briza media L.",
+            "id": "1361195",
+            "score": 0.03849
+        },
+        {
+            "name": "Leersia oryzoides (L.) Sw.",
+            "id": "1361316",
+            "score": 0.03269
+        },
+        {
+            "name": "Eleusine indica (L.) Gaertn.",
+            "id": "1361245",
+            "score": 0.02878
+        },
+        {
+            "name": "Paspalum dilatatum Poir.",
+            "id": "1363496",
+            "score": 0.02273
+        },
+        {
+            "name": "Eragrostis superba Peyr.",
+            "id": "1365439",
+            "score": 0.01984
+        },
+        {
+            "name": "Alopecurus pratensis L.",
+            "id": "1362406",
+            "score": 0.01801
+        },
+        {
+            "name": "Melica uniflora Retz.",
+            "id": "1361335",
+            "score": 0.01579
+        },
+        {
+            "name": "Anthericum ramosum L.",
+            "id": "1394759",
+            "score": 0.01397
+        },
+        {
+            "name": "Bromus inermis Leyss.",
+            "id": "1414356",
+            "score": 0.01269
+        },
+        {
+            "name": "Brachypodium sylvaticum (Huds.) P.Beauv.",
+            "id": "1389018",
+            "score": 0.00944
+        },
+        {
+            "name": "Molinia caerulea (L.) Moench",
+            "id": "1363593",
+            "score": 0.00755
+        },
+        {
+            "name": "Bromus sterilis L.",
+            "id": "1414366",
+            "score": 0.00594
+        },
+        {
+            "name": "Anthoxanthum odoratum L.",
+            "id": "1363461",
+            "score": 0.00563
+        },
+        {
+            "name": "Poa annua L.",
+            "id": "1363455",
+            "score": 0.00528
+        },
+        {
+            "name": "Glyceria fluitans (L.) R.Br.",
+            "id": "1392636",
+            "score": 0.00509
+        },
+        {
+            "name": "Agrostis capillaris L.",
+            "id": "1361133",
+            "score": 0.00498
+        },
+        {
+            "name": "Sporobolus pyramidalis P.Beauv.",
+            "id": "1400324",
+            "score": 0.0049
+        },
+        {
+            "name": "Digitaria eriantha Steud.",
+            "id": "1363423",
+            "score": 0.00471
+        },
+        {
+            "name": "Stellaria graminea L.",
+            "id": "1396446",
+            "score": 0.00458
+        },
+        {
+            "name": "Cenchrus clandestinus (Hochst. ex Chiov.) Morrone",
+            "id": "1363016",
+            "score": 0.00455
+        },
+        {
+            "name": "Stenotaphrum secundatum (Walter) Kuntze",
+            "id": "1363543",
+            "score": 0.00418
+        },
+        {
+            "name": "Digitaria velutina (Forssk.) P.Beauv.",
+            "id": "1649936",
+            "score": 0.00345
+        },
+        {
+            "name": "Aneilema hockii De Wild.",
+            "id": "1375106",
+            "score": 0.00341
+        },
+        {
+            "name": "Paspalum notatum Flüggé",
+            "id": "1403109",
+            "score": 0.00314
+        },
+        {
+            "name": "Eustachys paspaloides (Vahl) Lanza & Mattei",
+            "id": "1443649",
+            "score": 0.00313
+        },
+        {
+            "name": "Glyceria notata Chevall.",
+            "id": "1361296",
+            "score": 0.00297
+        },
+        {
+            "name": "Carex acutiformis Ehrh.",
+            "id": "1363281",
+            "score": 0.00293
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.00291
+        },
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.00288
+        },
+        {
+            "name": "Veronica agrestis L.",
+            "id": "1364061",
+            "score": 0.00287
+        },
+        {
+            "name": "Carex crinita Lam.",
+            "id": "1411115",
+            "score": 0.00277
+        },
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.00253
+        },
+        {
+            "name": "Narthecium ossifragum (L.) Huds.",
+            "id": "1393933",
+            "score": 0.00251
+        },
+        {
+            "name": "Hemerocallis lilioasphodelus L.",
+            "id": "1392749",
+            "score": 0.00247
+        },
+        {
+            "name": "Carex canescens L.",
+            "id": "1390780",
+            "score": 0.00243
+        },
+        {
+            "name": "Paspalum distichum L.",
+            "id": "1363497",
+            "score": 0.00239
+        },
+        {
+            "name": "Rhinanthus major L.",
+            "id": "1437245",
+            "score": 0.00238
+        },
+        {
+            "name": "Cenchrus ciliaris L.",
+            "id": "1363463",
+            "score": 0.00237
+        },
+        {
+            "name": "Digitaria sanguinalis (L.) Scop.",
+            "id": "1363424",
+            "score": 0.00229
+        },
+        {
+            "name": "Arrhenatherum elatius (L.) P.Beauv. ex J.Presl & C.Presl",
+            "id": "1396638",
+            "score": 0.00215
+        },
+        {
+            "name": "Eriochloa procera (Retz.) C.E.Hubb.",
+            "id": "1403024",
+            "score": 0.00215
+        },
+        {
+            "name": "Stellaria palustris Ehrh. ex Hoffm.",
+            "id": "1721301",
+            "score": 0.00214
+        },
+        {
+            "name": "Chloris pycnothrix Trin.",
+            "id": "1363580",
+            "score": 0.00206
+        },
+        {
+            "name": "Bromus erectus Huds.",
+            "id": "1414354",
+            "score": 0.0019
+        },
+        {
+            "name": "Sporobolus heterolepis (A.Gray) A.Gray",
+            "id": "1815696",
+            "score": 0.00188
+        },
+        {
+            "name": "Cynodon aethiopicus Clayton & J.R.Harlan",
+            "id": "1748364",
+            "score": 0.00184
+        },
+        {
+            "name": "Anthericum liliago L.",
+            "id": "1360998",
+            "score": 0.00184
+        },
+        {
+            "name": "Lolium perenne L.",
+            "id": "1363475",
+            "score": 0.0018
+        },
+        {
+            "name": "Eragrostis spectabilis (Pursh) Steud.",
+            "id": "1397782",
+            "score": 0.00177
+        },
+        {
+            "name": "Poa trivialis L.",
+            "id": "1363459",
+            "score": 0.00175
+        },
+        {
+            "name": "Cynodon nlemfuensis Vanderyst",
+            "id": "1422454",
+            "score": 0.00168
+        },
+        {
+            "name": "Dianthus superbus L.",
+            "id": "1391716",
+            "score": 0.00167
+        },
+        {
+            "name": "Leersia hexandra Sw.",
+            "id": "1363584",
+            "score": 0.00167
+        },
+        {
+            "name": "Campanula rotundifolia L.",
+            "id": "1362422",
+            "score": 0.00164
+        },
+        {
+            "name": "Brachypodium distachyon (L.) P.Beauv.",
+            "id": "1388770",
+            "score": 0.00156
+        },
+        {
+            "name": "Luzula alpinopilosa (Chaix) Breistr.",
+            "id": "1393660",
+            "score": 0.00149
+        },
+        {
+            "name": "Filipendula vulgaris Moench",
+            "id": "1360297",
+            "score": 0.00144
+        },
+        {
+            "name": "Tetrapogon roxburghiana (Schult.) P.M.Peterson",
+            "id": "1728609",
+            "score": 0.0014
+        },
+        {
+            "name": "Nepeta azurea R.Br. ex Benth.",
+            "id": "1560876",
+            "score": 0.00132
+        },
+        {
+            "name": "Carex sylvatica Huds.",
+            "id": "1363283",
+            "score": 0.0013
+        },
+        {
+            "name": "Carex leporina L.",
+            "id": "1362424",
+            "score": 0.00128
+        },
+        {
+            "name": "Carex longii Mack.",
+            "id": "1411203",
+            "score": 0.00126
+        },
+        {
+            "name": "Brachypodium retusum (Pers.) P.Beauv.",
+            "id": "1388990",
+            "score": 0.00124
+        },
+        {
+            "name": "Sanguisorba officinalis L.",
+            "id": "1395920",
+            "score": 0.00124
+        },
+        {
+            "name": "Bromus catharticus Vahl",
+            "id": "1407739",
+            "score": 0.00124
+        },
+        {
+            "name": "Briza maxima L.",
+            "id": "1363440",
+            "score": 0.00122
+        },
+        {
+            "name": "Carex torta Boott ex Tuck.",
+            "id": "1411318",
+            "score": 0.00121
+        },
+        {
+            "name": "Sisyrinchium angustifolium Mill.",
+            "id": "1396314",
+            "score": 0.0012
+        },
+        {
+            "name": "Chloris gayana Kunth",
+            "id": "1363579",
+            "score": 0.0012
+        },
+        {
+            "name": "Paspalum urvillei Steud.",
+            "id": "1363498",
+            "score": 0.0012
+        },
+        {
+            "name": "Cyperus sesquiflorus (Torr.) Mattf. & Kük.",
+            "id": "1410243",
+            "score": 0.00117
+        },
+        {
+            "name": "Sesleria autumnalis (Scop.) F.W.Schultz",
+            "id": "1397588",
+            "score": 0.00105
+        },
+        {
+            "name": "Tripsacum dactyloides (L.) L.",
+            "id": "1404347",
+            "score": 0.00101
+        },
+        {
+            "name": "Urochloa lachnantha (Hochst.) A.M.Torres & C.M.Morton",
+            "id": "1751436",
+            "score": 0.001
+        }
+    ]
+}

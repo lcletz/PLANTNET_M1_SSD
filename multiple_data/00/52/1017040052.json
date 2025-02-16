@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ajuga pyramidalis L.",
+            "id": "1389405",
+            "score": 0.93705
+        },
+        {
+            "name": "Ajuga reptans L.",
+            "id": "1358718",
+            "score": 0.01972
+        },
+        {
+            "name": "Bartsia alpina L.",
+            "id": "1400101",
+            "score": 0.00493
+        },
+        {
+            "name": "Lysimachia nummularia L.",
+            "id": "1393708",
+            "score": 0.00129
+        },
+        {
+            "name": "Prunella vulgaris L.",
+            "id": "1356109",
+            "score": 0.00128
+        },
+        {
+            "name": "Hypericum elodes L.",
+            "id": "1393245",
+            "score": 0.00107
+        }
+    ]
+}

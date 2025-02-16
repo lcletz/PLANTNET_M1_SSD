@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stellaria neglecta Weihe",
+            "id": "1357083",
+            "score": 0.66815
+        },
+        {
+            "name": "Stellaria media (L.) Vill.",
+            "id": "1356571",
+            "score": 0.4452
+        },
+        {
+            "name": "Spergula pentandra L.",
+            "id": "1357061",
+            "score": 0.09923
+        },
+        {
+            "name": "Stellaria graminea L.",
+            "id": "1396446",
+            "score": 0.01978
+        },
+        {
+            "name": "Myosoton aquaticum (L.) Moench",
+            "id": "1361745",
+            "score": 0.00955
+        },
+        {
+            "name": "Spergula arvensis L.",
+            "id": "1356538",
+            "score": 0.0037
+        },
+        {
+            "name": "Cerastium diffusum Pers.",
+            "id": "1356822",
+            "score": 0.00271
+        },
+        {
+            "name": "Cerastium semidecandrum L.",
+            "id": "1356835",
+            "score": 0.00133
+        }
+    ]
+}

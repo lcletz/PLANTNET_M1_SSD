@@ -1,0 +1,470 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ceanothus thyrsiflorus Eschw.",
+            "id": "1420323",
+            "score": 0.64689
+        },
+        {
+            "name": "Ceanothus arboreus Greene",
+            "id": "1390611",
+            "score": 0.18471
+        },
+        {
+            "name": "Ceanothus impressus Trel.",
+            "id": "1390969",
+            "score": 0.04269
+        },
+        {
+            "name": "Zygophyllum fabago L.",
+            "id": "1360897",
+            "score": 0.01708
+        },
+        {
+            "name": "Ceanothus velutinus Douglas ex Hook.",
+            "id": "1411386",
+            "score": 0.01548
+        },
+        {
+            "name": "Arbutus andrachne L.",
+            "id": "1395933",
+            "score": 0.01265
+        },
+        {
+            "name": "Arbutus unedo L.",
+            "id": "1358500",
+            "score": 0.0108
+        },
+        {
+            "name": "Cytisus villosus Pourr.",
+            "id": "1359182",
+            "score": 0.0098
+        },
+        {
+            "name": "Buxus sempervirens L.",
+            "id": "1356729",
+            "score": 0.0092
+        },
+        {
+            "name": "Pittosporum heterophyllum Franch.",
+            "id": "1390596",
+            "score": 0.00867
+        },
+        {
+            "name": "Ziziphus spina-christi (L.) Desf.",
+            "id": "1360273",
+            "score": 0.00779
+        },
+        {
+            "name": "Ceanothus spinosus Nutt.",
+            "id": "1441013",
+            "score": 0.00735
+        },
+        {
+            "name": "Limbarda crithmoides (L.) Dumort.",
+            "id": "1357705",
+            "score": 0.00732
+        },
+        {
+            "name": "Pyracantha coccinea M.Roem.",
+            "id": "1394994",
+            "score": 0.00724
+        },
+        {
+            "name": "Salix foetida Schleich. ex DC.",
+            "id": "1395791",
+            "score": 0.00711
+        },
+        {
+            "name": "Discaria chacaye (G.Don) Tortosa",
+            "id": "1665664",
+            "score": 0.00669
+        },
+        {
+            "name": "Laurus nobilis L.",
+            "id": "1363362",
+            "score": 0.00627
+        },
+        {
+            "name": "Ziziphus jujuba Mill.",
+            "id": "1360271",
+            "score": 0.00573
+        },
+        {
+            "name": "Arctostaphylos uva-ursi (L.) Spreng.",
+            "id": "1396060",
+            "score": 0.00529
+        },
+        {
+            "name": "Buxus balearica Lam.",
+            "id": "1356728",
+            "score": 0.00509
+        },
+        {
+            "name": "Genista tinctoria L.",
+            "id": "1392527",
+            "score": 0.00506
+        },
+        {
+            "name": "Ilex aquifolium L.",
+            "id": "1356576",
+            "score": 0.00451
+        },
+        {
+            "name": "Berberis vulgaris L.",
+            "id": "1356603",
+            "score": 0.00418
+        },
+        {
+            "name": "Euonymus japonicus Thunb.",
+            "id": "1418419",
+            "score": 0.00399
+        },
+        {
+            "name": "Limoniastrum monopetalum (L.) Boiss.",
+            "id": "1360006",
+            "score": 0.00309
+        },
+        {
+            "name": "Coprosma repens A.Rich.",
+            "id": "1420485",
+            "score": 0.00281
+        },
+        {
+            "name": "Ceanothus americanus L.",
+            "id": "1390968",
+            "score": 0.00275
+        },
+        {
+            "name": "Buxus sinica (Rehder & E.H.Wilson) M.Cheng",
+            "id": "1418162",
+            "score": 0.00274
+        },
+        {
+            "name": "Periploca laevigata Aiton",
+            "id": "1362244",
+            "score": 0.00271
+        },
+        {
+            "name": "Genista monspessulana (L.) L.A.S.Johnson",
+            "id": "1392520",
+            "score": 0.00228
+        },
+        {
+            "name": "Rhamnus alaternus L.",
+            "id": "1360260",
+            "score": 0.00225
+        },
+        {
+            "name": "Dittrichia viscosa (L.) Greuter",
+            "id": "1357560",
+            "score": 0.00221
+        },
+        {
+            "name": "Cneorum tricoccon L.",
+            "id": "1362990",
+            "score": 0.00215
+        },
+        {
+            "name": "Buxus harlandii Hance",
+            "id": "1418159",
+            "score": 0.00197
+        },
+        {
+            "name": "Ceanothus prostratus Benth.",
+            "id": "1441005",
+            "score": 0.00193
+        },
+        {
+            "name": "Escallonia rubra (Ruiz & Pav.) Pers.",
+            "id": "1392136",
+            "score": 0.00186
+        },
+        {
+            "name": "Myrica faya Aiton",
+            "id": "1399738",
+            "score": 0.00185
+        },
+        {
+            "name": "Ilex crenata Thunb.",
+            "id": "1420655",
+            "score": 0.00184
+        },
+        {
+            "name": "Coriaria myrtifolia L.",
+            "id": "1358024",
+            "score": 0.00182
+        },
+        {
+            "name": "Buxus microphylla Siebold & Zucc.",
+            "id": "1418161",
+            "score": 0.00182
+        },
+        {
+            "name": "Baccharis halimifolia L.",
+            "id": "1400088",
+            "score": 0.0018
+        },
+        {
+            "name": "Suriana maritima L.",
+            "id": "1379360",
+            "score": 0.00178
+        },
+        {
+            "name": "Ziziphus lotus (L.) Lam.",
+            "id": "1360272",
+            "score": 0.00171
+        },
+        {
+            "name": "Escallonia myrtilloides L.f.",
+            "id": "1542270",
+            "score": 0.0016
+        },
+        {
+            "name": "Alberta magna E.Mey.",
+            "id": "1670252",
+            "score": 0.00159
+        },
+        {
+            "name": "Chrysojasminum fruticans (L.) Banfi",
+            "id": "1363101",
+            "score": 0.00155
+        },
+        {
+            "name": "Acacia longifolia (Andrews) Willd.",
+            "id": "1363769",
+            "score": 0.00153
+        },
+        {
+            "name": "Pittosporum tobira (Thunb.) W.T.Aiton",
+            "id": "1394624",
+            "score": 0.00143
+        },
+        {
+            "name": "Prunus laurocerasus L.",
+            "id": "1394952",
+            "score": 0.00142
+        },
+        {
+            "name": "Rhododendron wrightianum Koord.",
+            "id": "1801821",
+            "score": 0.0014
+        },
+        {
+            "name": "Phillyrea latifolia L.",
+            "id": "1359678",
+            "score": 0.00133
+        },
+        {
+            "name": "Murraya paniculata (L.) Jack",
+            "id": "1372599",
+            "score": 0.00132
+        },
+        {
+            "name": "Ligustrum ovalifolium Hassk.",
+            "id": "1393526",
+            "score": 0.00128
+        },
+        {
+            "name": "Berberis tischleri C.K.Schneid.",
+            "id": "1475921",
+            "score": 0.00125
+        },
+        {
+            "name": "Duranta erecta L.",
+            "id": "1378717",
+            "score": 0.00119
+        },
+        {
+            "name": "Polygala myrtifolia L.",
+            "id": "1360101",
+            "score": 0.00112
+        },
+        {
+            "name": "Cryptogramma crispa (L.) R.Br.",
+            "id": "1391480",
+            "score": 0.00112
+        },
+        {
+            "name": "Salix reptans Rupr.",
+            "id": "1684208",
+            "score": 0.00108
+        },
+        {
+            "name": "Suregada aequorea (Hance) Seem.",
+            "id": "1547420",
+            "score": 0.00103
+        },
+        {
+            "name": "Dodonaea viscosa Jacq.",
+            "id": "1403445",
+            "score": 0.00103
+        },
+        {
+            "name": "Punica granatum L.",
+            "id": "1359616",
+            "score": 0.00102
+        },
+        {
+            "name": "Ceanothus cuneatus (Hook.) Nutt.",
+            "id": "1440974",
+            "score": 0.00102
+        },
+        {
+            "name": "Myoporum tetrandrum (Labill.) Domin",
+            "id": "1420680",
+            "score": 0.00102
+        },
+        {
+            "name": "Psydrax odoratus (G.Forst.) A.C.Sm. & S.P.Darwin",
+            "id": "1800580",
+            "score": 0.00098
+        },
+        {
+            "name": "Ceanothus herbaceus Raf.",
+            "id": "1411384",
+            "score": 0.00093
+        },
+        {
+            "name": "Viburnum obovatum Walter",
+            "id": "1439566",
+            "score": 0.00089
+        },
+        {
+            "name": "Oenothera lindheimeri (Engelm. & A.Gray) W.L.Wagner & Hoch",
+            "id": "1390068",
+            "score": 0.00088
+        },
+        {
+            "name": "Ceratonia siliqua L.",
+            "id": "1363660",
+            "score": 0.00083
+        },
+        {
+            "name": "Pistacia lentiscus L.",
+            "id": "1356290",
+            "score": 0.00079
+        },
+        {
+            "name": "Silene paradoxa L.",
+            "id": "1396292",
+            "score": 0.00077
+        },
+        {
+            "name": "Lonicera japonica Thunb.",
+            "id": "1356786",
+            "score": 0.00077
+        },
+        {
+            "name": "Ceanothus megacarpus Nutt.",
+            "id": "1440996",
+            "score": 0.00075
+        },
+        {
+            "name": "Phillyrea angustifolia L.",
+            "id": "1359677",
+            "score": 0.00074
+        },
+        {
+            "name": "Ribes speciosum Pursh",
+            "id": "1395196",
+            "score": 0.00069
+        },
+        {
+            "name": "Oenothera gaura W.L.Wagner & Hoch",
+            "id": "1390070",
+            "score": 0.00069
+        },
+        {
+            "name": "Eremophila glabra (R.Br.) Ostenf.",
+            "id": "1688753",
+            "score": 0.00067
+        },
+        {
+            "name": "Myrtus communis L.",
+            "id": "1359662",
+            "score": 0.00066
+        },
+        {
+            "name": "Garrya elliptica Douglas ex Lindl.",
+            "id": "1419086",
+            "score": 0.00065
+        },
+        {
+            "name": "Dimorphotheca ecklonis DC.",
+            "id": "1748142",
+            "score": 0.00065
+        },
+        {
+            "name": "Lycium barbarum L.",
+            "id": "1360557",
+            "score": 0.00065
+        },
+        {
+            "name": "Rubus bifrons Vest",
+            "id": "1668568",
+            "score": 0.00064
+        },
+        {
+            "name": "Silene fruticosa L.",
+            "id": "1356991",
+            "score": 0.00063
+        },
+        {
+            "name": "Citrus hystrix DC.",
+            "id": "1404728",
+            "score": 0.00063
+        },
+        {
+            "name": "Terminalia mantaly H.Perrier",
+            "id": "1424294",
+            "score": 0.00062
+        },
+        {
+            "name": "Searsia natalensis (Bernh. ex C.Krauss) F.A.Barkley",
+            "id": "1454470",
+            "score": 0.00062
+        },
+        {
+            "name": "Quercus trojana Webb",
+            "id": "1398834",
+            "score": 0.00061
+        },
+        {
+            "name": "Coprosma baueri Endl.",
+            "id": "1671758",
+            "score": 0.00059
+        },
+        {
+            "name": "Citrus australasica F.Muell.",
+            "id": "1420510",
+            "score": 0.00058
+        },
+        {
+            "name": "Plumbago auriculata Lam.",
+            "id": "1363960",
+            "score": 0.00058
+        },
+        {
+            "name": "Genista linifolia L.",
+            "id": "1397534",
+            "score": 0.00056
+        },
+        {
+            "name": "Beta vulgaris L.",
+            "id": "1363199",
+            "score": 0.00056
+        },
+        {
+            "name": "Ochetophila trinervis (Gillies ex Hook.) Poepp. ex Endl.",
+            "id": "1665787",
+            "score": 0.00055
+        },
+        {
+            "name": "Distylium racemosum Siebold & Zucc.",
+            "id": "1419165",
+            "score": 0.00054
+        }
+    ]
+}

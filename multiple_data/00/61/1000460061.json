@@ -1,0 +1,415 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pinus halepensis Mill.",
+            "id": "1397460",
+            "score": 0.18202
+        },
+        {
+            "name": "Pinus pinaster Aiton",
+            "id": "1394611",
+            "score": 0.05534
+        },
+        {
+            "name": "Casuarina cunninghamiana Miq.",
+            "id": "1361847",
+            "score": 0.03811
+        },
+        {
+            "name": "Pinus pinea L.",
+            "id": "1394612",
+            "score": 0.03248
+        },
+        {
+            "name": "Pinus nigra J.F.Arnold",
+            "id": "1419915",
+            "score": 0.02847
+        },
+        {
+            "name": "Pinus strobus L.",
+            "id": "1394616",
+            "score": 0.02825
+        },
+        {
+            "name": "Pinus resinosa Aiton",
+            "id": "1390041",
+            "score": 0.02764
+        },
+        {
+            "name": "Pinus brutia Ten.",
+            "id": "1398092",
+            "score": 0.02693
+        },
+        {
+            "name": "Tillandsia juncea (Ruiz & Pav.) Poir.",
+            "id": "1484816",
+            "score": 0.01857
+        },
+        {
+            "name": "Cyperus rotundus L.",
+            "id": "1361090",
+            "score": 0.01748
+        },
+        {
+            "name": "Tillandsia stricta Sol. ex Ker Gawl.",
+            "id": "1405660",
+            "score": 0.01113
+        },
+        {
+            "name": "Carex divisa Huds.",
+            "id": "1363282",
+            "score": 0.01087
+        },
+        {
+            "name": "Pinus echinata Mill.",
+            "id": "1390023",
+            "score": 0.01036
+        },
+        {
+            "name": "Casuarina equisetifolia L.",
+            "id": "1383149",
+            "score": 0.0096
+        },
+        {
+            "name": "Pinus taeda L.",
+            "id": "1390011",
+            "score": 0.00801
+        },
+        {
+            "name": "Carex hirta L.",
+            "id": "1361058",
+            "score": 0.00794
+        },
+        {
+            "name": "Pinus merkusii Jungh. & de Vriese",
+            "id": "1426277",
+            "score": 0.00789
+        },
+        {
+            "name": "Carex humilis Leyss.",
+            "id": "1390837",
+            "score": 0.00728
+        },
+        {
+            "name": "Asphodeline lutea (L.) Rchb.",
+            "id": "1361013",
+            "score": 0.007
+        },
+        {
+            "name": "Juncus tenuis Willd.",
+            "id": "1363332",
+            "score": 0.00662
+        },
+        {
+            "name": "Cyperus esculentus L.",
+            "id": "1361087",
+            "score": 0.00636
+        },
+        {
+            "name": "Pinus radiata D.Don",
+            "id": "1394613",
+            "score": 0.00584
+        },
+        {
+            "name": "Tillandsia bartramii Elliott",
+            "id": "1439074",
+            "score": 0.00552
+        },
+        {
+            "name": "Asphodelus fistulosus L.",
+            "id": "1361017",
+            "score": 0.00482
+        },
+        {
+            "name": "Carex distachya Desf.",
+            "id": "1361049",
+            "score": 0.00471
+        },
+        {
+            "name": "Pinus caribaea Morelet",
+            "id": "1390018",
+            "score": 0.00457
+        },
+        {
+            "name": "Tillandsia disticha Kunth",
+            "id": "1484682",
+            "score": 0.00437
+        },
+        {
+            "name": "Allium oleraceum L.",
+            "id": "1392704",
+            "score": 0.00417
+        },
+        {
+            "name": "Juncus effusus L.",
+            "id": "1363328",
+            "score": 0.0041
+        },
+        {
+            "name": "Pinus glabra Walter",
+            "id": "1436506",
+            "score": 0.0039
+        },
+        {
+            "name": "Carex remota L.",
+            "id": "1361080",
+            "score": 0.00378
+        },
+        {
+            "name": "Tillandsia schiedeana Steud.",
+            "id": "1485054",
+            "score": 0.00367
+        },
+        {
+            "name": "Pinus elliottii Engelm.",
+            "id": "1381528",
+            "score": 0.00342
+        },
+        {
+            "name": "Carex nigra (L.) Reichard",
+            "id": "1361069",
+            "score": 0.00323
+        },
+        {
+            "name": "Pinus patula Schiede ex Schltdl. & Cham.",
+            "id": "1419916",
+            "score": 0.00313
+        },
+        {
+            "name": "Tragopogon dubius Scop.",
+            "id": "1364167",
+            "score": 0.00293
+        },
+        {
+            "name": "Fimbristylis vahlii (Lam.) Link",
+            "id": "1443702",
+            "score": 0.00288
+        },
+        {
+            "name": "Juncus compressus Jacq.",
+            "id": "1362325",
+            "score": 0.00266
+        },
+        {
+            "name": "Carex halleriana Asso",
+            "id": "1361057",
+            "score": 0.00265
+        },
+        {
+            "name": "Pinus canariensis C.Sm. ex DC.",
+            "id": "1722426",
+            "score": 0.00253
+        },
+        {
+            "name": "Carex pilulifera L.",
+            "id": "1361077",
+            "score": 0.00246
+        },
+        {
+            "name": "Pinus rigida Mill.",
+            "id": "1398532",
+            "score": 0.00233
+        },
+        {
+            "name": "Bulbine frutescens (L.) Willd.",
+            "id": "1387137",
+            "score": 0.00217
+        },
+        {
+            "name": "Carex praecox Schreb.",
+            "id": "1390890",
+            "score": 0.00216
+        },
+        {
+            "name": "Scorzonera aristata Ramond ex DC.",
+            "id": "1396112",
+            "score": 0.00215
+        },
+        {
+            "name": "Pinus palustris Mill.",
+            "id": "1436512",
+            "score": 0.00208
+        },
+        {
+            "name": "Carex flacca Schreb.",
+            "id": "1361055",
+            "score": 0.00195
+        },
+        {
+            "name": "Carex hirsutella Mack.",
+            "id": "1411165",
+            "score": 0.00176
+        },
+        {
+            "name": "Luisia zollingeri Rchb.f.",
+            "id": "1625743",
+            "score": 0.00176
+        },
+        {
+            "name": "Cynodon dactylon (L.) Pers.",
+            "id": "1363526",
+            "score": 0.00172
+        },
+        {
+            "name": "Carex mucronata All.",
+            "id": "1390872",
+            "score": 0.0017
+        },
+        {
+            "name": "Poa angustifolia L.",
+            "id": "1654010",
+            "score": 0.00157
+        },
+        {
+            "name": "Scorzonera angustifolia L.",
+            "id": "1357849",
+            "score": 0.00153
+        },
+        {
+            "name": "Eleusine indica (L.) Gaertn.",
+            "id": "1361245",
+            "score": 0.00149
+        },
+        {
+            "name": "Tillandsia recurvata (L.) L.",
+            "id": "1410102",
+            "score": 0.00149
+        },
+        {
+            "name": "Eleocharis palustris (L.) Roem. & Schult.",
+            "id": "1363275",
+            "score": 0.00145
+        },
+        {
+            "name": "Asphodeline liburnica (Scop.) Rchb.",
+            "id": "1399480",
+            "score": 0.0014
+        },
+        {
+            "name": "Chondrilla juncea L.",
+            "id": "1357492",
+            "score": 0.00139
+        },
+        {
+            "name": "Carex ornithopoda Willd.",
+            "id": "1390878",
+            "score": 0.00137
+        },
+        {
+            "name": "Carex digitata L.",
+            "id": "1390801",
+            "score": 0.00136
+        },
+        {
+            "name": "Luisia teretifolia Gaudich.",
+            "id": "1414954",
+            "score": 0.00133
+        },
+        {
+            "name": "Carex arenaria L.",
+            "id": "1390761",
+            "score": 0.00128
+        },
+        {
+            "name": "Carex leporina L.",
+            "id": "1362424",
+            "score": 0.00128
+        },
+        {
+            "name": "Tillandsia butzii Mez",
+            "id": "1484591",
+            "score": 0.00126
+        },
+        {
+            "name": "Asphodelus tenuifolius Cav.",
+            "id": "1363322",
+            "score": 0.00124
+        },
+        {
+            "name": "Romulea rosea (L.) Eckl.",
+            "id": "1395217",
+            "score": 0.00124
+        },
+        {
+            "name": "Licania robusta Sagot",
+            "id": "1401125",
+            "score": 0.00122
+        },
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.00121
+        },
+        {
+            "name": "Plantago maritima L.",
+            "id": "1359965",
+            "score": 0.00121
+        },
+        {
+            "name": "Carex paniculata L.",
+            "id": "1361074",
+            "score": 0.0012
+        },
+        {
+            "name": "Tragopogon crocifolius L.",
+            "id": "1357947",
+            "score": 0.00119
+        },
+        {
+            "name": "Acanthostachys strobilacea (Schult. & Schult.f.) Klotzsch",
+            "id": "1482358",
+            "score": 0.00118
+        },
+        {
+            "name": "Pinus sylvestris L.",
+            "id": "1394617",
+            "score": 0.00118
+        },
+        {
+            "name": "Asclepias stenophylla A.Gray",
+            "id": "1459278",
+            "score": 0.00112
+        },
+        {
+            "name": "Pinus tabuliformis Carrière",
+            "id": "1390047",
+            "score": 0.00109
+        },
+        {
+            "name": "Gelasia hirsuta (Gouan) Zaika, Sukhor. & N.Kilian",
+            "id": "1743889",
+            "score": 0.00108
+        },
+        {
+            "name": "Cyperus papyrus L.",
+            "id": "1361089",
+            "score": 0.00106
+        },
+        {
+            "name": "Eleusine tristachya (Lam.) Lam.",
+            "id": "1363413",
+            "score": 0.00105
+        },
+        {
+            "name": "Tillandsia fasciculata Sw.",
+            "id": "1407625",
+            "score": 0.00103
+        },
+        {
+            "name": "Carex pulicaris L.",
+            "id": "1390898",
+            "score": 0.00101
+        },
+        {
+            "name": "Anthericum liliago L.",
+            "id": "1360998",
+            "score": 0.00101
+        },
+        {
+            "name": "Juncus bufonius L.",
+            "id": "1363326",
+            "score": 0.00101
+        }
+    ]
+}

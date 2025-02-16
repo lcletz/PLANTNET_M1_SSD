@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salvia pratensis L.",
+            "id": "1395913",
+            "score": 0.82807
+        },
+        {
+            "name": "Salvia × sylvestris L.",
+            "id": "1563105",
+            "score": 0.07857
+        },
+        {
+            "name": "Salvia verbenaca L.",
+            "id": "1356115",
+            "score": 0.02393
+        },
+        {
+            "name": "Salvia nemorosa L.",
+            "id": "1397479",
+            "score": 0.0032
+        },
+        {
+            "name": "Salvia virgata Jacq.",
+            "id": "1398357",
+            "score": 0.00187
+        }
+    ]
+}

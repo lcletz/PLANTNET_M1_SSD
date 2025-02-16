@@ -1,0 +1,355 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aegopodium podagraria L.",
+            "id": "1389510",
+            "score": 0.77772
+        },
+        {
+            "name": "Chaerophyllum hirsutum L.",
+            "id": "1391112",
+            "score": 0.10418
+        },
+        {
+            "name": "Pimpinella major (L.) Huds.",
+            "id": "1394592",
+            "score": 0.0789
+        },
+        {
+            "name": "Sison amomum L.",
+            "id": "1360800",
+            "score": 0.0317
+        },
+        {
+            "name": "Angelica sylvestris L.",
+            "id": "1394591",
+            "score": 0.0295
+        },
+        {
+            "name": "Peucedanum ostruthium (L.) W.D.J.Koch",
+            "id": "1458391",
+            "score": 0.02248
+        },
+        {
+            "name": "Cicuta maculata L.",
+            "id": "1411457",
+            "score": 0.01902
+        },
+        {
+            "name": "Angelica archangelica L.",
+            "id": "1397313",
+            "score": 0.01828
+        },
+        {
+            "name": "Chaerophyllum aromaticum L.",
+            "id": "1399141",
+            "score": 0.01576
+        },
+        {
+            "name": "Torilis japonica (Houtt.) DC.",
+            "id": "1360816",
+            "score": 0.00987
+        },
+        {
+            "name": "Zizia aptera (A.Gray) Fernald",
+            "id": "1815444",
+            "score": 0.00812
+        },
+        {
+            "name": "Conopodium majus (Gouan) Loret",
+            "id": "1360674",
+            "score": 0.0063
+        },
+        {
+            "name": "Pimpinella anisum L.",
+            "id": "1363222",
+            "score": 0.00622
+        },
+        {
+            "name": "Conium maculatum L.",
+            "id": "1363216",
+            "score": 0.00612
+        },
+        {
+            "name": "Ammi majus L.",
+            "id": "1363217",
+            "score": 0.00555
+        },
+        {
+            "name": "Torilis arvensis (Huds.) Link",
+            "id": "1363212",
+            "score": 0.0052
+        },
+        {
+            "name": "Sium latifolium L.",
+            "id": "1396319",
+            "score": 0.00507
+        },
+        {
+            "name": "Chaerophyllum temulum L.",
+            "id": "1360671",
+            "score": 0.00492
+        },
+        {
+            "name": "Berula erecta (Huds.) Coville",
+            "id": "1360618",
+            "score": 0.0048
+        },
+        {
+            "name": "Kerria japonica (L.) DC.",
+            "id": "1393375",
+            "score": 0.00426
+        },
+        {
+            "name": "Chaerophyllum aureum L.",
+            "id": "1391110",
+            "score": 0.00415
+        },
+        {
+            "name": "Oenanthe crocata L.",
+            "id": "1360761",
+            "score": 0.0041
+        },
+        {
+            "name": "Galium aparine L.",
+            "id": "1360385",
+            "score": 0.00408
+        },
+        {
+            "name": "Carum carvi L.",
+            "id": "1363229",
+            "score": 0.00372
+        },
+        {
+            "name": "Siler montanum Crantz",
+            "id": "1741693",
+            "score": 0.00298
+        },
+        {
+            "name": "Oenanthe javanica (Blume) DC.",
+            "id": "1389132",
+            "score": 0.00292
+        },
+        {
+            "name": "Smyrnium olusatrum L.",
+            "id": "1360801",
+            "score": 0.00288
+        },
+        {
+            "name": "Cicuta virosa L.",
+            "id": "1391163",
+            "score": 0.0027
+        },
+        {
+            "name": "Oenanthe aquatica (L.) Poir.",
+            "id": "1393990",
+            "score": 0.00254
+        },
+        {
+            "name": "Ligusticum scothicum L.",
+            "id": "1737456",
+            "score": 0.00243
+        },
+        {
+            "name": "Galium palustre L.",
+            "id": "1360406",
+            "score": 0.0024
+        },
+        {
+            "name": "Aethusa cynapium L.",
+            "id": "1360608",
+            "score": 0.00238
+        },
+        {
+            "name": "Selinum carvifolium (L.) L.",
+            "id": "1737493",
+            "score": 0.0023
+        },
+        {
+            "name": "Cryptotaenia canadensis (L.) DC.",
+            "id": "1389083",
+            "score": 0.00224
+        },
+        {
+            "name": "Angelica atropurpurea L.",
+            "id": "1399920",
+            "score": 0.00206
+        },
+        {
+            "name": "Ostericum sieboldii (Miq.) Nakai",
+            "id": "1458300",
+            "score": 0.00203
+        },
+        {
+            "name": "Aegopodium alpestre Ledeb.",
+            "id": "1456401",
+            "score": 0.00199
+        },
+        {
+            "name": "Pastinaca sativa L.",
+            "id": "1363226",
+            "score": 0.00197
+        },
+        {
+            "name": "Helosciadium nodiflorum (L.) W.D.J.Koch",
+            "id": "1392746",
+            "score": 0.00189
+        },
+        {
+            "name": "Cardamine pentaphyllos (L.) Crantz",
+            "id": "1390702",
+            "score": 0.00188
+        },
+        {
+            "name": "Cannabis sativa L.",
+            "id": "1356780",
+            "score": 0.00188
+        },
+        {
+            "name": "Ranunculus platanifolius L.",
+            "id": "1395114",
+            "score": 0.00183
+        },
+        {
+            "name": "Rubus idaeus L.",
+            "id": "1395507",
+            "score": 0.00183
+        },
+        {
+            "name": "Campanula punctata Lam.",
+            "id": "1418362",
+            "score": 0.00179
+        },
+        {
+            "name": "Sium sisarum L.",
+            "id": "1396318",
+            "score": 0.00177
+        },
+        {
+            "name": "Hibiscus cannabinus L.",
+            "id": "1370424",
+            "score": 0.00173
+        },
+        {
+            "name": "Priva lappulacea (L.) Pers.",
+            "id": "1378622",
+            "score": 0.00162
+        },
+        {
+            "name": "Filipendula ulmaria (L.) Maxim.",
+            "id": "1392353",
+            "score": 0.00161
+        },
+        {
+            "name": "Osmorhiza longistylis (Torr.) DC.",
+            "id": "1412885",
+            "score": 0.00159
+        },
+        {
+            "name": "Laserpitium latifolium L.",
+            "id": "1393446",
+            "score": 0.00159
+        },
+        {
+            "name": "Daucus carota L.",
+            "id": "1363227",
+            "score": 0.0015
+        },
+        {
+            "name": "Lepidium sativum L.",
+            "id": "1363894",
+            "score": 0.0015
+        },
+        {
+            "name": "Ranunculus aconitifolius L.",
+            "id": "1395045",
+            "score": 0.00146
+        },
+        {
+            "name": "Myrrhis odorata (L.) Scop.",
+            "id": "1393910",
+            "score": 0.00139
+        },
+        {
+            "name": "Verbena brasiliensis Vell.",
+            "id": "1378797",
+            "score": 0.00136
+        },
+        {
+            "name": "Cardamine heptaphylla (Vill.) O.E.Schulz",
+            "id": "1390699",
+            "score": 0.00135
+        },
+        {
+            "name": "Sida spinosa L.",
+            "id": "1396256",
+            "score": 0.00133
+        },
+        {
+            "name": "Achillea macrophylla L.",
+            "id": "1393307",
+            "score": 0.00129
+        },
+        {
+            "name": "Bidens alba (L.) DC.",
+            "id": "1400133",
+            "score": 0.00128
+        },
+        {
+            "name": "Pimpinella saxifraga L.",
+            "id": "1394593",
+            "score": 0.00122
+        },
+        {
+            "name": "Anthriscus sylvestris (L.) Hoffm.",
+            "id": "1360614",
+            "score": 0.0012
+        },
+        {
+            "name": "Sanicula canadensis L.",
+            "id": "1413660",
+            "score": 0.00119
+        },
+        {
+            "name": "Chaerophyllum villarsii W.D.J.Koch",
+            "id": "1391113",
+            "score": 0.00118
+        },
+        {
+            "name": "Aruncus dioicus (Walter) Fernald",
+            "id": "1396983",
+            "score": 0.00116
+        },
+        {
+            "name": "Angelica razulii Gouan",
+            "id": "1394580",
+            "score": 0.00116
+        },
+        {
+            "name": "Allium scorodoprasum L.",
+            "id": "1360935",
+            "score": 0.0011
+        },
+        {
+            "name": "Cuminum cyminum L.",
+            "id": "1363235",
+            "score": 0.00109
+        },
+        {
+            "name": "Agrimonia gryposepala Wallr.",
+            "id": "1411302",
+            "score": 0.00108
+        },
+        {
+            "name": "Peucedanum palustre (L.) Moench",
+            "id": "1436064",
+            "score": 0.00108
+        },
+        {
+            "name": "Astilbe japonica (C.Morren & Decne.) A.Gray",
+            "id": "1398452",
+            "score": 0.00101
+        }
+    ]
+}

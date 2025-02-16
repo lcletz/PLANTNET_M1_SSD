@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Anemone rubra Lam.",
+            "id": "1394498",
+            "score": 0.13581
+        },
+        {
+            "name": "Anemone vernalis L.",
+            "id": "1394513",
+            "score": 0.05031
+        },
+        {
+            "name": "Anemone pulsatilla L.",
+            "id": "1394489",
+            "score": 0.04095
+        },
+        {
+            "name": "Anemone montana Hoppe",
+            "id": "1394457",
+            "score": 0.00677
+        },
+        {
+            "name": "Ranunculus pyrenaeus L.",
+            "id": "1395120",
+            "score": 0.00168
+        }
+    ]
+}

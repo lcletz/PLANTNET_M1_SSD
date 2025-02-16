@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Clematis vitalba L.",
+            "id": "1360161",
+            "score": 0.89118
+        },
+        {
+            "name": "Clematis flammula L.",
+            "id": "1360159",
+            "score": 0.01535
+        },
+        {
+            "name": "Clematis virginiana L.",
+            "id": "1411500",
+            "score": 0.00978
+        },
+        {
+            "name": "Clematis apiifolia DC.",
+            "id": "1663532",
+            "score": 0.0067
+        },
+        {
+            "name": "Clematis terniflora DC.",
+            "id": "1411498",
+            "score": 0.00306
+        },
+        {
+            "name": "Clematis recta L.",
+            "id": "1391298",
+            "score": 0.00242
+        },
+        {
+            "name": "Clematis haenkeana C.Presl",
+            "id": "1663625",
+            "score": 0.0013
+        },
+        {
+            "name": "Clematis gouriana Roxb. ex DC.",
+            "id": "1663614",
+            "score": 0.001
+        }
+    ]
+}

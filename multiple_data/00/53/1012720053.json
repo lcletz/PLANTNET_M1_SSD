@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lonicera implexa Aiton",
+            "id": "1356785",
+            "score": 0.90206
+        },
+        {
+            "name": "Lonicera etrusca Santi",
+            "id": "1356784",
+            "score": 0.02942
+        },
+        {
+            "name": "Lonicera caprifolium L.",
+            "id": "1393632",
+            "score": 0.01502
+        },
+        {
+            "name": "Lonicera periclymenum L.",
+            "id": "1356790",
+            "score": 0.00904
+        },
+        {
+            "name": "Lonicera subspicata Hook. & Arn.",
+            "id": "1434146",
+            "score": 0.00577
+        },
+        {
+            "name": "Lonicera caerulea L.",
+            "id": "1393631",
+            "score": 0.00256
+        },
+        {
+            "name": "Lonicera japonica Thunb.",
+            "id": "1356786",
+            "score": 0.00144
+        },
+        {
+            "name": "Lonicera sempervirens L.",
+            "id": "1393629",
+            "score": 0.0013
+        }
+    ]
+}

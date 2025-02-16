@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ostrya carpinifolia Scop.",
+            "id": "1394357",
+            "score": 0.89417
+        },
+        {
+            "name": "Ostrya virginiana (Mill.) K.Koch",
+            "id": "1476305",
+            "score": 0.01402
+        },
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.00749
+        },
+        {
+            "name": "Carpinus japonica Blume",
+            "id": "1417983",
+            "score": 0.00268
+        },
+        {
+            "name": "Carpinus orientalis Mill.",
+            "id": "1398832",
+            "score": 0.00222
+        },
+        {
+            "name": "Calibrachoa linoides (Sendtn.) Wijsman",
+            "id": "1690236",
+            "score": 0.00206
+        },
+        {
+            "name": "Ostrya japonica Sarg.",
+            "id": "1476301",
+            "score": 0.00176
+        }
+    ]
+}

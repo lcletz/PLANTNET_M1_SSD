@@ -1,0 +1,325 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Abies alba Mill.",
+            "id": "1397299",
+            "score": 0.74014
+        },
+        {
+            "name": "Abies nordmanniana (Steven) Spach",
+            "id": "1393306",
+            "score": 0.16406
+        },
+        {
+            "name": "Abies balsamea (L.) Mill.",
+            "id": "1398265",
+            "score": 0.05783
+        },
+        {
+            "name": "Abies nebrodensis (Lojac.) Mattei",
+            "id": "1701744",
+            "score": 0.04968
+        },
+        {
+            "name": "Picea omorika (Pancic) Purk.",
+            "id": "1394561",
+            "score": 0.03175
+        },
+        {
+            "name": "Abies grandis (Douglas ex D.Don) Lindl.",
+            "id": "1391871",
+            "score": 0.02003
+        },
+        {
+            "name": "Abies sibirica Ledeb.",
+            "id": "1388938",
+            "score": 0.01759
+        },
+        {
+            "name": "Picea abies (L.) H.Karst.",
+            "id": "1397459",
+            "score": 0.01668
+        },
+        {
+            "name": "Sequoia sempervirens (D.Don) Endl.",
+            "id": "1396213",
+            "score": 0.01662
+        },
+        {
+            "name": "Abies numidica de Lannoy ex Carrière",
+            "id": "1419899",
+            "score": 0.01392
+        },
+        {
+            "name": "Abies cilicica (Antoine & Kotschy) Carrière",
+            "id": "1398299",
+            "score": 0.01312
+        },
+        {
+            "name": "Abies pinsapo Boiss.",
+            "id": "1393800",
+            "score": 0.01075
+        },
+        {
+            "name": "Tsuga heterophylla (Raf.) Sarg.",
+            "id": "1396904",
+            "score": 0.00872
+        },
+        {
+            "name": "Sequoiadendron giganteum (Lindl.) J.Buchholz",
+            "id": "1396214",
+            "score": 0.00829
+        },
+        {
+            "name": "Abies cephalonica Loudon",
+            "id": "1419895",
+            "score": 0.00774
+        },
+        {
+            "name": "Abies fraseri (Pursh) Poir.",
+            "id": "1419897",
+            "score": 0.00746
+        },
+        {
+            "name": "Pseudotsuga menziesii (Mirb.) Franco",
+            "id": "1394967",
+            "score": 0.00682
+        },
+        {
+            "name": "Tsuga diversifolia (Maxim.) Mast.",
+            "id": "1388978",
+            "score": 0.00651
+        },
+        {
+            "name": "Abies pindrow (Royle ex D.Don) Royle",
+            "id": "1388936",
+            "score": 0.00641
+        },
+        {
+            "name": "Abies magnifica A.Murray bis",
+            "id": "1419898",
+            "score": 0.00514
+        },
+        {
+            "name": "Picea orientalis (L.) Peterm.",
+            "id": "1419908",
+            "score": 0.0048
+        },
+        {
+            "name": "Abies homolepis Siebold & Zucc.",
+            "id": "1398301",
+            "score": 0.00478
+        },
+        {
+            "name": "Abies veitchii Lindl.",
+            "id": "1398268",
+            "score": 0.00451
+        },
+        {
+            "name": "Abies koreana E.H.Wilson",
+            "id": "1398405",
+            "score": 0.00445
+        },
+        {
+            "name": "Tsuga caroliniana Engelm.",
+            "id": "1419921",
+            "score": 0.00423
+        },
+        {
+            "name": "Tsuga canadensis (L.) Carrière",
+            "id": "1398279",
+            "score": 0.00376
+        },
+        {
+            "name": "Araucaria araucana (Molina) K.Koch",
+            "id": "1395924",
+            "score": 0.00373
+        },
+        {
+            "name": "Abies firma Siebold & Zucc.",
+            "id": "1388930",
+            "score": 0.00372
+        },
+        {
+            "name": "Abies recurvata Mast.",
+            "id": "1701747",
+            "score": 0.00316
+        },
+        {
+            "name": "Abies amabilis Douglas ex J.Forbes",
+            "id": "1738606",
+            "score": 0.00303
+        },
+        {
+            "name": "Picea morrisonicola Hayata",
+            "id": "1388971",
+            "score": 0.00291
+        },
+        {
+            "name": "Picea rubens Sarg.",
+            "id": "1388958",
+            "score": 0.00223
+        },
+        {
+            "name": "Thuja plicata Donn ex D.Don",
+            "id": "1418597",
+            "score": 0.0021
+        },
+        {
+            "name": "Abies lasiocarpa (Hook.) Nutt.",
+            "id": "1398266",
+            "score": 0.00194
+        },
+        {
+            "name": "Picea koyamae Shiras.",
+            "id": "1419906",
+            "score": 0.00193
+        },
+        {
+            "name": "Abies spectabilis (D.Don) Mirb.",
+            "id": "1701749",
+            "score": 0.00192
+        },
+        {
+            "name": "Abies procera Rehder",
+            "id": "1398231",
+            "score": 0.00176
+        },
+        {
+            "name": "Cupressus sempervirens L.",
+            "id": "1391488",
+            "score": 0.00146
+        },
+        {
+            "name": "Picea neoveitchii Mast.",
+            "id": "1388972",
+            "score": 0.00145
+        },
+        {
+            "name": "Picea brachytyla (Franch.) E.Pritz.",
+            "id": "1388961",
+            "score": 0.00138
+        },
+        {
+            "name": "Fitzroya cupressoides (Molina) I.M.Johnst.",
+            "id": "1388923",
+            "score": 0.00135
+        },
+        {
+            "name": "Tsuga dumosa (D.Don) Eichler",
+            "id": "1701836",
+            "score": 0.00132
+        },
+        {
+            "name": "Picea laxa (Münchh.) Sarg.",
+            "id": "1737434",
+            "score": 0.00123
+        },
+        {
+            "name": "Picea sitchensis (Bong.) Carrière",
+            "id": "1394564",
+            "score": 0.00123
+        },
+        {
+            "name": "Abies mariesii Mast.",
+            "id": "1701743",
+            "score": 0.00115
+        },
+        {
+            "name": "Picea glehnii (F.Schmidt) Mast.",
+            "id": "1419905",
+            "score": 0.001
+        },
+        {
+            "name": "Hesperocyparis bakeri (Jeps.) Bartel",
+            "id": "1432841",
+            "score": 0.00097
+        },
+        {
+            "name": "Calocedrus decurrens (Torr.) Florin",
+            "id": "1390644",
+            "score": 0.00092
+        },
+        {
+            "name": "Araucaria bidwillii Hook.",
+            "id": "1389996",
+            "score": 0.00091
+        },
+        {
+            "name": "Picea pungens Engelm.",
+            "id": "1394563",
+            "score": 0.00076
+        },
+        {
+            "name": "Abies religiosa (Kunth) Schltdl. & Cham.",
+            "id": "1701748",
+            "score": 0.00065
+        },
+        {
+            "name": "Picea mariana (Mill.) Britton, Sterns & Poggenb.",
+            "id": "1413077",
+            "score": 0.00064
+        },
+        {
+            "name": "Croton megistocarpus J.A.González & Poveda",
+            "id": "1543958",
+            "score": 0.0006
+        },
+        {
+            "name": "Pinus lambertiana Douglas",
+            "id": "1390032",
+            "score": 0.00058
+        },
+        {
+            "name": "Larix decidua Mill.",
+            "id": "1397422",
+            "score": 0.00058
+        },
+        {
+            "name": "Cryptomeria japonica (Thunb. ex L.f.) D.Don",
+            "id": "1418585",
+            "score": 0.00057
+        },
+        {
+            "name": "Abies bracteata (D.Don) Poit.",
+            "id": "1388843",
+            "score": 0.00057
+        },
+        {
+            "name": "Abies concolor (Gordon & Glend.) Lindl. ex Hildebr.",
+            "id": "1396925",
+            "score": 0.00056
+        },
+        {
+            "name": "Picea obovata Ledeb.",
+            "id": "1419907",
+            "score": 0.0005
+        },
+        {
+            "name": "Picea engelmannii Parry ex Engelm.",
+            "id": "1394560",
+            "score": 0.00046
+        },
+        {
+            "name": "Hedera helix L.",
+            "id": "1363575",
+            "score": 0.00045
+        },
+        {
+            "name": "Austrocedrus chilensis (D.Don) Pic.Serm. & Bizzarri",
+            "id": "1701478",
+            "score": 0.00044
+        },
+        {
+            "name": "Thujopsis dolabrata (L.f.) Siebold & Zucc.",
+            "id": "1397989",
+            "score": 0.00044
+        },
+        {
+            "name": "Juniperus drupacea Labill.",
+            "id": "1397755",
+            "score": 0.00042
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.93295
+        },
+        {
+            "name": "Stachys mexicana Benth.",
+            "id": "1413912",
+            "score": 0.00743
+        },
+        {
+            "name": "Stachys alpina L.",
+            "id": "1397502",
+            "score": 0.0031
+        },
+        {
+            "name": "Stachys bullata Benth.",
+            "id": "1438593",
+            "score": 0.0024
+        },
+        {
+            "name": "Stachys pilosa Nutt.",
+            "id": "1413913",
+            "score": 0.00209
+        },
+        {
+            "name": "Stachys chamissonis Benth.",
+            "id": "1413911",
+            "score": 0.00176
+        },
+        {
+            "name": "Stachys tenuifolia Willd.",
+            "id": "1413914",
+            "score": 0.00108
+        }
+    ]
+}

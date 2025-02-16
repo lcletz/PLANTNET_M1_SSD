@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Papaver setiferum Goldblatt",
+            "id": "1737543",
+            "score": 0.53646
+        },
+        {
+            "name": "Papaver rhoeas L.",
+            "id": "1363128",
+            "score": 0.10099
+        },
+        {
+            "name": "Papaver dubium L.",
+            "id": "1363129",
+            "score": 0.05377
+        },
+        {
+            "name": "Roemeria argemone (L.) C.Morales, R.Mend. & Romero García",
+            "id": "1737479",
+            "score": 0.04791
+        },
+        {
+            "name": "Papaver somniferum L.",
+            "id": "1363130",
+            "score": 0.00837
+        },
+        {
+            "name": "Papaver alpinum L.",
+            "id": "1394399",
+            "score": 0.00263
+        },
+        {
+            "name": "Glaucium corniculatum (L.) Curtis",
+            "id": "1419838",
+            "score": 0.00247
+        },
+        {
+            "name": "Papaver cambricum L.",
+            "id": "1419850",
+            "score": 0.0018
+        },
+        {
+            "name": "Roemeria sicula (Guss.) ined.",
+            "id": "1739196",
+            "score": 0.00137
+        }
+    ]
+}

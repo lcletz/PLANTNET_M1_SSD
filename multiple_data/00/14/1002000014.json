@@ -1,0 +1,20 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lagurus ovatus L.",
+            "id": "1363433",
+            "score": 0.95586
+        },
+        {
+            "name": "Trifolium arvense L.",
+            "id": "1359485",
+            "score": 0.00232
+        },
+        {
+            "name": "Trifolium angustifolium L.",
+            "id": "1359483",
+            "score": 0.00184
+        }
+    ]
+}

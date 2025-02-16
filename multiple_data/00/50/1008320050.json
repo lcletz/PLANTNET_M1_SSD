@@ -1,0 +1,470 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Carduus defloratus L.",
+            "id": "1397340",
+            "score": 0.52994
+        },
+        {
+            "name": "Cirsium heterophyllum (L.) Hill",
+            "id": "1391209",
+            "score": 0.1268
+        },
+        {
+            "name": "Senecio doronicum (L.) L.",
+            "id": "1396191",
+            "score": 0.10434
+        },
+        {
+            "name": "Cirsium tuberosum (L.) All.",
+            "id": "1391250",
+            "score": 0.07557
+        },
+        {
+            "name": "Klasea nudicaulis (L.) Fourr.",
+            "id": "1357672",
+            "score": 0.04148
+        },
+        {
+            "name": "Knautia longifolia (Waldst. & Kit.) W.D.J.Koch",
+            "id": "1491363",
+            "score": 0.02319
+        },
+        {
+            "name": "Isatis tinctoria L.",
+            "id": "1358340",
+            "score": 0.02025
+        },
+        {
+            "name": "Carduus nigrescens Vill.",
+            "id": "1390740",
+            "score": 0.01775
+        },
+        {
+            "name": "Cirsium pyrenaicum (Jacq.) All.",
+            "id": "1357508",
+            "score": 0.01652
+        },
+        {
+            "name": "Cirsium latifolium Lowe",
+            "id": "1357504",
+            "score": 0.01408
+        },
+        {
+            "name": "Arnica montana L.",
+            "id": "1396472",
+            "score": 0.01201
+        },
+        {
+            "name": "Tyrimnus leucographus (L.) Cass.",
+            "id": "1357951",
+            "score": 0.01126
+        },
+        {
+            "name": "Crepis albida Vill.",
+            "id": "1357521",
+            "score": 0.00878
+        },
+        {
+            "name": "Leontodon incanus (L.) Schrank",
+            "id": "1393481",
+            "score": 0.00825
+        },
+        {
+            "name": "Carduus litigiosus Nocca & Balb.",
+            "id": "1390734",
+            "score": 0.0081
+        },
+        {
+            "name": "Turritis glabra L.",
+            "id": "1396934",
+            "score": 0.00774
+        },
+        {
+            "name": "Senecio doria L.",
+            "id": "1357857",
+            "score": 0.0071
+        },
+        {
+            "name": "Carduus kerneri Simonk.",
+            "id": "1502091",
+            "score": 0.00658
+        },
+        {
+            "name": "Hieracium murorum L.",
+            "id": "1393025",
+            "score": 0.00633
+        },
+        {
+            "name": "Pilosella piloselloides (Vill.) Soják",
+            "id": "1394583",
+            "score": 0.00545
+        },
+        {
+            "name": "Hieracium glaucinum Jord.",
+            "id": "1392931",
+            "score": 0.00534
+        },
+        {
+            "name": "Senecio pyrenaicus L.",
+            "id": "1396203",
+            "score": 0.0051
+        },
+        {
+            "name": "Hieracium villosum Jacq.",
+            "id": "1393183",
+            "score": 0.00494
+        },
+        {
+            "name": "Rumex acetosa L.",
+            "id": "1360120",
+            "score": 0.00458
+        },
+        {
+            "name": "Klasea lycopifolia (Vill.) Á.Löve & D.Löve",
+            "id": "1389450",
+            "score": 0.00437
+        },
+        {
+            "name": "Leucanthemopsis alpina (L.) Heywood",
+            "id": "1393494",
+            "score": 0.00434
+        },
+        {
+            "name": "Ptilostemon chamaepeuce (L.) Less.",
+            "id": "1398828",
+            "score": 0.00396
+        },
+        {
+            "name": "Knautia dipsacifolia Kreutzer",
+            "id": "1491358",
+            "score": 0.00372
+        },
+        {
+            "name": "Bunias orientalis L.",
+            "id": "1389581",
+            "score": 0.00364
+        },
+        {
+            "name": "Bupleurum angulosum L.",
+            "id": "1389587",
+            "score": 0.00343
+        },
+        {
+            "name": "Succisa pratensis Moench",
+            "id": "1358491",
+            "score": 0.00307
+        },
+        {
+            "name": "Phyteuma betonicifolium Vill.",
+            "id": "1394536",
+            "score": 0.00305
+        },
+        {
+            "name": "Laserpitium latifolium L.",
+            "id": "1393446",
+            "score": 0.00295
+        },
+        {
+            "name": "Phyteuma orbiculare L.",
+            "id": "1394548",
+            "score": 0.00294
+        },
+        {
+            "name": "Crepis pontana (L.) Dalla Torre",
+            "id": "1505553",
+            "score": 0.00277
+        },
+        {
+            "name": "Carduus acanthoides L.",
+            "id": "1362653",
+            "score": 0.00268
+        },
+        {
+            "name": "Hypochaeris uniflora Vill.",
+            "id": "1357663",
+            "score": 0.00261
+        },
+        {
+            "name": "Serratula coronata L.",
+            "id": "1521207",
+            "score": 0.00256
+        },
+        {
+            "name": "Carduus carduelis (L.) Gren.",
+            "id": "1399496",
+            "score": 0.00252
+        },
+        {
+            "name": "Cirsium pannonicum (L.f.) Link",
+            "id": "1399548",
+            "score": 0.00247
+        },
+        {
+            "name": "Centaurea scabiosa L.",
+            "id": "1391037",
+            "score": 0.0024
+        },
+        {
+            "name": "Leucanthemum gaudinii Dalla Torre",
+            "id": "1393503",
+            "score": 0.00238
+        },
+        {
+            "name": "Siler montanum Crantz",
+            "id": "1741693",
+            "score": 0.00236
+        },
+        {
+            "name": "Buphthalmum speciosissimum L.",
+            "id": "1746430",
+            "score": 0.0023
+        },
+        {
+            "name": "Crepis pannonica (Jacq.) K.Koch",
+            "id": "1505547",
+            "score": 0.00222
+        },
+        {
+            "name": "Sisymbrium austriacum Jacq.",
+            "id": "1358428",
+            "score": 0.00211
+        },
+        {
+            "name": "Coincya richeri (Vill.) Greuter & Burdet",
+            "id": "1391317",
+            "score": 0.00205
+        },
+        {
+            "name": "Erysimum virgatum Roth",
+            "id": "1392128",
+            "score": 0.00204
+        },
+        {
+            "name": "Mantisalca salmantica (L.) Briq. & Cavill.",
+            "id": "1364108",
+            "score": 0.00202
+        },
+        {
+            "name": "Cephalaria squamiflora (Sieber) Greuter",
+            "id": "1391070",
+            "score": 0.00199
+        },
+        {
+            "name": "Valeriana rubra L.",
+            "id": "1722520",
+            "score": 0.00199
+        },
+        {
+            "name": "Cirsium dissectum (L.) Hill",
+            "id": "1391190",
+            "score": 0.00197
+        },
+        {
+            "name": "Pilosella cymosa (L.) F.W.Schultz & Sch.Bip.",
+            "id": "1394573",
+            "score": 0.00191
+        },
+        {
+            "name": "Cousinia thomsonii C.B.Clarke",
+            "id": "1505215",
+            "score": 0.00189
+        },
+        {
+            "name": "Rumex arifolius All.",
+            "id": "1395646",
+            "score": 0.00188
+        },
+        {
+            "name": "Traunsteinera globosa (L.) Rchb.",
+            "id": "1396835",
+            "score": 0.00182
+        },
+        {
+            "name": "Leuzea rhapontica (L.) Holub",
+            "id": "1741961",
+            "score": 0.00177
+        },
+        {
+            "name": "Silene vulgaris (Moench) Garcke",
+            "id": "1357059",
+            "score": 0.00176
+        },
+        {
+            "name": "Leucanthemum coronopifolium Vill.",
+            "id": "1513959",
+            "score": 0.00174
+        },
+        {
+            "name": "Saussurea alpina (L.) DC.",
+            "id": "1395937",
+            "score": 0.00174
+        },
+        {
+            "name": "Erigeron alpinus L.",
+            "id": "1374231",
+            "score": 0.0017
+        },
+        {
+            "name": "Urospermum dalechampii (L.) Scop. ex F.W.Schmidt",
+            "id": "1396955",
+            "score": 0.0017
+        },
+        {
+            "name": "Carduus argentatus L.",
+            "id": "1357334",
+            "score": 0.00167
+        },
+        {
+            "name": "Pseudoturritis turrita (L.) Al-Shehbaz",
+            "id": "1390300",
+            "score": 0.00161
+        },
+        {
+            "name": "Cirsium alsophilum (Pollini) Soldano",
+            "id": "1503729",
+            "score": 0.00155
+        },
+        {
+            "name": "Hypochaeris maculata L.",
+            "id": "1393262",
+            "score": 0.00152
+        },
+        {
+            "name": "Cirsium texanum Buckley",
+            "id": "1441410",
+            "score": 0.00152
+        },
+        {
+            "name": "Hypericum rumeliacum Boiss.",
+            "id": "1555428",
+            "score": 0.00148
+        },
+        {
+            "name": "Bistorta officinalis Delarbre",
+            "id": "1400175",
+            "score": 0.00147
+        },
+        {
+            "name": "Reichardia picroides (L.) Roth",
+            "id": "1357815",
+            "score": 0.00146
+        },
+        {
+            "name": "Carduus pycnocephalus L.",
+            "id": "1357351",
+            "score": 0.00141
+        },
+        {
+            "name": "Serratula tinctoria L.",
+            "id": "1357870",
+            "score": 0.0014
+        },
+        {
+            "name": "Hieracium tomentosum L.",
+            "id": "1393160",
+            "score": 0.00138
+        },
+        {
+            "name": "Crepis conyzifolia (Gouan) A.Kern.",
+            "id": "1391446",
+            "score": 0.00138
+        },
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.00138
+        },
+        {
+            "name": "Cirsium arvense (L.) Scop.",
+            "id": "1355936",
+            "score": 0.0013
+        },
+        {
+            "name": "Knautia basaltica Chass. & Szabó",
+            "id": "1393378",
+            "score": 0.00128
+        },
+        {
+            "name": "Phyteuma hemisphaericum L.",
+            "id": "1394542",
+            "score": 0.00128
+        },
+        {
+            "name": "Valeriana tuberosa L.",
+            "id": "1360841",
+            "score": 0.00127
+        },
+        {
+            "name": "Cirsium vulgare (Savi) Ten.",
+            "id": "1355937",
+            "score": 0.00125
+        },
+        {
+            "name": "Knautia arvensis (L.) Coult.",
+            "id": "1362327",
+            "score": 0.00122
+        },
+        {
+            "name": "Phyteuma scheuchzeri All.",
+            "id": "1397458",
+            "score": 0.00122
+        },
+        {
+            "name": "Cheirolophus uliginosus (Brot.) Dostál",
+            "id": "1503192",
+            "score": 0.00121
+        },
+        {
+            "name": "Sonchus maritimus L.",
+            "id": "1364169",
+            "score": 0.00121
+        },
+        {
+            "name": "Cirsium canum (L.) All.",
+            "id": "1391184",
+            "score": 0.00119
+        },
+        {
+            "name": "Aquilegia pyrenaica DC.",
+            "id": "1397315",
+            "score": 0.00117
+        },
+        {
+            "name": "Senecio cacaliaster Lam.",
+            "id": "1396189",
+            "score": 0.00115
+        },
+        {
+            "name": "Hieracium amplexicaule L.",
+            "id": "1357643",
+            "score": 0.00114
+        },
+        {
+            "name": "Pentanema aschersonianum (Janka) D.Gut.Larr., Santos-Vicente, Anderb., E.Rico & M.M.Mart.Ort.",
+            "id": "1745540",
+            "score": 0.00112
+        },
+        {
+            "name": "Tolpis staticifolia (All.) Sch.Bip.",
+            "id": "1396809",
+            "score": 0.0011
+        },
+        {
+            "name": "Rumex thyrsoides Desf.",
+            "id": "1360137",
+            "score": 0.00109
+        },
+        {
+            "name": "Hieracium waldsteinii Tausch",
+            "id": "1511912",
+            "score": 0.00108
+        },
+        {
+            "name": "Seseli libanotis (L.) W.D.J.Koch",
+            "id": "1458768",
+            "score": 0.00106
+        }
+    ]
+}

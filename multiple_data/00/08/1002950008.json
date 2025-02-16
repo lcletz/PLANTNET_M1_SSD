@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hibiscus rosa-sinensis L.",
+            "id": "1370542",
+            "score": 0.88753
+        },
+        {
+            "name": "Hibiscus fragilis DC.",
+            "id": "1409016",
+            "score": 0.06133
+        },
+        {
+            "name": "Hibiscus moscheutos L.",
+            "id": "1412258",
+            "score": 0.0092
+        },
+        {
+            "name": "Hibiscus ovalifolius (Forssk.) Vahl",
+            "id": "1408170",
+            "score": 0.00311
+        },
+        {
+            "name": "Hibiscus sabdariffa L.",
+            "id": "1363940",
+            "score": 0.00169
+        },
+        {
+            "name": "Hibiscus calyphyllus Cav.",
+            "id": "1370423",
+            "score": 0.0012
+        },
+        {
+            "name": "Hibiscus mutabilis L.",
+            "id": "1370436",
+            "score": 0.00106
+        }
+    ]
+}

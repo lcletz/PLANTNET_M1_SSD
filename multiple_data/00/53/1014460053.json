@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stachys sylvatica L.",
+            "id": "1358950",
+            "score": 0.90229
+        },
+        {
+            "name": "Stachys alpina L.",
+            "id": "1397502",
+            "score": 0.06781
+        },
+        {
+            "name": "Stachys chamissonis Benth.",
+            "id": "1413911",
+            "score": 0.00426
+        },
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.00418
+        },
+        {
+            "name": "Stachys bullata Benth.",
+            "id": "1438593",
+            "score": 0.00262
+        },
+        {
+            "name": "Stachys mexicana Benth.",
+            "id": "1413912",
+            "score": 0.00249
+        },
+        {
+            "name": "Salvia × digenea Borbás",
+            "id": "1844725",
+            "score": 0.00143
+        },
+        {
+            "name": "Stachys ajugoides Benth.",
+            "id": "1438586",
+            "score": 0.00143
+        },
+        {
+            "name": "Salvia verticillata L.",
+            "id": "1397480",
+            "score": 0.00107
+        },
+        {
+            "name": "Salvia pratensis L.",
+            "id": "1395913",
+            "score": 0.00107
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Liriodendron tulipifera L.",
+            "id": "1393614",
+            "score": 0.87893
+        },
+        {
+            "name": "Liriodendron chinense (Hemsl.) Sarg.",
+            "id": "1591102",
+            "score": 0.14411
+        },
+        {
+            "name": "Platanus occidentalis L.",
+            "id": "1398530",
+            "score": 0.0035
+        },
+        {
+            "name": "Magnolia macrophylla Michx.",
+            "id": "1419377",
+            "score": 0.0021
+        },
+        {
+            "name": "Magnolia acuminata (L.) L.",
+            "id": "1412655",
+            "score": 0.00171
+        }
+    ]
+}

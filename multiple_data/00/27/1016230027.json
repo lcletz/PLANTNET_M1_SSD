@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Medicago sativa L.",
+            "id": "1363732",
+            "score": 0.61576
+        },
+        {
+            "name": "Medicago × varia Martyn",
+            "id": "1581623",
+            "score": 0.06779
+        },
+        {
+            "name": "Medicago falcata L.",
+            "id": "1363729",
+            "score": 0.00623
+        },
+        {
+            "name": "Galega officinalis L.",
+            "id": "1359197",
+            "score": 0.00503
+        },
+        {
+            "name": "Trigonella caerulea (L.) Ser.",
+            "id": "1361851",
+            "score": 0.0044
+        },
+        {
+            "name": "Trifolium resupinatum L.",
+            "id": "1359519",
+            "score": 0.00385
+        },
+        {
+            "name": "Trigonella foenum-graecum L.",
+            "id": "1363680",
+            "score": 0.00347
+        },
+        {
+            "name": "Medicago polymorpha L.",
+            "id": "1363731",
+            "score": 0.00155
+        }
+    ]
+}

@@ -1,0 +1,465 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bunias erucago L.",
+            "id": "1363920",
+            "score": 0.49327
+        },
+        {
+            "name": "Raphanus raphanistrum L.",
+            "id": "1363901",
+            "score": 0.19178
+        },
+        {
+            "name": "Brassica barrelieri (L.) Janka",
+            "id": "1358194",
+            "score": 0.03225
+        },
+        {
+            "name": "Brassica rapa L.",
+            "id": "1363906",
+            "score": 0.02416
+        },
+        {
+            "name": "Leucojum aestivum L.",
+            "id": "1393515",
+            "score": 0.0241
+        },
+        {
+            "name": "Diplotaxis tenuifolia (L.) DC.",
+            "id": "1358257",
+            "score": 0.02144
+        },
+        {
+            "name": "Bunias orientalis L.",
+            "id": "1389581",
+            "score": 0.02121
+        },
+        {
+            "name": "Brassica juncea (L.) Czern.",
+            "id": "1363904",
+            "score": 0.01139
+        },
+        {
+            "name": "Sinapis alba L.",
+            "id": "1363889",
+            "score": 0.01113
+        },
+        {
+            "name": "Rhamphospermum arvense (L.) Andrz. ex Besser",
+            "id": "1737463",
+            "score": 0.0086
+        },
+        {
+            "name": "Sisymbrium orientale L.",
+            "id": "1363898",
+            "score": 0.008
+        },
+        {
+            "name": "Diplotaxis catholica (L.) DC.",
+            "id": "1358250",
+            "score": 0.00791
+        },
+        {
+            "name": "Anthericum ramosum L.",
+            "id": "1394759",
+            "score": 0.00789
+        },
+        {
+            "name": "Sisymbrium altissimum L.",
+            "id": "1358427",
+            "score": 0.00771
+        },
+        {
+            "name": "Rapistrum rugosum (L.) All.",
+            "id": "1363879",
+            "score": 0.00653
+        },
+        {
+            "name": "Rhamphospermum nigrum (L.) Al-Shehbaz",
+            "id": "1737676",
+            "score": 0.00642
+        },
+        {
+            "name": "Brassica napus L.",
+            "id": "1363908",
+            "score": 0.00495
+        },
+        {
+            "name": "Diplotaxis muralis (L.) DC.",
+            "id": "1363875",
+            "score": 0.00446
+        },
+        {
+            "name": "Erysimum diffusum Ehrh.",
+            "id": "1418070",
+            "score": 0.00398
+        },
+        {
+            "name": "Erysimum odoratum Ehrh.",
+            "id": "1392121",
+            "score": 0.00395
+        },
+        {
+            "name": "Sisymbrium loeselii L.",
+            "id": "1396308",
+            "score": 0.00389
+        },
+        {
+            "name": "Aristolochia clematitis L.",
+            "id": "1396305",
+            "score": 0.00352
+        },
+        {
+            "name": "Biscutella cichoriifolia Loisel.",
+            "id": "1400156",
+            "score": 0.00345
+        },
+        {
+            "name": "Zehneria thwaitesii (Schweinf.) C.Jeffrey",
+            "id": "1530271",
+            "score": 0.00318
+        },
+        {
+            "name": "Biscutella auriculata L.",
+            "id": "1358182",
+            "score": 0.0029
+        },
+        {
+            "name": "Turritis brassica Leers",
+            "id": "1482309",
+            "score": 0.00257
+        },
+        {
+            "name": "Erysimum cheiranthoides L.",
+            "id": "1358289",
+            "score": 0.00243
+        },
+        {
+            "name": "Diplotaxis ilorcitana (Sennen) C.Aedo Pérez, Mart.-Laborde & J.F.Mu",
+            "id": "1480138",
+            "score": 0.00236
+        },
+        {
+            "name": "Brassica fruticulosa Cirillo",
+            "id": "1358196",
+            "score": 0.00228
+        },
+        {
+            "name": "Arabidopsis halleri (L.) O'Kane & Al-Shehbaz",
+            "id": "1389346",
+            "score": 0.00224
+        },
+        {
+            "name": "Galanthus nivalis L.",
+            "id": "1397391",
+            "score": 0.00217
+        },
+        {
+            "name": "Brassica carinata A.Braun",
+            "id": "1418056",
+            "score": 0.00212
+        },
+        {
+            "name": "Brassica oleracea L.",
+            "id": "1363909",
+            "score": 0.0018
+        },
+        {
+            "name": "Eruca vesicaria (L.) Cav.",
+            "id": "1356328",
+            "score": 0.00173
+        },
+        {
+            "name": "Coincya monensis (L.) Greuter & Burdet",
+            "id": "1358222",
+            "score": 0.00162
+        },
+        {
+            "name": "Moricandia arvensis (L.) DC.",
+            "id": "1358386",
+            "score": 0.0014
+        },
+        {
+            "name": "Krigia dandelion Nutt.",
+            "id": "1817002",
+            "score": 0.00128
+        },
+        {
+            "name": "Maerua juncea Pax",
+            "id": "1431920",
+            "score": 0.00126
+        },
+        {
+            "name": "Lilium parvum Kellogg",
+            "id": "1433918",
+            "score": 0.00124
+        },
+        {
+            "name": "Calepina irregularis (Asso) Thell.",
+            "id": "1358204",
+            "score": 0.00113
+        },
+        {
+            "name": "Sisymbrium officinale (L.) Scop.",
+            "id": "1363897",
+            "score": 0.00112
+        },
+        {
+            "name": "Phyllanthus serpentinus S.Moore",
+            "id": "1642709",
+            "score": 0.00111
+        },
+        {
+            "name": "Diplotaxis harra (Forssk.) Boiss.",
+            "id": "1363876",
+            "score": 0.00108
+        },
+        {
+            "name": "Coincya tournefortii (Gouan) Alcaraz, T.E.Díaz, Rivas Mart. & Sánchez-Gómez",
+            "id": "1726144",
+            "score": 0.00107
+        },
+        {
+            "name": "Arisaema dracontium (L.) Schott",
+            "id": "1413243",
+            "score": 0.00105
+        },
+        {
+            "name": "Aristolochia albida Duch.",
+            "id": "1384130",
+            "score": 0.00104
+        },
+        {
+            "name": "Lamprocapnos spectabilis (L.) Fukuhara",
+            "id": "1419840",
+            "score": 0.00101
+        },
+        {
+            "name": "Dietes bicolor (Steud.) Sweet ex Klatt",
+            "id": "1419204",
+            "score": 0.00101
+        },
+        {
+            "name": "Podophyllum peltatum L.",
+            "id": "1413174",
+            "score": 0.00099
+        },
+        {
+            "name": "Narcissus dubius Gouan",
+            "id": "1393921",
+            "score": 0.00096
+        },
+        {
+            "name": "Allium paradoxum (M.Bieb.) G.Don",
+            "id": "1397943",
+            "score": 0.00092
+        },
+        {
+            "name": "Metastelma liesnerianum (L.O.Williams) Liede",
+            "id": "1825232",
+            "score": 0.00083
+        },
+        {
+            "name": "Jasminum grandiflorum L.",
+            "id": "1359672",
+            "score": 0.00081
+        },
+        {
+            "name": "Schlegelia violacea Griseb.",
+            "id": "1688301",
+            "score": 0.00081
+        },
+        {
+            "name": "Thunbergia laevis Wall. ex Nees",
+            "id": "1749463",
+            "score": 0.0008
+        },
+        {
+            "name": "Eomecon chionantha Hance",
+            "id": "1639634",
+            "score": 0.00075
+        },
+        {
+            "name": "Narcissus papyraceus Ker Gawl.",
+            "id": "1360965",
+            "score": 0.00075
+        },
+        {
+            "name": "Camelina microcarpa Andrz. ex DC.",
+            "id": "1358206",
+            "score": 0.00071
+        },
+        {
+            "name": "Rhododendron microphyton Franch.",
+            "id": "1540298",
+            "score": 0.00069
+        },
+        {
+            "name": "Leucojum vernum L.",
+            "id": "1393517",
+            "score": 0.00068
+        },
+        {
+            "name": "Talinum portulacifolium (Forssk.) Asch. ex Schweinf.",
+            "id": "1383047",
+            "score": 0.00067
+        },
+        {
+            "name": "Achillea chrysocoma Friv.",
+            "id": "1497761",
+            "score": 0.00064
+        },
+        {
+            "name": "Helia alata (Aubl.) Kuntze",
+            "id": "1826545",
+            "score": 0.00064
+        },
+        {
+            "name": "Corydalis juncea Wall.",
+            "id": "1639276",
+            "score": 0.00062
+        },
+        {
+            "name": "Coix lacryma-jobi L.",
+            "id": "1363505",
+            "score": 0.00059
+        },
+        {
+            "name": "Jeffersonia diphylla (L.) Pers.",
+            "id": "1412346",
+            "score": 0.00058
+        },
+        {
+            "name": "Agapanthus africanus (L.) Hoffmanns.",
+            "id": "1382442",
+            "score": 0.00054
+        },
+        {
+            "name": "Narcissus poeticus L.",
+            "id": "1393929",
+            "score": 0.00054
+        },
+        {
+            "name": "Anthericum liliago L.",
+            "id": "1360998",
+            "score": 0.00054
+        },
+        {
+            "name": "Calochortus nitidus Douglas",
+            "id": "1440429",
+            "score": 0.00054
+        },
+        {
+            "name": "Lilium tsingtauense Gilg",
+            "id": "1588957",
+            "score": 0.00053
+        },
+        {
+            "name": "Elaeocarpus hainanensis Oliv.",
+            "id": "1537292",
+            "score": 0.00052
+        },
+        {
+            "name": "Agalinis aspera (Douglas ex Benth.) Britton",
+            "id": "1411077",
+            "score": 0.00051
+        },
+        {
+            "name": "Blackstonia imperfoliata (L.f.) Samp.",
+            "id": "1400178",
+            "score": 0.00051
+        },
+        {
+            "name": "Chelonanthus purpurascens (Aubl.) Struwe, S.Nilsson & V.A.Albert",
+            "id": "1405172",
+            "score": 0.00049
+        },
+        {
+            "name": "Jasminum polyanthum Franch.",
+            "id": "1383126",
+            "score": 0.00048
+        },
+        {
+            "name": "Narcissus jonquilla L.",
+            "id": "1360962",
+            "score": 0.00048
+        },
+        {
+            "name": "Thunbergia grandiflora Roxb.",
+            "id": "1389152",
+            "score": 0.00046
+        },
+        {
+            "name": "Galanthus elwesii Hook.f.",
+            "id": "1392415",
+            "score": 0.00046
+        },
+        {
+            "name": "Jasminum officinale L.",
+            "id": "1359673",
+            "score": 0.00046
+        },
+        {
+            "name": "Tabernaemontana divaricata (L.) R.Br. ex Roem. & Schult.",
+            "id": "1409020",
+            "score": 0.00045
+        },
+        {
+            "name": "Spartium junceum L.",
+            "id": "1363706",
+            "score": 0.00044
+        },
+        {
+            "name": "Chrysojasminum fruticans (L.) Banfi",
+            "id": "1363101",
+            "score": 0.00043
+        },
+        {
+            "name": "Camelina rumelica Velen.",
+            "id": "1363880",
+            "score": 0.00042
+        },
+        {
+            "name": "Solanum amygdalifolium Steud.",
+            "id": "1691393",
+            "score": 0.00041
+        },
+        {
+            "name": "Quararibea parvifolia Standl.",
+            "id": "1595404",
+            "score": 0.00041
+        },
+        {
+            "name": "Allium canadense L.",
+            "id": "1411691",
+            "score": 0.00041
+        },
+        {
+            "name": "Ficus coronulata Miq.",
+            "id": "1601821",
+            "score": 0.00039
+        },
+        {
+            "name": "Crambe filiformis Jacq.",
+            "id": "1358226",
+            "score": 0.00039
+        },
+        {
+            "name": "Eulalia shrirangii Salunkhe & Potdar",
+            "id": "1650854",
+            "score": 0.00037
+        },
+        {
+            "name": "Wahlenbergia lobelioides (L.f.) Link",
+            "id": "1397223",
+            "score": 0.00037
+        },
+        {
+            "name": "Asparagus officinalis L.",
+            "id": "1363268",
+            "score": 0.00037
+        }
+    ]
+}

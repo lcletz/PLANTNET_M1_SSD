@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Punica granatum L.",
+            "id": "1359616",
+            "score": 0.92847
+        },
+        {
+            "name": "Rhamnus saxatilis Jacq.",
+            "id": "1395158",
+            "score": 0.03053
+        },
+        {
+            "name": "Quercus phellos L.",
+            "id": "1437142",
+            "score": 0.00436
+        },
+        {
+            "name": "Ligustrum vulgare L.",
+            "id": "1359675",
+            "score": 0.00254
+        },
+        {
+            "name": "Strobilanthes cystolithigera Lindau",
+            "id": "1447318",
+            "score": 0.00041
+        }
+    ]
+}

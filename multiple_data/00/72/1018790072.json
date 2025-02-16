@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Elaeagnus angustifolia L.",
+            "id": "1358494",
+            "score": 0.89323
+        },
+        {
+            "name": "Eucalyptus globulus Labill.",
+            "id": "1356282",
+            "score": 0.00127
+        },
+        {
+            "name": "Olea europaea L.",
+            "id": "1359676",
+            "score": 0.00106
+        },
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.00095
+        }
+    ]
+}

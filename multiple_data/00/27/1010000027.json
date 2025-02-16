@@ -1,0 +1,85 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.8791
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.01186
+        },
+        {
+            "name": "Prunus brigantina Vill.",
+            "id": "1394945",
+            "score": 0.00525
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.00304
+        },
+        {
+            "name": "Prunus nigra Aiton",
+            "id": "1413350",
+            "score": 0.00288
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.00261
+        },
+        {
+            "name": "Prunus serrula Franch.",
+            "id": "1420427",
+            "score": 0.00224
+        },
+        {
+            "name": "Corylus maxima Mill.",
+            "id": "1391369",
+            "score": 0.0021
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.00184
+        },
+        {
+            "name": "Malus × floribunda Siebold ex Van Houtte",
+            "id": "1782760",
+            "score": 0.00156
+        },
+        {
+            "name": "Prunus mexicana S.Watson",
+            "id": "1667993",
+            "score": 0.00129
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.0012
+        },
+        {
+            "name": "Prunus serrulata Lindl.",
+            "id": "1394953",
+            "score": 0.00119
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.00118
+        },
+        {
+            "name": "Malus × purpurea (A.Barbier) Rehder",
+            "id": "1844417",
+            "score": 0.00106
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.00106
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Leucophyta brownii Cass.",
+            "id": "1514035",
+            "score": 0.60591
+        },
+        {
+            "name": "Calocephalus lacteus Less.",
+            "id": "1501947",
+            "score": 0.3401
+        },
+        {
+            "name": "Artemisia maritima L.",
+            "id": "1397320",
+            "score": 0.00621
+        },
+        {
+            "name": "Eremophila nivea Chinnock",
+            "id": "1688799",
+            "score": 0.00527
+        },
+        {
+            "name": "Logfia minima (Sm.) Dumort.",
+            "id": "1393619",
+            "score": 0.00204
+        },
+        {
+            "name": "Helichrysum italicum (Roth) G.Don",
+            "id": "1392725",
+            "score": 0.0015
+        },
+        {
+            "name": "Artemisia herba-alba Asso",
+            "id": "1357277",
+            "score": 0.00118
+        }
+    ]
+}

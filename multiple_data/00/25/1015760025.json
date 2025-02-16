@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Spiraea japonica L.f.",
+            "id": "1396400",
+            "score": 0.80464
+        },
+        {
+            "name": "Spiraea douglasii Hook.",
+            "id": "1396399",
+            "score": 0.09994
+        },
+        {
+            "name": "Spiraea salicifolia L.",
+            "id": "1396405",
+            "score": 0.01075
+        },
+        {
+            "name": "Spiraea tomentosa L.",
+            "id": "1396389",
+            "score": 0.00781
+        },
+        {
+            "name": "Spiraea alba Du Roi",
+            "id": "1396390",
+            "score": 0.00419
+        },
+        {
+            "name": "Spiraea decumbens W.D.J.Koch",
+            "id": "1398989",
+            "score": 0.00187
+        },
+        {
+            "name": "Spiraea × billardii Hérincq",
+            "id": "1844858",
+            "score": 0.00118
+        }
+    ]
+}

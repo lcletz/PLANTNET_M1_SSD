@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Duranta erecta L.",
+            "id": "1378717",
+            "score": 0.95384
+        },
+        {
+            "name": "Murraya paniculata (L.) Jack",
+            "id": "1372599",
+            "score": 0.00558
+        },
+        {
+            "name": "Celastrus scandens L.",
+            "id": "1390974",
+            "score": 0.0021
+        },
+        {
+            "name": "Ligustrum ovalifolium Hassk.",
+            "id": "1393526",
+            "score": 0.00184
+        },
+        {
+            "name": "Ligustrum sinense Lour.",
+            "id": "1390584",
+            "score": 0.00122
+        }
+    ]
+}

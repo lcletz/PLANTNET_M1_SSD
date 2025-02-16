@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Silene vulgaris (Moench) Garcke",
+            "id": "1357059",
+            "score": 0.7875
+        },
+        {
+            "name": "Silene uniflora Roth",
+            "id": "1396296",
+            "score": 0.04071
+        },
+        {
+            "name": "Silene nutans L.",
+            "id": "1357026",
+            "score": 0.01126
+        },
+        {
+            "name": "Silene italica (L.) Pers.",
+            "id": "1357004",
+            "score": 0.00691
+        },
+        {
+            "name": "Silene behen L.",
+            "id": "1356963",
+            "score": 0.0016
+        },
+        {
+            "name": "Briza media L.",
+            "id": "1361195",
+            "score": 0.00148
+        },
+        {
+            "name": "Silene colorata Poir.",
+            "id": "1356975",
+            "score": 0.00129
+        },
+        {
+            "name": "Silene gallica L.",
+            "id": "1356595",
+            "score": 0.00125
+        },
+        {
+            "name": "Atocion armeria (L.) Raf.",
+            "id": "1398690",
+            "score": 0.00116
+        },
+        {
+            "name": "Silene saxifraga L.",
+            "id": "1396295",
+            "score": 0.00114
+        }
+    ]
+}

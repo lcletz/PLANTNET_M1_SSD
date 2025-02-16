@@ -1,0 +1,90 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Holcus lanatus L.",
+            "id": "1363460",
+            "score": 0.51091
+        },
+        {
+            "name": "Anthoxanthum odoratum L.",
+            "id": "1363461",
+            "score": 0.22725
+        },
+        {
+            "name": "Holcus mollis L.",
+            "id": "1361302",
+            "score": 0.05882
+        },
+        {
+            "name": "Arrhenatherum elatius (L.) P.Beauv. ex J.Presl & C.Presl",
+            "id": "1396638",
+            "score": 0.01196
+        },
+        {
+            "name": "Calamagrostis epigejos (L.) Roth",
+            "id": "1379532",
+            "score": 0.01073
+        },
+        {
+            "name": "Phalaris arundinacea L.",
+            "id": "1363490",
+            "score": 0.01002
+        },
+        {
+            "name": "Alopecurus pratensis L.",
+            "id": "1362406",
+            "score": 0.00328
+        },
+        {
+            "name": "Melica ciliata L.",
+            "id": "1361329",
+            "score": 0.00285
+        },
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.00269
+        },
+        {
+            "name": "Calamagrostis arundinacea (L.) Roth",
+            "id": "1389603",
+            "score": 0.00226
+        },
+        {
+            "name": "Lolium arundinaceum (Schreb.) Darbysh.",
+            "id": "1720971",
+            "score": 0.00221
+        },
+        {
+            "name": "Leymus arenarius (L.) Hochst.",
+            "id": "1393522",
+            "score": 0.00175
+        },
+        {
+            "name": "Calamagrostis arenaria (L.) Roth",
+            "id": "1722433",
+            "score": 0.00149
+        },
+        {
+            "name": "Koeleria crassipes Lange",
+            "id": "1363069",
+            "score": 0.00149
+        },
+        {
+            "name": "Bromus hordeaceus L.",
+            "id": "1356286",
+            "score": 0.00127
+        },
+        {
+            "name": "Carex riparia Curtis",
+            "id": "1361081",
+            "score": 0.0011
+        },
+        {
+            "name": "Trisetum flavescens (L.) P.Beauv.",
+            "id": "1396889",
+            "score": 0.00105
+        }
+    ]
+}

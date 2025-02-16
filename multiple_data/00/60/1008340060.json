@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Nicotiana alata Link & Otto",
+            "id": "1361885",
+            "score": 0.84853
+        },
+        {
+            "name": "Nicotiana tabacum L.",
+            "id": "1356159",
+            "score": 0.07047
+        },
+        {
+            "name": "Nicotiana quadrivalvis Pursh",
+            "id": "1435181",
+            "score": 0.01109
+        },
+        {
+            "name": "Nicotiana longiflora Cav.",
+            "id": "1398607",
+            "score": 0.00813
+        },
+        {
+            "name": "Nicotiana sylvestris Speg.",
+            "id": "1398133",
+            "score": 0.00576
+        },
+        {
+            "name": "Nicotiana × sanderi Mast.",
+            "id": "1844473",
+            "score": 0.00486
+        },
+        {
+            "name": "Nicotiana plumbaginifolia Viv.",
+            "id": "1356161",
+            "score": 0.00322
+        }
+    ]
+}

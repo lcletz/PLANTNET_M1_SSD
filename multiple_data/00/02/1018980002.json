@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Sempervivum tectorum L.",
+            "id": "1362492",
+            "score": 0.85731
+        },
+        {
+            "name": "Sempervivum montanum L.",
+            "id": "1396180",
+            "score": 0.04935
+        },
+        {
+            "name": "Sempervivum arachnoideum L.",
+            "id": "1396175",
+            "score": 0.00857
+        },
+        {
+            "name": "Sempervivum vicentei Pau",
+            "id": "1529410",
+            "score": 0.00437
+        },
+        {
+            "name": "Sempervivum calcareum Jord.",
+            "id": "1396177",
+            "score": 0.00147
+        },
+        {
+            "name": "Sempervivum minutum (Kunze ex Willk.) Nyman ex Pau",
+            "id": "1529402",
+            "score": 0.00106
+        }
+    ]
+}

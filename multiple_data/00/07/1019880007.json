@@ -1,0 +1,20 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.93703
+        },
+        {
+            "name": "Hibiscus syriacus L.",
+            "id": "1392770",
+            "score": 0.01465
+        },
+        {
+            "name": "Acer monspessulanum L.",
+            "id": "1356457",
+            "score": 0.00231
+        }
+    ]
+}

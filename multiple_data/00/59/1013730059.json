@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.86042
+        },
+        {
+            "name": "Aesculus × carnea Zeyh.",
+            "id": "1420608",
+            "score": 0.02703
+        },
+        {
+            "name": "Aesculus turbinata Blume",
+            "id": "1420609",
+            "score": 0.00692
+        },
+        {
+            "name": "Aesculus glabra Willd.",
+            "id": "1390602",
+            "score": 0.00311
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.00211
+        },
+        {
+            "name": "Aesculus parviflora Walter",
+            "id": "1398239",
+            "score": 0.00116
+        },
+        {
+            "name": "Aesculus flava Sol.",
+            "id": "1398407",
+            "score": 0.00109
+        },
+        {
+            "name": "Aesculus indica (Wall. ex Cambess.) Hook.",
+            "id": "1685363",
+            "score": 0.00108
+        }
+    ]
+}

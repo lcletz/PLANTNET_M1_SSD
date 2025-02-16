@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Circaea lutetiana L.",
+            "id": "1359680",
+            "score": 0.86113
+        },
+        {
+            "name": "Circaea alpina L.",
+            "id": "1397350",
+            "score": 0.07967
+        },
+        {
+            "name": "Circaea × intermedia Ehrh.",
+            "id": "1609596",
+            "score": 0.02393
+        },
+        {
+            "name": "Veronica urticifolia Jacq.",
+            "id": "1397077",
+            "score": 0.00275
+        },
+        {
+            "name": "Saxifraga hirsuta L.",
+            "id": "1395991",
+            "score": 0.00172
+        },
+        {
+            "name": "Galium sylvaticum L.",
+            "id": "1392491",
+            "score": 0.00107
+        }
+    ]
+}

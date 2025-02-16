@@ -1,0 +1,25 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Tipuana tipu (Benth.) Kuntze",
+            "id": "1389022",
+            "score": 0.13677
+        },
+        {
+            "name": "Amorpha fruticosa L.",
+            "id": "1393787",
+            "score": 0.07631
+        },
+        {
+            "name": "Robinia pseudoacacia L.",
+            "id": "1363698",
+            "score": 0.07027
+        },
+        {
+            "name": "Robinia hispida L.",
+            "id": "1395210",
+            "score": 0.02406
+        }
+    ]
+}

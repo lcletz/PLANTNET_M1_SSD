@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Digitalis purpurea L.",
+            "id": "1364079",
+            "score": 0.64829
+        },
+        {
+            "name": "Digitalis thapsi L.",
+            "id": "1400052",
+            "score": 0.22713
+        },
+        {
+            "name": "Digitalis grandiflora Mill.",
+            "id": "1391727",
+            "score": 0.00192
+        },
+        {
+            "name": "Penstemon cobaea Nutt.",
+            "id": "1435787",
+            "score": 0.00154
+        },
+        {
+            "name": "Gladiolus palustris Gaudin",
+            "id": "1392623",
+            "score": 0.0011
+        }
+    ]
+}

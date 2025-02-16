@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Coronilla juncea L.",
+            "id": "1359168",
+            "score": 0.94029
+        },
+        {
+            "name": "Genista hispanica L.",
+            "id": "1392516",
+            "score": 0.01745
+        },
+        {
+            "name": "Coronilla minima L.",
+            "id": "1359169",
+            "score": 0.00936
+        },
+        {
+            "name": "Coronilla coronata L.",
+            "id": "1391355",
+            "score": 0.00224
+        },
+        {
+            "name": "Coronilla valentina L.",
+            "id": "1359172",
+            "score": 0.00192
+        },
+        {
+            "name": "Cytisus balansae (Boiss.) Ball",
+            "id": "1359177",
+            "score": 0.00147
+        },
+        {
+            "name": "Genista aetnensis (Biv.) DC.",
+            "id": "1392507",
+            "score": 0.00118
+        },
+        {
+            "name": "Genista cinerea (Vill.) DC.",
+            "id": "1359205",
+            "score": 0.00114
+        },
+        {
+            "name": "Hippocrepis comosa L.",
+            "id": "1392775",
+            "score": 0.00113
+        },
+        {
+            "name": "Genista radiata (L.) Scop.",
+            "id": "1392523",
+            "score": 0.00101
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Asplenium scolopendrium L.",
+            "id": "1356357",
+            "score": 0.88679
+        },
+        {
+            "name": "Asplenium nidus L.",
+            "id": "1390496",
+            "score": 0.0071
+        },
+        {
+            "name": "Asplenium sagittatum (DC.) Bange",
+            "id": "1356356",
+            "score": 0.00252
+        },
+        {
+            "name": "Niphidium crassifolium (L.) Lellinger",
+            "id": "1400649",
+            "score": 0.00169
+        },
+        {
+            "name": "Elaphoglossum macropodium T.Moore",
+            "id": "1750250",
+            "score": 0.00141
+        },
+        {
+            "name": "Asplenium australasicum Hook.",
+            "id": "1721997",
+            "score": 0.00136
+        },
+        {
+            "name": "Campyloneurum brevifolium (Lodd. ex Link) Link",
+            "id": "1411014",
+            "score": 0.00118
+        }
+    ]
+}

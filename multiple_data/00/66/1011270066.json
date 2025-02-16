@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lavandula angustifolia Mill.",
+            "id": "1361824",
+            "score": 0.83533
+        },
+        {
+            "name": "Lavandula latifolia Medik.",
+            "id": "1393466",
+            "score": 0.02777
+        },
+        {
+            "name": "Lavandula dentata L.",
+            "id": "1356126",
+            "score": 0.01468
+        },
+        {
+            "name": "Lavandula × intermedia Emeric ex Loisel.",
+            "id": "1560415",
+            "score": 0.00825
+        },
+        {
+            "name": "Lavandula lanata Boiss.",
+            "id": "1398786",
+            "score": 0.00397
+        },
+        {
+            "name": "Lavandula multifida L.",
+            "id": "1358760",
+            "score": 0.00385
+        },
+        {
+            "name": "Lavandula subnuda Benth.",
+            "id": "1560424",
+            "score": 0.00218
+        },
+        {
+            "name": "Lavandula pinnata Lundmark",
+            "id": "1560419",
+            "score": 0.00163
+        },
+        {
+            "name": "Salvia farinacea Benth.",
+            "id": "1377389",
+            "score": 0.00151
+        }
+    ]
+}

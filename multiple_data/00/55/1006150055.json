@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Acer saccharum Marshall",
+            "id": "1390591",
+            "score": 0.79705
+        },
+        {
+            "name": "Acer platanoides L.",
+            "id": "1397301",
+            "score": 0.18154
+        },
+        {
+            "name": "Acer cappadocicum Gled.",
+            "id": "1397300",
+            "score": 0.00758
+        },
+        {
+            "name": "Acer pictum Thunb.",
+            "id": "1398298",
+            "score": 0.00181
+        },
+        {
+            "name": "Acer rubrum L.",
+            "id": "1398406",
+            "score": 0.00144
+        }
+    ]
+}

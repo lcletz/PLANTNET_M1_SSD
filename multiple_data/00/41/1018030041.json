@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Secale cereale L.",
+            "id": "1363451",
+            "score": 0.81823
+        },
+        {
+            "name": "Hordeum vulgare L.",
+            "id": "1363481",
+            "score": 0.02843
+        },
+        {
+            "name": "Hordeum murinum L.",
+            "id": "1361307",
+            "score": 0.013
+        },
+        {
+            "name": "× Triticosecale rimpaui (M.Graebn.) Wittm. ex A.W.Hill",
+            "id": "1738608",
+            "score": 0.00747
+        },
+        {
+            "name": "Hordeum bulbosum L.",
+            "id": "1361304",
+            "score": 0.00428
+        },
+        {
+            "name": "Hordeum secalinum Schreb.",
+            "id": "1361308",
+            "score": 0.00368
+        },
+        {
+            "name": "Triticum turgidum L.",
+            "id": "1363487",
+            "score": 0.00317
+        },
+        {
+            "name": "Leymus arenarius (L.) Hochst.",
+            "id": "1393522",
+            "score": 0.00175
+        }
+    ]
+}

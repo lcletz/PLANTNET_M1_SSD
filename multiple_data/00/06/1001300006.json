@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Primula vulgaris Huds.",
+            "id": "1394924",
+            "score": 0.88839
+        },
+        {
+            "name": "Primula × polyantha Mill.",
+            "id": "1661341",
+            "score": 0.0229
+        },
+        {
+            "name": "Primula elatior (L.) Hill",
+            "id": "1394906",
+            "score": 0.01399
+        },
+        {
+            "name": "Primula veris L.",
+            "id": "1360145",
+            "score": 0.00174
+        },
+        {
+            "name": "Hottonia palustris L.",
+            "id": "1393215",
+            "score": 0.00101
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lagerstroemia indica L.",
+            "id": "1376509",
+            "score": 0.74672
+        },
+        {
+            "name": "Lagerstroemia speciosa (L.) Pers.",
+            "id": "1376510",
+            "score": 0.17726
+        },
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.0018
+        },
+        {
+            "name": "Syringa persica L.",
+            "id": "1419641",
+            "score": 0.00136
+        },
+        {
+            "name": "Bougainvillea spectabilis Willd.",
+            "id": "1362134",
+            "score": 0.00133
+        },
+        {
+            "name": "Malpighia glabra L.",
+            "id": "1406672",
+            "score": 0.0013
+        }
+    ]
+}

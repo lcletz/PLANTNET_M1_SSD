@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Antirrhinum graniticum Rothm.",
+            "id": "1400022",
+            "score": 0.83103
+        },
+        {
+            "name": "Antirrhinum majus L.",
+            "id": "1359845",
+            "score": 0.03193
+        },
+        {
+            "name": "Antirrhinum siculum Mill.",
+            "id": "1359847",
+            "score": 0.01469
+        },
+        {
+            "name": "Antirrhinum australe Rothm.",
+            "id": "1359841",
+            "score": 0.01091
+        },
+        {
+            "name": "Antirrhinum latifolium Mill.",
+            "id": "1362531",
+            "score": 0.00968
+        },
+        {
+            "name": "Antirrhinum braun-blanquetii Rothm.",
+            "id": "1645885",
+            "score": 0.00222
+        },
+        {
+            "name": "Linaria repens (L.) Mill.",
+            "id": "1393595",
+            "score": 0.00104
+        }
+    ]
+}

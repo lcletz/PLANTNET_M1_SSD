@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Lycopus europaeus L.",
+            "id": "1358770",
+            "score": 0.93135
+        },
+        {
+            "name": "Dysphania ambrosioides (L.) Mosyakin & Clemants",
+            "id": "1388787",
+            "score": 0.00381
+        },
+        {
+            "name": "Urtica dioica L.",
+            "id": "1356200",
+            "score": 0.00132
+        },
+        {
+            "name": "Agrimonia eupatoria L.",
+            "id": "1363994",
+            "score": 0.00054
+        },
+        {
+            "name": "Achillea setacea Waldst. & Kit.",
+            "id": "1392587",
+            "score": 0.00046
+        },
+        {
+            "name": "Lapsana communis L.",
+            "id": "1364164",
+            "score": 0.00045
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Triticum turgidum L.",
+            "id": "1363487",
+            "score": 0.52784
+        },
+        {
+            "name": "Triticum aestivum L.",
+            "id": "1363483",
+            "score": 0.42219
+        },
+        {
+            "name": "Hordeum vulgare L.",
+            "id": "1363481",
+            "score": 0.01879
+        },
+        {
+            "name": "Secale cereale L.",
+            "id": "1363451",
+            "score": 0.00402
+        },
+        {
+            "name": "Aegilops geniculata Roth",
+            "id": "1361117",
+            "score": 0.0018
+        },
+        {
+            "name": "Triticum monococcum L.",
+            "id": "1363485",
+            "score": 0.00175
+        },
+        {
+            "name": "Bromus secalinus L.",
+            "id": "1361206",
+            "score": 0.00131
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Physalis alkekengi L.",
+            "id": "1360561",
+            "score": 0.54755
+        },
+        {
+            "name": "Physalis peruviana L.",
+            "id": "1356153",
+            "score": 0.00886
+        },
+        {
+            "name": "Physalis angulata L.",
+            "id": "1356152",
+            "score": 0.00305
+        },
+        {
+            "name": "Physalis heterophylla Nees",
+            "id": "1413066",
+            "score": 0.0024
+        },
+        {
+            "name": "Nicandra physalodes (L.) Gaertn.",
+            "id": "1356144",
+            "score": 0.00209
+        },
+        {
+            "name": "Epimedium franchetii Stearn",
+            "id": "1417968",
+            "score": 0.00122
+        }
+    ]
+}

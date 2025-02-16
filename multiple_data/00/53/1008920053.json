@@ -1,0 +1,365 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.88765
+        },
+        {
+            "name": "Tecoma stans (L.) Juss. ex Kunth",
+            "id": "1400150",
+            "score": 0.11938
+        },
+        {
+            "name": "Fraxinus americana L.",
+            "id": "1397619",
+            "score": 0.02785
+        },
+        {
+            "name": "Juglans nigra L.",
+            "id": "1393337",
+            "score": 0.02655
+        },
+        {
+            "name": "Fraxinus pennsylvanica Marshall",
+            "id": "1392363",
+            "score": 0.02581
+        },
+        {
+            "name": "Fraxinus angustifolia Vahl",
+            "id": "1362009",
+            "score": 0.02275
+        },
+        {
+            "name": "Campsis grandiflora (Thunb.) K.Schum.",
+            "id": "1390679",
+            "score": 0.01898
+        },
+        {
+            "name": "Zanthoxylum caribaeum Lam.",
+            "id": "1410148",
+            "score": 0.01721
+        },
+        {
+            "name": "Fraxinus nigra Marshall",
+            "id": "1412091",
+            "score": 0.01572
+        },
+        {
+            "name": "Koelreuteria paniculata Laxm.",
+            "id": "1397985",
+            "score": 0.01504
+        },
+        {
+            "name": "Fraxinus ornus L.",
+            "id": "1362963",
+            "score": 0.01373
+        },
+        {
+            "name": "Fraxinus mandshurica Rupr.",
+            "id": "1609150",
+            "score": 0.01041
+        },
+        {
+            "name": "Juglans regia L.",
+            "id": "1358713",
+            "score": 0.00948
+        },
+        {
+            "name": "Spondias mombin L.",
+            "id": "1385579",
+            "score": 0.0083
+        },
+        {
+            "name": "Melia azedarach L.",
+            "id": "1363624",
+            "score": 0.00655
+        },
+        {
+            "name": "Rhus glabra L.",
+            "id": "1397601",
+            "score": 0.00638
+        },
+        {
+            "name": "Jacaranda macrantha Cham.",
+            "id": "1476755",
+            "score": 0.00578
+        },
+        {
+            "name": "Paulownia tomentosa (Thunb.) Steud.",
+            "id": "1394426",
+            "score": 0.00557
+        },
+        {
+            "name": "Juglans cinerea L.",
+            "id": "1412349",
+            "score": 0.00443
+        },
+        {
+            "name": "Zanthoxylum ailanthoides Siebold & Zucc.",
+            "id": "1683172",
+            "score": 0.00429
+        },
+        {
+            "name": "Ailanthus altissima (Mill.) Swingle",
+            "id": "1360547",
+            "score": 0.00423
+        },
+        {
+            "name": "Sorbaria sorbifolia (L.) A.Braun",
+            "id": "1396352",
+            "score": 0.00382
+        },
+        {
+            "name": "Fraxinus latifolia Benth.",
+            "id": "1412090",
+            "score": 0.00375
+        },
+        {
+            "name": "Astronium graveolens Jacq.",
+            "id": "1454107",
+            "score": 0.00375
+        },
+        {
+            "name": "Carya illinoinensis (Wangenh.) K.Koch",
+            "id": "1407788",
+            "score": 0.00356
+        },
+        {
+            "name": "Phellodendron amurense Rupr.",
+            "id": "1413037",
+            "score": 0.0035
+        },
+        {
+            "name": "Catalpa bignonioides Walter",
+            "id": "1388727",
+            "score": 0.0033
+        },
+        {
+            "name": "Acer pseudoplatanus L.",
+            "id": "1356460",
+            "score": 0.00317
+        },
+        {
+            "name": "Swietenia mahagoni (L.) Jacq.",
+            "id": "1366100",
+            "score": 0.00296
+        },
+        {
+            "name": "Sclerocarya birrea (A.Rich.) Hochst.",
+            "id": "1422577",
+            "score": 0.00286
+        },
+        {
+            "name": "Markhamia lutea (Benth.) K.Schum.",
+            "id": "1418005",
+            "score": 0.00237
+        },
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.00229
+        },
+        {
+            "name": "Aralia warmingiana (Marchal) J.Wen",
+            "id": "1467098",
+            "score": 0.00225
+        },
+        {
+            "name": "Populus balsamifera L.",
+            "id": "1394775",
+            "score": 0.00208
+        },
+        {
+            "name": "Campsis radicans (L.) Bureau",
+            "id": "1390680",
+            "score": 0.00206
+        },
+        {
+            "name": "Ruagea glabra Triana & Planch.",
+            "id": "1600757",
+            "score": 0.00172
+        },
+        {
+            "name": "Platycarya strobilacea Siebold & Zucc.",
+            "id": "1557967",
+            "score": 0.00157
+        },
+        {
+            "name": "Rosa squarrosa (A.Rau) Boreau",
+            "id": "1668405",
+            "score": 0.00142
+        },
+        {
+            "name": "Fraxinus floribunda Wall.",
+            "id": "1408093",
+            "score": 0.00142
+        },
+        {
+            "name": "Campsis × tagliabuana (Vis.) C.Massal.",
+            "id": "1843874",
+            "score": 0.00139
+        },
+        {
+            "name": "Spathodea campanulata P.Beauv.",
+            "id": "1389151",
+            "score": 0.00118
+        },
+        {
+            "name": "Pistacia terebinthus L.",
+            "id": "1356567",
+            "score": 0.00114
+        },
+        {
+            "name": "Tabebuia rosea (Bertol.) Bertero ex A.DC.",
+            "id": "1418008",
+            "score": 0.00109
+        },
+        {
+            "name": "Juglans mandshurica Maxim.",
+            "id": "1419240",
+            "score": 0.00106
+        },
+        {
+            "name": "Podranea ricasoliana (Tanfani) Sprague",
+            "id": "1388692",
+            "score": 0.00104
+        },
+        {
+            "name": "Fraxinus profunda (Bush) Bush",
+            "id": "1412092",
+            "score": 0.00103
+        },
+        {
+            "name": "Spondias dulcis Parkinson",
+            "id": "1407118",
+            "score": 0.00103
+        },
+        {
+            "name": "Beiselia mexicana Forman",
+            "id": "1485810",
+            "score": 0.00102
+        },
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.00099
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.00091
+        },
+        {
+            "name": "Robinia pseudoacacia L.",
+            "id": "1363698",
+            "score": 0.00076
+        },
+        {
+            "name": "Acer platanoides L.",
+            "id": "1397301",
+            "score": 0.00073
+        },
+        {
+            "name": "Helianthus tuberosus L.",
+            "id": "1357617",
+            "score": 0.00057
+        },
+        {
+            "name": "Carya glabra (Mill.) Sweet",
+            "id": "1411341",
+            "score": 0.00055
+        },
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.00053
+        },
+        {
+            "name": "Acer saccharum Marshall",
+            "id": "1390591",
+            "score": 0.00053
+        },
+        {
+            "name": "Quercus rubra L.",
+            "id": "1395035",
+            "score": 0.00045
+        },
+        {
+            "name": "Citharexylum spinosum L.",
+            "id": "1378864",
+            "score": 0.00044
+        },
+        {
+            "name": "Cornus sanguinea L.",
+            "id": "1397356",
+            "score": 0.00044
+        },
+        {
+            "name": "Populus tristis Fisch.",
+            "id": "1741869",
+            "score": 0.00041
+        },
+        {
+            "name": "Populus deltoides W.Bartram ex Marshall",
+            "id": "1738800",
+            "score": 0.0004
+        },
+        {
+            "name": "Pyrus calleryana Decne.",
+            "id": "1395003",
+            "score": 0.0004
+        },
+        {
+            "name": "Catalpa ovata G.Don",
+            "id": "1397254",
+            "score": 0.00038
+        },
+        {
+            "name": "Ficus carica L.",
+            "id": "1363142",
+            "score": 0.00036
+        },
+        {
+            "name": "Cornus sericea L.",
+            "id": "1397902",
+            "score": 0.00036
+        },
+        {
+            "name": "Populus tremuloides Michx.",
+            "id": "1413261",
+            "score": 0.00034
+        },
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.00033
+        },
+        {
+            "name": "Schizolobium parahyba (Vell.) S.F.Blake",
+            "id": "1426406",
+            "score": 0.00032
+        },
+        {
+            "name": "Erythrina crista-galli L.",
+            "id": "1366912",
+            "score": 0.00031
+        },
+        {
+            "name": "Tilia platyphyllos Scop.",
+            "id": "1396802",
+            "score": 0.00029
+        },
+        {
+            "name": "Liquidambar styraciflua L.",
+            "id": "1393613",
+            "score": 0.00028
+        },
+        {
+            "name": "Robinia viscosa Michx. ex Vent.",
+            "id": "1742844",
+            "score": 0.00028
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trachelospermum jasminoides (Lindl.) Lem.",
+            "id": "1369887",
+            "score": 0.86353
+        },
+        {
+            "name": "Trachelospermum asiaticum (Siebold & Zucc.) Nakai",
+            "id": "1463177",
+            "score": 0.03353
+        },
+        {
+            "name": "Osmanthus fragrans Lour.",
+            "id": "1394028",
+            "score": 0.00915
+        },
+        {
+            "name": "Tabernaemontana divaricata (L.) R.Br. ex Roem. & Schult.",
+            "id": "1409020",
+            "score": 0.00178
+        },
+        {
+            "name": "Jasminum grandiflorum L.",
+            "id": "1359672",
+            "score": 0.0013
+        },
+        {
+            "name": "Jasminum officinale L.",
+            "id": "1359673",
+            "score": 0.001
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hordeum murinum L.",
+            "id": "1361307",
+            "score": 0.92181
+        },
+        {
+            "name": "Hordeum marinum Huds.",
+            "id": "1361306",
+            "score": 0.01054
+        },
+        {
+            "name": "Crithopsis delileana (Schult.) Roshev.",
+            "id": "1361216",
+            "score": 0.00707
+        },
+        {
+            "name": "Hordeum vulgare L.",
+            "id": "1363481",
+            "score": 0.00652
+        },
+        {
+            "name": "Elymus canadensis L.",
+            "id": "1398629",
+            "score": 0.00389
+        },
+        {
+            "name": "Hordeum jubatum L.",
+            "id": "1397404",
+            "score": 0.00348
+        },
+        {
+            "name": "Hordeum secalinum Schreb.",
+            "id": "1361308",
+            "score": 0.0024
+        },
+        {
+            "name": "Secale cereale L.",
+            "id": "1363451",
+            "score": 0.0019
+        },
+        {
+            "name": "Hordeum bulbosum L.",
+            "id": "1361304",
+            "score": 0.0011
+        }
+    ]
+}

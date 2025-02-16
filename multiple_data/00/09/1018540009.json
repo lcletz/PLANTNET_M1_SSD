@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Helminthotheca echioides (L.) Holub",
+            "id": "1357635",
+            "score": 0.90083
+        },
+        {
+            "name": "Picris hieracioides L.",
+            "id": "1364160",
+            "score": 0.00964
+        },
+        {
+            "name": "Crepis mollis (Jacq.) Asch.",
+            "id": "1391455",
+            "score": 0.00303
+        },
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.00152
+        },
+        {
+            "name": "Crepis setosa Haller f.",
+            "id": "1361760",
+            "score": 0.00131
+        },
+        {
+            "name": "Anchusa arvensis (L.) M.Bieb.",
+            "id": "1477188",
+            "score": 0.00103
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Satureja montana L.",
+            "id": "1361829",
+            "score": 0.7896
+        },
+        {
+            "name": "Satureja hortensis L.",
+            "id": "1395936",
+            "score": 0.07985
+        },
+        {
+            "name": "Saponaria ocymoides L.",
+            "id": "1361747",
+            "score": 0.03173
+        },
+        {
+            "name": "Thymus serpyllum L.",
+            "id": "1362246",
+            "score": 0.01649
+        },
+        {
+            "name": "Felicia amelloides (L.) Voss",
+            "id": "1408069",
+            "score": 0.01419
+        },
+        {
+            "name": "Thymus vulgaris L.",
+            "id": "1356108",
+            "score": 0.00651
+        },
+        {
+            "name": "Hyssopus officinalis L.",
+            "id": "1358747",
+            "score": 0.00427
+        },
+        {
+            "name": "Cistus ladanifer L.",
+            "id": "1357103",
+            "score": 0.00226
+        },
+        {
+            "name": "Thymus × citriodorus (Pers.) Schreb.",
+            "id": "1564513",
+            "score": 0.00211
+        },
+        {
+            "name": "Cuphea hyssopifolia Kunth",
+            "id": "1356026",
+            "score": 0.00152
+        },
+        {
+            "name": "Iberis sempervirens L.",
+            "id": "1358335",
+            "score": 0.00111
+        },
+        {
+            "name": "Cerastium arvense L.",
+            "id": "1356817",
+            "score": 0.00106
+        }
+    ]
+}

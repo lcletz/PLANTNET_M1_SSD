@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hyoscyamus albus L.",
+            "id": "1360550",
+            "score": 0.82989
+        },
+        {
+            "name": "Hyoscyamus niger L.",
+            "id": "1360555",
+            "score": 0.0052
+        },
+        {
+            "name": "Hyoscyamus aureus L.",
+            "id": "1360551",
+            "score": 0.00478
+        },
+        {
+            "name": "Nicotiana rustica L.",
+            "id": "1356160",
+            "score": 0.0026
+        },
+        {
+            "name": "Ecballium elaterium (L.) A.Rich.",
+            "id": "1397373",
+            "score": 0.00109
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Asplenium scolopendrium L.",
+            "id": "1356357",
+            "score": 0.8905
+        },
+        {
+            "name": "Asplenium nidus L.",
+            "id": "1390496",
+            "score": 0.04301
+        },
+        {
+            "name": "Pteris cretica L.",
+            "id": "1356435",
+            "score": 0.00254
+        },
+        {
+            "name": "Asplenium australasicum Hook.",
+            "id": "1721997",
+            "score": 0.00216
+        },
+        {
+            "name": "Asplenium antrophyoides Christ",
+            "id": "1702250",
+            "score": 0.00129
+        },
+        {
+            "name": "Asplenium sagittatum (DC.) Bange",
+            "id": "1356356",
+            "score": 0.00116
+        }
+    ]
+}

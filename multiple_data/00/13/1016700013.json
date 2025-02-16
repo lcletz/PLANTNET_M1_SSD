@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Convolvulus althaeoides L.",
+            "id": "1364016",
+            "score": 0.93044
+        },
+        {
+            "name": "Ipomoea cairica (L.) Sweet",
+            "id": "1358015",
+            "score": 0.00837
+        },
+        {
+            "name": "Ipomoea trifida (Kunth) G.Don",
+            "id": "1426342",
+            "score": 0.00347
+        },
+        {
+            "name": "Convolvulus arvensis L.",
+            "id": "1364006",
+            "score": 0.00126
+        },
+        {
+            "name": "Ipomoea regnellii Meisn.",
+            "id": "1527738",
+            "score": 0.001
+        }
+    ]
+}

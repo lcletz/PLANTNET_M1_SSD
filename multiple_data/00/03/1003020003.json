@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.83272
+        },
+        {
+            "name": "Olea europaea L.",
+            "id": "1359676",
+            "score": 0.08793
+        },
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.01173
+        },
+        {
+            "name": "Elaeagnus angustifolia L.",
+            "id": "1358494",
+            "score": 0.00725
+        },
+        {
+            "name": "Quercus faginea Lam.",
+            "id": "1358614",
+            "score": 0.00305
+        },
+        {
+            "name": "Quercus fusiformis Small",
+            "id": "1437108",
+            "score": 0.00305
+        },
+        {
+            "name": "Quercus virginiana Mill.",
+            "id": "1419081",
+            "score": 0.00257
+        },
+        {
+            "name": "Quercus emoryi Torr.",
+            "id": "1437106",
+            "score": 0.00132
+        },
+        {
+            "name": "Quercus rotundifolia Lam.",
+            "id": "1548459",
+            "score": 0.00132
+        },
+        {
+            "name": "Pyrus salicifolia Pall.",
+            "id": "1395004",
+            "score": 0.00102
+        }
+    ]
+}

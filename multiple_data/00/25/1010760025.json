@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phyteuma spicatum L.",
+            "id": "1394555",
+            "score": 0.93923
+        },
+        {
+            "name": "Phyteuma nigrum F.W.Schmidt",
+            "id": "1394547",
+            "score": 0.02071
+        },
+        {
+            "name": "Phyteuma ovatum Honck.",
+            "id": "1394551",
+            "score": 0.01097
+        },
+        {
+            "name": "Phyteuma betonicifolium Vill.",
+            "id": "1394536",
+            "score": 0.0024
+        },
+        {
+            "name": "Phyteuma scorzonerifolium Vill.",
+            "id": "1394553",
+            "score": 0.00139
+        }
+    ]
+}

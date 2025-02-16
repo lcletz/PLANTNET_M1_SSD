@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Frangula alnus Mill.",
+            "id": "1360257",
+            "score": 0.50216
+        },
+        {
+            "name": "Frangula rupestris (Scop.) Schur",
+            "id": "1399186",
+            "score": 0.42637
+        },
+        {
+            "name": "Frangula californica (Eschsch.) A.Gray",
+            "id": "1420326",
+            "score": 0.00307
+        },
+        {
+            "name": "Rhamnus alpina L.",
+            "id": "1360261",
+            "score": 0.00215
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.00192
+        }
+    ]
+}

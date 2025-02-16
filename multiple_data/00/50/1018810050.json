@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Genista scorpius (L.) DC.",
+            "id": "1359216",
+            "score": 0.89936
+        },
+        {
+            "name": "Calicotome spinosa (L.) Link",
+            "id": "1359160",
+            "score": 0.04846
+        },
+        {
+            "name": "Genista corsica (Loisel.) DC.",
+            "id": "1392509",
+            "score": 0.0136
+        },
+        {
+            "name": "Calicotome villosa (Poir.) Link",
+            "id": "1359161",
+            "score": 0.00471
+        },
+        {
+            "name": "Cytisus balansae (Boiss.) Ball",
+            "id": "1359177",
+            "score": 0.0023
+        },
+        {
+            "name": "Genista hirsuta Vahl",
+            "id": "1359209",
+            "score": 0.00101
+        }
+    ]
+}

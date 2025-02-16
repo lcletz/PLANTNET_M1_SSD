@@ -1,0 +1,80 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Acacia retinodes Schltdl.",
+            "id": "1363778",
+            "score": 0.49257
+        },
+        {
+            "name": "Acacia saligna (Labill.) H.L.Wendl.",
+            "id": "1389567",
+            "score": 0.07021
+        },
+        {
+            "name": "Acacia pycnantha Benth.",
+            "id": "1363772",
+            "score": 0.04689
+        },
+        {
+            "name": "Acacia dealbata Link",
+            "id": "1363764",
+            "score": 0.04036
+        },
+        {
+            "name": "Acacia mearnsii De Wild.",
+            "id": "1363770",
+            "score": 0.03519
+        },
+        {
+            "name": "Acacia baileyana F.Muell.",
+            "id": "1400104",
+            "score": 0.01121
+        },
+        {
+            "name": "Parkinsonia aculeata L.",
+            "id": "1363705",
+            "score": 0.00917
+        },
+        {
+            "name": "Phoenix dactylifera L.",
+            "id": "1363261",
+            "score": 0.00417
+        },
+        {
+            "name": "Acacia longifolia (Andrews) Willd.",
+            "id": "1363769",
+            "score": 0.00245
+        },
+        {
+            "name": "Gomphocarpus fruticosus (L.) W.T.Aiton",
+            "id": "1408121",
+            "score": 0.00158
+        },
+        {
+            "name": "Reseda luteola L.",
+            "id": "1363978",
+            "score": 0.00132
+        },
+        {
+            "name": "Acacia melanoxylon R.Br.",
+            "id": "1389553",
+            "score": 0.00123
+        },
+        {
+            "name": "Euphorbia cyparissias L.",
+            "id": "1392155",
+            "score": 0.00114
+        },
+        {
+            "name": "Chondrilla juncea L.",
+            "id": "1357492",
+            "score": 0.00109
+        },
+        {
+            "name": "Salix rosmarinifolia L.",
+            "id": "1397871",
+            "score": 0.00107
+        }
+    ]
+}

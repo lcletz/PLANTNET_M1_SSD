@@ -1,0 +1,95 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Urtica urens L.",
+            "id": "1356201",
+            "score": 0.45172
+        },
+        {
+            "name": "Urtica dioica L.",
+            "id": "1356200",
+            "score": 0.30981
+        },
+        {
+            "name": "Ballota nigra L.",
+            "id": "1358722",
+            "score": 0.05702
+        },
+        {
+            "name": "Leonurus cardiaca L.",
+            "id": "1358768",
+            "score": 0.00682
+        },
+        {
+            "name": "Marrubium vulgare L.",
+            "id": "1356123",
+            "score": 0.00677
+        },
+        {
+            "name": "Urtica membranacea Poir. ex Savigny",
+            "id": "1695710",
+            "score": 0.00648
+        },
+        {
+            "name": "Lamium orvala L.",
+            "id": "1399231",
+            "score": 0.00607
+        },
+        {
+            "name": "Lamium album L.",
+            "id": "1393423",
+            "score": 0.00567
+        },
+        {
+            "name": "Lamium maculatum (L.) L.",
+            "id": "1393425",
+            "score": 0.00514
+        },
+        {
+            "name": "Urtica atrovirens Req. ex Loisel.",
+            "id": "1396958",
+            "score": 0.00363
+        },
+        {
+            "name": "Ribes rubrum L.",
+            "id": "1397543",
+            "score": 0.0026
+        },
+        {
+            "name": "Lamium hybridum Vill.",
+            "id": "1358751",
+            "score": 0.00198
+        },
+        {
+            "name": "Verbena urticifolia L.",
+            "id": "1398544",
+            "score": 0.00178
+        },
+        {
+            "name": "Urtica rupestris Guss.",
+            "id": "1398886",
+            "score": 0.00162
+        },
+        {
+            "name": "Geum sylvaticum Pourr.",
+            "id": "1360299",
+            "score": 0.00119
+        },
+        {
+            "name": "Boehmeria japonica (L.f.) Miq.",
+            "id": "1694491",
+            "score": 0.00115
+        },
+        {
+            "name": "Teucrium scorodonia L.",
+            "id": "1359020",
+            "score": 0.00112
+        },
+        {
+            "name": "Melissa officinalis L.",
+            "id": "1358784",
+            "score": 0.00104
+        }
+    ]
+}

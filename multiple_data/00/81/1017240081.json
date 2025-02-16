@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Malva multiflora (Cav.) Soldano",
+            "id": "1390057",
+            "score": 0.58388
+        },
+        {
+            "name": "Malva parviflora L.",
+            "id": "1359639",
+            "score": 0.0158
+        },
+        {
+            "name": "Malva nicaeensis All.",
+            "id": "1363945",
+            "score": 0.0095
+        },
+        {
+            "name": "Malva sylvestris L.",
+            "id": "1363947",
+            "score": 0.00428
+        },
+        {
+            "name": "Malva neglecta Wallr.",
+            "id": "1363944",
+            "score": 0.00382
+        }
+    ]
+}

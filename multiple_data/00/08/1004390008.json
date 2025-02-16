@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Eschscholzia californica Cham.",
+            "id": "1363125",
+            "score": 0.79396
+        },
+        {
+            "name": "Eschscholzia caespitosa Benth.",
+            "id": "1443494",
+            "score": 0.11658
+        },
+        {
+            "name": "Ranunculus gramineus L.",
+            "id": "1360204",
+            "score": 0.0025
+        },
+        {
+            "name": "Papaver atlanticum (Ball) Coss.",
+            "id": "1359815",
+            "score": 0.0023
+        },
+        {
+            "name": "Glaucium flavum Crantz",
+            "id": "1359804",
+            "score": 0.0022
+        },
+        {
+            "name": "Eschscholzia lobbii Greene",
+            "id": "1443498",
+            "score": 0.00106
+        },
+        {
+            "name": "Papaver cambricum L.",
+            "id": "1419850",
+            "score": 0.00106
+        }
+    ]
+}

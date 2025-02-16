@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bupleurum stellatum L.",
+            "id": "1389597",
+            "score": 0.9609
+        },
+        {
+            "name": "Bupleurum angulosum L.",
+            "id": "1389587",
+            "score": 0.00921
+        },
+        {
+            "name": "Bupleurum ranunculoides L.",
+            "id": "1389596",
+            "score": 0.00213
+        },
+        {
+            "name": "Bupleurum petraeum L.",
+            "id": "1389593",
+            "score": 0.00128
+        },
+        {
+            "name": "Bupleurum subovatum Link ex Spreng.",
+            "id": "1389598",
+            "score": 0.00127
+        }
+    ]
+}

@@ -1,0 +1,470 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Agrostis capillaris L.",
+            "id": "1361133",
+            "score": 0.67817
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.18279
+        },
+        {
+            "name": "Lolium perenne L.",
+            "id": "1363475",
+            "score": 0.06068
+        },
+        {
+            "name": "Agrostis gigantea Roth",
+            "id": "1363472",
+            "score": 0.04922
+        },
+        {
+            "name": "Alopecurus pratensis L.",
+            "id": "1362406",
+            "score": 0.0414
+        },
+        {
+            "name": "Cynosurus cristatus L.",
+            "id": "1361225",
+            "score": 0.03572
+        },
+        {
+            "name": "Agrostis stolonifera L.",
+            "id": "1356321",
+            "score": 0.03321
+        },
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.02165
+        },
+        {
+            "name": "Lolium pratense (Huds.) Darbysh.",
+            "id": "1737440",
+            "score": 0.02082
+        },
+        {
+            "name": "Paspalum dilatatum Poir.",
+            "id": "1363496",
+            "score": 0.02044
+        },
+        {
+            "name": "Anthoxanthum odoratum L.",
+            "id": "1363461",
+            "score": 0.02011
+        },
+        {
+            "name": "Poa trivialis L.",
+            "id": "1363459",
+            "score": 0.01685
+        },
+        {
+            "name": "Deschampsia cespitosa (L.) P.Beauv.",
+            "id": "1391666",
+            "score": 0.01684
+        },
+        {
+            "name": "Lolium arundinaceum (Schreb.) Darbysh.",
+            "id": "1720971",
+            "score": 0.01461
+        },
+        {
+            "name": "Sporobolus indicus (L.) R.Br.",
+            "id": "1396416",
+            "score": 0.01271
+        },
+        {
+            "name": "Poa nemoralis L.",
+            "id": "1361376",
+            "score": 0.01083
+        },
+        {
+            "name": "Juncus conglomeratus L.",
+            "id": "1361574",
+            "score": 0.01027
+        },
+        {
+            "name": "Bromus sterilis L.",
+            "id": "1414366",
+            "score": 0.01008
+        },
+        {
+            "name": "Brachypodium pinnatum (L.) P.Beauv.",
+            "id": "1388809",
+            "score": 0.00956
+        },
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.00909
+        },
+        {
+            "name": "Luzula campestris (L.) DC.",
+            "id": "1361592",
+            "score": 0.00838
+        },
+        {
+            "name": "Trisetum flavescens (L.) P.Beauv.",
+            "id": "1396889",
+            "score": 0.00752
+        },
+        {
+            "name": "Juncus effusus L.",
+            "id": "1363328",
+            "score": 0.00729
+        },
+        {
+            "name": "Bothriochloa barbinodis (Lag.) Herter",
+            "id": "1400187",
+            "score": 0.00717
+        },
+        {
+            "name": "Calamagrostis epigejos (L.) Roth",
+            "id": "1379532",
+            "score": 0.00687
+        },
+        {
+            "name": "Alopecurus myosuroides Huds.",
+            "id": "1361157",
+            "score": 0.00682
+        },
+        {
+            "name": "Hordeum murinum L.",
+            "id": "1361307",
+            "score": 0.00614
+        },
+        {
+            "name": "Arrhenatherum elatius (L.) P.Beauv. ex J.Presl & C.Presl",
+            "id": "1396638",
+            "score": 0.00579
+        },
+        {
+            "name": "Elymus caninus (L.) L.",
+            "id": "1391851",
+            "score": 0.00579
+        },
+        {
+            "name": "Elymus repens (L.) Gould",
+            "id": "1411890",
+            "score": 0.00576
+        },
+        {
+            "name": "Calamagrostis canescens (Weber) Roth",
+            "id": "1397331",
+            "score": 0.00575
+        },
+        {
+            "name": "Setaria pumila (Poir.) Roem. & Schult.",
+            "id": "1363386",
+            "score": 0.00563
+        },
+        {
+            "name": "Holcus lanatus L.",
+            "id": "1363460",
+            "score": 0.00545
+        },
+        {
+            "name": "Agrostis canina L.",
+            "id": "1361914",
+            "score": 0.00516
+        },
+        {
+            "name": "Juncus acutiflorus Ehrh. ex Hoffm.",
+            "id": "1361568",
+            "score": 0.00513
+        },
+        {
+            "name": "Festuca bromoides L.",
+            "id": "1722436",
+            "score": 0.00505
+        },
+        {
+            "name": "Aira caryophyllea L.",
+            "id": "1363452",
+            "score": 0.0047
+        },
+        {
+            "name": "Agrostis × dimorpholemma Ohwi",
+            "id": "1647506",
+            "score": 0.00464
+        },
+        {
+            "name": "Festuca rubra L.",
+            "id": "1361284",
+            "score": 0.00445
+        },
+        {
+            "name": "Cynosurus echinatus L.",
+            "id": "1363504",
+            "score": 0.00427
+        },
+        {
+            "name": "Phleum alpinum L.",
+            "id": "1362482",
+            "score": 0.00421
+        },
+        {
+            "name": "Bromus hordeaceus L.",
+            "id": "1356286",
+            "score": 0.00421
+        },
+        {
+            "name": "Eriophorum angustifolium Honck.",
+            "id": "1392059",
+            "score": 0.00415
+        },
+        {
+            "name": "Poa palustris L.",
+            "id": "1394677",
+            "score": 0.00408
+        },
+        {
+            "name": "Carex leporina L.",
+            "id": "1362424",
+            "score": 0.00404
+        },
+        {
+            "name": "Molinia caerulea (L.) Moench",
+            "id": "1363593",
+            "score": 0.00378
+        },
+        {
+            "name": "Tridens flavus (L.) Hitchc.",
+            "id": "1406533",
+            "score": 0.00378
+        },
+        {
+            "name": "Agrostis rupestris All.",
+            "id": "1361141",
+            "score": 0.00367
+        },
+        {
+            "name": "Cynodon dactylon (L.) Pers.",
+            "id": "1363526",
+            "score": 0.0035
+        },
+        {
+            "name": "Dianthus carthusianorum L.",
+            "id": "1391680",
+            "score": 0.0033
+        },
+        {
+            "name": "Chloris barbata Sw.",
+            "id": "1363583",
+            "score": 0.00312
+        },
+        {
+            "name": "Oloptum miliaceum (L.) Röser & Hamasha",
+            "id": "1389833",
+            "score": 0.00311
+        },
+        {
+            "name": "Glyceria fluitans (L.) R.Br.",
+            "id": "1392636",
+            "score": 0.00311
+        },
+        {
+            "name": "Agrostis vinealis Schreb.",
+            "id": "1362592",
+            "score": 0.00275
+        },
+        {
+            "name": "Sorghum halepense (L.) Pers.",
+            "id": "1363508",
+            "score": 0.00264
+        },
+        {
+            "name": "Alopecurus geniculatus L.",
+            "id": "1361155",
+            "score": 0.00257
+        },
+        {
+            "name": "Lolium multiflorum Lam.",
+            "id": "1363474",
+            "score": 0.00256
+        },
+        {
+            "name": "Cyperus longus L.",
+            "id": "1356294",
+            "score": 0.00251
+        },
+        {
+            "name": "Poa alpina L.",
+            "id": "1361367",
+            "score": 0.0025
+        },
+        {
+            "name": "Bromus inermis Leyss.",
+            "id": "1414356",
+            "score": 0.00247
+        },
+        {
+            "name": "Melica nutans L.",
+            "id": "1393788",
+            "score": 0.00246
+        },
+        {
+            "name": "Luzula forsteri (Sm.) DC.",
+            "id": "1361594",
+            "score": 0.00241
+        },
+        {
+            "name": "Paspalum notatum Flüggé",
+            "id": "1403109",
+            "score": 0.00241
+        },
+        {
+            "name": "Juncus subnodulosus Schrank",
+            "id": "1361587",
+            "score": 0.00231
+        },
+        {
+            "name": "Carex pallescens L.",
+            "id": "1361072",
+            "score": 0.0022
+        },
+        {
+            "name": "Sporobolus natalensis (Steud.) T.Durand & Schinz",
+            "id": "1655243",
+            "score": 0.0021
+        },
+        {
+            "name": "Carex hostiana DC.",
+            "id": "1390836",
+            "score": 0.00209
+        },
+        {
+            "name": "Cynosurus effusus Link",
+            "id": "1361226",
+            "score": 0.002
+        },
+        {
+            "name": "Digitaria sanguinalis (L.) Scop.",
+            "id": "1363424",
+            "score": 0.00195
+        },
+        {
+            "name": "Hordeum secalinum Schreb.",
+            "id": "1361308",
+            "score": 0.00192
+        },
+        {
+            "name": "Agrostis micrantha Steud.",
+            "id": "1647571",
+            "score": 0.00188
+        },
+        {
+            "name": "Briza media L.",
+            "id": "1361195",
+            "score": 0.00184
+        },
+        {
+            "name": "Bromus erectus Huds.",
+            "id": "1414354",
+            "score": 0.00179
+        },
+        {
+            "name": "Deschampsia media (Gouan) Roem. & Schult.",
+            "id": "1391668",
+            "score": 0.00176
+        },
+        {
+            "name": "Agrostis castellana Boiss. & Reut.",
+            "id": "1361134",
+            "score": 0.00165
+        },
+        {
+            "name": "Allium vineale L.",
+            "id": "1360945",
+            "score": 0.00153
+        },
+        {
+            "name": "Bolboschoenus maritimus (L.) Palla",
+            "id": "1362194",
+            "score": 0.00152
+        },
+        {
+            "name": "Carex flacca Schreb.",
+            "id": "1361055",
+            "score": 0.00149
+        },
+        {
+            "name": "Carex spicata Huds.",
+            "id": "1361082",
+            "score": 0.00148
+        },
+        {
+            "name": "Poa bulbosa L.",
+            "id": "1363456",
+            "score": 0.00145
+        },
+        {
+            "name": "Setaria parviflora (Poir.) Kerguélen",
+            "id": "1362232",
+            "score": 0.00141
+        },
+        {
+            "name": "Danthonia decumbens (L.) DC.",
+            "id": "1361233",
+            "score": 0.00135
+        },
+        {
+            "name": "Poa chaixii Vill.",
+            "id": "1394663",
+            "score": 0.00134
+        },
+        {
+            "name": "Avena barbata Pott ex Link",
+            "id": "1363467",
+            "score": 0.00131
+        },
+        {
+            "name": "Poa annua L.",
+            "id": "1363455",
+            "score": 0.00129
+        },
+        {
+            "name": "Eragrostis superba Peyr.",
+            "id": "1365439",
+            "score": 0.00127
+        },
+        {
+            "name": "Carex flava L.",
+            "id": "1361056",
+            "score": 0.00125
+        },
+        {
+            "name": "Patzkea paniculata (L.) G.H.Loos",
+            "id": "1389628",
+            "score": 0.00123
+        },
+        {
+            "name": "Fimbristylis autumnalis (L.) Roem. & Schult.",
+            "id": "1403947",
+            "score": 0.00121
+        },
+        {
+            "name": "Brachypodium sylvaticum (Huds.) P.Beauv.",
+            "id": "1389018",
+            "score": 0.00118
+        },
+        {
+            "name": "Festuca lachenalii (C.C.Gmel.) Spenn.",
+            "id": "1742545",
+            "score": 0.00118
+        },
+        {
+            "name": "Allium coloratum Spreng.",
+            "id": "1392557",
+            "score": 0.00117
+        },
+        {
+            "name": "Holcus mollis L.",
+            "id": "1361302",
+            "score": 0.00116
+        }
+    ]
+}

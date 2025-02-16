@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Paeonia officinalis L.",
+            "id": "1362842",
+            "score": 0.75358
+        },
+        {
+            "name": "Paeonia lactiflora Pall.",
+            "id": "1412934",
+            "score": 0.19647
+        },
+        {
+            "name": "Paeonia × suffruticosa Andrews",
+            "id": "1638045",
+            "score": 0.00846
+        },
+        {
+            "name": "Paeonia mascula (L.) Mill.",
+            "id": "1359758",
+            "score": 0.00611
+        },
+        {
+            "name": "Paeonia broteri Boiss. & Reut.",
+            "id": "1638029",
+            "score": 0.00178
+        }
+    ]
+}

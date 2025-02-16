@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salvia officinalis L.",
+            "id": "1356118",
+            "score": 0.85275
+        },
+        {
+            "name": "Salvia fruticosa Mill.",
+            "id": "1358866",
+            "score": 0.08824
+        },
+        {
+            "name": "Salvia tomentosa Mill.",
+            "id": "1395917",
+            "score": 0.00553
+        },
+        {
+            "name": "Salvia × auriculata Mill.",
+            "id": "1562391",
+            "score": 0.00205
+        },
+        {
+            "name": "Salvia interrupta Schousb.",
+            "id": "1358868",
+            "score": 0.00155
+        },
+        {
+            "name": "Salvia lavandula Alain",
+            "id": "1562753",
+            "score": 0.00118
+        }
+    ]
+}

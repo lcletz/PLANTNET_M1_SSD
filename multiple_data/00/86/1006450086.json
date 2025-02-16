@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ligustrum sinense Lour.",
+            "id": "1390584",
+            "score": 0.897
+        },
+        {
+            "name": "Ligustrum vulgare L.",
+            "id": "1359675",
+            "score": 0.02359
+        },
+        {
+            "name": "Ligustrum ovalifolium Hassk.",
+            "id": "1393526",
+            "score": 0.02231
+        },
+        {
+            "name": "Ligustrum japonicum Thunb.",
+            "id": "1397735",
+            "score": 0.00317
+        },
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.00285
+        },
+        {
+            "name": "Osmanthus fragrans Lour.",
+            "id": "1394028",
+            "score": 0.0014
+        },
+        {
+            "name": "Fallopia aubertii (L.Henry) Holub",
+            "id": "1392247",
+            "score": 0.00103
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium repens L.",
+            "id": "1363740",
+            "score": 0.78925
+        },
+        {
+            "name": "Trifolium montanum L.",
+            "id": "1359508",
+            "score": 0.05868
+        },
+        {
+            "name": "Trifolium nigrescens Viv.",
+            "id": "1363739",
+            "score": 0.049
+        },
+        {
+            "name": "Trifolium alexandrinum L.",
+            "id": "1363735",
+            "score": 0.01831
+        },
+        {
+            "name": "Trifolium hybridum L.",
+            "id": "1359497",
+            "score": 0.01715
+        },
+        {
+            "name": "Trifolium occidentale Coombe",
+            "id": "1396857",
+            "score": 0.00478
+        },
+        {
+            "name": "Trifolium squarrosum L.",
+            "id": "1363742",
+            "score": 0.00171
+        },
+        {
+            "name": "Trifolium pallescens Schreb.",
+            "id": "1396858",
+            "score": 0.00131
+        },
+        {
+            "name": "Trifolium michelianum Savi",
+            "id": "1359505",
+            "score": 0.00123
+        }
+    ]
+}

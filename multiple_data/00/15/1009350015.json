@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hedera hibernica (G.Kirchn.) Carrière",
+            "id": "1421057",
+            "score": 0.25744
+        },
+        {
+            "name": "Hedera canariensis Willd.",
+            "id": "1356580",
+            "score": 0.17606
+        },
+        {
+            "name": "Hedera helix L.",
+            "id": "1363575",
+            "score": 0.05687
+        },
+        {
+            "name": "Hedera colchica (K.Koch) K.Koch",
+            "id": "1392697",
+            "score": 0.00836
+        },
+        {
+            "name": "Senecio macroglossus DC.",
+            "id": "1373847",
+            "score": 0.00187
+        }
+    ]
+}

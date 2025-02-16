@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.92583
+        },
+        {
+            "name": "Phalaris arundinacea L.",
+            "id": "1363490",
+            "score": 0.0085
+        },
+        {
+            "name": "Koeleria pyramidata (Lam.) P.Beauv.",
+            "id": "1393407",
+            "score": 0.00301
+        },
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.00199
+        },
+        {
+            "name": "Sesleria caerulea (L.) Ard.",
+            "id": "1397494",
+            "score": 0.00182
+        },
+        {
+            "name": "Ampelodesmos mauritanicus (Poir.) T.Durand & Schinz",
+            "id": "1393790",
+            "score": 0.00171
+        },
+        {
+            "name": "Cynosurus cristatus L.",
+            "id": "1361225",
+            "score": 0.00121
+        }
+    ]
+}

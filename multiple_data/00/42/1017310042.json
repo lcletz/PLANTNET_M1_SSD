@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vinca herbacea Waldst. & Kit.",
+            "id": "1425799",
+            "score": 0.43885
+        },
+        {
+            "name": "Vinca difformis Pourr.",
+            "id": "1356574",
+            "score": 0.07557
+        },
+        {
+            "name": "Vinca minor L.",
+            "id": "1369309",
+            "score": 0.06982
+        },
+        {
+            "name": "Vinca major L.",
+            "id": "1356575",
+            "score": 0.04148
+        },
+        {
+            "name": "Vinca erecta Regel & Schmalh.",
+            "id": "1463350",
+            "score": 0.01129
+        },
+        {
+            "name": "Vincetoxicum funebre Boiss. & Kotschy",
+            "id": "1463369",
+            "score": 0.00494
+        },
+        {
+            "name": "Clematis integrifolia L.",
+            "id": "1398482",
+            "score": 0.00434
+        },
+        {
+            "name": "Clematis viticella L.",
+            "id": "1391301",
+            "score": 0.00119
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Gaillardia aristata Pursh",
+            "id": "1392412",
+            "score": 0.52964
+        },
+        {
+            "name": "Gaillardia pulchella Foug.",
+            "id": "1364122",
+            "score": 0.20033
+        },
+        {
+            "name": "Gaillardia × grandiflora Van Houtte",
+            "id": "1844242",
+            "score": 0.16641
+        },
+        {
+            "name": "Coreopsis tinctoria Nutt.",
+            "id": "1391351",
+            "score": 0.00171
+        },
+        {
+            "name": "Coreopsis grandiflora Hogg ex Sweet",
+            "id": "1391349",
+            "score": 0.00145
+        },
+        {
+            "name": "Helenium autumnale L.",
+            "id": "1392703",
+            "score": 0.00145
+        }
+    ]
+}

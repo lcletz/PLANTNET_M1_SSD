@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ambrosia artemisiifolia L.",
+            "id": "1355901",
+            "score": 0.93416
+        },
+        {
+            "name": "Ambrosia psilostachya DC.",
+            "id": "1355902",
+            "score": 0.00774
+        },
+        {
+            "name": "Bidens bipinnata L.",
+            "id": "1364141",
+            "score": 0.00272
+        },
+        {
+            "name": "Artemisia vulgaris L.",
+            "id": "1364152",
+            "score": 0.00194
+        },
+        {
+            "name": "Artemisia annua L.",
+            "id": "1382106",
+            "score": 0.00175
+        },
+        {
+            "name": "Ambrosia acanthicarpa Hook.",
+            "id": "1412023",
+            "score": 0.0016
+        },
+        {
+            "name": "Ambrosia maritima L.",
+            "id": "1355903",
+            "score": 0.00153
+        },
+        {
+            "name": "Bidens subalternans DC.",
+            "id": "1400143",
+            "score": 0.00102
+        }
+    ]
+}

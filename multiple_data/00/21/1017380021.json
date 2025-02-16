@@ -1,0 +1,75 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iris × germanica L.",
+            "id": "1556750",
+            "score": 0.33792
+        },
+        {
+            "name": "Iris lutescens Lam.",
+            "id": "1362462",
+            "score": 0.2986
+        },
+        {
+            "name": "Iris pumila L.",
+            "id": "1398617",
+            "score": 0.19134
+        },
+        {
+            "name": "Iris pallida Lam.",
+            "id": "1361541",
+            "score": 0.04847
+        },
+        {
+            "name": "Iris aphylla L.",
+            "id": "1393299",
+            "score": 0.03219
+        },
+        {
+            "name": "Iris perrieri Simonet ex N.Service",
+            "id": "1398243",
+            "score": 0.02363
+        },
+        {
+            "name": "Iris marsica I.Ricci & Colas.",
+            "id": "1399634",
+            "score": 0.00864
+        },
+        {
+            "name": "Iris sibirica L.",
+            "id": "1393304",
+            "score": 0.00625
+        },
+        {
+            "name": "Iris versicolor L.",
+            "id": "1393297",
+            "score": 0.0039
+        },
+        {
+            "name": "Iris variegata L.",
+            "id": "1397946",
+            "score": 0.00288
+        },
+        {
+            "name": "Iris barbatula Noltie & K.Y.Guan",
+            "id": "1556675",
+            "score": 0.00272
+        },
+        {
+            "name": "Iris bicapitata Colas.",
+            "id": "1556679",
+            "score": 0.00189
+        },
+        {
+            "name": "Iris spuria L.",
+            "id": "1361544",
+            "score": 0.00152
+        },
+        {
+            "name": "Iris planifolia (Mill.) T.Durand & Schinz",
+            "id": "1556855",
+            "score": 0.00112
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Acer japonicum Thunb.",
+            "id": "1390723",
+            "score": 0.78478
+        },
+        {
+            "name": "Acer palmatum Thunb.",
+            "id": "1390731",
+            "score": 0.14918
+        },
+        {
+            "name": "Acalypha wilkesiana Müll.Arg.",
+            "id": "1405685",
+            "score": 0.0013
+        },
+        {
+            "name": "Hibiscus acetosella Welw. ex Hiern",
+            "id": "1370453",
+            "score": 0.00107
+        },
+        {
+            "name": "Olearia lacunosa Hook.f.",
+            "id": "1515944",
+            "score": 0.00101
+        }
+    ]
+}

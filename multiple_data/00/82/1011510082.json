@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Clematis flammula L.",
+            "id": "1360159",
+            "score": 0.90431
+        },
+        {
+            "name": "Clematis recta L.",
+            "id": "1391298",
+            "score": 0.01385
+        },
+        {
+            "name": "Clematis vitalba L.",
+            "id": "1360161",
+            "score": 0.00615
+        },
+        {
+            "name": "Clematis hexapetala Pall.",
+            "id": "1663633",
+            "score": 0.00308
+        },
+        {
+            "name": "Clematis brachiata Thunb.",
+            "id": "1363971",
+            "score": 0.00295
+        },
+        {
+            "name": "Clematis ispahanica Boiss.",
+            "id": "1663646",
+            "score": 0.0021
+        }
+    ]
+}

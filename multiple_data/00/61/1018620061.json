@@ -1,0 +1,20 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Prunus laurocerasus L.",
+            "id": "1394952",
+            "score": 0.89405
+        },
+        {
+            "name": "Prunus lusitanica L.",
+            "id": "1360322",
+            "score": 0.01472
+        },
+        {
+            "name": "Salix pentandra L.",
+            "id": "1395852",
+            "score": 0.00107
+        }
+    ]
+}

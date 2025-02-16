@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Digitalis thapsi L.",
+            "id": "1400052",
+            "score": 0.56543
+        },
+        {
+            "name": "Digitalis purpurea L.",
+            "id": "1364079",
+            "score": 0.27192
+        },
+        {
+            "name": "Penstemon cobaea Nutt.",
+            "id": "1435787",
+            "score": 0.00594
+        },
+        {
+            "name": "Penstemon barbatus (Cav.) Roth",
+            "id": "1419952",
+            "score": 0.00232
+        },
+        {
+            "name": "Physostegia virginiana (L.) Benth.",
+            "id": "1394534",
+            "score": 0.00225
+        },
+        {
+            "name": "Lamourouxia virgata Kunth",
+            "id": "1636809",
+            "score": 0.00146
+        },
+        {
+            "name": "Digitalis × fucata Ehrh.",
+            "id": "1742630",
+            "score": 0.00141
+        }
+    ]
+}

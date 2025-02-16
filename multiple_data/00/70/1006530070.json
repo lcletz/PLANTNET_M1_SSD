@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Eschscholzia californica Cham.",
+            "id": "1363125",
+            "score": 0.93862
+        },
+        {
+            "name": "Eschscholzia caespitosa Benth.",
+            "id": "1443494",
+            "score": 0.00793
+        },
+        {
+            "name": "Ranunculus gramineus L.",
+            "id": "1360204",
+            "score": 0.00656
+        },
+        {
+            "name": "Eschscholzia lemmonii Greene",
+            "id": "1443497",
+            "score": 0.00327
+        },
+        {
+            "name": "Eschscholzia lobbii Greene",
+            "id": "1443498",
+            "score": 0.00225
+        },
+        {
+            "name": "Ranunculus montanus Willd.",
+            "id": "1362363",
+            "score": 0.00116
+        }
+    ]
+}

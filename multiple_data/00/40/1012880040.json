@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Veronica filiformis Sm.",
+            "id": "1397048",
+            "score": 0.93013
+        },
+        {
+            "name": "Veronica persica Poir.",
+            "id": "1364065",
+            "score": 0.01607
+        },
+        {
+            "name": "Veronica hederifolia L.",
+            "id": "1364064",
+            "score": 0.00369
+        },
+        {
+            "name": "Veronica serpyllifolia L.",
+            "id": "1364066",
+            "score": 0.00215
+        },
+        {
+            "name": "Veronica repens Clarion ex DC.",
+            "id": "1397070",
+            "score": 0.00116
+        }
+    ]
+}

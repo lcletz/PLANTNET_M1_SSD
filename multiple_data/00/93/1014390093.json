@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.5198
+        },
+        {
+            "name": "Corylus maxima Mill.",
+            "id": "1391369",
+            "score": 0.36151
+        },
+        {
+            "name": "Fagus orientalis Lipsky",
+            "id": "1547791",
+            "score": 0.02181
+        },
+        {
+            "name": "Parrotia persica C.A.Mey.",
+            "id": "1738716",
+            "score": 0.00215
+        },
+        {
+            "name": "Hamamelis virginiana L.",
+            "id": "1397621",
+            "score": 0.0015
+        },
+        {
+            "name": "Alnus glutinosa (L.) Gaertn.",
+            "id": "1356608",
+            "score": 0.00124
+        },
+        {
+            "name": "Toxicodendron diversilobum (Torr. & A.Gray) Greene",
+            "id": "1454531",
+            "score": 0.00119
+        },
+        {
+            "name": "Quercus bicolor Willd.",
+            "id": "1413402",
+            "score": 0.00112
+        },
+        {
+            "name": "Elaeagnus macrophylla Thunb.",
+            "id": "1391835",
+            "score": 0.00103
+        }
+    ]
+}

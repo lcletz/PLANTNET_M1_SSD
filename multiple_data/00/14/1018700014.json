@@ -1,0 +1,65 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Corylus avellana L.",
+            "id": "1391368",
+            "score": 0.0976
+        },
+        {
+            "name": "Rubus pruinosus Arrh.",
+            "id": "1389311",
+            "score": 0.02817
+        },
+        {
+            "name": "Alnus alnobetula (Ehrh.) K.Koch",
+            "id": "1392943",
+            "score": 0.02217
+        },
+        {
+            "name": "Rubus caesius L.",
+            "id": "1360354",
+            "score": 0.02067
+        },
+        {
+            "name": "Corylus colurna L.",
+            "id": "1397579",
+            "score": 0.00911
+        },
+        {
+            "name": "Rubus saxatilis L.",
+            "id": "1395601",
+            "score": 0.00466
+        },
+        {
+            "name": "Rubus idaeus L.",
+            "id": "1395507",
+            "score": 0.00284
+        },
+        {
+            "name": "Rubus vestitus Weihe",
+            "id": "1395628",
+            "score": 0.00209
+        },
+        {
+            "name": "Tilia platyphyllos Scop.",
+            "id": "1396802",
+            "score": 0.00186
+        },
+        {
+            "name": "Rubus schleicheri Weihe ex Tratt.",
+            "id": "1395603",
+            "score": 0.00175
+        },
+        {
+            "name": "Rubus fruticosus L.",
+            "id": "1395477",
+            "score": 0.00162
+        },
+        {
+            "name": "Tilia × europaea L.",
+            "id": "1595800",
+            "score": 0.00141
+        }
+    ]
+}

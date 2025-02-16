@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dianthus barbatus L.",
+            "id": "1397367",
+            "score": 0.90779
+        },
+        {
+            "name": "Dianthus chinensis L.",
+            "id": "1398495",
+            "score": 0.01362
+        },
+        {
+            "name": "Dianthus carthusianorum L.",
+            "id": "1391680",
+            "score": 0.0102
+        },
+        {
+            "name": "Dianthus balbisii Ser.",
+            "id": "1362289",
+            "score": 0.00365
+        },
+        {
+            "name": "Phlox drummondii Hook.",
+            "id": "1413048",
+            "score": 0.00227
+        },
+        {
+            "name": "Dianthus caryophyllus L.",
+            "id": "1356843",
+            "score": 0.00162
+        }
+    ]
+}

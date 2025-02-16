@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sambucus canadensis L.",
+            "id": "1356462",
+            "score": 0.4703
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.35449
+        },
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.05738
+        },
+        {
+            "name": "Sambucus palmensis Link",
+            "id": "1356465",
+            "score": 0.00234
+        },
+        {
+            "name": "Hydrangea petiolaris Siebold & Zucc.",
+            "id": "1398621",
+            "score": 0.00179
+        },
+        {
+            "name": "Sambucus cerulea Raf.",
+            "id": "1447816",
+            "score": 0.00147
+        },
+        {
+            "name": "Aegopodium podagraria L.",
+            "id": "1389510",
+            "score": 0.00146
+        },
+        {
+            "name": "Hydrangea arborescens L.",
+            "id": "1393222",
+            "score": 0.0012
+        },
+        {
+            "name": "Viburnum tinus L.",
+            "id": "1356793",
+            "score": 0.00113
+        }
+    ]
+}

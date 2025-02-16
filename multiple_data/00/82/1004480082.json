@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Daucus carota L.",
+            "id": "1363227",
+            "score": 0.9244
+        },
+        {
+            "name": "Daucus pusillus Michx.",
+            "id": "1411700",
+            "score": 0.01056
+        },
+        {
+            "name": "Daucus aureus Desf.",
+            "id": "1360678",
+            "score": 0.01027
+        },
+        {
+            "name": "Visnaga daucoides Gaertn.",
+            "id": "1362719",
+            "score": 0.00326
+        },
+        {
+            "name": "Banksia leptophylla A.S.George",
+            "id": "1661677",
+            "score": 0.00152
+        },
+        {
+            "name": "Ammi majus L.",
+            "id": "1363217",
+            "score": 0.00137
+        }
+    ]
+}

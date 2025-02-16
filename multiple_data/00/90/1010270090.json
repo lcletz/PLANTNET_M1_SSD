@@ -1,0 +1,100 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iris pumila L.",
+            "id": "1398617",
+            "score": 0.50164
+        },
+        {
+            "name": "Iris × germanica L.",
+            "id": "1556750",
+            "score": 0.13011
+        },
+        {
+            "name": "Iris versicolor L.",
+            "id": "1393297",
+            "score": 0.05833
+        },
+        {
+            "name": "Iris lutescens Lam.",
+            "id": "1362462",
+            "score": 0.04907
+        },
+        {
+            "name": "Iris perrieri Simonet ex N.Service",
+            "id": "1398243",
+            "score": 0.03307
+        },
+        {
+            "name": "Iris sibirica L.",
+            "id": "1393304",
+            "score": 0.03252
+        },
+        {
+            "name": "Iris pallida Lam.",
+            "id": "1361541",
+            "score": 0.01279
+        },
+        {
+            "name": "Iris aphylla L.",
+            "id": "1393299",
+            "score": 0.00845
+        },
+        {
+            "name": "Iris spuria L.",
+            "id": "1361544",
+            "score": 0.00559
+        },
+        {
+            "name": "Iris tectorum Maxim.",
+            "id": "1419214",
+            "score": 0.00515
+        },
+        {
+            "name": "Iris ensata Thunb.",
+            "id": "1393295",
+            "score": 0.00506
+        },
+        {
+            "name": "Iris setosa Pall. ex Link",
+            "id": "1412338",
+            "score": 0.00324
+        },
+        {
+            "name": "Iris douglasiana Herb.",
+            "id": "1433286",
+            "score": 0.00305
+        },
+        {
+            "name": "Iris pseudopumila Tineo",
+            "id": "1399635",
+            "score": 0.00222
+        },
+        {
+            "name": "Iris pseudacorus L.",
+            "id": "1361543",
+            "score": 0.00164
+        },
+        {
+            "name": "Iris foetidissima L.",
+            "id": "1361540",
+            "score": 0.00136
+        },
+        {
+            "name": "Iris variegata L.",
+            "id": "1397946",
+            "score": 0.00134
+        },
+        {
+            "name": "Iris kemaonensis Wall. ex D.Don",
+            "id": "1556783",
+            "score": 0.00112
+        },
+        {
+            "name": "Iris xiphium L.",
+            "id": "1361548",
+            "score": 0.0011
+        }
+    ]
+}

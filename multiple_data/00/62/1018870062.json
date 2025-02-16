@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Artemisia annua L.",
+            "id": "1382106",
+            "score": 0.94279
+        },
+        {
+            "name": "Anthriscus caucalis M.Bieb.",
+            "id": "1394851",
+            "score": 0.00612
+        },
+        {
+            "name": "Tanacetum parthenium (L.) Sch.Bip.",
+            "id": "1396511",
+            "score": 0.00379
+        },
+        {
+            "name": "Descurainia sophia (L.) Webb ex Prantl",
+            "id": "1363917",
+            "score": 0.00297
+        },
+        {
+            "name": "Anthemis cotula L.",
+            "id": "1364155",
+            "score": 0.00182
+        },
+        {
+            "name": "Ambrosia artemisiifolia L.",
+            "id": "1355901",
+            "score": 0.0012
+        },
+        {
+            "name": "Artemisia vulgaris L.",
+            "id": "1364152",
+            "score": 0.00106
+        },
+        {
+            "name": "Phacelia tanacetifolia Benth.",
+            "id": "1363358",
+            "score": 0.00105
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Erica cinerea L.",
+            "id": "1358507",
+            "score": 0.90085
+        },
+        {
+            "name": "Daboecia cantabrica (Huds.) K.Koch",
+            "id": "1391550",
+            "score": 0.01353
+        },
+        {
+            "name": "Erica carnea L.",
+            "id": "1358505",
+            "score": 0.00366
+        },
+        {
+            "name": "Erica vagans L.",
+            "id": "1361800",
+            "score": 0.00257
+        },
+        {
+            "name": "Erica tetralix L.",
+            "id": "1392025",
+            "score": 0.00223
+        },
+        {
+            "name": "Erica ciliaris L.",
+            "id": "1358506",
+            "score": 0.00139
+        },
+        {
+            "name": "Erica multiflora L.",
+            "id": "1358509",
+            "score": 0.00136
+        }
+    ]
+}

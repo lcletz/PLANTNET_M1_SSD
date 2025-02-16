@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Taxus baccata L.",
+            "id": "1396710",
+            "score": 0.7938
+        },
+        {
+            "name": "Taxus brevifolia Nutt.",
+            "id": "1388847",
+            "score": 0.15009
+        },
+        {
+            "name": "Taxus canadensis Marshall",
+            "id": "1390006",
+            "score": 0.00404
+        },
+        {
+            "name": "Taxus cuspidata Siebold & Zucc.",
+            "id": "1390008",
+            "score": 0.0034
+        },
+        {
+            "name": "Taxus globosa Schltdl.",
+            "id": "1701976",
+            "score": 0.00202
+        },
+        {
+            "name": "Sequoia sempervirens (D.Don) Endl.",
+            "id": "1396213",
+            "score": 0.00159
+        },
+        {
+            "name": "Cephalotaxus fortunei Hook.",
+            "id": "1397596",
+            "score": 0.00123
+        },
+        {
+            "name": "Torreya californica Torr.",
+            "id": "1398276",
+            "score": 0.00106
+        }
+    ]
+}

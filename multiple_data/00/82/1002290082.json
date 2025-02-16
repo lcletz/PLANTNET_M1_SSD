@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Verbascum lychnitis L.",
+            "id": "1360531",
+            "score": 0.86454
+        },
+        {
+            "name": "Verbascum pulverulentum Vill.",
+            "id": "1360539",
+            "score": 0.02942
+        },
+        {
+            "name": "Verbascum nigrum L.",
+            "id": "1397520",
+            "score": 0.01922
+        },
+        {
+            "name": "Verbascum speciosum Schrad.",
+            "id": "1398668",
+            "score": 0.01252
+        },
+        {
+            "name": "Verbascum chaixii Vill.",
+            "id": "1397519",
+            "score": 0.00336
+        },
+        {
+            "name": "Verbascum thapsus L.",
+            "id": "1364059",
+            "score": 0.00167
+        },
+        {
+            "name": "Verbascum densiflorum Bertol.",
+            "id": "1360523",
+            "score": 0.00111
+        }
+    ]
+}

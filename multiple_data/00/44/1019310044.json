@@ -1,0 +1,30 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Glechoma hederacea L.",
+            "id": "1358746",
+            "score": 0.30817
+        },
+        {
+            "name": "Hydrocotyle ranunculoides L.f.",
+            "id": "1393225",
+            "score": 0.00286
+        },
+        {
+            "name": "Sibthorpia europaea L.",
+            "id": "1373165",
+            "score": 0.00183
+        },
+        {
+            "name": "Chrysosplenium alternifolium L.",
+            "id": "1391159",
+            "score": 0.00138
+        },
+        {
+            "name": "Hydrocotyle vulgaris L.",
+            "id": "1360748",
+            "score": 0.00105
+        }
+    ]
+}

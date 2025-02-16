@@ -1,0 +1,245 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.78254
+        },
+        {
+            "name": "Juniperus communis L.",
+            "id": "1393364",
+            "score": 0.34373
+        },
+        {
+            "name": "Juniperus oxycedrus L.",
+            "id": "1393365",
+            "score": 0.04233
+        },
+        {
+            "name": "Aesculus glabra Willd.",
+            "id": "1390602",
+            "score": 0.03835
+        },
+        {
+            "name": "Taxus baccata L.",
+            "id": "1396710",
+            "score": 0.03158
+        },
+        {
+            "name": "Aesculus pavia L.",
+            "id": "1389544",
+            "score": 0.03145
+        },
+        {
+            "name": "Aesculus × carnea Zeyh.",
+            "id": "1420608",
+            "score": 0.02818
+        },
+        {
+            "name": "Aesculus turbinata Blume",
+            "id": "1420609",
+            "score": 0.0271
+        },
+        {
+            "name": "Hesperocyparis macrocarpa (Hartw.) Bartel",
+            "id": "1432847",
+            "score": 0.01995
+        },
+        {
+            "name": "Juniperus horizontalis Moench",
+            "id": "1388819",
+            "score": 0.01554
+        },
+        {
+            "name": "Juniperus chinensis L.",
+            "id": "1393361",
+            "score": 0.01324
+        },
+        {
+            "name": "Hesperocyparis lusitanica (Mill.) Bartel",
+            "id": "1738619",
+            "score": 0.01283
+        },
+        {
+            "name": "Juniperus virginiana L.",
+            "id": "1393370",
+            "score": 0.01266
+        },
+        {
+            "name": "Cupressus sempervirens L.",
+            "id": "1391488",
+            "score": 0.01113
+        },
+        {
+            "name": "Hesperocyparis arizonica (Greene) Bartel",
+            "id": "1432840",
+            "score": 0.01051
+        },
+        {
+            "name": "Thuja occidentalis L.",
+            "id": "1396760",
+            "score": 0.01001
+        },
+        {
+            "name": "Juniperus drupacea Labill.",
+            "id": "1397755",
+            "score": 0.00966
+        },
+        {
+            "name": "Buxus sempervirens L.",
+            "id": "1356729",
+            "score": 0.00857
+        },
+        {
+            "name": "Coleonema pulchrum Hook.",
+            "id": "1682437",
+            "score": 0.00645
+        },
+        {
+            "name": "Juniperus scopulorum Sarg.",
+            "id": "1388823",
+            "score": 0.00579
+        },
+        {
+            "name": "Olearia solandri Hook.f.",
+            "id": "1739030",
+            "score": 0.00562
+        },
+        {
+            "name": "Lonicera ligustrina Wall.",
+            "id": "1491421",
+            "score": 0.00487
+        },
+        {
+            "name": "Chamaecyparis pisifera (Siebold & Zucc.) Endl.",
+            "id": "1391117",
+            "score": 0.00487
+        },
+        {
+            "name": "Tsuga canadensis (L.) Carrière",
+            "id": "1398279",
+            "score": 0.00448
+        },
+        {
+            "name": "Salvia rosmarinus Spenn.",
+            "id": "1722409",
+            "score": 0.00418
+        },
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.00416
+        },
+        {
+            "name": "Dittrichia graveolens (L.) Greuter",
+            "id": "1364127",
+            "score": 0.00399
+        },
+        {
+            "name": "Taxus canadensis Marshall",
+            "id": "1390006",
+            "score": 0.00397
+        },
+        {
+            "name": "Berberis soulieana C.K.Schneid.",
+            "id": "1475890",
+            "score": 0.00379
+        },
+        {
+            "name": "Juniperus sabina L.",
+            "id": "1393367",
+            "score": 0.00374
+        },
+        {
+            "name": "Phyllanthus fischeri Pax",
+            "id": "1375895",
+            "score": 0.00342
+        },
+        {
+            "name": "Salix purpurea L.",
+            "id": "1360457",
+            "score": 0.00286
+        },
+        {
+            "name": "Juniperus squamata D.Don",
+            "id": "1740397",
+            "score": 0.00276
+        },
+        {
+            "name": "Salix babylonica L.",
+            "id": "1360452",
+            "score": 0.0026
+        },
+        {
+            "name": "Juniperus phoenicea L.",
+            "id": "1393366",
+            "score": 0.00252
+        },
+        {
+            "name": "Taxus cuspidata Siebold & Zucc.",
+            "id": "1390008",
+            "score": 0.00235
+        },
+        {
+            "name": "Diosma hirsuta L.",
+            "id": "1682527",
+            "score": 0.00229
+        },
+        {
+            "name": "Salix rosmarinifolia L.",
+            "id": "1397871",
+            "score": 0.002
+        },
+        {
+            "name": "Chamaecyparis lawsoniana (A.Murray bis) Parl.",
+            "id": "1418584",
+            "score": 0.00177
+        },
+        {
+            "name": "Salix eleagnos Scop.",
+            "id": "1395785",
+            "score": 0.00171
+        },
+        {
+            "name": "Cryptomeria japonica (Thunb. ex L.f.) D.Don",
+            "id": "1418585",
+            "score": 0.0015
+        },
+        {
+            "name": "Aesculus flava Sol.",
+            "id": "1398407",
+            "score": 0.0015
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.00134
+        },
+        {
+            "name": "Fitzroya cupressoides (Molina) I.M.Johnst.",
+            "id": "1388923",
+            "score": 0.00128
+        },
+        {
+            "name": "Juniperus cedrus Webb & Berthel.",
+            "id": "1399864",
+            "score": 0.00123
+        },
+        {
+            "name": "Taxus brevifolia Nutt.",
+            "id": "1388847",
+            "score": 0.00114
+        },
+        {
+            "name": "Empetrum nigrum L.",
+            "id": "1391868",
+            "score": 0.00108
+        },
+        {
+            "name": "Sideroxylon spinosum L.",
+            "id": "1722416",
+            "score": 0.00104
+        }
+    ]
+}

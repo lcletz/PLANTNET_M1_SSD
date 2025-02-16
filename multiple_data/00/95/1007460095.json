@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Plantago maritima L.",
+            "id": "1359965",
+            "score": 0.88405
+        },
+        {
+            "name": "Plantago alpina L.",
+            "id": "1397461",
+            "score": 0.06385
+        },
+        {
+            "name": "Plantago coronopus L.",
+            "id": "1356065",
+            "score": 0.01577
+        },
+        {
+            "name": "Plantago crassifolia Forssk.",
+            "id": "1359952",
+            "score": 0.00957
+        },
+        {
+            "name": "Plantago subulata L.",
+            "id": "1359973",
+            "score": 0.00348
+        },
+        {
+            "name": "Triglochin maritima L.",
+            "id": "1361603",
+            "score": 0.00288
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium arvense L.",
+            "id": "1359485",
+            "score": 0.91096
+        },
+        {
+            "name": "Trifolium angustifolium L.",
+            "id": "1359483",
+            "score": 0.00645
+        },
+        {
+            "name": "Trifolium squamosum L.",
+            "id": "1359524",
+            "score": 0.00448
+        },
+        {
+            "name": "Alternanthera laguroides (Standl.) Standl.",
+            "id": "1450537",
+            "score": 0.00257
+        },
+        {
+            "name": "Pandiaka angustifolia (Vahl) Hepper",
+            "id": "1368291",
+            "score": 0.00225
+        },
+        {
+            "name": "Trifolium stellatum L.",
+            "id": "1359525",
+            "score": 0.00149
+        },
+        {
+            "name": "Lotus dorycnium L.",
+            "id": "1743245",
+            "score": 0.00115
+        }
+    ]
+}

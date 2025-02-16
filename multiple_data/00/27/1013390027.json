@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Mentha × villosa Huds.",
+            "id": "1560698",
+            "score": 0.60512
+        },
+        {
+            "name": "Mentha × rotundifolia (L.) Huds.",
+            "id": "1560693",
+            "score": 0.2834
+        },
+        {
+            "name": "Mentha suaveolens Ehrh.",
+            "id": "1358789",
+            "score": 0.03773
+        },
+        {
+            "name": "Mentha longifolia (L.) L.",
+            "id": "1356107",
+            "score": 0.00804
+        },
+        {
+            "name": "Stachys germanica L.",
+            "id": "1358939",
+            "score": 0.00448
+        },
+        {
+            "name": "Eupatorium perfoliatum L.",
+            "id": "1412024",
+            "score": 0.00217
+        },
+        {
+            "name": "Pulicaria dysenterica (L.) Bernh.",
+            "id": "1357799",
+            "score": 0.00103
+        }
+    ]
+}

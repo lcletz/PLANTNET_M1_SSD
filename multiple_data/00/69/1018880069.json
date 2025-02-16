@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Calendula officinalis L.",
+            "id": "1357330",
+            "score": 0.8706
+        },
+        {
+            "name": "Calendula arvensis L.",
+            "id": "1390637",
+            "score": 0.03222
+        },
+        {
+            "name": "Calendula stellata Cav.",
+            "id": "1357331",
+            "score": 0.02984
+        },
+        {
+            "name": "Bellis sylvestris Cirillo",
+            "id": "1357320",
+            "score": 0.00372
+        },
+        {
+            "name": "Myosotis latifolia Poir.",
+            "id": "1356705",
+            "score": 0.00247
+        },
+        {
+            "name": "Andersonglossum virginianum (L.) J.I.Cohen",
+            "id": "1816997",
+            "score": 0.00186
+        },
+        {
+            "name": "Cynoglossum creticum Mill.",
+            "id": "1356634",
+            "score": 0.00162
+        },
+        {
+            "name": "Spinacia oleracea L.",
+            "id": "1356556",
+            "score": 0.00149
+        }
+    ]
+}

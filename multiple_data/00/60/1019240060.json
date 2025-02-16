@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Dahlia pinnata Cav.",
+            "id": "1391643",
+            "score": 0.77683
+        },
+        {
+            "name": "Rudbeckia laciniata L.",
+            "id": "1395639",
+            "score": 0.00383
+        },
+        {
+            "name": "Bidens aurea (Aiton) Sherff",
+            "id": "1357321",
+            "score": 0.00363
+        },
+        {
+            "name": "Dahlia imperialis Roezl ex Ortgies",
+            "id": "1417809",
+            "score": 0.0025
+        },
+        {
+            "name": "Bidens pilosa L.",
+            "id": "1364143",
+            "score": 0.00226
+        },
+        {
+            "name": "Levisticum officinale W.D.J.Koch",
+            "id": "1393518",
+            "score": 0.00156
+        },
+        {
+            "name": "Angelica archangelica L.",
+            "id": "1397313",
+            "score": 0.00125
+        },
+        {
+            "name": "Aegopodium podagraria L.",
+            "id": "1389510",
+            "score": 0.00112
+        }
+    ]
+}

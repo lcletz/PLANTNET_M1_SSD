@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ocimum basilicum L.",
+            "id": "1361975",
+            "score": 0.89019
+        },
+        {
+            "name": "Ocimum americanum L.",
+            "id": "1419267",
+            "score": 0.01895
+        },
+        {
+            "name": "Peumus boldus Molina",
+            "id": "1601421",
+            "score": 0.00521
+        },
+        {
+            "name": "Epilobium tetragonum L.",
+            "id": "1359688",
+            "score": 0.00332
+        },
+        {
+            "name": "Mentha pulegium L.",
+            "id": "1356106",
+            "score": 0.00267
+        },
+        {
+            "name": "Mentha aquatica L.",
+            "id": "1356105",
+            "score": 0.00181
+        },
+        {
+            "name": "Mentha × piperita L.",
+            "id": "1560691",
+            "score": 0.00131
+        },
+        {
+            "name": "Mentha japonica (Miq.) Makino",
+            "id": "1560683",
+            "score": 0.00114
+        }
+    ]
+}

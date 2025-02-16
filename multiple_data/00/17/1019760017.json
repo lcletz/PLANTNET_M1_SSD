@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Campsis radicans (L.) Bureau",
+            "id": "1390680",
+            "score": 0.56644
+        },
+        {
+            "name": "Leucaena leucocephala (Lam.) de Wit",
+            "id": "1363651",
+            "score": 0.00253
+        },
+        {
+            "name": "Ceratonia siliqua L.",
+            "id": "1363660",
+            "score": 0.00208
+        },
+        {
+            "name": "Vachellia caven (Molina) Seigler & Ebinger",
+            "id": "1422693",
+            "score": 0.00155
+        },
+        {
+            "name": "Ibicella lutea (Lindl.) Van Eselt.",
+            "id": "1356055",
+            "score": 0.00124
+        },
+        {
+            "name": "Vicia sativa L.",
+            "id": "1359575",
+            "score": 0.00106
+        },
+        {
+            "name": "Parkinsonia aculeata L.",
+            "id": "1363705",
+            "score": 0.001
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cortaderia selloana (Schult. & Schult.f.) Asch. & Graebn.",
+            "id": "1391361",
+            "score": 0.95719
+        },
+        {
+            "name": "Phragmites australis (Cav.) Trin. ex Steud.",
+            "id": "1356268",
+            "score": 0.00839
+        },
+        {
+            "name": "Austroderia richardii (Endl.) N.P.Barker & H.P.Linder",
+            "id": "1738621",
+            "score": 0.00324
+        },
+        {
+            "name": "Arundo donax L.",
+            "id": "1363442",
+            "score": 0.0031
+        },
+        {
+            "name": "Saccharum spontaneum L.",
+            "id": "1361402",
+            "score": 0.0024
+        },
+        {
+            "name": "Miscanthus sinensis Andersson",
+            "id": "1393844",
+            "score": 0.00155
+        }
+    ]
+}

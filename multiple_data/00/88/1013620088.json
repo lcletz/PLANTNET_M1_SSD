@@ -1,0 +1,490 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Juncus anceps Laharpe",
+            "id": "1361571",
+            "score": 0.08582
+        },
+        {
+            "name": "Cyperus eragrostis Lam.",
+            "id": "1363293",
+            "score": 0.0636
+        },
+        {
+            "name": "Cyperus haspan L.",
+            "id": "1401436",
+            "score": 0.04873
+        },
+        {
+            "name": "Cyperus surinamensis Rottb.",
+            "id": "1401444",
+            "score": 0.03106
+        },
+        {
+            "name": "Bombax costatum Pellegr. & Vuillet",
+            "id": "1432606",
+            "score": 0.01729
+        },
+        {
+            "name": "Alisma plantago-aquatica L.",
+            "id": "1357998",
+            "score": 0.0149
+        },
+        {
+            "name": "Bulbine abyssinica A.Rich.",
+            "id": "1432644",
+            "score": 0.01434
+        },
+        {
+            "name": "Ceriops tagal (Perr.) C.B.Rob.",
+            "id": "1427521",
+            "score": 0.01304
+        },
+        {
+            "name": "Cyperus difformis L.",
+            "id": "1363292",
+            "score": 0.00989
+        },
+        {
+            "name": "Scirpus hattorianus Makino",
+            "id": "1389740",
+            "score": 0.00944
+        },
+        {
+            "name": "Fimbristylis quinquangularis (Vahl) Kunth",
+            "id": "1533621",
+            "score": 0.00932
+        },
+        {
+            "name": "Cyperus iria L.",
+            "id": "1386563",
+            "score": 0.00914
+        },
+        {
+            "name": "Verbena brasiliensis Vell.",
+            "id": "1378797",
+            "score": 0.00825
+        },
+        {
+            "name": "Alisma lanceolatum With.",
+            "id": "1360902",
+            "score": 0.00777
+        },
+        {
+            "name": "Aquarius grandiflorus (Cham. & Schltdl.) Christenh. & Byng",
+            "id": "1732330",
+            "score": 0.00739
+        },
+        {
+            "name": "Aquarius uruguayensis (Arechav.) Christenh. & Byng",
+            "id": "1732349",
+            "score": 0.00739
+        },
+        {
+            "name": "Cyperus luzulae (L.) Retz.",
+            "id": "1409546",
+            "score": 0.00685
+        },
+        {
+            "name": "Fimbristylis cymosa R.Br.",
+            "id": "1401485",
+            "score": 0.00663
+        },
+        {
+            "name": "Cyperus virens Michx.",
+            "id": "1391504",
+            "score": 0.00577
+        },
+        {
+            "name": "Tanaecium bilabiatum (Sprague) L.G.Lohmann",
+            "id": "1477007",
+            "score": 0.00552
+        },
+        {
+            "name": "Cyperus tenuispica Steud.",
+            "id": "1386575",
+            "score": 0.00551
+        },
+        {
+            "name": "Scirpus pendulus Muhl.",
+            "id": "1389985",
+            "score": 0.00525
+        },
+        {
+            "name": "Iberis umbellata L.",
+            "id": "1363926",
+            "score": 0.00492
+        },
+        {
+            "name": "Verbena litoralis Kunth",
+            "id": "1398545",
+            "score": 0.00436
+        },
+        {
+            "name": "Cyperus polystachyos Rottb.",
+            "id": "1403951",
+            "score": 0.00427
+        },
+        {
+            "name": "Jacaranda brasiliana (Lam.) J.St.-Hil.",
+            "id": "1830046",
+            "score": 0.00414
+        },
+        {
+            "name": "Butomus umbellatus L.",
+            "id": "1361024",
+            "score": 0.00389
+        },
+        {
+            "name": "Baldellia ranunculoides (L.) Parl.",
+            "id": "1360903",
+            "score": 0.00357
+        },
+        {
+            "name": "Rauvolfia vomitoria Wennberg",
+            "id": "1748337",
+            "score": 0.00354
+        },
+        {
+            "name": "Thunbergia lancifolia T.Anderson",
+            "id": "1432399",
+            "score": 0.00354
+        },
+        {
+            "name": "Fraxinus angustifolia Vahl",
+            "id": "1362009",
+            "score": 0.00337
+        },
+        {
+            "name": "Alisma gramineum Lej.",
+            "id": "1360901",
+            "score": 0.00336
+        },
+        {
+            "name": "Rhynchospora eximia (Nees) Boeckeler",
+            "id": "1386770",
+            "score": 0.00332
+        },
+        {
+            "name": "Cyperus fuscus L.",
+            "id": "1361088",
+            "score": 0.00316
+        },
+        {
+            "name": "Cyperus laxus Lam.",
+            "id": "1401440",
+            "score": 0.003
+        },
+        {
+            "name": "Cyperus sanguinolentus Vahl",
+            "id": "1422468",
+            "score": 0.00299
+        },
+        {
+            "name": "Dioscorea oppositifolia L.",
+            "id": "1442574",
+            "score": 0.00299
+        },
+        {
+            "name": "Cyperus aromaticus (Ridl.) Mattf. & Kük.",
+            "id": "1423758",
+            "score": 0.00266
+        },
+        {
+            "name": "Oenanthe crocata L.",
+            "id": "1360761",
+            "score": 0.00253
+        },
+        {
+            "name": "Tacca leontopetaloides (L.) Kuntze",
+            "id": "1387291",
+            "score": 0.00238
+        },
+        {
+            "name": "Schoenoplectiella corymbosa (Roth ex Roem. & Schult.) J.R.Starr & Jim.Mejías",
+            "id": "1744303",
+            "score": 0.00234
+        },
+        {
+            "name": "Limnophyton obtusifolium (L.) Miq.",
+            "id": "1382438",
+            "score": 0.00234
+        },
+        {
+            "name": "Allium palentinum Losa & P.Monts.",
+            "id": "1452585",
+            "score": 0.00229
+        },
+        {
+            "name": "Scirpus atrovirens Willd.",
+            "id": "1396095",
+            "score": 0.00224
+        },
+        {
+            "name": "Carex ericetorum Pollich",
+            "id": "1390811",
+            "score": 0.00213
+        },
+        {
+            "name": "Asclepias fascicularis Decne.",
+            "id": "1437669",
+            "score": 0.00205
+        },
+        {
+            "name": "Scirpus radicans Schkuhr",
+            "id": "1396098",
+            "score": 0.00204
+        },
+        {
+            "name": "Laserpitium gallicum L.",
+            "id": "1393441",
+            "score": 0.00203
+        },
+        {
+            "name": "Cyperus imbricatus Retz.",
+            "id": "1363295",
+            "score": 0.00197
+        },
+        {
+            "name": "Inga edulis Mart.",
+            "id": "1368191",
+            "score": 0.00197
+        },
+        {
+            "name": "Rhynchospora caduca Elliott",
+            "id": "1421888",
+            "score": 0.00195
+        },
+        {
+            "name": "Nauclea latifolia Sm.",
+            "id": "1748331",
+            "score": 0.00193
+        },
+        {
+            "name": "Limnosciadium pinnatum (DC.) Mathias & Constance",
+            "id": "1433937",
+            "score": 0.00192
+        },
+        {
+            "name": "Vitellaria paradoxa C.F.Gaertn.",
+            "id": "1420646",
+            "score": 0.00192
+        },
+        {
+            "name": "Aquarius paniculatus (Micheli) Christenh. & Byng",
+            "id": "1724516",
+            "score": 0.00191
+        },
+        {
+            "name": "Bacopa crenata (P.Beauv.) Hepper",
+            "id": "1645931",
+            "score": 0.00182
+        },
+        {
+            "name": "Fimbristylis complanata (Retz.) Link",
+            "id": "1401484",
+            "score": 0.00177
+        },
+        {
+            "name": "Khaya senegalensis (Desv.) A.Juss.",
+            "id": "1428973",
+            "score": 0.00174
+        },
+        {
+            "name": "Cyperus corymbosus Rottb.",
+            "id": "1363291",
+            "score": 0.00174
+        },
+        {
+            "name": "Cyperus prolixus Kunth",
+            "id": "1386670",
+            "score": 0.00172
+        },
+        {
+            "name": "Scirpoides holoschoenus (L.) Soják",
+            "id": "1361106",
+            "score": 0.0017
+        },
+        {
+            "name": "Cissus petiolata Hook.f.",
+            "id": "1697843",
+            "score": 0.0017
+        },
+        {
+            "name": "Apium graveolens L.",
+            "id": "1363218",
+            "score": 0.00165
+        },
+        {
+            "name": "Rhynchospora corymbosa (L.) Britton",
+            "id": "1386764",
+            "score": 0.00164
+        },
+        {
+            "name": "Smyrnium olusatrum L.",
+            "id": "1360801",
+            "score": 0.00162
+        },
+        {
+            "name": "Allium denudatum Redouté",
+            "id": "1745294",
+            "score": 0.00161
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.00155
+        },
+        {
+            "name": "Sagittaria graminea Michx.",
+            "id": "1395720",
+            "score": 0.00155
+        },
+        {
+            "name": "Manilkara mochisia (Baker) Dubard",
+            "id": "1372915",
+            "score": 0.00153
+        },
+        {
+            "name": "Acridocarpus excelsus A.Juss.",
+            "id": "1432664",
+            "score": 0.00152
+        },
+        {
+            "name": "Lomatium bicolor (S.Watson) J.M.Coult. & Rose",
+            "id": "1815959",
+            "score": 0.00145
+        },
+        {
+            "name": "Cyperus entrerianus Boeckeler",
+            "id": "1442199",
+            "score": 0.00143
+        },
+        {
+            "name": "Macropsychanthus comosus (G.Mey.) L.P.Queiroz & Snak",
+            "id": "1748578",
+            "score": 0.00136
+        },
+        {
+            "name": "Cryptolepis oblongifolia (Meisn.) Schltr.",
+            "id": "1369757",
+            "score": 0.00135
+        },
+        {
+            "name": "Cyperus prolifer Lam.",
+            "id": "1386569",
+            "score": 0.00133
+        },
+        {
+            "name": "Macaranga boutonioides Baill.",
+            "id": "1546677",
+            "score": 0.00131
+        },
+        {
+            "name": "Groenlandia densa (L.) Fourr.",
+            "id": "1361704",
+            "score": 0.00129
+        },
+        {
+            "name": "Sclerocarya birrea (A.Rich.) Hochst.",
+            "id": "1422577",
+            "score": 0.00128
+        },
+        {
+            "name": "Peucedanum rablense (Wulfen) W.D.J.Koch",
+            "id": "1741651",
+            "score": 0.00128
+        },
+        {
+            "name": "Polyscias amplifolia (Baker) Harms",
+            "id": "1467685",
+            "score": 0.00127
+        },
+        {
+            "name": "Launaea intybacea (Jacq.) Beauverd",
+            "id": "1364113",
+            "score": 0.00127
+        },
+        {
+            "name": "Kohautia grandiflora DC.",
+            "id": "1371902",
+            "score": 0.00124
+        },
+        {
+            "name": "Aristea ecklonii Baker",
+            "id": "1383774",
+            "score": 0.00123
+        },
+        {
+            "name": "Cyperus dichrostachyus Hochst. ex A.Rich.",
+            "id": "1532741",
+            "score": 0.00122
+        },
+        {
+            "name": "Scaphyglottis prolifera (R.Br.) Cogn.",
+            "id": "1632827",
+            "score": 0.00121
+        },
+        {
+            "name": "Gloriosa superba L.",
+            "id": "1408119",
+            "score": 0.00117
+        },
+        {
+            "name": "Xyris caroliniana Walter",
+            "id": "1404390",
+            "score": 0.00116
+        },
+        {
+            "name": "Cyperus papyrus L.",
+            "id": "1361089",
+            "score": 0.00116
+        },
+        {
+            "name": "Entada rheedei Spreng.",
+            "id": "1366377",
+            "score": 0.00115
+        },
+        {
+            "name": "Butomopsis latifolia (D.Don) Kunth",
+            "id": "1450110",
+            "score": 0.00112
+        },
+        {
+            "name": "Fraxinus quadrangulata Michx.",
+            "id": "1412093",
+            "score": 0.0011
+        },
+        {
+            "name": "Potamogeton epihydrus Raf.",
+            "id": "1413268",
+            "score": 0.00109
+        },
+        {
+            "name": "Guilandina major (Medik.) Small",
+            "id": "1719887",
+            "score": 0.00107
+        },
+        {
+            "name": "Spondias dulcis Parkinson",
+            "id": "1407118",
+            "score": 0.00105
+        },
+        {
+            "name": "Allium glandulosum Link & Otto",
+            "id": "1442438",
+            "score": 0.00103
+        },
+        {
+            "name": "Libertia chilensis (Molina) Gunckel",
+            "id": "1557063",
+            "score": 0.00101
+        },
+        {
+            "name": "Tripolium pannonicum (Jacq.) Dobrocz.",
+            "id": "1362648",
+            "score": 0.001
+        }
+    ]
+}

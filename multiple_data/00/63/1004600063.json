@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.75262
+        },
+        {
+            "name": "Sambucus canadensis L.",
+            "id": "1356462",
+            "score": 0.0718
+        },
+        {
+            "name": "Sambucus ebulus L.",
+            "id": "1356276",
+            "score": 0.01287
+        },
+        {
+            "name": "Aronia melanocarpa (Michx.) Elliott",
+            "id": "1398450",
+            "score": 0.0038
+        },
+        {
+            "name": "Cornus sanguinea L.",
+            "id": "1397356",
+            "score": 0.0035
+        },
+        {
+            "name": "Aralia elata (Miq.) Seem.",
+            "id": "1398447",
+            "score": 0.00163
+        },
+        {
+            "name": "Ardisia compressa Kunth",
+            "id": "1659436",
+            "score": 0.00158
+        },
+        {
+            "name": "Sambucus peruviana Kunth",
+            "id": "1422763",
+            "score": 0.00153
+        },
+        {
+            "name": "Cornus sericea L.",
+            "id": "1397902",
+            "score": 0.00118
+        }
+    ]
+}

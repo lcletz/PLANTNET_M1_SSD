@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Impatiens hawkeri W.Bull",
+            "id": "1417920",
+            "score": 0.52406
+        },
+        {
+            "name": "Impatiens walleriana Hook.f.",
+            "id": "1397707",
+            "score": 0.3551
+        },
+        {
+            "name": "Impatiens balsamina L.",
+            "id": "1363815",
+            "score": 0.00767
+        },
+        {
+            "name": "Phlox paniculata L.",
+            "id": "1394721",
+            "score": 0.00205
+        },
+        {
+            "name": "Mirabilis jalapa L.",
+            "id": "1362100",
+            "score": 0.00179
+        },
+        {
+            "name": "Hydrangea macrophylla (Thunb.) Ser.",
+            "id": "1361819",
+            "score": 0.00135
+        },
+        {
+            "name": "Rhododendron simsii Planch.",
+            "id": "1395189",
+            "score": 0.00111
+        }
+    ]
+}

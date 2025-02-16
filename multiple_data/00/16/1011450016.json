@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Heracleum sibiricum L.",
+            "id": "1392757",
+            "score": 0.73141
+        },
+        {
+            "name": "Heracleum sphondylium L.",
+            "id": "1360744",
+            "score": 0.19604
+        },
+        {
+            "name": "Heracleum mantegazzianum Sommier & Levier",
+            "id": "1392753",
+            "score": 0.01501
+        },
+        {
+            "name": "Heracleum maximum W.Bartram",
+            "id": "1389108",
+            "score": 0.00624
+        },
+        {
+            "name": "Conium maculatum L.",
+            "id": "1363216",
+            "score": 0.00196
+        },
+        {
+            "name": "Oenanthe crocata L.",
+            "id": "1360761",
+            "score": 0.00168
+        }
+    ]
+}

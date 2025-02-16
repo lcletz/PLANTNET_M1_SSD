@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Fragaria × ananassa (Duchesne ex Weston) Duchesne ex Rozier",
+            "id": "1667445",
+            "score": 0.55496
+        },
+        {
+            "name": "Fragaria virginiana Mill.",
+            "id": "1420364",
+            "score": 0.0262
+        },
+        {
+            "name": "Fragaria vesca L.",
+            "id": "1363991",
+            "score": 0.00903
+        },
+        {
+            "name": "Potentilla sterilis (L.) Garcke",
+            "id": "1394877",
+            "score": 0.00894
+        },
+        {
+            "name": "Fragaria viridis Weston",
+            "id": "1397387",
+            "score": 0.00744
+        }
+    ]
+}

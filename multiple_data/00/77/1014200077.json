@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dracocephalum moldavica L.",
+            "id": "1391787",
+            "score": 0.97015
+        },
+        {
+            "name": "Urtica urens L.",
+            "id": "1356201",
+            "score": 0.00294
+        },
+        {
+            "name": "Potentilla norvegica L.",
+            "id": "1394867",
+            "score": 0.00181
+        },
+        {
+            "name": "Nepeta cataria L.",
+            "id": "1358827",
+            "score": 0.00151
+        },
+        {
+            "name": "Dracocephalum parviflorum Nutt.",
+            "id": "1391789",
+            "score": 0.0013
+        }
+    ]
+}

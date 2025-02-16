@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Poa trivialis L.",
+            "id": "1363459",
+            "score": 0.95795
+        },
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.00788
+        },
+        {
+            "name": "Poa palustris L.",
+            "id": "1394677",
+            "score": 0.00405
+        },
+        {
+            "name": "Poa nemoralis L.",
+            "id": "1361376",
+            "score": 0.00271
+        },
+        {
+            "name": "Bromus hordeaceus L.",
+            "id": "1356286",
+            "score": 0.00136
+        }
+    ]
+}

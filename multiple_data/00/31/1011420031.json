@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus laurocerasus L.",
+            "id": "1394952",
+            "score": 0.7518
+        },
+        {
+            "name": "Umbellularia californica (Hook. & Arn.) Nutt.",
+            "id": "1397685",
+            "score": 0.10141
+        },
+        {
+            "name": "Salix pentandra L.",
+            "id": "1395852",
+            "score": 0.02675
+        },
+        {
+            "name": "Laurus nobilis L.",
+            "id": "1363362",
+            "score": 0.01463
+        },
+        {
+            "name": "Prunus lusitanica L.",
+            "id": "1360322",
+            "score": 0.00301
+        },
+        {
+            "name": "Conocarpus erectus L.",
+            "id": "1383022",
+            "score": 0.00247
+        },
+        {
+            "name": "Persea indica (L.) Spreng.",
+            "id": "1359058",
+            "score": 0.00119
+        },
+        {
+            "name": "Phillyrea angustifolia L.",
+            "id": "1359677",
+            "score": 0.00117
+        }
+    ]
+}

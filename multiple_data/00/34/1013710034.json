@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Campanula glomerata L.",
+            "id": "1390663",
+            "score": 0.75864
+        },
+        {
+            "name": "Campanula cervicaria L.",
+            "id": "1390658",
+            "score": 0.08864
+        },
+        {
+            "name": "Campanula spicata L.",
+            "id": "1390675",
+            "score": 0.01319
+        },
+        {
+            "name": "Campanula latifolia L.",
+            "id": "1390665",
+            "score": 0.00431
+        },
+        {
+            "name": "Campanula moesiaca Velen.",
+            "id": "1489196",
+            "score": 0.00269
+        },
+        {
+            "name": "Campanula trachelium L.",
+            "id": "1356757",
+            "score": 0.00261
+        },
+        {
+            "name": "Campanula bononiensis L.",
+            "id": "1390655",
+            "score": 0.00158
+        },
+        {
+            "name": "Campanula rapunculoides L.",
+            "id": "1383635",
+            "score": 0.00145
+        },
+        {
+            "name": "Campanula petraea L.",
+            "id": "1398374",
+            "score": 0.00105
+        }
+    ]
+}

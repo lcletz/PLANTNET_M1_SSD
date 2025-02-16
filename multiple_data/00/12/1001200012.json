@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Carthamus lanatus L.",
+            "id": "1357379",
+            "score": 0.85628
+        },
+        {
+            "name": "Carthamus persicus Desf. ex Willd.",
+            "id": "1502225",
+            "score": 0.00851
+        },
+        {
+            "name": "Carthamus arborescens L.",
+            "id": "1357365",
+            "score": 0.00601
+        },
+        {
+            "name": "Carthamus tinctorius L.",
+            "id": "1364165",
+            "score": 0.00455
+        },
+        {
+            "name": "Scolymus maculatus L.",
+            "id": "1355950",
+            "score": 0.00315
+        },
+        {
+            "name": "Scolymus hispanicus L.",
+            "id": "1357848",
+            "score": 0.00287
+        },
+        {
+            "name": "Centaurea ornata Willd.",
+            "id": "1362214",
+            "score": 0.0023
+        },
+        {
+            "name": "Carthamus carduncellus L.",
+            "id": "1390956",
+            "score": 0.00172
+        },
+        {
+            "name": "Centaurea solstitialis L.",
+            "id": "1355886",
+            "score": 0.00137
+        },
+        {
+            "name": "Carlina racemosa L.",
+            "id": "1357361",
+            "score": 0.00111
+        }
+    ]
+}

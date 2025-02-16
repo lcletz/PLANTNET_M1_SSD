@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Digitalis purpurea L.",
+            "id": "1364079",
+            "score": 0.81572
+        },
+        {
+            "name": "Digitalis thapsi L.",
+            "id": "1400052",
+            "score": 0.07164
+        },
+        {
+            "name": "Digitalis grandiflora Mill.",
+            "id": "1391727",
+            "score": 0.00827
+        },
+        {
+            "name": "Digitalis lutea L.",
+            "id": "1362533",
+            "score": 0.00473
+        },
+        {
+            "name": "Digitalis minor L.",
+            "id": "1646086",
+            "score": 0.00234
+        },
+        {
+            "name": "Penstemon cobaea Nutt.",
+            "id": "1435787",
+            "score": 0.00186
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Genista hirsuta Vahl",
+            "id": "1359209",
+            "score": 0.84163
+        },
+        {
+            "name": "Genista hispanica L.",
+            "id": "1392516",
+            "score": 0.03803
+        },
+        {
+            "name": "Genista tinctoria L.",
+            "id": "1392527",
+            "score": 0.02365
+        },
+        {
+            "name": "Genista tricuspidata Desf.",
+            "id": "1359223",
+            "score": 0.00179
+        },
+        {
+            "name": "Ulex parviflorus Pourr.",
+            "id": "1359548",
+            "score": 0.00169
+        },
+        {
+            "name": "Ulex minor Roth",
+            "id": "1359547",
+            "score": 0.00129
+        },
+        {
+            "name": "Genista sagittalis L.",
+            "id": "1392524",
+            "score": 0.00125
+        },
+        {
+            "name": "Genista germanica L.",
+            "id": "1392515",
+            "score": 0.00121
+        }
+    ]
+}

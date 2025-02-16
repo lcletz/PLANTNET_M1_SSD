@@ -1,0 +1,80 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Withania frutescens (L.) Pauquy",
+            "id": "1360578",
+            "score": 0.11215
+        },
+        {
+            "name": "Olea europaea L.",
+            "id": "1359676",
+            "score": 0.01635
+        },
+        {
+            "name": "Buxus sempervirens L.",
+            "id": "1356729",
+            "score": 0.0151
+        },
+        {
+            "name": "Rhamnus myrtifolia Willk.",
+            "id": "1360268",
+            "score": 0.01446
+        },
+        {
+            "name": "Lycium ferocissimum Miers",
+            "id": "1356145",
+            "score": 0.00615
+        },
+        {
+            "name": "Rhamnus lycioides L.",
+            "id": "1360267",
+            "score": 0.00403
+        },
+        {
+            "name": "Genista spartioides Spach",
+            "id": "1359218",
+            "score": 0.00365
+        },
+        {
+            "name": "Thymus vulgaris L.",
+            "id": "1356108",
+            "score": 0.00283
+        },
+        {
+            "name": "Phillyrea latifolia L.",
+            "id": "1359678",
+            "score": 0.00235
+        },
+        {
+            "name": "Buxus balearica Lam.",
+            "id": "1356728",
+            "score": 0.00228
+        },
+        {
+            "name": "Cotoneaster microphyllus Wall. ex Lindl.",
+            "id": "1397662",
+            "score": 0.0015
+        },
+        {
+            "name": "Thymus zygis L.",
+            "id": "1359051",
+            "score": 0.00148
+        },
+        {
+            "name": "Phillyrea angustifolia L.",
+            "id": "1359677",
+            "score": 0.00146
+        },
+        {
+            "name": "Telekia speciosa (Schreb.) Baumg.",
+            "id": "1396713",
+            "score": 0.00131
+        },
+        {
+            "name": "Cytisus villosus Pourr.",
+            "id": "1359182",
+            "score": 0.00112
+        }
+    ]
+}

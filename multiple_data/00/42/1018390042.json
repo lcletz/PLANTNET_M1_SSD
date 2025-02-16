@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Lamium amplexicaule L.",
+            "id": "1356111",
+            "score": 0.79753
+        },
+        {
+            "name": "Lamium hybridum Vill.",
+            "id": "1358751",
+            "score": 0.00903
+        },
+        {
+            "name": "Stachys arvensis (L.) L.",
+            "id": "1396422",
+            "score": 0.00494
+        },
+        {
+            "name": "Lamium purpureum L.",
+            "id": "1358752",
+            "score": 0.00346
+        },
+        {
+            "name": "Lamium bifidum Cirillo",
+            "id": "1358748",
+            "score": 0.00173
+        },
+        {
+            "name": "Sideritis stachydioides Willk.",
+            "id": "1563807",
+            "score": 0.00141
+        }
+    ]
+}

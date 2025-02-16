@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fuchsia magellanica Lam.",
+            "id": "1392372",
+            "score": 0.73229
+        },
+        {
+            "name": "Fuchsia × standishii J.Harrison",
+            "id": "1844241",
+            "score": 0.19484
+        },
+        {
+            "name": "Fuchsia microphylla Kunth",
+            "id": "1406309",
+            "score": 0.00203
+        },
+        {
+            "name": "Fuchsia coccinea Aiton",
+            "id": "1609845",
+            "score": 0.0016
+        },
+        {
+            "name": "Fuchsia triphylla L.",
+            "id": "1609919",
+            "score": 0.00158
+        }
+    ]
+}

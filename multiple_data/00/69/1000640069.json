@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cistus ladanifer L.",
+            "id": "1357103",
+            "score": 0.92976
+        },
+        {
+            "name": "Cistus laurifolius L.",
+            "id": "1357104",
+            "score": 0.01047
+        },
+        {
+            "name": "Cistus monspeliensis L.",
+            "id": "1357105",
+            "score": 0.00353
+        },
+        {
+            "name": "Cistus × aguilari O.E.Warb.",
+            "id": "1495399",
+            "score": 0.00178
+        },
+        {
+            "name": "Cistus libanotis L.",
+            "id": "1362281",
+            "score": 0.00132
+        }
+    ]
+}

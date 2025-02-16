@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Silene gallica L.",
+            "id": "1356595",
+            "score": 0.94946
+        },
+        {
+            "name": "Silene mutabilis L.",
+            "id": "1396287",
+            "score": 0.02007
+        },
+        {
+            "name": "Silene nocturna L.",
+            "id": "1357025",
+            "score": 0.00167
+        },
+        {
+            "name": "Silene colorata Poir.",
+            "id": "1356975",
+            "score": 0.00131
+        },
+        {
+            "name": "Silene nicaeensis All.",
+            "id": "1357023",
+            "score": 0.00116
+        }
+    ]
+}

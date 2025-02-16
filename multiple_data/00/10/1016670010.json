@@ -1,0 +1,60 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iris tuberosa L.",
+            "id": "1393305",
+            "score": 0.89222
+        },
+        {
+            "name": "Moraea mediterranea Goldblatt",
+            "id": "1363340",
+            "score": 0.01607
+        },
+        {
+            "name": "Iris xiphium L.",
+            "id": "1361548",
+            "score": 0.00449
+        },
+        {
+            "name": "Iris spuria L.",
+            "id": "1361544",
+            "score": 0.00371
+        },
+        {
+            "name": "Iris variegata L.",
+            "id": "1397946",
+            "score": 0.00328
+        },
+        {
+            "name": "Iris pseudopumila Tineo",
+            "id": "1399635",
+            "score": 0.00285
+        },
+        {
+            "name": "Iris chrysographes Dykes",
+            "id": "1556707",
+            "score": 0.00238
+        },
+        {
+            "name": "Iris orientalis Mill.",
+            "id": "1388948",
+            "score": 0.00167
+        },
+        {
+            "name": "Iris juncea Poir.",
+            "id": "1397727",
+            "score": 0.00133
+        },
+        {
+            "name": "Iris giganticaerulea Small",
+            "id": "1433290",
+            "score": 0.00121
+        },
+        {
+            "name": "Iris rosenbachiana Regel",
+            "id": "1556881",
+            "score": 0.00113
+        }
+    ]
+}

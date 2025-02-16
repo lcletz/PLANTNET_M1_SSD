@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viola tricolor L.",
+            "id": "1356215",
+            "score": 0.85538
+        },
+        {
+            "name": "Viola lutea Huds.",
+            "id": "1397161",
+            "score": 0.04048
+        },
+        {
+            "name": "Viola arvensis Murray",
+            "id": "1356214",
+            "score": 0.02622
+        },
+        {
+            "name": "Viola × wittrockiana Gams",
+            "id": "1844934",
+            "score": 0.01293
+        },
+        {
+            "name": "Viola calcarata L.",
+            "id": "1397129",
+            "score": 0.00273
+        },
+        {
+            "name": "Viola × williamsii Wittr.",
+            "id": "1844933",
+            "score": 0.00152
+        },
+        {
+            "name": "Viola orphanidis Boiss.",
+            "id": "1697394",
+            "score": 0.00132
+        }
+    ]
+}

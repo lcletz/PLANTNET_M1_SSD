@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Arnica montana L.",
+            "id": "1396472",
+            "score": 0.90944
+        },
+        {
+            "name": "Senecio doronicum (L.) L.",
+            "id": "1396191",
+            "score": 0.00681
+        },
+        {
+            "name": "Doronicum clusii (All.) Tausch",
+            "id": "1391755",
+            "score": 0.00157
+        },
+        {
+            "name": "Arnica mollis Hook.",
+            "id": "1413467",
+            "score": 0.00152
+        },
+        {
+            "name": "Arnica latifolia Bong.",
+            "id": "1413443",
+            "score": 0.0014
+        },
+        {
+            "name": "Arnica fulgens Pursh",
+            "id": "1413416",
+            "score": 0.00136
+        },
+        {
+            "name": "Arnica chamissonis Less.",
+            "id": "1413399",
+            "score": 0.00123
+        }
+    ]
+}

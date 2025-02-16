@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Festuca glauca Vill.",
+            "id": "1362620",
+            "score": 0.95552
+        },
+        {
+            "name": "Festuca cinerea Vill.",
+            "id": "1392282",
+            "score": 0.00456
+        },
+        {
+            "name": "Festuca filiformis Pourr.",
+            "id": "1362023",
+            "score": 0.00277
+        },
+        {
+            "name": "Festuca ovina L.",
+            "id": "1361281",
+            "score": 0.00227
+        },
+        {
+            "name": "Festuca amethystina L.",
+            "id": "1397384",
+            "score": 0.0018
+        },
+        {
+            "name": "Juncus inflexus L.",
+            "id": "1363329",
+            "score": 0.00137
+        }
+    ]
+}

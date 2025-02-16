@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Dioscorea communis (L.) Caddick & Wilkin",
+            "id": "1361109",
+            "score": 0.96325
+        },
+        {
+            "name": "Bryonia cretica L.",
+            "id": "1358446",
+            "score": 0.0009
+        },
+        {
+            "name": "Vitis riparia Michx.",
+            "id": "1363006",
+            "score": 0.00081
+        },
+        {
+            "name": "Vitis vinifera L.",
+            "id": "1356217",
+            "score": 0.00046
+        },
+        {
+            "name": "Bryonia alba L.",
+            "id": "1389570",
+            "score": 0.00041
+        }
+    ]
+}

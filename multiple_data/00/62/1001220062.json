@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Galium verum L.",
+            "id": "1360422",
+            "score": 0.88244
+        },
+        {
+            "name": "Galium × pomeranicum Retz.",
+            "id": "1673274",
+            "score": 0.02647
+        },
+        {
+            "name": "Galium arenarium Loisel.",
+            "id": "1392440",
+            "score": 0.00877
+        },
+        {
+            "name": "Isatis tinctoria L.",
+            "id": "1358340",
+            "score": 0.00612
+        },
+        {
+            "name": "Galium elongatum C.Presl",
+            "id": "1392458",
+            "score": 0.00365
+        }
+    ]
+}

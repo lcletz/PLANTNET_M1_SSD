@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cuscuta epithymum (L.) L.",
+            "id": "1358003",
+            "score": 0.90739
+        },
+        {
+            "name": "Cuscuta europaea L.",
+            "id": "1358004",
+            "score": 0.04238
+        },
+        {
+            "name": "Cuscuta approximata Bab.",
+            "id": "1364024",
+            "score": 0.02285
+        },
+        {
+            "name": "Cuscuta planiflora Ten.",
+            "id": "1358010",
+            "score": 0.01136
+        },
+        {
+            "name": "Cuscuta palaestina Boiss.",
+            "id": "1358009",
+            "score": 0.0018
+        }
+    ]
+}

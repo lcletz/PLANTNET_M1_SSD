@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dipsacus fullonum L.",
+            "id": "1358454",
+            "score": 0.60188
+        },
+        {
+            "name": "Dipsacus laciniatus L.",
+            "id": "1391747",
+            "score": 0.21089
+        },
+        {
+            "name": "Dipsacus sativus (L.) Honck.",
+            "id": "1391749",
+            "score": 0.07862
+        },
+        {
+            "name": "Dipsacus ferox Loisel.",
+            "id": "1358453",
+            "score": 0.00797
+        },
+        {
+            "name": "Lathyrus tremolsianus Pau",
+            "id": "1399827",
+            "score": 0.00113
+        }
+    ]
+}

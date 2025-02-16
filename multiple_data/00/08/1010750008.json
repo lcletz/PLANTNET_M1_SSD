@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phytolacca americana L.",
+            "id": "1356062",
+            "score": 0.41569
+        },
+        {
+            "name": "Nicotiana tabacum L.",
+            "id": "1356159",
+            "score": 0.40036
+        },
+        {
+            "name": "Spinacia oleracea L.",
+            "id": "1356556",
+            "score": 0.0617
+        },
+        {
+            "name": "Phytolacca acinosa Roxb.",
+            "id": "1394558",
+            "score": 0.05623
+        },
+        {
+            "name": "Atropa bella-donna L.",
+            "id": "1360548",
+            "score": 0.01131
+        },
+        {
+            "name": "Lactuca sativa L.",
+            "id": "1364172",
+            "score": 0.00304
+        },
+        {
+            "name": "Beta vulgaris L.",
+            "id": "1363199",
+            "score": 0.00178
+        },
+        {
+            "name": "Nicotiana sylvestris Speg.",
+            "id": "1398133",
+            "score": 0.00137
+        },
+        {
+            "name": "Nicotiana rustica L.",
+            "id": "1356160",
+            "score": 0.00134
+        }
+    ]
+}

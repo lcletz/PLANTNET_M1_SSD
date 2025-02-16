@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ligustrum vulgare L.",
+            "id": "1359675",
+            "score": 0.94469
+        },
+        {
+            "name": "Punica granatum L.",
+            "id": "1359616",
+            "score": 0.01896
+        },
+        {
+            "name": "Ligustrum sinense Lour.",
+            "id": "1390584",
+            "score": 0.00369
+        },
+        {
+            "name": "Lycium barbarum L.",
+            "id": "1360557",
+            "score": 0.00154
+        },
+        {
+            "name": "Phillyrea angustifolia L.",
+            "id": "1359677",
+            "score": 0.00125
+        },
+        {
+            "name": "Eugenia involucrata DC.",
+            "id": "1419554",
+            "score": 0.00123
+        },
+        {
+            "name": "Polygala myrtifolia L.",
+            "id": "1360101",
+            "score": 0.00119
+        }
+    ]
+}

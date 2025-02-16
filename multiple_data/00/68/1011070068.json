@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tradescantia virginiana L.",
+            "id": "1396824",
+            "score": 0.76696
+        },
+        {
+            "name": "Tradescantia ohiensis Raf.",
+            "id": "1414058",
+            "score": 0.05957
+        },
+        {
+            "name": "Tradescantia occidentalis (Britton) Smyth",
+            "id": "1414057",
+            "score": 0.03967
+        },
+        {
+            "name": "Commelina tuberosa L.",
+            "id": "1418468",
+            "score": 0.01197
+        },
+        {
+            "name": "Tradescantia bracteata Small ex Britton",
+            "id": "1418471",
+            "score": 0.00443
+        },
+        {
+            "name": "Tradescantia gigantea Rose",
+            "id": "1439148",
+            "score": 0.002
+        },
+        {
+            "name": "Commelina erecta L.",
+            "id": "1388941",
+            "score": 0.00104
+        }
+    ]
+}

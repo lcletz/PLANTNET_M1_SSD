@@ -1,0 +1,70 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.45197
+        },
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.36973
+        },
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.11745
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.09648
+        },
+        {
+            "name": "Morus macroura Miq.",
+            "id": "1429529",
+            "score": 0.0106
+        },
+        {
+            "name": "Alnus alnobetula (Ehrh.) K.Koch",
+            "id": "1392943",
+            "score": 0.00718
+        },
+        {
+            "name": "Vitis vulpina L.",
+            "id": "1397214",
+            "score": 0.00332
+        },
+        {
+            "name": "Broussonetia papyrifera (L.) L'Hér. ex Vent.",
+            "id": "1362912",
+            "score": 0.00215
+        },
+        {
+            "name": "Celtis occidentalis L.",
+            "id": "1397796",
+            "score": 0.00149
+        },
+        {
+            "name": "Tilia × europaea L.",
+            "id": "1595800",
+            "score": 0.00128
+        },
+        {
+            "name": "Vitis vinifera L.",
+            "id": "1356217",
+            "score": 0.00113
+        },
+        {
+            "name": "Corylus colurna L.",
+            "id": "1397579",
+            "score": 0.00105
+        },
+        {
+            "name": "Juglans regia L.",
+            "id": "1358713",
+            "score": 0.001
+        }
+    ]
+}

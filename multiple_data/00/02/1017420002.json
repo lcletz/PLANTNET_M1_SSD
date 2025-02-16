@@ -1,0 +1,455 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Potentilla argentea L.",
+            "id": "1394830",
+            "score": 0.38981
+        },
+        {
+            "name": "Potentilla reptans L.",
+            "id": "1363993",
+            "score": 0.03778
+        },
+        {
+            "name": "Dryas octopetala L.",
+            "id": "1391797",
+            "score": 0.02998
+        },
+        {
+            "name": "Potentilla verna L.",
+            "id": "1728592",
+            "score": 0.02933
+        },
+        {
+            "name": "Potentilla pedata Willd. ex Hornem.",
+            "id": "1399781",
+            "score": 0.02552
+        },
+        {
+            "name": "Potentilla pusilla Host",
+            "id": "1667816",
+            "score": 0.02247
+        },
+        {
+            "name": "Geum montanum L.",
+            "id": "1392608",
+            "score": 0.02091
+        },
+        {
+            "name": "Potentilla recta L.",
+            "id": "1360313",
+            "score": 0.01508
+        },
+        {
+            "name": "Potentilla micrantha Ramond ex DC.",
+            "id": "1360311",
+            "score": 0.01461
+        },
+        {
+            "name": "Potentilla neglecta Baumg.",
+            "id": "1394864",
+            "score": 0.01061
+        },
+        {
+            "name": "Senecio vulgaris L.",
+            "id": "1364138",
+            "score": 0.01023
+        },
+        {
+            "name": "Potentilla hirta L.",
+            "id": "1362360",
+            "score": 0.00829
+        },
+        {
+            "name": "Trifolium arvense L.",
+            "id": "1359485",
+            "score": 0.00756
+        },
+        {
+            "name": "Potentilla cinerea Chaix ex Vill.",
+            "id": "1394838",
+            "score": 0.0075
+        },
+        {
+            "name": "Potentilla crantzii (Crantz) Beck ex Fritsch",
+            "id": "1394840",
+            "score": 0.0072
+        },
+        {
+            "name": "Teucrium chamaedrys L.",
+            "id": "1358969",
+            "score": 0.00714
+        },
+        {
+            "name": "Erodium cicutarium (L.) L'Hér.",
+            "id": "1355994",
+            "score": 0.00677
+        },
+        {
+            "name": "Erodium acaule (L.) Bech. & Thell.",
+            "id": "1361805",
+            "score": 0.00638
+        },
+        {
+            "name": "Neurada procumbens L.",
+            "id": "1356231",
+            "score": 0.00504
+        },
+        {
+            "name": "Erodium botrys (Cav.) Bertol.",
+            "id": "1355991",
+            "score": 0.00503
+        },
+        {
+            "name": "Agrimonia eupatoria L.",
+            "id": "1363994",
+            "score": 0.00484
+        },
+        {
+            "name": "Anemonoides sylvestris (L.) Galasso, Banfi & Soldano",
+            "id": "1737523",
+            "score": 0.00475
+        },
+        {
+            "name": "Senecio vernalis Waldst. & Kit.",
+            "id": "1396208",
+            "score": 0.00474
+        },
+        {
+            "name": "Potentilla brauneana Hoppe ex Nestl.",
+            "id": "1741905",
+            "score": 0.00429
+        },
+        {
+            "name": "Thapsia villosa L.",
+            "id": "1360811",
+            "score": 0.00422
+        },
+        {
+            "name": "Trifolium tomentosum L.",
+            "id": "1359530",
+            "score": 0.0041
+        },
+        {
+            "name": "Medicago littoralis Rohde ex Loisel.",
+            "id": "1393770",
+            "score": 0.00397
+        },
+        {
+            "name": "Argentina anserina (L.) Rydb.",
+            "id": "1396261",
+            "score": 0.00384
+        },
+        {
+            "name": "Potentilla heptaphylla L.",
+            "id": "1394850",
+            "score": 0.00368
+        },
+        {
+            "name": "Jacobaea vulgaris Gaertn.",
+            "id": "1362040",
+            "score": 0.00355
+        },
+        {
+            "name": "Drymocallis rupestris (L.) Soják",
+            "id": "1391798",
+            "score": 0.00347
+        },
+        {
+            "name": "Potentilla anglica Laichard.",
+            "id": "1360304",
+            "score": 0.00322
+        },
+        {
+            "name": "Potentilla morefieldii Ertter",
+            "id": "1436875",
+            "score": 0.00318
+        },
+        {
+            "name": "Potentilla erecta (L.) Raeusch.",
+            "id": "1360307",
+            "score": 0.00308
+        },
+        {
+            "name": "Rubus canescens DC.",
+            "id": "1395431",
+            "score": 0.00302
+        },
+        {
+            "name": "Erodium ciconium (L.) L'Hér.",
+            "id": "1358643",
+            "score": 0.00289
+        },
+        {
+            "name": "Pimpinella saxifraga L.",
+            "id": "1394593",
+            "score": 0.00272
+        },
+        {
+            "name": "Senecio leucanthemifolius Poir.",
+            "id": "1357861",
+            "score": 0.0027
+        },
+        {
+            "name": "Potentilla pseudosericea Rydb.",
+            "id": "1436881",
+            "score": 0.00259
+        },
+        {
+            "name": "Potentilla discolor Bunge",
+            "id": "1667711",
+            "score": 0.00256
+        },
+        {
+            "name": "Cuscuta epithymum (L.) L.",
+            "id": "1358003",
+            "score": 0.00243
+        },
+        {
+            "name": "Potentilla caulescens L.",
+            "id": "1360306",
+            "score": 0.00242
+        },
+        {
+            "name": "Potentilla frigida Vill.",
+            "id": "1394847",
+            "score": 0.00241
+        },
+        {
+            "name": "Dasiphora fruticosa (L.) Rydb.",
+            "id": "1391655",
+            "score": 0.00236
+        },
+        {
+            "name": "Potentilla calabra Ten.",
+            "id": "1399006",
+            "score": 0.00233
+        },
+        {
+            "name": "Sideritis hirsuta L.",
+            "id": "1358906",
+            "score": 0.0023
+        },
+        {
+            "name": "Potentilla sterilis (L.) Garcke",
+            "id": "1394877",
+            "score": 0.00229
+        },
+        {
+            "name": "Argentina peduncularis (D.Don) Soják",
+            "id": "1729540",
+            "score": 0.00225
+        },
+        {
+            "name": "Dryas drummondii Richardson ex Hook.",
+            "id": "1411823",
+            "score": 0.00222
+        },
+        {
+            "name": "Cirsium vulgare (Savi) Ten.",
+            "id": "1355937",
+            "score": 0.00215
+        },
+        {
+            "name": "Fragaria chiloensis (L.) Mill.",
+            "id": "1408979",
+            "score": 0.00209
+        },
+        {
+            "name": "Passiflora caerulea L.",
+            "id": "1356052",
+            "score": 0.00209
+        },
+        {
+            "name": "Salvia verbenaca L.",
+            "id": "1356115",
+            "score": 0.00203
+        },
+        {
+            "name": "Marrubium vulgare L.",
+            "id": "1356123",
+            "score": 0.0019
+        },
+        {
+            "name": "Potentilla indica (Andrews) Th.Wolf",
+            "id": "1721637",
+            "score": 0.00189
+        },
+        {
+            "name": "Leucanthemum vulgare Lam.",
+            "id": "1393513",
+            "score": 0.00187
+        },
+        {
+            "name": "Bombycilaena erecta (L.) Smoljan.",
+            "id": "1357325",
+            "score": 0.00181
+        },
+        {
+            "name": "Potentilla pyrenaica Ramond ex DC.",
+            "id": "1394871",
+            "score": 0.00177
+        },
+        {
+            "name": "Helianthemum salicifolium (L.) Mill.",
+            "id": "1357157",
+            "score": 0.00174
+        },
+        {
+            "name": "Leucanthemopsis alpina (L.) Heywood",
+            "id": "1393494",
+            "score": 0.00172
+        },
+        {
+            "name": "Potentilla apennina Ten.",
+            "id": "1399008",
+            "score": 0.0017
+        },
+        {
+            "name": "Combretum micranthum G.Don",
+            "id": "1424446",
+            "score": 0.00167
+        },
+        {
+            "name": "Salvia argentea L.",
+            "id": "1358860",
+            "score": 0.00167
+        },
+        {
+            "name": "Medicago marina L.",
+            "id": "1359344",
+            "score": 0.00166
+        },
+        {
+            "name": "Cirsium arvense (L.) Scop.",
+            "id": "1355936",
+            "score": 0.0016
+        },
+        {
+            "name": "Teucrium pyrenaicum L.",
+            "id": "1362745",
+            "score": 0.0016
+        },
+        {
+            "name": "Tamarix gallica L.",
+            "id": "1364090",
+            "score": 0.00159
+        },
+        {
+            "name": "Androsace villosa L.",
+            "id": "1360143",
+            "score": 0.00158
+        },
+        {
+            "name": "Teucrium polium L.",
+            "id": "1359009",
+            "score": 0.00157
+        },
+        {
+            "name": "Psilocarphus brevissimus Nutt.",
+            "id": "1413363",
+            "score": 0.00152
+        },
+        {
+            "name": "Senecio squalidus L.",
+            "id": "1357867",
+            "score": 0.00152
+        },
+        {
+            "name": "Hieracium eriophorum St.-Amans",
+            "id": "1392904",
+            "score": 0.00148
+        },
+        {
+            "name": "Helianthemum marifolium (L.) Mill.",
+            "id": "1357144",
+            "score": 0.00147
+        },
+        {
+            "name": "Geum urbanum L.",
+            "id": "1360300",
+            "score": 0.00145
+        },
+        {
+            "name": "Verbascum pulverulentum Vill.",
+            "id": "1360539",
+            "score": 0.00144
+        },
+        {
+            "name": "Potentilla nevadensis Boiss.",
+            "id": "1398781",
+            "score": 0.00143
+        },
+        {
+            "name": "Potentilla intermedia L.",
+            "id": "1394857",
+            "score": 0.00142
+        },
+        {
+            "name": "Salvia aethiopis L.",
+            "id": "1358858",
+            "score": 0.00134
+        },
+        {
+            "name": "Anacyclus × valentinus L.",
+            "id": "1739035",
+            "score": 0.00131
+        },
+        {
+            "name": "Camphorosma monspeliaca L.",
+            "id": "1356502",
+            "score": 0.00129
+        },
+        {
+            "name": "Potentilla inclinata Vill.",
+            "id": "1394855",
+            "score": 0.00126
+        },
+        {
+            "name": "Plantago squarrosa Murray",
+            "id": "1359971",
+            "score": 0.00126
+        },
+        {
+            "name": "Gonolobus suberosus (L.) R.Br.",
+            "id": "1460839",
+            "score": 0.00126
+        },
+        {
+            "name": "Dasiphora arbuscula (D.Don) Soják",
+            "id": "1729457",
+            "score": 0.00122
+        },
+        {
+            "name": "Crataegus monogyna Jacq.",
+            "id": "1363988",
+            "score": 0.00119
+        },
+        {
+            "name": "Trifolium fragiferum L.",
+            "id": "1356278",
+            "score": 0.00119
+        },
+        {
+            "name": "Hypericum tomentosum L.",
+            "id": "1358711",
+            "score": 0.00118
+        },
+        {
+            "name": "Plantago lagopus L.",
+            "id": "1359959",
+            "score": 0.00117
+        },
+        {
+            "name": "Erodium corsicum Léman ex DC.",
+            "id": "1419102",
+            "score": 0.00117
+        },
+        {
+            "name": "Rosa spinosissima L.",
+            "id": "1360350",
+            "score": 0.00116
+        }
+    ]
+}

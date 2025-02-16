@@ -1,0 +1,265 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Lolium perenne L.",
+            "id": "1363475",
+            "score": 0.35025
+        },
+        {
+            "name": "Carex strigosa Huds.",
+            "id": "1390914",
+            "score": 0.13914
+        },
+        {
+            "name": "Carex sylvatica Huds.",
+            "id": "1363283",
+            "score": 0.12349
+        },
+        {
+            "name": "Carex pendula Huds.",
+            "id": "1361075",
+            "score": 0.10669
+        },
+        {
+            "name": "Scirpus sylvaticus L.",
+            "id": "1396099",
+            "score": 0.09519
+        },
+        {
+            "name": "Carex pseudocyperus L.",
+            "id": "1361078",
+            "score": 0.07936
+        },
+        {
+            "name": "Lolium multiflorum Lam.",
+            "id": "1363474",
+            "score": 0.0665
+        },
+        {
+            "name": "Cyperus esculentus L.",
+            "id": "1361087",
+            "score": 0.03552
+        },
+        {
+            "name": "Cyperus rotundus L.",
+            "id": "1361090",
+            "score": 0.02862
+        },
+        {
+            "name": "Lolium giganteum (L.) Darbysh.",
+            "id": "1728724",
+            "score": 0.02723
+        },
+        {
+            "name": "Carex otrubae Podp.",
+            "id": "1390879",
+            "score": 0.01792
+        },
+        {
+            "name": "Ehrharta erecta Lam.",
+            "id": "1363933",
+            "score": 0.01669
+        },
+        {
+            "name": "Poa annua L.",
+            "id": "1363455",
+            "score": 0.01218
+        },
+        {
+            "name": "Elymus repens (L.) Gould",
+            "id": "1411890",
+            "score": 0.00813
+        },
+        {
+            "name": "Lolium pratense (Huds.) Darbysh.",
+            "id": "1737440",
+            "score": 0.00754
+        },
+        {
+            "name": "Scirpus hattorianus Makino",
+            "id": "1389740",
+            "score": 0.00752
+        },
+        {
+            "name": "Glyceria fluitans (L.) R.Br.",
+            "id": "1392636",
+            "score": 0.00567
+        },
+        {
+            "name": "Cyperus odoratus L.",
+            "id": "1389282",
+            "score": 0.00535
+        },
+        {
+            "name": "Poa trivialis L.",
+            "id": "1363459",
+            "score": 0.00531
+        },
+        {
+            "name": "Lolium temulentum L.",
+            "id": "1361323",
+            "score": 0.00501
+        },
+        {
+            "name": "Lolium rigidum Gaudin",
+            "id": "1363476",
+            "score": 0.00473
+        },
+        {
+            "name": "Scirpus atrovirens Willd.",
+            "id": "1396095",
+            "score": 0.00463
+        },
+        {
+            "name": "Glyceria declinata Bréb.",
+            "id": "1361294",
+            "score": 0.00388
+        },
+        {
+            "name": "Carex olbiensis Jord.",
+            "id": "1361071",
+            "score": 0.00368
+        },
+        {
+            "name": "Polygala flavescens DC.",
+            "id": "1399360",
+            "score": 0.00328
+        },
+        {
+            "name": "Carex vulpina L.",
+            "id": "1390933",
+            "score": 0.00326
+        },
+        {
+            "name": "Luzula sylvatica (Huds.) Gaudin",
+            "id": "1397430",
+            "score": 0.0027
+        },
+        {
+            "name": "Catapodium marinum (L.) C.E.Hubb.",
+            "id": "1390966",
+            "score": 0.00266
+        },
+        {
+            "name": "Echinochloa crus-galli (L.) P.Beauv.",
+            "id": "1391823",
+            "score": 0.00261
+        },
+        {
+            "name": "Acorus calamus L.",
+            "id": "1396585",
+            "score": 0.00241
+        },
+        {
+            "name": "Carex vesicaria L.",
+            "id": "1390931",
+            "score": 0.00238
+        },
+        {
+            "name": "Brachypodium sylvaticum (Huds.) P.Beauv.",
+            "id": "1389018",
+            "score": 0.00221
+        },
+        {
+            "name": "Festuca lachenalii (C.C.Gmel.) Spenn.",
+            "id": "1742545",
+            "score": 0.00214
+        },
+        {
+            "name": "Carex laevigata Sm.",
+            "id": "1361062",
+            "score": 0.00211
+        },
+        {
+            "name": "Iris pseudacorus L.",
+            "id": "1361543",
+            "score": 0.00195
+        },
+        {
+            "name": "Zannichellia palustris L.",
+            "id": "1363359",
+            "score": 0.00191
+        },
+        {
+            "name": "Melica nutans L.",
+            "id": "1393788",
+            "score": 0.00173
+        },
+        {
+            "name": "Carex acutiformis Ehrh.",
+            "id": "1363281",
+            "score": 0.00164
+        },
+        {
+            "name": "Catapodium rigidum (L.) C.E.Hubb.",
+            "id": "1390967",
+            "score": 0.00142
+        },
+        {
+            "name": "Carex acuta L.",
+            "id": "1361042",
+            "score": 0.0014
+        },
+        {
+            "name": "Elymus caninus (L.) L.",
+            "id": "1391851",
+            "score": 0.00139
+        },
+        {
+            "name": "Scirpus radicans Schkuhr",
+            "id": "1396098",
+            "score": 0.00138
+        },
+        {
+            "name": "Carex divulsa Stokes",
+            "id": "1361050",
+            "score": 0.00137
+        },
+        {
+            "name": "Digitaria sanguinalis (L.) Scop.",
+            "id": "1363424",
+            "score": 0.00134
+        },
+        {
+            "name": "Colchicum autumnale L.",
+            "id": "1362438",
+            "score": 0.0012
+        },
+        {
+            "name": "Danthonia decumbens (L.) DC.",
+            "id": "1361233",
+            "score": 0.00119
+        },
+        {
+            "name": "Carex muricata L.",
+            "id": "1361068",
+            "score": 0.00116
+        },
+        {
+            "name": "Eragrostis ciliaris (L.) R.Br.",
+            "id": "1391998",
+            "score": 0.00111
+        },
+        {
+            "name": "Panicum dichotomiflorum Michx.",
+            "id": "1394395",
+            "score": 0.0011
+        },
+        {
+            "name": "Fallopia dumetorum (L.) Holub",
+            "id": "1392251",
+            "score": 0.00108
+        },
+        {
+            "name": "Biscutella valentina (Loefl. ex L.) Heywood",
+            "id": "1388918",
+            "score": 0.00106
+        },
+        {
+            "name": "Carex pilosa Scop.",
+            "id": "1390887",
+            "score": 0.00104
+        }
+    ]
+}

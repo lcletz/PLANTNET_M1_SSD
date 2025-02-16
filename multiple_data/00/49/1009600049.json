@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Thymus × citriodorus (Pers.) Schreb.",
+            "id": "1564513",
+            "score": 0.91148
+        },
+        {
+            "name": "Thymus vulgaris L.",
+            "id": "1356108",
+            "score": 0.00921
+        },
+        {
+            "name": "Soleirolia soleirolii (Req.) Dandy",
+            "id": "1360828",
+            "score": 0.00564
+        },
+        {
+            "name": "Thymus serpyllum L.",
+            "id": "1362246",
+            "score": 0.00136
+        },
+        {
+            "name": "Herniaria glabra L.",
+            "id": "1356871",
+            "score": 0.00121
+        }
+    ]
+}

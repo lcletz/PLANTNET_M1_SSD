@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Sedum dasyphyllum L.",
+            "id": "1358105",
+            "score": 0.96178
+        },
+        {
+            "name": "Sedum brevifolium DC.",
+            "id": "1358099",
+            "score": 0.0053
+        },
+        {
+            "name": "Sedum album L.",
+            "id": "1358095",
+            "score": 0.00496
+        },
+        {
+            "name": "Sedum anglicum Huds.",
+            "id": "1362489",
+            "score": 0.00162
+        },
+        {
+            "name": "Sedum andegavense (DC.) Desv.",
+            "id": "1358097",
+            "score": 0.00145
+        },
+        {
+            "name": "Sedum rubens L.",
+            "id": "1358132",
+            "score": 0.00105
+        }
+    ]
+}

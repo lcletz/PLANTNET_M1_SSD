@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ipomoea hederifolia L.",
+            "id": "1369421",
+            "score": 0.92055
+        },
+        {
+            "name": "Ipomoea cristulata Hallier f.",
+            "id": "1433238",
+            "score": 0.03302
+        },
+        {
+            "name": "Ipomoea rubriflora O'Donell",
+            "id": "1527750",
+            "score": 0.00324
+        },
+        {
+            "name": "Ipomoea coccinea L.",
+            "id": "1361787",
+            "score": 0.00216
+        },
+        {
+            "name": "Ipomoea quamoclit L.",
+            "id": "1364035",
+            "score": 0.00157
+        },
+        {
+            "name": "Ipomoea × multifida (Raf.) Shinners",
+            "id": "1527678",
+            "score": 0.00111
+        }
+    ]
+}

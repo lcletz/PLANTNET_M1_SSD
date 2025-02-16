@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.89332
+        },
+        {
+            "name": "Acer monspessulanum L.",
+            "id": "1356457",
+            "score": 0.026950000000000006
+        },
+        {
+            "name": "Acer × bornmuelleri Borbás",
+            "id": "1685237",
+            "score": 0.02432
+        },
+        {
+            "name": "Acer opalus Mill.",
+            "id": "1362399",
+            "score": 0.00789
+        },
+        {
+            "name": "Acer macrophyllum Pursh",
+            "id": "1412158",
+            "score": 0.00264
+        },
+        {
+            "name": "Acer pseudoplatanus L.",
+            "id": "1356460",
+            "score": 0.00147
+        },
+        {
+            "name": "Acer grandidentatum Nutt.",
+            "id": "1436412",
+            "score": 0.00112
+        }
+    ]
+}

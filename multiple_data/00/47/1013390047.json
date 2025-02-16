@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dianthus caryophyllus L.",
+            "id": "1356843",
+            "score": 0.49919
+        },
+        {
+            "name": "Dianthus chinensis L.",
+            "id": "1398495",
+            "score": 0.40673
+        },
+        {
+            "name": "Dianthus barbatus L.",
+            "id": "1397367",
+            "score": 0.05275
+        },
+        {
+            "name": "Dianthus plumarius L.",
+            "id": "1391707",
+            "score": 0.0105
+        },
+        {
+            "name": "Clarkia amoena (Lehm.) A.Nelson & J.F.Macbr.",
+            "id": "1391291",
+            "score": 0.00189
+        }
+    ]
+}

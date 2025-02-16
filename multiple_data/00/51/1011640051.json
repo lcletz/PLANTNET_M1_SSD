@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salvia officinalis L.",
+            "id": "1356118",
+            "score": 0.86829
+        },
+        {
+            "name": "Salvia fruticosa Mill.",
+            "id": "1358866",
+            "score": 0.05618
+        },
+        {
+            "name": "Salvia tomentosa Mill.",
+            "id": "1395917",
+            "score": 0.00257
+        },
+        {
+            "name": "Salvia sclarea L.",
+            "id": "1358876",
+            "score": 0.00142
+        },
+        {
+            "name": "Salvia × auriculata Mill.",
+            "id": "1562391",
+            "score": 0.00133
+        }
+    ]
+}

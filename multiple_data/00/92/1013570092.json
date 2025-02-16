@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cistus salviifolius L.",
+            "id": "1357111",
+            "score": 0.80232
+        },
+        {
+            "name": "Cistus populifolius L.",
+            "id": "1357109",
+            "score": 0.05489
+        },
+        {
+            "name": "Cistus monspeliensis L.",
+            "id": "1357105",
+            "score": 0.00712
+        },
+        {
+            "name": "Rosa arvensis Huds.",
+            "id": "1395253",
+            "score": 0.00323
+        },
+        {
+            "name": "Cistus creticus L.",
+            "id": "1357099",
+            "score": 0.00287
+        },
+        {
+            "name": "Cistus laurifolius L.",
+            "id": "1357104",
+            "score": 0.00159
+        },
+        {
+            "name": "Cistus inflatus Pourr. ex J.-P.Demoly",
+            "id": "1495413",
+            "score": 0.00145
+        },
+        {
+            "name": "Rosa agrestis Savi",
+            "id": "1360330",
+            "score": 0.00117
+        }
+    ]
+}

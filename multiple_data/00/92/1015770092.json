@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cosmos caudatus Kunth",
+            "id": "1406252",
+            "score": 0.7179
+        },
+        {
+            "name": "Cosmos bipinnatus Cav.",
+            "id": "1364120",
+            "score": 0.17941
+        },
+        {
+            "name": "Tanacetum coccineum (Willd.) Grierson",
+            "id": "1398099",
+            "score": 0.01147
+        },
+        {
+            "name": "Cosmos parviflorus (Jacq.) Pers.",
+            "id": "1441730",
+            "score": 0.00838
+        },
+        {
+            "name": "Dimorphotheca pluvialis (L.) Moench",
+            "id": "1391733",
+            "score": 0.00436
+        },
+        {
+            "name": "Dimorphotheca jucunda E.Phillips",
+            "id": "1506253",
+            "score": 0.00327
+        },
+        {
+            "name": "Senecio elegans L.",
+            "id": "1417892",
+            "score": 0.00173
+        },
+        {
+            "name": "Coreopsis rosea Nutt.",
+            "id": "1411538",
+            "score": 0.00136
+        },
+        {
+            "name": "Coreopsis tinctoria Nutt.",
+            "id": "1391351",
+            "score": 0.00131
+        },
+        {
+            "name": "Cosmos peucedanifolius Wedd.",
+            "id": "1504486",
+            "score": 0.00115
+        }
+    ]
+}

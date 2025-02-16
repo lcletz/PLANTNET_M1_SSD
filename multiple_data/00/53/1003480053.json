@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Spinacia oleracea L.",
+            "id": "1356556",
+            "score": 0.93028
+        },
+        {
+            "name": "Rumex acetosa L.",
+            "id": "1360120",
+            "score": 0.00874
+        },
+        {
+            "name": "Basella alba L.",
+            "id": "1383999",
+            "score": 0.00407
+        },
+        {
+            "name": "Cynoglossum officinale L.",
+            "id": "1391501",
+            "score": 0.00311
+        },
+        {
+            "name": "Valeriana locusta L.",
+            "id": "1722516",
+            "score": 0.00269
+        },
+        {
+            "name": "Pyrola rotundifolia L.",
+            "id": "1395001",
+            "score": 0.00251
+        },
+        {
+            "name": "Lactuca sativa L.",
+            "id": "1364172",
+            "score": 0.00248
+        },
+        {
+            "name": "Rumex arifolius All.",
+            "id": "1395646",
+            "score": 0.00181
+        },
+        {
+            "name": "Mertensia virginica (L.) Pers. ex Link",
+            "id": "1412699",
+            "score": 0.00164
+        },
+        {
+            "name": "Valeriana cornucopiae L.",
+            "id": "1743969",
+            "score": 0.00148
+        }
+    ]
+}

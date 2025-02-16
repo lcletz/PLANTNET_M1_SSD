@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Eupatorium cannabinum L.",
+            "id": "1362447",
+            "score": 0.87027
+        },
+        {
+            "name": "Ambrosia trifida L.",
+            "id": "1393743",
+            "score": 0.01244
+        },
+        {
+            "name": "Bidens tripartita L.",
+            "id": "1400144",
+            "score": 0.005
+        },
+        {
+            "name": "Eclipta prostrata (L.) L.",
+            "id": "1364146",
+            "score": 0.00316
+        },
+        {
+            "name": "Epilobium hirsutum L.",
+            "id": "1361947",
+            "score": 0.00158
+        },
+        {
+            "name": "Epilobium tetragonum L.",
+            "id": "1359688",
+            "score": 0.00139
+        }
+    ]
+}

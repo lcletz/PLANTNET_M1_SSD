@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Robinia hispida L.",
+            "id": "1395210",
+            "score": 0.39352
+        },
+        {
+            "name": "Robinia viscosa Michx. ex Vent.",
+            "id": "1742844",
+            "score": 0.35336
+        },
+        {
+            "name": "Robinia pseudoacacia L.",
+            "id": "1363698",
+            "score": 0.12256
+        },
+        {
+            "name": "Tipuana tipu (Benth.) Kuntze",
+            "id": "1389022",
+            "score": 0.0589
+        },
+        {
+            "name": "Cassia javanica L.",
+            "id": "1407791",
+            "score": 0.00404
+        },
+        {
+            "name": "Amorpha fruticosa L.",
+            "id": "1393787",
+            "score": 0.00307
+        },
+        {
+            "name": "Diphysa americana (Mill.) M.Sousa",
+            "id": "1577190",
+            "score": 0.00155
+        },
+        {
+            "name": "Pterocarpus indicus Willd.",
+            "id": "1408606",
+            "score": 0.00118
+        }
+    ]
+}

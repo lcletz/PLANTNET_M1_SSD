@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ornithopus compressus L.",
+            "id": "1359442",
+            "score": 0.94895
+        },
+        {
+            "name": "Ornithopus perpusillus L.",
+            "id": "1359443",
+            "score": 0.00526
+        },
+        {
+            "name": "Ornithopus sativus Brot.",
+            "id": "1363658",
+            "score": 0.00519
+        },
+        {
+            "name": "Lotus angustissimus L.",
+            "id": "1359288",
+            "score": 0.00405
+        },
+        {
+            "name": "Vicia hybrida L.",
+            "id": "1359562",
+            "score": 0.00118
+        },
+        {
+            "name": "Vicia sativa L.",
+            "id": "1359575",
+            "score": 0.00109
+        }
+    ]
+}

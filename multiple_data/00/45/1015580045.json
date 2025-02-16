@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Carduus nutans L.",
+            "id": "1357350",
+            "score": 0.85063
+        },
+        {
+            "name": "Carduus acanthoides L.",
+            "id": "1362653",
+            "score": 0.05649
+        },
+        {
+            "name": "Carduus nigrescens Vill.",
+            "id": "1390740",
+            "score": 0.01924
+        },
+        {
+            "name": "Carduus crispus L.",
+            "id": "1390725",
+            "score": 0.00979
+        },
+        {
+            "name": "Onopordum tauricum Willd.",
+            "id": "1394059",
+            "score": 0.00732
+        },
+        {
+            "name": "Carduus defloratus L.",
+            "id": "1397340",
+            "score": 0.00406
+        },
+        {
+            "name": "Cirsium mexicanum DC.",
+            "id": "1423555",
+            "score": 0.00117
+        }
+    ]
+}

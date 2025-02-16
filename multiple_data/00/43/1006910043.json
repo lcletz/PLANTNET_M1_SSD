@@ -1,0 +1,470 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Centaurea aspera L.",
+            "id": "1357401",
+            "score": 0.26152
+        },
+        {
+            "name": "Centaurea hyssopifolia Vahl",
+            "id": "1502614",
+            "score": 0.1952
+        },
+        {
+            "name": "Centaurea paniculata L.",
+            "id": "1362429",
+            "score": 0.13312
+        },
+        {
+            "name": "Vicia villosa Roth",
+            "id": "1359581",
+            "score": 0.0509
+        },
+        {
+            "name": "Centaurea pectinata L.",
+            "id": "1391028",
+            "score": 0.04452
+        },
+        {
+            "name": "Krameria lanceolata Torr.",
+            "id": "1433515",
+            "score": 0.03048
+        },
+        {
+            "name": "Galatella sedifolia (L.) Greuter",
+            "id": "1388802",
+            "score": 0.02718
+        },
+        {
+            "name": "Lobularia maritima (L.) Desv.",
+            "id": "1363882",
+            "score": 0.02261
+        },
+        {
+            "name": "Centaurea linifolia L.",
+            "id": "1502684",
+            "score": 0.02159
+        },
+        {
+            "name": "Linum alpinum Jacq.",
+            "id": "1393605",
+            "score": 0.01435
+        },
+        {
+            "name": "Leuzea repens (L.) D.J.N.Hind",
+            "id": "1739184",
+            "score": 0.01361
+        },
+        {
+            "name": "Artemisia dracunculus L.",
+            "id": "1362645",
+            "score": 0.0129
+        },
+        {
+            "name": "Centaurea jacea L.",
+            "id": "1362427",
+            "score": 0.01072
+        },
+        {
+            "name": "Arenaria montana L.",
+            "id": "1356804",
+            "score": 0.01068
+        },
+        {
+            "name": "Centaurea stoebe L.",
+            "id": "1391044",
+            "score": 0.01059
+        },
+        {
+            "name": "Linaria repens (L.) Mill.",
+            "id": "1393595",
+            "score": 0.01055
+        },
+        {
+            "name": "Aegilops geniculata Roth",
+            "id": "1361117",
+            "score": 0.00861
+        },
+        {
+            "name": "Leuzea conifera (L.) DC.",
+            "id": "1743327",
+            "score": 0.00853
+        },
+        {
+            "name": "Centaurea seridis L.",
+            "id": "1357453",
+            "score": 0.00852
+        },
+        {
+            "name": "Centaurea diffusa Lam.",
+            "id": "1390997",
+            "score": 0.0084
+        },
+        {
+            "name": "Centaurea nigra L.",
+            "id": "1357438",
+            "score": 0.00786
+        },
+        {
+            "name": "Centaurea decipiens Thuill.",
+            "id": "1390995",
+            "score": 0.00741
+        },
+        {
+            "name": "Vicia monantha Retz.",
+            "id": "1363673",
+            "score": 0.00709
+        },
+        {
+            "name": "Vicia cracca L.",
+            "id": "1397085",
+            "score": 0.00708
+        },
+        {
+            "name": "Gaillardia pulchella Foug.",
+            "id": "1364122",
+            "score": 0.00688
+        },
+        {
+            "name": "Helichrysum arenarium (L.) Moench",
+            "id": "1397398",
+            "score": 0.00671
+        },
+        {
+            "name": "Convolvulus cantabrica L.",
+            "id": "1357968",
+            "score": 0.00649
+        },
+        {
+            "name": "Lathyrus clymenum L.",
+            "id": "1363799",
+            "score": 0.00647
+        },
+        {
+            "name": "Centaurea sphaerocephala L.",
+            "id": "1357456",
+            "score": 0.0063
+        },
+        {
+            "name": "Linum lewisii Pursh",
+            "id": "1412508",
+            "score": 0.006
+        },
+        {
+            "name": "Phagnalon saxatile (L.) Cass.",
+            "id": "1357770",
+            "score": 0.00593
+        },
+        {
+            "name": "Cynodon dactylon (L.) Pers.",
+            "id": "1363526",
+            "score": 0.00541
+        },
+        {
+            "name": "Linum narbonense L.",
+            "id": "1359596",
+            "score": 0.00541
+        },
+        {
+            "name": "Linum perenne L.",
+            "id": "1389408",
+            "score": 0.00519
+        },
+        {
+            "name": "Helichrysum stoechas (L.) Moench",
+            "id": "1357630",
+            "score": 0.00505
+        },
+        {
+            "name": "Briza maxima L.",
+            "id": "1363440",
+            "score": 0.00494
+        },
+        {
+            "name": "Centaurea virgata Lam.",
+            "id": "1397699",
+            "score": 0.00487
+        },
+        {
+            "name": "Sonchus tenerrimus L.",
+            "id": "1364171",
+            "score": 0.00452
+        },
+        {
+            "name": "Centaurea aplolepa Moretti",
+            "id": "1397843",
+            "score": 0.00452
+        },
+        {
+            "name": "Carthamus mitissimus L.",
+            "id": "1390957",
+            "score": 0.00433
+        },
+        {
+            "name": "Centaurea resupinata Coss.",
+            "id": "1357450",
+            "score": 0.00432
+        },
+        {
+            "name": "Lathyrus pratensis L.",
+            "id": "1363803",
+            "score": 0.00428
+        },
+        {
+            "name": "Thesium humifusum DC.",
+            "id": "1362385",
+            "score": 0.00406
+        },
+        {
+            "name": "Billardiera cymosa F.Muell.",
+            "id": "1645677",
+            "score": 0.00397
+        },
+        {
+            "name": "Linum bienne Mill.",
+            "id": "1359591",
+            "score": 0.00379
+        },
+        {
+            "name": "Centaurea collina L.",
+            "id": "1397345",
+            "score": 0.00354
+        },
+        {
+            "name": "Linum suffruticosum L.",
+            "id": "1359601",
+            "score": 0.00351
+        },
+        {
+            "name": "Vicia lutea L.",
+            "id": "1359565",
+            "score": 0.0035
+        },
+        {
+            "name": "Centaurea calcitrapa L.",
+            "id": "1355884",
+            "score": 0.0035
+        },
+        {
+            "name": "Linum tenuifolium L.",
+            "id": "1393610",
+            "score": 0.00334
+        },
+        {
+            "name": "Staehelina dubia L.",
+            "id": "1357911",
+            "score": 0.00332
+        },
+        {
+            "name": "Lotus dorycnium L.",
+            "id": "1743245",
+            "score": 0.00317
+        },
+        {
+            "name": "Vicia tenuifolia Roth",
+            "id": "1359578",
+            "score": 0.00292
+        },
+        {
+            "name": "Jurinea humilis (Desf.) DC.",
+            "id": "1357670",
+            "score": 0.00291
+        },
+        {
+            "name": "Lathyrus japonicus Willd.",
+            "id": "1397423",
+            "score": 0.00286
+        },
+        {
+            "name": "Vicia benghalensis L.",
+            "id": "1363670",
+            "score": 0.00285
+        },
+        {
+            "name": "Symphyotrichum oblongifolium (Nutt.) G.L.Nesom",
+            "id": "1522212",
+            "score": 0.00258
+        },
+        {
+            "name": "Mantisalca salmantica (L.) Briq. & Cavill.",
+            "id": "1364108",
+            "score": 0.00256
+        },
+        {
+            "name": "Silene vulgaris (Moench) Garcke",
+            "id": "1357059",
+            "score": 0.00245
+        },
+        {
+            "name": "Anthyllis vulneraria L.",
+            "id": "1356330",
+            "score": 0.00241
+        },
+        {
+            "name": "Lathyrus tuberosus L.",
+            "id": "1359284",
+            "score": 0.00234
+        },
+        {
+            "name": "Ptilostemon chamaepeuce (L.) Less.",
+            "id": "1398828",
+            "score": 0.00227
+        },
+        {
+            "name": "Centaurea napifolia L.",
+            "id": "1357437",
+            "score": 0.00222
+        },
+        {
+            "name": "Vicia hirsuta (L.) Gray",
+            "id": "1363671",
+            "score": 0.00219
+        },
+        {
+            "name": "Centaurea pinnata Pau ex Vicioso",
+            "id": "1502795",
+            "score": 0.00213
+        },
+        {
+            "name": "Centaurea cyanus L.",
+            "id": "1411387",
+            "score": 0.00212
+        },
+        {
+            "name": "Osyris alba L.",
+            "id": "1364049",
+            "score": 0.00211
+        },
+        {
+            "name": "Oxytropis lambertii Pursh",
+            "id": "1412905",
+            "score": 0.00203
+        },
+        {
+            "name": "Centaurea hanryi Jord.",
+            "id": "1391007",
+            "score": 0.00201
+        },
+        {
+            "name": "Liatris cylindracea Michx.",
+            "id": "1412484",
+            "score": 0.00201
+        },
+        {
+            "name": "Astragalus monspessulanus L.",
+            "id": "1359138",
+            "score": 0.002
+        },
+        {
+            "name": "Klasea pinnatifida (Cav.) Talavera",
+            "id": "1357673",
+            "score": 0.002
+        },
+        {
+            "name": "Lathyrus filiformis (Lam.) J.Gay",
+            "id": "1393453",
+            "score": 0.00197
+        },
+        {
+            "name": "Lotus hirsutus L.",
+            "id": "1743246",
+            "score": 0.00193
+        },
+        {
+            "name": "Erigeron karvinskianus DC.",
+            "id": "1355907",
+            "score": 0.00183
+        },
+        {
+            "name": "Astragalus onobrychis L.",
+            "id": "1359139",
+            "score": 0.00182
+        },
+        {
+            "name": "Linaria vulgaris Mill.",
+            "id": "1393600",
+            "score": 0.00181
+        },
+        {
+            "name": "Centaurea melitensis L.",
+            "id": "1355885",
+            "score": 0.0018
+        },
+        {
+            "name": "Oxytropis campestris (L.) DC.",
+            "id": "1397451",
+            "score": 0.00173
+        },
+        {
+            "name": "Centaurea uniflora Turra",
+            "id": "1362433",
+            "score": 0.00172
+        },
+        {
+            "name": "Xeranthemum inapertum (L.) Mill.",
+            "id": "1357964",
+            "score": 0.00165
+        },
+        {
+            "name": "Oxytropis lapponica (Wahlenb.) J.Gay",
+            "id": "1394375",
+            "score": 0.00162
+        },
+        {
+            "name": "Lathyrus hirsutus L.",
+            "id": "1363800",
+            "score": 0.0016
+        },
+        {
+            "name": "Evolvulus helianthemifolius (Poir.) Lourteig",
+            "id": "1527394",
+            "score": 0.0016
+        },
+        {
+            "name": "Linaria supina (L.) Chaz.",
+            "id": "1362465",
+            "score": 0.00151
+        },
+        {
+            "name": "Achillea erba-rotta All.",
+            "id": "1392952",
+            "score": 0.0015
+        },
+        {
+            "name": "Linum usitatissimum L.",
+            "id": "1356040",
+            "score": 0.00148
+        },
+        {
+            "name": "Hyssopus officinalis L.",
+            "id": "1358747",
+            "score": 0.00147
+        },
+        {
+            "name": "Thesium linophyllon L.",
+            "id": "1396758",
+            "score": 0.00147
+        },
+        {
+            "name": "Harpachne schimperi Hochst. ex A.Rich.",
+            "id": "1749503",
+            "score": 0.00146
+        },
+        {
+            "name": "Linum austriacum L.",
+            "id": "1359590",
+            "score": 0.00143
+        },
+        {
+            "name": "Gaillardia pinnatifida Torr.",
+            "id": "1443818",
+            "score": 0.00141
+        },
+        {
+            "name": "Vicia tetrasperma (L.) Schreb.",
+            "id": "1359579",
+            "score": 0.00139
+        }
+    ]
+}

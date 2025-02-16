@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lythrum virgatum L.",
+            "id": "1393714",
+            "score": 0.71181
+        },
+        {
+            "name": "Lythrum salicaria L.",
+            "id": "1356023",
+            "score": 0.22183
+        },
+        {
+            "name": "Lythrum alatum Pursh",
+            "id": "1412643",
+            "score": 0.00524
+        },
+        {
+            "name": "Verbena hastata L.",
+            "id": "1398136",
+            "score": 0.00375
+        },
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.00347
+        },
+        {
+            "name": "Salvia nemorosa L.",
+            "id": "1397479",
+            "score": 0.00148
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Mentha longifolia (L.) Huds.",
+            "id": "1397438",
+            "score": 0.56397
+        },
+        {
+            "name": "Mentha spicata L.",
+            "id": "1358788",
+            "score": 0.00947
+        },
+        {
+            "name": "Mentha suaveolens Ehrh.",
+            "id": "1358789",
+            "score": 0.00402
+        },
+        {
+            "name": "Amaranthus deflexus L.",
+            "id": "1363250",
+            "score": 0.00126
+        },
+        {
+            "name": "Amaranthus retroflexus L.",
+            "id": "1356476",
+            "score": 0.00118
+        }
+    ]
+}

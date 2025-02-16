@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phillyrea angustifolia L.",
+            "id": "1359677",
+            "score": 0.72446
+        },
+        {
+            "name": "Phillyrea latifolia L.",
+            "id": "1359678",
+            "score": 0.10823
+        },
+        {
+            "name": "Euphorbia hypericifolia L.",
+            "id": "1355967",
+            "score": 0.0042
+        },
+        {
+            "name": "Ilex vomitoria Aiton",
+            "id": "1420734",
+            "score": 0.0025
+        },
+        {
+            "name": "Mystroxylon aethiopicum (Thunb.) Loes.",
+            "id": "1422555",
+            "score": 0.00191
+        },
+        {
+            "name": "Maytenus boaria Molina",
+            "id": "1423469",
+            "score": 0.00175
+        },
+        {
+            "name": "Ligustrum vulgare L.",
+            "id": "1359675",
+            "score": 0.00125
+        }
+    ]
+}

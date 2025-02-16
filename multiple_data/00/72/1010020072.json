@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Alopecurus pratensis L.",
+            "id": "1362406",
+            "score": 0.89106
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.00572
+        },
+        {
+            "name": "Phalaris coerulescens Desf.",
+            "id": "1361357",
+            "score": 0.00567
+        },
+        {
+            "name": "Alopecurus arundinaceus Poir.",
+            "id": "1361153",
+            "score": 0.00184
+        },
+        {
+            "name": "Phalaris arundinacea L.",
+            "id": "1363490",
+            "score": 0.00129
+        },
+        {
+            "name": "Hordeum bulbosum L.",
+            "id": "1361304",
+            "score": 0.00126
+        },
+        {
+            "name": "Phleum alpinum L.",
+            "id": "1362482",
+            "score": 0.00123
+        }
+    ]
+}

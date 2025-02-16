@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sorghum bicolor (L.) Moench",
+            "id": "1356240",
+            "score": 0.7711
+        },
+        {
+            "name": "Panicum miliaceum L.",
+            "id": "1363446",
+            "score": 0.06667
+        },
+        {
+            "name": "Sorghum halepense (L.) Pers.",
+            "id": "1363508",
+            "score": 0.02939
+        },
+        {
+            "name": "Zea mays L.",
+            "id": "1363500",
+            "score": 0.0061
+        },
+        {
+            "name": "Echinochloa crus-galli (L.) P.Beauv.",
+            "id": "1391823",
+            "score": 0.00124
+        },
+        {
+            "name": "Sorghum arundinaceum (Desv.) Stapf",
+            "id": "1363510",
+            "score": 0.0012
+        },
+        {
+            "name": "Phalaris arundinacea L.",
+            "id": "1363490",
+            "score": 0.00116
+        },
+        {
+            "name": "Panicum capillare L.",
+            "id": "1361351",
+            "score": 0.0011
+        }
+    ]
+}

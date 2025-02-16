@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fragaria × ananassa (Duchesne ex Weston) Duchesne ex Rozier",
+            "id": "1667445",
+            "score": 0.6522
+        },
+        {
+            "name": "Fragaria viridis Weston",
+            "id": "1397387",
+            "score": 0.09577
+        },
+        {
+            "name": "Fragaria virginiana Mill.",
+            "id": "1420364",
+            "score": 0.04473
+        },
+        {
+            "name": "Fragaria vesca L.",
+            "id": "1363991",
+            "score": 0.031
+        },
+        {
+            "name": "Angelica archangelica L.",
+            "id": "1397313",
+            "score": 0.0121
+        },
+        {
+            "name": "Comarum palustre L.",
+            "id": "1391330",
+            "score": 0.00937
+        },
+        {
+            "name": "Fragaria chiloensis (L.) Mill.",
+            "id": "1408979",
+            "score": 0.00289
+        }
+    ]
+}

@@ -1,0 +1,495 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Symphoricarpos albus (L.) S.F.Blake",
+            "id": "1397506",
+            "score": 0.18038
+        },
+        {
+            "name": "Amaranthus viridis L.",
+            "id": "1393682",
+            "score": 0.12685
+        },
+        {
+            "name": "Lonicera xylosteum L.",
+            "id": "1393639",
+            "score": 0.10627
+        },
+        {
+            "name": "Lonicera canadensis J.Bartram & W.Bartram ex Marshall",
+            "id": "1815744",
+            "score": 0.04849
+        },
+        {
+            "name": "Robinia pseudoacacia L.",
+            "id": "1363698",
+            "score": 0.04775
+        },
+        {
+            "name": "Symphoricarpos orbiculatus Moench",
+            "id": "1398555",
+            "score": 0.04121
+        },
+        {
+            "name": "Flueggea virosa (Roxb. ex Willd.) Royle",
+            "id": "1422530",
+            "score": 0.04097
+        },
+        {
+            "name": "Astragalus glycyphyllos L.",
+            "id": "1398286",
+            "score": 0.03592
+        },
+        {
+            "name": "Viscum album L.",
+            "id": "1361900",
+            "score": 0.03518
+        },
+        {
+            "name": "Lonicera caprifolium L.",
+            "id": "1393632",
+            "score": 0.02812
+        },
+        {
+            "name": "Lipandra polysperma (L.) S.Fuentes, Uotila & Borsch",
+            "id": "1389976",
+            "score": 0.0271
+        },
+        {
+            "name": "Robinia × ambigua Poir.",
+            "id": "1742845",
+            "score": 0.02266
+        },
+        {
+            "name": "Phyllanthus acidus (L.) Skeels",
+            "id": "1375965",
+            "score": 0.01997
+        },
+        {
+            "name": "Amaranthus blitum L.",
+            "id": "1356472",
+            "score": 0.01869
+        },
+        {
+            "name": "Porophyllum ruderale (Jacq.) Cass.",
+            "id": "1404689",
+            "score": 0.01656
+        },
+        {
+            "name": "Symphoricarpos mollis Nutt.",
+            "id": "1438785",
+            "score": 0.01223
+        },
+        {
+            "name": "Robinia viscosa Michx. ex Vent.",
+            "id": "1742844",
+            "score": 0.01007
+        },
+        {
+            "name": "Lonicera caerulea L.",
+            "id": "1393631",
+            "score": 0.00919
+        },
+        {
+            "name": "Amaranthus deflexus L.",
+            "id": "1363250",
+            "score": 0.00786
+        },
+        {
+            "name": "Prunella vulgaris L.",
+            "id": "1356109",
+            "score": 0.00721
+        },
+        {
+            "name": "Desmodium tortuosum (Sw.) DC.",
+            "id": "1366563",
+            "score": 0.00671
+        },
+        {
+            "name": "Lonicera tatarica L.",
+            "id": "1393638",
+            "score": 0.00665
+        },
+        {
+            "name": "Solanum leucocarpon Dunal",
+            "id": "1403590",
+            "score": 0.00663
+        },
+        {
+            "name": "Triadica sebifera (L.) Small",
+            "id": "1376366",
+            "score": 0.00642
+        },
+        {
+            "name": "Lonicera nigra L.",
+            "id": "1393635",
+            "score": 0.00626
+        },
+        {
+            "name": "Coix lacryma-jobi L.",
+            "id": "1363505",
+            "score": 0.00552
+        },
+        {
+            "name": "Symphoricarpos oreophilus A.Gray",
+            "id": "1816062",
+            "score": 0.00518
+        },
+        {
+            "name": "Desmodium canadense (L.) DC.",
+            "id": "1411723",
+            "score": 0.00508
+        },
+        {
+            "name": "Melia azedarach L.",
+            "id": "1363624",
+            "score": 0.00486
+        },
+        {
+            "name": "Impatiens noli-tangere L.",
+            "id": "1393276",
+            "score": 0.00427
+        },
+        {
+            "name": "Pyrola minor L.",
+            "id": "1395000",
+            "score": 0.0042
+        },
+        {
+            "name": "Bunchosia dwyeri Cuatrec. & Croat",
+            "id": "1591492",
+            "score": 0.00345
+        },
+        {
+            "name": "Impatiens capensis Meerb.",
+            "id": "1393274",
+            "score": 0.00335
+        },
+        {
+            "name": "Diospyros virginiana L.",
+            "id": "1389362",
+            "score": 0.00333
+        },
+        {
+            "name": "Chenopodium album L.",
+            "id": "1363173",
+            "score": 0.0033
+        },
+        {
+            "name": "Lonicera dioica L.",
+            "id": "1412565",
+            "score": 0.00325
+        },
+        {
+            "name": "Aphloia theiformis (Vahl) Benn.",
+            "id": "1382985",
+            "score": 0.00301
+        },
+        {
+            "name": "Staphylea pinnata L.",
+            "id": "1396437",
+            "score": 0.00295
+        },
+        {
+            "name": "Cotoneaster integerrimus Medik.",
+            "id": "1391411",
+            "score": 0.00288
+        },
+        {
+            "name": "Amaranthus retroflexus L.",
+            "id": "1356476",
+            "score": 0.00263
+        },
+        {
+            "name": "Phyllanthus tenellus Roxb.",
+            "id": "1356003",
+            "score": 0.00257
+        },
+        {
+            "name": "Vaccinium parvifolium Sm.",
+            "id": "1414151",
+            "score": 0.00251
+        },
+        {
+            "name": "Gaultheria pyroloides Hook.f. & Thomson ex Miq.",
+            "id": "1539572",
+            "score": 0.00251
+        },
+        {
+            "name": "Convolvulus arvensis L.",
+            "id": "1364006",
+            "score": 0.00243
+        },
+        {
+            "name": "Clitoria ternatea L.",
+            "id": "1362003",
+            "score": 0.00241
+        },
+        {
+            "name": "Juniperus communis L.",
+            "id": "1393364",
+            "score": 0.00234
+        },
+        {
+            "name": "Amorpha fruticosa L.",
+            "id": "1393787",
+            "score": 0.00228
+        },
+        {
+            "name": "Robinia hispida L.",
+            "id": "1395210",
+            "score": 0.00217
+        },
+        {
+            "name": "Convallaria majalis L.",
+            "id": "1391336",
+            "score": 0.00204
+        },
+        {
+            "name": "Aristolochia clusii Lojac.",
+            "id": "1396306",
+            "score": 0.00202
+        },
+        {
+            "name": "Vaccinium corymbosum L.",
+            "id": "1396966",
+            "score": 0.00195
+        },
+        {
+            "name": "Indigofera hirsuta L.",
+            "id": "1402841",
+            "score": 0.00185
+        },
+        {
+            "name": "Scaevola taccada (Gaertn.) Roxb.",
+            "id": "1382319",
+            "score": 0.00179
+        },
+        {
+            "name": "Reichardia picroides (L.) Roth",
+            "id": "1357815",
+            "score": 0.00178
+        },
+        {
+            "name": "Pyrola rotundifolia L.",
+            "id": "1395001",
+            "score": 0.00177
+        },
+        {
+            "name": "Corypha utan Lam.",
+            "id": "1409512",
+            "score": 0.00173
+        },
+        {
+            "name": "Raphanus raphanistrum L.",
+            "id": "1363901",
+            "score": 0.00164
+        },
+        {
+            "name": "Lonicera etrusca Santi",
+            "id": "1356784",
+            "score": 0.00161
+        },
+        {
+            "name": "Cornus sericea L.",
+            "id": "1397902",
+            "score": 0.0016
+        },
+        {
+            "name": "Spiraea douglasii Hook.",
+            "id": "1396399",
+            "score": 0.00158
+        },
+        {
+            "name": "Colutea arborescens L.",
+            "id": "1362283",
+            "score": 0.00157
+        },
+        {
+            "name": "Dirca palustris L.",
+            "id": "1411766",
+            "score": 0.00156
+        },
+        {
+            "name": "Apocynum androsaemifolium L.",
+            "id": "1398229",
+            "score": 0.00146
+        },
+        {
+            "name": "Eruca vesicaria (L.) Cav.",
+            "id": "1356328",
+            "score": 0.00144
+        },
+        {
+            "name": "Lonicera periclymenum L.",
+            "id": "1356790",
+            "score": 0.00142
+        },
+        {
+            "name": "Urera baccifera (L.) Gaudich. ex Wedd.",
+            "id": "1403654",
+            "score": 0.0014
+        },
+        {
+            "name": "Lycium barbarum L.",
+            "id": "1360557",
+            "score": 0.00134
+        },
+        {
+            "name": "Amaranthus hybridus L.",
+            "id": "1356475",
+            "score": 0.00128
+        },
+        {
+            "name": "Arctostaphylos uva-ursi (L.) Spreng.",
+            "id": "1396060",
+            "score": 0.00128
+        },
+        {
+            "name": "Vaccinium ovalifolium Sm.",
+            "id": "1414147",
+            "score": 0.00124
+        },
+        {
+            "name": "Lonicera villosa (Michx.) Schult.",
+            "id": "1412577",
+            "score": 0.00118
+        },
+        {
+            "name": "Cotoneaster zabelii C.K.Schneid.",
+            "id": "1391398",
+            "score": 0.00116
+        },
+        {
+            "name": "Heliotropium europaeum L.",
+            "id": "1363842",
+            "score": 0.00115
+        },
+        {
+            "name": "Scleria distans Poir.",
+            "id": "1401554",
+            "score": 0.00115
+        },
+        {
+            "name": "Euphorbia carniolica Jacq.",
+            "id": "1397904",
+            "score": 0.00114
+        },
+        {
+            "name": "Spiraea alba Du Roi",
+            "id": "1396390",
+            "score": 0.00111
+        },
+        {
+            "name": "Frangula alnus Mill.",
+            "id": "1360257",
+            "score": 0.00107
+        },
+        {
+            "name": "Chelidonium majus L.",
+            "id": "1359760",
+            "score": 0.00106
+        },
+        {
+            "name": "Onoclea sensibilis L.",
+            "id": "1394044",
+            "score": 0.00106
+        },
+        {
+            "name": "Sapindus saponaria L.",
+            "id": "1372764",
+            "score": 0.00104
+        },
+        {
+            "name": "Notopleura capitata C.M.Taylor",
+            "id": "1676134",
+            "score": 0.00101
+        },
+        {
+            "name": "Arctostaphylos glauca Lindl.",
+            "id": "1435573",
+            "score": 0.00099
+        },
+        {
+            "name": "Chamaemelum nobile (L.) All.",
+            "id": "1357465",
+            "score": 0.00094
+        },
+        {
+            "name": "Gaultheria procumbens L.",
+            "id": "1392504",
+            "score": 0.00093
+        },
+        {
+            "name": "Flacourtia jangomas (Lour.) Raeusch.",
+            "id": "1382989",
+            "score": 0.00092
+        },
+        {
+            "name": "Heliotropium glabrum (L.) Feuillet",
+            "id": "1820933",
+            "score": 0.00089
+        },
+        {
+            "name": "Vaccinium stamineum L.",
+            "id": "1414153",
+            "score": 0.00089
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00086
+        },
+        {
+            "name": "Cestrum nocturnum L.",
+            "id": "1380602",
+            "score": 0.00085
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.00082
+        },
+        {
+            "name": "Alchornea glandulosa Poepp.",
+            "id": "1542751",
+            "score": 0.0008
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.00075
+        },
+        {
+            "name": "Phyllanthus emblica L.",
+            "id": "1408507",
+            "score": 0.00073
+        },
+        {
+            "name": "Gypsophila elegans M.Bieb.",
+            "id": "1392676",
+            "score": 0.00072
+        },
+        {
+            "name": "Cornus alba L.",
+            "id": "1397617",
+            "score": 0.00071
+        },
+        {
+            "name": "Syzygium jambos (L.) Alston",
+            "id": "1382774",
+            "score": 0.00071
+        },
+        {
+            "name": "Rhipsalis baccifera (J.S.Muell.) Stearn",
+            "id": "1404456",
+            "score": 0.00069
+        },
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.00069
+        }
+    ]
+}

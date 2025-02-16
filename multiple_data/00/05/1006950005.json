@@ -1,0 +1,100 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Triticum aestivum L.",
+            "id": "1363483",
+            "score": 0.7862
+        },
+        {
+            "name": "Secale cereale L.",
+            "id": "1363451",
+            "score": 0.01734
+        },
+        {
+            "name": "Sorghum bicolor (L.) Moench",
+            "id": "1356240",
+            "score": 0.01272
+        },
+        {
+            "name": "Hordeum vulgare L.",
+            "id": "1363481",
+            "score": 0.01141
+        },
+        {
+            "name": "Avena sativa L.",
+            "id": "1363469",
+            "score": 0.01111
+        },
+        {
+            "name": "Leymus arenarius (L.) Hochst.",
+            "id": "1393522",
+            "score": 0.00697
+        },
+        {
+            "name": "Phalaris aquatica L.",
+            "id": "1363489",
+            "score": 0.00646
+        },
+        {
+            "name": "Panicum miliaceum L.",
+            "id": "1363446",
+            "score": 0.00473
+        },
+        {
+            "name": "Triticum timopheevii (Zhuk.) Zhuk.",
+            "id": "1656050",
+            "score": 0.00419
+        },
+        {
+            "name": "Triticum turgidum L.",
+            "id": "1363487",
+            "score": 0.004
+        },
+        {
+            "name": "× Triticosecale rimpaui (M.Graebn.) Wittm. ex A.W.Hill",
+            "id": "1738608",
+            "score": 0.00205
+        },
+        {
+            "name": "Setaria italica (L.) P.Beauv.",
+            "id": "1396251",
+            "score": 0.00197
+        },
+        {
+            "name": "Oryza sativa L.",
+            "id": "1363477",
+            "score": 0.00181
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.00142
+        },
+        {
+            "name": "Typha latifolia L.",
+            "id": "1363339",
+            "score": 0.00137
+        },
+        {
+            "name": "Zea mays L.",
+            "id": "1363500",
+            "score": 0.00129
+        },
+        {
+            "name": "Avena fatua L.",
+            "id": "1363468",
+            "score": 0.00119
+        },
+        {
+            "name": "Phalaris arundinacea L.",
+            "id": "1363490",
+            "score": 0.00112
+        },
+        {
+            "name": "Leymus cinereus (Scribn. & Merr.) Á.Löve",
+            "id": "1652343",
+            "score": 0.00101
+        }
+    ]
+}

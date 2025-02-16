@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Melilotus albus Medik.",
+            "id": "1356257",
+            "score": 0.70491
+        },
+        {
+            "name": "Melilotus altissimus Thuill.",
+            "id": "1393789",
+            "score": 0.10632
+        },
+        {
+            "name": "Melilotus indicus (L.) All.",
+            "id": "1363749",
+            "score": 0.02626
+        },
+        {
+            "name": "Melilotus officinalis (L.) Lam.",
+            "id": "1393792",
+            "score": 0.02072
+        },
+        {
+            "name": "Galega officinalis L.",
+            "id": "1359197",
+            "score": 0.0088
+        },
+        {
+            "name": "Medicago sativa L.",
+            "id": "1363732",
+            "score": 0.0012
+        }
+    ]
+}

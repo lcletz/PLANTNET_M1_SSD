@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Anchusa officinalis L.",
+            "id": "1394038",
+            "score": 0.7595
+        },
+        {
+            "name": "Anchusa azurea Mill.",
+            "id": "1363832",
+            "score": 0.09368
+        },
+        {
+            "name": "Anchusa undulata L.",
+            "id": "1356619",
+            "score": 0.02895
+        },
+        {
+            "name": "Anchusa calcarea Boiss.",
+            "id": "1356615",
+            "score": 0.02118
+        },
+        {
+            "name": "Pulmonaria longifolia (Bastard) Boreau",
+            "id": "1394983",
+            "score": 0.00595
+        },
+        {
+            "name": "Anchusa arvensis (L.) M.Bieb.",
+            "id": "1477188",
+            "score": 0.00483
+        },
+        {
+            "name": "Anchusa procera Besser ex Link",
+            "id": "1394045",
+            "score": 0.00224
+        }
+    ]
+}

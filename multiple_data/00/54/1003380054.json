@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Arabis verna (L.) R.Br.",
+            "id": "1395901",
+            "score": 0.75844
+        },
+        {
+            "name": "Arabis alpina L.",
+            "id": "1363887",
+            "score": 0.05364
+        },
+        {
+            "name": "Arabis collina Ten.",
+            "id": "1395559",
+            "score": 0.02302
+        },
+        {
+            "name": "Draba muralis L.",
+            "id": "1358264",
+            "score": 0.00599
+        },
+        {
+            "name": "Arabidopsis thaliana (L.) Heynh.",
+            "id": "1363915",
+            "score": 0.00351
+        },
+        {
+            "name": "Campanula erinus L.",
+            "id": "1362238",
+            "score": 0.00248
+        },
+        {
+            "name": "Arabis planisiliqua (Pers.) Rchb.",
+            "id": "1395772",
+            "score": 0.00121
+        },
+        {
+            "name": "Erodium malacoides (L.) L'Hér.",
+            "id": "1358654",
+            "score": 0.00104
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Dianthus hyssopifolius L.",
+            "id": "1391697",
+            "score": 0.90785
+        },
+        {
+            "name": "Dianthus superbus L.",
+            "id": "1391716",
+            "score": 0.02364
+        },
+        {
+            "name": "Dianthus monspessulanus L.",
+            "id": "1743140",
+            "score": 0.01498
+        },
+        {
+            "name": "Dianthus broteri Boiss. & Reut.",
+            "id": "1390623",
+            "score": 0.00567
+        },
+        {
+            "name": "Mantisalca salmantica (L.) Briq. & Cavill.",
+            "id": "1364108",
+            "score": 0.00313
+        }
+    ]
+}

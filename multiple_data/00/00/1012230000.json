@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rhus typhina L.",
+            "id": "1395193",
+            "score": 0.83061
+        },
+        {
+            "name": "Rhus glabra L.",
+            "id": "1397601",
+            "score": 0.0923
+        },
+        {
+            "name": "Pistacia chinensis Bunge",
+            "id": "1419331",
+            "score": 0.02125
+        },
+        {
+            "name": "Azadirachta indica A.Juss.",
+            "id": "1405342",
+            "score": 0.00406
+        },
+        {
+            "name": "Rhus coriaria L.",
+            "id": "1356570",
+            "score": 0.00314
+        },
+        {
+            "name": "Rhus copallinum L.",
+            "id": "1413464",
+            "score": 0.00309
+        },
+        {
+            "name": "Rhus potaninii Maxim.",
+            "id": "1454388",
+            "score": 0.00232
+        },
+        {
+            "name": "Gleditsia triacanthos L.",
+            "id": "1363687",
+            "score": 0.00151
+        },
+        {
+            "name": "Toxicodendron succedaneum (L.) Kuntze",
+            "id": "1419433",
+            "score": 0.00133
+        },
+        {
+            "name": "Taxodium distichum (L.) Rich.",
+            "id": "1396709",
+            "score": 0.00111
+        }
+    ]
+}

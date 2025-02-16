@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rumex sanguineus L.",
+            "id": "1395686",
+            "score": 0.83271
+        },
+        {
+            "name": "Rumex rugosus Campd.",
+            "id": "1395681",
+            "score": 0.01426
+        },
+        {
+            "name": "Hieracium venosum L.",
+            "id": "1412277",
+            "score": 0.01275
+        },
+        {
+            "name": "Beta vulgaris L.",
+            "id": "1363199",
+            "score": 0.0038
+        },
+        {
+            "name": "Rumex abyssinicus Jacq.",
+            "id": "1376960",
+            "score": 0.0027
+        },
+        {
+            "name": "Rumex obtusifolius L.",
+            "id": "1360132",
+            "score": 0.00267
+        },
+        {
+            "name": "Rumex acetosa L.",
+            "id": "1360120",
+            "score": 0.0018
+        },
+        {
+            "name": "Rumex alpinus L.",
+            "id": "1395643",
+            "score": 0.00174
+        },
+        {
+            "name": "Sarracenia purpurea L.",
+            "id": "1395935",
+            "score": 0.00139
+        },
+        {
+            "name": "Rumex crispus L.",
+            "id": "1356079",
+            "score": 0.00119
+        }
+    ]
+}

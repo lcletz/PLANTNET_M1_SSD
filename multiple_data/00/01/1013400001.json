@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Poa trivialis L.",
+            "id": "1363459",
+            "score": 0.80034
+        },
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.11183
+        },
+        {
+            "name": "Poa annua L.",
+            "id": "1363455",
+            "score": 0.02202
+        },
+        {
+            "name": "Poa compressa L.",
+            "id": "1361369",
+            "score": 0.00735
+        },
+        {
+            "name": "Agrostis stolonifera L.",
+            "id": "1356321",
+            "score": 0.00455
+        },
+        {
+            "name": "Polypogon viridis (Gouan) Breistr.",
+            "id": "1363403",
+            "score": 0.00298
+        },
+        {
+            "name": "Poa chaixii Vill.",
+            "id": "1394663",
+            "score": 0.00289
+        },
+        {
+            "name": "Lolium pratense (Huds.) Darbysh.",
+            "id": "1737440",
+            "score": 0.00234
+        },
+        {
+            "name": "Agrostis gigantea Roth",
+            "id": "1363472",
+            "score": 0.00165
+        },
+        {
+            "name": "Poa palustris L.",
+            "id": "1394677",
+            "score": 0.00139
+        }
+    ]
+}

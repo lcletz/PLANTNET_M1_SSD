@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ruta angustifolia Pers.",
+            "id": "1360443",
+            "score": 0.91906
+        },
+        {
+            "name": "Ruta chalepensis L.",
+            "id": "1364040",
+            "score": 0.03491
+        },
+        {
+            "name": "Ruta montana (L.) L.",
+            "id": "1360445",
+            "score": 0.02907
+        },
+        {
+            "name": "Ruta graveolens L.",
+            "id": "1364039",
+            "score": 0.00513
+        },
+        {
+            "name": "Scrophularia canina L.",
+            "id": "1360497",
+            "score": 0.00128
+        }
+    ]
+}

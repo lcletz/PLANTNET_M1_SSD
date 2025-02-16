@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Helianthus annuus L.",
+            "id": "1364145",
+            "score": 0.87042
+        },
+        {
+            "name": "Helianthus tuberosus L.",
+            "id": "1357617",
+            "score": 0.0194
+        },
+        {
+            "name": "Helianthus giganteus L.",
+            "id": "1389511",
+            "score": 0.01331
+        },
+        {
+            "name": "Synedrella nodiflora (L.) Gaertn.",
+            "id": "1375059",
+            "score": 0.00935
+        },
+        {
+            "name": "Galinsoga parviflora Cav.",
+            "id": "1355935",
+            "score": 0.0063
+        },
+        {
+            "name": "Helianthus petiolaris Nutt.",
+            "id": "1392722",
+            "score": 0.00242
+        },
+        {
+            "name": "Helianthus debilis Nutt.",
+            "id": "1379525",
+            "score": 0.00209
+        },
+        {
+            "name": "Galinsoga quadriradiata Ruiz & Pav.",
+            "id": "1357599",
+            "score": 0.0013
+        },
+        {
+            "name": "Stevia rebaudiana (Bertoni) Bertoni",
+            "id": "1430604",
+            "score": 0.001
+        }
+    ]
+}

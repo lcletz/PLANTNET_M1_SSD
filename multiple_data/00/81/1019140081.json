@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Verbena officinalis L.",
+            "id": "1360860",
+            "score": 0.97054
+        },
+        {
+            "name": "Verbena brasiliensis Vell.",
+            "id": "1378797",
+            "score": 0.00134
+        },
+        {
+            "name": "Verbena rigida Spreng.",
+            "id": "1356211",
+            "score": 0.00109
+        },
+        {
+            "name": "Verbena bonariensis L.",
+            "id": "1356209",
+            "score": 0.00108
+        }
+    ]
+}

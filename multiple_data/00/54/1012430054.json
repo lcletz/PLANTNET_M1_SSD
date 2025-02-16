@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tropaeolum majus L.",
+            "id": "1356229",
+            "score": 0.85374
+        },
+        {
+            "name": "Tropaeolum minus L.",
+            "id": "1398134",
+            "score": 0.06242
+        },
+        {
+            "name": "Tropaeolum peltophorum Benth.",
+            "id": "1420802",
+            "score": 0.00509
+        },
+        {
+            "name": "Jatropha podagrica Hook.",
+            "id": "1375657",
+            "score": 0.00172
+        },
+        {
+            "name": "Cocculus diversifolius DC.",
+            "id": "1441555",
+            "score": 0.00125
+        },
+        {
+            "name": "Stephania japonica (Thunb.) Miers",
+            "id": "1426912",
+            "score": 0.0011
+        }
+    ]
+}

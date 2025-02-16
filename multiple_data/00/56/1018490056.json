@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Iberis umbellata L.",
+            "id": "1363926",
+            "score": 0.88477
+        },
+        {
+            "name": "Iberis amara L.",
+            "id": "1358322",
+            "score": 0.02005
+        },
+        {
+            "name": "Iberis sempervirens L.",
+            "id": "1358335",
+            "score": 0.00396
+        },
+        {
+            "name": "Lepidium graminifolium L.",
+            "id": "1358349",
+            "score": 0.00163
+        },
+        {
+            "name": "Tripolium pannonicum (Jacq.) Dobrocz.",
+            "id": "1362648",
+            "score": 0.00143
+        },
+        {
+            "name": "Erysimum cheiranthoides L.",
+            "id": "1358289",
+            "score": 0.00118
+        },
+        {
+            "name": "Iberis linifolia L.",
+            "id": "1393268",
+            "score": 0.00101
+        }
+    ]
+}

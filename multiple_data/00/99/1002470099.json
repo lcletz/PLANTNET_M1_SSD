@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rudbeckia hirta L.",
+            "id": "1395638",
+            "score": 0.49266
+        },
+        {
+            "name": "Rudbeckia fulgida Aiton",
+            "id": "1397722",
+            "score": 0.38465
+        },
+        {
+            "name": "Rudbeckia triloba L.",
+            "id": "1413543",
+            "score": 0.00884
+        },
+        {
+            "name": "Gaillardia aristata Pursh",
+            "id": "1392412",
+            "score": 0.00598
+        },
+        {
+            "name": "Helianthus debilis Nutt.",
+            "id": "1379525",
+            "score": 0.0018
+        },
+        {
+            "name": "Helianthus annuus L.",
+            "id": "1364145",
+            "score": 0.00154
+        },
+        {
+            "name": "Encelia californica Nutt.",
+            "id": "1442895",
+            "score": 0.0015
+        },
+        {
+            "name": "Rudbeckia subtomentosa Pursh",
+            "id": "1437638",
+            "score": 0.00111
+        }
+    ]
+}

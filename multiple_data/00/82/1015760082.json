@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pinus mugo Turra",
+            "id": "1394608",
+            "score": 0.93884
+        },
+        {
+            "name": "Pinus uncinata Ramond ex DC.",
+            "id": "1701831",
+            "score": 0.03714
+        },
+        {
+            "name": "Pinus contorta Douglas ex Loudon",
+            "id": "1413085",
+            "score": 0.00721
+        },
+        {
+            "name": "Pinus banksiana Lamb.",
+            "id": "1398328",
+            "score": 0.00299
+        },
+        {
+            "name": "Pinus densiflora Siebold & Zucc.",
+            "id": "1390021",
+            "score": 0.00173
+        },
+        {
+            "name": "Pinus sylvestris L.",
+            "id": "1394617",
+            "score": 0.00108
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bellis perennis L.",
+            "id": "1357317",
+            "score": 0.69344
+        },
+        {
+            "name": "Bellis annua L.",
+            "id": "1357314",
+            "score": 0.2027
+        },
+        {
+            "name": "Bellis sylvestris Cirillo",
+            "id": "1357320",
+            "score": 0.04933
+        },
+        {
+            "name": "Bellis pappulosa Boiss. ex DC.",
+            "id": "1357316",
+            "score": 0.00283
+        },
+        {
+            "name": "Erigeron caucasicus Steven",
+            "id": "1507124",
+            "score": 0.00115
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Clinopodium grandiflorum (L.) Kuntze",
+            "id": "1391305",
+            "score": 0.89364
+        },
+        {
+            "name": "Melissa officinalis L.",
+            "id": "1358784",
+            "score": 0.00351
+        },
+        {
+            "name": "Clinopodium menthifolium (Host) Merino",
+            "id": "1722403",
+            "score": 0.00171
+        },
+        {
+            "name": "Clinopodium vulgare L.",
+            "id": "1358742",
+            "score": 0.00139
+        },
+        {
+            "name": "Clinopodium nepeta (L.) Kuntze",
+            "id": "1391306",
+            "score": 0.00138
+        },
+        {
+            "name": "Ballota nigra L.",
+            "id": "1358722",
+            "score": 0.00125
+        }
+    ]
+}

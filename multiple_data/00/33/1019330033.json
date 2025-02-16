@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Glaucium flavum Crantz",
+            "id": "1359804",
+            "score": 0.90826
+        },
+        {
+            "name": "Glaucium corniculatum (L.) Curtis",
+            "id": "1419838",
+            "score": 0.00912
+        },
+        {
+            "name": "Dicranostigma leptopodum (Maxim.) Fedde",
+            "id": "1639631",
+            "score": 0.00456
+        },
+        {
+            "name": "Papaver alpinum L.",
+            "id": "1394399",
+            "score": 0.00298
+        },
+        {
+            "name": "Glaucium fimbrilligerum Boiss.",
+            "id": "1639663",
+            "score": 0.00179
+        },
+        {
+            "name": "Eschscholzia californica Cham.",
+            "id": "1363125",
+            "score": 0.00108
+        },
+        {
+            "name": "Papaver cambricum L.",
+            "id": "1419850",
+            "score": 0.00106
+        }
+    ]
+}

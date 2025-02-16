@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Brassica rapa L.",
+            "id": "1363906",
+            "score": 0.51313
+        },
+        {
+            "name": "Brassica napus L.",
+            "id": "1363908",
+            "score": 0.32918
+        },
+        {
+            "name": "Brassica montana Pourr.",
+            "id": "1389320",
+            "score": 0.046
+        },
+        {
+            "name": "Brassica juncea (L.) Czern.",
+            "id": "1363904",
+            "score": 0.00876
+        },
+        {
+            "name": "Brassica oleracea L.",
+            "id": "1363909",
+            "score": 0.00802
+        },
+        {
+            "name": "Brassica fruticulosa Cirillo",
+            "id": "1358196",
+            "score": 0.00445
+        },
+        {
+            "name": "Sisymbrium loeselii L.",
+            "id": "1396308",
+            "score": 0.00118
+        },
+        {
+            "name": "Rhamphospermum nigrum (L.) Al-Shehbaz",
+            "id": "1737676",
+            "score": 0.00117
+        },
+        {
+            "name": "Erysimum cheiranthoides L.",
+            "id": "1358289",
+            "score": 0.00105
+        }
+    ]
+}

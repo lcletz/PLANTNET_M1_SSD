@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Lonicera periclymenum L.",
+            "id": "1356790",
+            "score": 0.51275
+        },
+        {
+            "name": "Lonicera etrusca Santi",
+            "id": "1356784",
+            "score": 0.22267
+        },
+        {
+            "name": "Lonicera caprifolium L.",
+            "id": "1393632",
+            "score": 0.20316
+        },
+        {
+            "name": "Lonicera japonica Thunb.",
+            "id": "1356786",
+            "score": 0.00718
+        },
+        {
+            "name": "Lonicera implexa Aiton",
+            "id": "1356785",
+            "score": 0.00324
+        },
+        {
+            "name": "Lonicera splendida Boiss.",
+            "id": "1491445",
+            "score": 0.00246
+        }
+    ]
+}

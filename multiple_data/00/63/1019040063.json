@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Lythrum virgatum L.",
+            "id": "1393714",
+            "score": 0.35839
+        },
+        {
+            "name": "Lythrum salicaria L.",
+            "id": "1356023",
+            "score": 0.27564
+        },
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.04263
+        },
+        {
+            "name": "Lythrum hyssopifolia L.",
+            "id": "1356024",
+            "score": 0.00596
+        },
+        {
+            "name": "Lythrum junceum Banks & Sol.",
+            "id": "1359612",
+            "score": 0.00421
+        },
+        {
+            "name": "Stachys sylvatica L.",
+            "id": "1358950",
+            "score": 0.0035
+        }
+    ]
+}

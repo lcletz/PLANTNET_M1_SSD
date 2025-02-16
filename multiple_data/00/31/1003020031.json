@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pinus sylvestris L.",
+            "id": "1394617",
+            "score": 0.88798
+        },
+        {
+            "name": "Pinus pinaster Aiton",
+            "id": "1394611",
+            "score": 0.01252
+        },
+        {
+            "name": "Pinus strobus L.",
+            "id": "1394616",
+            "score": 0.0123
+        },
+        {
+            "name": "Pinus nigra J.F.Arnold",
+            "id": "1419915",
+            "score": 0.01227
+        },
+        {
+            "name": "Pinus resinosa Aiton",
+            "id": "1390041",
+            "score": 0.00904
+        },
+        {
+            "name": "Pinus mugo Turra",
+            "id": "1394608",
+            "score": 0.0066
+        },
+        {
+            "name": "Pinus cembra L.",
+            "id": "1394605",
+            "score": 0.0058
+        },
+        {
+            "name": "Pinus halepensis Mill.",
+            "id": "1397460",
+            "score": 0.0046
+        },
+        {
+            "name": "Pinus densiflora Siebold & Zucc.",
+            "id": "1390021",
+            "score": 0.00309
+        },
+        {
+            "name": "Pinus pinea L.",
+            "id": "1394612",
+            "score": 0.00221
+        },
+        {
+            "name": "Pinus parviflora Siebold & Zucc.",
+            "id": "1398281",
+            "score": 0.00209
+        },
+        {
+            "name": "Pinus bungeana Zucc. ex Endl.",
+            "id": "1390017",
+            "score": 0.00111
+        }
+    ]
+}

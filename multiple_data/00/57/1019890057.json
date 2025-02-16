@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Saponaria officinalis L.",
+            "id": "1356803",
+            "score": 0.87997
+        },
+        {
+            "name": "Silene noctiflora L.",
+            "id": "1363341",
+            "score": 0.00571
+        },
+        {
+            "name": "Saponaria caespitosa DC.",
+            "id": "1395928",
+            "score": 0.00473
+        },
+        {
+            "name": "Dianthus barbatus L.",
+            "id": "1397367",
+            "score": 0.00252
+        },
+        {
+            "name": "Atocion armeria (L.) Raf.",
+            "id": "1398690",
+            "score": 0.00187
+        },
+        {
+            "name": "Saponaria sicula Raf.",
+            "id": "1356946",
+            "score": 0.00167
+        },
+        {
+            "name": "Silene dichotoma Ehrh.",
+            "id": "1356984",
+            "score": 0.00113
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viburnum rugosum Pers.",
+            "id": "1722512",
+            "score": 0.71587
+        },
+        {
+            "name": "Viburnum tinus L.",
+            "id": "1356793",
+            "score": 0.2403
+        },
+        {
+            "name": "Viburnum nudum L.",
+            "id": "1414188",
+            "score": 0.00704
+        },
+        {
+            "name": "Viburnum davidi Franch.",
+            "id": "1774594",
+            "score": 0.00639
+        },
+        {
+            "name": "Lonicera acuminata Wall.",
+            "id": "1429199",
+            "score": 0.00115
+        }
+    ]
+}

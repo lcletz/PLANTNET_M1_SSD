@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Veronica serpyllifolia L.",
+            "id": "1364066",
+            "score": 0.98425
+        },
+        {
+            "name": "Veronica verna L.",
+            "id": "1359988",
+            "score": 0.00603
+        },
+        {
+            "name": "Veronica officinalis L.",
+            "id": "1364068",
+            "score": 0.00336
+        },
+        {
+            "name": "Veronica arvensis L.",
+            "id": "1364063",
+            "score": 0.00111
+        }
+    ]
+}

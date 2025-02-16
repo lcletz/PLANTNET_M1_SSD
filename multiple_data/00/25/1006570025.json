@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Glechoma hederacea L.",
+            "id": "1358746",
+            "score": 0.9028
+        },
+        {
+            "name": "Glechoma hirsuta Waldst. & Kit.",
+            "id": "1392624",
+            "score": 0.00475
+        },
+        {
+            "name": "Lamium amplexicaule L.",
+            "id": "1356111",
+            "score": 0.0045
+        },
+        {
+            "name": "Lamium hybridum Vill.",
+            "id": "1358751",
+            "score": 0.00392
+        },
+        {
+            "name": "Ajuga pyramidalis L.",
+            "id": "1389405",
+            "score": 0.00262
+        },
+        {
+            "name": "Lamium purpureum L.",
+            "id": "1358752",
+            "score": 0.00178
+        },
+        {
+            "name": "Hydrocotyle sibthorpioides Lam.",
+            "id": "1384659",
+            "score": 0.00125
+        }
+    ]
+}

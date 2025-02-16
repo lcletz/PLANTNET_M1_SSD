@@ -1,0 +1,20 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Cornus sanguinea L.",
+            "id": "1397356",
+            "score": 0.81278
+        },
+        {
+            "name": "Rhamnus cathartica L.",
+            "id": "1360262",
+            "score": 0.00835
+        },
+        {
+            "name": "Cornus mas L.",
+            "id": "1391354",
+            "score": 0.0016
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Smyrnium olusatrum L.",
+            "id": "1360801",
+            "score": 0.95248
+        },
+        {
+            "name": "Apium graveolens L.",
+            "id": "1363218",
+            "score": 0.00598
+        },
+        {
+            "name": "Heracleum sibiricum L.",
+            "id": "1392757",
+            "score": 0.00232
+        },
+        {
+            "name": "Smyrnium perfoliatum L.",
+            "id": "1360802",
+            "score": 0.00169
+        },
+        {
+            "name": "Pastinaca sativa L.",
+            "id": "1363226",
+            "score": 0.00126
+        }
+    ]
+}

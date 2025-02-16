@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ranunculus auricomus L.",
+            "id": "1395053",
+            "score": 0.97009
+        },
+        {
+            "name": "Ranunculus acris L.",
+            "id": "1360187",
+            "score": 0.00944
+        },
+        {
+            "name": "Ranunculus lanuginosus L.",
+            "id": "1395100",
+            "score": 0.00761
+        },
+        {
+            "name": "Ranunculus cassubicus L.",
+            "id": "1395069",
+            "score": 0.00514
+        },
+        {
+            "name": "Ranunculus arvensis L.",
+            "id": "1360188",
+            "score": 0.00352
+        },
+        {
+            "name": "Ranunculus repens L.",
+            "id": "1360222",
+            "score": 0.00342
+        },
+        {
+            "name": "Ranunculus bulbosus L.",
+            "id": "1360193",
+            "score": 0.00174
+        },
+        {
+            "name": "Ranunculus sceleratus L.",
+            "id": "1363974",
+            "score": 0.00113
+        },
+        {
+            "name": "Ranunculus abortivus L.",
+            "id": "1413411",
+            "score": 0.00111
+        },
+        {
+            "name": "Ranunculus fascicularis Muhl. ex Bigelow",
+            "id": "1413420",
+            "score": 0.00096
+        }
+    ]
+}

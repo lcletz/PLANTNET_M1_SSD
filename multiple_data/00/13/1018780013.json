@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Stachys sylvatica L.",
+            "id": "1358950",
+            "score": 0.93572
+        },
+        {
+            "name": "Stachys alpina L.",
+            "id": "1397502",
+            "score": 0.16195
+        },
+        {
+            "name": "Stachys heraclea All.",
+            "id": "1396430",
+            "score": 0.02327
+        },
+        {
+            "name": "Melittis melissophyllum L.",
+            "id": "1397437",
+            "score": 0.01089
+        },
+        {
+            "name": "Melissa officinalis L.",
+            "id": "1358784",
+            "score": 0.00436
+        },
+        {
+            "name": "Lamium galeobdolon (L.) L.",
+            "id": "1361823",
+            "score": 0.00398
+        },
+        {
+            "name": "Teucrium scorodonia L.",
+            "id": "1359020",
+            "score": 0.00286
+        },
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.00128
+        }
+    ]
+}

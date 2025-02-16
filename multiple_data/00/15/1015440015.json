@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rhamnus cathartica L.",
+            "id": "1360262",
+            "score": 0.84389
+        },
+        {
+            "name": "Rhamnus utilis Decne.",
+            "id": "1437231",
+            "score": 0.00802
+        },
+        {
+            "name": "Rhamnus saxatilis Jacq.",
+            "id": "1395158",
+            "score": 0.00745
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.00304
+        },
+        {
+            "name": "Alnus cordata (Loisel.) Duby",
+            "id": "1397307",
+            "score": 0.00139
+        },
+        {
+            "name": "Malus baccata (L.) Borkh.",
+            "id": "1393736",
+            "score": 0.00112
+        },
+        {
+            "name": "Rhamnus davurica Pall.",
+            "id": "1413453",
+            "score": 0.00109
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lactuca muralis (L.) Gaertn.",
+            "id": "1357677",
+            "score": 0.87788
+        },
+        {
+            "name": "Lactuca viminea (L.) J.Presl & C.Presl",
+            "id": "1393418",
+            "score": 0.01056
+        },
+        {
+            "name": "Sisymbrium officinale (L.) Scop.",
+            "id": "1363897",
+            "score": 0.0036
+        },
+        {
+            "name": "Sonchus tenerrimus L.",
+            "id": "1364171",
+            "score": 0.00166
+        },
+        {
+            "name": "Lapsana communis L.",
+            "id": "1364164",
+            "score": 0.00156
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Taxus cuspidata Siebold & Zucc.",
+            "id": "1390008",
+            "score": 0.747
+        },
+        {
+            "name": "Taxus canadensis Marshall",
+            "id": "1390006",
+            "score": 0.13132
+        },
+        {
+            "name": "Taxus × media Rehder",
+            "id": "1844895",
+            "score": 0.06798
+        },
+        {
+            "name": "Taxus baccata L.",
+            "id": "1396710",
+            "score": 0.01537
+        },
+        {
+            "name": "Saxegothaea conspicua Lindl.",
+            "id": "1388981",
+            "score": 0.009
+        },
+        {
+            "name": "Podocarpus totara G.Benn. ex D.Don",
+            "id": "1420127",
+            "score": 0.00811
+        },
+        {
+            "name": "Taxus brevifolia Nutt.",
+            "id": "1388847",
+            "score": 0.00177
+        },
+        {
+            "name": "Pseudotaxus chienii (W.C.Cheng) W.C.Cheng",
+            "id": "1388984",
+            "score": 0.00171
+        }
+    ]
+}

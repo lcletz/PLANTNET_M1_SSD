@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salvia officinalis L.",
+            "id": "1356118",
+            "score": 0.8681
+        },
+        {
+            "name": "Salvia fruticosa Mill.",
+            "id": "1358866",
+            "score": 0.091
+        },
+        {
+            "name": "Stachys cretica L.",
+            "id": "1396426",
+            "score": 0.00533
+        },
+        {
+            "name": "Stachys germanica L.",
+            "id": "1358939",
+            "score": 0.00406
+        },
+        {
+            "name": "Phlomis lychnitis L.",
+            "id": "1394527",
+            "score": 0.00182
+        }
+    ]
+}

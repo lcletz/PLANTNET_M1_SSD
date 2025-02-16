@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Physalis peruviana L.",
+            "id": "1356153",
+            "score": 0.66792
+        },
+        {
+            "name": "Physalis heterophylla Nees",
+            "id": "1413066",
+            "score": 0.11242
+        },
+        {
+            "name": "Physalis pubescens L.",
+            "id": "1356155",
+            "score": 0.10091
+        },
+        {
+            "name": "Alkekengi officinarum Moench",
+            "id": "1738735",
+            "score": 0.00546
+        },
+        {
+            "name": "Solanum americanum Mill.",
+            "id": "1360564",
+            "score": 0.00336
+        },
+        {
+            "name": "Solanum torvum Sw.",
+            "id": "1377910",
+            "score": 0.00249
+        },
+        {
+            "name": "Solanum chenopodioides Lam.",
+            "id": "1356162",
+            "score": 0.00132
+        },
+        {
+            "name": "Arctium minus (Hill) Bernh.",
+            "id": "1357244",
+            "score": 0.00114
+        },
+        {
+            "name": "Solanum nigrum L.",
+            "id": "1356167",
+            "score": 0.00112
+        },
+        {
+            "name": "Arctium lappa L.",
+            "id": "1396002",
+            "score": 0.00102
+        }
+    ]
+}

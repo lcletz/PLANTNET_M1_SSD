@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Agrimonia eupatoria L.",
+            "id": "1363994",
+            "score": 0.88013
+        },
+        {
+            "name": "Erigeron strigosus Muhl. ex Willd.",
+            "id": "1411968",
+            "score": 0.84559
+        },
+        {
+            "name": "Agrimonia procera Wallr.",
+            "id": "1389589",
+            "score": 0.02857
+        },
+        {
+            "name": "Erigeron philadelphicus L.",
+            "id": "1392052",
+            "score": 0.01477
+        },
+        {
+            "name": "Erigeron annuus (L.) Desf",
+            "id": "1737555",
+            "score": 0.00547
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Plumbago auriculata Lam.",
+            "id": "1363960",
+            "score": 0.9175
+        },
+        {
+            "name": "Plumbago europaea L.",
+            "id": "1360092",
+            "score": 0.00664
+        },
+        {
+            "name": "Dodonaea viscosa Jacq.",
+            "id": "1403445",
+            "score": 0.00247
+        },
+        {
+            "name": "Plumbago zeylanica L.",
+            "id": "1363961",
+            "score": 0.00234
+        },
+        {
+            "name": "Searsia crenulata (A.Rich.) Moffett",
+            "id": "1748469",
+            "score": 0.00191
+        }
+    ]
+}

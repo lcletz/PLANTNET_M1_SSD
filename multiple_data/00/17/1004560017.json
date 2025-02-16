@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Suaeda vera Forssk. ex J.F.Gmel.",
+            "id": "1397505",
+            "score": 0.95792
+        },
+        {
+            "name": "Suaeda maritima (L.) Dumort.",
+            "id": "1363165",
+            "score": 0.00457
+        },
+        {
+            "name": "Empetrum nigrum L.",
+            "id": "1391868",
+            "score": 0.00212
+        },
+        {
+            "name": "Erica scoparia L.",
+            "id": "1358511",
+            "score": 0.002
+        },
+        {
+            "name": "Thymus vulgaris L.",
+            "id": "1356108",
+            "score": 0.00169
+        },
+        {
+            "name": "Limbarda crithmoides (L.) Dumort.",
+            "id": "1357705",
+            "score": 0.00124
+        }
+    ]
+}

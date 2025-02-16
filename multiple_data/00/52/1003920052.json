@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Coriandrum sativum L.",
+            "id": "1363224",
+            "score": 0.93423
+        },
+        {
+            "name": "Apium graveolens L.",
+            "id": "1363218",
+            "score": 0.01369
+        },
+        {
+            "name": "Petroselinum crispum (Mill.) Fuss",
+            "id": "1363214",
+            "score": 0.0044
+        },
+        {
+            "name": "Ptychotis saxifraga (L.) Loret & Barrandon",
+            "id": "1394971",
+            "score": 0.00186
+        },
+        {
+            "name": "Anemone coronaria L.",
+            "id": "1360153",
+            "score": 0.00161
+        }
+    ]
+}

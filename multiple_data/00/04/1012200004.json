@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Geum sylvaticum Pourr.",
+            "id": "1360299",
+            "score": 0.78315
+        },
+        {
+            "name": "Geum urbanum L.",
+            "id": "1360300",
+            "score": 0.19205
+        },
+        {
+            "name": "Geum macrophyllum Willd.",
+            "id": "1398509",
+            "score": 0.19045
+        },
+        {
+            "name": "Geum aleppicum Jacq.",
+            "id": "1412165",
+            "score": 0.00603
+        },
+        {
+            "name": "Geum rivale L.",
+            "id": "1392614",
+            "score": 0.00474
+        },
+        {
+            "name": "Geum virginianum L.",
+            "id": "1412174",
+            "score": 0.00282
+        },
+        {
+            "name": "Geum heterocarpum Boiss.",
+            "id": "1360298",
+            "score": 0.00167
+        },
+        {
+            "name": "Geum coccineum Sm.",
+            "id": "1398510",
+            "score": 0.00155
+        },
+        {
+            "name": "Geum pyrenaicum Mill.",
+            "id": "1392611",
+            "score": 0.0015
+        },
+        {
+            "name": "Geum canadense Jacq.",
+            "id": "1412167",
+            "score": 0.00103
+        }
+    ]
+}

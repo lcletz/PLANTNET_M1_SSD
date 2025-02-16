@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Allium sphaerocephalon L.",
+            "id": "1392805",
+            "score": 0.5234
+        },
+        {
+            "name": "Allium rotundum L.",
+            "id": "1360932",
+            "score": 0.31829
+        },
+        {
+            "name": "Allium vineale L.",
+            "id": "1360945",
+            "score": 0.05969
+        },
+        {
+            "name": "Allium atroviolaceum Boiss.",
+            "id": "1397818",
+            "score": 0.04253
+        },
+        {
+            "name": "Allium lineare L.",
+            "id": "1392651",
+            "score": 0.00693
+        },
+        {
+            "name": "Allium ampeloprasum L.",
+            "id": "1358134",
+            "score": 0.00469
+        },
+        {
+            "name": "Allium lusitanicum Lam.",
+            "id": "1392657",
+            "score": 0.00108
+        }
+    ]
+}

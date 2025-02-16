@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Verbena officinalis L.",
+            "id": "1360860",
+            "score": 0.93106
+        },
+        {
+            "name": "Verbena halei Small",
+            "id": "1439504",
+            "score": 0.00947
+        },
+        {
+            "name": "Verbena brasiliensis Vell.",
+            "id": "1378797",
+            "score": 0.00434
+        },
+        {
+            "name": "Verbena litoralis Kunth",
+            "id": "1398545",
+            "score": 0.00261
+        },
+        {
+            "name": "Verbena hastata L.",
+            "id": "1398136",
+            "score": 0.00203
+        },
+        {
+            "name": "Verbena lasiostachys Link",
+            "id": "1439505",
+            "score": 0.00172
+        }
+    ]
+}

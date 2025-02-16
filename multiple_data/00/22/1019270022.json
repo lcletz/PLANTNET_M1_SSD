@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Portulaca oleracea L.",
+            "id": "1360141",
+            "score": 0.86906
+        },
+        {
+            "name": "Portulaca trituberculata Danin, Domina & Raimondo",
+            "id": "1362831",
+            "score": 0.00339
+        },
+        {
+            "name": "Lythrum portula (L.) D.A.Webb",
+            "id": "1393710",
+            "score": 0.00328
+        },
+        {
+            "name": "Bacopa monnieri (L.) Wettst.",
+            "id": "1403533",
+            "score": 0.00116
+        },
+        {
+            "name": "Crassula multicava Lem.",
+            "id": "1363618",
+            "score": 0.00116
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Silene uniflora Roth",
+            "id": "1396296",
+            "score": 0.88534
+        },
+        {
+            "name": "Silene vulgaris (Moench) Garcke",
+            "id": "1357059",
+            "score": 0.02406
+        },
+        {
+            "name": "Silene saxifraga L.",
+            "id": "1396295",
+            "score": 0.00166
+        },
+        {
+            "name": "Silene zawadzkii Herbich",
+            "id": "1493703",
+            "score": 0.00136
+        },
+        {
+            "name": "Dianthus plumarius L.",
+            "id": "1391707",
+            "score": 0.00107
+        }
+    ]
+}

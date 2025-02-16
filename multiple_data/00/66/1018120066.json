@@ -1,0 +1,95 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ranunculus lanuginosus L.",
+            "id": "1395100",
+            "score": 0.36915
+        },
+        {
+            "name": "Ranunculus macrophyllus Desf.",
+            "id": "1360208",
+            "score": 0.31531
+        },
+        {
+            "name": "Ranunculus sardous Crantz",
+            "id": "1360223",
+            "score": 0.06469
+        },
+        {
+            "name": "Ranunculus acris L.",
+            "id": "1360187",
+            "score": 0.04243
+        },
+        {
+            "name": "Ranunculus montanus Willd.",
+            "id": "1362363",
+            "score": 0.03756
+        },
+        {
+            "name": "Ranunculus auricomus L.",
+            "id": "1395053",
+            "score": 0.03361
+        },
+        {
+            "name": "Ranunculus repens L.",
+            "id": "1360222",
+            "score": 0.01229
+        },
+        {
+            "name": "Ranunculus paludosus Poir.",
+            "id": "1360217",
+            "score": 0.00877
+        },
+        {
+            "name": "Ranunculus tuberosus Lapeyr.",
+            "id": "1395134",
+            "score": 0.00869
+        },
+        {
+            "name": "Ranunculus arvensis L.",
+            "id": "1360188",
+            "score": 0.00818
+        },
+        {
+            "name": "Ranunculus bulbosus L.",
+            "id": "1360193",
+            "score": 0.00788
+        },
+        {
+            "name": "Ranunculus adoneus A.Gray",
+            "id": "1816084",
+            "score": 0.00627
+        },
+        {
+            "name": "Potentilla aurea L.",
+            "id": "1397466",
+            "score": 0.00543
+        },
+        {
+            "name": "Ranunculus polyanthemos L.",
+            "id": "1395117",
+            "score": 0.00492
+        },
+        {
+            "name": "Ranunculus flammula L.",
+            "id": "1360203",
+            "score": 0.0025
+        },
+        {
+            "name": "Ranunculus multifidus Forssk.",
+            "id": "1370704",
+            "score": 0.00214
+        },
+        {
+            "name": "Ranunculus granatensis Boiss.",
+            "id": "1664494",
+            "score": 0.00122
+        },
+        {
+            "name": "Ranunculus gramineus L.",
+            "id": "1360204",
+            "score": 0.00107
+        }
+    ]
+}

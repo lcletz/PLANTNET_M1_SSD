@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Allium vineale L.",
+            "id": "1360945",
+            "score": 0.9498
+        },
+        {
+            "name": "Allium oleraceum L.",
+            "id": "1392704",
+            "score": 0.00769
+        },
+        {
+            "name": "Allium sativum L.",
+            "id": "1358126",
+            "score": 0.00678
+        },
+        {
+            "name": "Allium scorodoprasum L.",
+            "id": "1360935",
+            "score": 0.00576
+        },
+        {
+            "name": "Allium sphaerocephalon L.",
+            "id": "1392805",
+            "score": 0.00256
+        }
+    ]
+}

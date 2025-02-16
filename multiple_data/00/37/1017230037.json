@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lonicera tatarica L.",
+            "id": "1393638",
+            "score": 0.95038
+        },
+        {
+            "name": "Lonicera caprifolium L.",
+            "id": "1393632",
+            "score": 0.00794
+        },
+        {
+            "name": "Lonicera xylosteum L.",
+            "id": "1393639",
+            "score": 0.00286
+        },
+        {
+            "name": "Lonicera etrusca Santi",
+            "id": "1356784",
+            "score": 0.00275
+        },
+        {
+            "name": "Lonicera maackii (Rupr.) Maxim.",
+            "id": "1418392",
+            "score": 0.00256
+        },
+        {
+            "name": "Lonicera sempervirens L.",
+            "id": "1393629",
+            "score": 0.00117
+        }
+    ]
+}

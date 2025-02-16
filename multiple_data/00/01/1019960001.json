@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Amaryllis belladonna L.",
+            "id": "1361418",
+            "score": 0.94908
+        },
+        {
+            "name": "Lilium candidum L.",
+            "id": "1361623",
+            "score": 0.00534
+        },
+        {
+            "name": "Datura innoxia Mill.",
+            "id": "1391658",
+            "score": 0.00113
+        },
+        {
+            "name": "Datura stramonium L.",
+            "id": "1360549",
+            "score": 0.00062
+        },
+        {
+            "name": "Datura wrightii Regel",
+            "id": "1399913",
+            "score": 0.00031
+        }
+    ]
+}

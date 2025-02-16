@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ribes rubrum L.",
+            "id": "1397543",
+            "score": 0.95845
+        },
+        {
+            "name": "Ribes alpinum L.",
+            "id": "1358682",
+            "score": 0.00875
+        },
+        {
+            "name": "Ribes nigrum L.",
+            "id": "1395200",
+            "score": 0.00424
+        },
+        {
+            "name": "Ribes petraeum Wulfen",
+            "id": "1358683",
+            "score": 0.00137
+        }
+    ]
+}

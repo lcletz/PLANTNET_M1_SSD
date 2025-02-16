@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Datura innoxia Mill.",
+            "id": "1391658",
+            "score": 0.5186
+        },
+        {
+            "name": "Datura wrightii Regel",
+            "id": "1399913",
+            "score": 0.18292
+        },
+        {
+            "name": "Datura stramonium L.",
+            "id": "1360549",
+            "score": 0.0351
+        },
+        {
+            "name": "Datura metel L.",
+            "id": "1356150",
+            "score": 0.03157
+        },
+        {
+            "name": "Cucumis anguria L.",
+            "id": "1404600",
+            "score": 0.00152
+        },
+        {
+            "name": "Arctium lappa L.",
+            "id": "1396002",
+            "score": 0.00151
+        },
+        {
+            "name": "Stylophorum diphyllum (Michx.) Nutt.",
+            "id": "1413938",
+            "score": 0.00107
+        }
+    ]
+}

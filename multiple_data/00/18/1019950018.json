@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Clinopodium vulgare L.",
+            "id": "1358742",
+            "score": 0.89232
+        },
+        {
+            "name": "Thymus pulegioides L.",
+            "id": "1396792",
+            "score": 0.00269
+        },
+        {
+            "name": "Ballota nigra L.",
+            "id": "1358722",
+            "score": 0.0021
+        },
+        {
+            "name": "Clinopodium nepeta (L.) Kuntze",
+            "id": "1391306",
+            "score": 0.00189
+        },
+        {
+            "name": "Thymus praecox Opiz",
+            "id": "1397512",
+            "score": 0.00148
+        },
+        {
+            "name": "Clinopodium alpinum (L.) Kuntze",
+            "id": "1391304",
+            "score": 0.00132
+        },
+        {
+            "name": "Thymus serpyllum L.",
+            "id": "1362246",
+            "score": 0.00119
+        },
+        {
+            "name": "Clinopodium acinos (L.) Kuntze",
+            "id": "1391303",
+            "score": 0.001
+        }
+    ]
+}

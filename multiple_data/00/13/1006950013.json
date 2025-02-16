@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hydrangea arborescens L.",
+            "id": "1393222",
+            "score": 0.9259
+        },
+        {
+            "name": "Hydrangea petiolaris Siebold & Zucc.",
+            "id": "1398621",
+            "score": 0.00936
+        },
+        {
+            "name": "Hydrangea macrophylla (Thunb.) Ser.",
+            "id": "1361819",
+            "score": 0.00172
+        },
+        {
+            "name": "Hydrangea cinerea Small",
+            "id": "1433065",
+            "score": 0.00168
+        },
+        {
+            "name": "Aralia racemosa L.",
+            "id": "1413013",
+            "score": 0.00167
+        },
+        {
+            "name": "Hydrangea quercifolia W.Bartram",
+            "id": "1390614",
+            "score": 0.00106
+        }
+    ]
+}

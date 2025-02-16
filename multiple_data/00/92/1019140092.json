@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Stenotaphrum secundatum (Walter) Kuntze",
+            "id": "1363543",
+            "score": 0.94943
+        },
+        {
+            "name": "Glyceria fluitans (L.) R.Br.",
+            "id": "1392636",
+            "score": 0.00278
+        },
+        {
+            "name": "Lolium perenne L.",
+            "id": "1363475",
+            "score": 0.00214
+        },
+        {
+            "name": "Glyceria notata Chevall.",
+            "id": "1361296",
+            "score": 0.00198
+        },
+        {
+            "name": "Paspalum dilatatum Poir.",
+            "id": "1363496",
+            "score": 0.0018
+        },
+        {
+            "name": "Cynodon dactylon (L.) Pers.",
+            "id": "1363526",
+            "score": 0.00166
+        },
+        {
+            "name": "Paspalum distichum L.",
+            "id": "1363497",
+            "score": 0.00131
+        },
+        {
+            "name": "Paspalum vaginatum Sw.",
+            "id": "1363499",
+            "score": 0.00099
+        },
+        {
+            "name": "Poa annua L.",
+            "id": "1363455",
+            "score": 0.00098
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cornus sericea L.",
+            "id": "1397902",
+            "score": 0.71254
+        },
+        {
+            "name": "Cornus alba L.",
+            "id": "1397617",
+            "score": 0.09486
+        },
+        {
+            "name": "Cornus sanguinea L.",
+            "id": "1397356",
+            "score": 0.09173
+        },
+        {
+            "name": "Cornus amomum Mill.",
+            "id": "1418488",
+            "score": 0.00554
+        },
+        {
+            "name": "Cornus racemosa Lam.",
+            "id": "1411549",
+            "score": 0.00441
+        },
+        {
+            "name": "Viburnum lantana L.",
+            "id": "1356792",
+            "score": 0.00282
+        },
+        {
+            "name": "Cornus drummondii C.A.Mey.",
+            "id": "1418491",
+            "score": 0.00205
+        },
+        {
+            "name": "Hydrangea arborescens L.",
+            "id": "1393222",
+            "score": 0.00113
+        },
+        {
+            "name": "Cornus rugosa Lam.",
+            "id": "1411550",
+            "score": 0.00106
+        },
+        {
+            "name": "Viburnum opulus L.",
+            "id": "1361743",
+            "score": 0.00101
+        }
+    ]
+}

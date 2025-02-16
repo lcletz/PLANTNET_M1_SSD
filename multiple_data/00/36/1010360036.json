@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Paeonia broteri Boiss. & Reut.",
+            "id": "1638029",
+            "score": 0.60832
+        },
+        {
+            "name": "Paeonia mascula (L.) Mill.",
+            "id": "1359758",
+            "score": 0.2363
+        },
+        {
+            "name": "Paeonia officinalis L.",
+            "id": "1362842",
+            "score": 0.07223
+        },
+        {
+            "name": "Paeonia corsica Sieber ex Tausch",
+            "id": "1394380",
+            "score": 0.01518
+        },
+        {
+            "name": "Paeonia coriacea Boiss.",
+            "id": "1638033",
+            "score": 0.0065
+        }
+    ]
+}

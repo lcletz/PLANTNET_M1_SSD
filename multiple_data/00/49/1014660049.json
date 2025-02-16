@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rubus saxatilis L.",
+            "id": "1395601",
+            "score": 0.88734
+        },
+        {
+            "name": "Rubus occidentalis L.",
+            "id": "1413531",
+            "score": 0.00644
+        },
+        {
+            "name": "Rubus argutus Link",
+            "id": "1421896",
+            "score": 0.00511
+        },
+        {
+            "name": "Rubus arcticus L.",
+            "id": "1413517",
+            "score": 0.00267
+        },
+        {
+            "name": "Rubus caesius L.",
+            "id": "1360354",
+            "score": 0.00249
+        },
+        {
+            "name": "Rubus idaeus L.",
+            "id": "1395507",
+            "score": 0.00226
+        },
+        {
+            "name": "Rubus parvifolius L.",
+            "id": "1420461",
+            "score": 0.00207
+        },
+        {
+            "name": "Potentilla indica (Andrews) Th.Wolf",
+            "id": "1721637",
+            "score": 0.0018
+        },
+        {
+            "name": "Rubus pubescens Raf.",
+            "id": "1413537",
+            "score": 0.0014
+        },
+        {
+            "name": "Fragaria vesca L.",
+            "id": "1363991",
+            "score": 0.00115
+        }
+    ]
+}

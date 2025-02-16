@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium alpestre L.",
+            "id": "1396842",
+            "score": 0.63968
+        },
+        {
+            "name": "Trifolium pratense L.",
+            "id": "1359517",
+            "score": 0.16084
+        },
+        {
+            "name": "Trifolium rubens L.",
+            "id": "1361850",
+            "score": 0.01994
+        },
+        {
+            "name": "Gomphrena globosa L.",
+            "id": "1385060",
+            "score": 0.01644
+        },
+        {
+            "name": "Trifolium medium L.",
+            "id": "1397514",
+            "score": 0.0148
+        },
+        {
+            "name": "Trifolium incarnatum L.",
+            "id": "1359498",
+            "score": 0.00437
+        },
+        {
+            "name": "Trifolium purpureum Loisel.",
+            "id": "1359518",
+            "score": 0.00422
+        },
+        {
+            "name": "Centaurea nigra L.",
+            "id": "1357438",
+            "score": 0.00285
+        },
+        {
+            "name": "Centaurea phrygia L.",
+            "id": "1390981",
+            "score": 0.00272
+        },
+        {
+            "name": "Centaurea jacea L.",
+            "id": "1362427",
+            "score": 0.00167
+        },
+        {
+            "name": "Gomphrena sonorae Torr.",
+            "id": "1444073",
+            "score": 0.00118
+        },
+        {
+            "name": "Trifolium hybridum L.",
+            "id": "1359497",
+            "score": 0.00103
+        }
+    ]
+}

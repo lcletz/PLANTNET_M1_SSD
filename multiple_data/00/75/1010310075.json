@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Linum usitatissimum L.",
+            "id": "1356040",
+            "score": 0.95904
+        },
+        {
+            "name": "Linaria purpurea (L.) Mill.",
+            "id": "1362464",
+            "score": 0.01237
+        },
+        {
+            "name": "Linum perenne L.",
+            "id": "1389408",
+            "score": 0.00471
+        },
+        {
+            "name": "Euphorbia segetalis L.",
+            "id": "1358590",
+            "score": 0.00186
+        },
+        {
+            "name": "Iberis umbellata L.",
+            "id": "1363926",
+            "score": 0.0011
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Clematis vitalba L.",
+            "id": "1360161",
+            "score": 0.66543
+        },
+        {
+            "name": "Clematis viticella L.",
+            "id": "1391301",
+            "score": 0.01213
+        },
+        {
+            "name": "Clematis flammula L.",
+            "id": "1360159",
+            "score": 0.00957
+        },
+        {
+            "name": "Cardiospermum halicacabum L.",
+            "id": "1360468",
+            "score": 0.00703
+        },
+        {
+            "name": "Clematis alpina (L.) Mill.",
+            "id": "1397354",
+            "score": 0.0068
+        },
+        {
+            "name": "Tecomaria capensis (Thunb.) Spach",
+            "id": "1400151",
+            "score": 0.00209
+        },
+        {
+            "name": "Clematis cirrhosa L.",
+            "id": "1360158",
+            "score": 0.00204
+        },
+        {
+            "name": "Thalictrum speciosissimum Loefl.",
+            "id": "1738788",
+            "score": 0.00188
+        },
+        {
+            "name": "Thalictrum flavum L.",
+            "id": "1360229",
+            "score": 0.00132
+        }
+    ]
+}

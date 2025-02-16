@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bellis perennis L.",
+            "id": "1357317",
+            "score": 0.70871
+        },
+        {
+            "name": "Bellis annua L.",
+            "id": "1357314",
+            "score": 0.19068
+        },
+        {
+            "name": "Bellis sylvestris Cirillo",
+            "id": "1357320",
+            "score": 0.03459
+        },
+        {
+            "name": "Bellis pappulosa Boiss. ex DC.",
+            "id": "1357316",
+            "score": 0.01248
+        },
+        {
+            "name": "Erigeron uniflorus L.",
+            "id": "1397378",
+            "score": 0.00204
+        },
+        {
+            "name": "Bellis bernardi Boiss. & Reut.",
+            "id": "1743424",
+            "score": 0.00175
+        }
+    ]
+}

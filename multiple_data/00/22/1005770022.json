@@ -1,0 +1,75 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iris × germanica L.",
+            "id": "1556750",
+            "score": 0.60886
+        },
+        {
+            "name": "Iris lutescens Lam.",
+            "id": "1362462",
+            "score": 0.10003
+        },
+        {
+            "name": "Iris pumila L.",
+            "id": "1398617",
+            "score": 0.09528
+        },
+        {
+            "name": "Iris pallida Lam.",
+            "id": "1361541",
+            "score": 0.05093
+        },
+        {
+            "name": "Iris florentina L.",
+            "id": "1722421",
+            "score": 0.01846
+        },
+        {
+            "name": "Iris pseudacorus L.",
+            "id": "1361543",
+            "score": 0.01723
+        },
+        {
+            "name": "Iris perrieri Simonet ex N.Service",
+            "id": "1398243",
+            "score": 0.01696
+        },
+        {
+            "name": "Iris foetidissima L.",
+            "id": "1361540",
+            "score": 0.0126
+        },
+        {
+            "name": "Iris versicolor L.",
+            "id": "1393297",
+            "score": 0.00273
+        },
+        {
+            "name": "Iris spuria L.",
+            "id": "1361544",
+            "score": 0.00256
+        },
+        {
+            "name": "Iris aphylla L.",
+            "id": "1393299",
+            "score": 0.00187
+        },
+        {
+            "name": "Iris pseudopumila Tineo",
+            "id": "1399635",
+            "score": 0.00179
+        },
+        {
+            "name": "Iris barbatula Noltie & K.Y.Guan",
+            "id": "1556675",
+            "score": 0.00146
+        },
+        {
+            "name": "Iris variegata L.",
+            "id": "1397946",
+            "score": 0.00104
+        }
+    ]
+}

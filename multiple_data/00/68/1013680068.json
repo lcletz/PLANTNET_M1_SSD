@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Antirrhinum molle L.",
+            "id": "1397595",
+            "score": 0.86939
+        },
+        {
+            "name": "Antirrhinum hispanicum Chav.",
+            "id": "1359844",
+            "score": 0.04099
+        },
+        {
+            "name": "Antirrhinum sempervirens Lapeyr.",
+            "id": "1395092",
+            "score": 0.03563
+        },
+        {
+            "name": "Antirrhinum graniticum Rothm.",
+            "id": "1400022",
+            "score": 0.02501
+        },
+        {
+            "name": "Antirrhinum majus L.",
+            "id": "1359845",
+            "score": 0.00783
+        },
+        {
+            "name": "Antirrhinum grosii Font Quer",
+            "id": "1645887",
+            "score": 0.00245
+        },
+        {
+            "name": "Antirrhinum siculum Mill.",
+            "id": "1359847",
+            "score": 0.00157
+        }
+    ]
+}

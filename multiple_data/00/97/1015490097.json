@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sempervivum tectorum L.",
+            "id": "1362492",
+            "score": 0.90855
+        },
+        {
+            "name": "Sempervivum montanum L.",
+            "id": "1396180",
+            "score": 0.03062
+        },
+        {
+            "name": "Sempervivum grandiflorum Haw.",
+            "id": "1397657",
+            "score": 0.02989
+        },
+        {
+            "name": "Sempervivum arachnoideum L.",
+            "id": "1396175",
+            "score": 0.00556
+        },
+        {
+            "name": "Sempervivum calcareum Jord.",
+            "id": "1396177",
+            "score": 0.00493
+        },
+        {
+            "name": "Sempervivum globiferum L.",
+            "id": "1396179",
+            "score": 0.00119
+        }
+    ]
+}

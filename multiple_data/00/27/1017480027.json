@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vicia sepium L.",
+            "id": "1397110",
+            "score": 0.8051
+        },
+        {
+            "name": "Vicia sylvatica L.",
+            "id": "1362394",
+            "score": 0.14216
+        },
+        {
+            "name": "Vicia hirsuta (L.) Gray",
+            "id": "1363671",
+            "score": 0.00732
+        },
+        {
+            "name": "Vicia grandiflora Scop.",
+            "id": "1397092",
+            "score": 0.00582
+        },
+        {
+            "name": "Vicia cracca L.",
+            "id": "1397085",
+            "score": 0.00336
+        },
+        {
+            "name": "Vicia sativa L.",
+            "id": "1359575",
+            "score": 0.002
+        },
+        {
+            "name": "Vicia villosa Roth",
+            "id": "1359581",
+            "score": 0.00145
+        },
+        {
+            "name": "Lathyrus niger (L.) Bernh.",
+            "id": "1359276",
+            "score": 0.00117
+        }
+    ]
+}

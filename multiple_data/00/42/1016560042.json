@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viburnum rugosum Pers.",
+            "id": "1722512",
+            "score": 0.55006
+        },
+        {
+            "name": "Viburnum tinus L.",
+            "id": "1356793",
+            "score": 0.36177
+        },
+        {
+            "name": "Viburnum nudum L.",
+            "id": "1414188",
+            "score": 0.00294
+        },
+        {
+            "name": "Viburnum davidi Franch.",
+            "id": "1774594",
+            "score": 0.00293
+        },
+        {
+            "name": "Viburnum tinoides L.f.",
+            "id": "1447947",
+            "score": 0.00263
+        },
+        {
+            "name": "Ehretia tinifolia L.",
+            "id": "1477988",
+            "score": 0.00104
+        }
+    ]
+}

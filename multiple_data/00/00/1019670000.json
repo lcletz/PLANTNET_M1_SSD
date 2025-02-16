@@ -1,0 +1,55 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Solidago virgaurea L.",
+            "id": "1357872",
+            "score": 0.66085
+        },
+        {
+            "name": "Solidago rugosa Mill.",
+            "id": "1396340",
+            "score": 0.02883
+        },
+        {
+            "name": "Solidago gigantea Aiton",
+            "id": "1396337",
+            "score": 0.02247
+        },
+        {
+            "name": "Solidago canadensis L.",
+            "id": "1396336",
+            "score": 0.01722
+        },
+        {
+            "name": "Dittrichia viscosa (L.) Greuter",
+            "id": "1357560",
+            "score": 0.00372
+        },
+        {
+            "name": "Roldana petasitis (Sims) H.Rob. & Brettell",
+            "id": "1389251",
+            "score": 0.0023
+        },
+        {
+            "name": "Senecio ovatus (G.Gaertn., B.Mey. & Scherb.) Willd.",
+            "id": "1728570",
+            "score": 0.00214
+        },
+        {
+            "name": "Ligularia sibirica (L.) Cass.",
+            "id": "1393524",
+            "score": 0.00119
+        },
+        {
+            "name": "Euthamia graminifolia (L.) Nutt.",
+            "id": "1392232",
+            "score": 0.00115
+        },
+        {
+            "name": "Solidago chilensis Meyen",
+            "id": "1521427",
+            "score": 0.00105
+        }
+    ]
+}

@@ -1,0 +1,480 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.54265
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.38157
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.04978
+        },
+        {
+            "name": "Prunus × gondouinii (Poit. & Turpin) Rehder",
+            "id": "1667954",
+            "score": 0.02096
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.01253
+        },
+        {
+            "name": "Prunus × yedoensis Matsum.",
+            "id": "1668075",
+            "score": 0.01185
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.00929
+        },
+        {
+            "name": "Prunus serotina Ehrh.",
+            "id": "1370859",
+            "score": 0.00877
+        },
+        {
+            "name": "Inga uraguensis Hook. & Arn.",
+            "id": "1579596",
+            "score": 0.00806
+        },
+        {
+            "name": "Pyrus calleryana Decne.",
+            "id": "1395003",
+            "score": 0.0077
+        },
+        {
+            "name": "Prunus amygdalus Batsch",
+            "id": "1722605",
+            "score": 0.00757
+        },
+        {
+            "name": "Nothofagus alpina (Poepp. & Endl.) Oerst.",
+            "id": "1419595",
+            "score": 0.00736
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.0073
+        },
+        {
+            "name": "Prunus lusitanica L.",
+            "id": "1360322",
+            "score": 0.00666
+        },
+        {
+            "name": "Prunus × fruticans Weihe",
+            "id": "1667948",
+            "score": 0.00644
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.00641
+        },
+        {
+            "name": "Prunus × subhirtella Miq.",
+            "id": "1721663",
+            "score": 0.00635
+        },
+        {
+            "name": "Prunus persica (L.) Batsch",
+            "id": "1363997",
+            "score": 0.00568
+        },
+        {
+            "name": "Prunus serrula Franch.",
+            "id": "1420427",
+            "score": 0.00439
+        },
+        {
+            "name": "Prunus pensylvanica L.f.",
+            "id": "1420421",
+            "score": 0.00393
+        },
+        {
+            "name": "Azara uruguayensis (Speg.) Sleumer",
+            "id": "1683434",
+            "score": 0.00381
+        },
+        {
+            "name": "Prunus serrulata Lindl.",
+            "id": "1394953",
+            "score": 0.00379
+        },
+        {
+            "name": "Prunus speciosa (Koidz.) Nakai",
+            "id": "1721662",
+            "score": 0.00378
+        },
+        {
+            "name": "Alnus incana (L.) Moench",
+            "id": "1397308",
+            "score": 0.00331
+        },
+        {
+            "name": "Prunus salicina Lindl.",
+            "id": "1420425",
+            "score": 0.00323
+        },
+        {
+            "name": "Pyrus pyrifolia (Burm.f.) Nakai",
+            "id": "1420439",
+            "score": 0.0032
+        },
+        {
+            "name": "Malus sylvestris (L.) Mill.",
+            "id": "1420379",
+            "score": 0.00307
+        },
+        {
+            "name": "Malus domestica (Suckow) Borkh.",
+            "id": "1729464",
+            "score": 0.00295
+        },
+        {
+            "name": "Betula pubescens Ehrh.",
+            "id": "1362746",
+            "score": 0.00276
+        },
+        {
+            "name": "Prunus sargentii Rehder",
+            "id": "1420426",
+            "score": 0.0027
+        },
+        {
+            "name": "Malus baccata (L.) Borkh.",
+            "id": "1393736",
+            "score": 0.00261
+        },
+        {
+            "name": "Prunus brigantina Vill.",
+            "id": "1394945",
+            "score": 0.00231
+        },
+        {
+            "name": "Maerua angolensis DC.",
+            "id": "1358365",
+            "score": 0.00213
+        },
+        {
+            "name": "Eugenia uniflora L.",
+            "id": "1382851",
+            "score": 0.00213
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.00212
+        },
+        {
+            "name": "Nothofagus antarctica (G.Forst.) Oerst.",
+            "id": "1398608",
+            "score": 0.00208
+        },
+        {
+            "name": "Prunus fruticosa Pall.",
+            "id": "1394939",
+            "score": 0.00205
+        },
+        {
+            "name": "Malus spectabilis (Aiton) Borkh.",
+            "id": "1393734",
+            "score": 0.00195
+        },
+        {
+            "name": "Inga vera Willd.",
+            "id": "1405366",
+            "score": 0.00187
+        },
+        {
+            "name": "Cedrus atlantica (Endl.) Manetti ex Carrière",
+            "id": "1419901",
+            "score": 0.00183
+        },
+        {
+            "name": "Lonicera periclymenum L.",
+            "id": "1356790",
+            "score": 0.00176
+        },
+        {
+            "name": "Cedrus libani A.Rich.",
+            "id": "1390973",
+            "score": 0.00173
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.00168
+        },
+        {
+            "name": "Ostrya carpinifolia Scop.",
+            "id": "1394357",
+            "score": 0.00164
+        },
+        {
+            "name": "Amelanchier laevis Wiegand",
+            "id": "1412102",
+            "score": 0.00161
+        },
+        {
+            "name": "Prunus cyclamina Koehne",
+            "id": "1420408",
+            "score": 0.00161
+        },
+        {
+            "name": "Chaenomeles cathayensis (Hemsl.) C.K.Schneid.",
+            "id": "1666805",
+            "score": 0.00151
+        },
+        {
+            "name": "Prunus mume (Siebold) Siebold & Zucc.",
+            "id": "1420419",
+            "score": 0.00151
+        },
+        {
+            "name": "Prunus americana Marshall",
+            "id": "1413346",
+            "score": 0.00148
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.00148
+        },
+        {
+            "name": "Malus hupehensis (Pamp.) Rehder",
+            "id": "1393732",
+            "score": 0.00146
+        },
+        {
+            "name": "Inga edulis Mart.",
+            "id": "1368191",
+            "score": 0.00145
+        },
+        {
+            "name": "Fritillaria japonica Miq.",
+            "id": "1588637",
+            "score": 0.00145
+        },
+        {
+            "name": "Bauhinia acuminata L.",
+            "id": "1366771",
+            "score": 0.00143
+        },
+        {
+            "name": "Castanopsis fargesii Franch.",
+            "id": "1547709",
+            "score": 0.00141
+        },
+        {
+            "name": "Rhamnus cathartica L.",
+            "id": "1360262",
+            "score": 0.00139
+        },
+        {
+            "name": "Ochna insculpta Sleumer",
+            "id": "1383221",
+            "score": 0.00134
+        },
+        {
+            "name": "Filipendula vulgaris Moench",
+            "id": "1360297",
+            "score": 0.00128
+        },
+        {
+            "name": "Rhamnus glandulosa Aiton",
+            "id": "1360265",
+            "score": 0.00122
+        },
+        {
+            "name": "Cercis canadensis L.",
+            "id": "1397806",
+            "score": 0.0011
+        },
+        {
+            "name": "Prunus × syriaca Borkh.",
+            "id": "1741908",
+            "score": 0.00108
+        },
+        {
+            "name": "Rudbeckia missouriensis Engelm. ex C.L.Boynton & Beadle",
+            "id": "1518851",
+            "score": 0.00104
+        },
+        {
+            "name": "Alnus acuminata Kunth",
+            "id": "1423353",
+            "score": 0.00099
+        },
+        {
+            "name": "Byrsonima crassifolia (L.) Kunth",
+            "id": "1402020",
+            "score": 0.00095
+        },
+        {
+            "name": "Corylus avellana L.",
+            "id": "1391368",
+            "score": 0.00094
+        },
+        {
+            "name": "Prunus campanulata Maxim.",
+            "id": "1420402",
+            "score": 0.00085
+        },
+        {
+            "name": "Alnus glutinosa (L.) Gaertn.",
+            "id": "1356608",
+            "score": 0.00079
+        },
+        {
+            "name": "Betula utilis D.Don",
+            "id": "1400127",
+            "score": 0.00073
+        },
+        {
+            "name": "Ribes sanguineum Pursh",
+            "id": "1395204",
+            "score": 0.00065
+        },
+        {
+            "name": "Betula chinensis Maxim.",
+            "id": "1476173",
+            "score": 0.00065
+        },
+        {
+            "name": "Alnus × pubescens Tausch",
+            "id": "1476149",
+            "score": 0.00064
+        },
+        {
+            "name": "Doratoxylon apetalum (Poir.) Radlk.",
+            "id": "1407984",
+            "score": 0.00058
+        },
+        {
+            "name": "Nothofagus dombeyi (Mirb.) Oerst.",
+            "id": "1608027",
+            "score": 0.00057
+        },
+        {
+            "name": "Prunus rivularis Scheele",
+            "id": "1420424",
+            "score": 0.00057
+        },
+        {
+            "name": "Laurus nobilis L.",
+            "id": "1363362",
+            "score": 0.00056
+        },
+        {
+            "name": "Alnus rubra Bong.",
+            "id": "1389319",
+            "score": 0.00054
+        },
+        {
+            "name": "Castanea sativa Mill.",
+            "id": "1358610",
+            "score": 0.00054
+        },
+        {
+            "name": "Sorbus aucuparia L.",
+            "id": "1362987",
+            "score": 0.00053
+        },
+        {
+            "name": "Parkia speciosa Hassk.",
+            "id": "1419006",
+            "score": 0.0005
+        },
+        {
+            "name": "Commiphora mollis (Oliv.) Engl.",
+            "id": "1365447",
+            "score": 0.0005
+        },
+        {
+            "name": "Sapium glandulosum (L.) Morong",
+            "id": "1404086",
+            "score": 0.00049
+        },
+        {
+            "name": "Visnea mocanera L.f.",
+            "id": "1399906",
+            "score": 0.00048
+        },
+        {
+            "name": "Albizia amara (Roxb.) Boivin",
+            "id": "1431588",
+            "score": 0.00047
+        },
+        {
+            "name": "Ocotea foetens (Aiton) Baill.",
+            "id": "1362838",
+            "score": 0.00046
+        },
+        {
+            "name": "Quercus faginea Lam.",
+            "id": "1358614",
+            "score": 0.00044
+        },
+        {
+            "name": "Prunus davidiana (Carrière) Franch.",
+            "id": "1776582",
+            "score": 0.00042
+        },
+        {
+            "name": "Vangueria infausta Burch.",
+            "id": "1422621",
+            "score": 0.0004
+        },
+        {
+            "name": "Coccinia mildbraedii Gilg ex Harms",
+            "id": "1529667",
+            "score": 0.00039
+        },
+        {
+            "name": "Inga affinis DC.",
+            "id": "1579295",
+            "score": 0.00039
+        },
+        {
+            "name": "Entada polystachya (L.) DC.",
+            "id": "1402361",
+            "score": 0.00038
+        },
+        {
+            "name": "Betula chichibuensis H.Hara",
+            "id": "1476172",
+            "score": 0.00038
+        },
+        {
+            "name": "Betula papyrifera Marshall",
+            "id": "1398459",
+            "score": 0.00038
+        },
+        {
+            "name": "Prunus incisa Thunb.",
+            "id": "1667970",
+            "score": 0.00037
+        },
+        {
+            "name": "Pappea capensis Eckl. & Zeyh.",
+            "id": "1372706",
+            "score": 0.00037
+        },
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.00037
+        }
+    ]
+}

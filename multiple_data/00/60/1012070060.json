@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Solanum mauritianum Scop.",
+            "id": "1356166",
+            "score": 0.90415
+        },
+        {
+            "name": "Atropa bella-donna L.",
+            "id": "1360548",
+            "score": 0.04976
+        },
+        {
+            "name": "Solanum erianthum D.Don",
+            "id": "1408708",
+            "score": 0.01399
+        },
+        {
+            "name": "Solanum brevipedicellatum K.E.Roe",
+            "id": "1824103",
+            "score": 0.01394
+        },
+        {
+            "name": "Nicotiana tabacum L.",
+            "id": "1356159",
+            "score": 0.01104
+        },
+        {
+            "name": "Solanum riparium Pers.",
+            "id": "1692111",
+            "score": 0.01005
+        },
+        {
+            "name": "Iochroma arborescens (L.) J.M.H.Shaw",
+            "id": "1728475",
+            "score": 0.00839
+        },
+        {
+            "name": "Solanum granulosoleprosum Dunal",
+            "id": "1736129",
+            "score": 0.00588
+        },
+        {
+            "name": "Solanum hazenii Britton",
+            "id": "1691722",
+            "score": 0.00518
+        },
+        {
+            "name": "Phytolacca americana L.",
+            "id": "1356062",
+            "score": 0.00297
+        },
+        {
+            "name": "Solanum giganteum Jacq.",
+            "id": "1356164",
+            "score": 0.00187
+        },
+        {
+            "name": "Verbesina virginica L.",
+            "id": "1439531",
+            "score": 0.00163
+        },
+        {
+            "name": "Tectona grandis L.f.",
+            "id": "1406419",
+            "score": 0.00135
+        },
+        {
+            "name": "Withania somnifera (L.) Dunal",
+            "id": "1356180",
+            "score": 0.00135
+        },
+        {
+            "name": "Solanum umbellatum Mill.",
+            "id": "1423684",
+            "score": 0.00111
+        }
+    ]
+}

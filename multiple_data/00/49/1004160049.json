@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Origanum vulgare L.",
+            "id": "1358846",
+            "score": 0.8808
+        },
+        {
+            "name": "Origanum majorana L.",
+            "id": "1356133",
+            "score": 0.07283
+        },
+        {
+            "name": "Origanum onites L.",
+            "id": "1358844",
+            "score": 0.0196
+        },
+        {
+            "name": "Mentha pulegium L.",
+            "id": "1356106",
+            "score": 0.00777
+        },
+        {
+            "name": "Mentha arvensis L.",
+            "id": "1358785",
+            "score": 0.00588
+        },
+        {
+            "name": "Mentha aquatica L.",
+            "id": "1356105",
+            "score": 0.00197
+        },
+        {
+            "name": "Origanum compactum Benth.",
+            "id": "1358840",
+            "score": 0.00121
+        },
+        {
+            "name": "Clinopodium vulgare L.",
+            "id": "1358742",
+            "score": 0.00115
+        },
+        {
+            "name": "Origanum laevigatum Boiss.",
+            "id": "1561174",
+            "score": 0.001
+        },
+        {
+            "name": "Clinopodium nepeta (L.) Kuntze",
+            "id": "1391306",
+            "score": 0.00099
+        }
+    ]
+}

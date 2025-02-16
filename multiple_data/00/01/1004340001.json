@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tripleurospermum inodorum Sch.Bip.",
+            "id": "1396882",
+            "score": 0.40179
+        },
+        {
+            "name": "Matricaria chamomilla L.",
+            "id": "1362332",
+            "score": 0.0579
+        },
+        {
+            "name": "Anthemis cotula L.",
+            "id": "1364155",
+            "score": 0.0503
+        },
+        {
+            "name": "Anthemis arvensis L.",
+            "id": "1364154",
+            "score": 0.00862
+        },
+        {
+            "name": "Leucanthemum vulgare Lam.",
+            "id": "1393513",
+            "score": 0.00196
+        }
+    ]
+}

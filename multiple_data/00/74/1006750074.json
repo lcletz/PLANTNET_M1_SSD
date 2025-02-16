@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stachys sylvatica L.",
+            "id": "1358950",
+            "score": 0.9013
+        },
+        {
+            "name": "Stachys alpina L.",
+            "id": "1397502",
+            "score": 0.03115
+        },
+        {
+            "name": "Salvia glutinosa L.",
+            "id": "1395911",
+            "score": 0.01246
+        },
+        {
+            "name": "Lamium orvala L.",
+            "id": "1399231",
+            "score": 0.00291
+        },
+        {
+            "name": "Melittis melissophyllum L.",
+            "id": "1397437",
+            "score": 0.00227
+        },
+        {
+            "name": "Stachys affinis Bunge",
+            "id": "1396420",
+            "score": 0.00115
+        }
+    ]
+}

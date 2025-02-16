@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Monotropa hypopitys L.",
+            "id": "1358515",
+            "score": 0.85023
+        },
+        {
+            "name": "Neottia nidus-avis (L.) Rich.",
+            "id": "1361654",
+            "score": 0.02304
+        },
+        {
+            "name": "Orobanche flava Mart. ex F.W.Schultz",
+            "id": "1394333",
+            "score": 0.00579
+        },
+        {
+            "name": "Lathraea squamaria L.",
+            "id": "1393450",
+            "score": 0.00206
+        },
+        {
+            "name": "Corallorhiza trifida Châtel.",
+            "id": "1391345",
+            "score": 0.00201
+        },
+        {
+            "name": "Pyrola minor L.",
+            "id": "1395000",
+            "score": 0.00139
+        }
+    ]
+}

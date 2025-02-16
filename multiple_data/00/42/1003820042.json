@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Thymus serpyllum L.",
+            "id": "1362246",
+            "score": 0.5454
+        },
+        {
+            "name": "Thymus pulegioides L.",
+            "id": "1396792",
+            "score": 0.21353
+        },
+        {
+            "name": "Thymus praecox Opiz",
+            "id": "1397512",
+            "score": 0.1206
+        },
+        {
+            "name": "Thymus embergeri Roussine",
+            "id": "1396779",
+            "score": 0.01271
+        },
+        {
+            "name": "Thymus herba-barona Loisel.",
+            "id": "1396780",
+            "score": 0.00775
+        },
+        {
+            "name": "Thymus gobicus Czern.",
+            "id": "1564559",
+            "score": 0.00487
+        },
+        {
+            "name": "Thymus nervosus J.Gay ex Willk.",
+            "id": "1396784",
+            "score": 0.00464
+        },
+        {
+            "name": "Thymus vulgaris L.",
+            "id": "1356108",
+            "score": 0.00408
+        },
+        {
+            "name": "Origanum vulgare L.",
+            "id": "1358846",
+            "score": 0.0039
+        },
+        {
+            "name": "Thymus dolomiticus H.J.Coste",
+            "id": "1396776",
+            "score": 0.00172
+        },
+        {
+            "name": "Thymus alpestris (Čelak.) Tausch ex A.Kern.",
+            "id": "1741560",
+            "score": 0.00159
+        },
+        {
+            "name": "Thymus linearis Benth.",
+            "id": "1564606",
+            "score": 0.00148
+        },
+        {
+            "name": "Thymus × citriodorus (Pers.) Schreb.",
+            "id": "1564513",
+            "score": 0.00142
+        },
+        {
+            "name": "Satureja montana L.",
+            "id": "1361829",
+            "score": 0.0014
+        },
+        {
+            "name": "Origanum majorana L.",
+            "id": "1356133",
+            "score": 0.00122
+        }
+    ]
+}

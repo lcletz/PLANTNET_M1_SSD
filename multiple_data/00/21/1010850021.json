@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dianthus barbatus L.",
+            "id": "1397367",
+            "score": 0.77757
+        },
+        {
+            "name": "Dianthus chinensis L.",
+            "id": "1398495",
+            "score": 0.02037
+        },
+        {
+            "name": "Phlox drummondii Hook.",
+            "id": "1413048",
+            "score": 0.01189
+        },
+        {
+            "name": "Phlox paniculata L.",
+            "id": "1394721",
+            "score": 0.01021
+        },
+        {
+            "name": "Lobelia cardinalis L.",
+            "id": "1398228",
+            "score": 0.00724
+        },
+        {
+            "name": "Dianthus armeria L.",
+            "id": "1397366",
+            "score": 0.00295
+        },
+        {
+            "name": "Dianthus carthusianorum L.",
+            "id": "1391680",
+            "score": 0.00278
+        },
+        {
+            "name": "Cosmos bipinnatus Cav.",
+            "id": "1364120",
+            "score": 0.00272
+        },
+        {
+            "name": "Phlox subulata L.",
+            "id": "1388814",
+            "score": 0.00129
+        },
+        {
+            "name": "Weigela florida (Bunge) A.DC.",
+            "id": "1390686",
+            "score": 0.00117
+        }
+    ]
+}

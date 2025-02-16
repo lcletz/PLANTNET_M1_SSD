@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Robinia viscosa Michx. ex Vent.",
+            "id": "1742844",
+            "score": 0.50176
+        },
+        {
+            "name": "Robinia pseudoacacia L.",
+            "id": "1363698",
+            "score": 0.25146
+        },
+        {
+            "name": "Acacia acanthaster Maslin",
+            "id": "1567891",
+            "score": 0.10391
+        },
+        {
+            "name": "Robinia hispida L.",
+            "id": "1395210",
+            "score": 0.06202
+        },
+        {
+            "name": "Robinia neomexicana A.Gray",
+            "id": "1399024",
+            "score": 0.00304
+        },
+        {
+            "name": "Tipuana tipu (Benth.) Kuntze",
+            "id": "1389022",
+            "score": 0.00126
+        },
+        {
+            "name": "Cassia javanica L.",
+            "id": "1407791",
+            "score": 0.00118
+        },
+        {
+            "name": "Caragana arborescens Lam.",
+            "id": "1390687",
+            "score": 0.00103
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Polypodium vulgare L.",
+            "id": "1356433",
+            "score": 0.93774
+        },
+        {
+            "name": "Polypodium interjectum Shivas",
+            "id": "1356432",
+            "score": 0.027
+        },
+        {
+            "name": "Polypodium cambricum L.",
+            "id": "1356431",
+            "score": 0.00646
+        },
+        {
+            "name": "Polypodium virginianum L.",
+            "id": "1413245",
+            "score": 0.00597
+        },
+        {
+            "name": "Polypodium × mantoniae Rothm.",
+            "id": "1739083",
+            "score": 0.00363
+        }
+    ]
+}

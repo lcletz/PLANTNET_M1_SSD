@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Punica granatum L.",
+            "id": "1359616",
+            "score": 0.8962
+        },
+        {
+            "name": "Quercus phellos L.",
+            "id": "1437142",
+            "score": 0.00456
+        },
+        {
+            "name": "Synsepalum dulcificum (Schumach. & Thonn.) Daniell",
+            "id": "1372962",
+            "score": 0.00192
+        },
+        {
+            "name": "Pyracantha koidzumii (Hayata) Rehder",
+            "id": "1389031",
+            "score": 0.00172
+        },
+        {
+            "name": "Viburnum obovatum Walter",
+            "id": "1439566",
+            "score": 0.00156
+        },
+        {
+            "name": "Erythroxylum laurifolium Lam.",
+            "id": "1408047",
+            "score": 0.00125
+        },
+        {
+            "name": "Cordia americana (L.) Gottschling & J.S.Mill.",
+            "id": "1477359",
+            "score": 0.00118
+        }
+    ]
+}

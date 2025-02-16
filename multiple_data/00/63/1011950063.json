@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ambrosia artemisiifolia L.",
+            "id": "1355901",
+            "score": 0.89659
+        },
+        {
+            "name": "Ambrosia psilostachya DC.",
+            "id": "1355902",
+            "score": 0.04342
+        },
+        {
+            "name": "Ambrosia tenuifolia Spreng.",
+            "id": "1393742",
+            "score": 0.00371
+        },
+        {
+            "name": "Ambrosia maritima L.",
+            "id": "1355903",
+            "score": 0.00311
+        },
+        {
+            "name": "Ambrosia acanthicarpa Hook.",
+            "id": "1412023",
+            "score": 0.00309
+        },
+        {
+            "name": "Ambrosia trifida L.",
+            "id": "1393743",
+            "score": 0.00271
+        },
+        {
+            "name": "Ambrosia confertiflora DC.",
+            "id": "1425236",
+            "score": 0.00252
+        }
+    ]
+}

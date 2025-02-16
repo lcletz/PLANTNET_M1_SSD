@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Alkekengi officinarum Moench",
+            "id": "1738735",
+            "score": 0.50653
+        },
+        {
+            "name": "Physalis peruviana L.",
+            "id": "1356153",
+            "score": 0.0079
+        },
+        {
+            "name": "Physalis viscosa L.",
+            "id": "1356156",
+            "score": 0.00233
+        },
+        {
+            "name": "Physalis philadelphica Lam.",
+            "id": "1356154",
+            "score": 0.00195
+        },
+        {
+            "name": "Physalis heterophylla Nees",
+            "id": "1413066",
+            "score": 0.00189
+        },
+        {
+            "name": "Physalis pubescens L.",
+            "id": "1356155",
+            "score": 0.00125
+        }
+    ]
+}

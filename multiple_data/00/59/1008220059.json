@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Helianthus annuus L.",
+            "id": "1364145",
+            "score": 0.51993
+        },
+        {
+            "name": "Helianthus giganteus L.",
+            "id": "1389511",
+            "score": 0.17103
+        },
+        {
+            "name": "Helianthus debilis Nutt.",
+            "id": "1379525",
+            "score": 0.02744
+        },
+        {
+            "name": "Helianthus petiolaris Nutt.",
+            "id": "1392722",
+            "score": 0.0083
+        },
+        {
+            "name": "Rudbeckia hirta L.",
+            "id": "1395638",
+            "score": 0.00319
+        },
+        {
+            "name": "Echinacea purpurea (L.) Moench",
+            "id": "1398120",
+            "score": 0.00245
+        },
+        {
+            "name": "Rudbeckia fulgida Aiton",
+            "id": "1397722",
+            "score": 0.00198
+        },
+        {
+            "name": "Gerbera jamesonii Adlam",
+            "id": "1410296",
+            "score": 0.00174
+        },
+        {
+            "name": "Gaillardia aristata Pursh",
+            "id": "1392412",
+            "score": 0.00114
+        },
+        {
+            "name": "Helianthus atrorubens L.",
+            "id": "1417834",
+            "score": 0.00104
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Convallaria majalis L.",
+            "id": "1391336",
+            "score": 0.96304
+        },
+        {
+            "name": "Clintonia borealis (Aiton) Raf.",
+            "id": "1411506",
+            "score": 0.00421
+        },
+        {
+            "name": "Maianthemum trifolium (L.) Sloboda",
+            "id": "1412663",
+            "score": 0.0024
+        },
+        {
+            "name": "Maianthemum stellatum (L.) Link",
+            "id": "1412662",
+            "score": 0.0015
+        },
+        {
+            "name": "Erythronium grandiflorum Pursh",
+            "id": "1412009",
+            "score": 0.00117
+        }
+    ]
+}

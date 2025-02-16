@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cercis siliquastrum L.",
+            "id": "1359162",
+            "score": 0.81223
+        },
+        {
+            "name": "Cercis canadensis L.",
+            "id": "1397806",
+            "score": 0.12583
+        },
+        {
+            "name": "Cercis chinensis Bunge",
+            "id": "1418915",
+            "score": 0.02106
+        },
+        {
+            "name": "Cercis occidentalis Torr. ex A.Gray",
+            "id": "1397805",
+            "score": 0.00576
+        },
+        {
+            "name": "Cercis griffithii Boiss.",
+            "id": "1574667",
+            "score": 0.00265
+        },
+        {
+            "name": "Cercis glabra Pamp.",
+            "id": "1574666",
+            "score": 0.00157
+        },
+        {
+            "name": "Robinia hispida L.",
+            "id": "1395210",
+            "score": 0.00143
+        },
+        {
+            "name": "Ipomoea batatas (L.) Lam.",
+            "id": "1364028",
+            "score": 0.001
+        }
+    ]
+}

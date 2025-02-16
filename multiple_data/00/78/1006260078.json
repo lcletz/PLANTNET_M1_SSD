@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rhamnus alaternus L.",
+            "id": "1360260",
+            "score": 0.95938
+        },
+        {
+            "name": "Rhamnus saxatilis Jacq.",
+            "id": "1395158",
+            "score": 0.00932
+        },
+        {
+            "name": "Phillyrea latifolia L.",
+            "id": "1359678",
+            "score": 0.00135
+        },
+        {
+            "name": "Ilex aquifolium L.",
+            "id": "1356576",
+            "score": 0.00126
+        },
+        {
+            "name": "Rhamnus prinoides L'Hér.",
+            "id": "1370745",
+            "score": 0.00104
+        }
+    ]
+}

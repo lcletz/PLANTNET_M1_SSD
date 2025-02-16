@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.95748
+        },
+        {
+            "name": "Acer monspessulanum L.",
+            "id": "1356457",
+            "score": 0.00489
+        },
+        {
+            "name": "Gossypium herbaceum L.",
+            "id": "1359627",
+            "score": 0.00235
+        },
+        {
+            "name": "Acer macrophyllum Pursh",
+            "id": "1412158",
+            "score": 0.00179
+        },
+        {
+            "name": "Gossypium hirsutum L.",
+            "id": "1370585",
+            "score": 0.00116
+        }
+    ]
+}

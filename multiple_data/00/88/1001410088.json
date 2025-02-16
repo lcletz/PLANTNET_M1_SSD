@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.73893
+        },
+        {
+            "name": "Fagus orientalis Lipsky",
+            "id": "1547791",
+            "score": 0.13212
+        },
+        {
+            "name": "Hamamelis virginiana L.",
+            "id": "1397621",
+            "score": 0.01766
+        },
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.00332
+        },
+        {
+            "name": "Corylus maxima Mill.",
+            "id": "1391369",
+            "score": 0.0031
+        },
+        {
+            "name": "Fagus grandifolia Ehrh.",
+            "id": "1412056",
+            "score": 0.00292
+        },
+        {
+            "name": "Parrotia persica C.A.Mey.",
+            "id": "1738716",
+            "score": 0.00185
+        },
+        {
+            "name": "Aria hibernica (E.F.Warb.) Sennikov & Kurtto",
+            "id": "1739225",
+            "score": 0.0015
+        }
+    ]
+}

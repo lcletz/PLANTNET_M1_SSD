@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Physalis alkekengi L.",
+            "id": "1360561",
+            "score": 0.42599
+        },
+        {
+            "name": "Nicandra physalodes (L.) Gaertn.",
+            "id": "1356144",
+            "score": 0.01136
+        },
+        {
+            "name": "Capsicum baccatum L.",
+            "id": "1420706",
+            "score": 0.00158
+        },
+        {
+            "name": "Physalis peruviana L.",
+            "id": "1356153",
+            "score": 0.00144
+        },
+        {
+            "name": "Solanum aethiopicum L.",
+            "id": "1356174",
+            "score": 0.00108
+        }
+    ]
+}

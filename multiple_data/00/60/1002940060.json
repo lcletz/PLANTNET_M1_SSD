@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Amaranthus caudatus L.",
+            "id": "1363248",
+            "score": 0.96778
+        },
+        {
+            "name": "Amaranthus hypochondriacus L.",
+            "id": "1363259",
+            "score": 0.00518
+        },
+        {
+            "name": "Phytolacca americana L.",
+            "id": "1356062",
+            "score": 0.00203
+        },
+        {
+            "name": "Amaranthus cruentus L.",
+            "id": "1363249",
+            "score": 0.00143
+        },
+        {
+            "name": "Amaranthus tricolor L.",
+            "id": "1363257",
+            "score": 0.00111
+        }
+    ]
+}

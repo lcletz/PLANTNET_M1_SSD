@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Filipendula ulmaria (L.) Maxim.",
+            "id": "1392353",
+            "score": 0.93677
+        },
+        {
+            "name": "Rubus occidentalis L.",
+            "id": "1413531",
+            "score": 0.00222
+        },
+        {
+            "name": "Rubus caesius L.",
+            "id": "1360354",
+            "score": 0.00153
+        },
+        {
+            "name": "Rubus idaeus L.",
+            "id": "1395507",
+            "score": 0.00147
+        },
+        {
+            "name": "Aegopodium podagraria L.",
+            "id": "1389510",
+            "score": 0.00105
+        }
+    ]
+}

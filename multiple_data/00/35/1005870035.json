@@ -1,0 +1,395 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Crepis vesicaria L.",
+            "id": "1357549",
+            "score": 0.09429
+        },
+        {
+            "name": "Crepis bursifolia L.",
+            "id": "1357526",
+            "score": 0.0669
+        },
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.0382
+        },
+        {
+            "name": "Crepis sancta (L.) Bornm.",
+            "id": "1357546",
+            "score": 0.03205
+        },
+        {
+            "name": "Cichorium endivia L.",
+            "id": "1364163",
+            "score": 0.02356
+        },
+        {
+            "name": "Cicerbita plumieri (L.) Kirschl.",
+            "id": "1738967",
+            "score": 0.02009
+        },
+        {
+            "name": "Centaurea scabiosa L.",
+            "id": "1391037",
+            "score": 0.01985
+        },
+        {
+            "name": "Lapsana communis L.",
+            "id": "1364164",
+            "score": 0.01884
+        },
+        {
+            "name": "Crepis foetida L.",
+            "id": "1355870",
+            "score": 0.0169
+        },
+        {
+            "name": "Sisymbrium loeselii L.",
+            "id": "1396308",
+            "score": 0.01587
+        },
+        {
+            "name": "Crepis setosa Haller f.",
+            "id": "1361760",
+            "score": 0.01376
+        },
+        {
+            "name": "Hypochaeris glabra L.",
+            "id": "1355871",
+            "score": 0.01374
+        },
+        {
+            "name": "Crepis biennis L.",
+            "id": "1391445",
+            "score": 0.01313
+        },
+        {
+            "name": "Sisymbrium officinale (L.) Scop.",
+            "id": "1363897",
+            "score": 0.01217
+        },
+        {
+            "name": "Eruca vesicaria (L.) Cav.",
+            "id": "1356328",
+            "score": 0.01137
+        },
+        {
+            "name": "Crepis pulchra L.",
+            "id": "1357542",
+            "score": 0.01112
+        },
+        {
+            "name": "Erigeron floribundus (Kunth) Sch.Bip.",
+            "id": "1388806",
+            "score": 0.01052
+        },
+        {
+            "name": "Youngia japonica (L.) DC.",
+            "id": "1373670",
+            "score": 0.00875
+        },
+        {
+            "name": "Taraxacum campylodes G.E.Haglund",
+            "id": "1397285",
+            "score": 0.00777
+        },
+        {
+            "name": "Taraxacum sect. Taraxacum F.H.Wigg.",
+            "id": "1737545",
+            "score": 0.00775
+        },
+        {
+            "name": "Brassica juncea (L.) Czern.",
+            "id": "1363904",
+            "score": 0.00593
+        },
+        {
+            "name": "Rapistrum rugosum (L.) All.",
+            "id": "1363879",
+            "score": 0.00592
+        },
+        {
+            "name": "Calepina irregularis (Asso) Thell.",
+            "id": "1358204",
+            "score": 0.00573
+        },
+        {
+            "name": "Bunias orientalis L.",
+            "id": "1389581",
+            "score": 0.00534
+        },
+        {
+            "name": "Centaurea aspera L.",
+            "id": "1357401",
+            "score": 0.00521
+        },
+        {
+            "name": "Barbarea verna (Mill.) Asch.",
+            "id": "1363871",
+            "score": 0.0052
+        },
+        {
+            "name": "Centaurea pectinata L.",
+            "id": "1391028",
+            "score": 0.00516
+        },
+        {
+            "name": "Urospermum picroides (L.) Scop. ex F.W.Schmidt",
+            "id": "1396956",
+            "score": 0.00465
+        },
+        {
+            "name": "Sisymbrium irio L.",
+            "id": "1363896",
+            "score": 0.0043
+        },
+        {
+            "name": "Centaurea sphaerocephala L.",
+            "id": "1357456",
+            "score": 0.00394
+        },
+        {
+            "name": "Hirschfeldia incana (L.) Lagr.-Foss.",
+            "id": "1363911",
+            "score": 0.00384
+        },
+        {
+            "name": "Rhamphospermum arvense (L.) Andrz. ex Besser",
+            "id": "1737463",
+            "score": 0.00361
+        },
+        {
+            "name": "Brassica rapa L.",
+            "id": "1363906",
+            "score": 0.00361
+        },
+        {
+            "name": "Hyoscyamus niger L.",
+            "id": "1360555",
+            "score": 0.00355
+        },
+        {
+            "name": "Diplotaxis erucoides (L.) DC.",
+            "id": "1363878",
+            "score": 0.00349
+        },
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.00333
+        },
+        {
+            "name": "Leontodon hispidus L.",
+            "id": "1357697",
+            "score": 0.00333
+        },
+        {
+            "name": "Scorzoneroides autumnalis (L.) Moench",
+            "id": "1396117",
+            "score": 0.00331
+        },
+        {
+            "name": "Hypochaeris radicata L.",
+            "id": "1355872",
+            "score": 0.00325
+        },
+        {
+            "name": "Sisymbrium orientale L.",
+            "id": "1363898",
+            "score": 0.0032
+        },
+        {
+            "name": "Rhamphospermum nigrum (L.) Al-Shehbaz",
+            "id": "1737676",
+            "score": 0.0032
+        },
+        {
+            "name": "Centaurea melitensis L.",
+            "id": "1355885",
+            "score": 0.00296
+        },
+        {
+            "name": "Erucastrum nasturtiifolium (Poir.) O.E.Schulz",
+            "id": "1392096",
+            "score": 0.00281
+        },
+        {
+            "name": "Urospermum dalechampii (L.) Scop. ex F.W.Schmidt",
+            "id": "1396955",
+            "score": 0.00277
+        },
+        {
+            "name": "Lactuca sativa L.",
+            "id": "1364172",
+            "score": 0.00268
+        },
+        {
+            "name": "Centaurea pullata L.",
+            "id": "1357448",
+            "score": 0.00252
+        },
+        {
+            "name": "Emilia sonchifolia (L.) DC.",
+            "id": "1373553",
+            "score": 0.00247
+        },
+        {
+            "name": "Taraxacum dissectum (Ledeb.) Ledeb.",
+            "id": "1396568",
+            "score": 0.00237
+        },
+        {
+            "name": "Lactuca floridana (L.) Gaertn.",
+            "id": "1409746",
+            "score": 0.00233
+        },
+        {
+            "name": "Centaurea seridis L.",
+            "id": "1357453",
+            "score": 0.00225
+        },
+        {
+            "name": "Crepis capillaris (L.) Wallr.",
+            "id": "1355869",
+            "score": 0.00222
+        },
+        {
+            "name": "Erigeron bonariensis L.",
+            "id": "1355905",
+            "score": 0.0022
+        },
+        {
+            "name": "Gerbera leandrii Humbert",
+            "id": "1508419",
+            "score": 0.0022
+        },
+        {
+            "name": "Andryala integrifolia L.",
+            "id": "1357207",
+            "score": 0.00208
+        },
+        {
+            "name": "Centaurea napifolia L.",
+            "id": "1357437",
+            "score": 0.00206
+        },
+        {
+            "name": "Capsella bursa-pastoris (L.) Medik.",
+            "id": "1363910",
+            "score": 0.00205
+        },
+        {
+            "name": "Sonchus oleraceus L.",
+            "id": "1364170",
+            "score": 0.00194
+        },
+        {
+            "name": "Raphanus raphanistrum L.",
+            "id": "1363901",
+            "score": 0.0019
+        },
+        {
+            "name": "Spinacia oleracea L.",
+            "id": "1356556",
+            "score": 0.00189
+        },
+        {
+            "name": "Taraxacum pyropappum Boiss. & Reut.",
+            "id": "1357931",
+            "score": 0.00188
+        },
+        {
+            "name": "Crepis novoana S.Ortiz, X.Soñora & Rodr.Oubiña",
+            "id": "1505542",
+            "score": 0.00187
+        },
+        {
+            "name": "Erigeron philadelphicus L.",
+            "id": "1392052",
+            "score": 0.00175
+        },
+        {
+            "name": "Mantisalca salmantica (L.) Briq. & Cavill.",
+            "id": "1364108",
+            "score": 0.00168
+        },
+        {
+            "name": "Centaurea jacea L.",
+            "id": "1362427",
+            "score": 0.00168
+        },
+        {
+            "name": "Arctotheca calendula (L.) Levyns",
+            "id": "1355927",
+            "score": 0.00166
+        },
+        {
+            "name": "Salvia lyrata L.",
+            "id": "1437804",
+            "score": 0.00157
+        },
+        {
+            "name": "Bunias erucago L.",
+            "id": "1363920",
+            "score": 0.00154
+        },
+        {
+            "name": "Erigeron quercifolius Lam.",
+            "id": "1443127",
+            "score": 0.00149
+        },
+        {
+            "name": "Chondrilla juncea L.",
+            "id": "1357492",
+            "score": 0.00144
+        },
+        {
+            "name": "Centaurea nigra L.",
+            "id": "1357438",
+            "score": 0.00137
+        },
+        {
+            "name": "Erigeron canadensis L.",
+            "id": "1392041",
+            "score": 0.00136
+        },
+        {
+            "name": "Erucastrum gallicum (Willd.) O.E.Schulz",
+            "id": "1392093",
+            "score": 0.00135
+        },
+        {
+            "name": "Centaurea sicula L.",
+            "id": "1362651",
+            "score": 0.00129
+        },
+        {
+            "name": "Blitum bonus-henricus (L.) Rchb.",
+            "id": "1737524",
+            "score": 0.00109
+        },
+        {
+            "name": "Diplotaxis muralis (L.) DC.",
+            "id": "1363875",
+            "score": 0.00108
+        },
+        {
+            "name": "Carduus acanthoides L.",
+            "id": "1362653",
+            "score": 0.00106
+        },
+        {
+            "name": "Taraxacum clemens Matysiak",
+            "id": "1390356",
+            "score": 0.00101
+        },
+        {
+            "name": "Hyoseris radiata L.",
+            "id": "1357652",
+            "score": 0.001
+        }
+    ]
+}

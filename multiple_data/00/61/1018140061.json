@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Valeriana dioica L.",
+            "id": "1397518",
+            "score": 0.88764
+        },
+        {
+            "name": "Valeriana officinalis L.",
+            "id": "1396978",
+            "score": 0.06847
+        },
+        {
+            "name": "Valeriana excelsa Poir.",
+            "id": "1737492",
+            "score": 0.00667
+        },
+        {
+            "name": "Valeriana tuberosa L.",
+            "id": "1360841",
+            "score": 0.00147
+        },
+        {
+            "name": "Valeriana microphylla Kunth",
+            "id": "1491719",
+            "score": 0.00112
+        },
+        {
+            "name": "Valeriana montana L.",
+            "id": "1396976",
+            "score": 0.00103
+        }
+    ]
+}

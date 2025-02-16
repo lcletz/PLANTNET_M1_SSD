@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Stellaria palustris Ehrh. ex Hoffm.",
+            "id": "1721301",
+            "score": 0.37708
+        },
+        {
+            "name": "Rabelera holostea (L.) M.T.Sharples & E.A.Tripp",
+            "id": "1737674",
+            "score": 0.24625
+        },
+        {
+            "name": "Moehringia ciliata (Scop.) Dalla Torre",
+            "id": "1393846",
+            "score": 0.05663
+        },
+        {
+            "name": "Stellaria graminea L.",
+            "id": "1396446",
+            "score": 0.00697
+        },
+        {
+            "name": "Cerastium arvense L.",
+            "id": "1356817",
+            "score": 0.00301
+        },
+        {
+            "name": "Stellaria nemorum L.",
+            "id": "1382174",
+            "score": 0.00147
+        }
+    ]
+}

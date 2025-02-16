@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium incarnatum L.",
+            "id": "1359498",
+            "score": 0.87872
+        },
+        {
+            "name": "Trifolium rubens L.",
+            "id": "1361850",
+            "score": 0.04621
+        },
+        {
+            "name": "Trifolium alexandrinum L.",
+            "id": "1363735",
+            "score": 0.00222
+        },
+        {
+            "name": "Trifolium arvense L.",
+            "id": "1359485",
+            "score": 0.00149
+        },
+        {
+            "name": "Trifolium angustifolium L.",
+            "id": "1359483",
+            "score": 0.00129
+        },
+        {
+            "name": "Trifolium hybridum L.",
+            "id": "1359497",
+            "score": 0.00102
+        }
+    ]
+}

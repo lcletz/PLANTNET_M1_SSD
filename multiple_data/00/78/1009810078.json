@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Carex humilis Leyss.",
+            "id": "1390837",
+            "score": 0.85008
+        },
+        {
+            "name": "Carex halleriana Asso",
+            "id": "1361057",
+            "score": 0.09527
+        },
+        {
+            "name": "Carex caryophyllea Latourr.",
+            "id": "1390782",
+            "score": 0.00934
+        },
+        {
+            "name": "Carex filifolia Nutt.",
+            "id": "1411139",
+            "score": 0.00793
+        },
+        {
+            "name": "Carex divisa Huds.",
+            "id": "1363282",
+            "score": 0.00321
+        },
+        {
+            "name": "Carex arenaria L.",
+            "id": "1390761",
+            "score": 0.00172
+        },
+        {
+            "name": "Carex flacca Schreb.",
+            "id": "1361055",
+            "score": 0.00105
+        }
+    ]
+}

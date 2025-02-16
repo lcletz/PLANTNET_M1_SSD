@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Androsace villosa L.",
+            "id": "1360143",
+            "score": 0.90871
+        },
+        {
+            "name": "Androsace alpina (L.) Lam.",
+            "id": "1394272",
+            "score": 0.02106
+        },
+        {
+            "name": "Androsace ciliata DC.",
+            "id": "1394284",
+            "score": 0.01259
+        },
+        {
+            "name": "Androsace sarmentosa Wall.",
+            "id": "1659265",
+            "score": 0.00479
+        },
+        {
+            "name": "Androsace chamaejasme Wulfen",
+            "id": "1394282",
+            "score": 0.0018
+        },
+        {
+            "name": "Eritrichium nanum (L.) Gaudin",
+            "id": "1741838",
+            "score": 0.00131
+        },
+        {
+            "name": "Androsace lanuginosa Wall.",
+            "id": "1659227",
+            "score": 0.0011
+        }
+    ]
+}

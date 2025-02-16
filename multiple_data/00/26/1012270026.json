@@ -1,0 +1,485 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Symphoricarpos orbiculatus Moench",
+            "id": "1398555",
+            "score": 0.86963
+        },
+        {
+            "name": "Cotoneaster dammeri C.K.Schneid.",
+            "id": "1391405",
+            "score": 0.07478
+        },
+        {
+            "name": "Symphoricarpos × chenaultii Rehder",
+            "id": "1844882",
+            "score": 0.06865
+        },
+        {
+            "name": "Buxus sempervirens L.",
+            "id": "1356729",
+            "score": 0.05351
+        },
+        {
+            "name": "Psydrax odoratus (G.Forst.) A.C.Sm. & S.P.Darwin",
+            "id": "1800580",
+            "score": 0.01554
+        },
+        {
+            "name": "Citrus australasica F.Muell.",
+            "id": "1420510",
+            "score": 0.01459
+        },
+        {
+            "name": "Peperomia rotundifolia (L.) Kunth",
+            "id": "1402925",
+            "score": 0.01417
+        },
+        {
+            "name": "Cotoneaster franchetii Bois",
+            "id": "1391408",
+            "score": 0.01296
+        },
+        {
+            "name": "Cotoneaster horizontalis Decne.",
+            "id": "1391410",
+            "score": 0.01184
+        },
+        {
+            "name": "Cenostigma pluviosum (DC.) Gagnon & G.P.Lewis",
+            "id": "1735429",
+            "score": 0.0109
+        },
+        {
+            "name": "Cotoneaster microphyllus Wall. ex Lindl.",
+            "id": "1397662",
+            "score": 0.00927
+        },
+        {
+            "name": "Ligustrum vulgare L.",
+            "id": "1359675",
+            "score": 0.00894
+        },
+        {
+            "name": "Murraya paniculata (L.) Jack",
+            "id": "1372599",
+            "score": 0.00875
+        },
+        {
+            "name": "Lonicera ligustrina Wall.",
+            "id": "1491421",
+            "score": 0.00851
+        },
+        {
+            "name": "Bituminaria bituminosa (L.) C.H.Stirt.",
+            "id": "1400177",
+            "score": 0.00828
+        },
+        {
+            "name": "Vaccinium vitis-idaea L.",
+            "id": "1396971",
+            "score": 0.00696
+        },
+        {
+            "name": "Buxus microphylla Siebold & Zucc.",
+            "id": "1418161",
+            "score": 0.00689
+        },
+        {
+            "name": "Peumus boldus Molina",
+            "id": "1601421",
+            "score": 0.0068
+        },
+        {
+            "name": "Veronica serpyllifolia L.",
+            "id": "1364066",
+            "score": 0.00678
+        },
+        {
+            "name": "Triphasia trifolia (Burm.f.) P.Wilson",
+            "id": "1407361",
+            "score": 0.0067
+        },
+        {
+            "name": "Specklinia microphylla (A.Rich. & Galeotti) Pridgeon & M.W.Chase",
+            "id": "1633329",
+            "score": 0.00668
+        },
+        {
+            "name": "Fernelia buxifolia Lam.",
+            "id": "1408071",
+            "score": 0.00576
+        },
+        {
+            "name": "Haplocoelum foliolosum (Hiern) Bullock",
+            "id": "1431765",
+            "score": 0.00566
+        },
+        {
+            "name": "Olea europaea L.",
+            "id": "1359676",
+            "score": 0.00537
+        },
+        {
+            "name": "Ligustrum ovalifolium Hassk.",
+            "id": "1393526",
+            "score": 0.00505
+        },
+        {
+            "name": "Cotoneaster × suecicus G.Klotz",
+            "id": "1667117",
+            "score": 0.00437
+        },
+        {
+            "name": "Shepherdia canadensis (L.) Nutt.",
+            "id": "1413779",
+            "score": 0.00421
+        },
+        {
+            "name": "Trachelospermum jasminoides (Lindl.) Lem.",
+            "id": "1369887",
+            "score": 0.00384
+        },
+        {
+            "name": "Specklinia picta (Lindl.) Pridgeon & M.W.Chase",
+            "id": "1633340",
+            "score": 0.00362
+        },
+        {
+            "name": "Elaeagnus pungens Thunb.",
+            "id": "1391836",
+            "score": 0.00336
+        },
+        {
+            "name": "Symphoricarpos microphyllus (Humb. & Bonpl. ex Schult.) Kunth",
+            "id": "1491573",
+            "score": 0.0033
+        },
+        {
+            "name": "Luronium natans (L.) Raf.",
+            "id": "1393657",
+            "score": 0.00318
+        },
+        {
+            "name": "Symphoricarpos albus (L.) S.F.Blake",
+            "id": "1397506",
+            "score": 0.00308
+        },
+        {
+            "name": "Eugenia monticola (Sw.) DC.",
+            "id": "1405583",
+            "score": 0.00298
+        },
+        {
+            "name": "Vinca minor L.",
+            "id": "1369309",
+            "score": 0.00279
+        },
+        {
+            "name": "Kolkwitzia amabilis Graebn.",
+            "id": "1390685",
+            "score": 0.00275
+        },
+        {
+            "name": "Ilex crenata Thunb.",
+            "id": "1420655",
+            "score": 0.00271
+        },
+        {
+            "name": "Moringa oleifera Lam.",
+            "id": "1366224",
+            "score": 0.0027
+        },
+        {
+            "name": "Vaccinium macrocarpon Aiton",
+            "id": "1398547",
+            "score": 0.00256
+        },
+        {
+            "name": "Salvinia natans (L.) All.",
+            "id": "1356440",
+            "score": 0.00254
+        },
+        {
+            "name": "Eugenia buxifolia Lam.",
+            "id": "1408053",
+            "score": 0.00249
+        },
+        {
+            "name": "Peperomia tetraphylla (G.Forst.) Hook. & Arn.",
+            "id": "1408489",
+            "score": 0.00245
+        },
+        {
+            "name": "Malpighia coccigera L.",
+            "id": "1408342",
+            "score": 0.00239
+        },
+        {
+            "name": "Ficus pumila L.",
+            "id": "1363143",
+            "score": 0.00238
+        },
+        {
+            "name": "Withania frutescens (L.) Pauquy",
+            "id": "1360578",
+            "score": 0.00231
+        },
+        {
+            "name": "Quillaja saponaria Molina",
+            "id": "1662873",
+            "score": 0.00229
+        },
+        {
+            "name": "Peperomia graveolens Rauh & Barthlott",
+            "id": "1643553",
+            "score": 0.00216
+        },
+        {
+            "name": "Trachelospermum asiaticum (Siebold & Zucc.) Nakai",
+            "id": "1463177",
+            "score": 0.00211
+        },
+        {
+            "name": "Alopecurus pratensis L.",
+            "id": "1362406",
+            "score": 0.0021
+        },
+        {
+            "name": "Glycine max (L.) Merr.",
+            "id": "1366904",
+            "score": 0.00208
+        },
+        {
+            "name": "Ligustrum sinense Lour.",
+            "id": "1390584",
+            "score": 0.00207
+        },
+        {
+            "name": "Alluaudia procera (Drake) Drake",
+            "id": "1431850",
+            "score": 0.00205
+        },
+        {
+            "name": "Leonotis nepetifolia (L.) R.Br.",
+            "id": "1401896",
+            "score": 0.00205
+        },
+        {
+            "name": "Fraxinus griffithii C.B.Clarke",
+            "id": "1428484",
+            "score": 0.00202
+        },
+        {
+            "name": "Citrus hystrix DC.",
+            "id": "1404728",
+            "score": 0.00198
+        },
+        {
+            "name": "Atriplex micrantha Ledeb.",
+            "id": "1399151",
+            "score": 0.00197
+        },
+        {
+            "name": "Colutea arborescens L.",
+            "id": "1362283",
+            "score": 0.00197
+        },
+        {
+            "name": "Fridericia speciosa Mart.",
+            "id": "1476676",
+            "score": 0.0019
+        },
+        {
+            "name": "Vicia sepium L.",
+            "id": "1397110",
+            "score": 0.00187
+        },
+        {
+            "name": "Citrus × aurantium L.",
+            "id": "1403435",
+            "score": 0.00182
+        },
+        {
+            "name": "Symphoricarpos mollis Nutt.",
+            "id": "1438785",
+            "score": 0.00174
+        },
+        {
+            "name": "Abelia chinensis R.Br.",
+            "id": "1418388",
+            "score": 0.00173
+        },
+        {
+            "name": "Callitriche stagnalis Scop.",
+            "id": "1359856",
+            "score": 0.00173
+        },
+        {
+            "name": "Vaccinium oxycoccos L.",
+            "id": "1396969",
+            "score": 0.00171
+        },
+        {
+            "name": "Viscum album L.",
+            "id": "1361900",
+            "score": 0.0017
+        },
+        {
+            "name": "Aralia elata (Miq.) Seem.",
+            "id": "1398447",
+            "score": 0.00167
+        },
+        {
+            "name": "Pimenta racemosa (Mill.) J.W.Moore",
+            "id": "1405379",
+            "score": 0.00164
+        },
+        {
+            "name": "Polygaloides chamaebuxus (L.) O.Schwarz",
+            "id": "1741776",
+            "score": 0.00164
+        },
+        {
+            "name": "Impatiens glandulifera Royle",
+            "id": "1393275",
+            "score": 0.00158
+        },
+        {
+            "name": "Dalbergia brasiliensis Vogel",
+            "id": "1576161",
+            "score": 0.00158
+        },
+        {
+            "name": "Cotoneaster zabelii C.K.Schneid.",
+            "id": "1391398",
+            "score": 0.00156
+        },
+        {
+            "name": "Apocynum androsaemifolium L.",
+            "id": "1398229",
+            "score": 0.00156
+        },
+        {
+            "name": "Libidibia ferrea (Mart. ex Tul.) L.P.Queiroz",
+            "id": "1719969",
+            "score": 0.00153
+        },
+        {
+            "name": "Atriplex sagittata Borkh.",
+            "id": "1399572",
+            "score": 0.00152
+        },
+        {
+            "name": "Quintinia oreophila (Schltr.) Schltr.",
+            "id": "1414589",
+            "score": 0.00151
+        },
+        {
+            "name": "Noccaea alpestris (Jacq.) Kerguélen",
+            "id": "1393962",
+            "score": 0.00148
+        },
+        {
+            "name": "Carissa macrocarpa (Eckl.) A.DC.",
+            "id": "1407787",
+            "score": 0.00145
+        },
+        {
+            "name": "Abelia × grandiflora (Rovelli ex André) Rehder",
+            "id": "1423427",
+            "score": 0.00141
+        },
+        {
+            "name": "Sideroxylon reclinatum Michx.",
+            "id": "1438250",
+            "score": 0.0014
+        },
+        {
+            "name": "Ruscus aculeatus L.",
+            "id": "1361710",
+            "score": 0.0014
+        },
+        {
+            "name": "Biscutella laevigata L.",
+            "id": "1362417",
+            "score": 0.00139
+        },
+        {
+            "name": "Mitchella repens L.",
+            "id": "1412737",
+            "score": 0.00139
+        },
+        {
+            "name": "Delonix regia (Bojer ex Hook.) Raf.",
+            "id": "1363784",
+            "score": 0.00138
+        },
+        {
+            "name": "Pongamia pinnata (L.) Pierre",
+            "id": "1408557",
+            "score": 0.00138
+        },
+        {
+            "name": "Medicago arborea L.",
+            "id": "1363733",
+            "score": 0.00138
+        },
+        {
+            "name": "Peperomia verticillata (L.) A.Dietr.",
+            "id": "1644223",
+            "score": 0.00137
+        },
+        {
+            "name": "Adenocarpus telonensis (Loisel.) DC.",
+            "id": "1359076",
+            "score": 0.00135
+        },
+        {
+            "name": "Vincetoxicum nigrum (L.) Moench",
+            "id": "1397114",
+            "score": 0.00132
+        },
+        {
+            "name": "Arctostaphylos uva-ursi (L.) Spreng.",
+            "id": "1396060",
+            "score": 0.00131
+        },
+        {
+            "name": "Hydrangea arborescens L.",
+            "id": "1393222",
+            "score": 0.00131
+        },
+        {
+            "name": "Amorpha fruticosa L.",
+            "id": "1393787",
+            "score": 0.00125
+        },
+        {
+            "name": "Bulbophyllum ovalifolium (Blume) Lindl.",
+            "id": "1613157",
+            "score": 0.00124
+        },
+        {
+            "name": "Volkameria inermis L.",
+            "id": "1362857",
+            "score": 0.00121
+        },
+        {
+            "name": "Desmodium paniculatum (L.) DC.",
+            "id": "1411731",
+            "score": 0.0012
+        },
+        {
+            "name": "Pimenta adenoclada (Urb.) Alain",
+            "id": "1606435",
+            "score": 0.0012
+        },
+        {
+            "name": "Nicandra physalodes (L.) Gaertn.",
+            "id": "1356144",
+            "score": 0.00118
+        }
+    ]
+}

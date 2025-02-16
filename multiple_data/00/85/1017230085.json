@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Chelidonium majus L.",
+            "id": "1359760",
+            "score": 0.79586
+        },
+        {
+            "name": "Stylophorum diphyllum (Michx.) Nutt.",
+            "id": "1413938",
+            "score": 0.02663
+        },
+        {
+            "name": "Papaver cambricum L.",
+            "id": "1419850",
+            "score": 0.01757
+        },
+        {
+            "name": "Taraxacum lacistophylloides Dahlst.",
+            "id": "1399688",
+            "score": 0.01204
+        },
+        {
+            "name": "Papaver alpinum L.",
+            "id": "1394399",
+            "score": 0.00163
+        },
+        {
+            "name": "Cardamine chelidonia L.",
+            "id": "1390692",
+            "score": 0.00153
+        },
+        {
+            "name": "Impatiens noli-tangere L.",
+            "id": "1393276",
+            "score": 0.00133
+        }
+    ]
+}

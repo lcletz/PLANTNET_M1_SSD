@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.90443
+        },
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.03938
+        },
+        {
+            "name": "Quercus chrysolepis Liebm.",
+            "id": "1437100",
+            "score": 0.01151
+        },
+        {
+            "name": "Quercus virginiana Mill.",
+            "id": "1419081",
+            "score": 0.00586
+        },
+        {
+            "name": "Quercus faginea Lam.",
+            "id": "1358614",
+            "score": 0.00498
+        },
+        {
+            "name": "Quercus pubescens Willd.",
+            "id": "1395026",
+            "score": 0.00496
+        },
+        {
+            "name": "Quercus rotundifolia Lam.",
+            "id": "1548459",
+            "score": 0.00104
+        }
+    ]
+}

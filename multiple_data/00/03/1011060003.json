@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bryonia alba L.",
+            "id": "1389570",
+            "score": 0.52231
+        },
+        {
+            "name": "Bryonia cretica L.",
+            "id": "1358446",
+            "score": 0.43171
+        },
+        {
+            "name": "Bryonia syriaca Boiss.",
+            "id": "1426046",
+            "score": 0.00144
+        },
+        {
+            "name": "Bryonia verrucosa Aiton",
+            "id": "1529567",
+            "score": 0.00142
+        },
+        {
+            "name": "Sicyos angulatus L.",
+            "id": "1413783",
+            "score": 0.00135
+        },
+        {
+            "name": "Cucumis melo L.",
+            "id": "1363647",
+            "score": 0.00102
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Xanthium strumarium L.",
+            "id": "1355898",
+            "score": 0.84344
+        },
+        {
+            "name": "Xanthium orientale L.",
+            "id": "1361786",
+            "score": 0.06393
+        },
+        {
+            "name": "Arctium minus (Hill) Bernh.",
+            "id": "1357244",
+            "score": 0.00411
+        },
+        {
+            "name": "Datura stramonium L.",
+            "id": "1360549",
+            "score": 0.0024
+        },
+        {
+            "name": "Xanthium spinosum L.",
+            "id": "1355897",
+            "score": 0.00151
+        },
+        {
+            "name": "Arctium lappa L.",
+            "id": "1396002",
+            "score": 0.00119
+        }
+    ]
+}

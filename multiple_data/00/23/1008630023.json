@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Artemisia arborescens L.",
+            "id": "1396742",
+            "score": 0.96472
+        },
+        {
+            "name": "Artemisia absinthium L.",
+            "id": "1357268",
+            "score": 0.00556
+        },
+        {
+            "name": "Artemisia abrotanum L.",
+            "id": "1396736",
+            "score": 0.00333
+        },
+        {
+            "name": "Artemisia thuscula Cav.",
+            "id": "1357290",
+            "score": 0.00298
+        },
+        {
+            "name": "Artemisia alba Turra",
+            "id": "1357269",
+            "score": 0.00178
+        },
+        {
+            "name": "Ruta montana (L.) L.",
+            "id": "1360445",
+            "score": 0.00129
+        },
+        {
+            "name": "Artemisia tridentata Nutt.",
+            "id": "1413720",
+            "score": 0.00108
+        }
+    ]
+}

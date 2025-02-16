@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Digitalis purpurea L.",
+            "id": "1364079",
+            "score": 0.60922
+        },
+        {
+            "name": "Digitalis thapsi L.",
+            "id": "1400052",
+            "score": 0.29655
+        },
+        {
+            "name": "Digitalis minor L.",
+            "id": "1646086",
+            "score": 0.00344
+        },
+        {
+            "name": "Digitalis grandiflora Mill.",
+            "id": "1391727",
+            "score": 0.00162
+        },
+        {
+            "name": "Digitalis lanata Ehrh.",
+            "id": "1397916",
+            "score": 0.00117
+        }
+    ]
+}

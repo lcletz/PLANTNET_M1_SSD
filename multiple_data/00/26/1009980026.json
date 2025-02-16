@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vicia faba L.",
+            "id": "1363676",
+            "score": 0.83877
+        },
+        {
+            "name": "Vicia narbonensis L.",
+            "id": "1363674",
+            "score": 0.02596
+        },
+        {
+            "name": "Vicia johannis Tamamsch.",
+            "id": "1397095",
+            "score": 0.00221
+        },
+        {
+            "name": "Vicia serratifolia Jacq.",
+            "id": "1397111",
+            "score": 0.00183
+        },
+        {
+            "name": "Vicia sepium L.",
+            "id": "1397110",
+            "score": 0.00155
+        },
+        {
+            "name": "Vicia sativa L.",
+            "id": "1359575",
+            "score": 0.00112
+        }
+    ]
+}

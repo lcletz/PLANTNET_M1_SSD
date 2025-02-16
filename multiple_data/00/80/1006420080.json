@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ficus spp.",
+            "id": "1420948",
+            "score": 0.67551
+        },
+        {
+            "name": "Syzygium cumini (L.) Skeels",
+            "id": "1382778",
+            "score": 0.0041
+        },
+        {
+            "name": "Eucalyptus globulus Labill.",
+            "id": "1356282",
+            "score": 0.00328
+        },
+        {
+            "name": "Ficus benjamina L.",
+            "id": "1382112",
+            "score": 0.00284
+        },
+        {
+            "name": "Syzygium jambos (L.) Alston",
+            "id": "1382774",
+            "score": 0.00189
+        }
+    ]
+}

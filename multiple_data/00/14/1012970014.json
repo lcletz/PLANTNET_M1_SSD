@@ -1,0 +1,335 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Vicia sativa L.",
+            "id": "1359575",
+            "score": 0.45276
+        },
+        {
+            "name": "Centaurea calcitrapa L.",
+            "id": "1355884",
+            "score": 0.29129
+        },
+        {
+            "name": "Urospermum dalechampii (L.) Scop. ex F.W.Schmidt",
+            "id": "1396955",
+            "score": 0.22608
+        },
+        {
+            "name": "Vicia lathyroides L.",
+            "id": "1363677",
+            "score": 0.14729
+        },
+        {
+            "name": "Vicia pyrenaica Pourr.",
+            "id": "1397106",
+            "score": 0.05271
+        },
+        {
+            "name": "Lathyrus hirsutus L.",
+            "id": "1363800",
+            "score": 0.02485
+        },
+        {
+            "name": "Vicia peregrina L.",
+            "id": "1359572",
+            "score": 0.02281
+        },
+        {
+            "name": "Arctotheca calendula (L.) Levyns",
+            "id": "1355927",
+            "score": 0.02267
+        },
+        {
+            "name": "Leontodon hispidus L.",
+            "id": "1357697",
+            "score": 0.02227
+        },
+        {
+            "name": "Vicia hybrida L.",
+            "id": "1359562",
+            "score": 0.0161
+        },
+        {
+            "name": "Hyoseris scabra L.",
+            "id": "1357653",
+            "score": 0.01501
+        },
+        {
+            "name": "Lathyrus nissolia L.",
+            "id": "1359277",
+            "score": 0.01319
+        },
+        {
+            "name": "Lepidium heterophyllum Benth.",
+            "id": "1358350",
+            "score": 0.01306
+        },
+        {
+            "name": "Bunias erucago L.",
+            "id": "1363920",
+            "score": 0.0094
+        },
+        {
+            "name": "Jasione maritima (Duby) L.M.Dufour ex Merino",
+            "id": "1489806",
+            "score": 0.00939
+        },
+        {
+            "name": "Arabidopsis arenosa (L.) Lawalrée",
+            "id": "1389345",
+            "score": 0.00732
+        },
+        {
+            "name": "Lepidium hirtum (L.) Sm.",
+            "id": "1358351",
+            "score": 0.0068
+        },
+        {
+            "name": "Morisia monanthos (Viv.) Asch.",
+            "id": "1393860",
+            "score": 0.00635
+        },
+        {
+            "name": "Vicia sepium L.",
+            "id": "1397110",
+            "score": 0.00634
+        },
+        {
+            "name": "Mantisalca salmantica (L.) Briq. & Cavill.",
+            "id": "1364108",
+            "score": 0.006
+        },
+        {
+            "name": "Vicia pannonica Crantz",
+            "id": "1363675",
+            "score": 0.00483
+        },
+        {
+            "name": "Vicia lutea L.",
+            "id": "1359565",
+            "score": 0.00471
+        },
+        {
+            "name": "Ononis spinosa L.",
+            "id": "1359431",
+            "score": 0.00428
+        },
+        {
+            "name": "Hypochaeris glabra L.",
+            "id": "1355871",
+            "score": 0.00359
+        },
+        {
+            "name": "Vicia bithynica (L.) L.",
+            "id": "1359551",
+            "score": 0.00354
+        },
+        {
+            "name": "Cicer arietinum L.",
+            "id": "1363794",
+            "score": 0.00352
+        },
+        {
+            "name": "Crepis bursifolia L.",
+            "id": "1357526",
+            "score": 0.00344
+        },
+        {
+            "name": "Vicia monantha Retz.",
+            "id": "1363673",
+            "score": 0.0029
+        },
+        {
+            "name": "Crepis vesicaria L.",
+            "id": "1357549",
+            "score": 0.00289
+        },
+        {
+            "name": "Leontodon saxatilis Lam.",
+            "id": "1357700",
+            "score": 0.00288
+        },
+        {
+            "name": "Knautia collina (Gaudin) Jord.",
+            "id": "1743143",
+            "score": 0.00267
+        },
+        {
+            "name": "Lathyrus sphaericus Retz.",
+            "id": "1363797",
+            "score": 0.00253
+        },
+        {
+            "name": "Astragalus danicus Retz.",
+            "id": "1398272",
+            "score": 0.00241
+        },
+        {
+            "name": "Ononis reclinata L.",
+            "id": "1363708",
+            "score": 0.00227
+        },
+        {
+            "name": "Cirsium acaule (L.) Scop.",
+            "id": "1737591",
+            "score": 0.00224
+        },
+        {
+            "name": "Crepis sancta (L.) Bornm.",
+            "id": "1357546",
+            "score": 0.00219
+        },
+        {
+            "name": "Echium plantagineum L.",
+            "id": "1363849",
+            "score": 0.00215
+        },
+        {
+            "name": "Crepis albida Vill.",
+            "id": "1357521",
+            "score": 0.00213
+        },
+        {
+            "name": "Hyoseris radiata L.",
+            "id": "1357652",
+            "score": 0.00203
+        },
+        {
+            "name": "Leontodon crispus Vill.",
+            "id": "1397425",
+            "score": 0.00195
+        },
+        {
+            "name": "Taraxacum pyrenaicum Reut.",
+            "id": "1396663",
+            "score": 0.00193
+        },
+        {
+            "name": "Jasione montana L.",
+            "id": "1356766",
+            "score": 0.0019
+        },
+        {
+            "name": "Lathyrus cicera L.",
+            "id": "1359268",
+            "score": 0.00186
+        },
+        {
+            "name": "Ornithopus perpusillus L.",
+            "id": "1359443",
+            "score": 0.00171
+        },
+        {
+            "name": "Hypochaeris radicata L.",
+            "id": "1355872",
+            "score": 0.00164
+        },
+        {
+            "name": "Taraxacum mattmarkense Soest",
+            "id": "1396621",
+            "score": 0.0016
+        },
+        {
+            "name": "Campanula spicata L.",
+            "id": "1390675",
+            "score": 0.00148
+        },
+        {
+            "name": "Onobrychis aequidentata (Sm.) d'Urv.",
+            "id": "1394039",
+            "score": 0.00142
+        },
+        {
+            "name": "Carthamus mitissimus L.",
+            "id": "1390957",
+            "score": 0.00142
+        },
+        {
+            "name": "Lathyrus clymenum L.",
+            "id": "1363799",
+            "score": 0.00137
+        },
+        {
+            "name": "Capsella bursa-pastoris (L.) Medik.",
+            "id": "1363910",
+            "score": 0.00133
+        },
+        {
+            "name": "Centaurea polyacantha Willd.",
+            "id": "1357445",
+            "score": 0.00125
+        },
+        {
+            "name": "Carduus nutans L.",
+            "id": "1357350",
+            "score": 0.00123
+        },
+        {
+            "name": "Pseudopodospermum brevicaule (Vahl) Zaika, Sukhor. & N.Kilian",
+            "id": "1743891",
+            "score": 0.0012
+        },
+        {
+            "name": "Brassica barrelieri (L.) Janka",
+            "id": "1358194",
+            "score": 0.00119
+        },
+        {
+            "name": "Astragalus alpinus L.",
+            "id": "1397324",
+            "score": 0.00114
+        },
+        {
+            "name": "Crepis leontodontoides All.",
+            "id": "1391452",
+            "score": 0.00111
+        },
+        {
+            "name": "Carduus nigrescens Vill.",
+            "id": "1390740",
+            "score": 0.00105
+        },
+        {
+            "name": "Thapsia villosa L.",
+            "id": "1360811",
+            "score": 0.00104
+        },
+        {
+            "name": "Lotus tetragonolobus L.",
+            "id": "1393649",
+            "score": 0.00103
+        },
+        {
+            "name": "Scabiosa columbaria L.",
+            "id": "1361926",
+            "score": 0.00103
+        },
+        {
+            "name": "Lathyrus sylvestris L.",
+            "id": "1393458",
+            "score": 0.00101
+        },
+        {
+            "name": "Glaucium flavum Crantz",
+            "id": "1359804",
+            "score": 0.00099
+        },
+        {
+            "name": "Centaurea iberica Trevir. ex Spreng.",
+            "id": "1397697",
+            "score": 0.00099
+        },
+        {
+            "name": "Orobanche minor Sm.",
+            "id": "1356136",
+            "score": 0.00098
+        },
+        {
+            "name": "Scorzoneroides autumnalis (L.) Moench",
+            "id": "1396117",
+            "score": 0.00093
+        }
+    ]
+}

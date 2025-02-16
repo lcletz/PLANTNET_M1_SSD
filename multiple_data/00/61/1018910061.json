@@ -1,0 +1,50 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Oenothera glazioviana Micheli",
+            "id": "1361960",
+            "score": 0.11082
+        },
+        {
+            "name": "Oenothera stricta Ledeb. ex Link",
+            "id": "1361986",
+            "score": 0.0405
+        },
+        {
+            "name": "Oenothera parviflora L.",
+            "id": "1394019",
+            "score": 0.03765
+        },
+        {
+            "name": "Oenothera biennis L.",
+            "id": "1361953",
+            "score": 0.00818
+        },
+        {
+            "name": "Oenothera indecora Cambess.",
+            "id": "1359690",
+            "score": 0.00497
+        },
+        {
+            "name": "Oenothera oakesiana (A.Gray) J.W.Robbins ex S.Watson",
+            "id": "1737458",
+            "score": 0.0034
+        },
+        {
+            "name": "Oenothera villosa Thunb.",
+            "id": "1361959",
+            "score": 0.00251
+        },
+        {
+            "name": "Oenothera longiflora L.",
+            "id": "1359691",
+            "score": 0.00213
+        },
+        {
+            "name": "Oenothera affinis Cambess.",
+            "id": "1419650",
+            "score": 0.00185
+        }
+    ]
+}

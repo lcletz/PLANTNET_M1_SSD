@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Silene vulgaris (Moench) Garcke",
+            "id": "1357059",
+            "score": 0.70518
+        },
+        {
+            "name": "Silene uniflora Roth",
+            "id": "1396296",
+            "score": 0.20259
+        },
+        {
+            "name": "Silene dichotoma Ehrh.",
+            "id": "1356984",
+            "score": 0.00576
+        },
+        {
+            "name": "Silene behen L.",
+            "id": "1356963",
+            "score": 0.00361
+        },
+        {
+            "name": "Silene noctiflora L.",
+            "id": "1363341",
+            "score": 0.00169
+        },
+        {
+            "name": "Silene conica L.",
+            "id": "1356976",
+            "score": 0.00146
+        },
+        {
+            "name": "Silene latifolia Poir.",
+            "id": "1357009",
+            "score": 0.0013
+        }
+    ]
+}

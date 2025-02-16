@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Saponaria officinalis L.",
+            "id": "1356803",
+            "score": 0.77514
+        },
+        {
+            "name": "Saponaria caespitosa DC.",
+            "id": "1395928",
+            "score": 0.10394
+        },
+        {
+            "name": "Dianthus superbus L.",
+            "id": "1391716",
+            "score": 0.00142
+        },
+        {
+            "name": "Silene flos-cuculi (L.) Greuter & Burdet",
+            "id": "1418412",
+            "score": 0.00111
+        },
+        {
+            "name": "Silene nutans L.",
+            "id": "1357026",
+            "score": 0.00105
+        }
+    ]
+}

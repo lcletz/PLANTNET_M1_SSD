@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ligustrum lucidum W.T.Aiton",
+            "id": "1393525",
+            "score": 0.92596
+        },
+        {
+            "name": "Ligustrum japonicum Thunb.",
+            "id": "1397735",
+            "score": 0.0441
+        },
+        {
+            "name": "Osmanthus fragrans Lour.",
+            "id": "1394028",
+            "score": 0.00264
+        },
+        {
+            "name": "Ficus microcarpa L.f.",
+            "id": "1409180",
+            "score": 0.0014
+        },
+        {
+            "name": "Camellia japonica L.",
+            "id": "1379149",
+            "score": 0.00121
+        }
+    ]
+}

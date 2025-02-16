@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Plantago coronopus L.",
+            "id": "1356065",
+            "score": 0.96548
+        },
+        {
+            "name": "Plantago weldenii Rchb.",
+            "id": "1359976",
+            "score": 0.01041
+        },
+        {
+            "name": "Plantago bellardii All.",
+            "id": "1359950",
+            "score": 0.0052
+        },
+        {
+            "name": "Plantago maritima L.",
+            "id": "1359965",
+            "score": 0.00183
+        },
+        {
+            "name": "Plantago virginica L.",
+            "id": "1394642",
+            "score": 0.00182
+        },
+        {
+            "name": "Plantago serraria L.",
+            "id": "1359970",
+            "score": 0.00162
+        }
+    ]
+}

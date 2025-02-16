@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Scutellaria alpina L.",
+            "id": "1397490",
+            "score": 0.88811
+        },
+        {
+            "name": "Prunella grandiflora (L.) Turra",
+            "id": "1737424",
+            "score": 0.00352
+        },
+        {
+            "name": "Dracocephalum austriacum L.",
+            "id": "1391788",
+            "score": 0.00191
+        },
+        {
+            "name": "Scutellaria hastifolia L.",
+            "id": "1396138",
+            "score": 0.00143
+        },
+        {
+            "name": "Salvia pratensis L.",
+            "id": "1395913",
+            "score": 0.00109
+        }
+    ]
+}

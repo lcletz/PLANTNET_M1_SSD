@@ -1,0 +1,470 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viburnum macrocephalum Fortune",
+            "id": "1398542",
+            "score": 0.58083
+        },
+        {
+            "name": "Viburnum trilobum Marshall",
+            "id": "1397611",
+            "score": 0.31514
+        },
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.03661
+        },
+        {
+            "name": "Viburnum opulus L.",
+            "id": "1361743",
+            "score": 0.02881
+        },
+        {
+            "name": "Physocarpus opulifolius (L.) Maxim.",
+            "id": "1413073",
+            "score": 0.02488
+        },
+        {
+            "name": "Ligustrum japonicum Thunb.",
+            "id": "1397735",
+            "score": 0.02189
+        },
+        {
+            "name": "Ligustrum lucidum W.T.Aiton",
+            "id": "1393525",
+            "score": 0.01414
+        },
+        {
+            "name": "Crataegus baroussana Eggl.",
+            "id": "1821889",
+            "score": 0.01308
+        },
+        {
+            "name": "Syringa pubescens Turcz.",
+            "id": "1609521",
+            "score": 0.01073
+        },
+        {
+            "name": "Viburnum acerifolium L.",
+            "id": "1414184",
+            "score": 0.00967
+        },
+        {
+            "name": "Ligustrum sinense Lour.",
+            "id": "1390584",
+            "score": 0.00952
+        },
+        {
+            "name": "Viburnum plicatum Thunb.",
+            "id": "1397609",
+            "score": 0.00817
+        },
+        {
+            "name": "Darmera peltata (Torr. ex Benth.) Voss",
+            "id": "1389718",
+            "score": 0.00729
+        },
+        {
+            "name": "Filipendula rubra (Hill) B.L.Rob.",
+            "id": "1667442",
+            "score": 0.00657
+        },
+        {
+            "name": "Ligustrum ovalifolium Hassk.",
+            "id": "1393526",
+            "score": 0.00606
+        },
+        {
+            "name": "Viburnum tinus L.",
+            "id": "1356793",
+            "score": 0.00553
+        },
+        {
+            "name": "Dombeya acutangula Cav.",
+            "id": "1377992",
+            "score": 0.00488
+        },
+        {
+            "name": "Viburnum sargentii Koehne",
+            "id": "1447924",
+            "score": 0.00392
+        },
+        {
+            "name": "Hydrangea quercifolia W.Bartram",
+            "id": "1390614",
+            "score": 0.00385
+        },
+        {
+            "name": "Ribes sanguineum Pursh",
+            "id": "1395204",
+            "score": 0.00265
+        },
+        {
+            "name": "Cotinus coggygria Scop.",
+            "id": "1391375",
+            "score": 0.00249
+        },
+        {
+            "name": "Hydrangea paniculata Siebold",
+            "id": "1393223",
+            "score": 0.00229
+        },
+        {
+            "name": "Acer tataricum L.",
+            "id": "1398270",
+            "score": 0.00216
+        },
+        {
+            "name": "Spiraea japonica L.f.",
+            "id": "1396400",
+            "score": 0.00211
+        },
+        {
+            "name": "Cercis occidentalis Torr. ex A.Gray",
+            "id": "1397805",
+            "score": 0.00183
+        },
+        {
+            "name": "Ligustrum vulgare L.",
+            "id": "1359675",
+            "score": 0.00183
+        },
+        {
+            "name": "Ceanothus × delileanus Spach",
+            "id": "1843920",
+            "score": 0.00169
+        },
+        {
+            "name": "Hibiscus rosa-sinensis L.",
+            "id": "1370542",
+            "score": 0.00168
+        },
+        {
+            "name": "Viburnum carlesii Hemsl.",
+            "id": "1397080",
+            "score": 0.00167
+        },
+        {
+            "name": "Viburnum × carlcephalum Burkwood ex Rullo, Brach & Gandhi",
+            "id": "1844927",
+            "score": 0.00167
+        },
+        {
+            "name": "Viburnum rugosum Pers.",
+            "id": "1722512",
+            "score": 0.00157
+        },
+        {
+            "name": "Crataegus laevigata (Poir.) DC.",
+            "id": "1360293",
+            "score": 0.00152
+        },
+        {
+            "name": "Rhus ovata S.Watson",
+            "id": "1817497",
+            "score": 0.00152
+        },
+        {
+            "name": "Ceanothus arboreus Greene",
+            "id": "1390611",
+            "score": 0.00146
+        },
+        {
+            "name": "Ribes malvaceum Sm.",
+            "id": "1437371",
+            "score": 0.00144
+        },
+        {
+            "name": "Filipendula glaberrima Nakai",
+            "id": "1667435",
+            "score": 0.00142
+        },
+        {
+            "name": "Ribes nevadense Kellogg",
+            "id": "1437374",
+            "score": 0.00141
+        },
+        {
+            "name": "Mandevilla laxa (Ruiz & Pav.) Woodson",
+            "id": "1395280",
+            "score": 0.00133
+        },
+        {
+            "name": "Photinia serratifolia (Desf.) Kalkman",
+            "id": "1420392",
+            "score": 0.00133
+        },
+        {
+            "name": "Heterocentron glandulosum Schrenk",
+            "id": "1727242",
+            "score": 0.00132
+        },
+        {
+            "name": "Viburnum lantana L.",
+            "id": "1356792",
+            "score": 0.00129
+        },
+        {
+            "name": "Physocarpus capitatus (Pursh) Kuntze",
+            "id": "1413071",
+            "score": 0.00125
+        },
+        {
+            "name": "Hydrangea arborescens L.",
+            "id": "1393222",
+            "score": 0.00122
+        },
+        {
+            "name": "Spiraea dasyantha Bunge",
+            "id": "1669990",
+            "score": 0.00121
+        },
+        {
+            "name": "Cotoneaster multiflorus Bunge",
+            "id": "1391390",
+            "score": 0.00119
+        },
+        {
+            "name": "Hydrangea serrata (Thunb.) Ser.",
+            "id": "1721569",
+            "score": 0.00116
+        },
+        {
+            "name": "Rhododendron roseum (Loisel.) Rehder",
+            "id": "1540408",
+            "score": 0.00115
+        },
+        {
+            "name": "Spiraea nervosa Franch. & Sav.",
+            "id": "1670032",
+            "score": 0.00112
+        },
+        {
+            "name": "Rubus odoratus L.",
+            "id": "1398378",
+            "score": 0.00112
+        },
+        {
+            "name": "Viburnum glomeratum Maxim.",
+            "id": "1447870",
+            "score": 0.00111
+        },
+        {
+            "name": "Rubus scaber Weihe",
+            "id": "1395602",
+            "score": 0.0011
+        },
+        {
+            "name": "Valeriana angustifolia Mill.",
+            "id": "1743107",
+            "score": 0.00104
+        },
+        {
+            "name": "Rhododendron macrophyllum D.Don ex G.Don",
+            "id": "1815572",
+            "score": 0.00104
+        },
+        {
+            "name": "Crataegus chrysocarpa Ashe",
+            "id": "1411577",
+            "score": 0.00104
+        },
+        {
+            "name": "Actinidia chinensis Planch.",
+            "id": "1397151",
+            "score": 0.00103
+        },
+        {
+            "name": "Pittosporum tenuifolium Gaertn.",
+            "id": "1390583",
+            "score": 0.001
+        },
+        {
+            "name": "Trachelospermum jasminoides (Lindl.) Lem.",
+            "id": "1369887",
+            "score": 0.00098
+        },
+        {
+            "name": "Lonicera periclymenum L.",
+            "id": "1356790",
+            "score": 0.00098
+        },
+        {
+            "name": "Schinus terebinthifolia Raddi",
+            "id": "1396078",
+            "score": 0.00093
+        },
+        {
+            "name": "Ficus heterophylla L.f.",
+            "id": "1601948",
+            "score": 0.00091
+        },
+        {
+            "name": "Spiraea chamaedryfolia L.",
+            "id": "1396398",
+            "score": 0.00083
+        },
+        {
+            "name": "Forsythia viridissima Lindl.",
+            "id": "1398098",
+            "score": 0.00082
+        },
+        {
+            "name": "Elaeagnus × submacrophylla Servett.",
+            "id": "1537082",
+            "score": 0.00077
+        },
+        {
+            "name": "Eugenia axillaris (Sw.) Willd.",
+            "id": "1409612",
+            "score": 0.00077
+        },
+        {
+            "name": "Schinus latifolia (Gillies ex Lindl.) Engl.",
+            "id": "1842893",
+            "score": 0.00075
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.0007
+        },
+        {
+            "name": "Cotinus obovatus Raf.",
+            "id": "1419269",
+            "score": 0.00067
+        },
+        {
+            "name": "Securinega durissima J.F.Gmel.",
+            "id": "1408670",
+            "score": 0.00066
+        },
+        {
+            "name": "Flacourtia indica (Burm.f.) Merr.",
+            "id": "1420551",
+            "score": 0.00063
+        },
+        {
+            "name": "Hibiscus arnottianus A.Gray",
+            "id": "1815040",
+            "score": 0.00063
+        },
+        {
+            "name": "Corylus maxima Mill.",
+            "id": "1391369",
+            "score": 0.00062
+        },
+        {
+            "name": "Viburnum dentatum L.",
+            "id": "1417545",
+            "score": 0.00061
+        },
+        {
+            "name": "Synsepalum dulcificum (Schumach. & Thonn.) Daniell",
+            "id": "1372962",
+            "score": 0.00058
+        },
+        {
+            "name": "Amelanchier alnifolia (Nutt.) Nutt. ex M.Roem.",
+            "id": "1420336",
+            "score": 0.00057
+        },
+        {
+            "name": "Holmskioldia sanguinea Retz.",
+            "id": "1378850",
+            "score": 0.00056
+        },
+        {
+            "name": "Aesculus × arnoldiana Sarg.",
+            "id": "1843618",
+            "score": 0.00055
+        },
+        {
+            "name": "Aronia melanocarpa (Michx.) Elliott",
+            "id": "1398450",
+            "score": 0.00053
+        },
+        {
+            "name": "Ligustrum compactum (Wall. ex G.Don) Hook.f. & Thomson ex Brandis",
+            "id": "1609333",
+            "score": 0.00049
+        },
+        {
+            "name": "Osmanthus × burkwoodii (Burkwood & Skipwith) P.S.Green",
+            "id": "1844510",
+            "score": 0.00049
+        },
+        {
+            "name": "Photinia × fraseri Dress",
+            "id": "1780757",
+            "score": 0.00049
+        },
+        {
+            "name": "Fallopia baldschuanica (Regel) Holub",
+            "id": "1392248",
+            "score": 0.00047
+        },
+        {
+            "name": "Lantana camara L.",
+            "id": "1360857",
+            "score": 0.00046
+        },
+        {
+            "name": "Prunus brigantina Vill.",
+            "id": "1394945",
+            "score": 0.00045
+        },
+        {
+            "name": "Nauclea latifolia Sm.",
+            "id": "1748331",
+            "score": 0.00045
+        },
+        {
+            "name": "Crataegus germanica (L.) Kuntze",
+            "id": "1391434",
+            "score": 0.00043
+        },
+        {
+            "name": "Myrica pensylvanica Mirb.",
+            "id": "1602514",
+            "score": 0.00043
+        },
+        {
+            "name": "Hibiscus syriacus L.",
+            "id": "1392770",
+            "score": 0.00043
+        },
+        {
+            "name": "Hamelia patens Jacq.",
+            "id": "1371987",
+            "score": 0.00042
+        },
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.00042
+        },
+        {
+            "name": "Vitex trifolia L.",
+            "id": "1408829",
+            "score": 0.00042
+        },
+        {
+            "name": "Pistacia terebinthus L.",
+            "id": "1356567",
+            "score": 0.00042
+        },
+        {
+            "name": "Azara serrata Ruiz & Pav.",
+            "id": "1683433",
+            "score": 0.0004
+        },
+        {
+            "name": "Lagerstroemia indica L.",
+            "id": "1376509",
+            "score": 0.0004
+        }
+    ]
+}

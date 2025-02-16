@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cosmos caudatus Kunth",
+            "id": "1406252",
+            "score": 0.48127
+        },
+        {
+            "name": "Cosmos bipinnatus Cav.",
+            "id": "1364120",
+            "score": 0.3554
+        },
+        {
+            "name": "Tanacetum coccineum (Willd.) Grierson",
+            "id": "1398099",
+            "score": 0.04177
+        },
+        {
+            "name": "Cosmos parviflorus (Jacq.) Pers.",
+            "id": "1441730",
+            "score": 0.00333
+        },
+        {
+            "name": "Coreopsis auriculata L.",
+            "id": "1441678",
+            "score": 0.00251
+        },
+        {
+            "name": "Tagetes tenuifolia Cav.",
+            "id": "1389492",
+            "score": 0.00204
+        },
+        {
+            "name": "Coreopsis lanceolata L.",
+            "id": "1391350",
+            "score": 0.00149
+        }
+    ]
+}

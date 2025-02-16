@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Narcissus spp.",
+            "id": "1419152",
+            "score": 0.75893
+        },
+        {
+            "name": "Narcissus tazetta L.",
+            "id": "1360971",
+            "score": 0.11674
+        },
+        {
+            "name": "Narcissus poeticus L.",
+            "id": "1393929",
+            "score": 0.00588
+        },
+        {
+            "name": "Narcissus papyraceus Ker Gawl.",
+            "id": "1360965",
+            "score": 0.00275
+        },
+        {
+            "name": "Narcissus jonquilla L.",
+            "id": "1360962",
+            "score": 0.00225
+        }
+    ]
+}

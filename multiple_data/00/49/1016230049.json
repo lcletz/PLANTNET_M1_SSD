@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ficus elastica Roxb. ex Hornem.",
+            "id": "1403870",
+            "score": 0.9109
+        },
+        {
+            "name": "Calophyllum inophyllum L.",
+            "id": "1373792",
+            "score": 0.00976
+        },
+        {
+            "name": "Hippomane mancinella L.",
+            "id": "1376238",
+            "score": 0.00587
+        },
+        {
+            "name": "Ficus rubiginosa Desf. ex Vent.",
+            "id": "1362952",
+            "score": 0.00341
+        },
+        {
+            "name": "Fagraea berteroana A.Gray ex Benth.",
+            "id": "1419094",
+            "score": 0.00126
+        },
+        {
+            "name": "Mimusops coriacea (A.DC.) Miq.",
+            "id": "1424021",
+            "score": 0.00125
+        }
+    ]
+}

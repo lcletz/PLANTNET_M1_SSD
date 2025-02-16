@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.96211
+        },
+        {
+            "name": "Phalaris arundinacea L.",
+            "id": "1363490",
+            "score": 0.00192
+        },
+        {
+            "name": "Cynosurus cristatus L.",
+            "id": "1361225",
+            "score": 0.00176
+        },
+        {
+            "name": "Phalaris canariensis L.",
+            "id": "1363491",
+            "score": 0.0014
+        },
+        {
+            "name": "Rostraria cristata (L.) Tzvelev",
+            "id": "1361394",
+            "score": 0.00129
+        },
+        {
+            "name": "Eleusine indica (L.) Gaertn.",
+            "id": "1361245",
+            "score": 0.00101
+        }
+    ]
+}

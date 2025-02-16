@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Senecio doria L.",
+            "id": "1357857",
+            "score": 0.87281
+        },
+        {
+            "name": "Jacobaea vulgaris Gaertn.",
+            "id": "1362040",
+            "score": 0.03813
+        },
+        {
+            "name": "Senecio squalidus L.",
+            "id": "1357867",
+            "score": 0.00846
+        },
+        {
+            "name": "Senecio sylvaticus L.",
+            "id": "1357868",
+            "score": 0.00809
+        },
+        {
+            "name": "Senecio lividus L.",
+            "id": "1357862",
+            "score": 0.00482
+        }
+    ]
+}

@@ -1,0 +1,245 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Abies alba Mill.",
+            "id": "1397299",
+            "score": 0.28224
+        },
+        {
+            "name": "Tsuga heterophylla (Raf.) Sarg.",
+            "id": "1396904",
+            "score": 0.11729
+        },
+        {
+            "name": "Abies balsamea (L.) Mill.",
+            "id": "1398265",
+            "score": 0.10004
+        },
+        {
+            "name": "Tsuga canadensis (L.) Carrière",
+            "id": "1398279",
+            "score": 0.08959
+        },
+        {
+            "name": "Abies grandis (Douglas ex D.Don) Lindl.",
+            "id": "1391871",
+            "score": 0.0586
+        },
+        {
+            "name": "Abies nordmanniana (Steven) Spach",
+            "id": "1393306",
+            "score": 0.04249
+        },
+        {
+            "name": "Sequoia sempervirens (D.Don) Endl.",
+            "id": "1396213",
+            "score": 0.03135
+        },
+        {
+            "name": "Abies cephalonica Loudon",
+            "id": "1419895",
+            "score": 0.01607
+        },
+        {
+            "name": "Pseudotsuga menziesii (Mirb.) Franco",
+            "id": "1394967",
+            "score": 0.01485
+        },
+        {
+            "name": "Picea orientalis (L.) Peterm.",
+            "id": "1419908",
+            "score": 0.01251
+        },
+        {
+            "name": "Picea brachytyla (Franch.) E.Pritz.",
+            "id": "1388961",
+            "score": 0.01101
+        },
+        {
+            "name": "Picea omorika (Pancic) Purk.",
+            "id": "1394561",
+            "score": 0.01091
+        },
+        {
+            "name": "Abies procera Rehder",
+            "id": "1398231",
+            "score": 0.00773
+        },
+        {
+            "name": "Abies numidica de Lannoy ex Carrière",
+            "id": "1419899",
+            "score": 0.00715
+        },
+        {
+            "name": "Abies cilicica (Antoine & Kotschy) Carrière",
+            "id": "1398299",
+            "score": 0.00657
+        },
+        {
+            "name": "Abies sibirica Ledeb.",
+            "id": "1388938",
+            "score": 0.00654
+        },
+        {
+            "name": "Picea abies (L.) H.Karst.",
+            "id": "1397459",
+            "score": 0.00651
+        },
+        {
+            "name": "Abies fraseri (Pursh) Poir.",
+            "id": "1419897",
+            "score": 0.00596
+        },
+        {
+            "name": "Picea koyamae Shiras.",
+            "id": "1419906",
+            "score": 0.0058
+        },
+        {
+            "name": "Abies veitchii Lindl.",
+            "id": "1398268",
+            "score": 0.00515
+        },
+        {
+            "name": "Abies nebrodensis (Lojac.) Mattei",
+            "id": "1701744",
+            "score": 0.00491
+        },
+        {
+            "name": "Tsuga dumosa (D.Don) Eichler",
+            "id": "1701836",
+            "score": 0.00463
+        },
+        {
+            "name": "Tsuga caroliniana Engelm.",
+            "id": "1419921",
+            "score": 0.00458
+        },
+        {
+            "name": "Abies pinsapo Boiss.",
+            "id": "1393800",
+            "score": 0.00389
+        },
+        {
+            "name": "Abies spectabilis (D.Don) Mirb.",
+            "id": "1701749",
+            "score": 0.0038
+        },
+        {
+            "name": "Abies sachalinensis (F.Schmidt) Mast.",
+            "id": "1419900",
+            "score": 0.00336
+        },
+        {
+            "name": "Tsuga diversifolia (Maxim.) Mast.",
+            "id": "1388978",
+            "score": 0.00328
+        },
+        {
+            "name": "Taxus contorta Griff.",
+            "id": "1728702",
+            "score": 0.00303
+        },
+        {
+            "name": "Abies mariesii Mast.",
+            "id": "1701743",
+            "score": 0.00276
+        },
+        {
+            "name": "Picea rubens Sarg.",
+            "id": "1388958",
+            "score": 0.00273
+        },
+        {
+            "name": "Taxus brevifolia Nutt.",
+            "id": "1388847",
+            "score": 0.00252
+        },
+        {
+            "name": "Tsuga mertensiana (Bong.) Carrière",
+            "id": "1388979",
+            "score": 0.002
+        },
+        {
+            "name": "Abies durangensis Martínez",
+            "id": "1701737",
+            "score": 0.00184
+        },
+        {
+            "name": "Abies concolor (Gordon & Glend.) Lindl. ex Hildebr.",
+            "id": "1396925",
+            "score": 0.00181
+        },
+        {
+            "name": "Picea sitchensis (Bong.) Carrière",
+            "id": "1394564",
+            "score": 0.00178
+        },
+        {
+            "name": "Abies koreana E.H.Wilson",
+            "id": "1398405",
+            "score": 0.00173
+        },
+        {
+            "name": "Abies homolepis Siebold & Zucc.",
+            "id": "1398301",
+            "score": 0.00142
+        },
+        {
+            "name": "Thuja plicata Donn ex D.Don",
+            "id": "1418597",
+            "score": 0.00142
+        },
+        {
+            "name": "Taxus baccata L.",
+            "id": "1396710",
+            "score": 0.00134
+        },
+        {
+            "name": "Picea mariana (Mill.) Britton, Sterns & Poggenb.",
+            "id": "1413077",
+            "score": 0.00127
+        },
+        {
+            "name": "Tsuga sieboldii Carrière",
+            "id": "1419922",
+            "score": 0.00123
+        },
+        {
+            "name": "Abies magnifica A.Murray bis",
+            "id": "1419898",
+            "score": 0.00105
+        },
+        {
+            "name": "Cryptomeria japonica (Thunb. ex L.f.) D.Don",
+            "id": "1418585",
+            "score": 0.00077
+        },
+        {
+            "name": "Picea laxa (Münchh.) Sarg.",
+            "id": "1737434",
+            "score": 0.00068
+        },
+        {
+            "name": "Abies pindrow (Royle ex D.Don) Royle",
+            "id": "1388936",
+            "score": 0.00056
+        },
+        {
+            "name": "Abies bracteata (D.Don) Poit.",
+            "id": "1388843",
+            "score": 0.00056
+        },
+        {
+            "name": "Torreya californica Torr.",
+            "id": "1398276",
+            "score": 0.00054
+        },
+        {
+            "name": "Chamaecyparis lawsoniana (A.Murray bis) Parl.",
+            "id": "1418584",
+            "score": 0.00045
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Artemisia vulgaris L.",
+            "id": "1364152",
+            "score": 0.78092
+        },
+        {
+            "name": "Artemisia annua L.",
+            "id": "1382106",
+            "score": 0.0939
+        },
+        {
+            "name": "Artemisia verlotiorum Lamotte",
+            "id": "1357291",
+            "score": 0.03183
+        },
+        {
+            "name": "Artemisia biennis Willd.",
+            "id": "1396751",
+            "score": 0.01239
+        },
+        {
+            "name": "Artemisia campestris L.",
+            "id": "1357275",
+            "score": 0.00449
+        },
+        {
+            "name": "Artemisia abrotanum L.",
+            "id": "1396736",
+            "score": 0.0026
+        },
+        {
+            "name": "Artemisia absinthium L.",
+            "id": "1357268",
+            "score": 0.00254
+        },
+        {
+            "name": "Jacobaea vulgaris Gaertn.",
+            "id": "1362040",
+            "score": 0.00236
+        },
+        {
+            "name": "Ambrosia artemisiifolia L.",
+            "id": "1355901",
+            "score": 0.00167
+        },
+        {
+            "name": "Glebionis coronaria (L.) Cass. ex Spach",
+            "id": "1400016",
+            "score": 0.00141
+        },
+        {
+            "name": "Aconitum napellus L.",
+            "id": "1395208",
+            "score": 0.00119
+        },
+        {
+            "name": "Tanacetum vulgare L.",
+            "id": "1396512",
+            "score": 0.00119
+        },
+        {
+            "name": "Tanacetum corymbosum (L.) Sch.Bip.",
+            "id": "1397508",
+            "score": 0.00109
+        }
+    ]
+}

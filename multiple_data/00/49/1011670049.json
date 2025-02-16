@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tanacetum vulgare L.",
+            "id": "1396512",
+            "score": 0.87234
+        },
+        {
+            "name": "Tanacetum audibertii DC.",
+            "id": "1743426",
+            "score": 0.00504
+        },
+        {
+            "name": "Tanacetum annuum L.",
+            "id": "1357915",
+            "score": 0.00447
+        },
+        {
+            "name": "Achillea ageratum L.",
+            "id": "1357182",
+            "score": 0.0022
+        },
+        {
+            "name": "Tanacetum balsamita L.",
+            "id": "1396509",
+            "score": 0.0015
+        },
+        {
+            "name": "Gonospermum fruticosum Less.",
+            "id": "1357611",
+            "score": 0.00149
+        },
+        {
+            "name": "Psiadia altissima (DC.) Benth. & Hook.f. ex B.D.Jacks.",
+            "id": "1762402",
+            "score": 0.00116
+        }
+    ]
+}

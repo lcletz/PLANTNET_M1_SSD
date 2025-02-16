@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Biscutella laevigata L.",
+            "id": "1362417",
+            "score": 0.9323
+        },
+        {
+            "name": "Biscutella intermedia Gouan",
+            "id": "1400162",
+            "score": 0.00296
+        },
+        {
+            "name": "Biscutella neustriaca Bonnet",
+            "id": "1479537",
+            "score": 0.00185
+        },
+        {
+            "name": "Brassica rapa L.",
+            "id": "1363906",
+            "score": 0.00154
+        },
+        {
+            "name": "Biscutella cichoriifolia Loisel.",
+            "id": "1400156",
+            "score": 0.00124
+        }
+    ]
+}

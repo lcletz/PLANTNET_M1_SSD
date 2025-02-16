@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salvia uliginosa Benth.",
+            "id": "1388783",
+            "score": 0.93688
+        },
+        {
+            "name": "Salvia pallida Benth.",
+            "id": "1437812",
+            "score": 0.00708
+        },
+        {
+            "name": "Salvia occidentalis Sw.",
+            "id": "1377395",
+            "score": 0.00161
+        },
+        {
+            "name": "Salvia hispanica L.",
+            "id": "1419283",
+            "score": 0.00142
+        },
+        {
+            "name": "Salvia patens Cav.",
+            "id": "1398571",
+            "score": 0.00105
+        },
+        {
+            "name": "Salvia officinalis L.",
+            "id": "1356118",
+            "score": 0.00101
+        }
+    ]
+}

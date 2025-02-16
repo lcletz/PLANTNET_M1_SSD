@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Hypericum androsaemum L.",
+            "id": "1358689",
+            "score": 0.72527
+        },
+        {
+            "name": "Hypericum hircinum L.",
+            "id": "1358699",
+            "score": 0.07871
+        },
+        {
+            "name": "Hypericum × inodorum Mill.",
+            "id": "1555288",
+            "score": 0.06814
+        },
+        {
+            "name": "Hypericum calycinum L.",
+            "id": "1393241",
+            "score": 0.03424
+        },
+        {
+            "name": "Lonicera caerulea L.",
+            "id": "1393631",
+            "score": 0.00122
+        },
+        {
+            "name": "Lonicera etrusca Santi",
+            "id": "1356784",
+            "score": 0.00049
+        }
+    ]
+}

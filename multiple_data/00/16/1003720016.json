@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.94849
+        },
+        {
+            "name": "Quercus robur L.",
+            "id": "1357413",
+            "score": 0.00471
+        },
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.00315
+        },
+        {
+            "name": "Quercus faginea Lam.",
+            "id": "1358614",
+            "score": 0.00295
+        },
+        {
+            "name": "Quercus cerris L.",
+            "id": "1395020",
+            "score": 0.00141
+        },
+        {
+            "name": "Ceratonia siliqua L.",
+            "id": "1363660",
+            "score": 0.00139
+        },
+        {
+            "name": "Zanthoxylum chalybeum Engl.",
+            "id": "1432515",
+            "score": 0.00116
+        },
+        {
+            "name": "Philenoptera violacea (Klotzsch) Schrire",
+            "id": "1368900",
+            "score": 0.00103
+        }
+    ]
+}

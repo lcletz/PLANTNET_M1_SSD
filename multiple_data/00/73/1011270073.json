@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Heracleum sphondylium L.",
+            "id": "1360744",
+            "score": 0.90269
+        },
+        {
+            "name": "Heracleum sibiricum L.",
+            "id": "1392757",
+            "score": 0.04622
+        },
+        {
+            "name": "Pastinaca sativa L.",
+            "id": "1363226",
+            "score": 0.01152
+        },
+        {
+            "name": "Heracleum mantegazzianum Sommier & Levier",
+            "id": "1392753",
+            "score": 0.00668
+        },
+        {
+            "name": "Heracleum maximum W.Bartram",
+            "id": "1389108",
+            "score": 0.00307
+        },
+        {
+            "name": "Angelica sylvestris L.",
+            "id": "1394591",
+            "score": 0.00187
+        },
+        {
+            "name": "Laserpitium latifolium L.",
+            "id": "1393446",
+            "score": 0.001
+        }
+    ]
+}

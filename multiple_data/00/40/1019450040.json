@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Typha latifolia L.",
+            "id": "1363339",
+            "score": 0.81843
+        },
+        {
+            "name": "Typha angustifolia L.",
+            "id": "1361721",
+            "score": 0.1028
+        },
+        {
+            "name": "Typha × glauca Godr.",
+            "id": "1694379",
+            "score": 0.00344
+        },
+        {
+            "name": "Typha domingensis Pers.",
+            "id": "1363337",
+            "score": 0.00239
+        },
+        {
+            "name": "Acorus calamus L.",
+            "id": "1396585",
+            "score": 0.0013
+        }
+    ]
+}

@@ -1,0 +1,435 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Claytonia perfoliata Donn ex Willd.",
+            "id": "1397353",
+            "score": 0.1455
+        },
+        {
+            "name": "Ophioglossum vulgatum L.",
+            "id": "1356427",
+            "score": 0.09127
+        },
+        {
+            "name": "Sedum ternatum Michx.",
+            "id": "1413757",
+            "score": 0.0389
+        },
+        {
+            "name": "Ophioglossum reticulatum L.",
+            "id": "1356426",
+            "score": 0.03623
+        },
+        {
+            "name": "Allium ursinum L.",
+            "id": "1397306",
+            "score": 0.03262
+        },
+        {
+            "name": "Aichryson divaricatum (Aiton) Praeger",
+            "id": "1358060",
+            "score": 0.02135
+        },
+        {
+            "name": "Umbilicus rupestris (Salisb.) Dandy",
+            "id": "1358147",
+            "score": 0.02113
+        },
+        {
+            "name": "Umbilicus horizontalis (Guss.) DC.",
+            "id": "1363622",
+            "score": 0.01627
+        },
+        {
+            "name": "Disocactus anguliger (Lem.) M.Á.Cruz & S.Arias",
+            "id": "1820527",
+            "score": 0.01517
+        },
+        {
+            "name": "Cochlearia officinalis L.",
+            "id": "1391312",
+            "score": 0.01488
+        },
+        {
+            "name": "Sedum makinoi Maxim.",
+            "id": "1529242",
+            "score": 0.01407
+        },
+        {
+            "name": "Dichondra carolinensis Michx.",
+            "id": "1442527",
+            "score": 0.01005
+        },
+        {
+            "name": "Botrychium lunaria (L.) Sw.",
+            "id": "1356422",
+            "score": 0.009
+        },
+        {
+            "name": "Kleinia petraea (R.E.Fr.) C.Jeffrey",
+            "id": "1512946",
+            "score": 0.00852
+        },
+        {
+            "name": "Bellium crassifolium Moris",
+            "id": "1399485",
+            "score": 0.00648
+        },
+        {
+            "name": "Polycarpon polycarpoides (Biv.) Zodda",
+            "id": "1394725",
+            "score": 0.00613
+        },
+        {
+            "name": "Cryptocoryne lingua Becc. ex Engl.",
+            "id": "1420975",
+            "score": 0.00564
+        },
+        {
+            "name": "Cochlearia anglica L.",
+            "id": "1391309",
+            "score": 0.00532
+        },
+        {
+            "name": "Halerpestes cymbalaria (Pursh) Greene",
+            "id": "1664330",
+            "score": 0.00499
+        },
+        {
+            "name": "Dalbergia melanoxylon Guill. & Perr.",
+            "id": "1363743",
+            "score": 0.00499
+        },
+        {
+            "name": "Hyacinthoides non-scripta (L.) Chouard ex Rothm.",
+            "id": "1393219",
+            "score": 0.0046
+        },
+        {
+            "name": "Ranunculus ophioglossifolius Vill.",
+            "id": "1360216",
+            "score": 0.00394
+        },
+        {
+            "name": "Lepidium sativum L.",
+            "id": "1363894",
+            "score": 0.00355
+        },
+        {
+            "name": "Hepatica nobilis Schreb.",
+            "id": "1412241",
+            "score": 0.00346
+        },
+        {
+            "name": "Ranunculus bonariensis Poir.",
+            "id": "1437182",
+            "score": 0.00336
+        },
+        {
+            "name": "Crassula multicava Lem.",
+            "id": "1363618",
+            "score": 0.00336
+        },
+        {
+            "name": "Drimiopsis maculata Lindl. & Paxton",
+            "id": "1359224",
+            "score": 0.00312
+        },
+        {
+            "name": "Peperomia rotundifolia (L.) Kunth",
+            "id": "1402925",
+            "score": 0.00307
+        },
+        {
+            "name": "Asarum arifolium Michx.",
+            "id": "1470877",
+            "score": 0.00291
+        },
+        {
+            "name": "Hylotelephium telephioides (Michx.) H.Ohba",
+            "id": "1815841",
+            "score": 0.00249
+        },
+        {
+            "name": "Dichondra micrantha Urb.",
+            "id": "1364071",
+            "score": 0.00248
+        },
+        {
+            "name": "Chrysosplenium oppositifolium L.",
+            "id": "1391161",
+            "score": 0.00244
+        },
+        {
+            "name": "Cochlearia danica L.",
+            "id": "1391310",
+            "score": 0.00242
+        },
+        {
+            "name": "Scilla siberica Andrews",
+            "id": "1413729",
+            "score": 0.00237
+        },
+        {
+            "name": "Claytonia rubra (Howell) Tidestr.",
+            "id": "1411489",
+            "score": 0.00237
+        },
+        {
+            "name": "Cephalanthera damasonium (Mill.) Druce",
+            "id": "1361635",
+            "score": 0.00227
+        },
+        {
+            "name": "Sarracenia purpurea L.",
+            "id": "1395935",
+            "score": 0.0022
+        },
+        {
+            "name": "Mesembryanthemum cordifolium L.f.",
+            "id": "1418211",
+            "score": 0.00214
+        },
+        {
+            "name": "Triphora amazonica Schltr.",
+            "id": "1402783",
+            "score": 0.00212
+        },
+        {
+            "name": "Thlaspi arvense L.",
+            "id": "1363886",
+            "score": 0.00204
+        },
+        {
+            "name": "Anredera cordifolia (Ten.) Steenis",
+            "id": "1363138",
+            "score": 0.00194
+        },
+        {
+            "name": "Rauhia multiflora (Kunth) Ravenna",
+            "id": "1453755",
+            "score": 0.00191
+        },
+        {
+            "name": "Limonium santapolense Erben",
+            "id": "1647338",
+            "score": 0.0019
+        },
+        {
+            "name": "Ophioglossum pusillum Raf.",
+            "id": "1412861",
+            "score": 0.00189
+        },
+        {
+            "name": "Sedum cepaea L.",
+            "id": "1358103",
+            "score": 0.00187
+        },
+        {
+            "name": "Epiphyllum phyllanthus (L.) Haw.",
+            "id": "1407717",
+            "score": 0.00182
+        },
+        {
+            "name": "Ophioglossum petiolatum Hook.",
+            "id": "1417074",
+            "score": 0.00178
+        },
+        {
+            "name": "Cochlearia aestuaria (J.Lloyd) Heywood",
+            "id": "1391308",
+            "score": 0.00177
+        },
+        {
+            "name": "Rumex acetosella L.",
+            "id": "1356082",
+            "score": 0.00176
+        },
+        {
+            "name": "Ipomoea adenioides Schinz",
+            "id": "1431817",
+            "score": 0.00174
+        },
+        {
+            "name": "Erythronium dens-canis L.",
+            "id": "1392129",
+            "score": 0.00165
+        },
+        {
+            "name": "Danae racemosa (L.) Moench",
+            "id": "1397653",
+            "score": 0.00164
+        },
+        {
+            "name": "Muscari latifolium J.Kirk",
+            "id": "1472681",
+            "score": 0.00164
+        },
+        {
+            "name": "Dionaea muscipula J.Ellis",
+            "id": "1390580",
+            "score": 0.00159
+        },
+        {
+            "name": "Pterostylis ophioglossa R.Br.",
+            "id": "1632135",
+            "score": 0.00153
+        },
+        {
+            "name": "Lysimachia nummularia L.",
+            "id": "1393708",
+            "score": 0.00152
+        },
+        {
+            "name": "Maianthemum canadense Desf.",
+            "id": "1412659",
+            "score": 0.00152
+        },
+        {
+            "name": "Rhipsalidopsis gaertneri (K.Schum.) Linding.",
+            "id": "1826476",
+            "score": 0.00151
+        },
+        {
+            "name": "Cochlearia tatrae Borbás",
+            "id": "1479990",
+            "score": 0.00147
+        },
+        {
+            "name": "Kalanchoe rotundifolia (Haw.) Haw.",
+            "id": "1365851",
+            "score": 0.00147
+        },
+        {
+            "name": "Claytonia sibirica L.",
+            "id": "1391294",
+            "score": 0.00146
+        },
+        {
+            "name": "Chrysosplenium alternifolium L.",
+            "id": "1391159",
+            "score": 0.00143
+        },
+        {
+            "name": "Citrus hystrix DC.",
+            "id": "1404728",
+            "score": 0.00139
+        },
+        {
+            "name": "Goodenia radicans (Cav.) Pers.",
+            "id": "1805965",
+            "score": 0.00134
+        },
+        {
+            "name": "Veronica sublobata M.A.Fisch.",
+            "id": "1711843",
+            "score": 0.00131
+        },
+        {
+            "name": "Kalanchoe crenata (Andrews) Haw.",
+            "id": "1379675",
+            "score": 0.00129
+        },
+        {
+            "name": "Pyrrosia piloselloides (L.) M.G.Price",
+            "id": "1720623",
+            "score": 0.00127
+        },
+        {
+            "name": "Epiphyllum hookeri Haw.",
+            "id": "1486953",
+            "score": 0.00126
+        },
+        {
+            "name": "Selenicereus undatus (Haw.) D.R.Hunt",
+            "id": "1722630",
+            "score": 0.00118
+        },
+        {
+            "name": "Curcuma aeruginosa Roxb.",
+            "id": "1423787",
+            "score": 0.00117
+        },
+        {
+            "name": "Erythronium grandiflorum Pursh",
+            "id": "1412009",
+            "score": 0.00116
+        },
+        {
+            "name": "Sanguinaria canadensis L.",
+            "id": "1413654",
+            "score": 0.00113
+        },
+        {
+            "name": "Noccaea montana (L.) F.K.Mey.",
+            "id": "1393967",
+            "score": 0.00113
+        },
+        {
+            "name": "Allium paradoxum (M.Bieb.) G.Don",
+            "id": "1397943",
+            "score": 0.00113
+        },
+        {
+            "name": "Ranunculus ficaria L.",
+            "id": "1413421",
+            "score": 0.00111
+        },
+        {
+            "name": "Shorea siamensis Miq.",
+            "id": "1430466",
+            "score": 0.00111
+        },
+        {
+            "name": "Galanthus nivalis L.",
+            "id": "1397391",
+            "score": 0.00111
+        },
+        {
+            "name": "Arisarum vulgare O.Targ.Tozz.",
+            "id": "1396289",
+            "score": 0.00109
+        },
+        {
+            "name": "Ranunculus nodiflorus L.",
+            "id": "1395109",
+            "score": 0.00109
+        },
+        {
+            "name": "Portulaca oleracea L.",
+            "id": "1360141",
+            "score": 0.00102
+        },
+        {
+            "name": "Cardamine parviflora L.",
+            "id": "1363885",
+            "score": 0.00102
+        },
+        {
+            "name": "Soldanella alpina L.",
+            "id": "1397500",
+            "score": 0.00101
+        },
+        {
+            "name": "Sedum tetractinum Fröd.",
+            "id": "1529354",
+            "score": 0.00101
+        },
+        {
+            "name": "Adiantum reniforme L.",
+            "id": "1356339",
+            "score": 0.00101
+        },
+        {
+            "name": "Muehlenbeckia complexa (A.Cunn.) Meisn.",
+            "id": "1393862",
+            "score": 0.001
+        },
+        {
+            "name": "Ranunculus pusillus Poir.",
+            "id": "1437201",
+            "score": 0.001
+        }
+    ]
+}

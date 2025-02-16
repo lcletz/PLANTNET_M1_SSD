@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rubus occidentalis L.",
+            "id": "1413531",
+            "score": 0.66025
+        },
+        {
+            "name": "Rubus idaeus L.",
+            "id": "1395507",
+            "score": 0.29229
+        },
+        {
+            "name": "Rubus caesius L.",
+            "id": "1360354",
+            "score": 0.00122
+        },
+        {
+            "name": "Rubus argutus Link",
+            "id": "1421896",
+            "score": 0.0011
+        },
+        {
+            "name": "Rubus spectabilis Pursh",
+            "id": "1395613",
+            "score": 0.00104
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Persea americana Mill.",
+            "id": "1364365",
+            "score": 0.96635
+        },
+        {
+            "name": "Annona squamosa L.",
+            "id": "1386663",
+            "score": 0.00701
+        },
+        {
+            "name": "Polyscias pancheri (Baill.) Harms",
+            "id": "1415066",
+            "score": 0.00215
+        },
+        {
+            "name": "Tabebuia roseoalba (Ridl.) Sandwith",
+            "id": "1476995",
+            "score": 0.00161
+        },
+        {
+            "name": "Magnolia liliiflora Desr.",
+            "id": "1397622",
+            "score": 0.0013
+        }
+    ]
+}

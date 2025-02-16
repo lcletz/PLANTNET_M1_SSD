@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Polygala alpina (DC.) Steud.",
+            "id": "1397465",
+            "score": 0.90693
+        },
+        {
+            "name": "Polygala calcarea F.W.Schultz",
+            "id": "1394730",
+            "score": 0.05525
+        },
+        {
+            "name": "Polygala alpestris Rchb.",
+            "id": "1397464",
+            "score": 0.01481
+        },
+        {
+            "name": "Polygala microphylla L.",
+            "id": "1400029",
+            "score": 0.00232
+        },
+        {
+            "name": "Polygala amara L.",
+            "id": "1394728",
+            "score": 0.00175
+        },
+        {
+            "name": "Polygala vulgaris L.",
+            "id": "1394742",
+            "score": 0.0012
+        }
+    ]
+}

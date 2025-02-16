@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Casuarina cunninghamiana Miq.",
+            "id": "1361847",
+            "score": 0.75407
+        },
+        {
+            "name": "Casuarina equisetifolia L.",
+            "id": "1383149",
+            "score": 0.13724
+        },
+        {
+            "name": "Pinus canariensis C.Sm. ex DC.",
+            "id": "1722426",
+            "score": 0.02185
+        },
+        {
+            "name": "Pinus halepensis Mill.",
+            "id": "1397460",
+            "score": 0.00325
+        },
+        {
+            "name": "Casuarina glauca Sieber ex Spreng.",
+            "id": "1407796",
+            "score": 0.00237
+        },
+        {
+            "name": "Allocasuarina torulosa (Aiton) L.A.S.Johnson",
+            "id": "1423906",
+            "score": 0.00205
+        },
+        {
+            "name": "Allocasuarina verticillata (Lam.) L.A.S.Johnson",
+            "id": "1392926",
+            "score": 0.0018
+        },
+        {
+            "name": "Pinus pinaster Aiton",
+            "id": "1394611",
+            "score": 0.00165
+        },
+        {
+            "name": "Pinus roxburghii Sarg.",
+            "id": "1390042",
+            "score": 0.00105
+        }
+    ]
+}

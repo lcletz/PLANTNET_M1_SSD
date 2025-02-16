@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Epilobium hirsutum L.",
+            "id": "1361947",
+            "score": 0.94213
+        },
+        {
+            "name": "Epilobium parviflorum Schreb.",
+            "id": "1359686",
+            "score": 0.00861
+        },
+        {
+            "name": "Epilobium montanum L.",
+            "id": "1391922",
+            "score": 0.0027
+        },
+        {
+            "name": "Epilobium tetragonum L.",
+            "id": "1359688",
+            "score": 0.00204
+        },
+        {
+            "name": "Epilobium alpestre (Jacq.) Krock.",
+            "id": "1391876",
+            "score": 0.0016
+        },
+        {
+            "name": "Silene dioica (L.) Clairv.",
+            "id": "1356985",
+            "score": 0.00156
+        },
+        {
+            "name": "Epilobium ciliatum Raf.",
+            "id": "1391890",
+            "score": 0.00125
+        }
+    ]
+}

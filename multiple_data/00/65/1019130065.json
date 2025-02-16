@@ -1,0 +1,175 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.34543
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.08513
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.07538
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.05341
+        },
+        {
+            "name": "Aronia × prunifolia (Marshall) Rehder",
+            "id": "1666795",
+            "score": 0.03959
+        },
+        {
+            "name": "Aronia melanocarpa (Michx.) Elliott",
+            "id": "1398450",
+            "score": 0.03886
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.02023
+        },
+        {
+            "name": "Prunus fruticosa Pall.",
+            "id": "1394939",
+            "score": 0.01159
+        },
+        {
+            "name": "Prunus pensylvanica L.f.",
+            "id": "1420421",
+            "score": 0.01038
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.00781
+        },
+        {
+            "name": "Prunus insititia L.",
+            "id": "1360321",
+            "score": 0.00486
+        },
+        {
+            "name": "Prunus brigantina Vill.",
+            "id": "1394945",
+            "score": 0.00483
+        },
+        {
+            "name": "Prunus × yedoensis Matsum.",
+            "id": "1668075",
+            "score": 0.00479
+        },
+        {
+            "name": "Prunus serotina Ehrh.",
+            "id": "1370859",
+            "score": 0.00474
+        },
+        {
+            "name": "Prunus persica (L.) Batsch",
+            "id": "1363997",
+            "score": 0.00408
+        },
+        {
+            "name": "Prunus serrula Franch.",
+            "id": "1420427",
+            "score": 0.00361
+        },
+        {
+            "name": "Prunus glandulifolia Rupr.",
+            "id": "1747431",
+            "score": 0.00332
+        },
+        {
+            "name": "Euonymus europaeus L.",
+            "id": "1392236",
+            "score": 0.00306
+        },
+        {
+            "name": "Celastrus scandens L.",
+            "id": "1390974",
+            "score": 0.00259
+        },
+        {
+            "name": "Euonymus atropurpureus Jacq.",
+            "id": "1412017",
+            "score": 0.00245
+        },
+        {
+            "name": "Euonymus latifolius (L.) Mill.",
+            "id": "1392238",
+            "score": 0.00233
+        },
+        {
+            "name": "Prunus serrulata Lindl.",
+            "id": "1394953",
+            "score": 0.00231
+        },
+        {
+            "name": "Prunus × fruticans Weihe",
+            "id": "1667948",
+            "score": 0.00214
+        },
+        {
+            "name": "Prunus americana Marshall",
+            "id": "1413346",
+            "score": 0.00181
+        },
+        {
+            "name": "Chionanthus retusus Lindl. & Paxton",
+            "id": "1419613",
+            "score": 0.00152
+        },
+        {
+            "name": "Prunus salicina Lindl.",
+            "id": "1420425",
+            "score": 0.00143
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.00141
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00131
+        },
+        {
+            "name": "Aronia arbutifolia (L.) Pers.",
+            "id": "1413527",
+            "score": 0.00129
+        },
+        {
+            "name": "Prunus japonica Thunb.",
+            "id": "1394940",
+            "score": 0.00113
+        },
+        {
+            "name": "Chaenomeles speciosa (Sweet) Nakai",
+            "id": "1391104",
+            "score": 0.00111
+        },
+        {
+            "name": "Malus domestica (Suckow) Borkh.",
+            "id": "1729464",
+            "score": 0.0011
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.00109
+        },
+        {
+            "name": "Fraxinus ornus L.",
+            "id": "1362963",
+            "score": 0.00106
+        }
+    ]
+}

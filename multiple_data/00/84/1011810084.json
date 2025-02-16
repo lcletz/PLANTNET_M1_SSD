@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Brassica oleracea L.",
+            "id": "1363909",
+            "score": 0.74876
+        },
+        {
+            "name": "Brassica montana Pourr.",
+            "id": "1389320",
+            "score": 0.12096
+        },
+        {
+            "name": "Brassica rapa L.",
+            "id": "1363906",
+            "score": 0.03332
+        },
+        {
+            "name": "Crambe maritima L.",
+            "id": "1391425",
+            "score": 0.02604
+        },
+        {
+            "name": "Brassica juncea (L.) Czern.",
+            "id": "1363904",
+            "score": 0.00378
+        },
+        {
+            "name": "Brassica cretica Lam.",
+            "id": "1362418",
+            "score": 0.0035
+        },
+        {
+            "name": "Brassica insularis Moris",
+            "id": "1358197",
+            "score": 0.00207
+        },
+        {
+            "name": "Brassica napus L.",
+            "id": "1363908",
+            "score": 0.00181
+        },
+        {
+            "name": "Crambe hispanica L.",
+            "id": "1363895",
+            "score": 0.00127
+        }
+    ]
+}

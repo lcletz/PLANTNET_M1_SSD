@@ -1,0 +1,440 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Antennaria dioica (L.) Gaertn.",
+            "id": "1394643",
+            "score": 0.03623
+        },
+        {
+            "name": "Helichrysum gossypinum Sch.Bip.",
+            "id": "1400039",
+            "score": 0.0266
+        },
+        {
+            "name": "Helichrysum melaleucum Rchb. ex Holl",
+            "id": "1748301",
+            "score": 0.02188
+        },
+        {
+            "name": "Helichrysum virgineum DC.",
+            "id": "1509716",
+            "score": 0.01989
+        },
+        {
+            "name": "Helichrysum sibthorpii Rouy",
+            "id": "1509674",
+            "score": 0.01986
+        },
+        {
+            "name": "Ammobium alatum R.Br.",
+            "id": "1417758",
+            "score": 0.01829
+        },
+        {
+            "name": "Helichrysum crassifolium (L.) D.Don ex G.Don",
+            "id": "1743333",
+            "score": 0.0169
+        },
+        {
+            "name": "Erigeron epiroticus (Vierh.) Halácsy",
+            "id": "1507167",
+            "score": 0.01615
+        },
+        {
+            "name": "Helichrysum devium J.Y.Johnson",
+            "id": "1390523",
+            "score": 0.01588
+        },
+        {
+            "name": "Achillea maritima (L.) Ehrend. & Y.P.Guo",
+            "id": "1388812",
+            "score": 0.0133
+        },
+        {
+            "name": "Helichrysum argyrophyllum DC.",
+            "id": "1509362",
+            "score": 0.01223
+        },
+        {
+            "name": "Allium paradoxum (M.Bieb.) G.Don",
+            "id": "1397943",
+            "score": 0.007
+        },
+        {
+            "name": "Anaphalis margaritacea (L.) Benth. & Hook.f.",
+            "id": "1417760",
+            "score": 0.00686
+        },
+        {
+            "name": "Helichrysum orientale (L.) Gaertn.",
+            "id": "1392726",
+            "score": 0.00639
+        },
+        {
+            "name": "Helichrysum plicatum DC.",
+            "id": "1509626",
+            "score": 0.00557
+        },
+        {
+            "name": "Omalotheca supina (L.) DC.",
+            "id": "1412857",
+            "score": 0.00546
+        },
+        {
+            "name": "Antennaria parvifolia Nutt.",
+            "id": "1412580",
+            "score": 0.00378
+        },
+        {
+            "name": "Espeletia schultzii Wedd.",
+            "id": "1507580",
+            "score": 0.00361
+        },
+        {
+            "name": "Anthemis rigida Boiss. ex Heldr.",
+            "id": "1746025",
+            "score": 0.00358
+        },
+        {
+            "name": "Syncarpha argyropsis (DC.) B.Nord.",
+            "id": "1522263",
+            "score": 0.0035
+        },
+        {
+            "name": "Antennaria carpatica (Wahlenb.) Bluff & Fingerh.",
+            "id": "1394641",
+            "score": 0.0035
+        },
+        {
+            "name": "Ranunculus alpestris L.",
+            "id": "1397471",
+            "score": 0.0035
+        },
+        {
+            "name": "Antennaria neglecta Greene",
+            "id": "1412567",
+            "score": 0.00337
+        },
+        {
+            "name": "Tournefortia gnaphalodes (L.) R.Br. ex Roem. & Schult.",
+            "id": "1410110",
+            "score": 0.00312
+        },
+        {
+            "name": "Senecio evacoides Sch.Bip.",
+            "id": "1520095",
+            "score": 0.00312
+        },
+        {
+            "name": "Helichrysum monogynum B.L.Burtt & Sunding",
+            "id": "1400040",
+            "score": 0.00312
+        },
+        {
+            "name": "Leucanthemopsis alpina (L.) Heywood",
+            "id": "1393494",
+            "score": 0.0027
+        },
+        {
+            "name": "Pentanema verbascifolium (Willd.) D.Gut.Larr., Santos-Vicente, Anderb., E.Rico & M.M.Mart.Ort.",
+            "id": "1745269",
+            "score": 0.0025
+        },
+        {
+            "name": "Mniodes radians (Benth.) S.E.Freire, Chemisquy, Anderb. & Urtubey",
+            "id": "1727470",
+            "score": 0.00249
+        },
+        {
+            "name": "Celmisia semicordata Petrie",
+            "id": "1502349",
+            "score": 0.00245
+        },
+        {
+            "name": "Bellis annua L.",
+            "id": "1357314",
+            "score": 0.00241
+        },
+        {
+            "name": "Espeletia pycnophylla Cuatrec.",
+            "id": "1507576",
+            "score": 0.00225
+        },
+        {
+            "name": "Anaphalis transnokoensis Sasaki",
+            "id": "1498933",
+            "score": 0.00224
+        },
+        {
+            "name": "Helichrysum arenarium (L.) Moench",
+            "id": "1397398",
+            "score": 0.00218
+        },
+        {
+            "name": "Anaphalis nepalensis (Spreng.) Hand.-Mazz.",
+            "id": "1498898",
+            "score": 0.00217
+        },
+        {
+            "name": "Chrysocephalum apiculatum (Labill.) Steetz",
+            "id": "1503544",
+            "score": 0.00214
+        },
+        {
+            "name": "Ranunculus amplexicaulis L.",
+            "id": "1395049",
+            "score": 0.00213
+        },
+        {
+            "name": "Antennaria media Greene",
+            "id": "1412542",
+            "score": 0.00212
+        },
+        {
+            "name": "Crossostephium chinense (L.) Makino",
+            "id": "1759693",
+            "score": 0.00207
+        },
+        {
+            "name": "Helichrysum dasymallum Hilliard",
+            "id": "1509425",
+            "score": 0.00201
+        },
+        {
+            "name": "Osteospermum incanum Burm.f.",
+            "id": "1758105",
+            "score": 0.00193
+        },
+        {
+            "name": "Anaphalis contorta (D.Don) Hook.f.",
+            "id": "1498855",
+            "score": 0.00189
+        },
+        {
+            "name": "Sideritis syriaca L.",
+            "id": "1399412",
+            "score": 0.00182
+        },
+        {
+            "name": "Kalanchoe thyrsiflora Harv.",
+            "id": "1365852",
+            "score": 0.00181
+        },
+        {
+            "name": "Pyrus salicifolia Pall.",
+            "id": "1395004",
+            "score": 0.00179
+        },
+        {
+            "name": "Draba nivicola Rose",
+            "id": "1480383",
+            "score": 0.00174
+        },
+        {
+            "name": "Pseudognaphalium luteoalbum (L.) Hilliard & B.L.Burtt",
+            "id": "1737651",
+            "score": 0.00169
+        },
+        {
+            "name": "Artemisia stelleriana Besser",
+            "id": "1413704",
+            "score": 0.00168
+        },
+        {
+            "name": "Leiocarpa semicalva (F.Muell.) Paul G.Wilson",
+            "id": "1513469",
+            "score": 0.00165
+        },
+        {
+            "name": "Jacobaea uniflora (All.) Veldkamp",
+            "id": "1389247",
+            "score": 0.00162
+        },
+        {
+            "name": "Antennaria plantaginifolia (L.) Hook.",
+            "id": "1815711",
+            "score": 0.00156
+        },
+        {
+            "name": "Helichrysum pendulum (C.Presl) C.Presl",
+            "id": "1509616",
+            "score": 0.00155
+        },
+        {
+            "name": "Celmisia incana Hook.f.",
+            "id": "1502318",
+            "score": 0.00154
+        },
+        {
+            "name": "Saxifraga androsacea L.",
+            "id": "1395942",
+            "score": 0.00153
+        },
+        {
+            "name": "Helichrysum cymosum (L.) D.Don ex G.Don",
+            "id": "1750651",
+            "score": 0.00148
+        },
+        {
+            "name": "Melanthera lifuana (Hochr.) W.L.Wagner & H.Rob.",
+            "id": "1814211",
+            "score": 0.00146
+        },
+        {
+            "name": "Helichrysum petiolare Hilliard & B.L.Burtt",
+            "id": "1417838",
+            "score": 0.00146
+        },
+        {
+            "name": "Anthemis cretica L.",
+            "id": "1357220",
+            "score": 0.00145
+        },
+        {
+            "name": "Pseudognaphalium sandwicensium (Gaudich.) Anderb.",
+            "id": "1421850",
+            "score": 0.00136
+        },
+        {
+            "name": "Leontopodium kurilense Takeda",
+            "id": "1513570",
+            "score": 0.00136
+        },
+        {
+            "name": "Helichrysum basalticum Hilliard",
+            "id": "1509380",
+            "score": 0.00135
+        },
+        {
+            "name": "Anacyclus homogamos (Maire) Humphries",
+            "id": "1357192",
+            "score": 0.00129
+        },
+        {
+            "name": "Silene nodulosa Viv.",
+            "id": "1396290",
+            "score": 0.00127
+        },
+        {
+            "name": "Saxifraga reuteriana Boiss.",
+            "id": "1400037",
+            "score": 0.00121
+        },
+        {
+            "name": "Helichrysum heliotropifolium DC.",
+            "id": "1509489",
+            "score": 0.00121
+        },
+        {
+            "name": "Ranunculus kuepferi Greuter & Burdet",
+            "id": "1395097",
+            "score": 0.0012
+        },
+        {
+            "name": "Ranunculus parnassifolius L.",
+            "id": "1395112",
+            "score": 0.00119
+        },
+        {
+            "name": "Callianthemoides semiverticillata (Phil.) Tamura",
+            "id": "1842163",
+            "score": 0.00119
+        },
+        {
+            "name": "Glottiphyllum longum (Haw.) N.E.Br.",
+            "id": "1418000",
+            "score": 0.00118
+        },
+        {
+            "name": "Haemanthus carneus Ker Gawl.",
+            "id": "1453233",
+            "score": 0.00115
+        },
+        {
+            "name": "Antennaria microphylla Rydb.",
+            "id": "1412549",
+            "score": 0.00114
+        },
+        {
+            "name": "Caputia tomentosa (Haw.) B.Nord. & Pelser",
+            "id": "1758038",
+            "score": 0.00114
+        },
+        {
+            "name": "Portulaca pilosa L.",
+            "id": "1403212",
+            "score": 0.00114
+        },
+        {
+            "name": "Malephora crocea (Jacq.) Schwantes",
+            "id": "1389328",
+            "score": 0.00113
+        },
+        {
+            "name": "Leontopodium shinanense Kitam.",
+            "id": "1513588",
+            "score": 0.00112
+        },
+        {
+            "name": "Trollius lilacinus Bunge",
+            "id": "1664828",
+            "score": 0.00111
+        },
+        {
+            "name": "Achyrocline ramosissima Britton",
+            "id": "1497890",
+            "score": 0.0011
+        },
+        {
+            "name": "Hieracium mixtum Lapeyr. ex Froel.",
+            "id": "1511012",
+            "score": 0.0011
+        },
+        {
+            "name": "Oreocarya humilis (A.Gray) Greene",
+            "id": "1816017",
+            "score": 0.00107
+        },
+        {
+            "name": "Plantago sericea Ruiz & Pav.",
+            "id": "1422859",
+            "score": 0.00107
+        },
+        {
+            "name": "Curio talinoides (DC.) P.V.Heath",
+            "id": "1505806",
+            "score": 0.00107
+        },
+        {
+            "name": "Senecio candollei Wedd.",
+            "id": "1423292",
+            "score": 0.00103
+        },
+        {
+            "name": "Curio repens (L.) P.V.Heath",
+            "id": "1748141",
+            "score": 0.00103
+        },
+        {
+            "name": "Jacobaea persoonii (De Not.) Pelser",
+            "id": "1389250",
+            "score": 0.00102
+        },
+        {
+            "name": "Antennaria umbrinella Rydb.",
+            "id": "1412611",
+            "score": 0.00102
+        },
+        {
+            "name": "Pseudognaphalium affine (D.Don) Anderb.",
+            "id": "1518177",
+            "score": 0.00101
+        },
+        {
+            "name": "Antennaria howellii Greene",
+            "id": "1412526",
+            "score": 0.00101
+        }
+    ]
+}

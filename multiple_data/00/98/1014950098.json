@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Achillea ptarmica L.",
+            "id": "1393773",
+            "score": 0.9229
+        },
+        {
+            "name": "Achillea macrophylla L.",
+            "id": "1393307",
+            "score": 0.00469
+        },
+        {
+            "name": "Achillea nobilis L.",
+            "id": "1397302",
+            "score": 0.0044
+        },
+        {
+            "name": "Achillea erba-rotta All.",
+            "id": "1392952",
+            "score": 0.00414
+        },
+        {
+            "name": "Achillea pyrenaica Sibth. ex Godr.",
+            "id": "1497825",
+            "score": 0.00347
+        },
+        {
+            "name": "Achillea atrata L.",
+            "id": "1392652",
+            "score": 0.00152
+        }
+    ]
+}

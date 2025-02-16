@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Cyperus esculentus L.",
+            "id": "1361087",
+            "score": 0.95667
+        },
+        {
+            "name": "Cyperus odoratus L.",
+            "id": "1389282",
+            "score": 0.00878
+        },
+        {
+            "name": "Cyperus rotundus L.",
+            "id": "1361090",
+            "score": 0.00556
+        },
+        {
+            "name": "Cyperus longus L.",
+            "id": "1356294",
+            "score": 0.00387
+        },
+        {
+            "name": "Cyperus dives Delile",
+            "id": "1386562",
+            "score": 0.00193
+        },
+        {
+            "name": "Cyperus strigosus L.",
+            "id": "1399577",
+            "score": 0.00138
+        },
+        {
+            "name": "Cyperus papyrus L.",
+            "id": "1361089",
+            "score": 0.00109
+        }
+    ]
+}

@@ -1,0 +1,395 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cerastium semidecandrum L.",
+            "id": "1356835",
+            "score": 0.49953
+        },
+        {
+            "name": "Cerastium glomeratum Thuill.",
+            "id": "1356697",
+            "score": 0.38026
+        },
+        {
+            "name": "Cerastium fontanum Baumg.",
+            "id": "1356277",
+            "score": 0.31822
+        },
+        {
+            "name": "Cerastium pumilum Curtis",
+            "id": "1356833",
+            "score": 0.06385
+        },
+        {
+            "name": "Arenaria serpyllifolia L.",
+            "id": "1362019",
+            "score": 0.03048
+        },
+        {
+            "name": "Cerastium diffusum Pers.",
+            "id": "1356822",
+            "score": 0.02834
+        },
+        {
+            "name": "Stellaria media (L.) Vill.",
+            "id": "1356571",
+            "score": 0.02282
+        },
+        {
+            "name": "Stellaria graminea L.",
+            "id": "1396446",
+            "score": 0.0175
+        },
+        {
+            "name": "Cerastium holosteoides Fr.",
+            "id": "1721513",
+            "score": 0.01325
+        },
+        {
+            "name": "Cerastium arvense L.",
+            "id": "1356817",
+            "score": 0.01278
+        },
+        {
+            "name": "Cruciata laevipes Opiz",
+            "id": "1391478",
+            "score": 0.00973
+        },
+        {
+            "name": "Silene dioica (L.) Clairv.",
+            "id": "1356985",
+            "score": 0.00891
+        },
+        {
+            "name": "Cerastium brachypetalum Desp. ex Pers.",
+            "id": "1391078",
+            "score": 0.00872
+        },
+        {
+            "name": "Jaegeria hirta (Lag.) Less.",
+            "id": "1433369",
+            "score": 0.0082
+        },
+        {
+            "name": "Veronica chamaedrys L.",
+            "id": "1397521",
+            "score": 0.00715
+        },
+        {
+            "name": "Veronica arvensis L.",
+            "id": "1364063",
+            "score": 0.00681
+        },
+        {
+            "name": "Spergula arvensis L.",
+            "id": "1356538",
+            "score": 0.0068
+        },
+        {
+            "name": "Sanvitalia procumbens Lam.",
+            "id": "1398570",
+            "score": 0.0068
+        },
+        {
+            "name": "Silene latifolia Poir.",
+            "id": "1357009",
+            "score": 0.00589
+        },
+        {
+            "name": "Veronica persica Poir.",
+            "id": "1364065",
+            "score": 0.00579
+        },
+        {
+            "name": "Silene pendula L.",
+            "id": "1356599",
+            "score": 0.00569
+        },
+        {
+            "name": "Dichodon viscidum (M.Bieb.) Holub",
+            "id": "1741833",
+            "score": 0.00519
+        },
+        {
+            "name": "Cerastium nutans Raf.",
+            "id": "1411402",
+            "score": 0.00405
+        },
+        {
+            "name": "Dichanthelium acuminatum (Sw.) Gould & C.A.Clark",
+            "id": "1391723",
+            "score": 0.00293
+        },
+        {
+            "name": "Lindheimera texana A.Gray & Engelm.",
+            "id": "1514283",
+            "score": 0.00289
+        },
+        {
+            "name": "Phlox stolonifera Sims",
+            "id": "1413056",
+            "score": 0.00289
+        },
+        {
+            "name": "Unxia camphorata L.f.",
+            "id": "1405441",
+            "score": 0.00284
+        },
+        {
+            "name": "Atocion armeria (L.) Raf.",
+            "id": "1398690",
+            "score": 0.00277
+        },
+        {
+            "name": "Moehringia trinervia (L.) Clairv.",
+            "id": "1356901",
+            "score": 0.00258
+        },
+        {
+            "name": "Galium broterianum Boiss. & Reut.",
+            "id": "1672967",
+            "score": 0.00255
+        },
+        {
+            "name": "Tuberaria guttata (L.) Fourr.",
+            "id": "1357176",
+            "score": 0.00245
+        },
+        {
+            "name": "Richardia scabra L.",
+            "id": "1371248",
+            "score": 0.00237
+        },
+        {
+            "name": "Sabulina verna (L.) Rchb.",
+            "id": "1738699",
+            "score": 0.00229
+        },
+        {
+            "name": "Symphyotrichum sericeum (Vent.) G.L.Nesom",
+            "id": "1522234",
+            "score": 0.00214
+        },
+        {
+            "name": "Stellaria aquatica (L.) Scop.",
+            "id": "1493766",
+            "score": 0.00211
+        },
+        {
+            "name": "Richardia brasiliensis Gomes",
+            "id": "1371246",
+            "score": 0.00202
+        },
+        {
+            "name": "Rabelera holostea (L.) M.T.Sharples & E.A.Tripp",
+            "id": "1737674",
+            "score": 0.002
+        },
+        {
+            "name": "Zornia reticulata Sm.",
+            "id": "1405726",
+            "score": 0.00198
+        },
+        {
+            "name": "Lotus corniculatus L.",
+            "id": "1359296",
+            "score": 0.00197
+        },
+        {
+            "name": "Geranium pusillum L.",
+            "id": "1392594",
+            "score": 0.00196
+        },
+        {
+            "name": "Geranium molle L.",
+            "id": "1356008",
+            "score": 0.00186
+        },
+        {
+            "name": "Zinnia peruviana (L.) L.",
+            "id": "1374113",
+            "score": 0.00177
+        },
+        {
+            "name": "Houstonia purpurea L.",
+            "id": "1433042",
+            "score": 0.00168
+        },
+        {
+            "name": "Dichodon cerastoides (L.) Rchb.",
+            "id": "1738042",
+            "score": 0.00167
+        },
+        {
+            "name": "Murdannia nudiflora (L.) Brenan",
+            "id": "1356130",
+            "score": 0.00166
+        },
+        {
+            "name": "Phlox divaricata L.",
+            "id": "1413047",
+            "score": 0.00165
+        },
+        {
+            "name": "Linum catharticum L.",
+            "id": "1359592",
+            "score": 0.00159
+        },
+        {
+            "name": "Silene colorata Poir.",
+            "id": "1356975",
+            "score": 0.00141
+        },
+        {
+            "name": "Kickxia spuria (L.) Dumort.",
+            "id": "1359892",
+            "score": 0.00137
+        },
+        {
+            "name": "Androsace chamaejasme Wulfen",
+            "id": "1394282",
+            "score": 0.00134
+        },
+        {
+            "name": "Gibasis geniculata (Jacq.) Rohweder",
+            "id": "1401278",
+            "score": 0.00134
+        },
+        {
+            "name": "Silene dichotoma Ehrh.",
+            "id": "1356984",
+            "score": 0.00133
+        },
+        {
+            "name": "Saponaria ocymoides L.",
+            "id": "1361747",
+            "score": 0.00129
+        },
+        {
+            "name": "Silene nutans L.",
+            "id": "1357026",
+            "score": 0.00125
+        },
+        {
+            "name": "Geranium dissectum L.",
+            "id": "1356007",
+            "score": 0.00121
+        },
+        {
+            "name": "Galium kenyanum Verdc.",
+            "id": "1371444",
+            "score": 0.0012
+        },
+        {
+            "name": "Scorpiurus vermiculatus L.",
+            "id": "1359455",
+            "score": 0.00115
+        },
+        {
+            "name": "Drymaria villosa Schltdl. & Cham.",
+            "id": "1382193",
+            "score": 0.00115
+        },
+        {
+            "name": "Silene gallica L.",
+            "id": "1356595",
+            "score": 0.00114
+        },
+        {
+            "name": "Kickxia commutata (Bernh. ex Rchb.) Fritsch",
+            "id": "1359883",
+            "score": 0.00114
+        },
+        {
+            "name": "Asperula taurina L.",
+            "id": "1397322",
+            "score": 0.00107
+        },
+        {
+            "name": "Linum hirsutum L.",
+            "id": "1397429",
+            "score": 0.00104
+        },
+        {
+            "name": "Lotus biflorus Desr.",
+            "id": "1393641",
+            "score": 0.00103
+        },
+        {
+            "name": "Lotus angustissimus L.",
+            "id": "1359288",
+            "score": 0.00103
+        },
+        {
+            "name": "Silene noctiflora L.",
+            "id": "1363341",
+            "score": 0.00102
+        },
+        {
+            "name": "Stellaria apetala Ucria",
+            "id": "1722525",
+            "score": 0.00097
+        },
+        {
+            "name": "Kickxia elatine (L.) Dumort.",
+            "id": "1359885",
+            "score": 0.00097
+        },
+        {
+            "name": "Carex radiata (Wahlenb.) Small",
+            "id": "1411268",
+            "score": 0.00069
+        },
+        {
+            "name": "Spergularia rubra (L.) J.Presl & C.Presl",
+            "id": "1493747",
+            "score": 0.00064
+        },
+        {
+            "name": "Sagina apetala Ard.",
+            "id": "1356562",
+            "score": 0.0006
+        },
+        {
+            "name": "Fallopia dumetorum (L.) Holub",
+            "id": "1392251",
+            "score": 0.00051
+        },
+        {
+            "name": "Galium aparine L.",
+            "id": "1360385",
+            "score": 0.0005
+        },
+        {
+            "name": "Galinsoga parviflora Cav.",
+            "id": "1355935",
+            "score": 0.0005
+        },
+        {
+            "name": "Circaea lutetiana L.",
+            "id": "1359680",
+            "score": 0.00047
+        },
+        {
+            "name": "Vicia hirsuta (L.) Gray",
+            "id": "1363671",
+            "score": 0.00043
+        },
+        {
+            "name": "Galium circaezans Michx.",
+            "id": "1412110",
+            "score": 0.00042
+        },
+        {
+            "name": "Stellaria nemorum L.",
+            "id": "1382174",
+            "score": 0.00041
+        },
+        {
+            "name": "Drymaria cordata (L.) Willd. ex Schult.",
+            "id": "1407990",
+            "score": 0.00039
+        }
+    ]
+}

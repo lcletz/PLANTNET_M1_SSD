@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Jacaranda mimosifolia D.Don",
+            "id": "1400148",
+            "score": 0.92525
+        },
+        {
+            "name": "Jacaranda caucana Pittier",
+            "id": "1476743",
+            "score": 0.0249
+        },
+        {
+            "name": "Leucaena leucocephala (Lam.) de Wit",
+            "id": "1363651",
+            "score": 0.00552
+        },
+        {
+            "name": "Jacaranda cuspidifolia Mart.",
+            "id": "1407242",
+            "score": 0.00472
+        },
+        {
+            "name": "Albizia julibrissin Durazz.",
+            "id": "1391958",
+            "score": 0.00196
+        },
+        {
+            "name": "Delonix regia (Bojer ex Hook.) Raf.",
+            "id": "1363784",
+            "score": 0.00129
+        }
+    ]
+}

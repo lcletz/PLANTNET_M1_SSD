@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Eupatorium cannabinum L.",
+            "id": "1362447",
+            "score": 0.83215
+        },
+        {
+            "name": "Solidago rugosa Mill.",
+            "id": "1396340",
+            "score": 0.02885
+        },
+        {
+            "name": "Ambrosia trifida L.",
+            "id": "1393743",
+            "score": 0.00969
+        },
+        {
+            "name": "Helianthus giganteus L.",
+            "id": "1389511",
+            "score": 0.0082
+        },
+        {
+            "name": "Helianthus × laetiflorus Pers.",
+            "id": "1509310",
+            "score": 0.00373
+        },
+        {
+            "name": "Helianthus tuberosus L.",
+            "id": "1357617",
+            "score": 0.00235
+        }
+    ]
+}

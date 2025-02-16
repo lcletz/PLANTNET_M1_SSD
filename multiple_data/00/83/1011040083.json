@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Nigella damascena L.",
+            "id": "1360185",
+            "score": 0.55737
+        },
+        {
+            "name": "Nigella sativa L.",
+            "id": "1363976",
+            "score": 0.26591
+        },
+        {
+            "name": "Nigella hispanica L.",
+            "id": "1393957",
+            "score": 0.01748
+        },
+        {
+            "name": "Nigella arvensis L.",
+            "id": "1360184",
+            "score": 0.00646
+        },
+        {
+            "name": "Nigella orientalis L.",
+            "id": "1664380",
+            "score": 0.00463
+        },
+        {
+            "name": "Delphinium wellbyi Hemsl.",
+            "id": "1664271",
+            "score": 0.00181
+        },
+        {
+            "name": "Delphinium staphisagria L.",
+            "id": "1360179",
+            "score": 0.00112
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Arctium minus (Hill) Bernh.",
+            "id": "1357244",
+            "score": 0.4472
+        },
+        {
+            "name": "Arctium nemorosum Lej.",
+            "id": "1396028",
+            "score": 0.26478
+        },
+        {
+            "name": "Arctium lappa L.",
+            "id": "1396002",
+            "score": 0.17567
+        },
+        {
+            "name": "Arctium tomentosum Mill.",
+            "id": "1396054",
+            "score": 0.0543
+        },
+        {
+            "name": "Helianthus giganteus L.",
+            "id": "1389511",
+            "score": 0.00178
+        },
+        {
+            "name": "Petasites hybridus (L.) G.Gaertn., B.Mey. & Scherb.",
+            "id": "1711822",
+            "score": 0.00158
+        }
+    ]
+}

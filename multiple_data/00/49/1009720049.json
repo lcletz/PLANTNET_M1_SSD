@@ -1,0 +1,355 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Gymnosporia senegalensis (Lam.) Loes.",
+            "id": "1422538",
+            "score": 0.8503
+        },
+        {
+            "name": "Gymnosporia buxifolia (L.) Szyszył.",
+            "id": "1422536",
+            "score": 0.08421
+        },
+        {
+            "name": "Gymnosporia cryptopetala Reyes-Bet. & A.Santos",
+            "id": "1494321",
+            "score": 0.04962
+        },
+        {
+            "name": "Scolopia zeyheri (Nees) Szyszył.",
+            "id": "1422578",
+            "score": 0.0202
+        },
+        {
+            "name": "Capparis spinosa L.",
+            "id": "1356320",
+            "score": 0.01683
+        },
+        {
+            "name": "Rhamnus lycioides L.",
+            "id": "1360267",
+            "score": 0.0166
+        },
+        {
+            "name": "Rhamnus alaternus L.",
+            "id": "1360260",
+            "score": 0.01015
+        },
+        {
+            "name": "Maytenus spinosa (Griseb.) Lourteig & O'Donell",
+            "id": "1494546",
+            "score": 0.00879
+        },
+        {
+            "name": "Citrus australasica F.Muell.",
+            "id": "1420510",
+            "score": 0.00848
+        },
+        {
+            "name": "Ziziphus lotus (L.) Lam.",
+            "id": "1360272",
+            "score": 0.00772
+        },
+        {
+            "name": "Balanites roxburghii Planch.",
+            "id": "1701296",
+            "score": 0.00589
+        },
+        {
+            "name": "Carissa spinarum L.",
+            "id": "1363812",
+            "score": 0.00582
+        },
+        {
+            "name": "Balanites aegyptiaca (L.) Delile",
+            "id": "1361951",
+            "score": 0.00524
+        },
+        {
+            "name": "Paliurus spina-christi Mill.",
+            "id": "1360259",
+            "score": 0.00488
+        },
+        {
+            "name": "Gymnosporia putterlickioides Loes.",
+            "id": "1370279",
+            "score": 0.00474
+        },
+        {
+            "name": "Balanites maughamii Sprague",
+            "id": "1420928",
+            "score": 0.00367
+        },
+        {
+            "name": "Olea europaea L.",
+            "id": "1359676",
+            "score": 0.00366
+        },
+        {
+            "name": "Tristerix corymbosus (L.) Kuijt",
+            "id": "1590555",
+            "score": 0.00336
+        },
+        {
+            "name": "Pseudoziziphus parryi (Torr.) Hauenschild",
+            "id": "1818479",
+            "score": 0.00329
+        },
+        {
+            "name": "Schinus polygama (Cav.) Cabrera",
+            "id": "1454444",
+            "score": 0.00305
+        },
+        {
+            "name": "Rhamnus myrtifolia Willk.",
+            "id": "1360268",
+            "score": 0.00299
+        },
+        {
+            "name": "Salvadora persica L.",
+            "id": "1360460",
+            "score": 0.00298
+        },
+        {
+            "name": "Tapinanthus oleifolius (J.C.Wendl.) Danser",
+            "id": "1590522",
+            "score": 0.00296
+        },
+        {
+            "name": "Maytenus vitis-idaea Griseb.",
+            "id": "1494563",
+            "score": 0.00285
+        },
+        {
+            "name": "Berberis vulgaris L.",
+            "id": "1356603",
+            "score": 0.00271
+        },
+        {
+            "name": "Phillyrea angustifolia L.",
+            "id": "1359677",
+            "score": 0.00268
+        },
+        {
+            "name": "Capparis cartilaginea Decne.",
+            "id": "1356283",
+            "score": 0.00262
+        },
+        {
+            "name": "Berberis aetnensis C.Presl",
+            "id": "1400121",
+            "score": 0.00257
+        },
+        {
+            "name": "Sideroxylon spinosum L.",
+            "id": "1722416",
+            "score": 0.0025
+        },
+        {
+            "name": "Euclea racemosa L.",
+            "id": "1536998",
+            "score": 0.0023
+        },
+        {
+            "name": "Ximenia americana L.",
+            "id": "1406171",
+            "score": 0.00226
+        },
+        {
+            "name": "Commiphora madagascariensis Jacq.",
+            "id": "1365807",
+            "score": 0.00194
+        },
+        {
+            "name": "Searsia natalensis (Bernh. ex C.Krauss) F.A.Barkley",
+            "id": "1454470",
+            "score": 0.0019
+        },
+        {
+            "name": "Maytenus acuminata (L.f.) Loes.",
+            "id": "1494422",
+            "score": 0.00182
+        },
+        {
+            "name": "Balanites glabra Mildbr. & Schltr.",
+            "id": "1364305",
+            "score": 0.0018
+        },
+        {
+            "name": "Condalia microphylla Cav.",
+            "id": "1665589",
+            "score": 0.00173
+        },
+        {
+            "name": "Searsia crenulata (A.Rich.) Moffett",
+            "id": "1748469",
+            "score": 0.00172
+        },
+        {
+            "name": "Pistacia lentiscus L.",
+            "id": "1356290",
+            "score": 0.0017
+        },
+        {
+            "name": "Carissa tetramera (Sacleux) Stapf",
+            "id": "1369231",
+            "score": 0.00167
+        },
+        {
+            "name": "Searsia gueinzii (Sond.) F.A.Barkley",
+            "id": "1422581",
+            "score": 0.00159
+        },
+        {
+            "name": "Gymnosporia heterophylla (Eckl. & Zeyh.) Loes.",
+            "id": "1370272",
+            "score": 0.00157
+        },
+        {
+            "name": "Berberis cretica L.",
+            "id": "1426024",
+            "score": 0.0015
+        },
+        {
+            "name": "Tapinanthus belvisii (DC.) Danser",
+            "id": "1384225",
+            "score": 0.00144
+        },
+        {
+            "name": "Rubus geniculatus Kaltenb.",
+            "id": "1395480",
+            "score": 0.00141
+        },
+        {
+            "name": "Securidaca longepedunculata Fresen.",
+            "id": "1748468",
+            "score": 0.00137
+        },
+        {
+            "name": "Quillaja saponaria Molina",
+            "id": "1662873",
+            "score": 0.00135
+        },
+        {
+            "name": "Oxalis squamata Zucc.",
+            "id": "1637966",
+            "score": 0.00134
+        },
+        {
+            "name": "Psittacanthus rhynchanthus (Benth.) Kuijt",
+            "id": "1590404",
+            "score": 0.00133
+        },
+        {
+            "name": "Bursaria spinosa Cav.",
+            "id": "1645703",
+            "score": 0.00131
+        },
+        {
+            "name": "Dasyphyllum ferox (Wedd.) Cabrera",
+            "id": "1423203",
+            "score": 0.00128
+        },
+        {
+            "name": "Pyrostria phyllanthoidea (Baill.) Bridson",
+            "id": "1371912",
+            "score": 0.00125
+        },
+        {
+            "name": "Discaria chacaye (G.Don) Tortosa",
+            "id": "1665664",
+            "score": 0.00122
+        },
+        {
+            "name": "Photinia arbutifolia Lindl.",
+            "id": "1818361",
+            "score": 0.00117
+        },
+        {
+            "name": "Ligaria cuneifolia (Ruiz & Pav.) Tiegh.",
+            "id": "1590252",
+            "score": 0.00116
+        },
+        {
+            "name": "Ilex vomitoria Aiton",
+            "id": "1420734",
+            "score": 0.00112
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.00109
+        },
+        {
+            "name": "Pyracantha coccinea M.Roem.",
+            "id": "1394994",
+            "score": 0.00109
+        },
+        {
+            "name": "Catesbaea spinosa L.",
+            "id": "1671334",
+            "score": 0.00106
+        },
+        {
+            "name": "Arctostaphylos bakeri Eastw.",
+            "id": "1435502",
+            "score": 0.00105
+        },
+        {
+            "name": "Ehretia alba Retief & A.E.van Wyk",
+            "id": "1477946",
+            "score": 0.00104
+        },
+        {
+            "name": "Gymnosporia pyria (Willemet) Jordaan",
+            "id": "1423919",
+            "score": 0.00102
+        },
+        {
+            "name": "Azima tetracantha Lam.",
+            "id": "1372610",
+            "score": 0.00101
+        },
+        {
+            "name": "Protea cynaroides L.",
+            "id": "1756696",
+            "score": 0.00098
+        },
+        {
+            "name": "Maytenus boaria Molina",
+            "id": "1423469",
+            "score": 0.00088
+        },
+        {
+            "name": "Pyracantha koidzumii (Hayata) Rehder",
+            "id": "1389031",
+            "score": 0.00086
+        },
+        {
+            "name": "Phillyrea latifolia L.",
+            "id": "1359678",
+            "score": 0.00056
+        },
+        {
+            "name": "Arbutus unedo L.",
+            "id": "1358500",
+            "score": 0.00048
+        },
+        {
+            "name": "Periploca laevigata Aiton",
+            "id": "1362244",
+            "score": 0.00044
+        },
+        {
+            "name": "Emmenosperma pancherianum Baill.",
+            "id": "1417171",
+            "score": 0.00044
+        },
+        {
+            "name": "Sarcomphalus mistol (Griseb.) Hauenschild",
+            "id": "1833116",
+            "score": 0.00041
+        }
+    ]
+}

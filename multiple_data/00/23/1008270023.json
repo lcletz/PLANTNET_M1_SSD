@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Eugenia uniflora L.",
+            "id": "1382851",
+            "score": 0.93594
+        },
+        {
+            "name": "Malpighia glabra L.",
+            "id": "1406672",
+            "score": 0.00779
+        },
+        {
+            "name": "Malpighia emarginata DC.",
+            "id": "1404729",
+            "score": 0.00458
+        },
+        {
+            "name": "Osmanthus fragrans Lour.",
+            "id": "1394028",
+            "score": 0.00177
+        },
+        {
+            "name": "Coffea ebracteolata (Hiern) Brenan",
+            "id": "1371458",
+            "score": 0.00152
+        },
+        {
+            "name": "Brunfelsia uniflora (Pohl) D.Don",
+            "id": "1407740",
+            "score": 0.00118
+        }
+    ]
+}

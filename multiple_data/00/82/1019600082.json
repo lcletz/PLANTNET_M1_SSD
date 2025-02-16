@@ -1,0 +1,25 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.20506
+        },
+        {
+            "name": "Cichorium pumilum Jacq.",
+            "id": "1357496",
+            "score": 0.20333
+        },
+        {
+            "name": "Cichorium spinosum L.",
+            "id": "1357497",
+            "score": 0.02977
+        },
+        {
+            "name": "Lactuca perennis L.",
+            "id": "1397420",
+            "score": 0.00132
+        }
+    ]
+}

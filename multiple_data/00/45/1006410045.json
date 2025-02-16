@@ -1,0 +1,440 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Conopodium majus (Gouan) Loret",
+            "id": "1360674",
+            "score": 0.53063
+        },
+        {
+            "name": "Daucus carota L.",
+            "id": "1363227",
+            "score": 0.0835
+        },
+        {
+            "name": "Cosmos bipinnatus Cav.",
+            "id": "1364120",
+            "score": 0.03369
+        },
+        {
+            "name": "Delphinium ajacis L.",
+            "id": "1360162",
+            "score": 0.03342
+        },
+        {
+            "name": "Scabiosa columbaria L.",
+            "id": "1361926",
+            "score": 0.02018
+        },
+        {
+            "name": "Aethusa cynapium L.",
+            "id": "1360608",
+            "score": 0.01775
+        },
+        {
+            "name": "Cosmos sulphureus Cav.",
+            "id": "1373705",
+            "score": 0.01676
+        },
+        {
+            "name": "Matricaria chamomilla L.",
+            "id": "1362332",
+            "score": 0.01506
+        },
+        {
+            "name": "Anthriscus sylvestris (L.) Hoffm.",
+            "id": "1360614",
+            "score": 0.01007
+        },
+        {
+            "name": "Cosmos caudatus Kunth",
+            "id": "1406252",
+            "score": 0.00977
+        },
+        {
+            "name": "Gilia capitata Sims",
+            "id": "1394722",
+            "score": 0.00797
+        },
+        {
+            "name": "Jacobaea adonidifolia (Loisel.) Pelser & Veldkamp",
+            "id": "1512539",
+            "score": 0.00787
+        },
+        {
+            "name": "Nigella damascena L.",
+            "id": "1360185",
+            "score": 0.00758
+        },
+        {
+            "name": "Coriandrum sativum L.",
+            "id": "1363224",
+            "score": 0.00695
+        },
+        {
+            "name": "Chaerophyllum bulbosum L.",
+            "id": "1397349",
+            "score": 0.00606
+        },
+        {
+            "name": "Pimpinella major (L.) Huds.",
+            "id": "1394592",
+            "score": 0.00558
+        },
+        {
+            "name": "Scabiosa atropurpurea L.",
+            "id": "1396055",
+            "score": 0.00483
+        },
+        {
+            "name": "Carum carvi L.",
+            "id": "1363229",
+            "score": 0.00482
+        },
+        {
+            "name": "Ammi majus L.",
+            "id": "1363217",
+            "score": 0.00446
+        },
+        {
+            "name": "Tanacetum corymbosum (L.) Sch.Bip.",
+            "id": "1397508",
+            "score": 0.00398
+        },
+        {
+            "name": "Chaerophyllum temulum L.",
+            "id": "1360671",
+            "score": 0.00391
+        },
+        {
+            "name": "Delphinium consolida L.",
+            "id": "1360164",
+            "score": 0.00374
+        },
+        {
+            "name": "Anethum graveolens L.",
+            "id": "1363232",
+            "score": 0.00365
+        },
+        {
+            "name": "Conium maculatum L.",
+            "id": "1363216",
+            "score": 0.00345
+        },
+        {
+            "name": "Tanacetum coccineum (Willd.) Grierson",
+            "id": "1398099",
+            "score": 0.00314
+        },
+        {
+            "name": "Lapsana communis L.",
+            "id": "1364164",
+            "score": 0.00297
+        },
+        {
+            "name": "Visnaga daucoides Gaertn.",
+            "id": "1362719",
+            "score": 0.00286
+        },
+        {
+            "name": "Glebionis coronaria (L.) Cass. ex Spach",
+            "id": "1400016",
+            "score": 0.00284
+        },
+        {
+            "name": "Malva alcea L.",
+            "id": "1359635",
+            "score": 0.00281
+        },
+        {
+            "name": "Bifora radians M.Bieb.",
+            "id": "1400147",
+            "score": 0.0027
+        },
+        {
+            "name": "Chamaemelum nobile (L.) All.",
+            "id": "1357465",
+            "score": 0.00267
+        },
+        {
+            "name": "Selinum carvifolium (L.) L.",
+            "id": "1737493",
+            "score": 0.00261
+        },
+        {
+            "name": "Eschscholzia californica Cham.",
+            "id": "1363125",
+            "score": 0.00237
+        },
+        {
+            "name": "Coreopsis tinctoria Nutt.",
+            "id": "1391351",
+            "score": 0.00234
+        },
+        {
+            "name": "Jacobaea vulgaris Gaertn.",
+            "id": "1362040",
+            "score": 0.00233
+        },
+        {
+            "name": "Campanula rapunculus L.",
+            "id": "1356752",
+            "score": 0.00233
+        },
+        {
+            "name": "Bunium bulbocastanum L.",
+            "id": "1362269",
+            "score": 0.00221
+        },
+        {
+            "name": "Ipomopsis rubra (L.) Wherry",
+            "id": "1412332",
+            "score": 0.00215
+        },
+        {
+            "name": "Scabiosa triandra L.",
+            "id": "1396063",
+            "score": 0.002
+        },
+        {
+            "name": "Anthemis cotula L.",
+            "id": "1364155",
+            "score": 0.002
+        },
+        {
+            "name": "Crepis biennis L.",
+            "id": "1391445",
+            "score": 0.00188
+        },
+        {
+            "name": "Delphinium emarginatum C.Presl",
+            "id": "1398894",
+            "score": 0.00179
+        },
+        {
+            "name": "Roemeria sicula (Guss.) ined.",
+            "id": "1739196",
+            "score": 0.00166
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.00163
+        },
+        {
+            "name": "Nigella sativa L.",
+            "id": "1363976",
+            "score": 0.00162
+        },
+        {
+            "name": "Malva moschata L.",
+            "id": "1393748",
+            "score": 0.00158
+        },
+        {
+            "name": "Artemisia abrotanum L.",
+            "id": "1396736",
+            "score": 0.00158
+        },
+        {
+            "name": "Matricaria discoidea DC.",
+            "id": "1357711",
+            "score": 0.00157
+        },
+        {
+            "name": "Pulsatilla vulgaris Mill.",
+            "id": "1737508",
+            "score": 0.00154
+        },
+        {
+            "name": "Achillea millefolium L.",
+            "id": "1364157",
+            "score": 0.00144
+        },
+        {
+            "name": "Ranunculus acris L.",
+            "id": "1360187",
+            "score": 0.00141
+        },
+        {
+            "name": "Pimpinella saxifraga L.",
+            "id": "1394593",
+            "score": 0.00133
+        },
+        {
+            "name": "Aconitum anthora L.",
+            "id": "1394604",
+            "score": 0.00132
+        },
+        {
+            "name": "Torilis arvensis (Huds.) Link",
+            "id": "1363212",
+            "score": 0.00126
+        },
+        {
+            "name": "Artemisia annua L.",
+            "id": "1382106",
+            "score": 0.00121
+        },
+        {
+            "name": "Dianthus armeria L.",
+            "id": "1397366",
+            "score": 0.00115
+        },
+        {
+            "name": "Meum athamanticum Jacq.",
+            "id": "1360759",
+            "score": 0.00115
+        },
+        {
+            "name": "Leucanthemum vulgare Lam.",
+            "id": "1393513",
+            "score": 0.00113
+        },
+        {
+            "name": "Trachyspermum ammi (L.) Sprague",
+            "id": "1425700",
+            "score": 0.00107
+        },
+        {
+            "name": "Knautia arvensis (L.) Coult.",
+            "id": "1362327",
+            "score": 0.00106
+        },
+        {
+            "name": "Cota tinctoria (L.) J.Gay",
+            "id": "1417804",
+            "score": 0.00104
+        },
+        {
+            "name": "Phacelia tanacetifolia Benth.",
+            "id": "1363358",
+            "score": 0.00103
+        },
+        {
+            "name": "Tanacetum vulgare L.",
+            "id": "1396512",
+            "score": 0.001
+        },
+        {
+            "name": "Dichoropetalum carvifolia (Vill.) Pimenov & Kljuykov",
+            "id": "1390269",
+            "score": 0.00089
+        },
+        {
+            "name": "Gilia achilleifolia Benth.",
+            "id": "1443984",
+            "score": 0.00085
+        },
+        {
+            "name": "Ptilimnium nuttallii (DC.) Britton",
+            "id": "1437036",
+            "score": 0.00084
+        },
+        {
+            "name": "Heracleum sphondylium L.",
+            "id": "1360744",
+            "score": 0.00082
+        },
+        {
+            "name": "Conopodium pyrenaeum (Loisel.) Miégev.",
+            "id": "1391333",
+            "score": 0.00082
+        },
+        {
+            "name": "Aegopodium podagraria L.",
+            "id": "1389510",
+            "score": 0.00077
+        },
+        {
+            "name": "Pastinaca sativa L.",
+            "id": "1363226",
+            "score": 0.00074
+        },
+        {
+            "name": "Anthemis arvensis L.",
+            "id": "1364154",
+            "score": 0.0007
+        },
+        {
+            "name": "Scrophularia canina L.",
+            "id": "1360497",
+            "score": 0.00061
+        },
+        {
+            "name": "Tagetes tenuifolia Cav.",
+            "id": "1389492",
+            "score": 0.00061
+        },
+        {
+            "name": "Descurainia sophia (L.) Webb ex Prantl",
+            "id": "1363917",
+            "score": 0.0006
+        },
+        {
+            "name": "Adonis aestivalis L.",
+            "id": "1360147",
+            "score": 0.0006
+        },
+        {
+            "name": "Petroselinum crispum (Mill.) Fuss",
+            "id": "1363214",
+            "score": 0.00057
+        },
+        {
+            "name": "Cyclospermum leptophyllum (Pers.) Sprague ex Britton & P.Wilson",
+            "id": "1408867",
+            "score": 0.00055
+        },
+        {
+            "name": "Valeriana officinalis L.",
+            "id": "1396978",
+            "score": 0.00051
+        },
+        {
+            "name": "Ambrosia artemisiifolia L.",
+            "id": "1355901",
+            "score": 0.0005
+        },
+        {
+            "name": "Sison amomum L.",
+            "id": "1360800",
+            "score": 0.0005
+        },
+        {
+            "name": "Chaerophyllum aureum L.",
+            "id": "1391110",
+            "score": 0.0005
+        },
+        {
+            "name": "Reseda alba L.",
+            "id": "1360231",
+            "score": 0.00049
+        },
+        {
+            "name": "Roemeria hybrida (L.) DC.",
+            "id": "1359825",
+            "score": 0.00046
+        },
+        {
+            "name": "Tagetes erecta L.",
+            "id": "1374048",
+            "score": 0.00045
+        },
+        {
+            "name": "Leucanthemum monspeliense (L.) H.J.Coste",
+            "id": "1393508",
+            "score": 0.00044
+        },
+        {
+            "name": "Oenanthe crocata L.",
+            "id": "1360761",
+            "score": 0.00042
+        },
+        {
+            "name": "Foeniculum vulgare Mill.",
+            "id": "1360739",
+            "score": 0.00041
+        }
+    ]
+}

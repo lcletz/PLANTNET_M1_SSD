@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Buxus sempervirens L.",
+            "id": "1356729",
+            "score": 0.92839
+        },
+        {
+            "name": "Buxus balearica Lam.",
+            "id": "1356728",
+            "score": 0.02143
+        },
+        {
+            "name": "Buxus microphylla Siebold & Zucc.",
+            "id": "1418161",
+            "score": 0.01346
+        },
+        {
+            "name": "Ilex crenata Thunb.",
+            "id": "1420655",
+            "score": 0.00652
+        },
+        {
+            "name": "Myrtus communis L.",
+            "id": "1359662",
+            "score": 0.00469
+        },
+        {
+            "name": "Myrsine africana L.",
+            "id": "1383319",
+            "score": 0.00302
+        },
+        {
+            "name": "Buxus sinica (Rehder & E.H.Wilson) M.Cheng",
+            "id": "1418162",
+            "score": 0.00172
+        },
+        {
+            "name": "Lonicera ligustrina Wall.",
+            "id": "1491421",
+            "score": 0.00166
+        }
+    ]
+}

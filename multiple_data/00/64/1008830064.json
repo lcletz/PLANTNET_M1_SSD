@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cistus albidus L.",
+            "id": "1357096",
+            "score": 0.87136
+        },
+        {
+            "name": "Cistus crispus L.",
+            "id": "1357100",
+            "score": 0.05234
+        },
+        {
+            "name": "Cistus monspeliensis L.",
+            "id": "1357105",
+            "score": 0.01331
+        },
+        {
+            "name": "Cistus creticus L.",
+            "id": "1357099",
+            "score": 0.0099
+        },
+        {
+            "name": "Cistus salviifolius L.",
+            "id": "1357111",
+            "score": 0.00289
+        },
+        {
+            "name": "Lavandula stoechas L.",
+            "id": "1358766",
+            "score": 0.0014
+        },
+        {
+            "name": "Hypericum maculatum Crantz",
+            "id": "1393250",
+            "score": 0.00128
+        },
+        {
+            "name": "Helianthemum syriacum (Jacq.) Dum.Cours.",
+            "id": "1392717",
+            "score": 0.00114
+        }
+    ]
+}

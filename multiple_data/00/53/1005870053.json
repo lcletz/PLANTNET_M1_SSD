@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hedera canariensis Willd.",
+            "id": "1356580",
+            "score": 0.39344
+        },
+        {
+            "name": "Hedera helix L.",
+            "id": "1363575",
+            "score": 0.25617
+        },
+        {
+            "name": "Hedera hibernica Poit.",
+            "id": "1737422",
+            "score": 0.00939
+        },
+        {
+            "name": "Hedera colchica (K.Koch) K.Koch",
+            "id": "1392697",
+            "score": 0.00783
+        },
+        {
+            "name": "Hedera rhizomatifera (McAll.) Jury",
+            "id": "1467324",
+            "score": 0.00382
+        },
+        {
+            "name": "Hedera maderensis K.Koch ex A.Rutherf.",
+            "id": "1467320",
+            "score": 0.00343
+        },
+        {
+            "name": "Hedera cypria McAll.",
+            "id": "1467319",
+            "score": 0.00145
+        }
+    ]
+}

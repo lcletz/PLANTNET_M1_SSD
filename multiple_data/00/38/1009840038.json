@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tanacetum parthenium (L.) Sch.Bip.",
+            "id": "1396511",
+            "score": 0.84536
+        },
+        {
+            "name": "Anthriscus cerefolium (L.) Hoffm.",
+            "id": "1360613",
+            "score": 0.043
+        },
+        {
+            "name": "Artemisia annua L.",
+            "id": "1382106",
+            "score": 0.01641
+        },
+        {
+            "name": "Coriandrum sativum L.",
+            "id": "1363224",
+            "score": 0.01226
+        },
+        {
+            "name": "Anemone coronaria L.",
+            "id": "1360153",
+            "score": 0.00611
+        },
+        {
+            "name": "Petroselinum crispum (Mill.) Fuss",
+            "id": "1363214",
+            "score": 0.0033
+        },
+        {
+            "name": "Anthriscus caucalis M.Bieb.",
+            "id": "1394851",
+            "score": 0.00319
+        },
+        {
+            "name": "Artemisia absinthium L.",
+            "id": "1357268",
+            "score": 0.00205
+        },
+        {
+            "name": "Cryptogramma crispa (L.) R.Br.",
+            "id": "1391480",
+            "score": 0.00121
+        }
+    ]
+}

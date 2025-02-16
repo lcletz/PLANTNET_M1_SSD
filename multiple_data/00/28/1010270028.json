@@ -1,0 +1,360 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Alopecurus pratensis L.",
+            "id": "1362406",
+            "score": 0.03119
+        },
+        {
+            "name": "Asphodelus albus Mill.",
+            "id": "1397256",
+            "score": 0.02817
+        },
+        {
+            "name": "Carex divisa Huds.",
+            "id": "1363282",
+            "score": 0.0147
+        },
+        {
+            "name": "Carex disticha Huds.",
+            "id": "1390803",
+            "score": 0.0144
+        },
+        {
+            "name": "Alopecurus myosuroides Huds.",
+            "id": "1361157",
+            "score": 0.01331
+        },
+        {
+            "name": "Arrhenatherum elatius (L.) P.Beauv. ex J.Presl & C.Presl",
+            "id": "1396638",
+            "score": 0.01099
+        },
+        {
+            "name": "Anthoxanthum odoratum L.",
+            "id": "1363461",
+            "score": 0.01008
+        },
+        {
+            "name": "Carex vulpina L.",
+            "id": "1390933",
+            "score": 0.01001
+        },
+        {
+            "name": "Sarga purpureosericea (Hochst. ex A.Rich.) Spangler",
+            "id": "1748599",
+            "score": 0.00949
+        },
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.00925
+        },
+        {
+            "name": "Triticum aestivum L.",
+            "id": "1363483",
+            "score": 0.00791
+        },
+        {
+            "name": "Sorghum halepense (L.) Pers.",
+            "id": "1363508",
+            "score": 0.00694
+        },
+        {
+            "name": "Gaudinia fragilis (L.) P.Beauv.",
+            "id": "1392502",
+            "score": 0.00673
+        },
+        {
+            "name": "Verbascum thapsus L.",
+            "id": "1364059",
+            "score": 0.00639
+        },
+        {
+            "name": "Carex melanostachya M.Bieb. ex Willd.",
+            "id": "1390863",
+            "score": 0.00604
+        },
+        {
+            "name": "Verbascum densiflorum Bertol.",
+            "id": "1360523",
+            "score": 0.006
+        },
+        {
+            "name": "Carex lasiocarpa Ehrh.",
+            "id": "1390849",
+            "score": 0.00521
+        },
+        {
+            "name": "Carex appropinquata Schumach.",
+            "id": "1390760",
+            "score": 0.00507
+        },
+        {
+            "name": "Carex hirta L.",
+            "id": "1361058",
+            "score": 0.0048
+        },
+        {
+            "name": "Alopecurus rendlei Eig",
+            "id": "1361159",
+            "score": 0.00456
+        },
+        {
+            "name": "Molinia caerulea (L.) Moench",
+            "id": "1363593",
+            "score": 0.00418
+        },
+        {
+            "name": "Ornithogalum pyrenaicum L.",
+            "id": "1361516",
+            "score": 0.00394
+        },
+        {
+            "name": "Bromus hordeaceus L.",
+            "id": "1356286",
+            "score": 0.00332
+        },
+        {
+            "name": "Echinochloa crus-galli (L.) P.Beauv.",
+            "id": "1391823",
+            "score": 0.00328
+        },
+        {
+            "name": "Ornithogalum narbonense L.",
+            "id": "1361514",
+            "score": 0.00315
+        },
+        {
+            "name": "Triglochin maritima L.",
+            "id": "1361603",
+            "score": 0.00305
+        },
+        {
+            "name": "Oryza sativa L.",
+            "id": "1363477",
+            "score": 0.003
+        },
+        {
+            "name": "Plantago coronopus L.",
+            "id": "1356065",
+            "score": 0.00288
+        },
+        {
+            "name": "Calamagrostis epigejos (L.) Roth",
+            "id": "1379532",
+            "score": 0.00281
+        },
+        {
+            "name": "Sorghum bicolor (L.) Moench",
+            "id": "1356240",
+            "score": 0.00279
+        },
+        {
+            "name": "Ligularia sibirica (L.) Cass.",
+            "id": "1393524",
+            "score": 0.00264
+        },
+        {
+            "name": "Carex paniculata L.",
+            "id": "1361074",
+            "score": 0.00234
+        },
+        {
+            "name": "Luzula campestris (L.) DC.",
+            "id": "1361592",
+            "score": 0.00234
+        },
+        {
+            "name": "Anthoxanthum nipponicum Honda",
+            "id": "1720959",
+            "score": 0.00227
+        },
+        {
+            "name": "Sorghastrum nutans (L.) Nash",
+            "id": "1406532",
+            "score": 0.00216
+        },
+        {
+            "name": "Plantago alpina L.",
+            "id": "1397461",
+            "score": 0.00187
+        },
+        {
+            "name": "Bromus secalinus L.",
+            "id": "1361206",
+            "score": 0.00182
+        },
+        {
+            "name": "Stipa tirsa Steven",
+            "id": "1397504",
+            "score": 0.0018
+        },
+        {
+            "name": "Plantago maritima L.",
+            "id": "1359965",
+            "score": 0.00178
+        },
+        {
+            "name": "Cenchrus stramineus (Peter) Morrone",
+            "id": "1381403",
+            "score": 0.00176
+        },
+        {
+            "name": "Plantago major L.",
+            "id": "1356067",
+            "score": 0.00172
+        },
+        {
+            "name": "Pontechium maculatum (L.) Böhle & Hilger",
+            "id": "1418043",
+            "score": 0.00169
+        },
+        {
+            "name": "Gentiana lutea L.",
+            "id": "1397594",
+            "score": 0.00167
+        },
+        {
+            "name": "Digitalis lutea L.",
+            "id": "1362533",
+            "score": 0.00165
+        },
+        {
+            "name": "Lolium perenne L.",
+            "id": "1363475",
+            "score": 0.00165
+        },
+        {
+            "name": "Gymnadenia conopsea (L.) R.Br.",
+            "id": "1392661",
+            "score": 0.00164
+        },
+        {
+            "name": "Carex otrubae Podp.",
+            "id": "1390879",
+            "score": 0.00162
+        },
+        {
+            "name": "Rumex patientia L.",
+            "id": "1360135",
+            "score": 0.0016
+        },
+        {
+            "name": "Zea mays L.",
+            "id": "1363500",
+            "score": 0.00153
+        },
+        {
+            "name": "Poa bulbosa L.",
+            "id": "1363456",
+            "score": 0.00149
+        },
+        {
+            "name": "Allium scorodoprasum L.",
+            "id": "1360935",
+            "score": 0.00144
+        },
+        {
+            "name": "Carex leersii F.W.Schultz",
+            "id": "1390851",
+            "score": 0.00144
+        },
+        {
+            "name": "Verbascum phlomoides L.",
+            "id": "1397025",
+            "score": 0.00141
+        },
+        {
+            "name": "Plantago lanceolata L.",
+            "id": "1356066",
+            "score": 0.00139
+        },
+        {
+            "name": "Liatris pycnostachya Michx.",
+            "id": "1417853",
+            "score": 0.00137
+        },
+        {
+            "name": "Scleria melanomphala Kunth",
+            "id": "1386291",
+            "score": 0.00132
+        },
+        {
+            "name": "Carex buxbaumii Wahlenb.",
+            "id": "1397342",
+            "score": 0.00126
+        },
+        {
+            "name": "Melilotus altissimus Thuill.",
+            "id": "1393789",
+            "score": 0.00124
+        },
+        {
+            "name": "Plantago subulata L.",
+            "id": "1359973",
+            "score": 0.00123
+        },
+        {
+            "name": "Digitalis ferruginea L.",
+            "id": "1373275",
+            "score": 0.00122
+        },
+        {
+            "name": "Asphodelus macrocarpus Parl.",
+            "id": "1361019",
+            "score": 0.00122
+        },
+        {
+            "name": "Carex hostiana DC.",
+            "id": "1390836",
+            "score": 0.00121
+        },
+        {
+            "name": "Carex hartmaniorum A.Cajander",
+            "id": "1737426",
+            "score": 0.0012
+        },
+        {
+            "name": "Carex acutiformis Ehrh.",
+            "id": "1363281",
+            "score": 0.00118
+        },
+        {
+            "name": "Carex divulsa Stokes",
+            "id": "1361050",
+            "score": 0.00112
+        },
+        {
+            "name": "Triticum turgidum L.",
+            "id": "1363487",
+            "score": 0.0011
+        },
+        {
+            "name": "Dioscorea communis (L.) Caddick & Wilkin",
+            "id": "1361109",
+            "score": 0.00109
+        },
+        {
+            "name": "Rudgea citrifolia (Sw.) K.Schum.",
+            "id": "1407437",
+            "score": 0.00109
+        },
+        {
+            "name": "Lachnaea capitata (L.) Crantz",
+            "id": "1693778",
+            "score": 0.00108
+        },
+        {
+            "name": "Carex raynoldsii Dewey",
+            "id": "1411270",
+            "score": 0.00103
+        },
+        {
+            "name": "Lactuca serriola L.",
+            "id": "1364173",
+            "score": 0.001
+        }
+    ]
+}

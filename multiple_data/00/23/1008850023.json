@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Choisya ternata Kunth",
+            "id": "1364041",
+            "score": 0.95325
+        },
+        {
+            "name": "Lupinus angustifolius L.",
+            "id": "1363699",
+            "score": 0.00231
+        },
+        {
+            "name": "Citrus trifoliata L.",
+            "id": "1682410",
+            "score": 0.00184
+        },
+        {
+            "name": "Pachira glabra Pasq.",
+            "id": "1388749",
+            "score": 0.00183
+        },
+        {
+            "name": "Pachira aquatica Aubl.",
+            "id": "1388748",
+            "score": 0.00135
+        },
+        {
+            "name": "Passiflora caerulea L.",
+            "id": "1356052",
+            "score": 0.00112
+        }
+    ]
+}

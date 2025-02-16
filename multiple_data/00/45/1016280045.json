@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Globularia alypum L.",
+            "id": "1359873",
+            "score": 0.84404
+        },
+        {
+            "name": "Globularia vulgaris L.",
+            "id": "1392634",
+            "score": 0.07518
+        },
+        {
+            "name": "Globularia arabica Jaub. & Spach",
+            "id": "1356194",
+            "score": 0.04955
+        },
+        {
+            "name": "Globularia cordifolia L.",
+            "id": "1392628",
+            "score": 0.00627
+        },
+        {
+            "name": "Globularia bisnagarica L.",
+            "id": "1392626",
+            "score": 0.00322
+        },
+        {
+            "name": "Veronica allionii Vill.",
+            "id": "1397042",
+            "score": 0.0025
+        },
+        {
+            "name": "Globularia repens Lam.",
+            "id": "1392632",
+            "score": 0.00136
+        }
+    ]
+}

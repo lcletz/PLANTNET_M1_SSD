@@ -1,0 +1,90 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Juniperus squamata D.Don",
+            "id": "1740397",
+            "score": 0.48354
+        },
+        {
+            "name": "Juniperus communis L.",
+            "id": "1393364",
+            "score": 0.14763
+        },
+        {
+            "name": "Juniperus chinensis L.",
+            "id": "1393361",
+            "score": 0.05882
+        },
+        {
+            "name": "Taxus canadensis Marshall",
+            "id": "1390006",
+            "score": 0.00914
+        },
+        {
+            "name": "Juniperus horizontalis Moench",
+            "id": "1388819",
+            "score": 0.00495
+        },
+        {
+            "name": "Chamaecyparis pisifera (Siebold & Zucc.) Endl.",
+            "id": "1391117",
+            "score": 0.00421
+        },
+        {
+            "name": "Cryptomeria japonica (Thunb. ex L.f.) D.Don",
+            "id": "1418585",
+            "score": 0.00295
+        },
+        {
+            "name": "Juniperus procumbens (Siebold ex Endl.) Miq.",
+            "id": "1701538",
+            "score": 0.00278
+        },
+        {
+            "name": "Taxus cuspidata Siebold & Zucc.",
+            "id": "1390008",
+            "score": 0.0026
+        },
+        {
+            "name": "Juniperus oxycedrus L.",
+            "id": "1393365",
+            "score": 0.00215
+        },
+        {
+            "name": "Araucaria angustifolia (Bertol.) Kuntze",
+            "id": "1388818",
+            "score": 0.00189
+        },
+        {
+            "name": "Juniperus drupacea Labill.",
+            "id": "1397755",
+            "score": 0.00168
+        },
+        {
+            "name": "Taiwania cryptomerioides Hayata",
+            "id": "1388925",
+            "score": 0.00162
+        },
+        {
+            "name": "Juniperus formosana Hayata",
+            "id": "1701517",
+            "score": 0.00148
+        },
+        {
+            "name": "Juniperus procera Hochst. ex Endl.",
+            "id": "1381526",
+            "score": 0.00138
+        },
+        {
+            "name": "Juniperus bermudiana L.",
+            "id": "1408254",
+            "score": 0.00122
+        },
+        {
+            "name": "Juniperus sabina L.",
+            "id": "1393367",
+            "score": 0.00102
+        }
+    ]
+}

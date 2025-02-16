@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salvia verticillata L.",
+            "id": "1397480",
+            "score": 0.93025
+        },
+        {
+            "name": "Salvia × sylvestris L.",
+            "id": "1563105",
+            "score": 0.003
+        },
+        {
+            "name": "Salvia judaica Boiss.",
+            "id": "1425516",
+            "score": 0.00183
+        },
+        {
+            "name": "Salvia nemorosa L.",
+            "id": "1397479",
+            "score": 0.0015
+        },
+        {
+            "name": "Salvia pratensis L.",
+            "id": "1395913",
+            "score": 0.00113
+        }
+    ]
+}

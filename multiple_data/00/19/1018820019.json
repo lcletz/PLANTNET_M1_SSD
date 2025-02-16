@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Arum maculatum L.",
+            "id": "1396952",
+            "score": 0.53794
+        },
+        {
+            "name": "Arum italicum Mill.",
+            "id": "1360989",
+            "score": 0.30016
+        },
+        {
+            "name": "Arum cylindraceum Gasp.",
+            "id": "1396937",
+            "score": 0.01911
+        },
+        {
+            "name": "Arum pictum L.f.",
+            "id": "1396965",
+            "score": 0.01218
+        },
+        {
+            "name": "Dioscorea communis (L.) Caddick & Wilkin",
+            "id": "1361109",
+            "score": 0.00203
+        },
+        {
+            "name": "Dracunculus vulgaris Schott",
+            "id": "1360995",
+            "score": 0.00193
+        }
+    ]
+}

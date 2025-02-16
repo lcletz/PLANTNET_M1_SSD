@@ -1,0 +1,60 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium alexandrinum L.",
+            "id": "1363735",
+            "score": 0.74065
+        },
+        {
+            "name": "Trifolium pannonicum Jacq.",
+            "id": "1359513",
+            "score": 0.0708
+        },
+        {
+            "name": "Trifolium ochroleucon Huds.",
+            "id": "1359510",
+            "score": 0.05564
+        },
+        {
+            "name": "Trifolium montanum L.",
+            "id": "1359508",
+            "score": 0.01494
+        },
+        {
+            "name": "Trifolium squarrosum L.",
+            "id": "1363742",
+            "score": 0.01056
+        },
+        {
+            "name": "Trifolium medium L.",
+            "id": "1397514",
+            "score": 0.00838
+        },
+        {
+            "name": "Trifolium trichocephalum M.Bieb.",
+            "id": "1587614",
+            "score": 0.00463
+        },
+        {
+            "name": "Trifolium hybridum L.",
+            "id": "1359497",
+            "score": 0.00348
+        },
+        {
+            "name": "Trifolium pratense L.",
+            "id": "1359517",
+            "score": 0.00334
+        },
+        {
+            "name": "Trifolium canescens Willd.",
+            "id": "1587546",
+            "score": 0.00259
+        },
+        {
+            "name": "Trifolium repens L.",
+            "id": "1363740",
+            "score": 0.0024
+        }
+    ]
+}

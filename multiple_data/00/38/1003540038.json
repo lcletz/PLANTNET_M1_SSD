@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus laurocerasus L.",
+            "id": "1394952",
+            "score": 0.79195
+        },
+        {
+            "name": "Prunus lusitanica L.",
+            "id": "1360322",
+            "score": 0.1015
+        },
+        {
+            "name": "Prunus serotina Ehrh.",
+            "id": "1370859",
+            "score": 0.00781
+        },
+        {
+            "name": "Syzygium cumini (L.) Skeels",
+            "id": "1382778",
+            "score": 0.00451
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.00232
+        },
+        {
+            "name": "Terminalia chebula Retz.",
+            "id": "1376889",
+            "score": 0.0017
+        },
+        {
+            "name": "Prunus myrtifolia (L.) Urb.",
+            "id": "1403241",
+            "score": 0.00113
+        }
+    ]
+}

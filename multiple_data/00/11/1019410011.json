@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Lythrum virgatum L.",
+            "id": "1393714",
+            "score": 0.75796
+        },
+        {
+            "name": "Lythrum salicaria L.",
+            "id": "1356023",
+            "score": 0.15892
+        },
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.00672
+        },
+        {
+            "name": "Salvia nemorosa L.",
+            "id": "1397479",
+            "score": 0.00218
+        },
+        {
+            "name": "Veronica spicata L.",
+            "id": "1397522",
+            "score": 0.0015
+        },
+        {
+            "name": "Veronica longifolia L.",
+            "id": "1397056",
+            "score": 0.00149
+        },
+        {
+            "name": "Hyssopus officinalis L.",
+            "id": "1358747",
+            "score": 0.00141
+        }
+    ]
+}

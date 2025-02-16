@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Scrophularia auriculata L.",
+            "id": "1360495",
+            "score": 0.97763
+        },
+        {
+            "name": "Scrophularia oblongifolia Loisel.",
+            "id": "1396124",
+            "score": 0.03718
+        },
+        {
+            "name": "Scrophularia nodosa L.",
+            "id": "1396122",
+            "score": 0.02678
+        },
+        {
+            "name": "Verbena hastata L.",
+            "id": "1398136",
+            "score": 0.00317
+        },
+        {
+            "name": "Scrophularia sublyrata Brot.",
+            "id": "1399743",
+            "score": 0.00175
+        },
+        {
+            "name": "Sanguisorba officinalis L.",
+            "id": "1395920",
+            "score": 0.001
+        }
+    ]
+}

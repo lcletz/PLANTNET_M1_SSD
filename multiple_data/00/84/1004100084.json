@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rosa arvensis Huds.",
+            "id": "1395253",
+            "score": 0.83524
+        },
+        {
+            "name": "Rosa canina L.",
+            "id": "1360334",
+            "score": 0.03619
+        },
+        {
+            "name": "Rosa spinosissima L.",
+            "id": "1360350",
+            "score": 0.02497
+        },
+        {
+            "name": "Rosa agrestis Savi",
+            "id": "1360330",
+            "score": 0.00862
+        },
+        {
+            "name": "Rosa corymbifera Borkh.",
+            "id": "1360335",
+            "score": 0.00731
+        },
+        {
+            "name": "Rosa sempervirens L.",
+            "id": "1360348",
+            "score": 0.00668
+        },
+        {
+            "name": "Rosa stylosa Desv.",
+            "id": "1360352",
+            "score": 0.00366
+        },
+        {
+            "name": "Rosa micrantha Borrer ex Sm.",
+            "id": "1360342",
+            "score": 0.00177
+        },
+        {
+            "name": "Rosa multiflora Thunb.",
+            "id": "1360345",
+            "score": 0.00165
+        },
+        {
+            "name": "Rosa tomentosa Sm.",
+            "id": "1395366",
+            "score": 0.00141
+        },
+        {
+            "name": "Rosa arkansana Porter",
+            "id": "1413503",
+            "score": 0.00108
+        },
+        {
+            "name": "Rosa moschata Herrm.",
+            "id": "1360344",
+            "score": 0.001
+        }
+    ]
+}

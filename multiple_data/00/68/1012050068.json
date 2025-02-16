@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Taxus baccata L.",
+            "id": "1396710",
+            "score": 0.80738
+        },
+        {
+            "name": "Taxus canadensis Marshall",
+            "id": "1390006",
+            "score": 0.03075
+        },
+        {
+            "name": "Taxus cuspidata Siebold & Zucc.",
+            "id": "1390008",
+            "score": 0.02134
+        },
+        {
+            "name": "Podocarpus gnidioides Carrière",
+            "id": "1414636",
+            "score": 0.00205
+        },
+        {
+            "name": "Podocarpus macrophyllus (Thunb.) Sweet",
+            "id": "1420123",
+            "score": 0.00185
+        },
+        {
+            "name": "Juniperus communis L.",
+            "id": "1393364",
+            "score": 0.00105
+        },
+        {
+            "name": "Podocarpus polyspermus de Laub.",
+            "id": "1415032",
+            "score": 0.00104
+        }
+    ]
+}

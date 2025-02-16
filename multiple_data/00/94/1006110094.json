@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lunaria annua L.",
+            "id": "1361790",
+            "score": 0.81958
+        },
+        {
+            "name": "Lunaria rediviva L.",
+            "id": "1393653",
+            "score": 0.06147
+        },
+        {
+            "name": "Aubrieta deltoidea (L.) DC.",
+            "id": "1399865",
+            "score": 0.00798
+        },
+        {
+            "name": "Hesperis matronalis L.",
+            "id": "1392765",
+            "score": 0.0076
+        },
+        {
+            "name": "Raphanus raphanistrum L.",
+            "id": "1363901",
+            "score": 0.0035
+        },
+        {
+            "name": "Moricandia arvensis (L.) DC.",
+            "id": "1358386",
+            "score": 0.00302
+        },
+        {
+            "name": "Cardamine pentaphyllos (L.) Crantz",
+            "id": "1390702",
+            "score": 0.00103
+        }
+    ]
+}

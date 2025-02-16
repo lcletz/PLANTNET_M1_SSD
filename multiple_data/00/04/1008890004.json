@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus × fruticans Weihe",
+            "id": "1667948",
+            "score": 0.4697
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.31683
+        },
+        {
+            "name": "Vaccinium uliginosum L.",
+            "id": "1396970",
+            "score": 0.11421
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.00556
+        },
+        {
+            "name": "Prunus americana Marshall",
+            "id": "1413346",
+            "score": 0.00259
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00249
+        },
+        {
+            "name": "Viburnum rufidulum Raf.",
+            "id": "1417599",
+            "score": 0.00182
+        },
+        {
+            "name": "Vaccinium angustifolium Aiton",
+            "id": "1414140",
+            "score": 0.00163
+        },
+        {
+            "name": "Prunus maritima Marshall",
+            "id": "1420417",
+            "score": 0.00139
+        },
+        {
+            "name": "Prunus umbellata Elliott",
+            "id": "1436948",
+            "score": 0.00103
+        }
+    ]
+}

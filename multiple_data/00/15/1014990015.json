@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ulex europaeus L.",
+            "id": "1363707",
+            "score": 0.67171
+        },
+        {
+            "name": "Ulex parviflorus Pourr.",
+            "id": "1359548",
+            "score": 0.1182
+        },
+        {
+            "name": "Ulex gallii Planch.",
+            "id": "1397517",
+            "score": 0.10035
+        },
+        {
+            "name": "Ulex minor Roth",
+            "id": "1359547",
+            "score": 0.04291
+        },
+        {
+            "name": "Ulex baeticus Boiss.",
+            "id": "1359546",
+            "score": 0.00357
+        },
+        {
+            "name": "Genista hispanica L.",
+            "id": "1392516",
+            "score": 0.00181
+        },
+        {
+            "name": "Ononis natrix L.",
+            "id": "1359413",
+            "score": 0.00172
+        },
+        {
+            "name": "Genista hirsuta Vahl",
+            "id": "1359209",
+            "score": 0.0013
+        }
+    ]
+}

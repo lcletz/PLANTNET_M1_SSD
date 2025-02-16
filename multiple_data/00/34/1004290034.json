@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Achillea filipendulina Lam.",
+            "id": "1392622",
+            "score": 0.94017
+        },
+        {
+            "name": "Achillea ligustica All.",
+            "id": "1357185",
+            "score": 0.00624
+        },
+        {
+            "name": "Achillea clypeolata Sm.",
+            "id": "1417754",
+            "score": 0.00379
+        },
+        {
+            "name": "Achillea ageratum L.",
+            "id": "1357182",
+            "score": 0.00264
+        },
+        {
+            "name": "Achillea coarctata Poir.",
+            "id": "1388813",
+            "score": 0.00199
+        },
+        {
+            "name": "Tanacetum vulgare L.",
+            "id": "1396512",
+            "score": 0.00108
+        },
+        {
+            "name": "Achillea grandifolia Friv.",
+            "id": "1497778",
+            "score": 0.00107
+        }
+    ]
+}

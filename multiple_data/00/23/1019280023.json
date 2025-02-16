@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Leucanthemopsis alpina (L.) Heywood",
+            "id": "1393494",
+            "score": 0.95272
+        },
+        {
+            "name": "Anthemis arvensis L.",
+            "id": "1364154",
+            "score": 0.00172
+        },
+        {
+            "name": "Leucanthemum adustum (W.D.J.Koch) Gremli",
+            "id": "1393496",
+            "score": 0.0014
+        },
+        {
+            "name": "Phalacrocarpum oppositifolium (Brot.) Willk.",
+            "id": "1517350",
+            "score": 0.00126
+        },
+        {
+            "name": "Leucanthemum graminifolium (L.) Lam.",
+            "id": "1393505",
+            "score": 0.00107
+        },
+        {
+            "name": "Tanacetum corymbosum (L.) Sch.Bip.",
+            "id": "1397508",
+            "score": 0.00101
+        }
+    ]
+}

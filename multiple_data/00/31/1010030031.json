@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ajuga pyramidalis L.",
+            "id": "1389405",
+            "score": 0.78187
+        },
+        {
+            "name": "Ajuga reptans L.",
+            "id": "1358718",
+            "score": 0.14323
+        },
+        {
+            "name": "Ajuga genevensis L.",
+            "id": "1391853",
+            "score": 0.02723
+        },
+        {
+            "name": "Bartsia alpina L.",
+            "id": "1400101",
+            "score": 0.01401
+        },
+        {
+            "name": "Veronica alpina L.",
+            "id": "1397043",
+            "score": 0.00165
+        }
+    ]
+}

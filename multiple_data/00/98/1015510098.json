@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sophora japonica L.",
+            "id": "1396349",
+            "score": 0.45175
+        },
+        {
+            "name": "Caragana arborescens Lam.",
+            "id": "1390687",
+            "score": 0.01279
+        },
+        {
+            "name": "Robinia pseudoacacia L.",
+            "id": "1363698",
+            "score": 0.00784
+        },
+        {
+            "name": "Gleditsia triacanthos L.",
+            "id": "1363687",
+            "score": 0.004
+        },
+        {
+            "name": "Ziziphus jujuba Mill.",
+            "id": "1360271",
+            "score": 0.00302
+        }
+    ]
+}

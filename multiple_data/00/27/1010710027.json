@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Asparagus officinalis L.",
+            "id": "1363268",
+            "score": 0.84969
+        },
+        {
+            "name": "Anethum graveolens L.",
+            "id": "1363232",
+            "score": 0.00492
+        },
+        {
+            "name": "Anthericum ramosum L.",
+            "id": "1394759",
+            "score": 0.00368
+        },
+        {
+            "name": "Asparagus tenuifolius Lam.",
+            "id": "1397182",
+            "score": 0.00245
+        },
+        {
+            "name": "Parkinsonia aculeata L.",
+            "id": "1363705",
+            "score": 0.00217
+        },
+        {
+            "name": "Asparagus maritimus (L.) Mill.",
+            "id": "1361006",
+            "score": 0.00176
+        },
+        {
+            "name": "Camelina sativa (L.) Crantz",
+            "id": "1358207",
+            "score": 0.00112
+        }
+    ]
+}

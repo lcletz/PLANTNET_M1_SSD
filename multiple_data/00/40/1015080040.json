@@ -1,0 +1,70 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.76918
+        },
+        {
+            "name": "Phalaris arundinacea L.",
+            "id": "1363490",
+            "score": 0.04422
+        },
+        {
+            "name": "Holcus lanatus L.",
+            "id": "1363460",
+            "score": 0.00746
+        },
+        {
+            "name": "Calamagrostis epigejos (L.) Roth",
+            "id": "1379532",
+            "score": 0.00745
+        },
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.00662
+        },
+        {
+            "name": "Alopecurus pratensis L.",
+            "id": "1362406",
+            "score": 0.00462
+        },
+        {
+            "name": "Calamagrostis canescens (Weber) Roth",
+            "id": "1397331",
+            "score": 0.00416
+        },
+        {
+            "name": "Lolium arundinaceum (Schreb.) Darbysh.",
+            "id": "1720971",
+            "score": 0.00301
+        },
+        {
+            "name": "Festuca ovina L.",
+            "id": "1361281",
+            "score": 0.00293
+        },
+        {
+            "name": "Patzkea paniculata (L.) G.H.Loos",
+            "id": "1389628",
+            "score": 0.00212
+        },
+        {
+            "name": "Verbena brasiliensis Vell.",
+            "id": "1378797",
+            "score": 0.00211
+        },
+        {
+            "name": "Festuca rubra L.",
+            "id": "1361284",
+            "score": 0.00144
+        },
+        {
+            "name": "Carex leporina L.",
+            "id": "1362424",
+            "score": 0.001
+        }
+    ]
+}

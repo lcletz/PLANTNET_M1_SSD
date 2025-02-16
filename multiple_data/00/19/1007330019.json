@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia lathyris L.",
+            "id": "1355968",
+            "score": 0.75627
+        },
+        {
+            "name": "Euphorbia dulcis L.",
+            "id": "1392156",
+            "score": 0.02465
+        },
+        {
+            "name": "Euphorbia corsica Req.",
+            "id": "1392153",
+            "score": 0.00188
+        },
+        {
+            "name": "Euphorbia platyphyllos L.",
+            "id": "1355986",
+            "score": 0.00146
+        },
+        {
+            "name": "Euphorbia terracina L.",
+            "id": "1358595",
+            "score": 0.00126
+        },
+        {
+            "name": "Commelina communis L.",
+            "id": "1391332",
+            "score": 0.00109
+        },
+        {
+            "name": "Euphorbia marginata Pursh",
+            "id": "1392172",
+            "score": 0.00104
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Centaurea uniflora Turra",
+            "id": "1362433",
+            "score": 0.60386
+        },
+        {
+            "name": "Centaurea nervosa Willd.",
+            "id": "1391023",
+            "score": 0.30619
+        },
+        {
+            "name": "Centaurea phrygia L.",
+            "id": "1390981",
+            "score": 0.01616
+        },
+        {
+            "name": "Centaurea pectinata L.",
+            "id": "1391028",
+            "score": 0.0105
+        },
+        {
+            "name": "Centaurea jacea L.",
+            "id": "1362427",
+            "score": 0.00985
+        },
+        {
+            "name": "Centaurea nigra L.",
+            "id": "1357438",
+            "score": 0.00896
+        },
+        {
+            "name": "Centaurea scabiosa L.",
+            "id": "1391037",
+            "score": 0.00347
+        },
+        {
+            "name": "Centaurea sphaerocephala L.",
+            "id": "1357456",
+            "score": 0.00122
+        }
+    ]
+}

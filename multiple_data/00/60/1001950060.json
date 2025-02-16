@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.95385
+        },
+        {
+            "name": "Phalaris minor Retz.",
+            "id": "1363492",
+            "score": 0.0028
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.00173
+        },
+        {
+            "name": "Phalaris aquatica L.",
+            "id": "1363489",
+            "score": 0.00167
+        }
+    ]
+}

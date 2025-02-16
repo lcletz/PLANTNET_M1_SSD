@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.90727
+        },
+        {
+            "name": "Toxicodendron radicans (L.) Kuntze",
+            "id": "1396819",
+            "score": 0.05524
+        },
+        {
+            "name": "Toxicodendron diversilobum (Torr. & A.Gray) Greene",
+            "id": "1454531",
+            "score": 0.00558
+        },
+        {
+            "name": "Viburnum acerifolium L.",
+            "id": "1414184",
+            "score": 0.00221
+        },
+        {
+            "name": "Campsis radicans (L.) Bureau",
+            "id": "1390680",
+            "score": 0.0018
+        },
+        {
+            "name": "Aralia nudicaulis L.",
+            "id": "1413002",
+            "score": 0.00103
+        }
+    ]
+}

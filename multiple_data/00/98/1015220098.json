@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Geranium robertianum L.",
+            "id": "1356017",
+            "score": 0.6349
+        },
+        {
+            "name": "Geranium purpureum Vill.",
+            "id": "1356012",
+            "score": 0.28475
+        },
+        {
+            "name": "Erodium foetidum (L.) L'Hér.",
+            "id": "1392078",
+            "score": 0.00296
+        },
+        {
+            "name": "Anthriscus cerefolium (L.) Hoffm.",
+            "id": "1360613",
+            "score": 0.00259
+        },
+        {
+            "name": "Chaerophyllum temulum L.",
+            "id": "1360671",
+            "score": 0.00129
+        }
+    ]
+}

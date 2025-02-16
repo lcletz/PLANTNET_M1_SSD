@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Parietaria judaica L.",
+            "id": "1360825",
+            "score": 0.77886
+        },
+        {
+            "name": "Parietaria officinalis L.",
+            "id": "1362353",
+            "score": 0.05739
+        },
+        {
+            "name": "Parietaria lusitanica L.",
+            "id": "1360826",
+            "score": 0.00708
+        },
+        {
+            "name": "Acalypha virginica L.",
+            "id": "1358519",
+            "score": 0.00367
+        },
+        {
+            "name": "Pouzolzia guineensis Benth.",
+            "id": "1378557",
+            "score": 0.00336
+        },
+        {
+            "name": "Parietaria mauritanica Durieu",
+            "id": "1360827",
+            "score": 0.00198
+        },
+        {
+            "name": "Laportea aestuans (L.) Chew",
+            "id": "1378563",
+            "score": 0.00172
+        },
+        {
+            "name": "Amaranthus deflexus L.",
+            "id": "1363250",
+            "score": 0.00128
+        }
+    ]
+}

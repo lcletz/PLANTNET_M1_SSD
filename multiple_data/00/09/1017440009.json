@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Conopodium majus (Gouan) Loret",
+            "id": "1360674",
+            "score": 0.92147
+        },
+        {
+            "name": "Carum carvi L.",
+            "id": "1363229",
+            "score": 0.04424
+        },
+        {
+            "name": "Pimpinella major (L.) Huds.",
+            "id": "1394592",
+            "score": 0.00401
+        },
+        {
+            "name": "Pimpinella saxifraga L.",
+            "id": "1394593",
+            "score": 0.00304
+        },
+        {
+            "name": "Ammi majus L.",
+            "id": "1363217",
+            "score": 0.00177
+        },
+        {
+            "name": "Aethusa cynapium L.",
+            "id": "1360608",
+            "score": 0.00146
+        }
+    ]
+}

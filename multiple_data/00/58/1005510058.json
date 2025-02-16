@@ -1,0 +1,425 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euonymus europaeus L.",
+            "id": "1392236",
+            "score": 0.12758
+        },
+        {
+            "name": "Salix myrsinifolia Salisb.",
+            "id": "1395843",
+            "score": 0.08108
+        },
+        {
+            "name": "Gardenia jasminoides J.Ellis",
+            "id": "1409220",
+            "score": 0.03705
+        },
+        {
+            "name": "Coriaria myrtifolia L.",
+            "id": "1358024",
+            "score": 0.02855
+        },
+        {
+            "name": "Magnolia liliiflora Desr.",
+            "id": "1397622",
+            "score": 0.02298
+        },
+        {
+            "name": "Ligustrum vulgare L.",
+            "id": "1359675",
+            "score": 0.02286
+        },
+        {
+            "name": "Forsythia × intermedia Zabel",
+            "id": "1844237",
+            "score": 0.01828
+        },
+        {
+            "name": "Punica granatum L.",
+            "id": "1359616",
+            "score": 0.01539
+        },
+        {
+            "name": "Syringa persica L.",
+            "id": "1419641",
+            "score": 0.01381
+        },
+        {
+            "name": "Forsythia viridissima Lindl.",
+            "id": "1398098",
+            "score": 0.01033
+        },
+        {
+            "name": "Euonymus latifolius (L.) Mill.",
+            "id": "1392238",
+            "score": 0.0094
+        },
+        {
+            "name": "Ligustrum ovalifolium Hassk.",
+            "id": "1393526",
+            "score": 0.00786
+        },
+        {
+            "name": "Forsythia suspensa (Thunb.) Vahl",
+            "id": "1392356",
+            "score": 0.00754
+        },
+        {
+            "name": "Salix hastata L.",
+            "id": "1397478",
+            "score": 0.00754
+        },
+        {
+            "name": "Salix repens L.",
+            "id": "1395867",
+            "score": 0.00607
+        },
+        {
+            "name": "Magnolia × soulangeana Soul.-Bod.",
+            "id": "1591282",
+            "score": 0.00593
+        },
+        {
+            "name": "Salix viminalis L.",
+            "id": "1395903",
+            "score": 0.00512
+        },
+        {
+            "name": "Prinsepia uniflora Batalin",
+            "id": "1420400",
+            "score": 0.00503
+        },
+        {
+            "name": "Rhamnus saxatilis Jacq.",
+            "id": "1395158",
+            "score": 0.00498
+        },
+        {
+            "name": "Salix integra Thunb.",
+            "id": "1420567",
+            "score": 0.00448
+        },
+        {
+            "name": "Jasminum nudiflorum Lindl.",
+            "id": "1393331",
+            "score": 0.00437
+        },
+        {
+            "name": "Rhododendron calendulaceum (Michx.) Torr.",
+            "id": "1395179",
+            "score": 0.00409
+        },
+        {
+            "name": "Forestiera pubescens Nutt.",
+            "id": "1419617",
+            "score": 0.00391
+        },
+        {
+            "name": "Ribes uva-crispa L.",
+            "id": "1358684",
+            "score": 0.00386
+        },
+        {
+            "name": "Duranta erecta L.",
+            "id": "1378717",
+            "score": 0.00385
+        },
+        {
+            "name": "Daphne mezereum L.",
+            "id": "1391652",
+            "score": 0.0038
+        },
+        {
+            "name": "Magnolia stellata (Siebold & Zucc.) Maxim.",
+            "id": "1393722",
+            "score": 0.00376
+        },
+        {
+            "name": "Chionanthus virginicus L.",
+            "id": "1419614",
+            "score": 0.00358
+        },
+        {
+            "name": "Prunus laurocerasus L.",
+            "id": "1394952",
+            "score": 0.00325
+        },
+        {
+            "name": "Plumbago auriculata Lam.",
+            "id": "1363960",
+            "score": 0.00318
+        },
+        {
+            "name": "Stellaria alsine Grimm",
+            "id": "1357080",
+            "score": 0.00304
+        },
+        {
+            "name": "Salix caprea L.",
+            "id": "1395765",
+            "score": 0.00283
+        },
+        {
+            "name": "Ribes alpinum L.",
+            "id": "1358682",
+            "score": 0.0028
+        },
+        {
+            "name": "Oemleria cerasiformis (Torr. & A.Gray ex Hook. & Arn.) J.W.Landon",
+            "id": "1667575",
+            "score": 0.00273
+        },
+        {
+            "name": "Cestrum nocturnum L.",
+            "id": "1380602",
+            "score": 0.00273
+        },
+        {
+            "name": "Sarcococca coriacea (Hook.) Sweet",
+            "id": "1729413",
+            "score": 0.00267
+        },
+        {
+            "name": "Spiraea alba Du Roi",
+            "id": "1396390",
+            "score": 0.00254
+        },
+        {
+            "name": "Daphne bholua Buch.-Ham. ex D.Don",
+            "id": "1420786",
+            "score": 0.00248
+        },
+        {
+            "name": "Cornus mas L.",
+            "id": "1391354",
+            "score": 0.0022
+        },
+        {
+            "name": "Hibiscus syriacus L.",
+            "id": "1392770",
+            "score": 0.0022
+        },
+        {
+            "name": "Myrtus communis L.",
+            "id": "1359662",
+            "score": 0.00212
+        },
+        {
+            "name": "Calycanthus floridus L.",
+            "id": "1398326",
+            "score": 0.0021
+        },
+        {
+            "name": "Euonymus alatus (Thunb.) Siebold",
+            "id": "1412016",
+            "score": 0.00205
+        },
+        {
+            "name": "Magnolia denudata Desr.",
+            "id": "1393717",
+            "score": 0.00204
+        },
+        {
+            "name": "Salix cinerea L.",
+            "id": "1362486",
+            "score": 0.002
+        },
+        {
+            "name": "Osmanthus heterophyllus (G.Don) P.S.Green",
+            "id": "1398602",
+            "score": 0.002
+        },
+        {
+            "name": "Rhamnus alaternus L.",
+            "id": "1360260",
+            "score": 0.00195
+        },
+        {
+            "name": "Ribes nigrum L.",
+            "id": "1395200",
+            "score": 0.00194
+        },
+        {
+            "name": "Jasminum sambac (L.) Aiton",
+            "id": "1383127",
+            "score": 0.0019
+        },
+        {
+            "name": "Salix triandra L.",
+            "id": "1360459",
+            "score": 0.0019
+        },
+        {
+            "name": "Salix caesia Vill.",
+            "id": "1395760",
+            "score": 0.00188
+        },
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.00188
+        },
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.00186
+        },
+        {
+            "name": "Epilobium tetragonum L.",
+            "id": "1359688",
+            "score": 0.00185
+        },
+        {
+            "name": "Lonicera fragrantissima Lindl. & Paxton",
+            "id": "1389306",
+            "score": 0.00184
+        },
+        {
+            "name": "Elaeagnus umbellata Thunb.",
+            "id": "1391838",
+            "score": 0.00179
+        },
+        {
+            "name": "Platanus occidentalis L.",
+            "id": "1398530",
+            "score": 0.00177
+        },
+        {
+            "name": "Lindera erythrocarpa Makino",
+            "id": "1566387",
+            "score": 0.00172
+        },
+        {
+            "name": "Jasminum mesnyi Hance",
+            "id": "1383124",
+            "score": 0.00171
+        },
+        {
+            "name": "Viburnum opulus L.",
+            "id": "1361743",
+            "score": 0.00163
+        },
+        {
+            "name": "Ribes rubrum L.",
+            "id": "1397543",
+            "score": 0.00163
+        },
+        {
+            "name": "Galium odoratum (L.) Scop.",
+            "id": "1360404",
+            "score": 0.00152
+        },
+        {
+            "name": "Salix pentandra L.",
+            "id": "1395852",
+            "score": 0.00147
+        },
+        {
+            "name": "Laurus nobilis L.",
+            "id": "1363362",
+            "score": 0.00144
+        },
+        {
+            "name": "Salix laggeri Wimm.",
+            "id": "1395820",
+            "score": 0.00137
+        },
+        {
+            "name": "Euonymus sachalinensis (F.Schmidt) Maxim.",
+            "id": "1494226",
+            "score": 0.00137
+        },
+        {
+            "name": "Daphne laureola L.",
+            "id": "1360590",
+            "score": 0.00135
+        },
+        {
+            "name": "Salix appendiculata Vill.",
+            "id": "1395742",
+            "score": 0.0013
+        },
+        {
+            "name": "Cornus florida L.",
+            "id": "1397618",
+            "score": 0.0013
+        },
+        {
+            "name": "Lycium barbarum L.",
+            "id": "1360557",
+            "score": 0.0013
+        },
+        {
+            "name": "Osmanthus fragrans Lour.",
+            "id": "1394028",
+            "score": 0.00126
+        },
+        {
+            "name": "Ligustrum obtusifolium Siebold & Zucc.",
+            "id": "1419628",
+            "score": 0.00125
+        },
+        {
+            "name": "Phlox paniculata L.",
+            "id": "1394721",
+            "score": 0.00123
+        },
+        {
+            "name": "Salix atrocinerea Brot.",
+            "id": "1360451",
+            "score": 0.00122
+        },
+        {
+            "name": "Arboa berneriana (Tul.) Thulin & Razafim.",
+            "id": "1639852",
+            "score": 0.00117
+        },
+        {
+            "name": "Enkianthus deflexus (Griff.) C.K.Schneid.",
+            "id": "1538570",
+            "score": 0.00116
+        },
+        {
+            "name": "Euonymus japonicus Thunb.",
+            "id": "1418419",
+            "score": 0.00114
+        },
+        {
+            "name": "Sarcococca ruscifolia Stapf",
+            "id": "1418166",
+            "score": 0.00114
+        },
+        {
+            "name": "Allamanda cathartica L.",
+            "id": "1369872",
+            "score": 0.0011
+        },
+        {
+            "name": "Gardenia taitensis DC.",
+            "id": "1409221",
+            "score": 0.00108
+        },
+        {
+            "name": "Barnadesia odorata Griseb.",
+            "id": "1403782",
+            "score": 0.00108
+        },
+        {
+            "name": "Ixora coccinea L.",
+            "id": "1371944",
+            "score": 0.00106
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.00104
+        },
+        {
+            "name": "Lawsonia inermis L.",
+            "id": "1356025",
+            "score": 0.00102
+        }
+    ]
+}

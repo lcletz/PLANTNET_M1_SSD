@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Urtica membranacea Poir.",
+            "id": "1360829",
+            "score": 0.4918
+        },
+        {
+            "name": "Urtica urens L.",
+            "id": "1356201",
+            "score": 0.05961
+        },
+        {
+            "name": "Urtica dioica L.",
+            "id": "1356200",
+            "score": 0.03032
+        },
+        {
+            "name": "Urtica pilulifera L.",
+            "id": "1360831",
+            "score": 0.00798
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Plantago media L.",
+            "id": "1394636",
+            "score": 0.79439
+        },
+        {
+            "name": "Plantago urvillei Opiz",
+            "id": "1646528",
+            "score": 0.03924
+        },
+        {
+            "name": "Plantago maxima Juss. ex Jacq.",
+            "id": "1646491",
+            "score": 0.0136
+        },
+        {
+            "name": "Plantago lanceolata L.",
+            "id": "1356066",
+            "score": 0.01112
+        },
+        {
+            "name": "Plantago argentea Chaix",
+            "id": "1394627",
+            "score": 0.00916
+        },
+        {
+            "name": "Phyteuma spicatum L.",
+            "id": "1394555",
+            "score": 0.00472
+        },
+        {
+            "name": "Plantago major L.",
+            "id": "1356067",
+            "score": 0.00338
+        },
+        {
+            "name": "Plantago lagopus L.",
+            "id": "1359959",
+            "score": 0.00321
+        },
+        {
+            "name": "Polemonium pulchellum Bunge",
+            "id": "1656748",
+            "score": 0.00202
+        },
+        {
+            "name": "Plantago cornuti Gouan",
+            "id": "1646456",
+            "score": 0.00101
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Taraxacum officinale F.H.Wigg.",
+            "id": "1389926",
+            "score": 0.28774
+        },
+        {
+            "name": "Taraxacum campylodes G.E.Haglund",
+            "id": "1397285",
+            "score": 0.19709
+        },
+        {
+            "name": "Taraxacum dissectum (Ledeb.) Ledeb.",
+            "id": "1396568",
+            "score": 0.08365
+        },
+        {
+            "name": "Taraxacum mattmarkense Soest",
+            "id": "1396621",
+            "score": 0.07638
+        },
+        {
+            "name": "Taraxacum erythrospermum Andrz. ex Besser",
+            "id": "1362499",
+            "score": 0.01466
+        },
+        {
+            "name": "Taraxacum palustre (Lyons) Symons",
+            "id": "1396640",
+            "score": 0.00401
+        },
+        {
+            "name": "Leontodon hispidus L.",
+            "id": "1357697",
+            "score": 0.0039
+        },
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.00296
+        },
+        {
+            "name": "Sonchus tenerrimus L.",
+            "id": "1364171",
+            "score": 0.00187
+        },
+        {
+            "name": "Sonchus oleraceus (L.) L.",
+            "id": "1430536",
+            "score": 0.0014
+        },
+        {
+            "name": "Hypochaeris radicata L.",
+            "id": "1355872",
+            "score": 0.00115
+        }
+    ]
+}

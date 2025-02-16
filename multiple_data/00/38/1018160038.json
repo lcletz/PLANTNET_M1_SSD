@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Oenothera speciosa Nutt.",
+            "id": "1397714",
+            "score": 0.95111
+        },
+        {
+            "name": "Oenothera rosea L'Hér. ex Aiton",
+            "id": "1361957",
+            "score": 0.01022
+        },
+        {
+            "name": "Oenothera tetraptera Cav.",
+            "id": "1361958",
+            "score": 0.00428
+        },
+        {
+            "name": "Oenothera odorata Jacq.",
+            "id": "1362964",
+            "score": 0.00135
+        },
+        {
+            "name": "Oenothera neomexicana (Small) Munz",
+            "id": "1435272",
+            "score": 0.00116
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Thymus longicaulis C.Presl",
+            "id": "1397511",
+            "score": 0.81247
+        },
+        {
+            "name": "Thymus serpyllum L.",
+            "id": "1362246",
+            "score": 0.09169
+        },
+        {
+            "name": "Satureja montana L.",
+            "id": "1361829",
+            "score": 0.02107
+        },
+        {
+            "name": "Thymus pulegioides L.",
+            "id": "1396792",
+            "score": 0.01344
+        },
+        {
+            "name": "Thymus praecox Opiz",
+            "id": "1397512",
+            "score": 0.01204
+        },
+        {
+            "name": "Thymus vulgaris L.",
+            "id": "1356108",
+            "score": 0.00865
+        },
+        {
+            "name": "Thymus × citriodorus (Pers.) Schreb.",
+            "id": "1564513",
+            "score": 0.00384
+        },
+        {
+            "name": "Thymus roegneri K.Koch",
+            "id": "1564678",
+            "score": 0.00266
+        },
+        {
+            "name": "Satureja hortensis L.",
+            "id": "1395936",
+            "score": 0.00132
+        }
+    ]
+}

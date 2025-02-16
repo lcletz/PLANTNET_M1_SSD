@@ -1,0 +1,55 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Crataegus monogyna Jacq.",
+            "id": "1363988",
+            "score": 0.38981
+        },
+        {
+            "name": "Crataegus azarolus L.",
+            "id": "1360290",
+            "score": 0.24594
+        },
+        {
+            "name": "Crataegus laevigata (Poir.) DC.",
+            "id": "1360293",
+            "score": 0.11592
+        },
+        {
+            "name": "Crataegus rhipidophylla Gand.",
+            "id": "1363068",
+            "score": 0.07363
+        },
+        {
+            "name": "Hedlundia thuringiaca (Nyman) Sennikov & Kurtto",
+            "id": "1738935",
+            "score": 0.03961
+        },
+        {
+            "name": "Ribes uva-crispa L.",
+            "id": "1358684",
+            "score": 0.01387
+        },
+        {
+            "name": "Caragana arborescens Lam.",
+            "id": "1390687",
+            "score": 0.00774
+        },
+        {
+            "name": "Peucedanum alsaticum L.",
+            "id": "1458331",
+            "score": 0.00294
+        },
+        {
+            "name": "Crataegus laciniata Ucria",
+            "id": "1360292",
+            "score": 0.00248
+        },
+        {
+            "name": "Rubus nemoralis P.J.Müll.",
+            "id": "1395553",
+            "score": 0.00204
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Erigeron bonariensis L.",
+            "id": "1355905",
+            "score": 0.86736
+        },
+        {
+            "name": "Erigeron acris L.",
+            "id": "1357568",
+            "score": 0.02502
+        },
+        {
+            "name": "Erigeron sumatrensis Retz.",
+            "id": "1355908",
+            "score": 0.01772
+        },
+        {
+            "name": "Nidorella aegyptiaca (L.) J.C.Manning & Goldblatt",
+            "id": "1720310",
+            "score": 0.00562
+        },
+        {
+            "name": "Erigeron canadensis L.",
+            "id": "1392041",
+            "score": 0.00297
+        },
+        {
+            "name": "Erigeron primulifolius (Lam.) Greuter",
+            "id": "1727503",
+            "score": 0.00265
+        },
+        {
+            "name": "Erigeron floribundus (Kunth) Sch.Bip.",
+            "id": "1388806",
+            "score": 0.0017
+        }
+    ]
+}

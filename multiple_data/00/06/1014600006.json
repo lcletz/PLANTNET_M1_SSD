@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Gentiana purpurea L.",
+            "id": "1392560",
+            "score": 0.94726
+        },
+        {
+            "name": "Gentiana pannonica Scop.",
+            "id": "1392555",
+            "score": 0.00226
+        },
+        {
+            "name": "Gentiana punctata L.",
+            "id": "1392559",
+            "score": 0.00207
+        },
+        {
+            "name": "Lilium bulbiferum L.",
+            "id": "1393532",
+            "score": 0.0019
+        },
+        {
+            "name": "Gentiana cruciata L.",
+            "id": "1397392",
+            "score": 0.00157
+        }
+    ]
+}

@@ -1,0 +1,400 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Kerria japonica (L.) DC.",
+            "id": "1393375",
+            "score": 0.35808
+        },
+        {
+            "name": "Jacobaea vulgaris Gaertn.",
+            "id": "1362040",
+            "score": 0.02049
+        },
+        {
+            "name": "Osyris alba L.",
+            "id": "1364049",
+            "score": 0.01655
+        },
+        {
+            "name": "Cornus sericea L.",
+            "id": "1397902",
+            "score": 0.01436
+        },
+        {
+            "name": "Euonymus europaeus L.",
+            "id": "1392236",
+            "score": 0.01431
+        },
+        {
+            "name": "Tanacetum vulgare L.",
+            "id": "1396512",
+            "score": 0.01335
+        },
+        {
+            "name": "Hypochaeris radicata L.",
+            "id": "1355872",
+            "score": 0.01316
+        },
+        {
+            "name": "Ephedra ochreata Miers",
+            "id": "1701683",
+            "score": 0.01269
+        },
+        {
+            "name": "Euphorbia gossypina Pax",
+            "id": "1431640",
+            "score": 0.01197
+        },
+        {
+            "name": "Rapistrum rugosum (L.) All.",
+            "id": "1363879",
+            "score": 0.01122
+        },
+        {
+            "name": "Leucanthemum vulgare Lam.",
+            "id": "1393513",
+            "score": 0.00965
+        },
+        {
+            "name": "Euphorbia pulcherrima Willd. ex Klotzsch",
+            "id": "1355985",
+            "score": 0.00916
+        },
+        {
+            "name": "Rosa agrestis Savi",
+            "id": "1360330",
+            "score": 0.00845
+        },
+        {
+            "name": "Rubus idaeus L.",
+            "id": "1395507",
+            "score": 0.00807
+        },
+        {
+            "name": "Rhamphospermum arvense (L.) Andrz. ex Besser",
+            "id": "1737463",
+            "score": 0.00798
+        },
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.00769
+        },
+        {
+            "name": "Tithonia diversifolia (Hemsl.) A.Gray",
+            "id": "1403878",
+            "score": 0.00728
+        },
+        {
+            "name": "Asparagus officinalis L.",
+            "id": "1363268",
+            "score": 0.00692
+        },
+        {
+            "name": "Rhamphospermum nigrum (L.) Al-Shehbaz",
+            "id": "1737676",
+            "score": 0.00589
+        },
+        {
+            "name": "Glebionis segetum (L.) Fourr.",
+            "id": "1357603",
+            "score": 0.00554
+        },
+        {
+            "name": "Ephedra fragilis Desf.",
+            "id": "1398721",
+            "score": 0.00529
+        },
+        {
+            "name": "Sisymbrium officinale (L.) Scop.",
+            "id": "1363897",
+            "score": 0.0052
+        },
+        {
+            "name": "Tagetes minuta L.",
+            "id": "1364158",
+            "score": 0.00505
+        },
+        {
+            "name": "Hirschfeldia incana (L.) Lagr.-Foss.",
+            "id": "1363911",
+            "score": 0.00494
+        },
+        {
+            "name": "Desmanthus virgatus (L.) Willd.",
+            "id": "1363786",
+            "score": 0.00406
+        },
+        {
+            "name": "Anthemis arvensis L.",
+            "id": "1364154",
+            "score": 0.004
+        },
+        {
+            "name": "Ranunculus acris L.",
+            "id": "1360187",
+            "score": 0.00369
+        },
+        {
+            "name": "Crepis vesicaria L.",
+            "id": "1357549",
+            "score": 0.00346
+        },
+        {
+            "name": "Ribes rubrum L.",
+            "id": "1397543",
+            "score": 0.00342
+        },
+        {
+            "name": "Malva sylvestris L.",
+            "id": "1363947",
+            "score": 0.00334
+        },
+        {
+            "name": "Althaea cannabina L.",
+            "id": "1359622",
+            "score": 0.00333
+        },
+        {
+            "name": "Jacobaea erratica (Bertol.) Fourr.",
+            "id": "1362687",
+            "score": 0.00317
+        },
+        {
+            "name": "Sanguisorba minor Scop.",
+            "id": "1356303",
+            "score": 0.00313
+        },
+        {
+            "name": "Anthemis cotula L.",
+            "id": "1364155",
+            "score": 0.00301
+        },
+        {
+            "name": "Euphorbia heterophylla L.",
+            "id": "1355965",
+            "score": 0.00267
+        },
+        {
+            "name": "Matricaria chamomilla L.",
+            "id": "1362332",
+            "score": 0.00263
+        },
+        {
+            "name": "Rosa canina L.",
+            "id": "1360334",
+            "score": 0.00262
+        },
+        {
+            "name": "Sanguisorba officinalis L.",
+            "id": "1395920",
+            "score": 0.00258
+        },
+        {
+            "name": "Filipendula ulmaria (L.) Maxim.",
+            "id": "1392353",
+            "score": 0.00258
+        },
+        {
+            "name": "Filipendula vulgaris Moench",
+            "id": "1360297",
+            "score": 0.00256
+        },
+        {
+            "name": "Vitis vinifera L.",
+            "id": "1356217",
+            "score": 0.00254
+        },
+        {
+            "name": "Cota tinctoria (L.) J.Gay",
+            "id": "1417804",
+            "score": 0.00246
+        },
+        {
+            "name": "Cytisus scoparius (L.) Link",
+            "id": "1363728",
+            "score": 0.00244
+        },
+        {
+            "name": "Cornus alba L.",
+            "id": "1397617",
+            "score": 0.00235
+        },
+        {
+            "name": "Humulus lupulus L.",
+            "id": "1356781",
+            "score": 0.00228
+        },
+        {
+            "name": "Hieracium umbellatum L.",
+            "id": "1393169",
+            "score": 0.00224
+        },
+        {
+            "name": "Launaea hafunensis Chiov.",
+            "id": "1373695",
+            "score": 0.00219
+        },
+        {
+            "name": "Acacia dealbata Link",
+            "id": "1363764",
+            "score": 0.00219
+        },
+        {
+            "name": "Sonchus asper (L.) Hill",
+            "id": "1357875",
+            "score": 0.00192
+        },
+        {
+            "name": "Rubus fruticosus L.",
+            "id": "1395477",
+            "score": 0.00189
+        },
+        {
+            "name": "Raphanus raphanistrum L.",
+            "id": "1363901",
+            "score": 0.00189
+        },
+        {
+            "name": "Senecio glaber Less.",
+            "id": "1520153",
+            "score": 0.0018
+        },
+        {
+            "name": "Hibiscus cannabinus L.",
+            "id": "1370424",
+            "score": 0.00174
+        },
+        {
+            "name": "Allium vineale L.",
+            "id": "1360945",
+            "score": 0.00162
+        },
+        {
+            "name": "Chondrilla juncea L.",
+            "id": "1357492",
+            "score": 0.0016
+        },
+        {
+            "name": "Rosa chinensis Jacq.",
+            "id": "1395231",
+            "score": 0.00159
+        },
+        {
+            "name": "Rubus spectabilis Pursh",
+            "id": "1395613",
+            "score": 0.00159
+        },
+        {
+            "name": "Mantisalca salmantica (L.) Briq. & Cavill.",
+            "id": "1364108",
+            "score": 0.00157
+        },
+        {
+            "name": "Corchorus olitorius L.",
+            "id": "1359626",
+            "score": 0.00151
+        },
+        {
+            "name": "Santolina rosmarinifolia L.",
+            "id": "1362488",
+            "score": 0.0015
+        },
+        {
+            "name": "Crepis biennis L.",
+            "id": "1391445",
+            "score": 0.00149
+        },
+        {
+            "name": "Euryops chrysanthemoides (DC.) B.Nord.",
+            "id": "1507818",
+            "score": 0.0014
+        },
+        {
+            "name": "Pteridium aquilinum (L.) Kuhn",
+            "id": "1356404",
+            "score": 0.00138
+        },
+        {
+            "name": "Althaea officinalis L.",
+            "id": "1359625",
+            "score": 0.00137
+        },
+        {
+            "name": "Smilax rotundifolia L.",
+            "id": "1398567",
+            "score": 0.00136
+        },
+        {
+            "name": "Trollius europaeus L.",
+            "id": "1397516",
+            "score": 0.00136
+        },
+        {
+            "name": "Datura stramonium L.",
+            "id": "1360549",
+            "score": 0.00135
+        },
+        {
+            "name": "Rubus caesius L.",
+            "id": "1360354",
+            "score": 0.0013
+        },
+        {
+            "name": "Scrophularia canina L.",
+            "id": "1360497",
+            "score": 0.00126
+        },
+        {
+            "name": "Senecio squalidus L.",
+            "id": "1357867",
+            "score": 0.00123
+        },
+        {
+            "name": "Chamaemelum nobile (L.) All.",
+            "id": "1357465",
+            "score": 0.00123
+        },
+        {
+            "name": "Spartium junceum L.",
+            "id": "1363706",
+            "score": 0.00123
+        },
+        {
+            "name": "Pastinaca sativa L.",
+            "id": "1363226",
+            "score": 0.00119
+        },
+        {
+            "name": "Sonchus canariensis (Webb) Boulos",
+            "id": "1722644",
+            "score": 0.00118
+        },
+        {
+            "name": "Astrantia major L.",
+            "id": "1398449",
+            "score": 0.00112
+        },
+        {
+            "name": "Lapsana communis L.",
+            "id": "1364164",
+            "score": 0.00106
+        },
+        {
+            "name": "Thalictrum flavum L.",
+            "id": "1360229",
+            "score": 0.00106
+        },
+        {
+            "name": "Scrophularia auriculata L.",
+            "id": "1360495",
+            "score": 0.00104
+        },
+        {
+            "name": "Euphorbia tirucalli L.",
+            "id": "1355972",
+            "score": 0.00102
+        }
+    ]
+}

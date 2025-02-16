@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Papaver somniferum L.",
+            "id": "1363130",
+            "score": 0.78876
+        },
+        {
+            "name": "Papaver cambricum L.",
+            "id": "1419850",
+            "score": 0.00284
+        },
+        {
+            "name": "Papaver alpinum L.",
+            "id": "1394399",
+            "score": 0.00251
+        },
+        {
+            "name": "Eriocapitella tomentosa (Maxim.) Christenh. & Byng",
+            "id": "1778269",
+            "score": 0.00157
+        },
+        {
+            "name": "Calochortus splendens Douglas ex Benth.",
+            "id": "1440440",
+            "score": 0.00151
+        },
+        {
+            "name": "Papaver nudicaule L.",
+            "id": "1412946",
+            "score": 0.00151
+        },
+        {
+            "name": "Campanula carpatica Jacq.",
+            "id": "1390656",
+            "score": 0.00109
+        },
+        {
+            "name": "Romneya coulteri Harv.",
+            "id": "1420954",
+            "score": 0.00106
+        }
+    ]
+}

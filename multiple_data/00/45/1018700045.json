@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Parietaria judaica L.",
+            "id": "1360825",
+            "score": 0.76052
+        },
+        {
+            "name": "Parietaria officinalis L.",
+            "id": "1362353",
+            "score": 0.32943
+        },
+        {
+            "name": "Parietaria lusitanica L.",
+            "id": "1360826",
+            "score": 0.00587
+        },
+        {
+            "name": "Amaranthus graecizans L.",
+            "id": "1356474",
+            "score": 0.00258
+        },
+        {
+            "name": "Parietaria mauritanica Durieu",
+            "id": "1360827",
+            "score": 0.00229
+        },
+        {
+            "name": "Amaranthus deflexus L.",
+            "id": "1363250",
+            "score": 0.00142
+        },
+        {
+            "name": "Origanum majorana L.",
+            "id": "1356133",
+            "score": 0.00113
+        }
+    ]
+}

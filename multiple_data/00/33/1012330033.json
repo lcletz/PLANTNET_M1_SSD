@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salvinia natans (L.) All.",
+            "id": "1356440",
+            "score": 0.44101
+        },
+        {
+            "name": "Salvinia minima Baker",
+            "id": "1437832",
+            "score": 0.34661
+        },
+        {
+            "name": "Salvinia auriculata Aubl.",
+            "id": "1400721",
+            "score": 0.10911
+        },
+        {
+            "name": "Salvinia biloba Raddi",
+            "id": "1710105",
+            "score": 0.01527
+        },
+        {
+            "name": "Salvinia molesta D.Mitch.",
+            "id": "1390532",
+            "score": 0.01465
+        },
+        {
+            "name": "Lemna minor L.",
+            "id": "1361113",
+            "score": 0.00129
+        }
+    ]
+}

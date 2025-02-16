@@ -1,0 +1,380 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Populus alba L.",
+            "id": "1364046",
+            "score": 0.75565
+        },
+        {
+            "name": "Populus × canescens (Aiton) Sm.",
+            "id": "1683819",
+            "score": 0.57838
+        },
+        {
+            "name": "Populus tremula L.",
+            "id": "1360449",
+            "score": 0.01832
+        },
+        {
+            "name": "Rhus glabra L.",
+            "id": "1397601",
+            "score": 0.01125
+        },
+        {
+            "name": "Salix caprea L.",
+            "id": "1395765",
+            "score": 0.00802
+        },
+        {
+            "name": "Quercus ithaburensis Decne.",
+            "id": "1395027",
+            "score": 0.00532
+        },
+        {
+            "name": "Rhus typhina L.",
+            "id": "1395193",
+            "score": 0.00515
+        },
+        {
+            "name": "Salix viminalis L.",
+            "id": "1395903",
+            "score": 0.00502
+        },
+        {
+            "name": "Alnus incana (L.) Moench",
+            "id": "1397308",
+            "score": 0.00491
+        },
+        {
+            "name": "Betula nigra L.",
+            "id": "1390590",
+            "score": 0.00446
+        },
+        {
+            "name": "Quercus pubescens Willd.",
+            "id": "1395026",
+            "score": 0.00422
+        },
+        {
+            "name": "Broussonetia papyrifera (L.) L'Hér. ex Vent.",
+            "id": "1362912",
+            "score": 0.00406
+        },
+        {
+            "name": "Betula pendula Roth",
+            "id": "1356609",
+            "score": 0.00376
+        },
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.00362
+        },
+        {
+            "name": "Platanus occidentalis L.",
+            "id": "1398530",
+            "score": 0.00322
+        },
+        {
+            "name": "Torminalis glaberrima (Gand.) Sennikov & Kurtto",
+            "id": "1737588",
+            "score": 0.00303
+        },
+        {
+            "name": "Salix aurita L.",
+            "id": "1395745",
+            "score": 0.00287
+        },
+        {
+            "name": "Quercus faginea Lam.",
+            "id": "1358614",
+            "score": 0.00286
+        },
+        {
+            "name": "Ulmus pumila L.",
+            "id": "1390603",
+            "score": 0.00281
+        },
+        {
+            "name": "Quercus cerris L.",
+            "id": "1395020",
+            "score": 0.00269
+        },
+        {
+            "name": "Scandosorbus intermedia (Ehrh.) Sennikov",
+            "id": "1737669",
+            "score": 0.00257
+        },
+        {
+            "name": "Rhus copallinum L.",
+            "id": "1413464",
+            "score": 0.00235
+        },
+        {
+            "name": "Betula pubescens Ehrh.",
+            "id": "1362746",
+            "score": 0.00235
+        },
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.00224
+        },
+        {
+            "name": "Salix cinerea L.",
+            "id": "1362486",
+            "score": 0.00219
+        },
+        {
+            "name": "Tilia americana L.",
+            "id": "1397800",
+            "score": 0.0019
+        },
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.00171
+        },
+        {
+            "name": "Ficus sur Forssk.",
+            "id": "1384064",
+            "score": 0.0017
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.00161
+        },
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.0016
+        },
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.00153
+        },
+        {
+            "name": "Quercus velutina Lam.",
+            "id": "1398376",
+            "score": 0.00136
+        },
+        {
+            "name": "Ulmus parvifolia Jacq.",
+            "id": "1414124",
+            "score": 0.00131
+        },
+        {
+            "name": "Acer saccharinum L.",
+            "id": "1391667",
+            "score": 0.00126
+        },
+        {
+            "name": "Populus tremuloides Michx.",
+            "id": "1413261",
+            "score": 0.00124
+        },
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.00124
+        },
+        {
+            "name": "Ailanthus altissima (Mill.) Swingle",
+            "id": "1360547",
+            "score": 0.00113
+        },
+        {
+            "name": "Ulmus glabra Huds.",
+            "id": "1397552",
+            "score": 0.00112
+        },
+        {
+            "name": "Macleaya cordata (Willd.) R.Br.",
+            "id": "1398463",
+            "score": 0.00112
+        },
+        {
+            "name": "Salix integra Thunb.",
+            "id": "1420567",
+            "score": 0.0011
+        },
+        {
+            "name": "Salix eleagnos Scop.",
+            "id": "1395785",
+            "score": 0.00107
+        },
+        {
+            "name": "Quercus pyrenaica Willd.",
+            "id": "1358616",
+            "score": 0.00102
+        },
+        {
+            "name": "Juglans nigra L.",
+            "id": "1393337",
+            "score": 0.00101
+        },
+        {
+            "name": "Ulmus minor Mill.",
+            "id": "1360607",
+            "score": 0.00099
+        },
+        {
+            "name": "Celtis laevigata Willd.",
+            "id": "1418375",
+            "score": 0.00097
+        },
+        {
+            "name": "Ficus fistulosa Reinw. ex Blume",
+            "id": "1428408",
+            "score": 0.00094
+        },
+        {
+            "name": "Cydonia oblonga Mill.",
+            "id": "1363999",
+            "score": 0.00092
+        },
+        {
+            "name": "Acer × freemanii A.E.Murray",
+            "id": "1685267",
+            "score": 0.00085
+        },
+        {
+            "name": "Celtis australis L.",
+            "id": "1361742",
+            "score": 0.00081
+        },
+        {
+            "name": "Platanus orientalis L.",
+            "id": "1362358",
+            "score": 0.00078
+        },
+        {
+            "name": "Viburnum tinus L.",
+            "id": "1356793",
+            "score": 0.00073
+        },
+        {
+            "name": "Viburnum dentatum L.",
+            "id": "1417545",
+            "score": 0.00066
+        },
+        {
+            "name": "Prunus × yedoensis Matsum.",
+            "id": "1668075",
+            "score": 0.00061
+        },
+        {
+            "name": "Acer rubrum L.",
+            "id": "1398406",
+            "score": 0.0006
+        },
+        {
+            "name": "Salix purpurea L.",
+            "id": "1360457",
+            "score": 0.00059
+        },
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.00058
+        },
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.00058
+        },
+        {
+            "name": "Rhus coriaria L.",
+            "id": "1356570",
+            "score": 0.00055
+        },
+        {
+            "name": "Cormus domestica (L.) Spach",
+            "id": "1738846",
+            "score": 0.00055
+        },
+        {
+            "name": "Ulmus americana L.",
+            "id": "1390323",
+            "score": 0.00054
+        },
+        {
+            "name": "Populus × canadensis Moench",
+            "id": "1683817",
+            "score": 0.00053
+        },
+        {
+            "name": "Populus grandidentata Michx.",
+            "id": "1413259",
+            "score": 0.00051
+        },
+        {
+            "name": "Salix babylonica L.",
+            "id": "1360452",
+            "score": 0.00051
+        },
+        {
+            "name": "Alangium chinense (Lour.) Harms",
+            "id": "1388674",
+            "score": 0.00048
+        },
+        {
+            "name": "Celtis occidentalis L.",
+            "id": "1397796",
+            "score": 0.00045
+        },
+        {
+            "name": "Cananga odorata (Lam.) Hook.f. & Thomson",
+            "id": "1403813",
+            "score": 0.00043
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.00041
+        },
+        {
+            "name": "Paulownia tomentosa (Thunb.) Steud.",
+            "id": "1394426",
+            "score": 0.00037
+        },
+        {
+            "name": "Elaeagnus umbellata Thunb.",
+            "id": "1391838",
+            "score": 0.00036
+        },
+        {
+            "name": "Coriaria myrtifolia L.",
+            "id": "1358024",
+            "score": 0.00035
+        },
+        {
+            "name": "Ligustrum lucidum W.T.Aiton",
+            "id": "1393525",
+            "score": 0.00034
+        },
+        {
+            "name": "Tilia tomentosa Moench",
+            "id": "1396803",
+            "score": 0.00034
+        },
+        {
+            "name": "Schinus terebinthifolia Raddi",
+            "id": "1396078",
+            "score": 0.00034
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.00029
+        },
+        {
+            "name": "Tilia platyphyllos Scop.",
+            "id": "1396802",
+            "score": 0.00028
+        }
+    ]
+}

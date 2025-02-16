@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia lathyris L.",
+            "id": "1355968",
+            "score": 0.9032
+        },
+        {
+            "name": "Euphorbia isatidifolia Lam.",
+            "id": "1389387",
+            "score": 0.00634
+        },
+        {
+            "name": "Euphorbia hyberna L.",
+            "id": "1392167",
+            "score": 0.00158
+        },
+        {
+            "name": "Euphorbia dulcis L.",
+            "id": "1392156",
+            "score": 0.00116
+        },
+        {
+            "name": "Euphorbia dendroides L.",
+            "id": "1358548",
+            "score": 0.00114
+        }
+    ]
+}

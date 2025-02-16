@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hyoscyamus albus L.",
+            "id": "1360550",
+            "score": 0.8786
+        },
+        {
+            "name": "Hyoscyamus niger L.",
+            "id": "1360555",
+            "score": 0.05118
+        },
+        {
+            "name": "Hyoscyamus aureus L.",
+            "id": "1360551",
+            "score": 0.01626
+        },
+        {
+            "name": "Hyoscyamus muticus L.",
+            "id": "1360554",
+            "score": 0.00274
+        },
+        {
+            "name": "Hyoscyamus pusillus L.",
+            "id": "1360556",
+            "score": 0.0023
+        },
+        {
+            "name": "Physalis peruviana L.",
+            "id": "1356153",
+            "score": 0.0017
+        }
+    ]
+}

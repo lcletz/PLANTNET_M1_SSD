@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lactuca virosa Habl.",
+            "id": "1432783",
+            "score": 0.43689
+        },
+        {
+            "name": "Lactuca serriola L.",
+            "id": "1364173",
+            "score": 0.18181
+        },
+        {
+            "name": "Rumex patientia L.",
+            "id": "1360135",
+            "score": 0.01355
+        },
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.0044
+        },
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.0028
+        },
+        {
+            "name": "Sonchus oleraceus (L.) L.",
+            "id": "1430536",
+            "score": 0.00136
+        }
+    ]
+}

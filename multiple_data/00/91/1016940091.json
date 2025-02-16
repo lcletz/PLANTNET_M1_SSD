@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Astragalus boeticus L.",
+            "id": "1363666",
+            "score": 0.77526
+        },
+        {
+            "name": "Astragalus hamosus L.",
+            "id": "1359124",
+            "score": 0.06216
+        },
+        {
+            "name": "Astragalus cicer L.",
+            "id": "1398264",
+            "score": 0.04975
+        },
+        {
+            "name": "Onobrychis viciifolia Scop.",
+            "id": "1363793",
+            "score": 0.0074
+        },
+        {
+            "name": "Astragalus glycyphyllos L.",
+            "id": "1398286",
+            "score": 0.00513
+        },
+        {
+            "name": "Glycyrrhiza lepidota Pursh",
+            "id": "1412191",
+            "score": 0.00254
+        },
+        {
+            "name": "Astragalus glaux L.",
+            "id": "1359119",
+            "score": 0.00169
+        },
+        {
+            "name": "Astragalus monspessulanus L.",
+            "id": "1359138",
+            "score": 0.00155
+        },
+        {
+            "name": "Galega officinalis L.",
+            "id": "1359197",
+            "score": 0.00128
+        }
+    ]
+}

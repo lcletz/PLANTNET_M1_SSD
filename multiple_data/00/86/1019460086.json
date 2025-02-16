@@ -1,0 +1,85 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.73188
+        },
+        {
+            "name": "Arum maculatum L.",
+            "id": "1396952",
+            "score": 0.01633
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.01565
+        },
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.00842
+        },
+        {
+            "name": "Arum italicum Mill.",
+            "id": "1360989",
+            "score": 0.00563
+        },
+        {
+            "name": "Rubus idaeus L.",
+            "id": "1395507",
+            "score": 0.00477
+        },
+        {
+            "name": "Trifolium campestre Schreb.",
+            "id": "1359488",
+            "score": 0.00425
+        },
+        {
+            "name": "Phytolacca dioica L.",
+            "id": "1356063",
+            "score": 0.00399
+        },
+        {
+            "name": "Pinus sylvestris L.",
+            "id": "1394617",
+            "score": 0.00295
+        },
+        {
+            "name": "Fragaria vesca L.",
+            "id": "1363991",
+            "score": 0.00212
+        },
+        {
+            "name": "Rhus coriaria L.",
+            "id": "1356570",
+            "score": 0.00206
+        },
+        {
+            "name": "Broussonetia papyrifera (L.) L'Hér. ex Vent.",
+            "id": "1362912",
+            "score": 0.00205
+        },
+        {
+            "name": "Pinus pinea L.",
+            "id": "1394612",
+            "score": 0.00165
+        },
+        {
+            "name": "Equisetum ramosissimum Desf.",
+            "id": "1356397",
+            "score": 0.00132
+        },
+        {
+            "name": "Calla palustris L.",
+            "id": "1390638",
+            "score": 0.00131
+        },
+        {
+            "name": "Pinus halepensis Mill.",
+            "id": "1397460",
+            "score": 0.00101
+        }
+    ]
+}

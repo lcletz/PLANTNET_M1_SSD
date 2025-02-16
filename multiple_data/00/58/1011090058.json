@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Campanula medium L.",
+            "id": "1390666",
+            "score": 0.86749
+        },
+        {
+            "name": "Campanula speciosa Pourr.",
+            "id": "1397527",
+            "score": 0.07587
+        },
+        {
+            "name": "Campanula latifolia L.",
+            "id": "1390665",
+            "score": 0.00505
+        },
+        {
+            "name": "Campanula trachelium L.",
+            "id": "1356757",
+            "score": 0.00487
+        },
+        {
+            "name": "Campanula carpatica Jacq.",
+            "id": "1390656",
+            "score": 0.0015
+        },
+        {
+            "name": "Campanula alpestris All.",
+            "id": "1390652",
+            "score": 0.0014
+        },
+        {
+            "name": "Campanula pelviformis Lam.",
+            "id": "1489219",
+            "score": 0.00124
+        }
+    ]
+}

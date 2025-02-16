@@ -1,0 +1,60 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Salvia jordanii J.B.Walker",
+            "id": "1744243",
+            "score": 0.44387
+        },
+        {
+            "name": "Salvia rosmarinus Spenn.",
+            "id": "1722409",
+            "score": 0.17388
+        },
+        {
+            "name": "Erica arborea L.",
+            "id": "1358503",
+            "score": 0.01776
+        },
+        {
+            "name": "Juniperus sabina L.",
+            "id": "1393367",
+            "score": 0.00353
+        },
+        {
+            "name": "Erica vagans L.",
+            "id": "1361800",
+            "score": 0.00276
+        },
+        {
+            "name": "Cedrus deodara (Roxb. ex D.Don) G.Don",
+            "id": "1390972",
+            "score": 0.00223
+        },
+        {
+            "name": "Tsuga heterophylla (Raf.) Sarg.",
+            "id": "1396904",
+            "score": 0.0017
+        },
+        {
+            "name": "Asparagus albus L.",
+            "id": "1361001",
+            "score": 0.00134
+        },
+        {
+            "name": "Erica lusitanica Rudolphi",
+            "id": "1392024",
+            "score": 0.00124
+        },
+        {
+            "name": "Juniperus communis L.",
+            "id": "1393364",
+            "score": 0.00106
+        },
+        {
+            "name": "Erica cinerea L.",
+            "id": "1358507",
+            "score": 0.00104
+        }
+    ]
+}

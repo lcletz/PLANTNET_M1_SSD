@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Geranium pyrenaicum Burm.f.",
+            "id": "1397395",
+            "score": 0.57884
+        },
+        {
+            "name": "Geranium molle L.",
+            "id": "1356008",
+            "score": 0.26166
+        },
+        {
+            "name": "Geranium pusillum L.",
+            "id": "1392594",
+            "score": 0.0679
+        },
+        {
+            "name": "Geranium argenteum L.",
+            "id": "1392579",
+            "score": 0.00831
+        },
+        {
+            "name": "Geranium sibiricum L.",
+            "id": "1392598",
+            "score": 0.00307
+        },
+        {
+            "name": "Geranium rotundifolium L.",
+            "id": "1356013",
+            "score": 0.00225
+        },
+        {
+            "name": "Geranium sylvaticum L.",
+            "id": "1392599",
+            "score": 0.00148
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Erigeron sumatrensis Retz.",
+            "id": "1355908",
+            "score": 0.79877
+        },
+        {
+            "name": "Erigeron canadensis L.",
+            "id": "1392041",
+            "score": 0.0449
+        },
+        {
+            "name": "Erigeron floribundus (Kunth) Sch.Bip.",
+            "id": "1388806",
+            "score": 0.03606
+        },
+        {
+            "name": "Erigeron bonariensis L.",
+            "id": "1355905",
+            "score": 0.02349
+        },
+        {
+            "name": "Lepidium virginicum L.",
+            "id": "1363893",
+            "score": 0.00724
+        },
+        {
+            "name": "Leucanthemella serotina (L.) Tzvelev",
+            "id": "1393493",
+            "score": 0.00424
+        },
+        {
+            "name": "Artemisia ludoviciana Nutt.",
+            "id": "1396735",
+            "score": 0.00264
+        },
+        {
+            "name": "Artemisia dracunculus L.",
+            "id": "1362645",
+            "score": 0.00174
+        },
+        {
+            "name": "Gaillardia aristata Pursh",
+            "id": "1392412",
+            "score": 0.00155
+        },
+        {
+            "name": "Artemisia suksdorfii Piper",
+            "id": "1413712",
+            "score": 0.00105
+        }
+    ]
+}

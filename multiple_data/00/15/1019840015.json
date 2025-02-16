@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Origanum vulgare L.",
+            "id": "1358846",
+            "score": 0.86918
+        },
+        {
+            "name": "Origanum majorana L.",
+            "id": "1356133",
+            "score": 0.25469
+        },
+        {
+            "name": "Origanum × majoricum Cambess.",
+            "id": "1561178",
+            "score": 0.0327
+        },
+        {
+            "name": "Origanum compactum Benth.",
+            "id": "1358840",
+            "score": 0.00429
+        },
+        {
+            "name": "Thymus pulegioides L.",
+            "id": "1396792",
+            "score": 0.00187
+        },
+        {
+            "name": "Achyranthes aspera L.",
+            "id": "1356469",
+            "score": 0.0015
+        },
+        {
+            "name": "Thymus serpyllum L.",
+            "id": "1362246",
+            "score": 0.00147
+        }
+    ]
+}

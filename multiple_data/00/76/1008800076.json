@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salvia rosmarinus Spenn.",
+            "id": "1722409",
+            "score": 0.45678
+        },
+        {
+            "name": "Salvia jordanii J.B.Walker",
+            "id": "1744243",
+            "score": 0.01231
+        },
+        {
+            "name": "Satureja montana L.",
+            "id": "1361829",
+            "score": 0.00279
+        },
+        {
+            "name": "Dracocephalum ruyschiana L.",
+            "id": "1391790",
+            "score": 0.00209
+        },
+        {
+            "name": "Teucrium creticum L.",
+            "id": "1425683",
+            "score": 0.00192
+        },
+        {
+            "name": "Linaria repens (L.) Mill.",
+            "id": "1393595",
+            "score": 0.00175
+        },
+        {
+            "name": "Satureja hortensis L.",
+            "id": "1395936",
+            "score": 0.00175
+        },
+        {
+            "name": "Hyssopus officinalis L.",
+            "id": "1358747",
+            "score": 0.00102
+        }
+    ]
+}

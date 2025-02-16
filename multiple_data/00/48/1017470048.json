@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vinca minor L.",
+            "id": "1369309",
+            "score": 0.78079
+        },
+        {
+            "name": "Vinca herbacea Waldst. & Kit.",
+            "id": "1425799",
+            "score": 0.04982
+        },
+        {
+            "name": "Vinca difformis Pourr.",
+            "id": "1356574",
+            "score": 0.0367
+        },
+        {
+            "name": "Vinca major L.",
+            "id": "1356575",
+            "score": 0.00784
+        },
+        {
+            "name": "Vinca erecta Regel & Schmalh.",
+            "id": "1463350",
+            "score": 0.00399
+        },
+        {
+            "name": "Vincetoxicum funebre Boiss. & Kotschy",
+            "id": "1463369",
+            "score": 0.00197
+        },
+        {
+            "name": "Veronica porphyriana Pavlov",
+            "id": "1646755",
+            "score": 0.00132
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rumex sanguineus L.",
+            "id": "1395686",
+            "score": 0.89563
+        },
+        {
+            "name": "Rumex rugosus Campd.",
+            "id": "1395681",
+            "score": 0.01267
+        },
+        {
+            "name": "Rumex abyssinicus Jacq.",
+            "id": "1376960",
+            "score": 0.00581
+        },
+        {
+            "name": "Beta vulgaris L.",
+            "id": "1363199",
+            "score": 0.00545
+        },
+        {
+            "name": "Hieracium venosum L.",
+            "id": "1412277",
+            "score": 0.0045
+        },
+        {
+            "name": "Amaranthus tricolor L.",
+            "id": "1363257",
+            "score": 0.00127
+        }
+    ]
+}

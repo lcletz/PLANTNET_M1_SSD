@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lilium martagon L.",
+            "id": "1393534",
+            "score": 0.90264
+        },
+        {
+            "name": "Lilium lancifolium Thunb.",
+            "id": "1393528",
+            "score": 0.0289
+        },
+        {
+            "name": "Lilium pomponium L.",
+            "id": "1393535",
+            "score": 0.00262
+        },
+        {
+            "name": "Lilium kelloggii Purdy",
+            "id": "1433912",
+            "score": 0.00235
+        },
+        {
+            "name": "Lilium pyrenaicum Gouan",
+            "id": "1393536",
+            "score": 0.00224
+        },
+        {
+            "name": "Lilium cernuum Kom.",
+            "id": "1588900",
+            "score": 0.0014
+        }
+    ]
+}

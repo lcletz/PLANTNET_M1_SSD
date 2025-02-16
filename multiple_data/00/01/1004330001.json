@@ -1,0 +1,110 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Iris × germanica L.",
+            "id": "1556750",
+            "score": 0.31448
+        },
+        {
+            "name": "Iris pallida Lam.",
+            "id": "1361541",
+            "score": 0.29489
+        },
+        {
+            "name": "Iris lutescens Lam.",
+            "id": "1362462",
+            "score": 0.05429
+        },
+        {
+            "name": "Iris pseudacorus L.",
+            "id": "1361543",
+            "score": 0.0225
+        },
+        {
+            "name": "Allium ampeloprasum L.",
+            "id": "1358134",
+            "score": 0.0096
+        },
+        {
+            "name": "Iris florentina L.",
+            "id": "1722421",
+            "score": 0.00856
+        },
+        {
+            "name": "Agave sisalana Perrine",
+            "id": "1357953",
+            "score": 0.00629
+        },
+        {
+            "name": "Narcissus pseudonarcissus L.",
+            "id": "1360968",
+            "score": 0.00431
+        },
+        {
+            "name": "Typha latifolia L.",
+            "id": "1363339",
+            "score": 0.00345
+        },
+        {
+            "name": "Iris xiphium L.",
+            "id": "1361548",
+            "score": 0.00331
+        },
+        {
+            "name": "Iris spuria L.",
+            "id": "1361544",
+            "score": 0.00327
+        },
+        {
+            "name": "Sisyrinchium striatum Sm.",
+            "id": "1396313",
+            "score": 0.00303
+        },
+        {
+            "name": "Allium cepa L.",
+            "id": "1358140",
+            "score": 0.00236
+        },
+        {
+            "name": "Yucca filamentosa L.",
+            "id": "1397243",
+            "score": 0.00228
+        },
+        {
+            "name": "Iris foetidissima L.",
+            "id": "1361540",
+            "score": 0.00222
+        },
+        {
+            "name": "Allium fistulosum L.",
+            "id": "1382101",
+            "score": 0.00199
+        },
+        {
+            "name": "Pancratium maritimum L.",
+            "id": "1360978",
+            "score": 0.00168
+        },
+        {
+            "name": "Gladiolus communis L.",
+            "id": "1361533",
+            "score": 0.00153
+        },
+        {
+            "name": "Asphodelus ramosus L.",
+            "id": "1361020",
+            "score": 0.00147
+        },
+        {
+            "name": "Iris perrieri Simonet ex N.Service",
+            "id": "1398243",
+            "score": 0.00145
+        },
+        {
+            "name": "Yucca gloriosa L.",
+            "id": "1362946",
+            "score": 0.00106
+        }
+    ]
+}

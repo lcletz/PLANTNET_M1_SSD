@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cucurbita moschata Duchesne",
+            "id": "1399145",
+            "score": 0.5934
+        },
+        {
+            "name": "Cucurbita maxima Duchesne",
+            "id": "1391483",
+            "score": 0.23378
+        },
+        {
+            "name": "Cucurbita pepo L.",
+            "id": "1384485",
+            "score": 0.13843
+        },
+        {
+            "name": "Cucumis melo L.",
+            "id": "1363647",
+            "score": 0.00267
+        },
+        {
+            "name": "Cucurbita ficifolia Bouché",
+            "id": "1384482",
+            "score": 0.00227
+        },
+        {
+            "name": "Benincasa hispida (Thunb.) Cogn.",
+            "id": "1384535",
+            "score": 0.00154
+        },
+        {
+            "name": "Lagenaria siceraria (Molina) Standl.",
+            "id": "1384499",
+            "score": 0.00145
+        }
+    ]
+}

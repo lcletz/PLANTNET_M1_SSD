@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Oenothera speciosa Nutt.",
+            "id": "1397714",
+            "score": 0.83805
+        },
+        {
+            "name": "Oenothera rosea L'Hér. ex Aiton",
+            "id": "1361957",
+            "score": 0.05322
+        },
+        {
+            "name": "Epilobium hirsutum L.",
+            "id": "1361947",
+            "score": 0.00211
+        },
+        {
+            "name": "Geranium sanguineum L.",
+            "id": "1392597",
+            "score": 0.0014
+        },
+        {
+            "name": "Geranium endressii J.Gay",
+            "id": "1392581",
+            "score": 0.00113
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Satureja montana L.",
+            "id": "1361829",
+            "score": 0.49548
+        },
+        {
+            "name": "Satureja hortensis L.",
+            "id": "1395936",
+            "score": 0.33153
+        },
+        {
+            "name": "Thymus zygis L.",
+            "id": "1359051",
+            "score": 0.01347
+        },
+        {
+            "name": "Satureja subspicata Bartl. ex Vis.",
+            "id": "1399393",
+            "score": 0.01316
+        },
+        {
+            "name": "Thymus × citriodorus (Pers.) Schreb.",
+            "id": "1564513",
+            "score": 0.0047
+        },
+        {
+            "name": "Thymus vulgaris L.",
+            "id": "1356108",
+            "score": 0.00384
+        },
+        {
+            "name": "Satureja intricata Lange",
+            "id": "1398783",
+            "score": 0.0028
+        },
+        {
+            "name": "Micromeria graeca (L.) Benth. ex Rchb.",
+            "id": "1358797",
+            "score": 0.00177
+        },
+        {
+            "name": "Melissa officinalis L.",
+            "id": "1358784",
+            "score": 0.00134
+        },
+        {
+            "name": "Hyssopus officinalis L.",
+            "id": "1358747",
+            "score": 0.00117
+        }
+    ]
+}

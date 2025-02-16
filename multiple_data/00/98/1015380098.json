@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Capsicum frutescens L.",
+            "id": "1356148",
+            "score": 0.5338
+        },
+        {
+            "name": "Capsicum annuum L.",
+            "id": "1361992",
+            "score": 0.19885
+        },
+        {
+            "name": "Capsicum chinense Jacq.",
+            "id": "1377886",
+            "score": 0.18526
+        },
+        {
+            "name": "Capsicum baccatum L.",
+            "id": "1420706",
+            "score": 0.01763
+        },
+        {
+            "name": "Alternanthera bettzickiana (Regel) G.Nicholson",
+            "id": "1409301",
+            "score": 0.0092
+        },
+        {
+            "name": "Ocimum americanum L.",
+            "id": "1419267",
+            "score": 0.00301
+        },
+        {
+            "name": "Ocimum basilicum L.",
+            "id": "1361975",
+            "score": 0.00243
+        },
+        {
+            "name": "Alternanthera ficoidea (L.) P.Beauv.",
+            "id": "1410240",
+            "score": 0.0021
+        }
+    ]
+}

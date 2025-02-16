@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Gentiana pneumonanthe L.",
+            "id": "1392556",
+            "score": 0.51869
+        },
+        {
+            "name": "Gentiana pyrenaica L.",
+            "id": "1392561",
+            "score": 0.02018
+        },
+        {
+            "name": "Gentiana cruciata L.",
+            "id": "1397392",
+            "score": 0.01527
+        },
+        {
+            "name": "Gentiana acaulis L.",
+            "id": "1392534",
+            "score": 0.01139
+        },
+        {
+            "name": "Gentiana alpina Vill.",
+            "id": "1392535",
+            "score": 0.00409
+        },
+        {
+            "name": "Gentiana angustifolia Vill.",
+            "id": "1392537",
+            "score": 0.00253
+        },
+        {
+            "name": "Gentiana asclepiadea L.",
+            "id": "1392538",
+            "score": 0.00193
+        },
+        {
+            "name": "Anchusa officinalis L.",
+            "id": "1394038",
+            "score": 0.00169
+        },
+        {
+            "name": "Veronica fruticans Jacq.",
+            "id": "1397049",
+            "score": 0.00117
+        }
+    ]
+}

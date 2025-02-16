@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Senecio vulgaris L.",
+            "id": "1364138",
+            "score": 0.85482
+        },
+        {
+            "name": "Senecio sylvaticus L.",
+            "id": "1357868",
+            "score": 0.01483
+        },
+        {
+            "name": "Senecio vernalis Waldst. & Kit.",
+            "id": "1396208",
+            "score": 0.01188
+        },
+        {
+            "name": "Senecio lividus L.",
+            "id": "1357862",
+            "score": 0.00606
+        },
+        {
+            "name": "Senecio leucanthemifolius Poir.",
+            "id": "1357861",
+            "score": 0.0041
+        },
+        {
+            "name": "Jacobaea vulgaris Gaertn.",
+            "id": "1362040",
+            "score": 0.00351
+        },
+        {
+            "name": "Senecio squalidus L.",
+            "id": "1357867",
+            "score": 0.00313
+        },
+        {
+            "name": "Senecio viscosus L.",
+            "id": "1396210",
+            "score": 0.00267
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bryonia cretica L.",
+            "id": "1358446",
+            "score": 0.66636
+        },
+        {
+            "name": "Bryonia alba L.",
+            "id": "1389570",
+            "score": 0.26414
+        },
+        {
+            "name": "Cucumis melo L.",
+            "id": "1363647",
+            "score": 0.00632
+        },
+        {
+            "name": "Momordica charantia L.",
+            "id": "1399937",
+            "score": 0.00491
+        },
+        {
+            "name": "Marah macrocarpa (Greene) Greene",
+            "id": "1529988",
+            "score": 0.00424
+        },
+        {
+            "name": "Momordica balsamina L.",
+            "id": "1384418",
+            "score": 0.00253
+        },
+        {
+            "name": "Marah fabacea (Naudin) Greene",
+            "id": "1529983",
+            "score": 0.00228
+        },
+        {
+            "name": "Melothria pendula L.",
+            "id": "1401361",
+            "score": 0.00209
+        }
+    ]
+}

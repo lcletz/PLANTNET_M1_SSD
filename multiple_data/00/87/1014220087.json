@@ -1,0 +1,340 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Philadelphus coronarius L.",
+            "id": "1394509",
+            "score": 0.19818
+        },
+        {
+            "name": "Philadelphus × virginalis Rehder",
+            "id": "1844555",
+            "score": 0.14521
+        },
+        {
+            "name": "Ocimum gratissimum L.",
+            "id": "1408426",
+            "score": 0.02217
+        },
+        {
+            "name": "Philadelphus lewisii Pursh",
+            "id": "1413040",
+            "score": 0.0165
+        },
+        {
+            "name": "Hydrangea petiolaris Siebold & Zucc.",
+            "id": "1398621",
+            "score": 0.01414
+        },
+        {
+            "name": "Philadelphus pubescens Loisel.",
+            "id": "1398588",
+            "score": 0.01379
+        },
+        {
+            "name": "Trachelium caeruleum L.",
+            "id": "1356778",
+            "score": 0.01326
+        },
+        {
+            "name": "Rotheca myricoides (Hochst.) Steane & Mabb.",
+            "id": "1410258",
+            "score": 0.01305
+        },
+        {
+            "name": "Philadelphus inodorus L.",
+            "id": "1413039",
+            "score": 0.00981
+        },
+        {
+            "name": "Verbesina encelioides (Cav.) Benth. & Hook.f. ex A.Gray",
+            "id": "1397039",
+            "score": 0.00923
+        },
+        {
+            "name": "Nyctanthes arbor-tristis L.",
+            "id": "1378859",
+            "score": 0.00895
+        },
+        {
+            "name": "Chromolaena odorata (L.) R.M.King & H.Rob.",
+            "id": "1403855",
+            "score": 0.00858
+        },
+        {
+            "name": "Philadelphus × purpureomaculatus Lemoine",
+            "id": "1844553",
+            "score": 0.00751
+        },
+        {
+            "name": "Clerodendrum phlomidis L.f.",
+            "id": "1559093",
+            "score": 0.00567
+        },
+        {
+            "name": "Chenopodium quinoa Willd.",
+            "id": "1397667",
+            "score": 0.00531
+        },
+        {
+            "name": "Lonicera japonica Thunb.",
+            "id": "1356786",
+            "score": 0.0051
+        },
+        {
+            "name": "Hydrangea arborescens L.",
+            "id": "1393222",
+            "score": 0.00473
+        },
+        {
+            "name": "Salvia hispanica L.",
+            "id": "1419283",
+            "score": 0.00462
+        },
+        {
+            "name": "Philadelphus purpurascens (Koehne) Rehder",
+            "id": "1555029",
+            "score": 0.00458
+        },
+        {
+            "name": "Spiraea chamaedryfolia L.",
+            "id": "1396398",
+            "score": 0.00452
+        },
+        {
+            "name": "Ocimum tenuiflorum L.",
+            "id": "1377338",
+            "score": 0.00389
+        },
+        {
+            "name": "Aster amellus L.",
+            "id": "1382107",
+            "score": 0.00363
+        },
+        {
+            "name": "Chenopodium album L.",
+            "id": "1363173",
+            "score": 0.00323
+        },
+        {
+            "name": "Campanula carpatica Jacq.",
+            "id": "1390656",
+            "score": 0.00321
+        },
+        {
+            "name": "Lonicera caprifolium L.",
+            "id": "1393632",
+            "score": 0.00314
+        },
+        {
+            "name": "Solanum chenopodioides Lam.",
+            "id": "1356162",
+            "score": 0.00298
+        },
+        {
+            "name": "Callistephus chinensis (L.) Nees",
+            "id": "1390640",
+            "score": 0.00289
+        },
+        {
+            "name": "Lapsana communis L.",
+            "id": "1364164",
+            "score": 0.00268
+        },
+        {
+            "name": "Eurybia macrophylla (L.) Cass.",
+            "id": "1412043",
+            "score": 0.00265
+        },
+        {
+            "name": "Kolkwitzia amabilis Graebn.",
+            "id": "1390685",
+            "score": 0.00255
+        },
+        {
+            "name": "Ocimum campechianum Mill.",
+            "id": "1406351",
+            "score": 0.00245
+        },
+        {
+            "name": "Hydrangea paniculata Siebold",
+            "id": "1393223",
+            "score": 0.00239
+        },
+        {
+            "name": "Senecio tamoides DC.",
+            "id": "1373862",
+            "score": 0.00226
+        },
+        {
+            "name": "Physalis peruviana L.",
+            "id": "1356153",
+            "score": 0.00221
+        },
+        {
+            "name": "Galinsoga parviflora Cav.",
+            "id": "1355935",
+            "score": 0.00198
+        },
+        {
+            "name": "Cornus sanguinea L.",
+            "id": "1397356",
+            "score": 0.00191
+        },
+        {
+            "name": "Sesamum indicum L.",
+            "id": "1356058",
+            "score": 0.00184
+        },
+        {
+            "name": "Karomia speciosa (Hutch. & Corbishley) R.Fern.",
+            "id": "1423973",
+            "score": 0.00181
+        },
+        {
+            "name": "Solanum americanum Mill.",
+            "id": "1360564",
+            "score": 0.0017
+        },
+        {
+            "name": "Lophospermum erubescens D.Don",
+            "id": "1408351",
+            "score": 0.0016
+        },
+        {
+            "name": "Baccharis halimifolia L.",
+            "id": "1400088",
+            "score": 0.00159
+        },
+        {
+            "name": "Tripora divaricata (Maxim.) P.D.Cantino",
+            "id": "1564745",
+            "score": 0.00157
+        },
+        {
+            "name": "Kickxia spuria (L.) Dumort.",
+            "id": "1359892",
+            "score": 0.00156
+        },
+        {
+            "name": "Philadelphus kansuensis (Rehder) S.Y.Hu",
+            "id": "1779439",
+            "score": 0.00148
+        },
+        {
+            "name": "Solanum nigrum L.",
+            "id": "1356167",
+            "score": 0.00147
+        },
+        {
+            "name": "Caryopteris × clandonensis A.Simmonds",
+            "id": "1843883",
+            "score": 0.0014
+        },
+        {
+            "name": "Monarda fistulosa L.",
+            "id": "1397733",
+            "score": 0.00139
+        },
+        {
+            "name": "Chenopodiastrum murale (L.) S.Fuentes, Uotila & Borsch",
+            "id": "1389974",
+            "score": 0.00133
+        },
+        {
+            "name": "Rudbeckia fulgida Aiton",
+            "id": "1397722",
+            "score": 0.00131
+        },
+        {
+            "name": "Hydrangea hydrangeoides (Siebold & Zucc.) Bernd Schulz",
+            "id": "1721735",
+            "score": 0.00127
+        },
+        {
+            "name": "Pogostemon cablin (Blanco) Benth.",
+            "id": "1406353",
+            "score": 0.00126
+        },
+        {
+            "name": "Holmskioldia sanguinea Retz.",
+            "id": "1378850",
+            "score": 0.00125
+        },
+        {
+            "name": "Lonicera xylosteum L.",
+            "id": "1393639",
+            "score": 0.00123
+        },
+        {
+            "name": "Orthosiphon aristatus (Blume) Miq.",
+            "id": "1408448",
+            "score": 0.00122
+        },
+        {
+            "name": "Pseudogynoxys chenopodioides (Kunth) Cabrera",
+            "id": "1409281",
+            "score": 0.00118
+        },
+        {
+            "name": "Lycium cestroides Schltdl.",
+            "id": "1690889",
+            "score": 0.00118
+        },
+        {
+            "name": "Diospyros kaki L.f.",
+            "id": "1391735",
+            "score": 0.00117
+        },
+        {
+            "name": "Cyphostemma quinatum (Dryand.) Desc. ex Wild & R.B.Drumm.",
+            "id": "1698044",
+            "score": 0.00117
+        },
+        {
+            "name": "Mentha longifolia (L.) L.",
+            "id": "1356107",
+            "score": 0.00114
+        },
+        {
+            "name": "Mentha arvensis L.",
+            "id": "1358785",
+            "score": 0.00113
+        },
+        {
+            "name": "Lonicera periclymenum L.",
+            "id": "1356790",
+            "score": 0.0011
+        },
+        {
+            "name": "Silphium perfoliatum L.",
+            "id": "1396301",
+            "score": 0.00108
+        },
+        {
+            "name": "Agastache mexicana (Kunth) Lint & Epling",
+            "id": "1558575",
+            "score": 0.00105
+        },
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.00104
+        },
+        {
+            "name": "Parietaria officinalis L.",
+            "id": "1362353",
+            "score": 0.00102
+        },
+        {
+            "name": "Mikania cordifolia (L.f.) Willd.",
+            "id": "1404384",
+            "score": 0.00101
+        },
+        {
+            "name": "Tridax procumbens L.",
+            "id": "1374112",
+            "score": 0.00101
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Claytonia sibirica L.",
+            "id": "1391294",
+            "score": 0.8395
+        },
+        {
+            "name": "Stellaria media (L.) Vill.",
+            "id": "1356571",
+            "score": 0.00314
+        },
+        {
+            "name": "Lysimachia tenella L.",
+            "id": "1362729",
+            "score": 0.00182
+        },
+        {
+            "name": "Geranium molle L.",
+            "id": "1356008",
+            "score": 0.00153
+        },
+        {
+            "name": "Cerastium semidecandrum L.",
+            "id": "1356835",
+            "score": 0.00118
+        }
+    ]
+}

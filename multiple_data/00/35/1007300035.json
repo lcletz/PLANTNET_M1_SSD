@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Persea americana Mill.",
+            "id": "1364365",
+            "score": 0.93674
+        },
+        {
+            "name": "Morinda citrifolia L.",
+            "id": "1372016",
+            "score": 0.00229
+        },
+        {
+            "name": "Theobroma cacao L.",
+            "id": "1377980",
+            "score": 0.00222
+        },
+        {
+            "name": "Combretum kraussii Hochst.",
+            "id": "1381060",
+            "score": 0.00198
+        },
+        {
+            "name": "Coffea arabica L.",
+            "id": "1360376",
+            "score": 0.00156
+        },
+        {
+            "name": "Persea caerulea (Ruiz & Pav.) Mez",
+            "id": "1567294",
+            "score": 0.00134
+        },
+        {
+            "name": "Coffea abbayesii J.-F.Leroy",
+            "id": "1671640",
+            "score": 0.0011
+        }
+    ]
+}

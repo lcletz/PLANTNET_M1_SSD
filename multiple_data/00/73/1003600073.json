@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Anemone nemorosa L.",
+            "id": "1394460",
+            "score": 0.18172
+        },
+        {
+            "name": "Anemone ranunculoides L.",
+            "id": "1397312",
+            "score": 0.17784
+        },
+        {
+            "name": "Anemone blanda Schott & Kotschy",
+            "id": "1398444",
+            "score": 0.00243
+        },
+        {
+            "name": "Anemone sylvestris L.",
+            "id": "1394504",
+            "score": 0.00203
+        },
+        {
+            "name": "Ficaria verna Huds.",
+            "id": "1360181",
+            "score": 0.0019
+        },
+        {
+            "name": "Ranunculus repens L.",
+            "id": "1360222",
+            "score": 0.00166
+        },
+        {
+            "name": "Eranthis hyemalis (L.) Salisb.",
+            "id": "1392020",
+            "score": 0.00129
+        }
+    ]
+}

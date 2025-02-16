@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Alopecurus pratensis L.",
+            "id": "1362406",
+            "score": 0.8881
+        },
+        {
+            "name": "Alopecurus geniculatus L.",
+            "id": "1361155",
+            "score": 0.01666
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.01075
+        },
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.00487
+        },
+        {
+            "name": "Holcus lanatus L.",
+            "id": "1363460",
+            "score": 0.00363
+        },
+        {
+            "name": "Alopecurus arundinaceus Poir.",
+            "id": "1361153",
+            "score": 0.00247
+        },
+        {
+            "name": "Phalaris coerulescens Desf.",
+            "id": "1361357",
+            "score": 0.00135
+        },
+        {
+            "name": "Phalaris aquatica L.",
+            "id": "1363489",
+            "score": 0.00127
+        },
+        {
+            "name": "Carex acutiformis Ehrh.",
+            "id": "1363281",
+            "score": 0.00126
+        },
+        {
+            "name": "Carex flacca Schreb.",
+            "id": "1361055",
+            "score": 0.00107
+        }
+    ]
+}

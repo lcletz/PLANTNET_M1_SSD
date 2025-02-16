@@ -1,0 +1,95 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ranunculus repens L.",
+            "id": "1360222",
+            "score": 0.44413
+        },
+        {
+            "name": "Ranunculus lanuginosus L.",
+            "id": "1395100",
+            "score": 0.21093
+        },
+        {
+            "name": "Ranunculus acris L.",
+            "id": "1360187",
+            "score": 0.07897
+        },
+        {
+            "name": "Ranunculus macrophyllus Desf.",
+            "id": "1360208",
+            "score": 0.06797
+        },
+        {
+            "name": "Ranunculus montanus Willd.",
+            "id": "1362363",
+            "score": 0.03909
+        },
+        {
+            "name": "Ranunculus flammula L.",
+            "id": "1360203",
+            "score": 0.03413
+        },
+        {
+            "name": "Ranunculus tuberosus Lapeyr.",
+            "id": "1395134",
+            "score": 0.02444
+        },
+        {
+            "name": "Ranunculus bulbosus L.",
+            "id": "1360193",
+            "score": 0.0137
+        },
+        {
+            "name": "Ranunculus auricomus L.",
+            "id": "1395053",
+            "score": 0.01064
+        },
+        {
+            "name": "Ranunculus sardous Crantz",
+            "id": "1360223",
+            "score": 0.00984
+        },
+        {
+            "name": "Ranunculus paludosus Poir.",
+            "id": "1360217",
+            "score": 0.006
+        },
+        {
+            "name": "Ranunculus lingua L.",
+            "id": "1395101",
+            "score": 0.00468
+        },
+        {
+            "name": "Ranunculus villarsii DC.",
+            "id": "1397879",
+            "score": 0.0036
+        },
+        {
+            "name": "Ranunculus hispidus Michx.",
+            "id": "1413426",
+            "score": 0.0031
+        },
+        {
+            "name": "Ranunculus polyanthemos L.",
+            "id": "1395117",
+            "score": 0.00185
+        },
+        {
+            "name": "Ranunculus occidentalis Nutt.",
+            "id": "1413434",
+            "score": 0.00138
+        },
+        {
+            "name": "Ranunculus breyninus Crantz",
+            "id": "1395063",
+            "score": 0.00135
+        },
+        {
+            "name": "Ranunculus monspeliacus L.",
+            "id": "1360213",
+            "score": 0.00114
+        }
+    ]
+}

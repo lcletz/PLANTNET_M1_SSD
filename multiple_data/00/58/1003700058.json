@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Genista hispanica L.",
+            "id": "1392516",
+            "score": 0.92393
+        },
+        {
+            "name": "Genista germanica L.",
+            "id": "1392515",
+            "score": 0.00993
+        },
+        {
+            "name": "Genista hirsuta Vahl",
+            "id": "1359209",
+            "score": 0.00217
+        },
+        {
+            "name": "Genista sagittalis L.",
+            "id": "1392524",
+            "score": 0.00152
+        },
+        {
+            "name": "Genista tinctoria L.",
+            "id": "1392527",
+            "score": 0.00133
+        },
+        {
+            "name": "Ulex europaeus L.",
+            "id": "1363707",
+            "score": 0.00106
+        }
+    ]
+}

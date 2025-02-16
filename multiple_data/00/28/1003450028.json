@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Primula vulgaris Huds.",
+            "id": "1394924",
+            "score": 0.46855
+        },
+        {
+            "name": "Primula × polyantha Mill.",
+            "id": "1661341",
+            "score": 0.36529
+        },
+        {
+            "name": "Primula elatior (L.) Hill",
+            "id": "1394906",
+            "score": 0.09323
+        },
+        {
+            "name": "Primula auricula L.",
+            "id": "1394898",
+            "score": 0.03295
+        },
+        {
+            "name": "Primula obconica Hance",
+            "id": "1420197",
+            "score": 0.00425
+        },
+        {
+            "name": "Primula hirsuta All.",
+            "id": "1394910",
+            "score": 0.00256
+        },
+        {
+            "name": "Primula veris L.",
+            "id": "1360145",
+            "score": 0.00168
+        },
+        {
+            "name": "Primula rosea Royle",
+            "id": "1420204",
+            "score": 0.00131
+        }
+    ]
+}

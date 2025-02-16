@@ -1,0 +1,55 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Stachys recta L.",
+            "id": "1396435",
+            "score": 0.90034
+        },
+        {
+            "name": "Stachys annua (L.) L.",
+            "id": "1358932",
+            "score": 0.01734
+        },
+        {
+            "name": "Sideritis hirsuta L.",
+            "id": "1358906",
+            "score": 0.00617
+        },
+        {
+            "name": "Sideritis hyssopifolia L.",
+            "id": "1362495",
+            "score": 0.00549
+        },
+        {
+            "name": "Galeopsis ladanum L.",
+            "id": "1362451",
+            "score": 0.00247
+        },
+        {
+            "name": "Stachys ocymastrum (L.) Briq.",
+            "id": "1358946",
+            "score": 0.00216
+        },
+        {
+            "name": "Sideritis fruticulosa Pourr.",
+            "id": "1396260",
+            "score": 0.00144
+        },
+        {
+            "name": "Betonica alopecuros L.",
+            "id": "1398116",
+            "score": 0.00122
+        },
+        {
+            "name": "Satureja montana L.",
+            "id": "1361829",
+            "score": 0.0012
+        },
+        {
+            "name": "Galeopsis segetum Neck.",
+            "id": "1392430",
+            "score": 0.00101
+        }
+    ]
+}

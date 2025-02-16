@@ -1,0 +1,95 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Eschscholzia californica Cham.",
+            "id": "1363125",
+            "score": 0.83569
+        },
+        {
+            "name": "Artemisia absinthium L.",
+            "id": "1357268",
+            "score": 0.04617
+        },
+        {
+            "name": "Fumaria parviflora Lam.",
+            "id": "1362236",
+            "score": 0.0166
+        },
+        {
+            "name": "Fumaria officinalis L.",
+            "id": "1359792",
+            "score": 0.01487
+        },
+        {
+            "name": "Fumaria densiflora DC.",
+            "id": "1359774",
+            "score": 0.00648
+        },
+        {
+            "name": "Artemisia annua L.",
+            "id": "1382106",
+            "score": 0.00297
+        },
+        {
+            "name": "Geranium carolinianum L.",
+            "id": "1398512",
+            "score": 0.00231
+        },
+        {
+            "name": "Artemisia abrotanum L.",
+            "id": "1396736",
+            "score": 0.00203
+        },
+        {
+            "name": "Glebionis segetum (L.) Fourr.",
+            "id": "1357603",
+            "score": 0.002
+        },
+        {
+            "name": "Geranium dissectum L.",
+            "id": "1356007",
+            "score": 0.00172
+        },
+        {
+            "name": "Daucus carota L.",
+            "id": "1363227",
+            "score": 0.00151
+        },
+        {
+            "name": "Hypecoum imberbe Sm.",
+            "id": "1359810",
+            "score": 0.00148
+        },
+        {
+            "name": "Fumaria bastardii Boreau",
+            "id": "1359767",
+            "score": 0.0013
+        },
+        {
+            "name": "Anethum graveolens L.",
+            "id": "1363232",
+            "score": 0.00124
+        },
+        {
+            "name": "Lepidium bonariense L.",
+            "id": "1363891",
+            "score": 0.0012
+        },
+        {
+            "name": "Papaver alpinum L.",
+            "id": "1394399",
+            "score": 0.00118
+        },
+        {
+            "name": "Eschscholzia caespitosa Benth.",
+            "id": "1443494",
+            "score": 0.00116
+        },
+        {
+            "name": "Fumaria muralis Sond. ex W.D.J.Koch",
+            "id": "1392384",
+            "score": 0.00112
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Thymus praecox Opiz",
+            "id": "1397512",
+            "score": 0.88112
+        },
+        {
+            "name": "Thymus serpyllum L.",
+            "id": "1362246",
+            "score": 0.06286
+        },
+        {
+            "name": "Thymus pulegioides L.",
+            "id": "1396792",
+            "score": 0.0063
+        },
+        {
+            "name": "Thymus comosus Heuff. ex Griseb. & Schenk",
+            "id": "1564515",
+            "score": 0.00259
+        },
+        {
+            "name": "Thymus linearis Benth.",
+            "id": "1564606",
+            "score": 0.00212
+        }
+    ]
+}

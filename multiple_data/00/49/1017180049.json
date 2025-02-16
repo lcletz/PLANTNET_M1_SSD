@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Erythronium dens-canis L.",
+            "id": "1392129",
+            "score": 0.88246
+        },
+        {
+            "name": "Erythronium albidum Nutt.",
+            "id": "1412007",
+            "score": 0.01099
+        },
+        {
+            "name": "Erythronium americanum Ker Gawl.",
+            "id": "1412008",
+            "score": 0.00925
+        },
+        {
+            "name": "Erythronium sibiricum (Fisch. & C.A.Mey.) Krylov",
+            "id": "1588586",
+            "score": 0.00622
+        },
+        {
+            "name": "Erythronium caucasicum Woronow",
+            "id": "1588572",
+            "score": 0.00169
+        },
+        {
+            "name": "Erythronium citrinum S.Watson",
+            "id": "1588573",
+            "score": 0.0012
+        }
+    ]
+}

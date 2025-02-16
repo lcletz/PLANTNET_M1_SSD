@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vaccinium myrtillus L.",
+            "id": "1361801",
+            "score": 0.87796
+        },
+        {
+            "name": "Vaccinium corymbosum L.",
+            "id": "1396966",
+            "score": 0.0129
+        },
+        {
+            "name": "Vaccinium membranaceum Douglas ex Torr.",
+            "id": "1414145",
+            "score": 0.01241
+        },
+        {
+            "name": "Vaccinium uliginosum L.",
+            "id": "1396970",
+            "score": 0.00655
+        },
+        {
+            "name": "Vaccinium angustifolium Aiton",
+            "id": "1414140",
+            "score": 0.00553
+        },
+        {
+            "name": "Vaccinium cylindraceum Sm.",
+            "id": "1389359",
+            "score": 0.00409
+        },
+        {
+            "name": "Aronia melanocarpa (Michx.) Elliott",
+            "id": "1398450",
+            "score": 0.00167
+        },
+        {
+            "name": "Vaccinium arctostaphylos L.",
+            "id": "1418800",
+            "score": 0.00136
+        },
+        {
+            "name": "Gaultheria shallon Pursh",
+            "id": "1392505",
+            "score": 0.00111
+        },
+        {
+            "name": "Vaccinium deliciosum Piper",
+            "id": "1414144",
+            "score": 0.0011
+        }
+    ]
+}

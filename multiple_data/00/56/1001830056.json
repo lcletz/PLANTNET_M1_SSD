@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Camellia japonica L.",
+            "id": "1379149",
+            "score": 0.88187
+        },
+        {
+            "name": "Camellia sasanqua Thunb.",
+            "id": "1379181",
+            "score": 0.07177
+        },
+        {
+            "name": "Camellia hiemalis Nakai",
+            "id": "1693123",
+            "score": 0.003
+        },
+        {
+            "name": "Camellia saluenensis Stapf ex Bean",
+            "id": "1390645",
+            "score": 0.00107
+        },
+        {
+            "name": "Rosa gallica L.",
+            "id": "1360338",
+            "score": 0.00104
+        }
+    ]
+}

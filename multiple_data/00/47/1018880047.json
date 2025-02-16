@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Elaeagnus angustifolia L.",
+            "id": "1358494",
+            "score": 0.95812
+        },
+        {
+            "name": "Salix eleagnos Scop.",
+            "id": "1395785",
+            "score": 0.00161
+        },
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.0015
+        },
+        {
+            "name": "Hippophae rhamnoides L.",
+            "id": "1392777",
+            "score": 0.00148
+        },
+        {
+            "name": "Eucalyptus camaldulensis Dehnh.",
+            "id": "1361792",
+            "score": 0.00113
+        },
+        {
+            "name": "Salix × pendulina Wender.",
+            "id": "1684175",
+            "score": 0.00042
+        },
+        {
+            "name": "Schinus molle L.",
+            "id": "1363642",
+            "score": 0.00036
+        },
+        {
+            "name": "Acacia retinodes Schltdl.",
+            "id": "1363778",
+            "score": 0.00032
+        },
+        {
+            "name": "Salix viminalis L.",
+            "id": "1395903",
+            "score": 0.00028
+        }
+    ]
+}

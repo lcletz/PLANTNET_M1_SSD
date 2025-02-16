@@ -1,0 +1,140 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Iris × germanica L.",
+            "id": "1556750",
+            "score": 0.49015
+        },
+        {
+            "name": "Iris pallida Lam.",
+            "id": "1361541",
+            "score": 0.09912
+        },
+        {
+            "name": "Iris florentina L.",
+            "id": "1722421",
+            "score": 0.06079
+        },
+        {
+            "name": "Iris pseudacorus L.",
+            "id": "1361543",
+            "score": 0.058
+        },
+        {
+            "name": "Iris lutescens Lam.",
+            "id": "1362462",
+            "score": 0.05461
+        },
+        {
+            "name": "Iris perrieri Simonet ex N.Service",
+            "id": "1398243",
+            "score": 0.04059
+        },
+        {
+            "name": "Iris xiphium L.",
+            "id": "1361548",
+            "score": 0.01671
+        },
+        {
+            "name": "Gladiolus communis L.",
+            "id": "1361533",
+            "score": 0.01503
+        },
+        {
+            "name": "Iris foetidissima L.",
+            "id": "1361540",
+            "score": 0.0107
+        },
+        {
+            "name": "Allium ampeloprasum L.",
+            "id": "1358134",
+            "score": 0.0104
+        },
+        {
+            "name": "Gladiolus italicus Mill.",
+            "id": "1361535",
+            "score": 0.00864
+        },
+        {
+            "name": "Iris spuria L.",
+            "id": "1361544",
+            "score": 0.00862
+        },
+        {
+            "name": "Iris aphylla L.",
+            "id": "1393299",
+            "score": 0.00852
+        },
+        {
+            "name": "Allium nigrum L.",
+            "id": "1360926",
+            "score": 0.00717
+        },
+        {
+            "name": "Narcissus pseudonarcissus L.",
+            "id": "1360968",
+            "score": 0.00514
+        },
+        {
+            "name": "Tulipa gesneriana L.",
+            "id": "1396919",
+            "score": 0.00468
+        },
+        {
+            "name": "Laserpitium latifolium L.",
+            "id": "1393446",
+            "score": 0.00345
+        },
+        {
+            "name": "Sisyrinchium striatum Sm.",
+            "id": "1396313",
+            "score": 0.00249
+        },
+        {
+            "name": "Avena sativa L.",
+            "id": "1363469",
+            "score": 0.00249
+        },
+        {
+            "name": "Chasmanthe aethiopica (L.) N.E.Br.",
+            "id": "1397583",
+            "score": 0.00181
+        },
+        {
+            "name": "Crocosmia × crocosmiiflora (Lemoine) N.E.Br.",
+            "id": "1556072",
+            "score": 0.00173
+        },
+        {
+            "name": "Tulipa agenensis Redouté",
+            "id": "1743462",
+            "score": 0.00155
+        },
+        {
+            "name": "Typha latifolia L.",
+            "id": "1363339",
+            "score": 0.00147
+        },
+        {
+            "name": "Phalaris arundinacea L.",
+            "id": "1363490",
+            "score": 0.00144
+        },
+        {
+            "name": "Iris tuberosa L.",
+            "id": "1393305",
+            "score": 0.00129
+        },
+        {
+            "name": "Narcissus jonquilla L.",
+            "id": "1360962",
+            "score": 0.00125
+        },
+        {
+            "name": "Allium sativum L.",
+            "id": "1358126",
+            "score": 0.00111
+        }
+    ]
+}

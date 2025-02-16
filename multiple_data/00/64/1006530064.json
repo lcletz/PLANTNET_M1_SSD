@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Camellia japonica L.",
+            "id": "1379149",
+            "score": 0.81145
+        },
+        {
+            "name": "Camellia sasanqua Thunb.",
+            "id": "1379181",
+            "score": 0.09069
+        },
+        {
+            "name": "Camellia reticulata Lindl.",
+            "id": "1420770",
+            "score": 0.00472
+        },
+        {
+            "name": "Phillyrea latifolia L.",
+            "id": "1359678",
+            "score": 0.00146
+        },
+        {
+            "name": "Osmanthus fragrans Lour.",
+            "id": "1394028",
+            "score": 0.00118
+        },
+        {
+            "name": "Gymnosporia cassinoides (L'Hér.) Masf.",
+            "id": "1494314",
+            "score": 0.00114
+        }
+    ]
+}

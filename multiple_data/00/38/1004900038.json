@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Amaranthus caudatus L.",
+            "id": "1363248",
+            "score": 0.68912
+        },
+        {
+            "name": "Amaranthus hypochondriacus L.",
+            "id": "1363259",
+            "score": 0.2315
+        },
+        {
+            "name": "Amaranthus cruentus L.",
+            "id": "1363249",
+            "score": 0.0058
+        },
+        {
+            "name": "Amaranthus hybridus L.",
+            "id": "1356475",
+            "score": 0.00403
+        },
+        {
+            "name": "Amaranthus blitum L.",
+            "id": "1356472",
+            "score": 0.00208
+        },
+        {
+            "name": "Amaranthus tricolor L.",
+            "id": "1363257",
+            "score": 0.00165
+        },
+        {
+            "name": "Celosia argentea L.",
+            "id": "1363271",
+            "score": 0.00136
+        },
+        {
+            "name": "Amaranthus viridis L.",
+            "id": "1393682",
+            "score": 0.0011
+        }
+    ]
+}

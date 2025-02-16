@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bryonia alba L.",
+            "id": "1389570",
+            "score": 0.73658
+        },
+        {
+            "name": "Bryonia cretica L.",
+            "id": "1358446",
+            "score": 0.18342
+        },
+        {
+            "name": "Bryonia syriaca Boiss.",
+            "id": "1426046",
+            "score": 0.00231
+        },
+        {
+            "name": "Momordica balsamina L.",
+            "id": "1384418",
+            "score": 0.00215
+        },
+        {
+            "name": "Diplocyclos palmatus (L.) C.Jeffrey",
+            "id": "1410297",
+            "score": 0.0016
+        },
+        {
+            "name": "Coccinia grandis (L.) Voigt",
+            "id": "1363157",
+            "score": 0.00141
+        },
+        {
+            "name": "Momordica charantia L.",
+            "id": "1399937",
+            "score": 0.00124
+        },
+        {
+            "name": "Coccinia adoensis (Hochst. ex A.Rich.) Cogn.",
+            "id": "1748777",
+            "score": 0.00102
+        }
+    ]
+}

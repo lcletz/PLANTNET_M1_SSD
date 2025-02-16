@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sambucus ebulus L.",
+            "id": "1356276",
+            "score": 0.93736
+        },
+        {
+            "name": "Sambucus canadensis L.",
+            "id": "1356462",
+            "score": 0.01887
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.0054
+        },
+        {
+            "name": "Sambucus australis Cham. & Schltdl.",
+            "id": "1447814",
+            "score": 0.004
+        },
+        {
+            "name": "Sambucus peruviana Kunth",
+            "id": "1422763",
+            "score": 0.00105
+        }
+    ]
+}

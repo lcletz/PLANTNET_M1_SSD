@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vitis riparia Michx.",
+            "id": "1363006",
+            "score": 0.38653
+        },
+        {
+            "name": "Vitis vinifera L.",
+            "id": "1356217",
+            "score": 0.30164
+        },
+        {
+            "name": "Vitis aestivalis Michx.",
+            "id": "1397210",
+            "score": 0.20707
+        },
+        {
+            "name": "Vitis vulpina L.",
+            "id": "1397214",
+            "score": 0.03093
+        },
+        {
+            "name": "Vitis rupestris Scheele",
+            "id": "1397213",
+            "score": 0.00796
+        },
+        {
+            "name": "Vitis rotundifolia Michx.",
+            "id": "1397212",
+            "score": 0.00663
+        },
+        {
+            "name": "Vitis labrusca L.",
+            "id": "1363005",
+            "score": 0.00405
+        },
+        {
+            "name": "Ampelopsis glandulosa (Wall.) Momiy.",
+            "id": "1420828",
+            "score": 0.00198
+        }
+    ]
+}

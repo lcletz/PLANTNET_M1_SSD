@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Phyllostachys aurea (André) Rivière & C.Rivière",
+            "id": "1723194",
+            "score": 0.0838
+        },
+        {
+            "name": "Pseudosasa japonica (Siebold & Zucc. ex Steud.) Makino ex Nakai",
+            "id": "1432743",
+            "score": 0.01997
+        },
+        {
+            "name": "Arundo donax L.",
+            "id": "1363442",
+            "score": 0.01617
+        },
+        {
+            "name": "Phragmites australis (Cav.) Trin. ex Steud.",
+            "id": "1356268",
+            "score": 0.0104
+        },
+        {
+            "name": "Phalaris arundinacea L.",
+            "id": "1363490",
+            "score": 0.00455
+        }
+    ]
+}

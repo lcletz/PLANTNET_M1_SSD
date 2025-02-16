@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salvia farinacea Benth.",
+            "id": "1377389",
+            "score": 0.87514
+        },
+        {
+            "name": "Salvia uliginosa Benth.",
+            "id": "1388783",
+            "score": 0.0022
+        },
+        {
+            "name": "Ajuga reptans L.",
+            "id": "1358718",
+            "score": 0.00138
+        },
+        {
+            "name": "Salvia longispicata M.Martens & Galeotti",
+            "id": "1562774",
+            "score": 0.00129
+        },
+        {
+            "name": "Salvia officinalis L.",
+            "id": "1356118",
+            "score": 0.00115
+        },
+        {
+            "name": "Salvia pratensis L.",
+            "id": "1395913",
+            "score": 0.00105
+        }
+    ]
+}

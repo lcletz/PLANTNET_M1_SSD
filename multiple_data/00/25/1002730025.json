@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.58675
+        },
+        {
+            "name": "Sambucus canadensis L.",
+            "id": "1356462",
+            "score": 0.25517
+        },
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.10115
+        },
+        {
+            "name": "Staphylea pinnata L.",
+            "id": "1396437",
+            "score": 0.0051
+        },
+        {
+            "name": "Aralia nudicaulis L.",
+            "id": "1413002",
+            "score": 0.00147
+        },
+        {
+            "name": "Staphylea bumalda DC.",
+            "id": "1420748",
+            "score": 0.00123
+        },
+        {
+            "name": "Staphylea trifolia L.",
+            "id": "1413915",
+            "score": 0.00119
+        }
+    ]
+}

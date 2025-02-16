@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Galanthus plicatus M.Bieb.",
+            "id": "1392416",
+            "score": 0.52233
+        },
+        {
+            "name": "Galanthus nivalis L.",
+            "id": "1397391",
+            "score": 0.38243
+        },
+        {
+            "name": "Galanthus elwesii Hook.f.",
+            "id": "1392415",
+            "score": 0.03549
+        },
+        {
+            "name": "Galanthus woronowii Losinsk.",
+            "id": "1418983",
+            "score": 0.00181
+        },
+        {
+            "name": "Sanguinaria canadensis L.",
+            "id": "1413654",
+            "score": 0.00144
+        },
+        {
+            "name": "Crocus flavus Weston",
+            "id": "1391469",
+            "score": 0.00139
+        },
+        {
+            "name": "Crocus vernus (L.) Hill",
+            "id": "1391476",
+            "score": 0.00116
+        }
+    ]
+}

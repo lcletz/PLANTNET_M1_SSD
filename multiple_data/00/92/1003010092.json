@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Anchusa azurea Mill.",
+            "id": "1363832",
+            "score": 0.85916
+        },
+        {
+            "name": "Anchusa officinalis L.",
+            "id": "1394038",
+            "score": 0.00742
+        },
+        {
+            "name": "Anchusa undulata L.",
+            "id": "1356619",
+            "score": 0.00476
+        },
+        {
+            "name": "Anchusa ochroleuca M.Bieb.",
+            "id": "1394036",
+            "score": 0.00329
+        },
+        {
+            "name": "Anchusa arvensis (L.) M.Bieb.",
+            "id": "1477188",
+            "score": 0.00325
+        },
+        {
+            "name": "Pentaglottis sempervirens (L.) Tausch ex L.H.Bailey",
+            "id": "1394459",
+            "score": 0.0013
+        }
+    ]
+}

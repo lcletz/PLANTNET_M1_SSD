@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Camellia japonica L.",
+            "id": "1379149",
+            "score": 0.83442
+        },
+        {
+            "name": "Camellia sasanqua Thunb.",
+            "id": "1379181",
+            "score": 0.02435
+        },
+        {
+            "name": "Camellia sinensis (L.) Kuntze",
+            "id": "1379192",
+            "score": 0.01132
+        },
+        {
+            "name": "Prunus laurocerasus L.",
+            "id": "1394952",
+            "score": 0.00279
+        },
+        {
+            "name": "Osmanthus fragrans Lour.",
+            "id": "1394028",
+            "score": 0.002
+        },
+        {
+            "name": "Camellia reticulata Lindl.",
+            "id": "1420770",
+            "score": 0.00191
+        },
+        {
+            "name": "Camellia yunnanensis (Pit. ex Diels) Cohen-Stuart",
+            "id": "1693283",
+            "score": 0.00101
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bauhinia variegata L.",
+            "id": "1389161",
+            "score": 0.5975
+        },
+        {
+            "name": "Bauhinia purpurea L.",
+            "id": "1366759",
+            "score": 0.3593
+        },
+        {
+            "name": "Bauhinia × blakeana Dunn",
+            "id": "1843717",
+            "score": 0.0052
+        },
+        {
+            "name": "Bauhinia monandra Kurz",
+            "id": "1366773",
+            "score": 0.00369
+        },
+        {
+            "name": "Bauhinia forficata Link",
+            "id": "1427046",
+            "score": 0.00226
+        }
+    ]
+}

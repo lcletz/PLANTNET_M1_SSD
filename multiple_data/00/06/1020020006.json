@@ -1,0 +1,25 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Muehlenbeckia complexa (A.Cunn.) Meisn.",
+            "id": "1393862",
+            "score": 0.27445
+        },
+        {
+            "name": "Portulaca oleracea L.",
+            "id": "1360141",
+            "score": 0.00174
+        },
+        {
+            "name": "Cotoneaster horizontalis Decne.",
+            "id": "1391410",
+            "score": 0.00119
+        },
+        {
+            "name": "Thymus serpyllum L.",
+            "id": "1362246",
+            "score": 0.0011
+        }
+    ]
+}

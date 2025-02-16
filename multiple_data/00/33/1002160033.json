@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Digitalis purpurea L.",
+            "id": "1364079",
+            "score": 0.64682
+        },
+        {
+            "name": "Digitalis thapsi L.",
+            "id": "1400052",
+            "score": 0.26497
+        },
+        {
+            "name": "Digitalis minor L.",
+            "id": "1646086",
+            "score": 0.00452
+        },
+        {
+            "name": "Digitalis grandiflora Mill.",
+            "id": "1391727",
+            "score": 0.0032
+        },
+        {
+            "name": "Physostegia virginiana (L.) Benth.",
+            "id": "1394534",
+            "score": 0.00135
+        },
+        {
+            "name": "Penstemon cobaea Nutt.",
+            "id": "1435787",
+            "score": 0.00112
+        }
+    ]
+}

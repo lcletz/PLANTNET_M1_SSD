@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Dactylorhiza sambucina (L.) Soó",
+            "id": "1391605",
+            "score": 0.84801
+        },
+        {
+            "name": "Dactylorhiza insularis (Sommier) Landwehr",
+            "id": "1743356",
+            "score": 0.06485
+        },
+        {
+            "name": "Orchis pallens L.",
+            "id": "1394280",
+            "score": 0.02263
+        },
+        {
+            "name": "Dactylorhiza incarnata (L.) Soó",
+            "id": "1362442",
+            "score": 0.00782
+        },
+        {
+            "name": "Dactylorhiza romana (Sebast.) Soó",
+            "id": "1362073",
+            "score": 0.00409
+        },
+        {
+            "name": "Orchis pauciflora Ten.",
+            "id": "1363014",
+            "score": 0.00208
+        },
+        {
+            "name": "Orchis provincialis Balb. ex Lam. & DC.",
+            "id": "1628961",
+            "score": 0.00157
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cornus mas L.",
+            "id": "1391354",
+            "score": 0.91501
+        },
+        {
+            "name": "Cornus officinalis Siebold & Zucc.",
+            "id": "1418495",
+            "score": 0.0121
+        },
+        {
+            "name": "Acer platanoides L.",
+            "id": "1397301",
+            "score": 0.00624
+        },
+        {
+            "name": "Lindera benzoin (L.) Blume",
+            "id": "1412506",
+            "score": 0.00376
+        },
+        {
+            "name": "Lindera obtusiloba Blume",
+            "id": "1419305",
+            "score": 0.00265
+        },
+        {
+            "name": "Forestiera pubescens Nutt.",
+            "id": "1419617",
+            "score": 0.00193
+        },
+        {
+            "name": "Sassafras albidum (Nutt.) Nees",
+            "id": "1413669",
+            "score": 0.00134
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Allium schoenoprasum L.",
+            "id": "1392774",
+            "score": 0.95089
+        },
+        {
+            "name": "Allium tuberosum Rottler ex Spreng.",
+            "id": "1418843",
+            "score": 0.02217
+        },
+        {
+            "name": "Allium fistulosum L.",
+            "id": "1382101",
+            "score": 0.00617
+        },
+        {
+            "name": "Allium canadense L.",
+            "id": "1411691",
+            "score": 0.00211
+        },
+        {
+            "name": "Allium ramosum L.",
+            "id": "1392476",
+            "score": 0.00119
+        }
+    ]
+}

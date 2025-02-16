@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lysimachia vulgaris L.",
+            "id": "1361863",
+            "score": 0.75811
+        },
+        {
+            "name": "Lysimachia punctata L.",
+            "id": "1397433",
+            "score": 0.08247
+        },
+        {
+            "name": "Ulex parviflorus Pourr.",
+            "id": "1359548",
+            "score": 0.00283
+        },
+        {
+            "name": "Hypericum hirsutum L.",
+            "id": "1358700",
+            "score": 0.00114
+        },
+        {
+            "name": "Solidago virgaurea L.",
+            "id": "1357872",
+            "score": 0.00109
+        }
+    ]
+}

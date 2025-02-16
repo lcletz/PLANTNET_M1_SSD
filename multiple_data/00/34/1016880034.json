@@ -1,0 +1,70 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vitis vinifera L.",
+            "id": "1356217",
+            "score": 0.3007
+        },
+        {
+            "name": "Vitis riparia Michx.",
+            "id": "1363006",
+            "score": 0.26758
+        },
+        {
+            "name": "Vitis rotundifolia Michx.",
+            "id": "1397212",
+            "score": 0.18708
+        },
+        {
+            "name": "Vitis aestivalis Michx.",
+            "id": "1397210",
+            "score": 0.07956
+        },
+        {
+            "name": "Vitis vulpina L.",
+            "id": "1397214",
+            "score": 0.05974
+        },
+        {
+            "name": "Vitis rupestris Scheele",
+            "id": "1397213",
+            "score": 0.01475
+        },
+        {
+            "name": "Vitis amurensis Rupr.",
+            "id": "1420835",
+            "score": 0.00767
+        },
+        {
+            "name": "Vitis labrusca L.",
+            "id": "1363005",
+            "score": 0.00721
+        },
+        {
+            "name": "Tilia mongolica Maxim.",
+            "id": "1390592",
+            "score": 0.00524
+        },
+        {
+            "name": "Vitis californica Benth.",
+            "id": "1420837",
+            "score": 0.00362
+        },
+        {
+            "name": "Ampelopsis glandulosa (Wall.) Momiy.",
+            "id": "1420828",
+            "score": 0.00194
+        },
+        {
+            "name": "Parthenocissus tricuspidata (Siebold & Zucc.) Planch.",
+            "id": "1360884",
+            "score": 0.00155
+        },
+        {
+            "name": "Tilia × europaea L.",
+            "id": "1595800",
+            "score": 0.0011
+        }
+    ]
+}

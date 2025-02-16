@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Chaenorhinum origanifolium (L.) Kostel.",
+            "id": "1362967",
+            "score": 0.84678
+        },
+        {
+            "name": "Linaria pedunculata (L.) Chaz.",
+            "id": "1359917",
+            "score": 0.03972
+        },
+        {
+            "name": "Chaenorhinum villosum (L.) Lange",
+            "id": "1359864",
+            "score": 0.01347
+        },
+        {
+            "name": "Euphrasia alpina Lam.",
+            "id": "1392198",
+            "score": 0.00915
+        },
+        {
+            "name": "Chaenorhinum robustum Loscos",
+            "id": "1646043",
+            "score": 0.0061
+        },
+        {
+            "name": "Antirrhinum microphyllum Rothm.",
+            "id": "1645890",
+            "score": 0.00109
+        }
+    ]
+}

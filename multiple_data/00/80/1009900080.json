@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Erigeron floribundus (Kunth) Sch.Bip.",
+            "id": "1388806",
+            "score": 0.6579
+        },
+        {
+            "name": "Erigeron canadensis L.",
+            "id": "1392041",
+            "score": 0.09204
+        },
+        {
+            "name": "Erigeron bonariensis L.",
+            "id": "1355905",
+            "score": 0.06545
+        },
+        {
+            "name": "Erigeron sumatrensis Retz.",
+            "id": "1355908",
+            "score": 0.06199
+        },
+        {
+            "name": "Erigeron pulchellus Michx.",
+            "id": "1411962",
+            "score": 0.00323
+        },
+        {
+            "name": "Erigeron philadelphicus L.",
+            "id": "1392052",
+            "score": 0.00233
+        },
+        {
+            "name": "Campanula medium L.",
+            "id": "1390666",
+            "score": 0.00137
+        },
+        {
+            "name": "Cynoglossum officinale L.",
+            "id": "1391501",
+            "score": 0.00104
+        }
+    ]
+}

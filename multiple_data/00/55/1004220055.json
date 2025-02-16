@@ -1,0 +1,470 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Adenocaulon bicolor Hook.",
+            "id": "1414319",
+            "score": 0.1535
+        },
+        {
+            "name": "Alliaria petiolata (M.Bieb.) Cavara & Grande",
+            "id": "1392475",
+            "score": 0.13264
+        },
+        {
+            "name": "Mikania cordifolia (L.f.) Willd.",
+            "id": "1404384",
+            "score": 0.02792
+        },
+        {
+            "name": "Delairea odorata Lem.",
+            "id": "1364133",
+            "score": 0.02432
+        },
+        {
+            "name": "Chenopodiastrum murale (L.) S.Fuentes, Uotila & Borsch",
+            "id": "1389974",
+            "score": 0.02297
+        },
+        {
+            "name": "Mikania scandens (L.) Willd.",
+            "id": "1405212",
+            "score": 0.02124
+        },
+        {
+            "name": "Trapa natans L.",
+            "id": "1356307",
+            "score": 0.02092
+        },
+        {
+            "name": "Pericallis papyracea (DC.) B.Nord.",
+            "id": "1517158",
+            "score": 0.01821
+        },
+        {
+            "name": "Mikania periplocifolia Hook. & Arn.",
+            "id": "1515134",
+            "score": 0.01818
+        },
+        {
+            "name": "Senecio deltoideus Less.",
+            "id": "1373840",
+            "score": 0.01747
+        },
+        {
+            "name": "Packera glabella (Poir.) C.Jeffrey",
+            "id": "1516514",
+            "score": 0.01641
+        },
+        {
+            "name": "Platanus occidentalis L.",
+            "id": "1398530",
+            "score": 0.01408
+        },
+        {
+            "name": "Tussilago farfara L.",
+            "id": "1357950",
+            "score": 0.01304
+        },
+        {
+            "name": "Solanum nigrum L.",
+            "id": "1356167",
+            "score": 0.01295
+        },
+        {
+            "name": "Atriplex prostrata Boucher ex DC.",
+            "id": "1356488",
+            "score": 0.0109
+        },
+        {
+            "name": "Chenopodium giganteum D.Don",
+            "id": "1408973",
+            "score": 0.01046
+        },
+        {
+            "name": "Roupala montana Aubl.",
+            "id": "1404160",
+            "score": 0.00882
+        },
+        {
+            "name": "Pseudogynoxys chenopodioides (Kunth) Cabrera",
+            "id": "1409281",
+            "score": 0.00856
+        },
+        {
+            "name": "Senecio angulatus L.f.",
+            "id": "1396186",
+            "score": 0.00796
+        },
+        {
+            "name": "Arnoglossum atriplicifolium (L.) H.Rob.",
+            "id": "1499497",
+            "score": 0.00646
+        },
+        {
+            "name": "Sonchus tenerrimus L.",
+            "id": "1364171",
+            "score": 0.00631
+        },
+        {
+            "name": "Circaea lutetiana L.",
+            "id": "1359680",
+            "score": 0.00621
+        },
+        {
+            "name": "Valeriana tripteris L.",
+            "id": "1396984",
+            "score": 0.00589
+        },
+        {
+            "name": "Plantago major L.",
+            "id": "1356067",
+            "score": 0.00585
+        },
+        {
+            "name": "Atriplex hortensis L.",
+            "id": "1363180",
+            "score": 0.00545
+        },
+        {
+            "name": "Roldana petasitis (Sims) H.Rob. & Brettell",
+            "id": "1389251",
+            "score": 0.00492
+        },
+        {
+            "name": "Scutellaria purpurascens Sw.",
+            "id": "1410021",
+            "score": 0.00491
+        },
+        {
+            "name": "Brassica rapa L.",
+            "id": "1363906",
+            "score": 0.00463
+        },
+        {
+            "name": "Chukrasia tabularis A.Juss.",
+            "id": "1432729",
+            "score": 0.00457
+        },
+        {
+            "name": "Atriplex rosea L.",
+            "id": "1363183",
+            "score": 0.00443
+        },
+        {
+            "name": "Mikania congesta DC.",
+            "id": "1404372",
+            "score": 0.00436
+        },
+        {
+            "name": "Lapsana communis L.",
+            "id": "1364164",
+            "score": 0.00428
+        },
+        {
+            "name": "Lactuca muralis (L.) E.Mey.",
+            "id": "1737633",
+            "score": 0.00427
+        },
+        {
+            "name": "Baccharis halimifolia L.",
+            "id": "1400088",
+            "score": 0.00391
+        },
+        {
+            "name": "Chenopodium quinoa Willd.",
+            "id": "1397667",
+            "score": 0.00388
+        },
+        {
+            "name": "Viburnum acerifolium L.",
+            "id": "1414184",
+            "score": 0.00375
+        },
+        {
+            "name": "Chenopodium vulvaria L.",
+            "id": "1356331",
+            "score": 0.00373
+        },
+        {
+            "name": "Houttuynia cordata Thunb.",
+            "id": "1420648",
+            "score": 0.00358
+        },
+        {
+            "name": "Chromolaena odorata (L.) R.M.King & H.Rob.",
+            "id": "1403855",
+            "score": 0.00336
+        },
+        {
+            "name": "Cyanthillium cinereum (L.) H.Rob.",
+            "id": "1405308",
+            "score": 0.00335
+        },
+        {
+            "name": "Philadelphus pubescens Loisel.",
+            "id": "1398588",
+            "score": 0.00322
+        },
+        {
+            "name": "Ageratina adenophora (Spreng.) R.M.King & H.Rob.",
+            "id": "1389568",
+            "score": 0.00318
+        },
+        {
+            "name": "Petasites paradoxus (Retz.) Baumg.",
+            "id": "1361772",
+            "score": 0.0031
+        },
+        {
+            "name": "Caryota mitis Lour.",
+            "id": "1385870",
+            "score": 0.00304
+        },
+        {
+            "name": "Smilax bona-nox L.",
+            "id": "1438352",
+            "score": 0.00303
+        },
+        {
+            "name": "Atriplex laciniata L.",
+            "id": "1363181",
+            "score": 0.00287
+        },
+        {
+            "name": "Circaea alpina L.",
+            "id": "1397350",
+            "score": 0.00286
+        },
+        {
+            "name": "Philadelphus lewisii Pursh",
+            "id": "1413040",
+            "score": 0.00286
+        },
+        {
+            "name": "Calepina irregularis (Asso) Thell.",
+            "id": "1358204",
+            "score": 0.00277
+        },
+        {
+            "name": "Lunaria rediviva L.",
+            "id": "1393653",
+            "score": 0.00267
+        },
+        {
+            "name": "Pericallis appendiculata (L.f.) B.Nord.",
+            "id": "1399893",
+            "score": 0.00265
+        },
+        {
+            "name": "Monolopia major DC.",
+            "id": "1434956",
+            "score": 0.00259
+        },
+        {
+            "name": "Physalis cordata Houst. ex Mill.",
+            "id": "1691154",
+            "score": 0.00257
+        },
+        {
+            "name": "Doronicum columnae Ten.",
+            "id": "1391752",
+            "score": 0.00253
+        },
+        {
+            "name": "Cyclamen repandum Sm.",
+            "id": "1361859",
+            "score": 0.00251
+        },
+        {
+            "name": "Petasites albus (L.) Gaertn.",
+            "id": "1361771",
+            "score": 0.00236
+        },
+        {
+            "name": "Euphorbia heterophylla L.",
+            "id": "1355965",
+            "score": 0.00234
+        },
+        {
+            "name": "Arabidopsis cebennensis (DC.) O'Kane & Al-Shehbaz",
+            "id": "1389532",
+            "score": 0.00231
+        },
+        {
+            "name": "Emilia sonchifolia (L.) DC.",
+            "id": "1373553",
+            "score": 0.00231
+        },
+        {
+            "name": "Solanum chenopodioides Lam.",
+            "id": "1356162",
+            "score": 0.00231
+        },
+        {
+            "name": "Asclepias subulata Decne.",
+            "id": "1437880",
+            "score": 0.00231
+        },
+        {
+            "name": "Gerbera leandrii Humbert",
+            "id": "1508419",
+            "score": 0.0023
+        },
+        {
+            "name": "Atriplex sagittata Borkh.",
+            "id": "1399572",
+            "score": 0.00226
+        },
+        {
+            "name": "Populus deltoides W.Bartram ex Marshall",
+            "id": "1738800",
+            "score": 0.00223
+        },
+        {
+            "name": "Farfugium japonicum (L.) Kitam.",
+            "id": "1363034",
+            "score": 0.00219
+        },
+        {
+            "name": "Senecio tamoides DC.",
+            "id": "1373862",
+            "score": 0.00218
+        },
+        {
+            "name": "Blitum virgatum L.",
+            "id": "1356500",
+            "score": 0.00217
+        },
+        {
+            "name": "Chenopodium album L.",
+            "id": "1363173",
+            "score": 0.00214
+        },
+        {
+            "name": "Epilobium montanum L.",
+            "id": "1391922",
+            "score": 0.00211
+        },
+        {
+            "name": "Cyrtomium falcatum (L.f.) C.Presl",
+            "id": "1391519",
+            "score": 0.00211
+        },
+        {
+            "name": "Solanecio angulatus (Vahl) C.Jeffrey",
+            "id": "1521396",
+            "score": 0.00208
+        },
+        {
+            "name": "Clerodendrum chinense (Osbeck) Mabb.",
+            "id": "1378737",
+            "score": 0.00205
+        },
+        {
+            "name": "Cardamine asarifolia L.",
+            "id": "1390690",
+            "score": 0.00199
+        },
+        {
+            "name": "Senecio syringifolius O.Hoffm.",
+            "id": "1520972",
+            "score": 0.00196
+        },
+        {
+            "name": "Oscularia deltoides (L.) Schwantes",
+            "id": "1394352",
+            "score": 0.00196
+        },
+        {
+            "name": "Solanum fiebrigii Bitter",
+            "id": "1403588",
+            "score": 0.00194
+        },
+        {
+            "name": "Melaleuca quinquenervia (Cav.) S.T.Blake",
+            "id": "1402554",
+            "score": 0.00193
+        },
+        {
+            "name": "Cornus schindleri Wangerin",
+            "id": "1528100",
+            "score": 0.00193
+        },
+        {
+            "name": "Valeriana montana L.",
+            "id": "1396976",
+            "score": 0.00192
+        },
+        {
+            "name": "Crambe hispanica L.",
+            "id": "1363895",
+            "score": 0.00191
+        },
+        {
+            "name": "Adenocaulon nepalense Bittmann",
+            "id": "1498078",
+            "score": 0.00188
+        },
+        {
+            "name": "Erysimum odoratum Ehrh.",
+            "id": "1392121",
+            "score": 0.00185
+        },
+        {
+            "name": "Goodenia hederacea Sm.",
+            "id": "1553927",
+            "score": 0.00184
+        },
+        {
+            "name": "Callistephus chinensis (L.) Nees",
+            "id": "1390640",
+            "score": 0.00182
+        },
+        {
+            "name": "Solanum loxophyllum Bitter",
+            "id": "1727324",
+            "score": 0.00175
+        },
+        {
+            "name": "Monarda fistulosa L.",
+            "id": "1397733",
+            "score": 0.00175
+        },
+        {
+            "name": "Ipomoea hederifolia L.",
+            "id": "1369421",
+            "score": 0.00167
+        },
+        {
+            "name": "Alocasia nycteris Medecilo, G.C.Yao & Madulid",
+            "id": "1464064",
+            "score": 0.00166
+        },
+        {
+            "name": "Viola pubescens Aiton",
+            "id": "1414215",
+            "score": 0.00164
+        },
+        {
+            "name": "Physalis peruviana L.",
+            "id": "1356153",
+            "score": 0.00162
+        },
+        {
+            "name": "Phyla betulifolia (Kunth) Greene",
+            "id": "1696674",
+            "score": 0.00157
+        },
+        {
+            "name": "Acmella brachyglossa Cass.",
+            "id": "1406452",
+            "score": 0.00156
+        },
+        {
+            "name": "Radermachera sinica (Hance) Hemsl.",
+            "id": "1388730",
+            "score": 0.00155
+        }
+    ]
+}

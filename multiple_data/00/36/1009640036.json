@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bellis perennis L.",
+            "id": "1357317",
+            "score": 0.65234
+        },
+        {
+            "name": "Bellis annua L.",
+            "id": "1357314",
+            "score": 0.24934
+        },
+        {
+            "name": "Bellis sylvestris Cirillo",
+            "id": "1357320",
+            "score": 0.0338
+        },
+        {
+            "name": "Chamaemelum nobile (L.) All.",
+            "id": "1357465",
+            "score": 0.00393
+        },
+        {
+            "name": "Bellis pappulosa Boiss. ex DC.",
+            "id": "1357316",
+            "score": 0.00224
+        },
+        {
+            "name": "Anthemis arvensis L.",
+            "id": "1364154",
+            "score": 0.00212
+        },
+        {
+            "name": "Erigeron uniflorus L.",
+            "id": "1397378",
+            "score": 0.00123
+        },
+        {
+            "name": "Erigeron alpinus L.",
+            "id": "1374231",
+            "score": 0.00106
+        }
+    ]
+}

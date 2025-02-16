@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aesculus × carnea Zeyh.",
+            "id": "1420608",
+            "score": 0.75654
+        },
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.15589
+        },
+        {
+            "name": "Aesculus pavia L.",
+            "id": "1389544",
+            "score": 0.0386
+        },
+        {
+            "name": "Aesculus glabra Willd.",
+            "id": "1390602",
+            "score": 0.00293
+        },
+        {
+            "name": "Aesculus × bushii C.K.Schneid.",
+            "id": "1685359",
+            "score": 0.00257
+        },
+        {
+            "name": "Aesculus indica (Wall. ex Cambess.) Hook.",
+            "id": "1685363",
+            "score": 0.002
+        },
+        {
+            "name": "Aesculus flava Sol.",
+            "id": "1398407",
+            "score": 0.00106
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Buxus microphylla Siebold & Zucc.",
+            "id": "1418161",
+            "score": 0.55959
+        },
+        {
+            "name": "Buxus sempervirens L.",
+            "id": "1356729",
+            "score": 0.35633
+        },
+        {
+            "name": "Buxus balearica Lam.",
+            "id": "1356728",
+            "score": 0.0123
+        },
+        {
+            "name": "Ficus microcarpa L.f.",
+            "id": "1409180",
+            "score": 0.00772
+        },
+        {
+            "name": "Buxus sinica (Rehder & E.H.Wilson) M.Cheng",
+            "id": "1418162",
+            "score": 0.00504
+        },
+        {
+            "name": "Buxus harlandii Hance",
+            "id": "1418159",
+            "score": 0.00466
+        },
+        {
+            "name": "Ficus retusa L.",
+            "id": "1428440",
+            "score": 0.00324
+        },
+        {
+            "name": "Ligustrum ovalifolium Hassk.",
+            "id": "1393526",
+            "score": 0.00221
+        },
+        {
+            "name": "Ilex crenata Thunb.",
+            "id": "1420655",
+            "score": 0.00154
+        },
+        {
+            "name": "Eugenia involucrata DC.",
+            "id": "1419554",
+            "score": 0.00104
+        }
+    ]
+}

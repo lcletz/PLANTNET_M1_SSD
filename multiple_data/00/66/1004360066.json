@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phoenix canariensis Chabaud",
+            "id": "1363260",
+            "score": 0.53272
+        },
+        {
+            "name": "Phoenix reclinata Jacq.",
+            "id": "1385866",
+            "score": 0.05261
+        },
+        {
+            "name": "Phoenix dactylifera L.",
+            "id": "1363261",
+            "score": 0.04793
+        },
+        {
+            "name": "Cocos nucifera L.",
+            "id": "1385873",
+            "score": 0.00228
+        },
+        {
+            "name": "Phoenix roebelenii O'Brien",
+            "id": "1385867",
+            "score": 0.0012
+        },
+        {
+            "name": "Howea forsteriana (F.Muell.) Becc.",
+            "id": "1417604",
+            "score": 0.00101
+        }
+    ]
+}

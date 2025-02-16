@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Geranium purpureum Vill.",
+            "id": "1356012",
+            "score": 0.70647
+        },
+        {
+            "name": "Geranium robertianum L.",
+            "id": "1356017",
+            "score": 0.19401
+        },
+        {
+            "name": "Geranium lucidum L.",
+            "id": "1358674",
+            "score": 0.00816
+        },
+        {
+            "name": "Geranium dissectum L.",
+            "id": "1356007",
+            "score": 0.00194
+        },
+        {
+            "name": "Geranium columbinum L.",
+            "id": "1358671",
+            "score": 0.00167
+        },
+        {
+            "name": "Saxifraga tridactylites L.",
+            "id": "1360489",
+            "score": 0.00101
+        }
+    ]
+}

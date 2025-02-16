@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tamarix ramosissima Ledeb.",
+            "id": "1364085",
+            "score": 0.8254
+        },
+        {
+            "name": "Tamarix gallica L.",
+            "id": "1364090",
+            "score": 0.04138
+        },
+        {
+            "name": "Tamarix chinensis Lour.",
+            "id": "1396504",
+            "score": 0.01579
+        },
+        {
+            "name": "Tamarix parviflora DC.",
+            "id": "1364093",
+            "score": 0.00871
+        },
+        {
+            "name": "Tamarix canariensis Willd.",
+            "id": "1364089",
+            "score": 0.00244
+        },
+        {
+            "name": "Tamarix tetrandra Pall. ex M.Bieb.",
+            "id": "1396506",
+            "score": 0.00188
+        }
+    ]
+}

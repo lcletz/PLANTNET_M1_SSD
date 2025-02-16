@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Cornus sanguinea L.",
+            "id": "1397356",
+            "score": 0.71978
+        },
+        {
+            "name": "Cornus mas L.",
+            "id": "1391354",
+            "score": 0.01606
+        },
+        {
+            "name": "Omphalodes verna Moench",
+            "id": "1394037",
+            "score": 0.00414
+        },
+        {
+            "name": "Cotoneaster bullatus Bois",
+            "id": "1391402",
+            "score": 0.00109
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Eupatorium cannabinum L.",
+            "id": "1362447",
+            "score": 0.46365
+        },
+        {
+            "name": "Adenostyles alpina (L.) Bluff & Fingerh.",
+            "id": "1397303",
+            "score": 0.00356
+        },
+        {
+            "name": "Atriplex prostrata Boucher ex DC.",
+            "id": "1356488",
+            "score": 0.00173
+        },
+        {
+            "name": "Valeriana montana L.",
+            "id": "1396976",
+            "score": 0.00123
+        },
+        {
+            "name": "Mentha longifolia (L.) L.",
+            "id": "1356107",
+            "score": 0.00103
+        }
+    ]
+}

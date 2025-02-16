@@ -1,0 +1,60 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.86253
+        },
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.06212
+        },
+        {
+            "name": "Quercus coccifera L.",
+            "id": "1358613",
+            "score": 0.03411
+        },
+        {
+            "name": "Quercus rotundifolia Lam.",
+            "id": "1548459",
+            "score": 0.0168
+        },
+        {
+            "name": "Phillyrea latifolia L.",
+            "id": "1359678",
+            "score": 0.0063
+        },
+        {
+            "name": "Quercus faginea Lam.",
+            "id": "1358614",
+            "score": 0.00236
+        },
+        {
+            "name": "Quercus engelmannii Greene",
+            "id": "1437107",
+            "score": 0.00207
+        },
+        {
+            "name": "Quercus chrysolepis Liebm.",
+            "id": "1437100",
+            "score": 0.00167
+        },
+        {
+            "name": "Quercus berberidifolia Liebm.",
+            "id": "1437093",
+            "score": 0.00145
+        },
+        {
+            "name": "Quercus oblongifolia Torr.",
+            "id": "1437136",
+            "score": 0.00128
+        },
+        {
+            "name": "Quercus fusiformis Small",
+            "id": "1437108",
+            "score": 0.00128
+        }
+    ]
+}

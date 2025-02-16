@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Myrtus communis L.",
+            "id": "1359662",
+            "score": 0.81326
+        },
+        {
+            "name": "Eugenia involucrata DC.",
+            "id": "1419554",
+            "score": 0.02764
+        },
+        {
+            "name": "Eugenia uniflora L.",
+            "id": "1382851",
+            "score": 0.00325
+        },
+        {
+            "name": "Carpenteria californica Torr.",
+            "id": "1440835",
+            "score": 0.00181
+        },
+        {
+            "name": "Psidium guajava L.",
+            "id": "1382846",
+            "score": 0.00103
+        },
+        {
+            "name": "Eugenia selloi B.D.Jacks.",
+            "id": "1604979",
+            "score": 0.001
+        }
+    ]
+}

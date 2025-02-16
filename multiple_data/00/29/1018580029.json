@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Solanum laciniatum Aiton",
+            "id": "1360570",
+            "score": 0.42823
+        },
+        {
+            "name": "Lycianthes rantonnetii (Carrière) Bitter",
+            "id": "1434347",
+            "score": 0.29038
+        },
+        {
+            "name": "Solanum bonariense L.",
+            "id": "1360565",
+            "score": 0.00395
+        },
+        {
+            "name": "Lycium barbarum L.",
+            "id": "1360557",
+            "score": 0.00171
+        }
+    ]
+}

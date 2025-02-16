@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Astrantia major L.",
+            "id": "1398449",
+            "score": 0.62019
+        },
+        {
+            "name": "Astrantia minor L.",
+            "id": "1398471",
+            "score": 0.24135
+        },
+        {
+            "name": "Crepis rubra L.",
+            "id": "1391460",
+            "score": 0.00138
+        },
+        {
+            "name": "Chaerophyllum villarsii W.D.J.Koch",
+            "id": "1391113",
+            "score": 0.0011
+        },
+        {
+            "name": "Chaerophyllum hirsutum L.",
+            "id": "1391112",
+            "score": 0.00109
+        }
+    ]
+}

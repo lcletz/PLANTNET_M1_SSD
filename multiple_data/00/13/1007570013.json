@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Campanula trachelium L.",
+            "id": "1356757",
+            "score": 0.83341
+        },
+        {
+            "name": "Campanula latifolia L.",
+            "id": "1390665",
+            "score": 0.07935
+        },
+        {
+            "name": "Campanula medium L.",
+            "id": "1390666",
+            "score": 0.0142
+        },
+        {
+            "name": "Campanula glomerata L.",
+            "id": "1390663",
+            "score": 0.01144
+        },
+        {
+            "name": "Campanula rapunculoides L.",
+            "id": "1383635",
+            "score": 0.01034
+        },
+        {
+            "name": "Campanula speciosa Pourr.",
+            "id": "1397527",
+            "score": 0.00112
+        }
+    ]
+}

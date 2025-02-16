@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Secale cereale L.",
+            "id": "1363451",
+            "score": 0.9175
+        },
+        {
+            "name": "Triticum aestivum L.",
+            "id": "1363483",
+            "score": 0.2074
+        },
+        {
+            "name": "Hordeum vulgare L.",
+            "id": "1363481",
+            "score": 0.08268
+        },
+        {
+            "name": "Triticum turgidum L.",
+            "id": "1363487",
+            "score": 0.03505
+        },
+        {
+            "name": "Elymus canadensis L.",
+            "id": "1398629",
+            "score": 0.00448
+        },
+        {
+            "name": "Secale sylvestre Host",
+            "id": "1654958",
+            "score": 0.00114
+        },
+        {
+            "name": "Plantago coronopus L.",
+            "id": "1356065",
+            "score": 0.00101
+        }
+    ]
+}

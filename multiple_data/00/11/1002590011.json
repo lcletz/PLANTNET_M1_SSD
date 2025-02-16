@@ -1,0 +1,405 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Portulaca oleracea L.",
+            "id": "1360141",
+            "score": 0.11686
+        },
+        {
+            "name": "Crassula multicava Lem.",
+            "id": "1363618",
+            "score": 0.05045
+        },
+        {
+            "name": "Lythrum portula (L.) D.A.Webb",
+            "id": "1393710",
+            "score": 0.03638
+        },
+        {
+            "name": "Echeveria pallida E.Walther",
+            "id": "1528741",
+            "score": 0.03196
+        },
+        {
+            "name": "Cotyledon orbiculata L.",
+            "id": "1391424",
+            "score": 0.02563
+        },
+        {
+            "name": "Kalanchoe tetraphylla H.Perrier",
+            "id": "1418535",
+            "score": 0.02151
+        },
+        {
+            "name": "Scaevola plumieri (L.) Vahl",
+            "id": "1382317",
+            "score": 0.01992
+        },
+        {
+            "name": "Portulaca umbraticola Kunth",
+            "id": "1436856",
+            "score": 0.01793
+        },
+        {
+            "name": "Clusia rosea Jacq.",
+            "id": "1418447",
+            "score": 0.01696
+        },
+        {
+            "name": "Cerinthe major L.",
+            "id": "1356629",
+            "score": 0.01187
+        },
+        {
+            "name": "Pistia stratiotes L.",
+            "id": "1363263",
+            "score": 0.01076
+        },
+        {
+            "name": "Adenium obesum (Forssk.) Roem. & Schult.",
+            "id": "1369307",
+            "score": 0.00888
+        },
+        {
+            "name": "Saxifraga cuneifolia L.",
+            "id": "1397547",
+            "score": 0.00784
+        },
+        {
+            "name": "Kalanchoe marmorata Baker",
+            "id": "1365871",
+            "score": 0.0072
+        },
+        {
+            "name": "Hylotelephium spectabile (Boreau) H.Ohba",
+            "id": "1389217",
+            "score": 0.00697
+        },
+        {
+            "name": "Terminalia mantaly H.Perrier",
+            "id": "1424294",
+            "score": 0.00616
+        },
+        {
+            "name": "Scaevola taccada (Gaertn.) Roxb.",
+            "id": "1382319",
+            "score": 0.00521
+        },
+        {
+            "name": "Sedum ternatum Michx.",
+            "id": "1413757",
+            "score": 0.00478
+        },
+        {
+            "name": "Sedum dendroideum Moc. & Sessé ex DC.",
+            "id": "1389308",
+            "score": 0.00468
+        },
+        {
+            "name": "Portulaca grandiflora Hook.",
+            "id": "1383052",
+            "score": 0.00461
+        },
+        {
+            "name": "Sedum spathulifolium Hook.",
+            "id": "1413755",
+            "score": 0.00437
+        },
+        {
+            "name": "Lactuca sativa L.",
+            "id": "1364172",
+            "score": 0.00431
+        },
+        {
+            "name": "Valeriana locusta L.",
+            "id": "1722516",
+            "score": 0.00387
+        },
+        {
+            "name": "Gardenia volkensii K.Schum.",
+            "id": "1673543",
+            "score": 0.00352
+        },
+        {
+            "name": "Crassula arborescens (Mill.) Willd.",
+            "id": "1418509",
+            "score": 0.00351
+        },
+        {
+            "name": "Raphanus raphanistrum L.",
+            "id": "1363901",
+            "score": 0.00345
+        },
+        {
+            "name": "Cucumis sativus L.",
+            "id": "1384472",
+            "score": 0.0034
+        },
+        {
+            "name": "Anacampseros ustulata E.Mey. ex Fenzl",
+            "id": "1454054",
+            "score": 0.00339
+        },
+        {
+            "name": "Portulacaria afra Jacq.",
+            "id": "1383050",
+            "score": 0.00339
+        },
+        {
+            "name": "Callitriche stagnalis Scop.",
+            "id": "1359856",
+            "score": 0.00326
+        },
+        {
+            "name": "Limonium bellidifolium (Gouan) Dumort.",
+            "id": "1360015",
+            "score": 0.0032
+        },
+        {
+            "name": "Crassula ovata (Mill.) Druce",
+            "id": "1363615",
+            "score": 0.00291
+        },
+        {
+            "name": "Lysimachia nummularia L.",
+            "id": "1393708",
+            "score": 0.00279
+        },
+        {
+            "name": "Clusia grandiflora Splitg.",
+            "id": "1401156",
+            "score": 0.00272
+        },
+        {
+            "name": "Berberis thunbergii DC.",
+            "id": "1400119",
+            "score": 0.00271
+        },
+        {
+            "name": "Euphorbia peplus L.",
+            "id": "1355969",
+            "score": 0.00255
+        },
+        {
+            "name": "Sesuvium portulacastrum (L.) L.",
+            "id": "1363345",
+            "score": 0.00253
+        },
+        {
+            "name": "Kalanchoe rotundifolia (Haw.) Haw.",
+            "id": "1365851",
+            "score": 0.00252
+        },
+        {
+            "name": "Sedum cepaea L.",
+            "id": "1358103",
+            "score": 0.0025
+        },
+        {
+            "name": "Portulaca halimoides L.",
+            "id": "1409947",
+            "score": 0.00228
+        },
+        {
+            "name": "Pilea microphylla (L.) Liebm.",
+            "id": "1378589",
+            "score": 0.00224
+        },
+        {
+            "name": "Euphorbia helioscopia L.",
+            "id": "1355964",
+            "score": 0.0021
+        },
+        {
+            "name": "Lonicera etrusca Santi",
+            "id": "1356784",
+            "score": 0.00209
+        },
+        {
+            "name": "Gardenia cornuta Hemsl.",
+            "id": "1422534",
+            "score": 0.00201
+        },
+        {
+            "name": "Kalanchoe blossfeldiana Poelln.",
+            "id": "1409179",
+            "score": 0.00187
+        },
+        {
+            "name": "Talinum paniculatum (Jacq.) Gaertn.",
+            "id": "1361940",
+            "score": 0.00187
+        },
+        {
+            "name": "Marsilea mutica Mett.",
+            "id": "1415279",
+            "score": 0.00171
+        },
+        {
+            "name": "Scaevola coriacea Nutt.",
+            "id": "1421934",
+            "score": 0.00163
+        },
+        {
+            "name": "Saccharum officinarum L.",
+            "id": "1363506",
+            "score": 0.0016
+        },
+        {
+            "name": "Orostachys malacophylla (Pall.) Fisch.",
+            "id": "1418538",
+            "score": 0.00157
+        },
+        {
+            "name": "Peperomia pellucida (L.) Kunth",
+            "id": "1376726",
+            "score": 0.00155
+        },
+        {
+            "name": "Euphorbia marginata Pursh",
+            "id": "1392172",
+            "score": 0.00152
+        },
+        {
+            "name": "Primula auricula L.",
+            "id": "1394898",
+            "score": 0.00148
+        },
+        {
+            "name": "Kalanchoe luciae Raym.-Hamet",
+            "id": "1753624",
+            "score": 0.00146
+        },
+        {
+            "name": "Dimorphotheca ecklonis DC.",
+            "id": "1748142",
+            "score": 0.00141
+        },
+        {
+            "name": "Timonius uniflorus (Banks ex C.F.Gaertn.) Govaerts",
+            "id": "1427082",
+            "score": 0.00141
+        },
+        {
+            "name": "Hylotelephium telephioides (Michx.) H.Ohba",
+            "id": "1815841",
+            "score": 0.0014
+        },
+        {
+            "name": "Kleinia cephalophora Compton",
+            "id": "1512925",
+            "score": 0.00137
+        },
+        {
+            "name": "Sedum albomarginatum R.T.Clausen",
+            "id": "1818085",
+            "score": 0.00137
+        },
+        {
+            "name": "Echeveria gigantea Rose & Purpus",
+            "id": "1418519",
+            "score": 0.0013
+        },
+        {
+            "name": "Othonna triplinervia DC.",
+            "id": "1516383",
+            "score": 0.00128
+        },
+        {
+            "name": "Euphorbia milii Des Moul.",
+            "id": "1361945",
+            "score": 0.00127
+        },
+        {
+            "name": "Euphorbia amygdaloides L.",
+            "id": "1358525",
+            "score": 0.00127
+        },
+        {
+            "name": "Lonicera caprifolium L.",
+            "id": "1393632",
+            "score": 0.00127
+        },
+        {
+            "name": "Echeveria gibbiflora DC.",
+            "id": "1418518",
+            "score": 0.00122
+        },
+        {
+            "name": "Rhododendron blackii Sleumer",
+            "id": "1801707",
+            "score": 0.00121
+        },
+        {
+            "name": "Coronilla scorpioides (L.) W.D.J.Koch",
+            "id": "1391357",
+            "score": 0.0012
+        },
+        {
+            "name": "Clusia panapanari (Aubl.) Choisy",
+            "id": "1496125",
+            "score": 0.00118
+        },
+        {
+            "name": "Drymaria cordata (L.) Willd. ex Schult.",
+            "id": "1407990",
+            "score": 0.00116
+        },
+        {
+            "name": "Hydnophytum moseleyanum Becc.",
+            "id": "1674237",
+            "score": 0.00115
+        },
+        {
+            "name": "Marsilea quadrifolia L.",
+            "id": "1356417",
+            "score": 0.00114
+        },
+        {
+            "name": "Tambourissa elliptica (Tul.) A.DC.",
+            "id": "1408749",
+            "score": 0.00114
+        },
+        {
+            "name": "Osteospermum moniliferum L.",
+            "id": "1743801",
+            "score": 0.00113
+        },
+        {
+            "name": "Bacopa monnieri (L.) Wettst.",
+            "id": "1403533",
+            "score": 0.00112
+        },
+        {
+            "name": "Moricandia arvensis (L.) DC.",
+            "id": "1358386",
+            "score": 0.00108
+        },
+        {
+            "name": "Dovyalis caffra (Hook.f. & Harv.) Warb.",
+            "id": "1750746",
+            "score": 0.00107
+        },
+        {
+            "name": "Peperomia magnoliifolia (Jacq.) A.Dietr.",
+            "id": "1402920",
+            "score": 0.00104
+        },
+        {
+            "name": "Randia thurberi S.Watson",
+            "id": "1679645",
+            "score": 0.00103
+        },
+        {
+            "name": "Trianthema portulacastrum L.",
+            "id": "1363346",
+            "score": 0.00102
+        },
+        {
+            "name": "Kalanchoe crenata (Andrews) Haw.",
+            "id": "1379675",
+            "score": 0.001
+        }
+    ]
+}

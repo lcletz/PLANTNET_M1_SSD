@@ -1,0 +1,85 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Barbarea vulgaris R.Br.",
+            "id": "1400100",
+            "score": 0.48618
+        },
+        {
+            "name": "Barbarea verna (Mill.) Asch.",
+            "id": "1363871",
+            "score": 0.15771
+        },
+        {
+            "name": "Brassica napus L.",
+            "id": "1363908",
+            "score": 0.09338
+        },
+        {
+            "name": "Nasturtium officinale R.Br.",
+            "id": "1393940",
+            "score": 0.01736
+        },
+        {
+            "name": "Bunias orientalis L.",
+            "id": "1389581",
+            "score": 0.01484
+        },
+        {
+            "name": "Brassica rapa L.",
+            "id": "1363906",
+            "score": 0.01376
+        },
+        {
+            "name": "Euphorbia cyparissias L.",
+            "id": "1392155",
+            "score": 0.01235
+        },
+        {
+            "name": "Eruca vesicaria (L.) Cav.",
+            "id": "1356328",
+            "score": 0.00316
+        },
+        {
+            "name": "Galium mollugo L.",
+            "id": "1360399",
+            "score": 0.00204
+        },
+        {
+            "name": "Sinapis alba L.",
+            "id": "1363889",
+            "score": 0.00181
+        },
+        {
+            "name": "Galium boreale L.",
+            "id": "1392445",
+            "score": 0.00137
+        },
+        {
+            "name": "Alchemilla mollis (Buser) Rothm.",
+            "id": "1398435",
+            "score": 0.00105
+        },
+        {
+            "name": "Centaurea scabiosa L.",
+            "id": "1391037",
+            "score": 0.00097
+        },
+        {
+            "name": "Aurinia saxatilis (L.) Desv.",
+            "id": "1397326",
+            "score": 0.0005
+        },
+        {
+            "name": "Sedum rupestre L.",
+            "id": "1362490",
+            "score": 0.0005
+        },
+        {
+            "name": "Crepis biennis L.",
+            "id": "1391445",
+            "score": 0.0005
+        }
+    ]
+}

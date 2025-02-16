@@ -1,0 +1,300 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euryops chrysanthemoides (DC.) B.Nord.",
+            "id": "1507818",
+            "score": 0.52863
+        },
+        {
+            "name": "Glebionis segetum (L.) Fourr.",
+            "id": "1357603",
+            "score": 0.09108
+        },
+        {
+            "name": "Glebionis coronaria (L.) Cass. ex Spach",
+            "id": "1400016",
+            "score": 0.07662
+        },
+        {
+            "name": "Papaver dubium L.",
+            "id": "1363129",
+            "score": 0.02732
+        },
+        {
+            "name": "Papaver rhoeas L.",
+            "id": "1363128",
+            "score": 0.02223
+        },
+        {
+            "name": "Lepidium didymum L.",
+            "id": "1363892",
+            "score": 0.01792
+        },
+        {
+            "name": "Rorippa amphibia (L.) Besser",
+            "id": "1358413",
+            "score": 0.01539
+        },
+        {
+            "name": "Scabiosa columbaria L.",
+            "id": "1361926",
+            "score": 0.01363
+        },
+        {
+            "name": "Scabiosa atropurpurea L.",
+            "id": "1396055",
+            "score": 0.01105
+        },
+        {
+            "name": "Rorippa sylvestris (L.) Besser",
+            "id": "1358416",
+            "score": 0.01078
+        },
+        {
+            "name": "Ambrosia artemisiifolia L.",
+            "id": "1355901",
+            "score": 0.00701
+        },
+        {
+            "name": "Knautia arvensis (L.) Coult.",
+            "id": "1362327",
+            "score": 0.00653
+        },
+        {
+            "name": "Leucanthemum vulgare Lam.",
+            "id": "1393513",
+            "score": 0.00548
+        },
+        {
+            "name": "Jacobaea vulgaris Gaertn.",
+            "id": "1362040",
+            "score": 0.00528
+        },
+        {
+            "name": "Diplotaxis tenuifolia (L.) DC.",
+            "id": "1358257",
+            "score": 0.00474
+        },
+        {
+            "name": "Ambrosia psilostachya DC.",
+            "id": "1355902",
+            "score": 0.00462
+        },
+        {
+            "name": "Artemisia absinthium L.",
+            "id": "1357268",
+            "score": 0.00436
+        },
+        {
+            "name": "Artemisia annua L.",
+            "id": "1382106",
+            "score": 0.00429
+        },
+        {
+            "name": "Argyranthemum frutescens (L.) Sch.Bip.",
+            "id": "1408638",
+            "score": 0.00426
+        },
+        {
+            "name": "Plantago coronopus L.",
+            "id": "1356065",
+            "score": 0.00425
+        },
+        {
+            "name": "Salvia yangii B.T.Drew",
+            "id": "1742562",
+            "score": 0.00377
+        },
+        {
+            "name": "Ranunculus sceleratus L.",
+            "id": "1363974",
+            "score": 0.00371
+        },
+        {
+            "name": "Senecio squalidus L.",
+            "id": "1357867",
+            "score": 0.00365
+        },
+        {
+            "name": "Valeriana calcitrapae L.",
+            "id": "1722514",
+            "score": 0.00336
+        },
+        {
+            "name": "Kalanchoe laciniata (L.) DC.",
+            "id": "1363607",
+            "score": 0.00319
+        },
+        {
+            "name": "Cosmos sulphureus Cav.",
+            "id": "1373705",
+            "score": 0.003
+        },
+        {
+            "name": "Chrysanthemum indicum L.",
+            "id": "1391154",
+            "score": 0.00269
+        },
+        {
+            "name": "Roemeria sicula (Guss.) ined.",
+            "id": "1739196",
+            "score": 0.00264
+        },
+        {
+            "name": "Saxifraga cuneata Willd.",
+            "id": "1395967",
+            "score": 0.00263
+        },
+        {
+            "name": "Lepidium bonariense L.",
+            "id": "1363891",
+            "score": 0.0024
+        },
+        {
+            "name": "Cheirolophus junonianus (Svent.) Holub",
+            "id": "1389171",
+            "score": 0.00237
+        },
+        {
+            "name": "Geranium robertianum L.",
+            "id": "1356017",
+            "score": 0.00225
+        },
+        {
+            "name": "Lepidium virginicum L.",
+            "id": "1363893",
+            "score": 0.00201
+        },
+        {
+            "name": "Roemeria argemone (L.) C.Morales, R.Mend. & Romero García",
+            "id": "1737479",
+            "score": 0.00196
+        },
+        {
+            "name": "Tanacetum parthenium (L.) Sch.Bip.",
+            "id": "1396511",
+            "score": 0.00195
+        },
+        {
+            "name": "Bidens bipinnata L.",
+            "id": "1364141",
+            "score": 0.00188
+        },
+        {
+            "name": "Ranunculus arvensis L.",
+            "id": "1360188",
+            "score": 0.00183
+        },
+        {
+            "name": "Packera anonyma (Alph.Wood) W.A.Weber & Á.Löve",
+            "id": "1516490",
+            "score": 0.0017
+        },
+        {
+            "name": "Barbarea verna (Mill.) Asch.",
+            "id": "1363871",
+            "score": 0.00162
+        },
+        {
+            "name": "Papaver nudicaule L.",
+            "id": "1412946",
+            "score": 0.00154
+        },
+        {
+            "name": "Artemisia vulgaris L.",
+            "id": "1364152",
+            "score": 0.00154
+        },
+        {
+            "name": "Viola arvensis Murray",
+            "id": "1356214",
+            "score": 0.00152
+        },
+        {
+            "name": "Teucrium cubense Jacq.",
+            "id": "1438956",
+            "score": 0.00148
+        },
+        {
+            "name": "Daucus carota L.",
+            "id": "1363227",
+            "score": 0.00143
+        },
+        {
+            "name": "Iberis umbellata L.",
+            "id": "1363926",
+            "score": 0.00138
+        },
+        {
+            "name": "Mauranthemum paludosum (Poir.) Vogt & Oberpr.",
+            "id": "1357715",
+            "score": 0.00136
+        },
+        {
+            "name": "Cakile edentula (Bigelow) Hook.",
+            "id": "1398811",
+            "score": 0.00135
+        },
+        {
+            "name": "Eruca vesicaria (L.) Cav.",
+            "id": "1356328",
+            "score": 0.00132
+        },
+        {
+            "name": "Leucanthemum coronopifolium Vill.",
+            "id": "1513959",
+            "score": 0.00127
+        },
+        {
+            "name": "Geranium maderense Yeo",
+            "id": "1358675",
+            "score": 0.00121
+        },
+        {
+            "name": "Chrysanthemum × morifolium (Ramat.) Hemsl.",
+            "id": "1719982",
+            "score": 0.00121
+        },
+        {
+            "name": "Scabiosa ochroleuca L.",
+            "id": "1358478",
+            "score": 0.00121
+        },
+        {
+            "name": "Pycnocomon rutifolium (Vahl) Hoffmanns. & Link",
+            "id": "1358477",
+            "score": 0.00111
+        },
+        {
+            "name": "Geranium purpureum Vill.",
+            "id": "1356012",
+            "score": 0.00111
+        },
+        {
+            "name": "Plantago weldenii Rchb.",
+            "id": "1359976",
+            "score": 0.0011
+        },
+        {
+            "name": "Callistephus chinensis (L.) Nees",
+            "id": "1390640",
+            "score": 0.0011
+        },
+        {
+            "name": "Senecio ampullaceus Hook.",
+            "id": "1438078",
+            "score": 0.00109
+        },
+        {
+            "name": "Papaver alpinum L.",
+            "id": "1394399",
+            "score": 0.00108
+        },
+        {
+            "name": "Kalanchoe ceratophylla Haw.",
+            "id": "1408258",
+            "score": 0.00106
+        }
+    ]
+}

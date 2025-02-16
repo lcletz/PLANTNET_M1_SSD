@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ranunculus ficaria L.",
+            "id": "1413421",
+            "score": 0.4977
+        },
+        {
+            "name": "Centella asiatica (L.) Urb.",
+            "id": "1384653",
+            "score": 0.01764
+        },
+        {
+            "name": "Ranunculus bullatus L.",
+            "id": "1360194",
+            "score": 0.0035
+        },
+        {
+            "name": "Ranunculus hederaceus L.",
+            "id": "1360205",
+            "score": 0.00153
+        },
+        {
+            "name": "Gagea lutea (L.) Ker Gawl.",
+            "id": "1392402",
+            "score": 0.00103
+        },
+        {
+            "name": "Anemone palmata L.",
+            "id": "1360154",
+            "score": 0.001
+        }
+    ]
+}

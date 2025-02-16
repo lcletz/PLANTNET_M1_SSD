@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lycopus europaeus L.",
+            "id": "1358770",
+            "score": 0.94908
+        },
+        {
+            "name": "Lycopus exaltatus L.f.",
+            "id": "1393706",
+            "score": 0.02076
+        },
+        {
+            "name": "Galeopsis tetrahit L.",
+            "id": "1392433",
+            "score": 0.00135
+        },
+        {
+            "name": "Leonurus cardiaca L.",
+            "id": "1358768",
+            "score": 0.00056
+        },
+        {
+            "name": "Chaiturus marrubiastrum (L.) Ehrh. ex Rchb.",
+            "id": "1558882",
+            "score": 0.00029
+        }
+    ]
+}

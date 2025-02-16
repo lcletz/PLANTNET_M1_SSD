@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Medicago arabica (L.) Huds.",
+            "id": "1359333",
+            "score": 0.93924
+        },
+        {
+            "name": "Medicago polymorpha L.",
+            "id": "1363731",
+            "score": 0.00979
+        },
+        {
+            "name": "Trifolium dubium Sibth.",
+            "id": "1363737",
+            "score": 0.00211
+        },
+        {
+            "name": "Medicago coronata (L.) Bartal.",
+            "id": "1359334",
+            "score": 0.00156
+        },
+        {
+            "name": "Trifolium repens L.",
+            "id": "1363740",
+            "score": 0.00155
+        },
+        {
+            "name": "Trifolium subterraneum L.",
+            "id": "1359528",
+            "score": 0.00135
+        }
+    ]
+}

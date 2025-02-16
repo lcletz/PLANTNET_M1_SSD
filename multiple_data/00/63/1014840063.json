@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vaccinium myrtillus L.",
+            "id": "1361801",
+            "score": 0.87084
+        },
+        {
+            "name": "Vaccinium parvifolium Sm.",
+            "id": "1414151",
+            "score": 0.00385
+        },
+        {
+            "name": "Vaccinium uliginosum L.",
+            "id": "1396970",
+            "score": 0.00151
+        },
+        {
+            "name": "Vaccinium vitis-idaea L.",
+            "id": "1396971",
+            "score": 0.00123
+        }
+    ]
+}

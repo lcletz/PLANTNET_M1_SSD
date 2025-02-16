@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Albizia julibrissin Durazz.",
+            "id": "1391958",
+            "score": 0.80855
+        },
+        {
+            "name": "Leucaena leucocephala (Lam.) de Wit",
+            "id": "1363651",
+            "score": 0.00498
+        },
+        {
+            "name": "Acacia dealbata Link",
+            "id": "1363764",
+            "score": 0.0048
+        },
+        {
+            "name": "Jacaranda mimosifolia D.Don",
+            "id": "1400148",
+            "score": 0.00296
+        },
+        {
+            "name": "Parasenegalia visco (Lorentz ex Griseb.) Seigler & Ebinger",
+            "id": "1744899",
+            "score": 0.00228
+        },
+        {
+            "name": "Vachellia farnesiana (L.) Wight & Arn.",
+            "id": "1409148",
+            "score": 0.00175
+        },
+        {
+            "name": "Acacia mearnsii De Wild.",
+            "id": "1363770",
+            "score": 0.00148
+        }
+    ]
+}

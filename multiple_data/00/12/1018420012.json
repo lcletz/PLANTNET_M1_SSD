@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Yucca gloriosa L.",
+            "id": "1362946",
+            "score": 0.41683
+        },
+        {
+            "name": "Yucca aloifolia L.",
+            "id": "1398112",
+            "score": 0.28277
+        },
+        {
+            "name": "Yucca filamentosa L.",
+            "id": "1397243",
+            "score": 0.00629
+        },
+        {
+            "name": "Yucca gigantea Lem.",
+            "id": "1410190",
+            "score": 0.0039
+        },
+        {
+            "name": "Agave sisalana Perrine",
+            "id": "1357953",
+            "score": 0.00173
+        }
+    ]
+}

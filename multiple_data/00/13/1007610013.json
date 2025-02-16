@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Elaeagnus pungens Thunb.",
+            "id": "1391836",
+            "score": 0.47043
+        },
+        {
+            "name": "Elaeagnus macrophylla Thunb.",
+            "id": "1391835",
+            "score": 0.23212
+        },
+        {
+            "name": "Elaeagnus × submacrophylla Servett.",
+            "id": "1537082",
+            "score": 0.17802
+        },
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.00657
+        },
+        {
+            "name": "Elaeagnus umbellata Thunb.",
+            "id": "1391838",
+            "score": 0.00477
+        },
+        {
+            "name": "Quercus faginea Lam.",
+            "id": "1358614",
+            "score": 0.00245
+        },
+        {
+            "name": "Laurus nobilis L.",
+            "id": "1363362",
+            "score": 0.00177
+        },
+        {
+            "name": "Elaeagnus angustifolia L.",
+            "id": "1358494",
+            "score": 0.00122
+        }
+    ]
+}

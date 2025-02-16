@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ranunculus asiaticus L.",
+            "id": "1360189",
+            "score": 0.89761
+        },
+        {
+            "name": "Geum coccineum Sm.",
+            "id": "1398510",
+            "score": 0.02222
+        },
+        {
+            "name": "Anemone coronaria L.",
+            "id": "1360153",
+            "score": 0.01088
+        },
+        {
+            "name": "Geum rivale L.",
+            "id": "1392614",
+            "score": 0.00211
+        },
+        {
+            "name": "Papaver orientale L.",
+            "id": "1394404",
+            "score": 0.00128
+        },
+        {
+            "name": "Rosa chinensis Jacq.",
+            "id": "1395231",
+            "score": 0.00124
+        }
+    ]
+}

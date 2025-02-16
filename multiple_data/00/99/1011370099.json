@@ -1,0 +1,495 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rosa sempervirens L.",
+            "id": "1360348",
+            "score": 0.10179
+        },
+        {
+            "name": "Rosa arvensis Huds.",
+            "id": "1395253",
+            "score": 0.09025
+        },
+        {
+            "name": "Rosa canina L.",
+            "id": "1360334",
+            "score": 0.08256
+        },
+        {
+            "name": "Rosa multiflora Thunb.",
+            "id": "1360345",
+            "score": 0.07419
+        },
+        {
+            "name": "Rubus nigricans Danthoine",
+            "id": "1737672",
+            "score": 0.0494
+        },
+        {
+            "name": "Rubus fruticosus L.",
+            "id": "1395477",
+            "score": 0.02795
+        },
+        {
+            "name": "Rubus divaricatus P.J.Müll.",
+            "id": "1395458",
+            "score": 0.01806
+        },
+        {
+            "name": "Rubus camptostachys G.Braun",
+            "id": "1395430",
+            "score": 0.01482
+        },
+        {
+            "name": "Rubus boraeanus Genev.",
+            "id": "1668580",
+            "score": 0.01391
+        },
+        {
+            "name": "Rosa rubiginosa L.",
+            "id": "1363996",
+            "score": 0.0119
+        },
+        {
+            "name": "Rubus ulmifolius Schott",
+            "id": "1360358",
+            "score": 0.01176
+        },
+        {
+            "name": "Rubus pulcher P.J.Müll. & Lefèvre",
+            "id": "1742165",
+            "score": 0.01161
+        },
+        {
+            "name": "Rubus phoenicolasius Maxim.",
+            "id": "1395394",
+            "score": 0.01108
+        },
+        {
+            "name": "Rubus ferus (Focke) Focke",
+            "id": "1737567",
+            "score": 0.011
+        },
+        {
+            "name": "Rosa stylosa Desv.",
+            "id": "1360352",
+            "score": 0.01045
+        },
+        {
+            "name": "Lonicera periclymenum L.",
+            "id": "1356790",
+            "score": 0.009
+        },
+        {
+            "name": "Rubus gratus Focke",
+            "id": "1395489",
+            "score": 0.00891
+        },
+        {
+            "name": "Rubus saxatilis L.",
+            "id": "1395601",
+            "score": 0.00871
+        },
+        {
+            "name": "Rosa pendulina L.",
+            "id": "1395329",
+            "score": 0.00863
+        },
+        {
+            "name": "Rosa dumalis Bechst.",
+            "id": "1362985",
+            "score": 0.00667
+        },
+        {
+            "name": "Rosa villosa L.",
+            "id": "1395371",
+            "score": 0.00571
+        },
+        {
+            "name": "Boerhavia coccinea Mill.",
+            "id": "1407733",
+            "score": 0.00505
+        },
+        {
+            "name": "Rosa gallica L.",
+            "id": "1360338",
+            "score": 0.00496
+        },
+        {
+            "name": "Panax pseudoginseng Wall.",
+            "id": "1467673",
+            "score": 0.00491
+        },
+        {
+            "name": "Rubus idaeus L.",
+            "id": "1395507",
+            "score": 0.00491
+        },
+        {
+            "name": "Rubus bollei Focke",
+            "id": "1360353",
+            "score": 0.00483
+        },
+        {
+            "name": "Amphilophium elongatum (Vahl) L.G.Lohmann",
+            "id": "1476404",
+            "score": 0.00453
+        },
+        {
+            "name": "Rubus hirtus Waldst. & Kit.",
+            "id": "1395495",
+            "score": 0.00427
+        },
+        {
+            "name": "Mimosa debilis Humb. & Bonpl. ex Willd.",
+            "id": "1714259",
+            "score": 0.00409
+        },
+        {
+            "name": "Canavalia brasiliensis Mart. ex Benth.",
+            "id": "1405689",
+            "score": 0.00401
+        },
+        {
+            "name": "Rosa setigera Michx.",
+            "id": "1395350",
+            "score": 0.00388
+        },
+        {
+            "name": "Rubus rhombifolius Weihe",
+            "id": "1669413",
+            "score": 0.00375
+        },
+        {
+            "name": "Begonia ulmifolia Willd.",
+            "id": "1409136",
+            "score": 0.00367
+        },
+        {
+            "name": "Psydrax subcordatus (DC.) Bridson",
+            "id": "1748335",
+            "score": 0.00356
+        },
+        {
+            "name": "Rubus echinatus Lindl.",
+            "id": "1395462",
+            "score": 0.00339
+        },
+        {
+            "name": "Rosa palustris Marshall",
+            "id": "1413512",
+            "score": 0.00327
+        },
+        {
+            "name": "Rubus coombensis Rilstone",
+            "id": "1668694",
+            "score": 0.00294
+        },
+        {
+            "name": "Rubus hispidus L.",
+            "id": "1413524",
+            "score": 0.00285
+        },
+        {
+            "name": "Lonicera alpigena L.",
+            "id": "1393630",
+            "score": 0.00281
+        },
+        {
+            "name": "Rubus hirsutus Thunb.",
+            "id": "1437490",
+            "score": 0.00275
+        },
+        {
+            "name": "Lonicera gracilipes Miq.",
+            "id": "1782432",
+            "score": 0.00275
+        },
+        {
+            "name": "Rubus occidentalis L.",
+            "id": "1413531",
+            "score": 0.00251
+        },
+        {
+            "name": "Rubus albionis W.C.R.Watson",
+            "id": "1668481",
+            "score": 0.00242
+        },
+        {
+            "name": "Rubus umbrosus (Weihe & Nees) Arrh.",
+            "id": "1737575",
+            "score": 0.00239
+        },
+        {
+            "name": "Didymopanax morototoni (Aubl.) Decne. & Planch.",
+            "id": "1383810",
+            "score": 0.00234
+        },
+        {
+            "name": "Rubus bloxamii (Bab.) Lees",
+            "id": "1668573",
+            "score": 0.00234
+        },
+        {
+            "name": "Rosa carolina L.",
+            "id": "1413505",
+            "score": 0.00234
+        },
+        {
+            "name": "Rubus scaber Weihe",
+            "id": "1395602",
+            "score": 0.00225
+        },
+        {
+            "name": "Rubus scabripes Genev.",
+            "id": "1669461",
+            "score": 0.00216
+        },
+        {
+            "name": "Rubus horrefactus P.J.Müll. & Lefèvre",
+            "id": "1668953",
+            "score": 0.00209
+        },
+        {
+            "name": "Rosa agrestis Savi",
+            "id": "1360330",
+            "score": 0.00208
+        },
+        {
+            "name": "Rubus creticus Tourn. ex L.",
+            "id": "1745232",
+            "score": 0.00204
+        },
+        {
+            "name": "Ribes alpinum L.",
+            "id": "1358682",
+            "score": 0.00203
+        },
+        {
+            "name": "Rubus caesius L.",
+            "id": "1360354",
+            "score": 0.00199
+        },
+        {
+            "name": "Rosa × nitidula Besser",
+            "id": "1668330",
+            "score": 0.00191
+        },
+        {
+            "name": "Rubus canadensis L.",
+            "id": "1390116",
+            "score": 0.00185
+        },
+        {
+            "name": "Neustanthus phaseoloides (Roxb.) Benth.",
+            "id": "1719113",
+            "score": 0.00178
+        },
+        {
+            "name": "Rubus elegantispinosus (A.Schumach.) H.E.Weber",
+            "id": "1395466",
+            "score": 0.00176
+        },
+        {
+            "name": "Varronia polycephala Lam.",
+            "id": "1410238",
+            "score": 0.00172
+        },
+        {
+            "name": "Rubus rosifolius Sm.",
+            "id": "1370821",
+            "score": 0.00168
+        },
+        {
+            "name": "Rubus apetalus Poir.",
+            "id": "1408636",
+            "score": 0.00162
+        },
+        {
+            "name": "Cissampelos pareira L.",
+            "id": "1402343",
+            "score": 0.0016
+        },
+        {
+            "name": "Rubus argutus Link",
+            "id": "1421896",
+            "score": 0.00159
+        },
+        {
+            "name": "Rubus dentatifolius (Briggs) W.C.R.Watson",
+            "id": "1668744",
+            "score": 0.00157
+        },
+        {
+            "name": "Indigofera hendecaphylla Jacq.",
+            "id": "1367457",
+            "score": 0.00157
+        },
+        {
+            "name": "Rubus fraxinifolius Poir.",
+            "id": "1408637",
+            "score": 0.00155
+        },
+        {
+            "name": "Canavalia cathartica Thouars",
+            "id": "1366546",
+            "score": 0.00154
+        },
+        {
+            "name": "Rubus flagellaris Willd.",
+            "id": "1413520",
+            "score": 0.00151
+        },
+        {
+            "name": "Rubus franchetianus H.Lév.",
+            "id": "1729480",
+            "score": 0.0015
+        },
+        {
+            "name": "Crataegus coccinioides Ashe",
+            "id": "1391428",
+            "score": 0.00146
+        },
+        {
+            "name": "Rubus pectinellus Maxim.",
+            "id": "1430194",
+            "score": 0.00142
+        },
+        {
+            "name": "Kedrostis foetidissima (Jacq.) Cogn.",
+            "id": "1363154",
+            "score": 0.00139
+        },
+        {
+            "name": "Rosa mollis Sm.",
+            "id": "1395318",
+            "score": 0.00139
+        },
+        {
+            "name": "Rosa arkansana Porter",
+            "id": "1413503",
+            "score": 0.00136
+        },
+        {
+            "name": "Solanum chacoense Bitter",
+            "id": "1389722",
+            "score": 0.00131
+        },
+        {
+            "name": "Cissus erosa Rich.",
+            "id": "1403710",
+            "score": 0.00129
+        },
+        {
+            "name": "Crataegus monogyna Jacq.",
+            "id": "1363988",
+            "score": 0.00129
+        },
+        {
+            "name": "Indigofera hirsuta L.",
+            "id": "1402841",
+            "score": 0.00128
+        },
+        {
+            "name": "Rosa abietina Gren. ex Christ",
+            "id": "1741909",
+            "score": 0.00126
+        },
+        {
+            "name": "Eugenia punicifolia (Kunth) DC.",
+            "id": "1402545",
+            "score": 0.00126
+        },
+        {
+            "name": "Rubus macrophyllus Weihe & Nees",
+            "id": "1395538",
+            "score": 0.00121
+        },
+        {
+            "name": "Fragaria vesca L.",
+            "id": "1363991",
+            "score": 0.00118
+        },
+        {
+            "name": "Rubus loehrii Wirtg.",
+            "id": "1390146",
+            "score": 0.00115
+        },
+        {
+            "name": "Rosa woodsii Lindl.",
+            "id": "1413515",
+            "score": 0.00113
+        },
+        {
+            "name": "Rosa × noisettiana Thory",
+            "id": "1668331",
+            "score": 0.00113
+        },
+        {
+            "name": "Rubus koehleri Weihe",
+            "id": "1395520",
+            "score": 0.00112
+        },
+        {
+            "name": "Digitaria didactyla Willd.",
+            "id": "1364743",
+            "score": 0.00112
+        },
+        {
+            "name": "Solanum lyratum Thunb.",
+            "id": "1691879",
+            "score": 0.00109
+        },
+        {
+            "name": "Rubus macrostachys P.J.Müll.",
+            "id": "1395539",
+            "score": 0.00108
+        },
+        {
+            "name": "Henriettea caudata (Gleason) Penneys, Michelang., Judd & Almeda",
+            "id": "1735651",
+            "score": 0.00107
+        },
+        {
+            "name": "Rubus allegheniensis Porter",
+            "id": "1413516",
+            "score": 0.00106
+        },
+        {
+            "name": "Ampelopsis cordata Michx.",
+            "id": "1444188",
+            "score": 0.00105
+        },
+        {
+            "name": "Dioscorea communis (L.) Caddick & Wilkin",
+            "id": "1361109",
+            "score": 0.00104
+        },
+        {
+            "name": "Potentilla indica (Andrews) Th.Wolf",
+            "id": "1721637",
+            "score": 0.00103
+        },
+        {
+            "name": "Panax quinquefolius L.",
+            "id": "1412935",
+            "score": 0.00103
+        },
+        {
+            "name": "Rubus ignoratus H.E.Weber",
+            "id": "1390477",
+            "score": 0.00102
+        },
+        {
+            "name": "Barbieria pinnata (Pers.) Baill.",
+            "id": "1409386",
+            "score": 0.00101
+        },
+        {
+            "name": "Viburnum opulus L.",
+            "id": "1361743",
+            "score": 0.00098
+        }
+    ]
+}

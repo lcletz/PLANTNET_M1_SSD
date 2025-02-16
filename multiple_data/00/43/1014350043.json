@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iris sibirica L.",
+            "id": "1393304",
+            "score": 0.89581
+        },
+        {
+            "name": "Iris versicolor L.",
+            "id": "1393297",
+            "score": 0.07027
+        },
+        {
+            "name": "Iris setosa Pall. ex Link",
+            "id": "1412338",
+            "score": 0.00142
+        },
+        {
+            "name": "Iris sanguinea Hornem.",
+            "id": "1433298",
+            "score": 0.00116
+        }
+    ]
+}

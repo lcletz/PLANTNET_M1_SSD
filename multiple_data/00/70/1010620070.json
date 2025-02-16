@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.87589
+        },
+        {
+            "name": "Syringa persica L.",
+            "id": "1419641",
+            "score": 0.02119
+        },
+        {
+            "name": "Syringa reticulata (Blume) H.Hara",
+            "id": "1609522",
+            "score": 0.01111
+        },
+        {
+            "name": "Syringa oblata Lindl.",
+            "id": "1419640",
+            "score": 0.00684
+        },
+        {
+            "name": "Deutzia scabra Thunb.",
+            "id": "1391675",
+            "score": 0.00407
+        },
+        {
+            "name": "Jasminum sambac (L.) Aiton",
+            "id": "1383127",
+            "score": 0.00283
+        },
+        {
+            "name": "Deutzia gracilis Siebold & Zucc.",
+            "id": "1391671",
+            "score": 0.0022
+        }
+    ]
+}

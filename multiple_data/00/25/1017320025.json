@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salvia jordanii J.B.Walker",
+            "id": "1744243",
+            "score": 0.43426
+        },
+        {
+            "name": "Salvia rosmarinus Spenn.",
+            "id": "1722409",
+            "score": 0.24023
+        },
+        {
+            "name": "Hyssopus officinalis L.",
+            "id": "1358747",
+            "score": 0.00261
+        },
+        {
+            "name": "Berzelia lanuginosa (L.) Brongn.",
+            "id": "1485601",
+            "score": 0.00204
+        },
+        {
+            "name": "Thymus nervosus J.Gay ex Willk.",
+            "id": "1396784",
+            "score": 0.00138
+        },
+        {
+            "name": "Veronica prostrata L.",
+            "id": "1397067",
+            "score": 0.00124
+        },
+        {
+            "name": "Scilla monophyllos Link",
+            "id": "1473210",
+            "score": 0.00101
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Helianthus × laetiflorus Pers.",
+            "id": "1509310",
+            "score": 0.69735
+        },
+        {
+            "name": "Helianthus tuberosus L.",
+            "id": "1357617",
+            "score": 0.11649
+        },
+        {
+            "name": "Helianthus giganteus L.",
+            "id": "1389511",
+            "score": 0.0201
+        },
+        {
+            "name": "Helianthus pauciflorus Nutt.",
+            "id": "1392721",
+            "score": 0.01301
+        },
+        {
+            "name": "Helianthus decapetalus L.",
+            "id": "1392718",
+            "score": 0.00942
+        },
+        {
+            "name": "Silphium perfoliatum L.",
+            "id": "1396301",
+            "score": 0.00167
+        },
+        {
+            "name": "Helianthus debilis Nutt.",
+            "id": "1379525",
+            "score": 0.00157
+        },
+        {
+            "name": "Rudbeckia fulgida Aiton",
+            "id": "1397722",
+            "score": 0.00149
+        }
+    ]
+}

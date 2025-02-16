@@ -1,0 +1,20 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Pelargonium inquinans (L.) L'Hér.",
+            "id": "1355934",
+            "score": 0.22538
+        },
+        {
+            "name": "Pelargonium zonale (L.) L'Hér.",
+            "id": "1355978",
+            "score": 0.0458
+        },
+        {
+            "name": "Pelargonium graveolens L'Hér.",
+            "id": "1355932",
+            "score": 0.00202
+        }
+    ]
+}

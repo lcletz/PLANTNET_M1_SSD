@@ -1,0 +1,440 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Equisetum palustre L.",
+            "id": "1391989",
+            "score": 0.31169
+        },
+        {
+            "name": "Equisetum arvense L.",
+            "id": "1356394",
+            "score": 0.30205
+        },
+        {
+            "name": "Equisetum sylvaticum L.",
+            "id": "1391994",
+            "score": 0.16404
+        },
+        {
+            "name": "Equisetum fluviatile L.",
+            "id": "1356395",
+            "score": 0.12567
+        },
+        {
+            "name": "Equisetum telmateia Ehrh.",
+            "id": "1356398",
+            "score": 0.07307
+        },
+        {
+            "name": "Equisetum pratense Ehrh.",
+            "id": "1391990",
+            "score": 0.0609
+        },
+        {
+            "name": "Festuca lachenalii (C.C.Gmel.) Spenn.",
+            "id": "1742545",
+            "score": 0.05195
+        },
+        {
+            "name": "Equisetum ramosissimum Desf.",
+            "id": "1356397",
+            "score": 0.04884
+        },
+        {
+            "name": "Equisetum × litorale Kühlew. ex Rupr.",
+            "id": "1706072",
+            "score": 0.02143
+        },
+        {
+            "name": "Glyceria fluitans (L.) R.Br.",
+            "id": "1392636",
+            "score": 0.02134
+        },
+        {
+            "name": "Poa trivialis L.",
+            "id": "1363459",
+            "score": 0.01267
+        },
+        {
+            "name": "Carex leporina L.",
+            "id": "1362424",
+            "score": 0.01185
+        },
+        {
+            "name": "Lolium perenne L.",
+            "id": "1363475",
+            "score": 0.01141
+        },
+        {
+            "name": "Poa nemoralis L.",
+            "id": "1361376",
+            "score": 0.01094
+        },
+        {
+            "name": "Equisetum variegatum Schleich. ex F.Weber & D.Mohr",
+            "id": "1721729",
+            "score": 0.01074
+        },
+        {
+            "name": "Chondrilla juncea L.",
+            "id": "1357492",
+            "score": 0.01027
+        },
+        {
+            "name": "Cynodon dactylon (L.) Pers.",
+            "id": "1363526",
+            "score": 0.00905
+        },
+        {
+            "name": "Equisetum scirpoides Michx.",
+            "id": "1397837",
+            "score": 0.00777
+        },
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.00584
+        },
+        {
+            "name": "Carex remota L.",
+            "id": "1361080",
+            "score": 0.00582
+        },
+        {
+            "name": "Carex spicata Huds.",
+            "id": "1361082",
+            "score": 0.00579
+        },
+        {
+            "name": "Anthoxanthum odoratum L.",
+            "id": "1363461",
+            "score": 0.00566
+        },
+        {
+            "name": "Luzula campestris (L.) DC.",
+            "id": "1361592",
+            "score": 0.00548
+        },
+        {
+            "name": "Festuca myuros L.",
+            "id": "1720968",
+            "score": 0.00547
+        },
+        {
+            "name": "Chrysopogon plumulosus Hochst.",
+            "id": "1363536",
+            "score": 0.00488
+        },
+        {
+            "name": "Poa annua L.",
+            "id": "1363455",
+            "score": 0.00439
+        },
+        {
+            "name": "Equisetum hyemale L.",
+            "id": "1356396",
+            "score": 0.00415
+        },
+        {
+            "name": "Equisetum myriochaetum Schltdl. & Cham.",
+            "id": "1706075",
+            "score": 0.00377
+        },
+        {
+            "name": "Carex hirta L.",
+            "id": "1361058",
+            "score": 0.00371
+        },
+        {
+            "name": "Carex sylvatica Huds.",
+            "id": "1363283",
+            "score": 0.00363
+        },
+        {
+            "name": "Carex alba Scop.",
+            "id": "1390756",
+            "score": 0.00357
+        },
+        {
+            "name": "Gymnocarpium dryopteris (L.) Newman",
+            "id": "1392669",
+            "score": 0.0033
+        },
+        {
+            "name": "Danthonia decumbens (L.) DC.",
+            "id": "1361233",
+            "score": 0.00322
+        },
+        {
+            "name": "Brachypodium distachyon (L.) P.Beauv.",
+            "id": "1388770",
+            "score": 0.00256
+        },
+        {
+            "name": "Trichophorum cespitosum (L.) Hartm.",
+            "id": "1396838",
+            "score": 0.00251
+        },
+        {
+            "name": "Sehima nervosa (Rottler) Stapf",
+            "id": "1751373",
+            "score": 0.00246
+        },
+        {
+            "name": "Pinus patula Schiede ex Schltdl. & Cham.",
+            "id": "1419916",
+            "score": 0.00237
+        },
+        {
+            "name": "Eriophorum vaginatum L.",
+            "id": "1392067",
+            "score": 0.00231
+        },
+        {
+            "name": "Dianthus armeria L.",
+            "id": "1397366",
+            "score": 0.00229
+        },
+        {
+            "name": "Lolium pratense (Huds.) Darbysh.",
+            "id": "1737440",
+            "score": 0.00228
+        },
+        {
+            "name": "Lolium rigidum Gaudin",
+            "id": "1363476",
+            "score": 0.00224
+        },
+        {
+            "name": "Pimpinella saxifraga L.",
+            "id": "1394593",
+            "score": 0.00223
+        },
+        {
+            "name": "Eleocharis palustris (L.) Roem. & Schult.",
+            "id": "1363275",
+            "score": 0.00221
+        },
+        {
+            "name": "Phyteuma betonicifolium Vill.",
+            "id": "1394536",
+            "score": 0.00213
+        },
+        {
+            "name": "Bromus hordeaceus L.",
+            "id": "1356286",
+            "score": 0.00211
+        },
+        {
+            "name": "Cynosurus cristatus L.",
+            "id": "1361225",
+            "score": 0.00208
+        },
+        {
+            "name": "Polygonum aviculare L.",
+            "id": "1356084",
+            "score": 0.00208
+        },
+        {
+            "name": "Cytisus scoparius (L.) Link",
+            "id": "1363728",
+            "score": 0.00207
+        },
+        {
+            "name": "Conopodium pyrenaeum (Loisel.) Miégev.",
+            "id": "1391333",
+            "score": 0.00203
+        },
+        {
+            "name": "Carex echinata Murray",
+            "id": "1361051",
+            "score": 0.00203
+        },
+        {
+            "name": "Luzula forsteri (Sm.) DC.",
+            "id": "1361594",
+            "score": 0.00194
+        },
+        {
+            "name": "Rumex scutatus L.",
+            "id": "1362485",
+            "score": 0.00188
+        },
+        {
+            "name": "Lactuca tenerrima Pourr.",
+            "id": "1357682",
+            "score": 0.00188
+        },
+        {
+            "name": "Agrostis capillaris L.",
+            "id": "1361133",
+            "score": 0.00184
+        },
+        {
+            "name": "Festuca bromoides L.",
+            "id": "1722436",
+            "score": 0.00183
+        },
+        {
+            "name": "Crupina crupinastrum (Moris) Vis.",
+            "id": "1357550",
+            "score": 0.00179
+        },
+        {
+            "name": "Crucianella angustifolia L.",
+            "id": "1360378",
+            "score": 0.00171
+        },
+        {
+            "name": "Equisetum giganteum L.",
+            "id": "1423129",
+            "score": 0.00165
+        },
+        {
+            "name": "Avenella flexuosa (L.) Drejer",
+            "id": "1400084",
+            "score": 0.00164
+        },
+        {
+            "name": "Aegilops cylindrica Host",
+            "id": "1361912",
+            "score": 0.00161
+        },
+        {
+            "name": "Eragrostis tenuifolia (A.Rich.) Hochst. ex Steud.",
+            "id": "1397784",
+            "score": 0.0016
+        },
+        {
+            "name": "Parapholis filiformis (Roth) C.E.Hubb.",
+            "id": "1394413",
+            "score": 0.0016
+        },
+        {
+            "name": "Crupina vulgaris Pers. ex Cass.",
+            "id": "1505776",
+            "score": 0.00156
+        },
+        {
+            "name": "Parapholis strigosa (Dumort.) C.E.Hubb.",
+            "id": "1394416",
+            "score": 0.00149
+        },
+        {
+            "name": "Festuca incurva (Gouan) Gutermann",
+            "id": "1743235",
+            "score": 0.00147
+        },
+        {
+            "name": "Poa compressa L.",
+            "id": "1361369",
+            "score": 0.00146
+        },
+        {
+            "name": "Bromus sterilis L.",
+            "id": "1414366",
+            "score": 0.00135
+        },
+        {
+            "name": "Aegilops geniculata Roth",
+            "id": "1361117",
+            "score": 0.00133
+        },
+        {
+            "name": "Carex longii Mack.",
+            "id": "1411203",
+            "score": 0.00132
+        },
+        {
+            "name": "Aphyllanthes monspeliensis L.",
+            "id": "1360999",
+            "score": 0.0013
+        },
+        {
+            "name": "Digitaria ciliaris (Retz.) Koeler",
+            "id": "1363421",
+            "score": 0.00127
+        },
+        {
+            "name": "Ephedra tweedieana C.A.Mey.",
+            "id": "1701702",
+            "score": 0.00127
+        },
+        {
+            "name": "Digitaria sanguinalis (L.) Scop.",
+            "id": "1363424",
+            "score": 0.00122
+        },
+        {
+            "name": "Carex pilosa Scop.",
+            "id": "1390887",
+            "score": 0.00122
+        },
+        {
+            "name": "Rumex acetosa L.",
+            "id": "1360120",
+            "score": 0.0012
+        },
+        {
+            "name": "Brachypodium sylvaticum (Huds.) P.Beauv.",
+            "id": "1389018",
+            "score": 0.00119
+        },
+        {
+            "name": "Asparagus officinalis L.",
+            "id": "1363268",
+            "score": 0.00114
+        },
+        {
+            "name": "Luzula pilosa (L.) Willd.",
+            "id": "1361598",
+            "score": 0.00108
+        },
+        {
+            "name": "Festuca heterophylla Lam.",
+            "id": "1392309",
+            "score": 0.00107
+        },
+        {
+            "name": "Carex humilis Leyss.",
+            "id": "1390837",
+            "score": 0.00107
+        },
+        {
+            "name": "Cenchrus longisetus M.C.Johnst.",
+            "id": "1389966",
+            "score": 0.00107
+        },
+        {
+            "name": "Festuca ovina L.",
+            "id": "1361281",
+            "score": 0.00106
+        },
+        {
+            "name": "Equisetum × schaffneri Milde",
+            "id": "1706078",
+            "score": 0.00106
+        },
+        {
+            "name": "Microstegium japonicum (Miq.) Koidz.",
+            "id": "1652653",
+            "score": 0.00105
+        },
+        {
+            "name": "Eleusine tristachya (Lam.) Lam.",
+            "id": "1363413",
+            "score": 0.00102
+        },
+        {
+            "name": "Vicia hirsuta (L.) Gray",
+            "id": "1363671",
+            "score": 0.00101
+        },
+        {
+            "name": "Jasione montana L.",
+            "id": "1356766",
+            "score": 0.001
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sorghum bicolor (L.) Moench",
+            "id": "1356240",
+            "score": 0.88979
+        },
+        {
+            "name": "Panicum miliaceum L.",
+            "id": "1363446",
+            "score": 0.031
+        },
+        {
+            "name": "Zea mays L.",
+            "id": "1363500",
+            "score": 0.01688
+        },
+        {
+            "name": "Sorghum halepense (L.) Pers.",
+            "id": "1363508",
+            "score": 0.00417
+        },
+        {
+            "name": "Arundo donax L.",
+            "id": "1363442",
+            "score": 0.00197
+        }
+    ]
+}

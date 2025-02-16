@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Platanus occidentalis L.",
+            "id": "1398530",
+            "score": 0.73801
+        },
+        {
+            "name": "Platanus × hispanica Mill. ex Münchh.",
+            "id": "1844583",
+            "score": 0.12221
+        },
+        {
+            "name": "Platanus orientalis L.",
+            "id": "1362358",
+            "score": 0.02426
+        },
+        {
+            "name": "Populus × canescens (Aiton) Sm.",
+            "id": "1683819",
+            "score": 0.01497
+        },
+        {
+            "name": "Betula pubescens Ehrh.",
+            "id": "1362746",
+            "score": 0.00178
+        },
+        {
+            "name": "Populus tremula L.",
+            "id": "1360449",
+            "score": 0.0016
+        },
+        {
+            "name": "Populus grandidentata Michx.",
+            "id": "1413259",
+            "score": 0.0015
+        },
+        {
+            "name": "Tilia mongolica Maxim.",
+            "id": "1390592",
+            "score": 0.00133
+        }
+    ]
+}

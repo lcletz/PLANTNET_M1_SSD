@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cerastium tomentosum L.",
+            "id": "1391092",
+            "score": 0.85704
+        },
+        {
+            "name": "Cerastium arvense L.",
+            "id": "1356817",
+            "score": 0.03586
+        },
+        {
+            "name": "Cerastium alpinum L.",
+            "id": "1391074",
+            "score": 0.0252
+        },
+        {
+            "name": "Cerastium biebersteinii DC.",
+            "id": "1391075",
+            "score": 0.0203
+        },
+        {
+            "name": "Cerastium soleirolii Ser. ex Duby",
+            "id": "1391088",
+            "score": 0.00867
+        },
+        {
+            "name": "Cerastium decalvans Schloss. & Vuk.",
+            "id": "1492369",
+            "score": 0.00145
+        },
+        {
+            "name": "Cerastium candidissimum Correns",
+            "id": "1492356",
+            "score": 0.00102
+        }
+    ]
+}

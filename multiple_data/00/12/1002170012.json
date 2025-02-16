@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Verbascum blattaria L.",
+            "id": "1364060",
+            "score": 0.7592
+        },
+        {
+            "name": "Verbascum virgatum Stokes",
+            "id": "1364058",
+            "score": 0.16712
+        },
+        {
+            "name": "Verbascum sinuatum L.",
+            "id": "1360542",
+            "score": 0.00481
+        },
+        {
+            "name": "Verbascum phoeniceum L.",
+            "id": "1396994",
+            "score": 0.00324
+        },
+        {
+            "name": "Verbascum nigrum L.",
+            "id": "1397520",
+            "score": 0.00278
+        },
+        {
+            "name": "Verbascum boerhavii L.",
+            "id": "1360520",
+            "score": 0.00167
+        }
+    ]
+}

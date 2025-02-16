@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Clematis flammula L.",
+            "id": "1360159",
+            "score": 0.43758
+        },
+        {
+            "name": "Clematis recta L.",
+            "id": "1391298",
+            "score": 0.26701
+        },
+        {
+            "name": "Clematis terniflora DC.",
+            "id": "1411498",
+            "score": 0.20906
+        },
+        {
+            "name": "Clematis virginiana L.",
+            "id": "1411500",
+            "score": 0.00849
+        },
+        {
+            "name": "Clematis vitalba L.",
+            "id": "1360161",
+            "score": 0.00708
+        },
+        {
+            "name": "Clematis ligusticifolia Nutt.",
+            "id": "1411496",
+            "score": 0.00632
+        }
+    ]
+}

@@ -1,0 +1,335 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Epilobium tetragonum L.",
+            "id": "1359688",
+            "score": 0.15247
+        },
+        {
+            "name": "Epilobium montanum L.",
+            "id": "1391922",
+            "score": 0.12941
+        },
+        {
+            "name": "Dipterostemon capitatus (Benth.) Rydb.",
+            "id": "1816558",
+            "score": 0.07276
+        },
+        {
+            "name": "Dichelostemma congestum (Sm.) Kunth",
+            "id": "1442522",
+            "score": 0.03704
+        },
+        {
+            "name": "Epilobium ciliatum Raf.",
+            "id": "1391890",
+            "score": 0.03392
+        },
+        {
+            "name": "Epilobium palustre L.",
+            "id": "1359685",
+            "score": 0.02157
+        },
+        {
+            "name": "Epilobium parviflorum Schreb.",
+            "id": "1359686",
+            "score": 0.01994
+        },
+        {
+            "name": "Epilobium alsinifolium Vill.",
+            "id": "1391878",
+            "score": 0.01731
+        },
+        {
+            "name": "Petrorhagia prolifera (L.) P.W.Ball & Heywood",
+            "id": "1394478",
+            "score": 0.01722
+        },
+        {
+            "name": "Epilobium collinum C.C.Gmel.",
+            "id": "1391891",
+            "score": 0.01469
+        },
+        {
+            "name": "Geranium columbinum L.",
+            "id": "1358671",
+            "score": 0.01376
+        },
+        {
+            "name": "Limonium virgatum (Willd.) Fourr.",
+            "id": "1360088",
+            "score": 0.01081
+        },
+        {
+            "name": "Geranium lanuginosum Lam.",
+            "id": "1358673",
+            "score": 0.00942
+        },
+        {
+            "name": "Campanula rotundifolia L.",
+            "id": "1362422",
+            "score": 0.00835
+        },
+        {
+            "name": "Epilobium alpestre (Jacq.) Krock.",
+            "id": "1391876",
+            "score": 0.00676
+        },
+        {
+            "name": "Wahlenbergia marginata (Thunb.) A.DC.",
+            "id": "1431055",
+            "score": 0.00537
+        },
+        {
+            "name": "Campanula patula L.",
+            "id": "1390669",
+            "score": 0.00531
+        },
+        {
+            "name": "Armeria pubigera (Desf.) Boiss.",
+            "id": "1647170",
+            "score": 0.00518
+        },
+        {
+            "name": "Wahlenbergia lobelioides (L.f.) Link",
+            "id": "1397223",
+            "score": 0.00508
+        },
+        {
+            "name": "Geranium rotundifolium L.",
+            "id": "1356013",
+            "score": 0.00464
+        },
+        {
+            "name": "Armeria girardii (Bernis) Litard.",
+            "id": "1396355",
+            "score": 0.0041
+        },
+        {
+            "name": "Gilia achilleifolia Benth.",
+            "id": "1443984",
+            "score": 0.00406
+        },
+        {
+            "name": "Epilobium anagallidifolium Lam.",
+            "id": "1391881",
+            "score": 0.00402
+        },
+        {
+            "name": "Pinguicula vulgaris L.",
+            "id": "1394603",
+            "score": 0.00363
+        },
+        {
+            "name": "Oldenlandia lancifolia (Schumach.) DC.",
+            "id": "1403331",
+            "score": 0.00348
+        },
+        {
+            "name": "Epilobium pyrricholophum Franch. & Sav.",
+            "id": "1609767",
+            "score": 0.00343
+        },
+        {
+            "name": "Talinum paniculatum (Jacq.) Gaertn.",
+            "id": "1361940",
+            "score": 0.00307
+        },
+        {
+            "name": "Pulmonaria obscura Dumort.",
+            "id": "1394987",
+            "score": 0.00298
+        },
+        {
+            "name": "Prospero corsicum (Boullu) J.-M.Tison",
+            "id": "1743365",
+            "score": 0.00283
+        },
+        {
+            "name": "Polygala longicaulis Kunth",
+            "id": "1403175",
+            "score": 0.00268
+        },
+        {
+            "name": "Linaria algarviana Chav.",
+            "id": "1399621",
+            "score": 0.00262
+        },
+        {
+            "name": "Geranium molle L.",
+            "id": "1356008",
+            "score": 0.00252
+        },
+        {
+            "name": "Anchusa arvensis (L.) M.Bieb.",
+            "id": "1477188",
+            "score": 0.00246
+        },
+        {
+            "name": "Mirabilis melanotricha (Standl.) Spellenb.",
+            "id": "1434883",
+            "score": 0.00243
+        },
+        {
+            "name": "Limonium scoparium (Pall. ex Willd.) Stankov",
+            "id": "1745396",
+            "score": 0.00234
+        },
+        {
+            "name": "Dianthus benearnensis Loret",
+            "id": "1391677",
+            "score": 0.00229
+        },
+        {
+            "name": "Solenopsis laurentia (L.) C.Presl",
+            "id": "1396333",
+            "score": 0.00222
+        },
+        {
+            "name": "Astranthium integrifolium Nutt.",
+            "id": "1819407",
+            "score": 0.00216
+        },
+        {
+            "name": "Scilla haemorrhoidalis Webb & Berthel.",
+            "id": "1399796",
+            "score": 0.00202
+        },
+        {
+            "name": "Lythrum tribracteatum Salzm. ex Spreng.",
+            "id": "1359615",
+            "score": 0.00198
+        },
+        {
+            "name": "Geranium dissectum L.",
+            "id": "1356007",
+            "score": 0.00194
+        },
+        {
+            "name": "Campanula aristata Wall.",
+            "id": "1489034",
+            "score": 0.00173
+        },
+        {
+            "name": "Gilia tenuiflora Benth.",
+            "id": "1444010",
+            "score": 0.0017
+        },
+        {
+            "name": "Campanula rapunculus L.",
+            "id": "1356752",
+            "score": 0.00165
+        },
+        {
+            "name": "Campanula scheuchzeri Vill.",
+            "id": "1390674",
+            "score": 0.00148
+        },
+        {
+            "name": "Dichaea panamensis Lindl.",
+            "id": "1405771",
+            "score": 0.00147
+        },
+        {
+            "name": "Dracontium prancei G.H.Zhu & Croat",
+            "id": "1465657",
+            "score": 0.00145
+        },
+        {
+            "name": "Geranium pusillum L.",
+            "id": "1392594",
+            "score": 0.00145
+        },
+        {
+            "name": "Buchnera longifolia Kunth",
+            "id": "1406169",
+            "score": 0.00145
+        },
+        {
+            "name": "Gilia laciniata Ruiz & Pav.",
+            "id": "1423002",
+            "score": 0.00143
+        },
+        {
+            "name": "Epilobium minutum Lindl. ex Lehm.",
+            "id": "1411918",
+            "score": 0.0014
+        },
+        {
+            "name": "Talinum fruticosum (L.) Juss.",
+            "id": "1404984",
+            "score": 0.00135
+        },
+        {
+            "name": "Polygala vulgaris L.",
+            "id": "1394742",
+            "score": 0.00135
+        },
+        {
+            "name": "Linaria pelisseriana (L.) Mill.",
+            "id": "1359918",
+            "score": 0.00135
+        },
+        {
+            "name": "Utricularia purpurea Walter",
+            "id": "1414133",
+            "score": 0.00134
+        },
+        {
+            "name": "Xeranthemum cylindraceum Sm.",
+            "id": "1362697",
+            "score": 0.00126
+        },
+        {
+            "name": "Veronica officinalis L.",
+            "id": "1364068",
+            "score": 0.00124
+        },
+        {
+            "name": "Limonium echioides (L.) Mill.",
+            "id": "1360035",
+            "score": 0.00122
+        },
+        {
+            "name": "Limonium narbonense Mill.",
+            "id": "1360054",
+            "score": 0.00121
+        },
+        {
+            "name": "Ravenella exigua (Rattan) Morin",
+            "id": "1817938",
+            "score": 0.00116
+        },
+        {
+            "name": "Triteleia laxa Benth.",
+            "id": "1439377",
+            "score": 0.00114
+        },
+        {
+            "name": "Dichelostemma multiflorum (Benth.) A.Heller",
+            "id": "1471839",
+            "score": 0.00112
+        },
+        {
+            "name": "Agalinis tenuifolia (Vahl) Raf.",
+            "id": "1411159",
+            "score": 0.00111
+        },
+        {
+            "name": "Colchicum davisii C.D.Brickell",
+            "id": "1496712",
+            "score": 0.00104
+        },
+        {
+            "name": "Brodiaea jolonensis Eastw.",
+            "id": "1440276",
+            "score": 0.00104
+        },
+        {
+            "name": "Campanula glomerata L.",
+            "id": "1390663",
+            "score": 0.00102
+        }
+    ]
+}

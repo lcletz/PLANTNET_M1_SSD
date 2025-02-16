@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Allium porrum L.",
+            "id": "1358120",
+            "score": 0.5518
+        },
+        {
+            "name": "Allium cepa L.",
+            "id": "1358140",
+            "score": 0.00629
+        },
+        {
+            "name": "Allium polyanthum Schult. & Schult.f.",
+            "id": "1392738",
+            "score": 0.00494
+        },
+        {
+            "name": "Allium sativum L.",
+            "id": "1358126",
+            "score": 0.00451
+        },
+        {
+            "name": "Allium commutatum Guss.",
+            "id": "1362525",
+            "score": 0.00411
+        },
+        {
+            "name": "Asphodelus ramosus L.",
+            "id": "1361020",
+            "score": 0.00247
+        },
+        {
+            "name": "Pancratium maritimum L.",
+            "id": "1360978",
+            "score": 0.00184
+        }
+    ]
+}

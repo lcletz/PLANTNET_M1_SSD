@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia flavicoma DC.",
+            "id": "1392161",
+            "score": 0.91804
+        },
+        {
+            "name": "Euphorbia verrucosa L.",
+            "id": "1546251",
+            "score": 0.01641
+        },
+        {
+            "name": "Euphorbia epithymoides L.",
+            "id": "1358550",
+            "score": 0.01122
+        },
+        {
+            "name": "Euphorbia helioscopia L.",
+            "id": "1355964",
+            "score": 0.00441
+        },
+        {
+            "name": "Euphorbia hyberna L.",
+            "id": "1392167",
+            "score": 0.00417
+        },
+        {
+            "name": "Euphorbia palustris L.",
+            "id": "1392178",
+            "score": 0.00252
+        },
+        {
+            "name": "Euphorbia exigua L.",
+            "id": "1358552",
+            "score": 0.002
+        },
+        {
+            "name": "Euphorbia cyparissias L.",
+            "id": "1392155",
+            "score": 0.00167
+        },
+        {
+            "name": "Euphorbia seguieriana Neck.",
+            "id": "1392187",
+            "score": 0.00159
+        },
+        {
+            "name": "Euphorbia serrata L.",
+            "id": "1355971",
+            "score": 0.0013
+        }
+    ]
+}

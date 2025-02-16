@@ -1,0 +1,150 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iris sibirica L.",
+            "id": "1393304",
+            "score": 0.32516
+        },
+        {
+            "name": "Iris versicolor L.",
+            "id": "1393297",
+            "score": 0.1187
+        },
+        {
+            "name": "Iris spuria L.",
+            "id": "1361544",
+            "score": 0.06382
+        },
+        {
+            "name": "Iris graminea L.",
+            "id": "1393300",
+            "score": 0.03492
+        },
+        {
+            "name": "Iris ensata Thunb.",
+            "id": "1393295",
+            "score": 0.01685
+        },
+        {
+            "name": "Iris xiphium L.",
+            "id": "1361548",
+            "score": 0.01515
+        },
+        {
+            "name": "Iris douglasiana Herb.",
+            "id": "1433286",
+            "score": 0.01237
+        },
+        {
+            "name": "Iris pumila L.",
+            "id": "1398617",
+            "score": 0.01021
+        },
+        {
+            "name": "Iris × germanica L.",
+            "id": "1556750",
+            "score": 0.00674
+        },
+        {
+            "name": "Iris chrysographes Dykes",
+            "id": "1556707",
+            "score": 0.00518
+        },
+        {
+            "name": "Iris foetidissima L.",
+            "id": "1361540",
+            "score": 0.00516
+        },
+        {
+            "name": "Iris ruthenica Ker Gawl.",
+            "id": "1556889",
+            "score": 0.00511
+        },
+        {
+            "name": "Iris reichenbachiana Klatt",
+            "id": "1389990",
+            "score": 0.00439
+        },
+        {
+            "name": "Iris lutescens Lam.",
+            "id": "1362462",
+            "score": 0.003
+        },
+        {
+            "name": "Trimezia coerulea (G.Lodd.) Ravenna",
+            "id": "1730461",
+            "score": 0.00285
+        },
+        {
+            "name": "Iris setosa Pall. ex Link",
+            "id": "1412338",
+            "score": 0.00247
+        },
+        {
+            "name": "Iris tectorum Maxim.",
+            "id": "1419214",
+            "score": 0.00219
+        },
+        {
+            "name": "Iris uniflora Pall. ex Link",
+            "id": "1556931",
+            "score": 0.00208
+        },
+        {
+            "name": "Iris pseudacorus L.",
+            "id": "1361543",
+            "score": 0.00207
+        },
+        {
+            "name": "Iris reticulata M.Bieb.",
+            "id": "1419213",
+            "score": 0.00194
+        },
+        {
+            "name": "Iris forrestii Dykes",
+            "id": "1556737",
+            "score": 0.00168
+        },
+        {
+            "name": "Iris planifolia (Mill.) T.Durand & Schinz",
+            "id": "1556855",
+            "score": 0.00163
+        },
+        {
+            "name": "Iris serotina Willk.",
+            "id": "1556901",
+            "score": 0.00153
+        },
+        {
+            "name": "Iris petrana Dinsm.",
+            "id": "1425134",
+            "score": 0.00132
+        },
+        {
+            "name": "Trimezia gracilis (Herb.) Christenh. & Byng",
+            "id": "1732606",
+            "score": 0.00128
+        },
+        {
+            "name": "Iris unguicularis Poir.",
+            "id": "1361547",
+            "score": 0.00124
+        },
+        {
+            "name": "Iris laevigata Fisch.",
+            "id": "1419211",
+            "score": 0.0012
+        },
+        {
+            "name": "Iris fulva Ker Gawl.",
+            "id": "1433289",
+            "score": 0.00104
+        },
+        {
+            "name": "Iris bulleyana Dykes",
+            "id": "1556692",
+            "score": 0.00101
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Centaurea cyanus L.",
+            "id": "1411387",
+            "score": 0.47039
+        },
+        {
+            "name": "Centaurea sulphurea Willd.",
+            "id": "1357457",
+            "score": 0.01408
+        },
+        {
+            "name": "Dianthus plumarius L.",
+            "id": "1391707",
+            "score": 0.0033
+        },
+        {
+            "name": "Centaurea aspera L.",
+            "id": "1357401",
+            "score": 0.00272
+        },
+        {
+            "name": "Catananche caerulea L.",
+            "id": "1357392",
+            "score": 0.00154
+        },
+        {
+            "name": "Centaurea jacea L.",
+            "id": "1362427",
+            "score": 0.00121
+        }
+    ]
+}

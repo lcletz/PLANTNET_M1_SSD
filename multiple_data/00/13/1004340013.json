@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sonchus oleraceus (L.) L.",
+            "id": "1430536",
+            "score": 0.33676
+        },
+        {
+            "name": "Sonchus asper (L.) Hill",
+            "id": "1357875",
+            "score": 0.14881
+        },
+        {
+            "name": "Brassica napus L.",
+            "id": "1363908",
+            "score": 0.01822
+        },
+        {
+            "name": "Brassica rapa L.",
+            "id": "1363906",
+            "score": 0.00428
+        }
+    ]
+}

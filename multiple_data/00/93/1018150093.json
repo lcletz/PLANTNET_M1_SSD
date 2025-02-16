@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vitis vinifera L.",
+            "id": "1356217",
+            "score": 0.79782
+        },
+        {
+            "name": "Vitis vulpina L.",
+            "id": "1397214",
+            "score": 0.00782
+        },
+        {
+            "name": "Vitis labrusca L.",
+            "id": "1363005",
+            "score": 0.00674
+        },
+        {
+            "name": "Vitis aestivalis Michx.",
+            "id": "1397210",
+            "score": 0.00492
+        },
+        {
+            "name": "Vitis rotundifolia Michx.",
+            "id": "1397212",
+            "score": 0.00327
+        },
+        {
+            "name": "Vitis riparia Michx.",
+            "id": "1363006",
+            "score": 0.00226
+        },
+        {
+            "name": "Parthenocissus tricuspidata (Siebold & Zucc.) Planch.",
+            "id": "1360884",
+            "score": 0.00188
+        }
+    ]
+}

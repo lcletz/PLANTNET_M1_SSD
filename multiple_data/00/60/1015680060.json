@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hydrangea paniculata Siebold",
+            "id": "1393223",
+            "score": 0.88924
+        },
+        {
+            "name": "Hydrangea arborescens L.",
+            "id": "1393222",
+            "score": 0.02879
+        },
+        {
+            "name": "Viburnum plicatum Thunb.",
+            "id": "1397609",
+            "score": 0.00705
+        },
+        {
+            "name": "Hydrangea serrata (Thunb.) Ser.",
+            "id": "1721569",
+            "score": 0.00628
+        },
+        {
+            "name": "Hydrangea sargentiana Rehder",
+            "id": "1554981",
+            "score": 0.00422
+        },
+        {
+            "name": "Hydrangea petiolaris Siebold & Zucc.",
+            "id": "1398621",
+            "score": 0.00404
+        },
+        {
+            "name": "Viburnum trilobum Marshall",
+            "id": "1397611",
+            "score": 0.00376
+        },
+        {
+            "name": "Hydrangea quercifolia W.Bartram",
+            "id": "1390614",
+            "score": 0.00363
+        },
+        {
+            "name": "Hydrangea macrophylla (Thunb.) Ser.",
+            "id": "1361819",
+            "score": 0.00329
+        },
+        {
+            "name": "Hydrangea cinerea Small",
+            "id": "1433065",
+            "score": 0.00128
+        },
+        {
+            "name": "Hydrangea chinensis Maxim.",
+            "id": "1554953",
+            "score": 0.00108
+        },
+        {
+            "name": "Hydrangea xanthoneura Diels",
+            "id": "1554991",
+            "score": 0.00105
+        }
+    ]
+}

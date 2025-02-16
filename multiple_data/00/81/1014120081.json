@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Asparagus setaceus (Kunth) Jessop",
+            "id": "1363267",
+            "score": 0.93521
+        },
+        {
+            "name": "Asparagus officinalis L.",
+            "id": "1363268",
+            "score": 0.02212
+        },
+        {
+            "name": "Asparagus tenuifolius Lam.",
+            "id": "1397182",
+            "score": 0.00761
+        },
+        {
+            "name": "Foeniculum vulgare Mill.",
+            "id": "1360739",
+            "score": 0.00253
+        },
+        {
+            "name": "Asparagus umbellatus Link",
+            "id": "1361011",
+            "score": 0.00228
+        },
+        {
+            "name": "Brachyglottis greyi (Hook.f.) B.Nord.",
+            "id": "1501530",
+            "score": 0.00132
+        },
+        {
+            "name": "Asparagus virgatus Baker",
+            "id": "1386184",
+            "score": 0.00125
+        }
+    ]
+}

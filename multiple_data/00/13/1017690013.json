@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lagurus ovatus L.",
+            "id": "1363433",
+            "score": 0.88923
+        },
+        {
+            "name": "Plantago lagopus L.",
+            "id": "1359959",
+            "score": 0.01689
+        },
+        {
+            "name": "Trifolium arvense L.",
+            "id": "1359485",
+            "score": 0.00752
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.00541
+        },
+        {
+            "name": "Alopecurus gerardii (All.) Vill.",
+            "id": "1647677",
+            "score": 0.00439
+        },
+        {
+            "name": "Phleum alpinum L.",
+            "id": "1362482",
+            "score": 0.00343
+        },
+        {
+            "name": "Phalaris canariensis L.",
+            "id": "1363491",
+            "score": 0.00325
+        }
+    ]
+}

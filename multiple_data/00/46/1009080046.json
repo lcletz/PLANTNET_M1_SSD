@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rosa xanthina Lindl.",
+            "id": "1395238",
+            "score": 0.71825
+        },
+        {
+            "name": "Rosa foetida Herrm.",
+            "id": "1395284",
+            "score": 0.11214
+        },
+        {
+            "name": "Rosa chinensis Jacq.",
+            "id": "1395231",
+            "score": 0.03479
+        },
+        {
+            "name": "Rosa arvensis Huds.",
+            "id": "1395253",
+            "score": 0.01634
+        },
+        {
+            "name": "Rosa banksiae R.Br.",
+            "id": "1420444",
+            "score": 0.00306
+        },
+        {
+            "name": "Rosa bracteata J.C.Wendl.",
+            "id": "1398421",
+            "score": 0.00263
+        },
+        {
+            "name": "Rosa sempervirens L.",
+            "id": "1360348",
+            "score": 0.00229
+        },
+        {
+            "name": "Rosa lucieae Franch. & Rochebr. ex Crép.",
+            "id": "1420447",
+            "score": 0.00165
+        },
+        {
+            "name": "Rosa gallica L.",
+            "id": "1360338",
+            "score": 0.00125
+        },
+        {
+            "name": "Rosa spinosissima L.",
+            "id": "1360350",
+            "score": 0.00118
+        }
+    ]
+}

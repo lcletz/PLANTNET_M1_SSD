@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Linum suffruticosum L.",
+            "id": "1359601",
+            "score": 0.92049
+        },
+        {
+            "name": "Linum tenuifolium L.",
+            "id": "1393610",
+            "score": 0.03399
+        },
+        {
+            "name": "Arabis alpina L.",
+            "id": "1363887",
+            "score": 0.00233
+        },
+        {
+            "name": "Gypsophila elegans M.Bieb.",
+            "id": "1392676",
+            "score": 0.00135
+        },
+        {
+            "name": "Linum narbonense L.",
+            "id": "1359596",
+            "score": 0.001
+        }
+    ]
+}

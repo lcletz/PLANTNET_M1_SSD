@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Matricaria discoidea DC.",
+            "id": "1357711",
+            "score": 0.95363
+        },
+        {
+            "name": "Matricaria occidentalis Greene",
+            "id": "1434578",
+            "score": 0.0078
+        },
+        {
+            "name": "Matricaria chamomilla L.",
+            "id": "1362332",
+            "score": 0.00223
+        },
+        {
+            "name": "Chamaemelum nobile (L.) All.",
+            "id": "1357465",
+            "score": 0.00204
+        },
+        {
+            "name": "Anacyclus clavatus (Desf.) Pers.",
+            "id": "1364151",
+            "score": 0.00168
+        },
+        {
+            "name": "Anthemis arvensis L.",
+            "id": "1364154",
+            "score": 0.00156
+        },
+        {
+            "name": "Anthemis cotula L.",
+            "id": "1364155",
+            "score": 0.0015
+        },
+        {
+            "name": "Anacyclus × valentinus L.",
+            "id": "1739035",
+            "score": 0.00142
+        }
+    ]
+}

@@ -1,0 +1,485 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.69194
+        },
+        {
+            "name": "Prunus brigantina Vill.",
+            "id": "1394945",
+            "score": 0.10188
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.04929
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.01945
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.01552
+        },
+        {
+            "name": "Solanum betaceum Cav.",
+            "id": "1407911",
+            "score": 0.01255
+        },
+        {
+            "name": "Rosa spinosissima L.",
+            "id": "1360350",
+            "score": 0.00911
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.00781
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.00771
+        },
+        {
+            "name": "Passiflora edulis Sims",
+            "id": "1356048",
+            "score": 0.00769
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.00648
+        },
+        {
+            "name": "Flacourtia jangomas (Lour.) Raeusch.",
+            "id": "1382989",
+            "score": 0.00619
+        },
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.00602
+        },
+        {
+            "name": "Prunus canescens Bois",
+            "id": "1667917",
+            "score": 0.00559
+        },
+        {
+            "name": "Liquidambar styraciflua L.",
+            "id": "1393613",
+            "score": 0.00517
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.00501
+        },
+        {
+            "name": "Prunus nigra Aiton",
+            "id": "1413350",
+            "score": 0.00399
+        },
+        {
+            "name": "Ribes uva-crispa L.",
+            "id": "1358684",
+            "score": 0.00381
+        },
+        {
+            "name": "Mimusops coriacea (A.DC.) Miq.",
+            "id": "1424021",
+            "score": 0.0033
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.00328
+        },
+        {
+            "name": "Gleditsia triacanthos L.",
+            "id": "1363687",
+            "score": 0.00315
+        },
+        {
+            "name": "Cormus domestica (L.) Spach",
+            "id": "1738846",
+            "score": 0.00297
+        },
+        {
+            "name": "Flacourtia indica (Burm.f.) Merr.",
+            "id": "1420551",
+            "score": 0.00292
+        },
+        {
+            "name": "Ziziphus jujuba Mill.",
+            "id": "1360271",
+            "score": 0.00282
+        },
+        {
+            "name": "Ziziphus mauritiana Lam.",
+            "id": "1363983",
+            "score": 0.00265
+        },
+        {
+            "name": "Plicosepalus acaciae (Zucc.) Wiens & Polhill",
+            "id": "1363147",
+            "score": 0.00261
+        },
+        {
+            "name": "Prunus persica (L.) Batsch",
+            "id": "1363997",
+            "score": 0.00255
+        },
+        {
+            "name": "Terminalia catappa L.",
+            "id": "1376792",
+            "score": 0.00254
+        },
+        {
+            "name": "Juniperus oxycedrus L.",
+            "id": "1393365",
+            "score": 0.0022
+        },
+        {
+            "name": "Prunus japonica Thunb.",
+            "id": "1394940",
+            "score": 0.00213
+        },
+        {
+            "name": "Capparis spinosa L.",
+            "id": "1356320",
+            "score": 0.00212
+        },
+        {
+            "name": "Prunus serrulata Lindl.",
+            "id": "1394953",
+            "score": 0.00208
+        },
+        {
+            "name": "Spondias purpurea L.",
+            "id": "1385598",
+            "score": 0.00198
+        },
+        {
+            "name": "Citrullus lanatus (Thunb.) Matsum. & Nakai",
+            "id": "1363148",
+            "score": 0.00189
+        },
+        {
+            "name": "Teucrium musimonum Humbert ex Maire",
+            "id": "1564371",
+            "score": 0.00182
+        },
+        {
+            "name": "Mangifera indica L.",
+            "id": "1384600",
+            "score": 0.0018
+        },
+        {
+            "name": "Diospyros virginiana L.",
+            "id": "1389362",
+            "score": 0.00175
+        },
+        {
+            "name": "Prunus americana Marshall",
+            "id": "1413346",
+            "score": 0.00168
+        },
+        {
+            "name": "Gymnocladus dioicus (L.) K.Koch",
+            "id": "1745442",
+            "score": 0.00162
+        },
+        {
+            "name": "Prunus insititia L.",
+            "id": "1360321",
+            "score": 0.00161
+        },
+        {
+            "name": "Malus × floribunda Siebold ex Van Houtte",
+            "id": "1782760",
+            "score": 0.0016
+        },
+        {
+            "name": "Prunus umbellata Elliott",
+            "id": "1436948",
+            "score": 0.00159
+        },
+        {
+            "name": "Aronia melanocarpa (Michx.) Elliott",
+            "id": "1398450",
+            "score": 0.00154
+        },
+        {
+            "name": "Quercus lusitanica Lam.",
+            "id": "1358615",
+            "score": 0.00146
+        },
+        {
+            "name": "Passiflora adenopoda DC.",
+            "id": "1639938",
+            "score": 0.00145
+        },
+        {
+            "name": "Prunus × fruticans Weihe",
+            "id": "1667948",
+            "score": 0.00144
+        },
+        {
+            "name": "Sleumerodendron austrocaledonicum (Brongn. & Gris) Virot",
+            "id": "1414540",
+            "score": 0.00143
+        },
+        {
+            "name": "Adenia volkensii Harms",
+            "id": "1376575",
+            "score": 0.00138
+        },
+        {
+            "name": "Carya glabra (Mill.) Sweet",
+            "id": "1411341",
+            "score": 0.00136
+        },
+        {
+            "name": "Vaccinium macrocarpon Aiton",
+            "id": "1398547",
+            "score": 0.00134
+        },
+        {
+            "name": "Quercus cerris L.",
+            "id": "1395020",
+            "score": 0.00124
+        },
+        {
+            "name": "Spondias dulcis Parkinson",
+            "id": "1407118",
+            "score": 0.00123
+        },
+        {
+            "name": "Celtis australis L.",
+            "id": "1361742",
+            "score": 0.00119
+        },
+        {
+            "name": "Quercus robur L.",
+            "id": "1357413",
+            "score": 0.00112
+        },
+        {
+            "name": "Harpephyllum caffrum Bernh.",
+            "id": "1385232",
+            "score": 0.0011
+        },
+        {
+            "name": "Cascabela thevetia (L.) Lippold",
+            "id": "1369909",
+            "score": 0.00107
+        },
+        {
+            "name": "Quercus rubra L.",
+            "id": "1395035",
+            "score": 0.00105
+        },
+        {
+            "name": "Malus hupehensis (Pamp.) Rehder",
+            "id": "1393732",
+            "score": 0.00104
+        },
+        {
+            "name": "Anisophyllea quangensis Engl. ex Henriq.",
+            "id": "1377037",
+            "score": 0.00101
+        },
+        {
+            "name": "Vangueria madagascariensis J.F.Gmel.",
+            "id": "1408810",
+            "score": 0.00099
+        },
+        {
+            "name": "Carissa carandas L.",
+            "id": "1407786",
+            "score": 0.00097
+        },
+        {
+            "name": "Cerbera manghas L.",
+            "id": "1414808",
+            "score": 0.00089
+        },
+        {
+            "name": "Camellia japonica L.",
+            "id": "1379149",
+            "score": 0.00087
+        },
+        {
+            "name": "Biarum aleppicum J.Thiébaut",
+            "id": "1465434",
+            "score": 0.00084
+        },
+        {
+            "name": "Syzygium cumini (L.) Skeels",
+            "id": "1382778",
+            "score": 0.00083
+        },
+        {
+            "name": "Passiflora foetida L.",
+            "id": "1376583",
+            "score": 0.00083
+        },
+        {
+            "name": "Quercus coccinea Münchh.",
+            "id": "1397716",
+            "score": 0.00081
+        },
+        {
+            "name": "Vitis rotundifolia Michx.",
+            "id": "1397212",
+            "score": 0.00077
+        },
+        {
+            "name": "Citrullus colocynthis (L.) Schrad.",
+            "id": "1363149",
+            "score": 0.00077
+        },
+        {
+            "name": "Dovyalis hebecarpa (Gardner) Warb.",
+            "id": "1361921",
+            "score": 0.00077
+        },
+        {
+            "name": "Davidia involucrata Baill.",
+            "id": "1419609",
+            "score": 0.00076
+        },
+        {
+            "name": "Vaccinium oxycoccos L.",
+            "id": "1396969",
+            "score": 0.00075
+        },
+        {
+            "name": "Grevillea robusta A.Cunn. ex R.Br.",
+            "id": "1394929",
+            "score": 0.00075
+        },
+        {
+            "name": "Quercus canariensis Willd.",
+            "id": "1358612",
+            "score": 0.00074
+        },
+        {
+            "name": "Crocus flavus Weston",
+            "id": "1391469",
+            "score": 0.00073
+        },
+        {
+            "name": "Prunus ilicifolia (Nutt. ex Hook. & Arn.) D.Dietr.",
+            "id": "1420413",
+            "score": 0.00072
+        },
+        {
+            "name": "Fuchsia magellanica Lam.",
+            "id": "1392372",
+            "score": 0.00069
+        },
+        {
+            "name": "Taxodium distichum (L.) Rich.",
+            "id": "1396709",
+            "score": 0.00068
+        },
+        {
+            "name": "Passiflora caerulea L.",
+            "id": "1356052",
+            "score": 0.00068
+        },
+        {
+            "name": "Passiflora rubra L.",
+            "id": "1403888",
+            "score": 0.00066
+        },
+        {
+            "name": "Punica granatum L.",
+            "id": "1359616",
+            "score": 0.00064
+        },
+        {
+            "name": "Akebia quinata (Thunb. ex Houtt.) Decne.",
+            "id": "1721066",
+            "score": 0.00063
+        },
+        {
+            "name": "Solanum melongena L.",
+            "id": "1356172",
+            "score": 0.00062
+        },
+        {
+            "name": "Allium cepa L.",
+            "id": "1358140",
+            "score": 0.00061
+        },
+        {
+            "name": "Carissa macrocarpa (Eckl.) A.DC.",
+            "id": "1407787",
+            "score": 0.0006
+        },
+        {
+            "name": "Eriolobus trilobatus (Labill. ex Poir.) M.Roem.",
+            "id": "1424940",
+            "score": 0.00059
+        },
+        {
+            "name": "Mimusops elengi L.",
+            "id": "1373038",
+            "score": 0.00059
+        },
+        {
+            "name": "Erythronium dens-canis L.",
+            "id": "1392129",
+            "score": 0.00058
+        },
+        {
+            "name": "Afrocarpus falcatus (Thunb.) C.N.Page",
+            "id": "1420114",
+            "score": 0.00058
+        },
+        {
+            "name": "Paeonia tenuifolia L.",
+            "id": "1419822",
+            "score": 0.00055
+        },
+        {
+            "name": "Opuntia engelmannii Salm-Dyck ex Engelm.",
+            "id": "1400063",
+            "score": 0.00055
+        },
+        {
+            "name": "Passiflora incarnata L.",
+            "id": "1429824",
+            "score": 0.00053
+        },
+        {
+            "name": "Rheum rhabarbarum L.",
+            "id": "1413454",
+            "score": 0.00052
+        },
+        {
+            "name": "Aesculus californica (Spach) Nutt.",
+            "id": "1440633",
+            "score": 0.00051
+        },
+        {
+            "name": "Canavalia nitida (Cav.) Piper",
+            "id": "1574367",
+            "score": 0.0005
+        },
+        {
+            "name": "Grevillea endlicheriana Meisn.",
+            "id": "1662019",
+            "score": 0.00049
+        }
+    ]
+}

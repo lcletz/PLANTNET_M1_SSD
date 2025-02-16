@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Liquidambar styraciflua L.",
+            "id": "1393613",
+            "score": 0.82563
+        },
+        {
+            "name": "Liquidambar orientalis Mill.",
+            "id": "1390587",
+            "score": 0.16731
+        },
+        {
+            "name": "Liquidambar formosana Hance",
+            "id": "1390586",
+            "score": 0.04796
+        },
+        {
+            "name": "Acer truncatum Bunge",
+            "id": "1420605",
+            "score": 0.00384
+        },
+        {
+            "name": "Acer palmatum Thunb.",
+            "id": "1390731",
+            "score": 0.00174
+        },
+        {
+            "name": "Kalopanax septemlobus (Thunb.) Koidz.",
+            "id": "1421060",
+            "score": 0.00166
+        },
+        {
+            "name": "Acer buergerianum Miq.",
+            "id": "1390598",
+            "score": 0.00122
+        }
+    ]
+}

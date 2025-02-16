@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Allium schoenoprasum L.",
+            "id": "1392774",
+            "score": 0.89594
+        },
+        {
+            "name": "Allium lusitanicum Lam.",
+            "id": "1392657",
+            "score": 0.02467
+        },
+        {
+            "name": "Allium acutiflorum Loisel.",
+            "id": "1392483",
+            "score": 0.0098
+        },
+        {
+            "name": "Allium flavum L.",
+            "id": "1362404",
+            "score": 0.00319
+        },
+        {
+            "name": "Allium vineale L.",
+            "id": "1360945",
+            "score": 0.00283
+        },
+        {
+            "name": "Allium lineare L.",
+            "id": "1392651",
+            "score": 0.0027
+        },
+        {
+            "name": "Jasione montana L.",
+            "id": "1356766",
+            "score": 0.00135
+        },
+        {
+            "name": "Allium roseum L.",
+            "id": "1360931",
+            "score": 0.00127
+        }
+    ]
+}

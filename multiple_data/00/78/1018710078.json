@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Arundo donax L.",
+            "id": "1363442",
+            "score": 0.6609
+        },
+        {
+            "name": "Festuca halleri All.",
+            "id": "1392305",
+            "score": 0.03317
+        },
+        {
+            "name": "Phragmites australis (Cav.) Trin. ex Steud.",
+            "id": "1356268",
+            "score": 0.02018
+        },
+        {
+            "name": "Phalaris arundinacea L.",
+            "id": "1363490",
+            "score": 0.00683
+        },
+        {
+            "name": "Saccharum officinarum L.",
+            "id": "1363506",
+            "score": 0.00236
+        },
+        {
+            "name": "Phyllostachys aurea (André) Rivière & C.Rivière",
+            "id": "1723194",
+            "score": 0.00187
+        },
+        {
+            "name": "Sorghum halepense (L.) Pers.",
+            "id": "1363508",
+            "score": 0.00153
+        }
+    ]
+}

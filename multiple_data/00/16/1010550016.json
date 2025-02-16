@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Betula pendula Roth",
+            "id": "1356609",
+            "score": 0.78774
+        },
+        {
+            "name": "Betula pubescens Ehrh.",
+            "id": "1362746",
+            "score": 0.18485
+        },
+        {
+            "name": "Betula papyrifera Marshall",
+            "id": "1398459",
+            "score": 0.0044
+        },
+        {
+            "name": "Betula populifolia Marshall",
+            "id": "1414289",
+            "score": 0.00296
+        },
+        {
+            "name": "Betula nigra L.",
+            "id": "1390590",
+            "score": 0.00146
+        },
+        {
+            "name": "Betula occidentalis Hook.",
+            "id": "1414288",
+            "score": 0.00135
+        }
+    ]
+}

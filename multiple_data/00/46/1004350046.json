@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ilex aquifolium L.",
+            "id": "1356576",
+            "score": 0.9499
+        },
+        {
+            "name": "Osmanthus heterophyllus (G.Don) P.S.Green",
+            "id": "1398602",
+            "score": 0.02362
+        },
+        {
+            "name": "Ilex opaca Aiton",
+            "id": "1420705",
+            "score": 0.00217
+        },
+        {
+            "name": "Ilex cornuta Lindl. & Paxton",
+            "id": "1420652",
+            "score": 0.00204
+        },
+        {
+            "name": "Maytenus ilicifolia Mart. ex Reissek",
+            "id": "1494482",
+            "score": 0.00144
+        },
+        {
+            "name": "Quercus coccifera L.",
+            "id": "1358613",
+            "score": 0.00126
+        }
+    ]
+}

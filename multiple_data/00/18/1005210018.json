@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Malus domestica Borkh.",
+            "id": "1393737",
+            "score": 0.53416
+        },
+        {
+            "name": "Malus pumila Mill.",
+            "id": "1362849",
+            "score": 0.30655
+        },
+        {
+            "name": "Malus sylvestris (L.) Mill.",
+            "id": "1420379",
+            "score": 0.01769
+        },
+        {
+            "name": "Prunus persica (L.) Batsch",
+            "id": "1363997",
+            "score": 0.00443
+        },
+        {
+            "name": "Sorbus domestica L.",
+            "id": "1360365",
+            "score": 0.00283
+        },
+        {
+            "name": "Syzygium malaccense (L.) Merr. & L.M.Perry",
+            "id": "1405945",
+            "score": 0.00197
+        },
+        {
+            "name": "Ficus racemosa L.",
+            "id": "1419511",
+            "score": 0.00178
+        },
+        {
+            "name": "Chaenomeles japonica (Thunb.) Lindl. ex Spach",
+            "id": "1391103",
+            "score": 0.00147
+        },
+        {
+            "name": "Ziziphus jujuba Mill.",
+            "id": "1360271",
+            "score": 0.00139
+        }
+    ]
+}

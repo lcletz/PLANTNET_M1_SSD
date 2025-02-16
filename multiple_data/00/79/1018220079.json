@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium alpestre L.",
+            "id": "1396842",
+            "score": 0.86357
+        },
+        {
+            "name": "Trifolium medium L.",
+            "id": "1397514",
+            "score": 0.06132
+        },
+        {
+            "name": "Trifolium rubens L.",
+            "id": "1361850",
+            "score": 0.00943
+        },
+        {
+            "name": "Trifolium pratense L.",
+            "id": "1359517",
+            "score": 0.00731
+        },
+        {
+            "name": "Scabiosa lucida Vill.",
+            "id": "1397488",
+            "score": 0.00129
+        }
+    ]
+}

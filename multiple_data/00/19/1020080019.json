@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Nigella damascena L.",
+            "id": "1360185",
+            "score": 0.46046
+        },
+        {
+            "name": "Nigella arvensis L.",
+            "id": "1360184",
+            "score": 0.34834
+        },
+        {
+            "name": "Nigella sativa L.",
+            "id": "1363976",
+            "score": 0.03036
+        },
+        {
+            "name": "Nigella nigellastrum (L.) Willk.",
+            "id": "1393958",
+            "score": 0.0143
+        },
+        {
+            "name": "Nigella hispanica L.",
+            "id": "1393957",
+            "score": 0.00771
+        },
+        {
+            "name": "Stachys circinata L'Hér.",
+            "id": "1358935",
+            "score": 0.00247
+        },
+        {
+            "name": "Nigella papillosa G.López",
+            "id": "1360186",
+            "score": 0.00128
+        },
+        {
+            "name": "Scandix pecten-veneris L.",
+            "id": "1360793",
+            "score": 0.00116
+        }
+    ]
+}

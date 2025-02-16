@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Galeopsis segetum Neck.",
+            "id": "1392430",
+            "score": 0.8963
+        },
+        {
+            "name": "Galeopsis speciosa Mill.",
+            "id": "1392431",
+            "score": 0.0036
+        },
+        {
+            "name": "Galeopsis tetrahit L.",
+            "id": "1392433",
+            "score": 0.00318
+        },
+        {
+            "name": "Galeopsis ladanum L.",
+            "id": "1362451",
+            "score": 0.00191
+        },
+        {
+            "name": "Galeopsis angustifolia Ehrh. ex Hoffm.",
+            "id": "1358745",
+            "score": 0.00155
+        }
+    ]
+}

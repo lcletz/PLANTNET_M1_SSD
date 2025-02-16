@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Armeria maritima (Mill.) Willd.",
+            "id": "1413349",
+            "score": 0.86372
+        },
+        {
+            "name": "Armeria alpina (DC.) Willd.",
+            "id": "1647128",
+            "score": 0.0471
+        },
+        {
+            "name": "Armeria euscadiensis Donad. & Vivant",
+            "id": "1396347",
+            "score": 0.00318
+        },
+        {
+            "name": "Armeria girardii (Bernis) Litard.",
+            "id": "1396355",
+            "score": 0.00236
+        },
+        {
+            "name": "Armeria pungens (Brot.) Hoffmanns. & Link",
+            "id": "1743393",
+            "score": 0.00188
+        },
+        {
+            "name": "Armeria pubinervis Boiss.",
+            "id": "1396439",
+            "score": 0.00159
+        },
+        {
+            "name": "Armeria ruscinonensis Girard",
+            "id": "1396441",
+            "score": 0.0011
+        }
+    ]
+}

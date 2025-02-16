@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ricinus communis L.",
+            "id": "1358609",
+            "score": 0.86278
+        },
+        {
+            "name": "Abelmoschus esculentus (L.) Moench",
+            "id": "1361854",
+            "score": 0.01858
+        },
+        {
+            "name": "Abelmoschus manihot (L.) Medik.",
+            "id": "1408264",
+            "score": 0.01275
+        },
+        {
+            "name": "Rheum palmatum L.",
+            "id": "1398842",
+            "score": 0.00254
+        },
+        {
+            "name": "Hibiscus sabdariffa L.",
+            "id": "1363940",
+            "score": 0.00116
+        },
+        {
+            "name": "Hibiscus moscheutos L.",
+            "id": "1412258",
+            "score": 0.00107
+        }
+    ]
+}

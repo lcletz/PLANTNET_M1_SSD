@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Leucojum vernum L.",
+            "id": "1393517",
+            "score": 0.58905
+        },
+        {
+            "name": "Leucojum aestivum L.",
+            "id": "1393515",
+            "score": 0.06961
+        },
+        {
+            "name": "Galanthus plicatus M.Bieb.",
+            "id": "1392416",
+            "score": 0.01533
+        },
+        {
+            "name": "Galanthus nivalis L.",
+            "id": "1397391",
+            "score": 0.01062
+        },
+        {
+            "name": "Galanthus woronowii Losinsk.",
+            "id": "1418983",
+            "score": 0.00687
+        },
+        {
+            "name": "Galanthus elwesii Hook.f.",
+            "id": "1392415",
+            "score": 0.00297
+        },
+        {
+            "name": "Galanthus fosteri Baker",
+            "id": "1453077",
+            "score": 0.0011
+        }
+    ]
+}

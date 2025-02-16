@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Plantago major L.",
+            "id": "1356067",
+            "score": 0.88364
+        },
+        {
+            "name": "Plantago rugelii Decne.",
+            "id": "1413112",
+            "score": 0.06521
+        },
+        {
+            "name": "Alisma plantago-aquatica L.",
+            "id": "1357998",
+            "score": 0.0036
+        },
+        {
+            "name": "Plantago media L.",
+            "id": "1394636",
+            "score": 0.00337
+        },
+        {
+            "name": "Rumex acetosa L.",
+            "id": "1360120",
+            "score": 0.00113
+        }
+    ]
+}

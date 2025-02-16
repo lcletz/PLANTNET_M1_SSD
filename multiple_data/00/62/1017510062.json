@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cornus sanguinea L.",
+            "id": "1397356",
+            "score": 0.82135
+        },
+        {
+            "name": "Cornus sericea L.",
+            "id": "1397902",
+            "score": 0.0388
+        },
+        {
+            "name": "Cornus alba L.",
+            "id": "1397617",
+            "score": 0.03221
+        },
+        {
+            "name": "Cornus amomum Mill.",
+            "id": "1418488",
+            "score": 0.01596
+        },
+        {
+            "name": "Cornus quinquenervis Franch.",
+            "id": "1772793",
+            "score": 0.0014
+        },
+        {
+            "name": "Cornus alternifolia L.f.",
+            "id": "1406479",
+            "score": 0.00138
+        },
+        {
+            "name": "Cornus racemosa Lam.",
+            "id": "1411549",
+            "score": 0.00123
+        },
+        {
+            "name": "Cornus rugosa Lam.",
+            "id": "1411550",
+            "score": 0.00106
+        }
+    ]
+}

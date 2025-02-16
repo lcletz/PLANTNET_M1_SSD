@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Campanula glomerata L.",
+            "id": "1390663",
+            "score": 0.95244
+        },
+        {
+            "name": "Campanula latifolia L.",
+            "id": "1390665",
+            "score": 0.00283
+        },
+        {
+            "name": "Campanula cervicaria L.",
+            "id": "1390658",
+            "score": 0.00265
+        },
+        {
+            "name": "Campanula rapunculoides L.",
+            "id": "1383635",
+            "score": 0.00213
+        },
+        {
+            "name": "Campanula trachelium L.",
+            "id": "1356757",
+            "score": 0.00193
+        },
+        {
+            "name": "Campanula spicata L.",
+            "id": "1390675",
+            "score": 0.00175
+        },
+        {
+            "name": "Campanula poscharskyana Degen",
+            "id": "1390649",
+            "score": 0.00129
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Geum sylvaticum Pourr.",
+            "id": "1360299",
+            "score": 0.66949
+        },
+        {
+            "name": "Geum urbanum L.",
+            "id": "1360300",
+            "score": 0.02045
+        },
+        {
+            "name": "Geum rivale L.",
+            "id": "1392614",
+            "score": 0.00193
+        },
+        {
+            "name": "Erodium malacoides (L.) L'Hér.",
+            "id": "1358654",
+            "score": 0.0014
+        },
+        {
+            "name": "Geum heterocarpum Boiss.",
+            "id": "1360298",
+            "score": 0.00127
+        }
+    ]
+}

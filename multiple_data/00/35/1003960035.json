@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Eschscholzia californica Cham.",
+            "id": "1363125",
+            "score": 0.87143
+        },
+        {
+            "name": "Eschscholzia caespitosa Benth.",
+            "id": "1443494",
+            "score": 0.05317
+        },
+        {
+            "name": "Papaver atlanticum (Ball) Coss.",
+            "id": "1359815",
+            "score": 0.00241
+        },
+        {
+            "name": "Eschscholzia glyptosperma Greene",
+            "id": "1443495",
+            "score": 0.00205
+        },
+        {
+            "name": "Hunnemannia fumariifolia Sweet",
+            "id": "1359806",
+            "score": 0.00161
+        },
+        {
+            "name": "Glaucium flavum Crantz",
+            "id": "1359804",
+            "score": 0.00131
+        }
+    ]
+}

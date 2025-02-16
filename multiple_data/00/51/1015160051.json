@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Humulus lupulus L.",
+            "id": "1356781",
+            "score": 0.7226
+        },
+        {
+            "name": "Vitis vinifera L.",
+            "id": "1356217",
+            "score": 0.00858
+        },
+        {
+            "name": "Humulus scandens (Lour.) Merr.",
+            "id": "1418380",
+            "score": 0.00479
+        },
+        {
+            "name": "Vitis vulpina L.",
+            "id": "1397214",
+            "score": 0.00139
+        },
+        {
+            "name": "Holodiscus discolor (Pursh) Maxim.",
+            "id": "1395391",
+            "score": 0.00133
+        },
+        {
+            "name": "Hydrangea arborescens L.",
+            "id": "1393222",
+            "score": 0.00122
+        },
+        {
+            "name": "Cuscuta europaea L.",
+            "id": "1358004",
+            "score": 0.00118
+        }
+    ]
+}

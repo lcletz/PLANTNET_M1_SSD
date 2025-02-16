@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cornus sanguinea L.",
+            "id": "1397356",
+            "score": 0.88174
+        },
+        {
+            "name": "Cornus mas L.",
+            "id": "1391354",
+            "score": 0.01203
+        },
+        {
+            "name": "Cornus sericea L.",
+            "id": "1397902",
+            "score": 0.0045
+        },
+        {
+            "name": "Cornus rugosa Lam.",
+            "id": "1411550",
+            "score": 0.00319
+        },
+        {
+            "name": "Paeonia officinalis L.",
+            "id": "1362842",
+            "score": 0.00312
+        },
+        {
+            "name": "Cornus canadensis L.",
+            "id": "1411545",
+            "score": 0.00271
+        },
+        {
+            "name": "Cornus amomum Mill.",
+            "id": "1418488",
+            "score": 0.00131
+        },
+        {
+            "name": "Cornus florida L.",
+            "id": "1397618",
+            "score": 0.00107
+        }
+    ]
+}

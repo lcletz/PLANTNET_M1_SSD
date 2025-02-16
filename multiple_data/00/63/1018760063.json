@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Impatiens glandulifera Royle",
+            "id": "1393275",
+            "score": 0.71281
+        },
+        {
+            "name": "Impatiens parviflora DC.",
+            "id": "1393277",
+            "score": 0.09537
+        },
+        {
+            "name": "Impatiens balsamina L.",
+            "id": "1363815",
+            "score": 0.01517
+        },
+        {
+            "name": "Amaranthus hybridus L.",
+            "id": "1356475",
+            "score": 0.00453
+        },
+        {
+            "name": "Impatiens balfourii Hook.f.",
+            "id": "1473493",
+            "score": 0.0039
+        },
+        {
+            "name": "Hydrangea macrophylla (Thunb.) Ser.",
+            "id": "1361819",
+            "score": 0.00152
+        },
+        {
+            "name": "Amaranthus cruentus L.",
+            "id": "1363249",
+            "score": 0.00107
+        }
+    ]
+}

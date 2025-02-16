@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stachys sylvatica L.",
+            "id": "1358950",
+            "score": 0.89362
+        },
+        {
+            "name": "Stachys chamissonis Benth.",
+            "id": "1413911",
+            "score": 0.01193
+        },
+        {
+            "name": "Stachys alpina L.",
+            "id": "1397502",
+            "score": 0.01041
+        },
+        {
+            "name": "Stachys mexicana Benth.",
+            "id": "1413912",
+            "score": 0.00256
+        },
+        {
+            "name": "Salvia involucrata Cav.",
+            "id": "1377390",
+            "score": 0.00172
+        },
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.00148
+        },
+        {
+            "name": "Lamium orvala L.",
+            "id": "1399231",
+            "score": 0.00137
+        }
+    ]
+}

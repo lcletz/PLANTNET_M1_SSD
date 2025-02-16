@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bellis annua L.",
+            "id": "1357314",
+            "score": 0.94388
+        },
+        {
+            "name": "Bellis perennis L.",
+            "id": "1357317",
+            "score": 0.06352
+        },
+        {
+            "name": "Bellis sylvestris Cirillo",
+            "id": "1357320",
+            "score": 0.01041
+        },
+        {
+            "name": "Leucanthemum ircutianum DC.",
+            "id": "1393506",
+            "score": 0.00259
+        },
+        {
+            "name": "Anthemis arvensis L.",
+            "id": "1364154",
+            "score": 0.00108
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.88064
+        },
+        {
+            "name": "Fagus orientalis Lipsky",
+            "id": "1547791",
+            "score": 0.02411
+        },
+        {
+            "name": "Corylus maxima Mill.",
+            "id": "1391369",
+            "score": 0.00931
+        },
+        {
+            "name": "Acalypha wilkesiana Müll.Arg.",
+            "id": "1405685",
+            "score": 0.00379
+        },
+        {
+            "name": "Fagus lucida Rehder & E.H.Wilson",
+            "id": "1547790",
+            "score": 0.00367
+        }
+    ]
+}

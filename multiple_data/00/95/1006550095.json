@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Myosotis arvensis Hill",
+            "id": "1393880",
+            "score": 0.38228
+        },
+        {
+            "name": "Myosotis ramosissima Rochel",
+            "id": "1356709",
+            "score": 0.15288
+        },
+        {
+            "name": "Myosotis discolor Pers.",
+            "id": "1363859",
+            "score": 0.01833
+        },
+        {
+            "name": "Cynoglossum creticum Mill.",
+            "id": "1356634",
+            "score": 0.00224
+        },
+        {
+            "name": "Cynoglossum officinale L.",
+            "id": "1391501",
+            "score": 0.00141
+        },
+        {
+            "name": "Myosotis laxa Lehm.",
+            "id": "1356706",
+            "score": 0.00123
+        },
+        {
+            "name": "Myosotis pusilla Loisel.",
+            "id": "1356708",
+            "score": 0.00101
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Potentilla recta L.",
+            "id": "1360313",
+            "score": 0.96074
+        },
+        {
+            "name": "Potentilla gracilis Douglas ex Hook.",
+            "id": "1413302",
+            "score": 0.00535
+        },
+        {
+            "name": "Potentilla hirta L.",
+            "id": "1362360",
+            "score": 0.00335
+        },
+        {
+            "name": "Drymocallis arguta (Pursh) Rydb.",
+            "id": "1815305",
+            "score": 0.00246
+        },
+        {
+            "name": "Potentilla simplex Michx.",
+            "id": "1413317",
+            "score": 0.00216
+        },
+        {
+            "name": "Potentilla intermedia L.",
+            "id": "1394857",
+            "score": 0.00206
+        },
+        {
+            "name": "Potentilla pedata Willd. ex Hornem.",
+            "id": "1399781",
+            "score": 0.0014
+        }
+    ]
+}

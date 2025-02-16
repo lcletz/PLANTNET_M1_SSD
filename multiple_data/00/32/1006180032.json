@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Plantago lanceolata L.",
+            "id": "1356066",
+            "score": 0.7999
+        },
+        {
+            "name": "Plantago argentea Chaix",
+            "id": "1394627",
+            "score": 0.10813
+        },
+        {
+            "name": "Plantago ovata Forssk.",
+            "id": "1356072",
+            "score": 0.03538
+        },
+        {
+            "name": "Plantago media L.",
+            "id": "1394636",
+            "score": 0.01083
+        },
+        {
+            "name": "Plantago lagopus L.",
+            "id": "1359959",
+            "score": 0.00555
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Gaillardia aristata Pursh",
+            "id": "1392412",
+            "score": 0.65196
+        },
+        {
+            "name": "Gaillardia pulchella Foug.",
+            "id": "1364122",
+            "score": 0.22229
+        },
+        {
+            "name": "Gaillardia × grandiflora Van Houtte",
+            "id": "1844242",
+            "score": 0.07803
+        },
+        {
+            "name": "Gaillardia pinnatifida Torr.",
+            "id": "1443818",
+            "score": 0.00174
+        },
+        {
+            "name": "Coreopsis grandiflora Hogg ex Sweet",
+            "id": "1391349",
+            "score": 0.00115
+        }
+    ]
+}

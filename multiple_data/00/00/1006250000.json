@@ -1,0 +1,70 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lycopersicon esculentum Mill.",
+            "id": "1356179",
+            "score": 0.50053
+        },
+        {
+            "name": "Amaranthus blitum L.",
+            "id": "1356472",
+            "score": 0.01535
+        },
+        {
+            "name": "Spinacia oleracea L.",
+            "id": "1356556",
+            "score": 0.00853
+        },
+        {
+            "name": "Eruca vesicaria (L.) Cav.",
+            "id": "1356328",
+            "score": 0.00696
+        },
+        {
+            "name": "Helianthus annuus L.",
+            "id": "1364145",
+            "score": 0.0052
+        },
+        {
+            "name": "Capsicum annuum L.",
+            "id": "1361992",
+            "score": 0.00414
+        },
+        {
+            "name": "Solanum melongena L.",
+            "id": "1356172",
+            "score": 0.00365
+        },
+        {
+            "name": "Cannabis sativa L.",
+            "id": "1356780",
+            "score": 0.00242
+        },
+        {
+            "name": "Amaranthus tricolor L.",
+            "id": "1363257",
+            "score": 0.0024
+        },
+        {
+            "name": "Cosmos sulphureus Cav.",
+            "id": "1373705",
+            "score": 0.00237
+        },
+        {
+            "name": "Cleome monophylla L.",
+            "id": "1424431",
+            "score": 0.00156
+        },
+        {
+            "name": "Solanum americanum Mill.",
+            "id": "1360564",
+            "score": 0.00131
+        },
+        {
+            "name": "Tagetes erecta L.",
+            "id": "1374048",
+            "score": 0.00103
+        }
+    ]
+}

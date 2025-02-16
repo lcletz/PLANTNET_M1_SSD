@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ambrosia artemisiifolia L.",
+            "id": "1355901",
+            "score": 0.90843
+        },
+        {
+            "name": "Ambrosia psilostachya DC.",
+            "id": "1355902",
+            "score": 0.01222
+        },
+        {
+            "name": "Ambrosia tenuifolia Spreng.",
+            "id": "1393742",
+            "score": 0.01217
+        },
+        {
+            "name": "Artemisia annua L.",
+            "id": "1382106",
+            "score": 0.00515
+        },
+        {
+            "name": "Parthenium hysterophorus L.",
+            "id": "1374228",
+            "score": 0.0031
+        },
+        {
+            "name": "Rorippa sylvestris (L.) Besser",
+            "id": "1358416",
+            "score": 0.00123
+        },
+        {
+            "name": "Ambrosia maritima L.",
+            "id": "1355903",
+            "score": 0.00107
+        },
+        {
+            "name": "Scabiosa columbaria L.",
+            "id": "1361926",
+            "score": 0.00106
+        }
+    ]
+}

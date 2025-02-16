@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Linaria repens (L.) Mill.",
+            "id": "1393595",
+            "score": 0.93038
+        },
+        {
+            "name": "Linaria × sepium G.J.Allman",
+            "id": "1646267",
+            "score": 0.01609
+        },
+        {
+            "name": "Linaria purpurea (L.) Mill.",
+            "id": "1362464",
+            "score": 0.0042
+        },
+        {
+            "name": "Linaria pedunculata (L.) Chaz.",
+            "id": "1359917",
+            "score": 0.00405
+        },
+        {
+            "name": "Linaria arvensis (L.) Desf.",
+            "id": "1359897",
+            "score": 0.00397
+        },
+        {
+            "name": "Linaria amethystea (Vent.) Hoffmanns. & Link",
+            "id": "1359895",
+            "score": 0.00125
+        }
+    ]
+}

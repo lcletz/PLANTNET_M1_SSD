@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ribes nigrum L.",
+            "id": "1395200",
+            "score": 0.41881
+        },
+        {
+            "name": "Ribes rubrum L.",
+            "id": "1397543",
+            "score": 0.3535
+        },
+        {
+            "name": "Ribes sanguineum Pursh",
+            "id": "1395204",
+            "score": 0.03924
+        },
+        {
+            "name": "Ribes magellanicum Poir.",
+            "id": "1554170",
+            "score": 0.01484
+        },
+        {
+            "name": "Ribes americanum Mill.",
+            "id": "1413471",
+            "score": 0.00544
+        },
+        {
+            "name": "Physocarpus capitatus (Pursh) Kuntze",
+            "id": "1413071",
+            "score": 0.0045
+        },
+        {
+            "name": "Rubus deliciosus Torr.",
+            "id": "1420456",
+            "score": 0.00431
+        },
+        {
+            "name": "Ribes petraeum Wulfen",
+            "id": "1358683",
+            "score": 0.00423
+        },
+        {
+            "name": "Physocarpus opulifolius (L.) Maxim.",
+            "id": "1413073",
+            "score": 0.0041
+        },
+        {
+            "name": "Physocarpus malvaceus (Greene) Kuntze",
+            "id": "1413072",
+            "score": 0.00386
+        },
+        {
+            "name": "Ribes spicatum E.Robson",
+            "id": "1737480",
+            "score": 0.00251
+        },
+        {
+            "name": "Ribes nevadense Kellogg",
+            "id": "1437374",
+            "score": 0.00205
+        },
+        {
+            "name": "Rubus moluccanus L.",
+            "id": "1416413",
+            "score": 0.00173
+        },
+        {
+            "name": "Ribes triste Pall.",
+            "id": "1413489",
+            "score": 0.00116
+        },
+        {
+            "name": "Ribes hudsonianum Richardson",
+            "id": "1413480",
+            "score": 0.00112
+        }
+    ]
+}

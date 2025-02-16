@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagus orientalis Lipsky",
+            "id": "1547791",
+            "score": 0.74517
+        },
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.1807
+        },
+        {
+            "name": "Fagus grandifolia Ehrh.",
+            "id": "1412056",
+            "score": 0.00176
+        },
+        {
+            "name": "Castanopsis fargesii Franch.",
+            "id": "1547709",
+            "score": 0.00132
+        },
+        {
+            "name": "Nothofagus moorei (F.Muell.) Krasser",
+            "id": "1608033",
+            "score": 0.00101
+        }
+    ]
+}

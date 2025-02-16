@@ -1,0 +1,70 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hordeum murinum L.",
+            "id": "1361307",
+            "score": 0.4206
+        },
+        {
+            "name": "Hordeum jubatum L.",
+            "id": "1397404",
+            "score": 0.21438
+        },
+        {
+            "name": "Hordeum marinum Huds.",
+            "id": "1361306",
+            "score": 0.19242
+        },
+        {
+            "name": "Bromus madritensis L.",
+            "id": "1422217",
+            "score": 0.01594
+        },
+        {
+            "name": "Taeniatherum caput-medusae (L.) Nevski",
+            "id": "1361437",
+            "score": 0.01015
+        },
+        {
+            "name": "Crithopsis delileana (Schult.) Roshev.",
+            "id": "1361216",
+            "score": 0.00475
+        },
+        {
+            "name": "Bromus rubens L.",
+            "id": "1422218",
+            "score": 0.00464
+        },
+        {
+            "name": "Hordeum comosum J.Presl",
+            "id": "1651900",
+            "score": 0.00215
+        },
+        {
+            "name": "Secale sylvestre Host",
+            "id": "1654958",
+            "score": 0.00185
+        },
+        {
+            "name": "Hordeum secalinum Schreb.",
+            "id": "1361308",
+            "score": 0.00151
+        },
+        {
+            "name": "Hordeum vulgare L.",
+            "id": "1363481",
+            "score": 0.00132
+        },
+        {
+            "name": "Hordeum pusillum Nutt.",
+            "id": "1393202",
+            "score": 0.00128
+        },
+        {
+            "name": "Elymus canadensis L.",
+            "id": "1398629",
+            "score": 0.00121
+        }
+    ]
+}

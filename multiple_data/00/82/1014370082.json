@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Galium odoratum (L.) Scop.",
+            "id": "1360404",
+            "score": 0.77863
+        },
+        {
+            "name": "Galium sylvaticum L.",
+            "id": "1392491",
+            "score": 0.1242
+        },
+        {
+            "name": "Galium triflorum Michx.",
+            "id": "1397684",
+            "score": 0.03363
+        },
+        {
+            "name": "Rubia peregrina L.",
+            "id": "1360433",
+            "score": 0.01018
+        },
+        {
+            "name": "Lilium michauxii Poir.",
+            "id": "1433914",
+            "score": 0.00106
+        }
+    ]
+}

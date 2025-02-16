@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Armoracia rusticana P.Gaertn., B.Mey. & Scherb.",
+            "id": "1396456",
+            "score": 0.32629
+        },
+        {
+            "name": "Brassica juncea (L.) Czern.",
+            "id": "1363904",
+            "score": 0.05412
+        },
+        {
+            "name": "Brassica rapa L.",
+            "id": "1363906",
+            "score": 0.05205
+        },
+        {
+            "name": "Brassica oleracea L.",
+            "id": "1363909",
+            "score": 0.04885
+        },
+        {
+            "name": "Brassica napus L.",
+            "id": "1363908",
+            "score": 0.03551
+        },
+        {
+            "name": "Brassica nigra (L.) K.Koch",
+            "id": "1424373",
+            "score": 0.00273
+        },
+        {
+            "name": "Rumex patientia L.",
+            "id": "1360135",
+            "score": 0.00152
+        },
+        {
+            "name": "Beta vulgaris L.",
+            "id": "1363199",
+            "score": 0.00138
+        }
+    ]
+}

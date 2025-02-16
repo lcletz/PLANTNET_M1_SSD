@@ -1,0 +1,475 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Holcus lanatus L.",
+            "id": "1363460",
+            "score": 0.19794
+        },
+        {
+            "name": "Gladiolus italicus Mill.",
+            "id": "1361535",
+            "score": 0.12094
+        },
+        {
+            "name": "Holcus mollis L.",
+            "id": "1361302",
+            "score": 0.05406
+        },
+        {
+            "name": "Acorus calamus L.",
+            "id": "1396585",
+            "score": 0.05364
+        },
+        {
+            "name": "Brachypodium sylvaticum (Huds.) P.Beauv.",
+            "id": "1389018",
+            "score": 0.03775
+        },
+        {
+            "name": "Allium sativum L.",
+            "id": "1358126",
+            "score": 0.02304
+        },
+        {
+            "name": "Bromus diandrus Roth",
+            "id": "1414353",
+            "score": 0.02163
+        },
+        {
+            "name": "Iris sibirica L.",
+            "id": "1393304",
+            "score": 0.01858
+        },
+        {
+            "name": "Koeleria pyramidata (Lam.) P.Beauv.",
+            "id": "1393407",
+            "score": 0.01724
+        },
+        {
+            "name": "Gladiolus communis L.",
+            "id": "1361533",
+            "score": 0.01639
+        },
+        {
+            "name": "Paspalum urvillei Steud.",
+            "id": "1363498",
+            "score": 0.01577
+        },
+        {
+            "name": "Arrhenatherum longifolium (Thore) Dulac",
+            "id": "1648093",
+            "score": 0.01186
+        },
+        {
+            "name": "Gladiolus candidus (Rendle) Goldblatt",
+            "id": "1383820",
+            "score": 0.0117
+        },
+        {
+            "name": "Alopecurus pratensis L.",
+            "id": "1362406",
+            "score": 0.01027
+        },
+        {
+            "name": "Hedera maderensis K.Koch ex A.Rutherf.",
+            "id": "1467320",
+            "score": 0.00861
+        },
+        {
+            "name": "Molinia caerulea (L.) Moench",
+            "id": "1363593",
+            "score": 0.00764
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.00747
+        },
+        {
+            "name": "Phragmites australis (Cav.) Trin. ex Steud.",
+            "id": "1356268",
+            "score": 0.00712
+        },
+        {
+            "name": "Iris pseudacorus L.",
+            "id": "1361543",
+            "score": 0.00701
+        },
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.0062
+        },
+        {
+            "name": "Phalaris angusta Nees ex Trin.",
+            "id": "1424107",
+            "score": 0.00605
+        },
+        {
+            "name": "Gladiolus imbricatus L.",
+            "id": "1392621",
+            "score": 0.00553
+        },
+        {
+            "name": "Milium effusum L.",
+            "id": "1393828",
+            "score": 0.00532
+        },
+        {
+            "name": "Bromus hordeaceus L.",
+            "id": "1356286",
+            "score": 0.00521
+        },
+        {
+            "name": "Amelichloa brachychaeta (Godr.) Arriaga & Barkworth",
+            "id": "1804787",
+            "score": 0.00435
+        },
+        {
+            "name": "Elymus pungens (Pers.) Melderis",
+            "id": "1650353",
+            "score": 0.00399
+        },
+        {
+            "name": "Urochloa eminii (Mez) Davidse",
+            "id": "1718568",
+            "score": 0.00388
+        },
+        {
+            "name": "Carex pendula Huds.",
+            "id": "1361075",
+            "score": 0.00373
+        },
+        {
+            "name": "Avena sativa L.",
+            "id": "1363469",
+            "score": 0.00353
+        },
+        {
+            "name": "Leersia oryzoides (L.) Sw.",
+            "id": "1361316",
+            "score": 0.0035
+        },
+        {
+            "name": "Phalaris arundinacea L.",
+            "id": "1363490",
+            "score": 0.00311
+        },
+        {
+            "name": "Alopecurus myosuroides Huds.",
+            "id": "1361157",
+            "score": 0.00307
+        },
+        {
+            "name": "Carex acutiformis Ehrh.",
+            "id": "1363281",
+            "score": 0.00297
+        },
+        {
+            "name": "Bromus ramosus Huds.",
+            "id": "1440300",
+            "score": 0.00289
+        },
+        {
+            "name": "Lolium giganteum (L.) Darbysh.",
+            "id": "1728724",
+            "score": 0.00289
+        },
+        {
+            "name": "Lachnanthes caroliniana (Lam.) Dandy",
+            "id": "1554384",
+            "score": 0.00288
+        },
+        {
+            "name": "Hordelymus europaeus (L.) Jess. ex Harz",
+            "id": "1651891",
+            "score": 0.00285
+        },
+        {
+            "name": "Dichanthelium clandestinum (L.) Gould",
+            "id": "1411747",
+            "score": 0.0028
+        },
+        {
+            "name": "Miscanthus × longiberbis (Hack.) Nakai",
+            "id": "1720972",
+            "score": 0.00276
+        },
+        {
+            "name": "Bromus lanatus Kunth",
+            "id": "1422881",
+            "score": 0.00265
+        },
+        {
+            "name": "Narcissus tazetta L.",
+            "id": "1360971",
+            "score": 0.00255
+        },
+        {
+            "name": "Briza media L.",
+            "id": "1361195",
+            "score": 0.00249
+        },
+        {
+            "name": "Yucca flaccida Haw.",
+            "id": "1409149",
+            "score": 0.00247
+        },
+        {
+            "name": "Poa nemoralis L.",
+            "id": "1361376",
+            "score": 0.00247
+        },
+        {
+            "name": "Thinopyrum intermedium (Host) Barkworth & D.R.Dewey",
+            "id": "1741590",
+            "score": 0.0023
+        },
+        {
+            "name": "Hibiscus vitifolius L.",
+            "id": "1359630",
+            "score": 0.00222
+        },
+        {
+            "name": "Hesperantha falcata (L.f.) Ker Gawl.",
+            "id": "1556584",
+            "score": 0.0021
+        },
+        {
+            "name": "Urochloa mutica (Forssk.) T.Q.Nguyen",
+            "id": "1409010",
+            "score": 0.00202
+        },
+        {
+            "name": "Hemerocallis lilioasphodelus L.",
+            "id": "1392749",
+            "score": 0.002
+        },
+        {
+            "name": "Koeleria vallesiana (Honck.) Gaudin",
+            "id": "1361315",
+            "score": 0.00199
+        },
+        {
+            "name": "Allium vineale L.",
+            "id": "1360945",
+            "score": 0.00196
+        },
+        {
+            "name": "Narcissus pseudonarcissus L.",
+            "id": "1360968",
+            "score": 0.0019
+        },
+        {
+            "name": "Yucca filamentosa L.",
+            "id": "1397243",
+            "score": 0.00184
+        },
+        {
+            "name": "Typha latifolia L.",
+            "id": "1363339",
+            "score": 0.00182
+        },
+        {
+            "name": "Paspalum virgatum L.",
+            "id": "1403121",
+            "score": 0.00179
+        },
+        {
+            "name": "Asphodelus albus Mill.",
+            "id": "1397256",
+            "score": 0.00179
+        },
+        {
+            "name": "Allium ampeloprasum L.",
+            "id": "1358134",
+            "score": 0.00178
+        },
+        {
+            "name": "Dipcadi viride (L.) Moench",
+            "id": "1360176",
+            "score": 0.00176
+        },
+        {
+            "name": "Avenula pubescens (Huds.) Dumort.",
+            "id": "1400086",
+            "score": 0.00174
+        },
+        {
+            "name": "Sorghum halepense (L.) Pers.",
+            "id": "1363508",
+            "score": 0.00173
+        },
+        {
+            "name": "Tripsacum dactyloides (L.) L.",
+            "id": "1404347",
+            "score": 0.00173
+        },
+        {
+            "name": "Alopecurus carolinianus Walter",
+            "id": "1411857",
+            "score": 0.00172
+        },
+        {
+            "name": "Elymus repens (L.) Gould",
+            "id": "1411890",
+            "score": 0.00171
+        },
+        {
+            "name": "Koeleria macrantha (Ledeb.) Schult.",
+            "id": "1393403",
+            "score": 0.0017
+        },
+        {
+            "name": "Bromus sterilis L.",
+            "id": "1414366",
+            "score": 0.00168
+        },
+        {
+            "name": "Melica nutans L.",
+            "id": "1393788",
+            "score": 0.00167
+        },
+        {
+            "name": "Allium scorodoprasum L.",
+            "id": "1360935",
+            "score": 0.0016
+        },
+        {
+            "name": "Koeleria spicata (L.) Barberá, Quintanar, Soreng & P.M.Peterson",
+            "id": "1737699",
+            "score": 0.00158
+        },
+        {
+            "name": "Iris virginica L.",
+            "id": "1412339",
+            "score": 0.00155
+        },
+        {
+            "name": "Iris versicolor L.",
+            "id": "1393297",
+            "score": 0.00155
+        },
+        {
+            "name": "Paspalum repens P.J.Bergius",
+            "id": "1653627",
+            "score": 0.00154
+        },
+        {
+            "name": "Polypogon monspeliensis (L.) Desf.",
+            "id": "1363402",
+            "score": 0.00149
+        },
+        {
+            "name": "Carex mertensii J.D.Prescott ex Bong.",
+            "id": "1720900",
+            "score": 0.00148
+        },
+        {
+            "name": "Phalaris canariensis L.",
+            "id": "1363491",
+            "score": 0.00143
+        },
+        {
+            "name": "Cymbopogon citratus (DC.) Stapf",
+            "id": "1363530",
+            "score": 0.00141
+        },
+        {
+            "name": "Gladiolus gunnisii (Rendle) Marais",
+            "id": "1383833",
+            "score": 0.00136
+        },
+        {
+            "name": "Narcissus papyraceus Ker Gawl.",
+            "id": "1360965",
+            "score": 0.00132
+        },
+        {
+            "name": "Poa chaixii Vill.",
+            "id": "1394663",
+            "score": 0.00132
+        },
+        {
+            "name": "Paspalum dilatatum Poir.",
+            "id": "1363496",
+            "score": 0.00127
+        },
+        {
+            "name": "Luzula sylvatica (Huds.) Gaudin",
+            "id": "1397430",
+            "score": 0.00127
+        },
+        {
+            "name": "Carex acuta L.",
+            "id": "1361042",
+            "score": 0.00124
+        },
+        {
+            "name": "Anacamptis pyramidalis (L.) Rich.",
+            "id": "1361634",
+            "score": 0.00124
+        },
+        {
+            "name": "Typha angustifolia L.",
+            "id": "1361721",
+            "score": 0.0012
+        },
+        {
+            "name": "Allium cepa L.",
+            "id": "1358140",
+            "score": 0.00118
+        },
+        {
+            "name": "Gladiolus illyricus W.D.J.Koch",
+            "id": "1398759",
+            "score": 0.00117
+        },
+        {
+            "name": "Typha domingensis Pers.",
+            "id": "1363337",
+            "score": 0.00114
+        },
+        {
+            "name": "Typha incana Kapit. & Dyukina",
+            "id": "1694381",
+            "score": 0.00113
+        },
+        {
+            "name": "Allium chamaemoly L.",
+            "id": "1360910",
+            "score": 0.00113
+        },
+        {
+            "name": "Lathyrus sylvestris L.",
+            "id": "1393458",
+            "score": 0.00112
+        },
+        {
+            "name": "Leymus arenarius (L.) Hochst.",
+            "id": "1393522",
+            "score": 0.00112
+        },
+        {
+            "name": "Beckmannia syzigachne (Steud.) Fernald",
+            "id": "1394689",
+            "score": 0.0011
+        },
+        {
+            "name": "Carex hirtifolia Mack.",
+            "id": "1411166",
+            "score": 0.00109
+        },
+        {
+            "name": "Calamagrostis epigejos (L.) Roth",
+            "id": "1379532",
+            "score": 0.00108
+        },
+        {
+            "name": "Narcissus bicolor L.",
+            "id": "1393919",
+            "score": 0.00101
+        }
+    ]
+}

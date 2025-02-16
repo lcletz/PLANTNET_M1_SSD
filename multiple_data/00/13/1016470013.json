@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Medicago arabica (L.) Huds.",
+            "id": "1359333",
+            "score": 0.9287
+        },
+        {
+            "name": "Trifolium subterraneum L.",
+            "id": "1359528",
+            "score": 0.04293
+        },
+        {
+            "name": "Oxalis purpurea L.",
+            "id": "1363630",
+            "score": 0.00312
+        },
+        {
+            "name": "Trifolium dubium Sibth.",
+            "id": "1363737",
+            "score": 0.00201
+        }
+    ]
+}

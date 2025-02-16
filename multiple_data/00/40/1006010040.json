@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ulmus minor Mill.",
+            "id": "1360607",
+            "score": 0.48336
+        },
+        {
+            "name": "Ulmus glabra Huds.",
+            "id": "1397552",
+            "score": 0.3881
+        },
+        {
+            "name": "Ulmus pumila L.",
+            "id": "1390603",
+            "score": 0.00831
+        },
+        {
+            "name": "Ulmus laevis Pall.",
+            "id": "1396951",
+            "score": 0.00305
+        },
+        {
+            "name": "Ulmus americana L.",
+            "id": "1390323",
+            "score": 0.00266
+        },
+        {
+            "name": "Ulmus parvifolia Jacq.",
+            "id": "1414124",
+            "score": 0.00177
+        },
+        {
+            "name": "Combretum paniculatum Vent.",
+            "id": "1382751",
+            "score": 0.00142
+        },
+        {
+            "name": "Ulmus × hollandica Mill.",
+            "id": "1694424",
+            "score": 0.00109
+        }
+    ]
+}

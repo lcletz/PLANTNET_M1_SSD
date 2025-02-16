@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Erica cinerea L.",
+            "id": "1358507",
+            "score": 0.95121
+        },
+        {
+            "name": "Erica carnea L.",
+            "id": "1358505",
+            "score": 0.00541
+        },
+        {
+            "name": "Daboecia cantabrica (Huds.) K.Koch",
+            "id": "1391550",
+            "score": 0.00316
+        },
+        {
+            "name": "Erica vagans L.",
+            "id": "1361800",
+            "score": 0.00207
+        },
+        {
+            "name": "Erica multiflora L.",
+            "id": "1358509",
+            "score": 0.00156
+        },
+        {
+            "name": "Calluna vulgaris (L.) Hull",
+            "id": "1358501",
+            "score": 0.0011
+        }
+    ]
+}

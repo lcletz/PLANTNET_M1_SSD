@@ -1,0 +1,490 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tilia tomentosa Moench",
+            "id": "1396803",
+            "score": 0.39652
+        },
+        {
+            "name": "Tilia platyphyllos Scop.",
+            "id": "1396802",
+            "score": 0.29207
+        },
+        {
+            "name": "Tilia cordata Mill.",
+            "id": "1396797",
+            "score": 0.14415
+        },
+        {
+            "name": "Tilia americana L.",
+            "id": "1397800",
+            "score": 0.06808
+        },
+        {
+            "name": "Tilia × europaea L.",
+            "id": "1595800",
+            "score": 0.06569
+        },
+        {
+            "name": "Grewia villosa Willd.",
+            "id": "1356199",
+            "score": 0.054
+        },
+        {
+            "name": "Ficus mucuso Welw. ex Ficalho",
+            "id": "1384088",
+            "score": 0.0423
+        },
+        {
+            "name": "Betula pubescens Ehrh.",
+            "id": "1362746",
+            "score": 0.03604
+        },
+        {
+            "name": "Muntingia calabura L.",
+            "id": "1401621",
+            "score": 0.023
+        },
+        {
+            "name": "Actinidia chinensis Planch.",
+            "id": "1397151",
+            "score": 0.02276
+        },
+        {
+            "name": "Quercus pubescens Willd.",
+            "id": "1395026",
+            "score": 0.02071
+        },
+        {
+            "name": "Lantana camara L.",
+            "id": "1360857",
+            "score": 0.01795
+        },
+        {
+            "name": "Luehea divaricata Mart.",
+            "id": "1419432",
+            "score": 0.01755
+        },
+        {
+            "name": "Triumfetta pilosa Roth",
+            "id": "1432441",
+            "score": 0.01739
+        },
+        {
+            "name": "Bellucia mespiloides (Miq.) J.F.Macbr.",
+            "id": "1726868",
+            "score": 0.01695
+        },
+        {
+            "name": "Dombeya ficulnea Baill.",
+            "id": "1407968",
+            "score": 0.01565
+        },
+        {
+            "name": "Platanus racemosa Nutt.",
+            "id": "1436625",
+            "score": 0.01496
+        },
+        {
+            "name": "Mallotus claoxyloides (F.Muell.) Müll.Arg.",
+            "id": "1546903",
+            "score": 0.01356
+        },
+        {
+            "name": "Duboscia macrocarpa Bocq.",
+            "id": "1378550",
+            "score": 0.0131
+        },
+        {
+            "name": "Vitis labrusca L.",
+            "id": "1363005",
+            "score": 0.01041
+        },
+        {
+            "name": "Mallotus oppositifolius (Geiseler) Müll.Arg.",
+            "id": "1431930",
+            "score": 0.00967
+        },
+        {
+            "name": "Alchornea glandulosa Poepp.",
+            "id": "1542751",
+            "score": 0.00834
+        },
+        {
+            "name": "Helicteres guazumifolia Kunth",
+            "id": "1404074",
+            "score": 0.00747
+        },
+        {
+            "name": "Rubus vestitus Weihe",
+            "id": "1395628",
+            "score": 0.00744
+        },
+        {
+            "name": "Broussonetia papyrifera (L.) L'Hér. ex Vent.",
+            "id": "1362912",
+            "score": 0.00736
+        },
+        {
+            "name": "Gouania polygama (Jacq.) Urb.",
+            "id": "1406074",
+            "score": 0.00715
+        },
+        {
+            "name": "Trema micranthum (L.) Blume",
+            "id": "1725526",
+            "score": 0.00687
+        },
+        {
+            "name": "Tilia × euchlora K.Koch",
+            "id": "1595799",
+            "score": 0.0065
+        },
+        {
+            "name": "Dendrocnide excelsa (Wedd.) Chew",
+            "id": "1694682",
+            "score": 0.00642
+        },
+        {
+            "name": "Tilia dasystyla Steven",
+            "id": "1595796",
+            "score": 0.00627
+        },
+        {
+            "name": "Kosteletzkya diplocrater (Hochr.) Hochr.",
+            "id": "1594579",
+            "score": 0.00565
+        },
+        {
+            "name": "Viguiera dentata (Cav.) Spreng.",
+            "id": "1439586",
+            "score": 0.00533
+        },
+        {
+            "name": "Dombeya burgessiae Gerrard ex Harv.",
+            "id": "1356185",
+            "score": 0.00526
+        },
+        {
+            "name": "Corylus americana Walter",
+            "id": "1411558",
+            "score": 0.00513
+        },
+        {
+            "name": "Ocotea sinuata (Mez) Rohwer",
+            "id": "1567207",
+            "score": 0.00458
+        },
+        {
+            "name": "Sida urens L.",
+            "id": "1402066",
+            "score": 0.00453
+        },
+        {
+            "name": "Corylus heterophylla Fisch. ex Trautv.",
+            "id": "1417987",
+            "score": 0.00441
+        },
+        {
+            "name": "Betula pendula Roth",
+            "id": "1356609",
+            "score": 0.0044
+        },
+        {
+            "name": "Miconia sciaphila Judd & Ionta",
+            "id": "1829929",
+            "score": 0.00437
+        },
+        {
+            "name": "Morus cathayana Hemsl.",
+            "id": "1602328",
+            "score": 0.00421
+        },
+        {
+            "name": "Salvia hispanica L.",
+            "id": "1419283",
+            "score": 0.00409
+        },
+        {
+            "name": "Ficus asperifolia Miq.",
+            "id": "1384047",
+            "score": 0.00403
+        },
+        {
+            "name": "Sterculia cordata Blume",
+            "id": "1430584",
+            "score": 0.00391
+        },
+        {
+            "name": "Vitis vulpina L.",
+            "id": "1397214",
+            "score": 0.00377
+        },
+        {
+            "name": "Miconia strigillosa (Sw.) Judd & Ionta",
+            "id": "1715117",
+            "score": 0.00351
+        },
+        {
+            "name": "Christiana africana DC.",
+            "id": "1378542",
+            "score": 0.00339
+        },
+        {
+            "name": "Abuta rufescens Aubl.",
+            "id": "1402331",
+            "score": 0.00336
+        },
+        {
+            "name": "Guazuma ulmifolia Lam.",
+            "id": "1378186",
+            "score": 0.00326
+        },
+        {
+            "name": "Hovenia dulcis Thunb.",
+            "id": "1370770",
+            "score": 0.0032
+        },
+        {
+            "name": "Rhodostemonodaphne revolutifolia Madriñán",
+            "id": "1407115",
+            "score": 0.00319
+        },
+        {
+            "name": "Helicteres pentandra L.",
+            "id": "1403607",
+            "score": 0.00306
+        },
+        {
+            "name": "Torminalis glaberrima (Gand.) Sennikov & Kurtto",
+            "id": "1737588",
+            "score": 0.00305
+        },
+        {
+            "name": "Neonotonia wightii (Wight & Arn.) J.A.Lackey",
+            "id": "1408400",
+            "score": 0.00303
+        },
+        {
+            "name": "Apeiba tibourbou Aubl.",
+            "id": "1403628",
+            "score": 0.00298
+        },
+        {
+            "name": "Rhoicissus tomentosa (Lam.) Wild & R.B.Drumm.",
+            "id": "1752850",
+            "score": 0.00294
+        },
+        {
+            "name": "Commersonia bartramia (L.) Merr.",
+            "id": "1416730",
+            "score": 0.00275
+        },
+        {
+            "name": "Manniophyton fulvum Müll.Arg.",
+            "id": "1431933",
+            "score": 0.00274
+        },
+        {
+            "name": "Miconia dependens (Pav. ex D.Don) Judd & Majure",
+            "id": "1795985",
+            "score": 0.00264
+        },
+        {
+            "name": "Rubus fabrimontanus (Sprib.) Sprib.",
+            "id": "1668815",
+            "score": 0.00261
+        },
+        {
+            "name": "Celtis africana Burm.f.",
+            "id": "1424542",
+            "score": 0.00258
+        },
+        {
+            "name": "Cecropia pachystachya Trécul",
+            "id": "1694574",
+            "score": 0.00253
+        },
+        {
+            "name": "Miconia nervosa Triana",
+            "id": "1727052",
+            "score": 0.0025
+        },
+        {
+            "name": "Croton urucurana Baill.",
+            "id": "1418816",
+            "score": 0.00236
+        },
+        {
+            "name": "Ficus exasperata Vahl",
+            "id": "1384054",
+            "score": 0.00235
+        },
+        {
+            "name": "Ficus sycomorus L.",
+            "id": "1361856",
+            "score": 0.0023
+        },
+        {
+            "name": "Otopappus verbesinoides Benth.",
+            "id": "1516404",
+            "score": 0.0023
+        },
+        {
+            "name": "Rubus rotundifoliatus Sudre",
+            "id": "1390158",
+            "score": 0.00225
+        },
+        {
+            "name": "Tilia henryana Szyszył.",
+            "id": "1595804",
+            "score": 0.0022
+        },
+        {
+            "name": "Ruizia granulata (Cordem.) Dorr",
+            "id": "1763045",
+            "score": 0.00219
+        },
+        {
+            "name": "Aiouea tonduzii (Mez) R.Rohde",
+            "id": "1825701",
+            "score": 0.0021
+        },
+        {
+            "name": "Trema orientale (L.) Blume",
+            "id": "1719486",
+            "score": 0.00207
+        },
+        {
+            "name": "Quercus conferta Kit.",
+            "id": "1742823",
+            "score": 0.00197
+        },
+        {
+            "name": "Grewia kakothamnos K.Schum.",
+            "id": "1593978",
+            "score": 0.00195
+        },
+        {
+            "name": "Macaranga corymbosa (Müll.Arg.) Müll.Arg.",
+            "id": "1416823",
+            "score": 0.00193
+        },
+        {
+            "name": "Desplatsia chrysochlamys (Mildbr. & Burret) Mildbr. & Burret",
+            "id": "1378546",
+            "score": 0.00192
+        },
+        {
+            "name": "Eupatoriastrum nelsonii Greenm.",
+            "id": "1507667",
+            "score": 0.00192
+        },
+        {
+            "name": "Ibicella lutea (Lindl.) Van Eselt.",
+            "id": "1356055",
+            "score": 0.00188
+        },
+        {
+            "name": "Thespesia garckeana F.Hoffm.",
+            "id": "1728610",
+            "score": 0.00188
+        },
+        {
+            "name": "Priva adhaerens (Forssk.) Chiov.",
+            "id": "1356207",
+            "score": 0.00183
+        },
+        {
+            "name": "Celtis australis L.",
+            "id": "1361742",
+            "score": 0.00177
+        },
+        {
+            "name": "Alchornea cordifolia (Schumach. & Thonn.) Müll.Arg.",
+            "id": "1431723",
+            "score": 0.00177
+        },
+        {
+            "name": "Miconia heteroclita (Naudin) Michelang.",
+            "id": "1826071",
+            "score": 0.00176
+        },
+        {
+            "name": "Quercus pyrenaica Willd.",
+            "id": "1358616",
+            "score": 0.00168
+        },
+        {
+            "name": "Rubus coombensis Rilstone",
+            "id": "1668694",
+            "score": 0.00166
+        },
+        {
+            "name": "Dombeya rotundifolia (Hochst.) Planch.",
+            "id": "1431541",
+            "score": 0.00166
+        },
+        {
+            "name": "Sterculia speciosa K.Schum.",
+            "id": "1407106",
+            "score": 0.00165
+        },
+        {
+            "name": "Phenax laevigatus Wedd.",
+            "id": "1695344",
+            "score": 0.00165
+        },
+        {
+            "name": "Ceanothus americanus L.",
+            "id": "1390968",
+            "score": 0.00157
+        },
+        {
+            "name": "Sigesbeckia serrata DC.",
+            "id": "1396266",
+            "score": 0.00155
+        },
+        {
+            "name": "Cordia panamensis L.Riley",
+            "id": "1477586",
+            "score": 0.00154
+        },
+        {
+            "name": "Rubus praecox Bertol.",
+            "id": "1395579",
+            "score": 0.00151
+        },
+        {
+            "name": "Miconia bullatifolia Michelang.",
+            "id": "1824969",
+            "score": 0.00148
+        },
+        {
+            "name": "Rubus foliosus Weihe",
+            "id": "1395476",
+            "score": 0.00146
+        },
+        {
+            "name": "Ficus glumosa Delile",
+            "id": "1384056",
+            "score": 0.00144
+        },
+        {
+            "name": "Betula utilis D.Don",
+            "id": "1400127",
+            "score": 0.00141
+        },
+        {
+            "name": "Vernicia fordii (Hemsl.) Airy Shaw",
+            "id": "1376001",
+            "score": 0.00139
+        },
+        {
+            "name": "Vigna vexillata (L.) A.Rich.",
+            "id": "1406692",
+            "score": 0.00138
+        }
+    ]
+}

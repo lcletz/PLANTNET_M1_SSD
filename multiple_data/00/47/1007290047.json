@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Spiraea douglasii Hook.",
+            "id": "1396399",
+            "score": 0.85442
+        },
+        {
+            "name": "Spiraea salicifolia L.",
+            "id": "1396405",
+            "score": 0.05619
+        },
+        {
+            "name": "Spiraea tomentosa L.",
+            "id": "1396389",
+            "score": 0.0074
+        },
+        {
+            "name": "Spiraea × billardii Hérincq",
+            "id": "1844858",
+            "score": 0.00491
+        },
+        {
+            "name": "Spiraea × pseudosalicifolia Silverside",
+            "id": "1670046",
+            "score": 0.00332
+        },
+        {
+            "name": "Spiraea japonica L.f.",
+            "id": "1396400",
+            "score": 0.0021
+        },
+        {
+            "name": "Spiraea alba Du Roi",
+            "id": "1396390",
+            "score": 0.00157
+        }
+    ]
+}

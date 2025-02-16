@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Galium verum L.",
+            "id": "1360422",
+            "score": 0.68482
+        },
+        {
+            "name": "Galium × pomeranicum Retz.",
+            "id": "1673274",
+            "score": 0.18106
+        },
+        {
+            "name": "Solidago speciosa Nutt.",
+            "id": "1413860",
+            "score": 0.0055
+        },
+        {
+            "name": "Galium arenarium Loisel.",
+            "id": "1392440",
+            "score": 0.00502
+        },
+        {
+            "name": "Galium elongatum C.Presl",
+            "id": "1392458",
+            "score": 0.00252
+        },
+        {
+            "name": "Cruciata laevipes Opiz",
+            "id": "1391478",
+            "score": 0.00143
+        },
+        {
+            "name": "Galium boreale L.",
+            "id": "1392445",
+            "score": 0.00138
+        },
+        {
+            "name": "Galium album Mill.",
+            "id": "1392438",
+            "score": 0.00125
+        },
+        {
+            "name": "Solidago nemoralis Aiton",
+            "id": "1413855",
+            "score": 0.00123
+        },
+        {
+            "name": "Isatis tinctoria L.",
+            "id": "1358340",
+            "score": 0.00115
+        }
+    ]
+}

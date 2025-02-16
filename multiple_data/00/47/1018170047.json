@@ -1,0 +1,485 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Echium vulgare L.",
+            "id": "1363850",
+            "score": 0.66804
+        },
+        {
+            "name": "Echium sabulicola Pomel",
+            "id": "1356674",
+            "score": 0.18896
+        },
+        {
+            "name": "Hyssopus officinalis L.",
+            "id": "1358747",
+            "score": 0.17393
+        },
+        {
+            "name": "Echium italicum L.",
+            "id": "1356663",
+            "score": 0.11551
+        },
+        {
+            "name": "Onosma arenaria Waldst. & Kit.",
+            "id": "1394060",
+            "score": 0.09304
+        },
+        {
+            "name": "Echium plantagineum L.",
+            "id": "1363849",
+            "score": 0.04117
+        },
+        {
+            "name": "Echium creticum L.",
+            "id": "1356654",
+            "score": 0.03997
+        },
+        {
+            "name": "Cryptantha clevelandii Greene",
+            "id": "1441937",
+            "score": 0.01949
+        },
+        {
+            "name": "Tuberaria guttata (L.) Fourr.",
+            "id": "1357176",
+            "score": 0.01857
+        },
+        {
+            "name": "Misopates orontium (L.) Raf.",
+            "id": "1359943",
+            "score": 0.01695
+        },
+        {
+            "name": "Cynoglossum creticum Mill.",
+            "id": "1356634",
+            "score": 0.01674
+        },
+        {
+            "name": "Veronica spicata L.",
+            "id": "1397522",
+            "score": 0.01339
+        },
+        {
+            "name": "Anchusa officinalis L.",
+            "id": "1394038",
+            "score": 0.0129
+        },
+        {
+            "name": "Plantago lagopus L.",
+            "id": "1359959",
+            "score": 0.01102
+        },
+        {
+            "name": "Asclepias tuberosa L.",
+            "id": "1413838",
+            "score": 0.01076
+        },
+        {
+            "name": "Echium candicans L.f.",
+            "id": "1399885",
+            "score": 0.01052
+        },
+        {
+            "name": "Pontechium maculatum (L.) Böhle & Hilger",
+            "id": "1418043",
+            "score": 0.01036
+        },
+        {
+            "name": "Agrostemma githago L.",
+            "id": "1356672",
+            "score": 0.01023
+        },
+        {
+            "name": "Echium arenarium Guss.",
+            "id": "1363852",
+            "score": 0.00969
+        },
+        {
+            "name": "Echium asperrimum Lam.",
+            "id": "1356646",
+            "score": 0.0093
+        },
+        {
+            "name": "Madia sativa Molina",
+            "id": "1398184",
+            "score": 0.00881
+        },
+        {
+            "name": "Plantago afra L.",
+            "id": "1359944",
+            "score": 0.00866
+        },
+        {
+            "name": "Erigeron bonariensis L.",
+            "id": "1355905",
+            "score": 0.00834
+        },
+        {
+            "name": "Nonea vesicaria (L.) Rchb.",
+            "id": "1356719",
+            "score": 0.00819
+        },
+        {
+            "name": "Anchusa azurea Mill.",
+            "id": "1363832",
+            "score": 0.00818
+        },
+        {
+            "name": "Lappula marginata (M.Bieb.) Gürke",
+            "id": "1399233",
+            "score": 0.00691
+        },
+        {
+            "name": "Knautia orientalis L.",
+            "id": "1491371",
+            "score": 0.00681
+        },
+        {
+            "name": "Pentanisia ouranogyne S.Moore",
+            "id": "1677485",
+            "score": 0.00629
+        },
+        {
+            "name": "Echium gaditanum Boiss.",
+            "id": "1356657",
+            "score": 0.0062
+        },
+        {
+            "name": "Lagurus ovatus L.",
+            "id": "1363433",
+            "score": 0.00561
+        },
+        {
+            "name": "Echium humile Desf.",
+            "id": "1363854",
+            "score": 0.00542
+        },
+        {
+            "name": "Gypsophila pilosa Huds.",
+            "id": "1356863",
+            "score": 0.00535
+        },
+        {
+            "name": "Astragalus boeticus L.",
+            "id": "1363666",
+            "score": 0.00519
+        },
+        {
+            "name": "Phacelia sericea (Graham) A.Gray",
+            "id": "1815269",
+            "score": 0.00421
+        },
+        {
+            "name": "Muscari comosum (L.) Mill.",
+            "id": "1361497",
+            "score": 0.00409
+        },
+        {
+            "name": "Erigeron sumatrensis Retz.",
+            "id": "1355908",
+            "score": 0.00398
+        },
+        {
+            "name": "Heliotropium zeylanicum (Burm.f.) Lam.",
+            "id": "1431777",
+            "score": 0.00395
+        },
+        {
+            "name": "Madia elegans D.Don",
+            "id": "1746431",
+            "score": 0.00379
+        },
+        {
+            "name": "Buglossoides arvensis (L.) I.M.Johnst.",
+            "id": "1389576",
+            "score": 0.00377
+        },
+        {
+            "name": "Pseudognaphalium californicum (DC.) Anderb.",
+            "id": "1436967",
+            "score": 0.0037
+        },
+        {
+            "name": "Trichostema lanceolatum Benth.",
+            "id": "1439211",
+            "score": 0.00334
+        },
+        {
+            "name": "Thymbra capitata (L.) Cav.",
+            "id": "1359029",
+            "score": 0.00329
+        },
+        {
+            "name": "Helianthemum ledifolium (L.) Mill.",
+            "id": "1357142",
+            "score": 0.00313
+        },
+        {
+            "name": "Linaria repens (L.) Mill.",
+            "id": "1393595",
+            "score": 0.00308
+        },
+        {
+            "name": "Salvia × sylvestris L.",
+            "id": "1563105",
+            "score": 0.00288
+        },
+        {
+            "name": "Linaria supina (L.) Chaz.",
+            "id": "1362465",
+            "score": 0.00279
+        },
+        {
+            "name": "Campanula spicata L.",
+            "id": "1390675",
+            "score": 0.00271
+        },
+        {
+            "name": "Silene scabriflora Brot.",
+            "id": "1357043",
+            "score": 0.00269
+        },
+        {
+            "name": "Linaria saxatilis (L.) Chaz.",
+            "id": "1646266",
+            "score": 0.00245
+        },
+        {
+            "name": "Jasione montana L.",
+            "id": "1356766",
+            "score": 0.00244
+        },
+        {
+            "name": "Echium callithyrsum Webb ex Bolle",
+            "id": "1477933",
+            "score": 0.00241
+        },
+        {
+            "name": "Silene conica L.",
+            "id": "1356976",
+            "score": 0.0022
+        },
+        {
+            "name": "Echium flavum Desf.",
+            "id": "1356656",
+            "score": 0.00214
+        },
+        {
+            "name": "Silene gallica L.",
+            "id": "1356595",
+            "score": 0.00208
+        },
+        {
+            "name": "Biscutella auriculata L.",
+            "id": "1358182",
+            "score": 0.00197
+        },
+        {
+            "name": "Teucrium pseudochamaepitys L.",
+            "id": "1359010",
+            "score": 0.00191
+        },
+        {
+            "name": "Gaillardia pulchella Foug.",
+            "id": "1364122",
+            "score": 0.0019
+        },
+        {
+            "name": "Veronica longifolia L.",
+            "id": "1397056",
+            "score": 0.0019
+        },
+        {
+            "name": "Echium boissieri Steud.",
+            "id": "1356648",
+            "score": 0.00188
+        },
+        {
+            "name": "Echium bonnetii Coincy",
+            "id": "1356649",
+            "score": 0.00188
+        },
+        {
+            "name": "Echium tuberculatum Hoffmanns. & Link",
+            "id": "1356682",
+            "score": 0.00179
+        },
+        {
+            "name": "Veronica barrelieri H.Schott ex Roem. & Schult.",
+            "id": "1390527",
+            "score": 0.00178
+        },
+        {
+            "name": "Castilleja tenuiflora Benth.",
+            "id": "1440936",
+            "score": 0.00174
+        },
+        {
+            "name": "Linaria arvensis (L.) Desf.",
+            "id": "1359897",
+            "score": 0.00172
+        },
+        {
+            "name": "Echium virescens DC.",
+            "id": "1356684",
+            "score": 0.0017
+        },
+        {
+            "name": "Echium rosulatum Lange",
+            "id": "1391833",
+            "score": 0.00169
+        },
+        {
+            "name": "Echium strictum L.f.",
+            "id": "1399843",
+            "score": 0.00166
+        },
+        {
+            "name": "Knautia integrifolia (Honck. ex L.) Bertol.",
+            "id": "1743313",
+            "score": 0.00164
+        },
+        {
+            "name": "Knautia arvensis (L.) Coult.",
+            "id": "1362327",
+            "score": 0.00154
+        },
+        {
+            "name": "Onosma viridis (Borbás) Jáv.",
+            "id": "1742248",
+            "score": 0.00151
+        },
+        {
+            "name": "Echium angustifolium Mill.",
+            "id": "1363851",
+            "score": 0.00146
+        },
+        {
+            "name": "Plantago atrata Hoppe",
+            "id": "1394630",
+            "score": 0.00145
+        },
+        {
+            "name": "Astragalus caprinus L.",
+            "id": "1359105",
+            "score": 0.00143
+        },
+        {
+            "name": "Mentha × rotundifolia (L.) Huds.",
+            "id": "1560693",
+            "score": 0.00137
+        },
+        {
+            "name": "Asclepias asperula (Decne.) Woodson",
+            "id": "1437548",
+            "score": 0.00134
+        },
+        {
+            "name": "Pseudognaphalium undulatum (L.) Hilliard & B.L.Burtt",
+            "id": "1518245",
+            "score": 0.00132
+        },
+        {
+            "name": "Linum strictum L.",
+            "id": "1356323",
+            "score": 0.00131
+        },
+        {
+            "name": "Echium webbii Coincy",
+            "id": "1356685",
+            "score": 0.0013
+        },
+        {
+            "name": "Ajuga iva (L.) Schreb.",
+            "id": "1358717",
+            "score": 0.00129
+        },
+        {
+            "name": "Echium pitardii A.Chev.",
+            "id": "1477940",
+            "score": 0.00129
+        },
+        {
+            "name": "Lathyrus hirsutus L.",
+            "id": "1363800",
+            "score": 0.00127
+        },
+        {
+            "name": "Echium salmanticum Lag.",
+            "id": "1477941",
+            "score": 0.00123
+        },
+        {
+            "name": "Achillea tomentosa L.",
+            "id": "1393953",
+            "score": 0.00122
+        },
+        {
+            "name": "Carpobrotus acinaciformis (L.) L.Bolus",
+            "id": "1390953",
+            "score": 0.00119
+        },
+        {
+            "name": "Phacelia congesta Hook.",
+            "id": "1436097",
+            "score": 0.00115
+        },
+        {
+            "name": "Aloiampelos striatula (Haw.) Klopper & Gideon F.Sm.",
+            "id": "1754586",
+            "score": 0.00115
+        },
+        {
+            "name": "Polygala sphenoptera Fresen.",
+            "id": "1657509",
+            "score": 0.00115
+        },
+        {
+            "name": "Onobrychis lunata Boiss.",
+            "id": "1582908",
+            "score": 0.00114
+        },
+        {
+            "name": "Trifolium stellatum L.",
+            "id": "1359525",
+            "score": 0.00113
+        },
+        {
+            "name": "Amsinckia menziesii (Lehm.) A.Nelson & J.F.Macbr.",
+            "id": "1477184",
+            "score": 0.00112
+        },
+        {
+            "name": "Helianthemum hirtum (L.) Mill.",
+            "id": "1362454",
+            "score": 0.0011
+        },
+        {
+            "name": "Linaria aeruginea (Gouan) Cav.",
+            "id": "1389424",
+            "score": 0.00107
+        },
+        {
+            "name": "Astragalus scorpioides Pourr. ex Willd.",
+            "id": "1398365",
+            "score": 0.00106
+        },
+        {
+            "name": "Echium sventenii Bramwell",
+            "id": "1356679",
+            "score": 0.00105
+        },
+        {
+            "name": "Onosma tricerosperma Lag.",
+            "id": "1394063",
+            "score": 0.00105
+        },
+        {
+            "name": "Silene ramosissima Desf.",
+            "id": "1357035",
+            "score": 0.00105
+        }
+    ]
+}

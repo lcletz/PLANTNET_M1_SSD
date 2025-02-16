@@ -1,0 +1,90 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Vicia sepium L.",
+            "id": "1397110",
+            "score": 0.39659
+        },
+        {
+            "name": "Vicia sativa L.",
+            "id": "1359575",
+            "score": 0.22835
+        },
+        {
+            "name": "Vicia lathyroides L.",
+            "id": "1363677",
+            "score": 0.03717
+        },
+        {
+            "name": "Vicia peregrina L.",
+            "id": "1359572",
+            "score": 0.01286
+        },
+        {
+            "name": "Vicia hirsuta (L.) Gray",
+            "id": "1363671",
+            "score": 0.00828
+        },
+        {
+            "name": "Vicia sylvatica L.",
+            "id": "1362394",
+            "score": 0.00469
+        },
+        {
+            "name": "Lathyrus niger (L.) Bernh.",
+            "id": "1359276",
+            "score": 0.00421
+        },
+        {
+            "name": "Vicia hybrida L.",
+            "id": "1359562",
+            "score": 0.00357
+        },
+        {
+            "name": "Galega officinalis L.",
+            "id": "1359197",
+            "score": 0.00242
+        },
+        {
+            "name": "Vicia pyrenaica Pourr.",
+            "id": "1397106",
+            "score": 0.0022
+        },
+        {
+            "name": "Glycyrrhiza glabra L.",
+            "id": "1363659",
+            "score": 0.00209
+        },
+        {
+            "name": "Vicia lens (L.) Coss. & Germ.",
+            "id": "1741669",
+            "score": 0.00187
+        },
+        {
+            "name": "Gleditsia triacanthos L.",
+            "id": "1363687",
+            "score": 0.00163
+        },
+        {
+            "name": "Caragana arborescens Lam.",
+            "id": "1390687",
+            "score": 0.0015
+        },
+        {
+            "name": "Vicia bithynica (L.) L.",
+            "id": "1359551",
+            "score": 0.00138
+        },
+        {
+            "name": "Vicia benghalensis L.",
+            "id": "1363670",
+            "score": 0.00108
+        },
+        {
+            "name": "Vicia villosa Roth",
+            "id": "1359581",
+            "score": 0.00104
+        }
+    ]
+}

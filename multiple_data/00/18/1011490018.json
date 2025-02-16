@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Clematis flammula L.",
+            "id": "1360159",
+            "score": 0.84932
+        },
+        {
+            "name": "Clematis recta L.",
+            "id": "1391298",
+            "score": 0.11198
+        },
+        {
+            "name": "Clematis terniflora DC.",
+            "id": "1411498",
+            "score": 0.02779
+        },
+        {
+            "name": "Jasminum grandiflorum L.",
+            "id": "1359672",
+            "score": 0.00788
+        },
+        {
+            "name": "Clematis vitalba L.",
+            "id": "1360161",
+            "score": 0.00456
+        },
+        {
+            "name": "Jasminum officinale L.",
+            "id": "1359673",
+            "score": 0.00269
+        },
+        {
+            "name": "Clematis virginiana L.",
+            "id": "1411500",
+            "score": 0.00205
+        },
+        {
+            "name": "Clematis ligusticifolia Nutt.",
+            "id": "1411496",
+            "score": 0.00184
+        },
+        {
+            "name": "Clematis glycinoides DC.",
+            "id": "1417199",
+            "score": 0.00169
+        }
+    ]
+}

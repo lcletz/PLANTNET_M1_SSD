@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.73835
+        },
+        {
+            "name": "Sambucus canadensis L.",
+            "id": "1356462",
+            "score": 0.087
+        },
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.07773
+        },
+        {
+            "name": "Sambucus ebulus L.",
+            "id": "1356276",
+            "score": 0.0061
+        },
+        {
+            "name": "Sambucus cerulea Raf.",
+            "id": "1447816",
+            "score": 0.00273
+        },
+        {
+            "name": "Viburnum prunifolium L.",
+            "id": "1417592",
+            "score": 0.00236
+        },
+        {
+            "name": "Viburnum lentago L.",
+            "id": "1414187",
+            "score": 0.00174
+        },
+        {
+            "name": "Sambucus peruviana Kunth",
+            "id": "1422763",
+            "score": 0.00114
+        },
+        {
+            "name": "Cornus alba L.",
+            "id": "1397617",
+            "score": 0.00107
+        },
+        {
+            "name": "Heracleum maximum W.Bartram",
+            "id": "1389108",
+            "score": 0.001
+        }
+    ]
+}

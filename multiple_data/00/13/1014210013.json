@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rumex alpinus L.",
+            "id": "1395643",
+            "score": 0.95783
+        },
+        {
+            "name": "Rumex aquaticus L.",
+            "id": "1397545",
+            "score": 0.01407
+        },
+        {
+            "name": "Rumex obtusifolius L.",
+            "id": "1360132",
+            "score": 0.00221
+        },
+        {
+            "name": "Rumex confertus Willd.",
+            "id": "1398843",
+            "score": 0.00207
+        },
+        {
+            "name": "Rumex longifolius DC.",
+            "id": "1395667",
+            "score": 0.00176
+        }
+    ]
+}

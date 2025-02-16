@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Oxalis pes-caprae L.",
+            "id": "1359757",
+            "score": 0.95909
+        },
+        {
+            "name": "Oxalis dillenii Jacq.",
+            "id": "1394359",
+            "score": 0.00539
+        },
+        {
+            "name": "Oxalis valdiviensis Barnéoud",
+            "id": "1394365",
+            "score": 0.00235
+        },
+        {
+            "name": "Oxalis stricta L.",
+            "id": "1362135",
+            "score": 0.002
+        },
+        {
+            "name": "Oxalis incarnata L.",
+            "id": "1394362",
+            "score": 0.00127
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Mesembryanthemum crystallinum L.",
+            "id": "1356044",
+            "score": 0.81479
+        },
+        {
+            "name": "Mesembryanthemum nodiflorum L.",
+            "id": "1356045",
+            "score": 0.01267
+        },
+        {
+            "name": "Delosperma echinatum (Lam.) Schwantes",
+            "id": "1417889",
+            "score": 0.00503
+        },
+        {
+            "name": "Carpobrotus edulis (L.) N.E.Br.",
+            "id": "1390954",
+            "score": 0.00314
+        },
+        {
+            "name": "Delosperma cooperi (Hook.f.) L.Bolus",
+            "id": "1391661",
+            "score": 0.00132
+        },
+        {
+            "name": "Delosperma brunnthaleri (A.Berger) Schwantes ex H.Jacobsen",
+            "id": "1448386",
+            "score": 0.00121
+        },
+        {
+            "name": "Mesembryanthemum haeckelianum A.Berger",
+            "id": "1449202",
+            "score": 0.00115
+        }
+    ]
+}

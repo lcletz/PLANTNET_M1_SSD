@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Berberis thunbergii DC.",
+            "id": "1400119",
+            "score": 0.9015
+        },
+        {
+            "name": "Berberis vulgaris L.",
+            "id": "1356603",
+            "score": 0.01061
+        },
+        {
+            "name": "Berberis canadensis Mill.",
+            "id": "1417944",
+            "score": 0.00742
+        },
+        {
+            "name": "Berberis julianae C.K.Schneid.",
+            "id": "1400117",
+            "score": 0.00281
+        },
+        {
+            "name": "Berberis koreana Palib.",
+            "id": "1417949",
+            "score": 0.00126
+        },
+        {
+            "name": "Dioscorea communis (L.) Caddick & Wilkin",
+            "id": "1361109",
+            "score": 0.00124
+        },
+        {
+            "name": "Berberis aggregata C.K.Schneid.",
+            "id": "1400113",
+            "score": 0.00119
+        }
+    ]
+}

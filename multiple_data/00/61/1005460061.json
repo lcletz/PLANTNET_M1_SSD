@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Echium plantagineum L.",
+            "id": "1363849",
+            "score": 0.8308
+        },
+        {
+            "name": "Echium creticum L.",
+            "id": "1356654",
+            "score": 0.05337
+        },
+        {
+            "name": "Echium vulgare L.",
+            "id": "1363850",
+            "score": 0.03637
+        },
+        {
+            "name": "Echium sabulicola Pomel",
+            "id": "1356674",
+            "score": 0.03196
+        },
+        {
+            "name": "Echium rosulatum Lange",
+            "id": "1391833",
+            "score": 0.0013
+        }
+    ]
+}

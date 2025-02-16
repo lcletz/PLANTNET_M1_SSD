@@ -1,0 +1,415 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stachys heraclea All.",
+            "id": "1396430",
+            "score": 0.8968
+        },
+        {
+            "name": "Stachys alpina L.",
+            "id": "1397502",
+            "score": 0.01683
+        },
+        {
+            "name": "Stachys recta L.",
+            "id": "1396435",
+            "score": 0.01386
+        },
+        {
+            "name": "Pulsatilla vulgaris Mill.",
+            "id": "1737508",
+            "score": 0.01002
+        },
+        {
+            "name": "Stachys germanica L.",
+            "id": "1358939",
+            "score": 0.0099
+        },
+        {
+            "name": "Stachys cretica L.",
+            "id": "1396426",
+            "score": 0.00803
+        },
+        {
+            "name": "Stachys tymphaea Hausskn.",
+            "id": "1399419",
+            "score": 0.00702
+        },
+        {
+            "name": "Pulsatilla rubra (Lam.) Delarbre",
+            "id": "1743598",
+            "score": 0.00673
+        },
+        {
+            "name": "Clinopodium umbrosum (M.Bieb.) K.Koch",
+            "id": "1766261",
+            "score": 0.0059
+        },
+        {
+            "name": "Hieracium piliferum Hoppe",
+            "id": "1393080",
+            "score": 0.00566
+        },
+        {
+            "name": "Stachys arenaria Vahl",
+            "id": "1358933",
+            "score": 0.00553
+        },
+        {
+            "name": "Stachys thirkei K.Koch",
+            "id": "1399418",
+            "score": 0.00548
+        },
+        {
+            "name": "Ballota nigra L.",
+            "id": "1358722",
+            "score": 0.00529
+        },
+        {
+            "name": "Ajuga genevensis L.",
+            "id": "1391853",
+            "score": 0.00415
+        },
+        {
+            "name": "Lotus corniculatus L.",
+            "id": "1359296",
+            "score": 0.00362
+        },
+        {
+            "name": "Stachys aculeolata Hook.f.",
+            "id": "1563851",
+            "score": 0.00339
+        },
+        {
+            "name": "Salvia nilotica Juss. ex Jacq.",
+            "id": "1377391",
+            "score": 0.00324
+        },
+        {
+            "name": "Stachys rigida Nutt. ex Benth.",
+            "id": "1438607",
+            "score": 0.00322
+        },
+        {
+            "name": "Stachys balansae Boiss. & Kotschy",
+            "id": "1563882",
+            "score": 0.00303
+        },
+        {
+            "name": "Stachys arvensis (L.) L.",
+            "id": "1396422",
+            "score": 0.00296
+        },
+        {
+            "name": "Stachys ajugoides Benth.",
+            "id": "1438586",
+            "score": 0.00285
+        },
+        {
+            "name": "Betonica hirsuta L.",
+            "id": "1400125",
+            "score": 0.00284
+        },
+        {
+            "name": "Ranunculus bulbosus L.",
+            "id": "1360193",
+            "score": 0.00232
+        },
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.00214
+        },
+        {
+            "name": "Pilosella ziziana (Tausch) F.W.Schultz & Sch.Bip.",
+            "id": "1394588",
+            "score": 0.00187
+        },
+        {
+            "name": "Erigeron uniflorus L.",
+            "id": "1397378",
+            "score": 0.00183
+        },
+        {
+            "name": "Potentilla crantzii (Crantz) Beck ex Fritsch",
+            "id": "1394840",
+            "score": 0.00157
+        },
+        {
+            "name": "Campanula glomerata L.",
+            "id": "1390663",
+            "score": 0.00148
+        },
+        {
+            "name": "Helianthemum nummularium (L.) Mill.",
+            "id": "1357148",
+            "score": 0.00128
+        },
+        {
+            "name": "Stachys maritima Gouan",
+            "id": "1358942",
+            "score": 0.00128
+        },
+        {
+            "name": "Anemonastrum narcissiflorum (L.) Holub",
+            "id": "1741807",
+            "score": 0.00123
+        },
+        {
+            "name": "Potentilla hirta L.",
+            "id": "1362360",
+            "score": 0.00122
+        },
+        {
+            "name": "Androsace chamaejasme Wulfen",
+            "id": "1394282",
+            "score": 0.00108
+        },
+        {
+            "name": "Homogyne alpina (L.) Cass.",
+            "id": "1393200",
+            "score": 0.00091
+        },
+        {
+            "name": "Veronica chamaedrys L.",
+            "id": "1397521",
+            "score": 0.00089
+        },
+        {
+            "name": "Hieracium villosum Jacq.",
+            "id": "1393183",
+            "score": 0.00088
+        },
+        {
+            "name": "Agrimonia eupatoria L.",
+            "id": "1363994",
+            "score": 0.00086
+        },
+        {
+            "name": "Vicia benghalensis L.",
+            "id": "1363670",
+            "score": 0.00081
+        },
+        {
+            "name": "Potentilla caulescens L.",
+            "id": "1360306",
+            "score": 0.00075
+        },
+        {
+            "name": "Pulsatilla alpina (L.) Delarbre",
+            "id": "1741754",
+            "score": 0.00072
+        },
+        {
+            "name": "Ajuga reptans L.",
+            "id": "1358718",
+            "score": 0.00072
+        },
+        {
+            "name": "Trifolium ochroleucon Huds.",
+            "id": "1359510",
+            "score": 0.00068
+        },
+        {
+            "name": "Cerastium glomeratum Thuill.",
+            "id": "1356697",
+            "score": 0.00063
+        },
+        {
+            "name": "Anthyllis lotoides L.",
+            "id": "1398656",
+            "score": 0.00063
+        },
+        {
+            "name": "Bartsia alpina L.",
+            "id": "1400101",
+            "score": 0.00061
+        },
+        {
+            "name": "Ranunculus breyninus Crantz",
+            "id": "1395063",
+            "score": 0.00059
+        },
+        {
+            "name": "Geum rivale L.",
+            "id": "1392614",
+            "score": 0.00057
+        },
+        {
+            "name": "Ajuga orientalis L.",
+            "id": "1399061",
+            "score": 0.00054
+        },
+        {
+            "name": "Pilosella aurantiaca (L.) F.W.Schultz & Sch.Bip.",
+            "id": "1394567",
+            "score": 0.00054
+        },
+        {
+            "name": "Hieracium porrectum Fr.",
+            "id": "1393087",
+            "score": 0.00053
+        },
+        {
+            "name": "Plantago atrata Hoppe",
+            "id": "1394630",
+            "score": 0.00053
+        },
+        {
+            "name": "Pilosella glacialis (Reyn. ex Lachen.) F.W.Schultz & Sch.Bip.",
+            "id": "1389661",
+            "score": 0.00051
+        },
+        {
+            "name": "Trifolium subterraneum L.",
+            "id": "1359528",
+            "score": 0.0005
+        },
+        {
+            "name": "Erigeron alpinus L.",
+            "id": "1374231",
+            "score": 0.00048
+        },
+        {
+            "name": "Erigeron neglectus A.Kern.",
+            "id": "1392050",
+            "score": 0.00045
+        },
+        {
+            "name": "Lotus parviflorus Desf.",
+            "id": "1359321",
+            "score": 0.00045
+        },
+        {
+            "name": "Anthyllis vulneraria L.",
+            "id": "1356330",
+            "score": 0.00041
+        },
+        {
+            "name": "Mentha suaveolens Ehrh.",
+            "id": "1358789",
+            "score": 0.0004
+        },
+        {
+            "name": "Oxytropis pilosa (L.) DC.",
+            "id": "1394377",
+            "score": 0.00038
+        },
+        {
+            "name": "Pulsatilla vernalis (L.) Mill.",
+            "id": "1737507",
+            "score": 0.00038
+        },
+        {
+            "name": "Trifolium globosum L.",
+            "id": "1389829",
+            "score": 0.00038
+        },
+        {
+            "name": "Pentanema hirtum (L.) D.Gut.Larr., Santos-Vicente, Anderb., E.Rico & M.M.Mart.Ort.",
+            "id": "1742087",
+            "score": 0.00037
+        },
+        {
+            "name": "Thermopsis barbata Benth.",
+            "id": "1587381",
+            "score": 0.00036
+        },
+        {
+            "name": "Hieracium avilae Kunth",
+            "id": "1510066",
+            "score": 0.00036
+        },
+        {
+            "name": "Potentilla argentea L.",
+            "id": "1394830",
+            "score": 0.00034
+        },
+        {
+            "name": "Rubus × collinus DC.",
+            "id": "1746300",
+            "score": 0.00034
+        },
+        {
+            "name": "Chamaecytisus supinus (L.) Link",
+            "id": "1741822",
+            "score": 0.00034
+        },
+        {
+            "name": "Silene dioica (L.) Clairv.",
+            "id": "1356985",
+            "score": 0.00032
+        },
+        {
+            "name": "Salvia pratensis L.",
+            "id": "1395913",
+            "score": 0.00032
+        },
+        {
+            "name": "Lotus pedunculatus Cav.",
+            "id": "1359322",
+            "score": 0.00032
+        },
+        {
+            "name": "Ranunculus aduncus Gren.",
+            "id": "1395047",
+            "score": 0.00031
+        },
+        {
+            "name": "Elionurus muticus (Spreng.) Kuntze",
+            "id": "1365650",
+            "score": 0.00031
+        },
+        {
+            "name": "Rudbeckia hirta L.",
+            "id": "1395638",
+            "score": 0.00031
+        },
+        {
+            "name": "Pedicularis verticillata L.",
+            "id": "1394451",
+            "score": 0.0003
+        },
+        {
+            "name": "Pedicularis mixta Gren.",
+            "id": "1394441",
+            "score": 0.0003
+        },
+        {
+            "name": "Potentilla heptaphylla L.",
+            "id": "1394850",
+            "score": 0.0003
+        },
+        {
+            "name": "Silene latifolia Poir.",
+            "id": "1357009",
+            "score": 0.0003
+        },
+        {
+            "name": "Antennaria dioica (L.) Gaertn.",
+            "id": "1394643",
+            "score": 0.00029
+        },
+        {
+            "name": "Ranunculus kuepferi Greuter & Burdet",
+            "id": "1395097",
+            "score": 0.00028
+        },
+        {
+            "name": "Drymocallis rupestris (L.) Soják",
+            "id": "1391798",
+            "score": 0.00028
+        },
+        {
+            "name": "Anthyllis montana L.",
+            "id": "1359086",
+            "score": 0.00026
+        },
+        {
+            "name": "Hieracium pellitum Fr.",
+            "id": "1393069",
+            "score": 0.00026
+        }
+    ]
+}

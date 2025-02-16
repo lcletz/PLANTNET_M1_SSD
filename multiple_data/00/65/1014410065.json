@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tagetes patula L.",
+            "id": "1364159",
+            "score": 0.429
+        },
+        {
+            "name": "Tagetes erecta L.",
+            "id": "1374048",
+            "score": 0.31193
+        },
+        {
+            "name": "Tagetes tenuifolia Cav.",
+            "id": "1389492",
+            "score": 0.08402
+        },
+        {
+            "name": "Tagetes minuta L.",
+            "id": "1364158",
+            "score": 0.05968
+        },
+        {
+            "name": "Lepidium sativum L.",
+            "id": "1363894",
+            "score": 0.00292
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Oxalis acetosella L.",
+            "id": "1359750",
+            "score": 0.9604
+        },
+        {
+            "name": "Oxalis latifolia Kunth",
+            "id": "1363639",
+            "score": 0.00244
+        },
+        {
+            "name": "Oxalis violacea L.",
+            "id": "1435414",
+            "score": 0.00197
+        },
+        {
+            "name": "Oxalis montana Raf.",
+            "id": "1412891",
+            "score": 0.00174
+        },
+        {
+            "name": "Oxalis oregana Nutt.",
+            "id": "1412892",
+            "score": 0.00166
+        },
+        {
+            "name": "Oxalis stricta L.",
+            "id": "1362135",
+            "score": 0.00101
+        }
+    ]
+}

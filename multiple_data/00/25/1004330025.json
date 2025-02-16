@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Thalictrum aquilegiifolium L.",
+            "id": "1396734",
+            "score": 0.90931
+        },
+        {
+            "name": "Thalictrum pubescens Pursh",
+            "id": "1414016",
+            "score": 0.0064
+        },
+        {
+            "name": "Thalictrum flavum L.",
+            "id": "1360229",
+            "score": 0.00602
+        },
+        {
+            "name": "Ageratum houstonianum Mill.",
+            "id": "1355900",
+            "score": 0.00295
+        },
+        {
+            "name": "Chromolaena odorata (L.) R.M.King & H.Rob.",
+            "id": "1403855",
+            "score": 0.00226
+        },
+        {
+            "name": "Trautvetteria caroliniensis (Walter) Vail",
+            "id": "1414064",
+            "score": 0.00175
+        }
+    ]
+}

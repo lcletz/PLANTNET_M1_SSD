@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Pallenis spinosa (L.) Cass.",
+            "id": "1357743",
+            "score": 0.77189
+        },
+        {
+            "name": "Asteriscus aquaticus (L.) Less.",
+            "id": "1357293",
+            "score": 0.03143
+        },
+        {
+            "name": "Tolpis barbata (L.) Gaertn.",
+            "id": "1357934",
+            "score": 0.00339
+        },
+        {
+            "name": "Pentanema britannica (L.) D.Gut.Larr., Santos-Vicente, Anderb., E.Rico & M.M.Mart.Ort.",
+            "id": "1737666",
+            "score": 0.00211
+        },
+        {
+            "name": "Pallenis maritima (L.) Greuter",
+            "id": "1357742",
+            "score": 0.0014
+        },
+        {
+            "name": "Pentanema hirtum (L.) D.Gut.Larr., Santos-Vicente, Anderb., E.Rico & M.M.Mart.Ort.",
+            "id": "1742087",
+            "score": 0.00106
+        }
+    ]
+}

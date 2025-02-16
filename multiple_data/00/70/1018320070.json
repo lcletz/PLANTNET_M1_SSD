@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Lactuca serriola L.",
+            "id": "1364173",
+            "score": 0.54041
+        },
+        {
+            "name": "Lactuca virosa L.",
+            "id": "1355868",
+            "score": 0.24792
+        },
+        {
+            "name": "Lactuca saligna L.",
+            "id": "1357681",
+            "score": 0.03934
+        },
+        {
+            "name": "Sonchus palustris L.",
+            "id": "1361781",
+            "score": 0.00819
+        },
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.00342
+        },
+        {
+            "name": "Lactuca quercina L.",
+            "id": "1397421",
+            "score": 0.00113
+        },
+        {
+            "name": "Lactuca tatarica (L.) C.A.Mey.",
+            "id": "1417843",
+            "score": 0.00105
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aethusa cynapium L.",
+            "id": "1360608",
+            "score": 0.82726
+        },
+        {
+            "name": "Conium maculatum L.",
+            "id": "1363216",
+            "score": 0.02483
+        },
+        {
+            "name": "Anthriscus sylvestris (L.) Hoffm.",
+            "id": "1360614",
+            "score": 0.00532
+        },
+        {
+            "name": "Torilis arvensis (Huds.) Link",
+            "id": "1363212",
+            "score": 0.00348
+        },
+        {
+            "name": "Coriandrum sativum L.",
+            "id": "1363224",
+            "score": 0.00311
+        },
+        {
+            "name": "Daucus carota L.",
+            "id": "1363227",
+            "score": 0.00292
+        },
+        {
+            "name": "Petroselinum crispum (Mill.) Fuss",
+            "id": "1363214",
+            "score": 0.0029
+        },
+        {
+            "name": "Conopodium majus (Gouan) Loret",
+            "id": "1360674",
+            "score": 0.00267
+        },
+        {
+            "name": "Cyclospermum leptophyllum (Pers.) Sprague ex Britton & P.Wilson",
+            "id": "1408867",
+            "score": 0.00222
+        },
+        {
+            "name": "Oenanthe aquatica (L.) Poir.",
+            "id": "1393990",
+            "score": 0.00205
+        },
+        {
+            "name": "Oenanthe crocata L.",
+            "id": "1360761",
+            "score": 0.00183
+        },
+        {
+            "name": "Anthriscus cerefolium (L.) Hoffm.",
+            "id": "1360613",
+            "score": 0.00158
+        },
+        {
+            "name": "Pimpinella major (L.) Huds.",
+            "id": "1394592",
+            "score": 0.00135
+        },
+        {
+            "name": "Carum carvi L.",
+            "id": "1363229",
+            "score": 0.0013
+        },
+        {
+            "name": "Ammi majus L.",
+            "id": "1363217",
+            "score": 0.00127
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pastinaca sativa L.",
+            "id": "1363226",
+            "score": 0.87509
+        },
+        {
+            "name": "Foeniculum vulgare Mill.",
+            "id": "1360739",
+            "score": 0.09003
+        },
+        {
+            "name": "Anethum graveolens L.",
+            "id": "1363232",
+            "score": 0.00795
+        },
+        {
+            "name": "Petroselinum crispum (Mill.) Fuss",
+            "id": "1363214",
+            "score": 0.00148
+        },
+        {
+            "name": "Bupleurum falcatum L.",
+            "id": "1389590",
+            "score": 0.00144
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Senecio vernalis Waldst. & Kit.",
+            "id": "1396208",
+            "score": 0.95646
+        },
+        {
+            "name": "Senecio squalidus L.",
+            "id": "1357867",
+            "score": 0.00957
+        },
+        {
+            "name": "Senecio leucanthemifolius Poir.",
+            "id": "1357861",
+            "score": 0.00889
+        },
+        {
+            "name": "Senecio viscosus L.",
+            "id": "1396210",
+            "score": 0.00228
+        },
+        {
+            "name": "Senecio vulgaris L.",
+            "id": "1364138",
+            "score": 0.00152
+        }
+    ]
+}

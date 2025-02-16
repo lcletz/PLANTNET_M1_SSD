@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Medicago × varia Martyn",
+            "id": "1581623",
+            "score": 0.50507
+        },
+        {
+            "name": "Medicago sativa L.",
+            "id": "1363732",
+            "score": 0.35409
+        },
+        {
+            "name": "Medicago falcata L.",
+            "id": "1363729",
+            "score": 0.00273
+        },
+        {
+            "name": "Thalictrum minus L.",
+            "id": "1356304",
+            "score": 0.00145
+        }
+    ]
+}

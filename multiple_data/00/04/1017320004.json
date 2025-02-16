@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Beta vulgaris L.",
+            "id": "1363199",
+            "score": 0.90645
+        },
+        {
+            "name": "Spinacia oleracea L.",
+            "id": "1356556",
+            "score": 0.05722
+        },
+        {
+            "name": "Beta macrocarpa Guss.",
+            "id": "1356497",
+            "score": 0.00271
+        },
+        {
+            "name": "Rumex patientia L.",
+            "id": "1360135",
+            "score": 0.0012
+        },
+        {
+            "name": "Rheum rhaponticum L.",
+            "id": "1395161",
+            "score": 0.00102
+        }
+    ]
+}

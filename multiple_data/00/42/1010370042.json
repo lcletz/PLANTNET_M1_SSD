@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ceanothus arboreus Greene",
+            "id": "1390611",
+            "score": 0.80945
+        },
+        {
+            "name": "Ceanothus thyrsiflorus Eschw.",
+            "id": "1420323",
+            "score": 0.06188
+        },
+        {
+            "name": "Ceanothus americanus L.",
+            "id": "1390968",
+            "score": 0.01307
+        },
+        {
+            "name": "Ceanothus impressus Trel.",
+            "id": "1390969",
+            "score": 0.01287
+        },
+        {
+            "name": "Ceanothus tomentosus Parry",
+            "id": "1441014",
+            "score": 0.00599
+        },
+        {
+            "name": "Ceanothus × burtonensis Renss.",
+            "id": "1843919",
+            "score": 0.00122
+        }
+    ]
+}

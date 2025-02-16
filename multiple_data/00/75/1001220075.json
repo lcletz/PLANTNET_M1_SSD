@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Arctium nemorosum Lej.",
+            "id": "1396028",
+            "score": 0.38911
+        },
+        {
+            "name": "Arctium lappa L.",
+            "id": "1396002",
+            "score": 0.35285
+        },
+        {
+            "name": "Arctium minus (Hill) Bernh.",
+            "id": "1357244",
+            "score": 0.152
+        },
+        {
+            "name": "Arctium tomentosum Mill.",
+            "id": "1396054",
+            "score": 0.00549
+        },
+        {
+            "name": "Salvia sclarea L.",
+            "id": "1358876",
+            "score": 0.0051
+        },
+        {
+            "name": "Salvia argentea L.",
+            "id": "1358860",
+            "score": 0.00254
+        },
+        {
+            "name": "Verbascum sinuatum L.",
+            "id": "1360542",
+            "score": 0.00127
+        },
+        {
+            "name": "Verbascum thapsus L.",
+            "id": "1364059",
+            "score": 0.00102
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Cenchrus setaceus (Forssk.) Morrone",
+            "id": "1363021",
+            "score": 0.65807
+        },
+        {
+            "name": "Imperata cylindrica (L.) Raeusch.",
+            "id": "1363401",
+            "score": 0.04065
+        },
+        {
+            "name": "Oryza sativa L.",
+            "id": "1363477",
+            "score": 0.0043
+        },
+        {
+            "name": "Molinia caerulea (L.) Moench",
+            "id": "1363593",
+            "score": 0.00213
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tordylium maximum L.",
+            "id": "1396812",
+            "score": 0.86291
+        },
+        {
+            "name": "Torilis arvensis (Huds.) Link",
+            "id": "1363212",
+            "score": 0.02704
+        },
+        {
+            "name": "Daucus carota L.",
+            "id": "1363227",
+            "score": 0.0118
+        },
+        {
+            "name": "Torilis japonica (Houtt.) DC.",
+            "id": "1360816",
+            "score": 0.00746
+        },
+        {
+            "name": "Ammi majus L.",
+            "id": "1363217",
+            "score": 0.00221
+        },
+        {
+            "name": "Daucus pusillus Michx.",
+            "id": "1411700",
+            "score": 0.00147
+        },
+        {
+            "name": "Oenanthe pimpinelloides L.",
+            "id": "1360767",
+            "score": 0.00109
+        }
+    ]
+}

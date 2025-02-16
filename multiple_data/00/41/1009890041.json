@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hyoscyamus albus L.",
+            "id": "1360550",
+            "score": 0.84129
+        },
+        {
+            "name": "Hyoscyamus niger L.",
+            "id": "1360555",
+            "score": 0.07042
+        },
+        {
+            "name": "Crambe maritima L.",
+            "id": "1391425",
+            "score": 0.00351
+        },
+        {
+            "name": "Bryonia cretica L.",
+            "id": "1358446",
+            "score": 0.0021
+        },
+        {
+            "name": "Hyoscyamus aureus L.",
+            "id": "1360551",
+            "score": 0.00207
+        },
+        {
+            "name": "Nicotiana rustica L.",
+            "id": "1356160",
+            "score": 0.00106
+        }
+    ]
+}

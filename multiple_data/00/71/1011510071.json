@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Betonica officinalis L.",
+            "id": "1400126",
+            "score": 0.55745
+        },
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.0025
+        },
+        {
+            "name": "Betonica alopecuros L.",
+            "id": "1398116",
+            "score": 0.00161
+        },
+        {
+            "name": "Betonica hirsuta L.",
+            "id": "1400125",
+            "score": 0.00122
+        },
+        {
+            "name": "Galeopsis ladanum L.",
+            "id": "1362451",
+            "score": 0.00111
+        }
+    ]
+}

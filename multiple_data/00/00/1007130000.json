@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ailanthus altissima (Mill.) Swingle",
+            "id": "1360547",
+            "score": 0.91369
+        },
+        {
+            "name": "Juglans nigra L.",
+            "id": "1393337",
+            "score": 0.01352
+        },
+        {
+            "name": "Cedrela odorata L.",
+            "id": "1365961",
+            "score": 0.00788
+        },
+        {
+            "name": "Toona ciliata M.Roem.",
+            "id": "1419485",
+            "score": 0.00302
+        },
+        {
+            "name": "Juglans regia L.",
+            "id": "1358713",
+            "score": 0.00238
+        },
+        {
+            "name": "Swietenia mahagoni (L.) Jacq.",
+            "id": "1366100",
+            "score": 0.00174
+        },
+        {
+            "name": "Spathodea campanulata P.Beauv.",
+            "id": "1389151",
+            "score": 0.00117
+        }
+    ]
+}

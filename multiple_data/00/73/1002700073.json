@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Arundo donax L.",
+            "id": "1363442",
+            "score": 0.9266
+        },
+        {
+            "name": "Phragmites australis (Cav.) Trin. ex Steud.",
+            "id": "1356268",
+            "score": 0.00734
+        },
+        {
+            "name": "Saccharum officinarum L.",
+            "id": "1363506",
+            "score": 0.00151
+        },
+        {
+            "name": "Arundo micrantha Lam.",
+            "id": "1363041",
+            "score": 0.00124
+        },
+        {
+            "name": "Phalaris arundinacea L.",
+            "id": "1363490",
+            "score": 0.00118
+        }
+    ]
+}

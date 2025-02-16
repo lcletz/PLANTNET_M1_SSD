@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium alpinum L.",
+            "id": "1396843",
+            "score": 0.91279
+        },
+        {
+            "name": "Astragalus hypoglottis L.",
+            "id": "1398288",
+            "score": 0.00137
+        },
+        {
+            "name": "Armeria alpina (DC.) Willd.",
+            "id": "1647128",
+            "score": 0.00129
+        },
+        {
+            "name": "Astragalus monspessulanus L.",
+            "id": "1359138",
+            "score": 0.00127
+        },
+        {
+            "name": "Gentiana purpurea L.",
+            "id": "1392560",
+            "score": 0.00109
+        }
+    ]
+}

@@ -1,0 +1,400 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunella vulgaris L.",
+            "id": "1356109",
+            "score": 0.08503
+        },
+        {
+            "name": "Veronica serpyllifolia L.",
+            "id": "1364066",
+            "score": 0.0743
+        },
+        {
+            "name": "Ajuga reptans L.",
+            "id": "1358718",
+            "score": 0.07278
+        },
+        {
+            "name": "Torenia crustacea (L.) Cham. & Schltdl.",
+            "id": "1373206",
+            "score": 0.05456
+        },
+        {
+            "name": "Viola odorata L.",
+            "id": "1360872",
+            "score": 0.02553
+        },
+        {
+            "name": "Mazus pumilus (Burm.f.) Steenis",
+            "id": "1424003",
+            "score": 0.0206
+        },
+        {
+            "name": "Mentha pulegium L.",
+            "id": "1356106",
+            "score": 0.01499
+        },
+        {
+            "name": "Monarda didyma L.",
+            "id": "1397732",
+            "score": 0.01221
+        },
+        {
+            "name": "Dorstenia brasiliensis Lam.",
+            "id": "1405054",
+            "score": 0.01182
+        },
+        {
+            "name": "Convolvulus arvensis L.",
+            "id": "1364006",
+            "score": 0.01129
+        },
+        {
+            "name": "Viola canina L.",
+            "id": "1360864",
+            "score": 0.01057
+        },
+        {
+            "name": "Ajuga pyramidalis L.",
+            "id": "1389405",
+            "score": 0.00991
+        },
+        {
+            "name": "Verbascum blattaria L.",
+            "id": "1364060",
+            "score": 0.00956
+        },
+        {
+            "name": "Veronica agrestis L.",
+            "id": "1364061",
+            "score": 0.00897
+        },
+        {
+            "name": "Viola lactea Sm.",
+            "id": "1397158",
+            "score": 0.00718
+        },
+        {
+            "name": "Amaranthus deflexus L.",
+            "id": "1363250",
+            "score": 0.0069
+        },
+        {
+            "name": "Viola riviniana Rchb.",
+            "id": "1360878",
+            "score": 0.00667
+        },
+        {
+            "name": "Viola alba Besser",
+            "id": "1360861",
+            "score": 0.00648
+        },
+        {
+            "name": "Veronica polita Fr.",
+            "id": "1359981",
+            "score": 0.00609
+        },
+        {
+            "name": "Veronica filiformis Sm.",
+            "id": "1397048",
+            "score": 0.00579
+        },
+        {
+            "name": "Mentha × piperita L.",
+            "id": "1560691",
+            "score": 0.00542
+        },
+        {
+            "name": "Strobilanthes reptans (G.Forst.) Moylan ex Y.F.Deng & J.R.I.Wood",
+            "id": "1719989",
+            "score": 0.00509
+        },
+        {
+            "name": "Diplotaxis erucoides (L.) DC.",
+            "id": "1363878",
+            "score": 0.00491
+        },
+        {
+            "name": "Diplotaxis muralis (L.) DC.",
+            "id": "1363875",
+            "score": 0.00442
+        },
+        {
+            "name": "Clinopodium alpinum (L.) Kuntze",
+            "id": "1391304",
+            "score": 0.00407
+        },
+        {
+            "name": "Mecardonia procumbens (Mill.) Small",
+            "id": "1381173",
+            "score": 0.00402
+        },
+        {
+            "name": "Campanula rotundifolia L.",
+            "id": "1362422",
+            "score": 0.00397
+        },
+        {
+            "name": "Veronica persica Poir.",
+            "id": "1364065",
+            "score": 0.00377
+        },
+        {
+            "name": "Mazus miquelii Makino",
+            "id": "1434583",
+            "score": 0.00352
+        },
+        {
+            "name": "Glechoma hederacea L.",
+            "id": "1358746",
+            "score": 0.00351
+        },
+        {
+            "name": "Ranunculus ficaria L.",
+            "id": "1413421",
+            "score": 0.00334
+        },
+        {
+            "name": "Crepis bursifolia L.",
+            "id": "1357526",
+            "score": 0.0032
+        },
+        {
+            "name": "Bellis perennis L.",
+            "id": "1357317",
+            "score": 0.00277
+        },
+        {
+            "name": "Acmella uliginosa (Sw.) Cass.",
+            "id": "1374977",
+            "score": 0.00276
+        },
+        {
+            "name": "Boerhavia dominii Meikle & Hewson",
+            "id": "1805867",
+            "score": 0.00276
+        },
+        {
+            "name": "Calyptocarpus vialis Less.",
+            "id": "1422228",
+            "score": 0.00274
+        },
+        {
+            "name": "Veronica beccabunga L.",
+            "id": "1364067",
+            "score": 0.00272
+        },
+        {
+            "name": "Veronica arvensis L.",
+            "id": "1364063",
+            "score": 0.00253
+        },
+        {
+            "name": "Youngia japonica (L.) DC.",
+            "id": "1373670",
+            "score": 0.0025
+        },
+        {
+            "name": "Cyanthillium cinereum (L.) H.Rob.",
+            "id": "1405308",
+            "score": 0.00245
+        },
+        {
+            "name": "Viola reichenbachiana Jord. ex Boreau",
+            "id": "1397185",
+            "score": 0.00243
+        },
+        {
+            "name": "Prunella grandiflora (L.) Turra",
+            "id": "1737424",
+            "score": 0.00241
+        },
+        {
+            "name": "Bonnaya antipoda (L.) Druce",
+            "id": "1719809",
+            "score": 0.00238
+        },
+        {
+            "name": "Lysimachia nummularia L.",
+            "id": "1393708",
+            "score": 0.00236
+        },
+        {
+            "name": "Rapistrum rugosum (L.) All.",
+            "id": "1363879",
+            "score": 0.00212
+        },
+        {
+            "name": "Viola hirta L.",
+            "id": "1361898",
+            "score": 0.00204
+        },
+        {
+            "name": "Poa annua L.",
+            "id": "1363455",
+            "score": 0.00204
+        },
+        {
+            "name": "Senecio doria L.",
+            "id": "1357857",
+            "score": 0.00196
+        },
+        {
+            "name": "Evolvulus nummularius (L.) L.",
+            "id": "1364026",
+            "score": 0.00192
+        },
+        {
+            "name": "Mentha aquatica L.",
+            "id": "1356105",
+            "score": 0.00192
+        },
+        {
+            "name": "Acmella oleracea (L.) R.K.Jansen",
+            "id": "1407743",
+            "score": 0.00181
+        },
+        {
+            "name": "Veronica spicata L.",
+            "id": "1397522",
+            "score": 0.00176
+        },
+        {
+            "name": "Viola × melissifolia Greene",
+            "id": "1815747",
+            "score": 0.00175
+        },
+        {
+            "name": "Acmella caulirhiza Delile",
+            "id": "1374974",
+            "score": 0.00174
+        },
+        {
+            "name": "Eurybia divaricata (L.) G.L.Nesom",
+            "id": "1389267",
+            "score": 0.00171
+        },
+        {
+            "name": "Sphagneticola trilobata (L.) Pruski",
+            "id": "1405547",
+            "score": 0.0017
+        },
+        {
+            "name": "Viola inconspicua Blume",
+            "id": "1408825",
+            "score": 0.00168
+        },
+        {
+            "name": "Phyteuma orbiculare L.",
+            "id": "1394548",
+            "score": 0.00158
+        },
+        {
+            "name": "Elephantopus scaber L.",
+            "id": "1379562",
+            "score": 0.00157
+        },
+        {
+            "name": "Fallopia convolvulus (L.) Á.Löve",
+            "id": "1392250",
+            "score": 0.00148
+        },
+        {
+            "name": "Eclipta prostrata (L.) L.",
+            "id": "1364146",
+            "score": 0.00147
+        },
+        {
+            "name": "Ajuga genevensis L.",
+            "id": "1391853",
+            "score": 0.00142
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.00141
+        },
+        {
+            "name": "Noccaea perfoliata (L.) Al-Shehbaz",
+            "id": "1737578",
+            "score": 0.0014
+        },
+        {
+            "name": "Scrophularia auriculata L.",
+            "id": "1360495",
+            "score": 0.00139
+        },
+        {
+            "name": "Coldenia procumbens L.",
+            "id": "1363863",
+            "score": 0.00138
+        },
+        {
+            "name": "Rorippa dubia (Pers.) H.Hara",
+            "id": "1424197",
+            "score": 0.00132
+        },
+        {
+            "name": "Campanula carpatica Jacq.",
+            "id": "1390656",
+            "score": 0.00129
+        },
+        {
+            "name": "Phyla nodiflora (L.) Greene",
+            "id": "1360859",
+            "score": 0.00124
+        },
+        {
+            "name": "Capsella bursa-pastoris (L.) Medik.",
+            "id": "1363910",
+            "score": 0.00123
+        },
+        {
+            "name": "Dichondra micrantha Urb.",
+            "id": "1364071",
+            "score": 0.00119
+        },
+        {
+            "name": "Paederia foetida L.",
+            "id": "1408451",
+            "score": 0.00119
+        },
+        {
+            "name": "Orthosiphon thymiflorus (Roth) Sleesen",
+            "id": "1380465",
+            "score": 0.00115
+        },
+        {
+            "name": "Rorippa indica (L.) Hiern",
+            "id": "1358415",
+            "score": 0.00109
+        },
+        {
+            "name": "Scutellaria minor Huds.",
+            "id": "1396140",
+            "score": 0.00108
+        },
+        {
+            "name": "Scutellaria galericulata L.",
+            "id": "1396137",
+            "score": 0.00106
+        },
+        {
+            "name": "Monarda fistulosa L.",
+            "id": "1397733",
+            "score": 0.00106
+        },
+        {
+            "name": "Viola suavis M.Bieb.",
+            "id": "1397193",
+            "score": 0.00105
+        },
+        {
+            "name": "Viola × bavarica Schrank",
+            "id": "1737491",
+            "score": 0.00101
+        }
+    ]
+}

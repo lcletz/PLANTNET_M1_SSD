@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia peplus L.",
+            "id": "1355969",
+            "score": 0.94939
+        },
+        {
+            "name": "Euphorbia stricta L.",
+            "id": "1392190",
+            "score": 0.00549
+        },
+        {
+            "name": "Euphorbia platyphyllos L.",
+            "id": "1355986",
+            "score": 0.00264
+        },
+        {
+            "name": "Euphorbia exigua L.",
+            "id": "1358552",
+            "score": 0.00175
+        },
+        {
+            "name": "Euphorbia dulcis L.",
+            "id": "1392156",
+            "score": 0.00116
+        },
+        {
+            "name": "Hypericum mutilum L.",
+            "id": "1397408",
+            "score": 0.00115
+        }
+    ]
+}

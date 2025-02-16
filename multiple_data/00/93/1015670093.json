@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vicia faba L.",
+            "id": "1363676",
+            "score": 0.92678
+        },
+        {
+            "name": "Vicia narbonensis L.",
+            "id": "1363674",
+            "score": 0.01485
+        },
+        {
+            "name": "Galega officinalis L.",
+            "id": "1359197",
+            "score": 0.00578
+        },
+        {
+            "name": "Trigonella foenum-graecum L.",
+            "id": "1363680",
+            "score": 0.0047
+        },
+        {
+            "name": "Lathyrus laevigatus (Waldst. & Kit.) Gren.",
+            "id": "1393456",
+            "score": 0.00183
+        },
+        {
+            "name": "Galega orientalis Lam.",
+            "id": "1392418",
+            "score": 0.00117
+        }
+    ]
+}

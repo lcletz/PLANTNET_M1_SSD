@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Eryngium campestre L.",
+            "id": "1360711",
+            "score": 0.95261
+        },
+        {
+            "name": "Eryngium bourgatii Gouan",
+            "id": "1360709",
+            "score": 0.02316
+        },
+        {
+            "name": "Eryngium maritimum L.",
+            "id": "1360719",
+            "score": 0.00361
+        },
+        {
+            "name": "Eryngium dilatatum Lam.",
+            "id": "1360715",
+            "score": 0.0028
+        },
+        {
+            "name": "Eryngium amethystinum L.",
+            "id": "1399168",
+            "score": 0.00179
+        }
+    ]
+}

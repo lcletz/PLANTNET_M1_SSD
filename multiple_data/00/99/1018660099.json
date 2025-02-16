@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Aloe arborescens Mill.",
+            "id": "1363324",
+            "score": 0.74172
+        },
+        {
+            "name": "Aloiampelos ciliaris (Haw.) Klopper & Gideon F.Sm.",
+            "id": "1381430",
+            "score": 0.00524
+        },
+        {
+            "name": "Aloe perfoliata L.",
+            "id": "1393026",
+            "score": 0.00397
+        },
+        {
+            "name": "Aloe brevifolia Mill.",
+            "id": "1393009",
+            "score": 0.0027
+        },
+        {
+            "name": "Aloe vera (L.) Burm.f.",
+            "id": "1400011",
+            "score": 0.00208
+        },
+        {
+            "name": "Aloe humilis (L.) Mill.",
+            "id": "1393020",
+            "score": 0.00107
+        }
+    ]
+}

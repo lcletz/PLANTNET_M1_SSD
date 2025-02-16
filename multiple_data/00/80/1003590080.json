@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Anthyllis vulneraria L.",
+            "id": "1356330",
+            "score": 0.86708
+        },
+        {
+            "name": "Anthyllis montana L.",
+            "id": "1359086",
+            "score": 0.02959
+        },
+        {
+            "name": "Chamaecytisus hirsutus (L.) Link",
+            "id": "1741819",
+            "score": 0.00727
+        },
+        {
+            "name": "Tripodion tetraphyllum (L.) Fourr.",
+            "id": "1359545",
+            "score": 0.00305
+        },
+        {
+            "name": "Lotus hirsutus L.",
+            "id": "1743246",
+            "score": 0.0018
+        }
+    ]
+}

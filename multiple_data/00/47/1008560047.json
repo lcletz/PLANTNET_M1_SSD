@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Celosia argentea L.",
+            "id": "1363271",
+            "score": 0.96064
+        },
+        {
+            "name": "Deeringia spicata (Thouars) Schinz",
+            "id": "1451248",
+            "score": 0.00985
+        },
+        {
+            "name": "Celosia elegantissima Hauman",
+            "id": "1387122",
+            "score": 0.00347
+        },
+        {
+            "name": "Amaranthus caudatus L.",
+            "id": "1363248",
+            "score": 0.00195
+        },
+        {
+            "name": "Amaranthus cruentus L.",
+            "id": "1363249",
+            "score": 0.00186
+        },
+        {
+            "name": "Gomphrena serrata L.",
+            "id": "1421299",
+            "score": 0.00144
+        }
+    ]
+}

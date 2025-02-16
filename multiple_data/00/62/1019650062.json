@@ -1,0 +1,110 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Bidens aurea (Aiton) Sherff",
+            "id": "1357321",
+            "score": 0.26357
+        },
+        {
+            "name": "Coreopsis verticillata L.",
+            "id": "1398636",
+            "score": 0.26089
+        },
+        {
+            "name": "Bidens bipinnata L.",
+            "id": "1364141",
+            "score": 0.10525
+        },
+        {
+            "name": "Cosmos bipinnatus Cav.",
+            "id": "1364120",
+            "score": 0.0115
+        },
+        {
+            "name": "Reseda lutea L.",
+            "id": "1356295",
+            "score": 0.00986
+        },
+        {
+            "name": "Bidens aristosa (Michx.) Britton",
+            "id": "1400134",
+            "score": 0.00887
+        },
+        {
+            "name": "Ranunculus arvensis L.",
+            "id": "1360188",
+            "score": 0.00657
+        },
+        {
+            "name": "Geranium dissectum L.",
+            "id": "1356007",
+            "score": 0.00452
+        },
+        {
+            "name": "Geranium columbinum L.",
+            "id": "1358671",
+            "score": 0.00397
+        },
+        {
+            "name": "Coreopsis lanceolata L.",
+            "id": "1391350",
+            "score": 0.00329
+        },
+        {
+            "name": "Bidens subalternans DC.",
+            "id": "1400143",
+            "score": 0.00241
+        },
+        {
+            "name": "Ammi majus L.",
+            "id": "1363217",
+            "score": 0.00196
+        },
+        {
+            "name": "Roemeria sicula (Guss.) ined.",
+            "id": "1739196",
+            "score": 0.00191
+        },
+        {
+            "name": "Nigella sativa L.",
+            "id": "1363976",
+            "score": 0.00178
+        },
+        {
+            "name": "Ranunculus sardous Crantz",
+            "id": "1360223",
+            "score": 0.00172
+        },
+        {
+            "name": "Ranunculus macrophyllus Desf.",
+            "id": "1360208",
+            "score": 0.00162
+        },
+        {
+            "name": "Tagetes tenuifolia Cav.",
+            "id": "1389492",
+            "score": 0.00159
+        },
+        {
+            "name": "Scabiosa columbaria L.",
+            "id": "1361926",
+            "score": 0.00135
+        },
+        {
+            "name": "Ruta graveolens L.",
+            "id": "1364039",
+            "score": 0.00132
+        },
+        {
+            "name": "Bidens pilosa L.",
+            "id": "1364143",
+            "score": 0.00104
+        },
+        {
+            "name": "Lepidium didymum L.",
+            "id": "1363892",
+            "score": 0.00098
+        }
+    ]
+}

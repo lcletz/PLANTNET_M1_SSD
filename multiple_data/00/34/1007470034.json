@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bromus arvensis L.",
+            "id": "1397525",
+            "score": 0.69659
+        },
+        {
+            "name": "Bromus erectus Huds.",
+            "id": "1414354",
+            "score": 0.04644
+        },
+        {
+            "name": "Bromus racemosus L.",
+            "id": "1361203",
+            "score": 0.0092
+        },
+        {
+            "name": "Bromus sterilis L.",
+            "id": "1414366",
+            "score": 0.0051
+        },
+        {
+            "name": "Bromus catharticus Vahl",
+            "id": "1407739",
+            "score": 0.00421
+        },
+        {
+            "name": "Bromus inermis Leyss.",
+            "id": "1414356",
+            "score": 0.00399
+        },
+        {
+            "name": "Festuca rubra L.",
+            "id": "1361284",
+            "score": 0.00343
+        },
+        {
+            "name": "Bromus squarrosus L.",
+            "id": "1361207",
+            "score": 0.00231
+        },
+        {
+            "name": "Hyparrhenia hirta (L.) Stapf",
+            "id": "1363410",
+            "score": 0.00165
+        },
+        {
+            "name": "Bromus riparius Rehmann",
+            "id": "1648731",
+            "score": 0.00147
+        },
+        {
+            "name": "Bromus secalinus L.",
+            "id": "1361206",
+            "score": 0.0012
+        },
+        {
+            "name": "Bromus lanceolatus Roth",
+            "id": "1361201",
+            "score": 0.00107
+        }
+    ]
+}

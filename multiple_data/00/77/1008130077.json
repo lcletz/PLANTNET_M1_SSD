@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viburnum opulus L.",
+            "id": "1361743",
+            "score": 0.50775
+        },
+        {
+            "name": "Viburnum trilobum Marshall",
+            "id": "1397611",
+            "score": 0.33473
+        },
+        {
+            "name": "Ribes rubrum L.",
+            "id": "1397543",
+            "score": 0.00576
+        },
+        {
+            "name": "Viburnum sargentii Koehne",
+            "id": "1447924",
+            "score": 0.00552
+        },
+        {
+            "name": "Ribes alpinum L.",
+            "id": "1358682",
+            "score": 0.00371
+        },
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.0023
+        },
+        {
+            "name": "Viburnum dilatatum Thunb.",
+            "id": "1417549",
+            "score": 0.00214
+        },
+        {
+            "name": "Viburnum macrocephalum Fortune",
+            "id": "1398542",
+            "score": 0.00176
+        },
+        {
+            "name": "Viburnum lantana L.",
+            "id": "1356792",
+            "score": 0.00139
+        },
+        {
+            "name": "Viburnum plicatum Thunb.",
+            "id": "1397609",
+            "score": 0.00124
+        }
+    ]
+}

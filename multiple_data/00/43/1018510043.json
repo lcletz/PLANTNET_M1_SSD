@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Viburnum lantana L.",
+            "id": "1356792",
+            "score": 0.56289
+        },
+        {
+            "name": "Mentha longifolia (L.) L.",
+            "id": "1356107",
+            "score": 0.00968
+        },
+        {
+            "name": "Lippia alba (Mill.) N.E.Br. ex Britton & P.Wilson",
+            "id": "1420825",
+            "score": 0.00332
+        },
+        {
+            "name": "Spiraea douglasii Hook.",
+            "id": "1396399",
+            "score": 0.00163
+        },
+        {
+            "name": "Arctium tomentosum Mill.",
+            "id": "1396054",
+            "score": 0.00083
+        },
+        {
+            "name": "Alnus incana (L.) Moench",
+            "id": "1397308",
+            "score": 0.00034
+        },
+        {
+            "name": "Lonicera tatarica L.",
+            "id": "1393638",
+            "score": 0.00029
+        }
+    ]
+}

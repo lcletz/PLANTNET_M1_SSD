@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Centaurea aspera L.",
+            "id": "1357401",
+            "score": 0.94054
+        },
+        {
+            "name": "Centaurea jacea L.",
+            "id": "1362427",
+            "score": 0.00895
+        },
+        {
+            "name": "Centaurea nigra L.",
+            "id": "1357438",
+            "score": 0.00715
+        },
+        {
+            "name": "Centaurea sphaerocephala L.",
+            "id": "1357456",
+            "score": 0.00649
+        },
+        {
+            "name": "Centaurea pectinata L.",
+            "id": "1391028",
+            "score": 0.00571
+        },
+        {
+            "name": "Centaurea phrygia L.",
+            "id": "1390981",
+            "score": 0.00352
+        },
+        {
+            "name": "Centaurea napifolia L.",
+            "id": "1357437",
+            "score": 0.0033
+        },
+        {
+            "name": "Centaurea nigrescens Willd.",
+            "id": "1391025",
+            "score": 0.00162
+        },
+        {
+            "name": "Centaurea pullata L.",
+            "id": "1357448",
+            "score": 0.00124
+        },
+        {
+            "name": "Centaurea decipiens Thuill.",
+            "id": "1390995",
+            "score": 0.00106
+        }
+    ]
+}

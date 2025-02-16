@@ -1,0 +1,25 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Phyllostachys aurea (André) Rivière & C.Rivière",
+            "id": "1723194",
+            "score": 0.05304
+        },
+        {
+            "name": "Pseudosasa japonica (Siebold & Zucc. ex Steud.) Makino ex Nakai",
+            "id": "1432743",
+            "score": 0.04655
+        },
+        {
+            "name": "Sasa palmata (Burb.) E.G.Camus",
+            "id": "1420092",
+            "score": 0.00258
+        },
+        {
+            "name": "Arundo donax L.",
+            "id": "1363442",
+            "score": 0.00108
+        }
+    ]
+}

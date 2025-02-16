@@ -1,0 +1,475 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fraxinus angustifolia Vahl",
+            "id": "1362009",
+            "score": 0.54417
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.31102
+        },
+        {
+            "name": "Alnus glutinosa (L.) Gaertn.",
+            "id": "1356608",
+            "score": 0.02535
+        },
+        {
+            "name": "Phellodendron amurense Rupr.",
+            "id": "1413037",
+            "score": 0.0225
+        },
+        {
+            "name": "Fraxinus pennsylvanica Marshall",
+            "id": "1392363",
+            "score": 0.02246
+        },
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.01712
+        },
+        {
+            "name": "Juglans regia L.",
+            "id": "1358713",
+            "score": 0.01694
+        },
+        {
+            "name": "Fraxinus ornus L.",
+            "id": "1362963",
+            "score": 0.01554
+        },
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.01416
+        },
+        {
+            "name": "Carya illinoinensis (Wangenh.) K.Koch",
+            "id": "1407788",
+            "score": 0.0122
+        },
+        {
+            "name": "Pterocarya fraxinifolia (Poir.) Spach",
+            "id": "1394969",
+            "score": 0.00961
+        },
+        {
+            "name": "Fraxinus latifolia Benth.",
+            "id": "1412090",
+            "score": 0.00875
+        },
+        {
+            "name": "Quercus cerris L.",
+            "id": "1395020",
+            "score": 0.00874
+        },
+        {
+            "name": "Quercus palustris Münchh.",
+            "id": "1397592",
+            "score": 0.0075
+        },
+        {
+            "name": "Pistacia chinensis Bunge",
+            "id": "1419331",
+            "score": 0.00725
+        },
+        {
+            "name": "Quercus pubescens Willd.",
+            "id": "1395026",
+            "score": 0.00713
+        },
+        {
+            "name": "Juglans nigra L.",
+            "id": "1393337",
+            "score": 0.00684
+        },
+        {
+            "name": "Fraxinus americana L.",
+            "id": "1397619",
+            "score": 0.00652
+        },
+        {
+            "name": "Quercus rubra L.",
+            "id": "1395035",
+            "score": 0.0065
+        },
+        {
+            "name": "Liquidambar styraciflua L.",
+            "id": "1393613",
+            "score": 0.00555
+        },
+        {
+            "name": "Fraxinus velutina Torr.",
+            "id": "1443766",
+            "score": 0.00505
+        },
+        {
+            "name": "Platycarya strobilacea Siebold & Zucc.",
+            "id": "1557967",
+            "score": 0.00435
+        },
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.00428
+        },
+        {
+            "name": "Diospyros lotus L.",
+            "id": "1391736",
+            "score": 0.00409
+        },
+        {
+            "name": "Fraxinus baroniana Diels",
+            "id": "1609130",
+            "score": 0.00387
+        },
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.00369
+        },
+        {
+            "name": "Celtis laevigata Willd.",
+            "id": "1418375",
+            "score": 0.00328
+        },
+        {
+            "name": "Diospyros virginiana L.",
+            "id": "1389362",
+            "score": 0.00279
+        },
+        {
+            "name": "Fraxinus mandshurica Rupr.",
+            "id": "1609150",
+            "score": 0.00264
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.00246
+        },
+        {
+            "name": "Fraxinus uhdei (Wenz.) Lingelsh.",
+            "id": "1419623",
+            "score": 0.00239
+        },
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.00226
+        },
+        {
+            "name": "Fraxinus nigra Marshall",
+            "id": "1412091",
+            "score": 0.00226
+        },
+        {
+            "name": "Quercus pagoda Raf.",
+            "id": "1437139",
+            "score": 0.00212
+        },
+        {
+            "name": "Spathodea campanulata P.Beauv.",
+            "id": "1389151",
+            "score": 0.00206
+        },
+        {
+            "name": "Fraxinus bungeana A.DC.",
+            "id": "1609134",
+            "score": 0.00201
+        },
+        {
+            "name": "Copaifera langsdorffii Desf.",
+            "id": "1575367",
+            "score": 0.002
+        },
+        {
+            "name": "Tecoma stans (L.) Juss. ex Kunth",
+            "id": "1400150",
+            "score": 0.00196
+        },
+        {
+            "name": "Celtis occidentalis L.",
+            "id": "1397796",
+            "score": 0.00177
+        },
+        {
+            "name": "Cedrela fissilis Vell.",
+            "id": "1600531",
+            "score": 0.00176
+        },
+        {
+            "name": "Cormus domestica (L.) Spach",
+            "id": "1738846",
+            "score": 0.00172
+        },
+        {
+            "name": "Carya glabra (Mill.) Sweet",
+            "id": "1411341",
+            "score": 0.00169
+        },
+        {
+            "name": "Cedrela odorata L.",
+            "id": "1365961",
+            "score": 0.00164
+        },
+        {
+            "name": "Alnus cordata (Loisel.) Duby",
+            "id": "1397307",
+            "score": 0.0016
+        },
+        {
+            "name": "Juglans cinerea L.",
+            "id": "1412349",
+            "score": 0.00154
+        },
+        {
+            "name": "Fraxinus sogdiana Bunge",
+            "id": "1609165",
+            "score": 0.00148
+        },
+        {
+            "name": "Sorbus americana Marshall",
+            "id": "1413868",
+            "score": 0.00147
+        },
+        {
+            "name": "Rhus copallinum L.",
+            "id": "1413464",
+            "score": 0.00143
+        },
+        {
+            "name": "Zelkova serrata (Thunb.) Makino",
+            "id": "1398535",
+            "score": 0.00138
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.00133
+        },
+        {
+            "name": "Quercus pyrenaica Willd.",
+            "id": "1358616",
+            "score": 0.00132
+        },
+        {
+            "name": "Fraxinus paxiana Lingelsh.",
+            "id": "1609155",
+            "score": 0.00126
+        },
+        {
+            "name": "Fraxinus quadrangulata Michx.",
+            "id": "1412093",
+            "score": 0.00124
+        },
+        {
+            "name": "Populus alba L.",
+            "id": "1364046",
+            "score": 0.00123
+        },
+        {
+            "name": "Betula pendula Roth",
+            "id": "1356609",
+            "score": 0.0012
+        },
+        {
+            "name": "Juglans major (Torr.) A.Heller",
+            "id": "1766303",
+            "score": 0.0012
+        },
+        {
+            "name": "Carya pallida (Ashe) Engelm. & Graebn.",
+            "id": "1557932",
+            "score": 0.00113
+        },
+        {
+            "name": "Pterocarya rhoifolia Siebold & Zucc.",
+            "id": "1557971",
+            "score": 0.00108
+        },
+        {
+            "name": "Celtis australis L.",
+            "id": "1361742",
+            "score": 0.00107
+        },
+        {
+            "name": "Arbutus menziesii Pursh",
+            "id": "1413017",
+            "score": 0.00102
+        },
+        {
+            "name": "Torminalis glaberrima (Gand.) Sennikov & Kurtto",
+            "id": "1737588",
+            "score": 0.00101
+        },
+        {
+            "name": "Zanthoxylum riedelianum Engl.",
+            "id": "1683266",
+            "score": 0.00098
+        },
+        {
+            "name": "Prunus serotina Ehrh.",
+            "id": "1370859",
+            "score": 0.00095
+        },
+        {
+            "name": "Acer pseudoplatanus L.",
+            "id": "1356460",
+            "score": 0.00095
+        },
+        {
+            "name": "Swietenia macrophylla King",
+            "id": "1366098",
+            "score": 0.0009
+        },
+        {
+            "name": "Carya laciniosa (F.Michx.) G.Don",
+            "id": "1557926",
+            "score": 0.00086
+        },
+        {
+            "name": "Toona ciliata M.Roem.",
+            "id": "1419485",
+            "score": 0.00084
+        },
+        {
+            "name": "Koelreuteria paniculata Laxm.",
+            "id": "1397985",
+            "score": 0.00083
+        },
+        {
+            "name": "Quercus acutissima Carruth.",
+            "id": "1419069",
+            "score": 0.0008
+        },
+        {
+            "name": "Ulmus parvifolia Jacq.",
+            "id": "1414124",
+            "score": 0.00079
+        },
+        {
+            "name": "Toxicodendron succedaneum (L.) Kuntze",
+            "id": "1419433",
+            "score": 0.00075
+        },
+        {
+            "name": "Brucea javanica (L.) Merr.",
+            "id": "1382109",
+            "score": 0.00074
+        },
+        {
+            "name": "Quercus robur L.",
+            "id": "1357413",
+            "score": 0.00074
+        },
+        {
+            "name": "Ulmus americana L.",
+            "id": "1390323",
+            "score": 0.00073
+        },
+        {
+            "name": "Quercus nigra L.",
+            "id": "1389501",
+            "score": 0.00065
+        },
+        {
+            "name": "Swietenia mahagoni (L.) Jacq.",
+            "id": "1366100",
+            "score": 0.00064
+        },
+        {
+            "name": "Juglans mandshurica Maxim.",
+            "id": "1419240",
+            "score": 0.00064
+        },
+        {
+            "name": "Quercus petraea (Matt.) Liebl.",
+            "id": "1419076",
+            "score": 0.00063
+        },
+        {
+            "name": "Quercus falcata Michx.",
+            "id": "1419072",
+            "score": 0.00063
+        },
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.00061
+        },
+        {
+            "name": "Tabebuia roseoalba (Ridl.) Sandwith",
+            "id": "1476995",
+            "score": 0.00057
+        },
+        {
+            "name": "Fraxinus profunda (Bush) Bush",
+            "id": "1412092",
+            "score": 0.00056
+        },
+        {
+            "name": "Melia azedarach L.",
+            "id": "1363624",
+            "score": 0.00055
+        },
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.00055
+        },
+        {
+            "name": "Acer saccharinum L.",
+            "id": "1391667",
+            "score": 0.0005
+        },
+        {
+            "name": "Brachystegia spiciformis Benth.",
+            "id": "1366458",
+            "score": 0.00049
+        },
+        {
+            "name": "Ungnadia speciosa Endl.",
+            "id": "1420627",
+            "score": 0.00049
+        },
+        {
+            "name": "Castanea sativa Mill.",
+            "id": "1358610",
+            "score": 0.00047
+        },
+        {
+            "name": "Nothofagus obliqua (Mirb.) Oerst.",
+            "id": "1390617",
+            "score": 0.00047
+        },
+        {
+            "name": "Pistacia terebinthus L.",
+            "id": "1356567",
+            "score": 0.00046
+        },
+        {
+            "name": "Decaisnea insignis (Griff.) Hook.f. & Thomson",
+            "id": "1419300",
+            "score": 0.00046
+        },
+        {
+            "name": "Centrolobium robustum (Vell.) Mart. ex Benth.",
+            "id": "1734383",
+            "score": 0.00043
+        },
+        {
+            "name": "Ailanthus altissima (Mill.) Swingle",
+            "id": "1360547",
+            "score": 0.00043
+        },
+        {
+            "name": "Quercus kelloggii Newb.",
+            "id": "1548316",
+            "score": 0.00039
+        }
+    ]
+}

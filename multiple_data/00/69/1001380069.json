@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Robinia viscosa Michx. ex Vent.",
+            "id": "1742844",
+            "score": 0.60165
+        },
+        {
+            "name": "Robinia pseudoacacia L.",
+            "id": "1363698",
+            "score": 0.25858
+        },
+        {
+            "name": "Robinia hispida L.",
+            "id": "1395210",
+            "score": 0.07587
+        },
+        {
+            "name": "Amorpha fruticosa L.",
+            "id": "1393787",
+            "score": 0.01832
+        },
+        {
+            "name": "Lathyrus niger (L.) Bernh.",
+            "id": "1359276",
+            "score": 0.00392
+        },
+        {
+            "name": "Colutea arborescens L.",
+            "id": "1362283",
+            "score": 0.00266
+        },
+        {
+            "name": "Astragalus glycyphyllos L.",
+            "id": "1398286",
+            "score": 0.00234
+        },
+        {
+            "name": "Acacia acanthaster Maslin",
+            "id": "1567891",
+            "score": 0.00208
+        },
+        {
+            "name": "Tipuana tipu (Benth.) Kuntze",
+            "id": "1389022",
+            "score": 0.00127
+        }
+    ]
+}

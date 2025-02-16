@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vaccinium corymbosum L.",
+            "id": "1396966",
+            "score": 0.8063
+        },
+        {
+            "name": "Vaccinium myrtillus L.",
+            "id": "1361801",
+            "score": 0.0772
+        },
+        {
+            "name": "Vaccinium angustifolium Aiton",
+            "id": "1414140",
+            "score": 0.0724
+        },
+        {
+            "name": "Vaccinium pallidum Aiton",
+            "id": "1414150",
+            "score": 0.00378
+        },
+        {
+            "name": "Vaccinium caesariense Mack.",
+            "id": "1439434",
+            "score": 0.0018
+        },
+        {
+            "name": "Vaccinium myrtilloides Michx.",
+            "id": "1414146",
+            "score": 0.00118
+        }
+    ]
+}

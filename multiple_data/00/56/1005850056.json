@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ornithogalum divergens Boreau",
+            "id": "1394319",
+            "score": 0.61537
+        },
+        {
+            "name": "Ornithogalum umbellatum L.",
+            "id": "1362350",
+            "score": 0.25736
+        },
+        {
+            "name": "Ornithogalum exscapum Ten.",
+            "id": "1397754",
+            "score": 0.04518
+        },
+        {
+            "name": "Ornithogalum orthophyllum Ten.",
+            "id": "1362348",
+            "score": 0.02693
+        },
+        {
+            "name": "Ornithogalum gussonei Ten.",
+            "id": "1394320",
+            "score": 0.00779
+        },
+        {
+            "name": "Ornithogalum baeticum Boiss.",
+            "id": "1361511",
+            "score": 0.00223
+        }
+    ]
+}

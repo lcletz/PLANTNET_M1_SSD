@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Kalmia latifolia L.",
+            "id": "1398517",
+            "score": 0.84729
+        },
+        {
+            "name": "Kalmia angustifolia L.",
+            "id": "1398516",
+            "score": 0.00565
+        },
+        {
+            "name": "Rhododendron maximum L.",
+            "id": "1398409",
+            "score": 0.00321
+        },
+        {
+            "name": "Erica arborea L.",
+            "id": "1358503",
+            "score": 0.00288
+        },
+        {
+            "name": "Kalmia polifolia Wangenh.",
+            "id": "1412398",
+            "score": 0.00275
+        },
+        {
+            "name": "Kalmia hirsuta Walter",
+            "id": "1433488",
+            "score": 0.00262
+        },
+        {
+            "name": "Deutzia scabra Thunb.",
+            "id": "1391675",
+            "score": 0.00113
+        }
+    ]
+}

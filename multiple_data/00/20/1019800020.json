@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Helianthus × laetiflorus Pers.",
+            "id": "1509310",
+            "score": 0.8268
+        },
+        {
+            "name": "Helianthus tuberosus L.",
+            "id": "1357617",
+            "score": 0.09378
+        },
+        {
+            "name": "Helianthus pauciflorus Nutt.",
+            "id": "1392721",
+            "score": 0.03544
+        },
+        {
+            "name": "Helianthus divaricatus L.",
+            "id": "1412232",
+            "score": 0.00793
+        },
+        {
+            "name": "Helianthus giganteus L.",
+            "id": "1389511",
+            "score": 0.00706
+        },
+        {
+            "name": "Helianthus maximiliani Schrad.",
+            "id": "1399956",
+            "score": 0.00357
+        },
+        {
+            "name": "Helianthus hirsutus Raf.",
+            "id": "1412234",
+            "score": 0.00287
+        },
+        {
+            "name": "Helianthus angustifolius L.",
+            "id": "1417832",
+            "score": 0.00156
+        },
+        {
+            "name": "Helianthus grosseserratus M.Martens",
+            "id": "1509307",
+            "score": 0.00141
+        },
+        {
+            "name": "Helianthus decapetalus L.",
+            "id": "1392718",
+            "score": 0.00133
+        },
+        {
+            "name": "Heliopsis helianthoides (L.) Sweet",
+            "id": "1412238",
+            "score": 0.00131
+        },
+        {
+            "name": "Eclipta prostrata (L.) L.",
+            "id": "1364146",
+            "score": 0.00123
+        }
+    ]
+}

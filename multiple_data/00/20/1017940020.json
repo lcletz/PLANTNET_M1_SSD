@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vicia grandiflora Scop.",
+            "id": "1397092",
+            "score": 0.84326
+        },
+        {
+            "name": "Vicia lutea L.",
+            "id": "1359565",
+            "score": 0.05685
+        },
+        {
+            "name": "Vicia hybrida L.",
+            "id": "1359562",
+            "score": 0.01398
+        },
+        {
+            "name": "Vicia sylvatica L.",
+            "id": "1362394",
+            "score": 0.011
+        },
+        {
+            "name": "Vicia sepium L.",
+            "id": "1397110",
+            "score": 0.00553
+        },
+        {
+            "name": "Vicia sativa L.",
+            "id": "1359575",
+            "score": 0.00304
+        },
+        {
+            "name": "Vicia pannonica Crantz",
+            "id": "1363675",
+            "score": 0.00181
+        },
+        {
+            "name": "Vicia peregrina L.",
+            "id": "1359572",
+            "score": 0.00172
+        },
+        {
+            "name": "Vicia pyrenaica Pourr.",
+            "id": "1397106",
+            "score": 0.00115
+        },
+        {
+            "name": "Vicia lathyroides L.",
+            "id": "1363677",
+            "score": 0.00107
+        }
+    ]
+}

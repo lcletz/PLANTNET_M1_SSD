@@ -1,0 +1,385 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.459
+        },
+        {
+            "name": "Celtis australis L.",
+            "id": "1361742",
+            "score": 0.15907
+        },
+        {
+            "name": "Fagus orientalis Lipsky",
+            "id": "1547791",
+            "score": 0.07645
+        },
+        {
+            "name": "Ceiba pentandra (L.) Gaertn.",
+            "id": "1388740",
+            "score": 0.01902
+        },
+        {
+            "name": "Quercus rubra L.",
+            "id": "1395035",
+            "score": 0.0183
+        },
+        {
+            "name": "Fagus lucida Rehder & E.H.Wilson",
+            "id": "1547790",
+            "score": 0.0123
+        },
+        {
+            "name": "Quercus velutina Lam.",
+            "id": "1398376",
+            "score": 0.01135
+        },
+        {
+            "name": "Celtis occidentalis L.",
+            "id": "1397796",
+            "score": 0.01083
+        },
+        {
+            "name": "Adansonia digitata L.",
+            "id": "1388738",
+            "score": 0.00955
+        },
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.00942
+        },
+        {
+            "name": "Thuja plicata Donn ex D.Don",
+            "id": "1418597",
+            "score": 0.00929
+        },
+        {
+            "name": "Acer pseudoplatanus L.",
+            "id": "1356460",
+            "score": 0.00834
+        },
+        {
+            "name": "Fagus grandifolia Ehrh.",
+            "id": "1412056",
+            "score": 0.00799
+        },
+        {
+            "name": "Carpinus orientalis Mill.",
+            "id": "1398832",
+            "score": 0.00767
+        },
+        {
+            "name": "Dacrycarpus dacrydioides (A.Rich.) de Laub.",
+            "id": "1420116",
+            "score": 0.00619
+        },
+        {
+            "name": "Ficus insipida Willd.",
+            "id": "1402449",
+            "score": 0.00548
+        },
+        {
+            "name": "Picea orientalis (L.) Peterm.",
+            "id": "1419908",
+            "score": 0.00512
+        },
+        {
+            "name": "Antiaris toxicaria (J.F.Gmel.) Lesch.",
+            "id": "1719788",
+            "score": 0.00432
+        },
+        {
+            "name": "Ficus religiosa L.",
+            "id": "1405284",
+            "score": 0.004
+        },
+        {
+            "name": "Quercus palustris Münchh.",
+            "id": "1397592",
+            "score": 0.0039
+        },
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.00389
+        },
+        {
+            "name": "Alstonia angustiloba Miq.",
+            "id": "1429041",
+            "score": 0.00388
+        },
+        {
+            "name": "Rubus vestitus Weihe",
+            "id": "1395628",
+            "score": 0.00363
+        },
+        {
+            "name": "Fortunearia sinensis Rehder & E.H.Wilson",
+            "id": "1419166",
+            "score": 0.00344
+        },
+        {
+            "name": "Agathis australis (D.Don) Lindl.",
+            "id": "1417548",
+            "score": 0.00338
+        },
+        {
+            "name": "Tilia × europaea L.",
+            "id": "1595800",
+            "score": 0.00283
+        },
+        {
+            "name": "Sterculia apetala (Jacq.) H.Karst.",
+            "id": "1419450",
+            "score": 0.00276
+        },
+        {
+            "name": "Pinus strobus L.",
+            "id": "1394616",
+            "score": 0.00274
+        },
+        {
+            "name": "Zelkova carpinifolia (Pall.) K.Koch",
+            "id": "1398238",
+            "score": 0.00269
+        },
+        {
+            "name": "Quercus castaneifolia C.A.Mey.",
+            "id": "1390589",
+            "score": 0.00269
+        },
+        {
+            "name": "Cladrastis kentukea (Dum.Cours.) Rudd",
+            "id": "1418918",
+            "score": 0.00268
+        },
+        {
+            "name": "Nothofagus dombeyi (Mirb.) Oerst.",
+            "id": "1608027",
+            "score": 0.00253
+        },
+        {
+            "name": "Tsuga heterophylla (Raf.) Sarg.",
+            "id": "1396904",
+            "score": 0.00248
+        },
+        {
+            "name": "Tilia cordata Mill.",
+            "id": "1396797",
+            "score": 0.00232
+        },
+        {
+            "name": "Tilia tomentosa Moench",
+            "id": "1396803",
+            "score": 0.0022
+        },
+        {
+            "name": "Ostrya carpinifolia Scop.",
+            "id": "1394357",
+            "score": 0.0022
+        },
+        {
+            "name": "Scandosorbus intermedia (Ehrh.) Sennikov",
+            "id": "1737669",
+            "score": 0.00204
+        },
+        {
+            "name": "Jubaea chilensis (Molina) Baill.",
+            "id": "1393335",
+            "score": 0.00203
+        },
+        {
+            "name": "Celtis sinensis Pers.",
+            "id": "1418377",
+            "score": 0.00189
+        },
+        {
+            "name": "Zelkova serrata (Thunb.) Makino",
+            "id": "1398535",
+            "score": 0.00173
+        },
+        {
+            "name": "Tetradium daniellii (Benn.) T.G.Hartley",
+            "id": "1420545",
+            "score": 0.00171
+        },
+        {
+            "name": "Roystonea regia (Kunth) O.F.Cook",
+            "id": "1409249",
+            "score": 0.0017
+        },
+        {
+            "name": "Quercus coccinea Münchh.",
+            "id": "1397716",
+            "score": 0.00167
+        },
+        {
+            "name": "Pterygota alata (Roxb.) R.Br.",
+            "id": "1419442",
+            "score": 0.00166
+        },
+        {
+            "name": "Brachychiton discolor F.Muell.",
+            "id": "1390502",
+            "score": 0.00161
+        },
+        {
+            "name": "Castanopsis cuspidata (Thunb.) Schottky",
+            "id": "1547699",
+            "score": 0.00158
+        },
+        {
+            "name": "Abies cilicica (Antoine & Kotschy) Carrière",
+            "id": "1398299",
+            "score": 0.00148
+        },
+        {
+            "name": "Pinus heldreichii Christ",
+            "id": "1390029",
+            "score": 0.0014
+        },
+        {
+            "name": "Quercus cerris L.",
+            "id": "1395020",
+            "score": 0.00134
+        },
+        {
+            "name": "Quercus myrsinifolia Blume",
+            "id": "1548388",
+            "score": 0.00133
+        },
+        {
+            "name": "Abies alba Mill.",
+            "id": "1397299",
+            "score": 0.00128
+        },
+        {
+            "name": "Populus tremula L.",
+            "id": "1360449",
+            "score": 0.00128
+        },
+        {
+            "name": "Abies nordmanniana (Steven) Spach",
+            "id": "1393306",
+            "score": 0.00127
+        },
+        {
+            "name": "Tilia platyphyllos Scop.",
+            "id": "1396802",
+            "score": 0.00126
+        },
+        {
+            "name": "Abies pinsapo Boiss.",
+            "id": "1393800",
+            "score": 0.00126
+        },
+        {
+            "name": "Tilia oliveri Szyszył.",
+            "id": "1595818",
+            "score": 0.00123
+        },
+        {
+            "name": "Quercus robur L.",
+            "id": "1357413",
+            "score": 0.00121
+        },
+        {
+            "name": "Ceiba speciosa (A.St.-Hil., A.Juss. & Cambess.) Ravenna",
+            "id": "1390214",
+            "score": 0.00114
+        },
+        {
+            "name": "Schizolobium parahyba (Vell.) S.F.Blake",
+            "id": "1426406",
+            "score": 0.00113
+        },
+        {
+            "name": "Quercus texana Buckley",
+            "id": "1437155",
+            "score": 0.0011
+        },
+        {
+            "name": "Phyllocladus trichomanoides D.Don",
+            "id": "1420121",
+            "score": 0.0011
+        },
+        {
+            "name": "Umbellularia californica (Hook. & Arn.) Nutt.",
+            "id": "1397685",
+            "score": 0.00107
+        },
+        {
+            "name": "Ceiba crispiflora (Kunth) Ravenna",
+            "id": "1593240",
+            "score": 0.00106
+        },
+        {
+            "name": "Hura crepitans L.",
+            "id": "1376239",
+            "score": 0.00106
+        },
+        {
+            "name": "Taxus baccata L.",
+            "id": "1396710",
+            "score": 0.00101
+        },
+        {
+            "name": "Elaeocarpus angustifolius Blume",
+            "id": "1409579",
+            "score": 0.00097
+        },
+        {
+            "name": "Millettia griffoniana Baill.",
+            "id": "1368410",
+            "score": 0.00095
+        },
+        {
+            "name": "Acer macrophyllum Pursh",
+            "id": "1412158",
+            "score": 0.00091
+        },
+        {
+            "name": "Celtis mildbraedii Engl.",
+            "id": "1373454",
+            "score": 0.00086
+        },
+        {
+            "name": "Nothofagus solandri (Hook.f.) Oerst.",
+            "id": "1419599",
+            "score": 0.00085
+        },
+        {
+            "name": "Balanites wilsoniana Dawe & Sprague",
+            "id": "1701298",
+            "score": 0.00085
+        },
+        {
+            "name": "Castanea sativa Mill.",
+            "id": "1358610",
+            "score": 0.0008
+        },
+        {
+            "name": "Saxegothaea conspicua Lindl.",
+            "id": "1388981",
+            "score": 0.00079
+        },
+        {
+            "name": "Quercus gilva Blume",
+            "id": "1548259",
+            "score": 0.00078
+        },
+        {
+            "name": "Cedrus libani A.Rich.",
+            "id": "1390973",
+            "score": 0.0007
+        },
+        {
+            "name": "Ficus benjamina L.",
+            "id": "1382112",
+            "score": 0.0007
+        }
+    ]
+}

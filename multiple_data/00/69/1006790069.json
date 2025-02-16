@@ -1,0 +1,455 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium repens L.",
+            "id": "1363740",
+            "score": 0.12041
+        },
+        {
+            "name": "Trifolium pratense L.",
+            "id": "1359517",
+            "score": 0.05953
+        },
+        {
+            "name": "Trifolium dubium Sibth.",
+            "id": "1363737",
+            "score": 0.0517
+        },
+        {
+            "name": "Medicago arabica (L.) Huds.",
+            "id": "1359333",
+            "score": 0.04099
+        },
+        {
+            "name": "Trifolium nigrescens Viv.",
+            "id": "1363739",
+            "score": 0.03414
+        },
+        {
+            "name": "Oxalis latifolia Kunth",
+            "id": "1363639",
+            "score": 0.02988
+        },
+        {
+            "name": "Trifolium ochroleucon Huds.",
+            "id": "1359510",
+            "score": 0.02451
+        },
+        {
+            "name": "Crepis bursifolia L.",
+            "id": "1357526",
+            "score": 0.02385
+        },
+        {
+            "name": "Trifolium hybridum L.",
+            "id": "1359497",
+            "score": 0.02013
+        },
+        {
+            "name": "Arctotheca calendula (L.) Levyns",
+            "id": "1355927",
+            "score": 0.01942
+        },
+        {
+            "name": "Trifolium subterraneum L.",
+            "id": "1359528",
+            "score": 0.01941
+        },
+        {
+            "name": "Trifolium fragiferum L.",
+            "id": "1356278",
+            "score": 0.01559
+        },
+        {
+            "name": "Trifolium resupinatum L.",
+            "id": "1359519",
+            "score": 0.01539
+        },
+        {
+            "name": "Gamochaeta americana (Mill.) Wedd.",
+            "id": "1423209",
+            "score": 0.01048
+        },
+        {
+            "name": "Medicago polymorpha L.",
+            "id": "1363731",
+            "score": 0.00932
+        },
+        {
+            "name": "Oxalis debilis Kunth",
+            "id": "1359754",
+            "score": 0.00932
+        },
+        {
+            "name": "Eleusine indica (L.) Gaertn.",
+            "id": "1361245",
+            "score": 0.00909
+        },
+        {
+            "name": "Medicago orbicularis (L.) Bartal.",
+            "id": "1363734",
+            "score": 0.00899
+        },
+        {
+            "name": "Poa annua L.",
+            "id": "1363455",
+            "score": 0.00824
+        },
+        {
+            "name": "Hordeum murinum L.",
+            "id": "1361307",
+            "score": 0.00812
+        },
+        {
+            "name": "Dactyloctenium aegyptium (L.) Willd.",
+            "id": "1363544",
+            "score": 0.00805
+        },
+        {
+            "name": "Oxalis articulata Savigny",
+            "id": "1359752",
+            "score": 0.00666
+        },
+        {
+            "name": "Plantago major L.",
+            "id": "1356067",
+            "score": 0.00635
+        },
+        {
+            "name": "Trifolium incarnatum L.",
+            "id": "1359498",
+            "score": 0.00629
+        },
+        {
+            "name": "Astragalus glycyphyllos L.",
+            "id": "1398286",
+            "score": 0.00618
+        },
+        {
+            "name": "Taraxacum mattmarkense Soest",
+            "id": "1396621",
+            "score": 0.00553
+        },
+        {
+            "name": "Mazus pumilus (Burm.f.) Steenis",
+            "id": "1424003",
+            "score": 0.00528
+        },
+        {
+            "name": "Bellis annua L.",
+            "id": "1357314",
+            "score": 0.00503
+        },
+        {
+            "name": "Trifolium stellatum L.",
+            "id": "1359525",
+            "score": 0.00481
+        },
+        {
+            "name": "Digitaria sanguinalis (L.) Scop.",
+            "id": "1363424",
+            "score": 0.00378
+        },
+        {
+            "name": "Rostraria cristata (L.) Tzvelev",
+            "id": "1361394",
+            "score": 0.00362
+        },
+        {
+            "name": "Sisyrinchium micranthum Cav.",
+            "id": "1398675",
+            "score": 0.00351
+        },
+        {
+            "name": "Hypochaeris achyrophorus L.",
+            "id": "1357654",
+            "score": 0.00347
+        },
+        {
+            "name": "Trifolium campestre Schreb.",
+            "id": "1359488",
+            "score": 0.00333
+        },
+        {
+            "name": "Trifolium elgonense J.B.Gillett",
+            "id": "1587554",
+            "score": 0.00329
+        },
+        {
+            "name": "Sisyrinchium rosulatum E.P.Bicknell",
+            "id": "1396317",
+            "score": 0.00326
+        },
+        {
+            "name": "Vicia hybrida L.",
+            "id": "1359562",
+            "score": 0.00322
+        },
+        {
+            "name": "Lotus ornithopodioides L.",
+            "id": "1359320",
+            "score": 0.0029
+        },
+        {
+            "name": "Bellis sylvestris Cirillo",
+            "id": "1357320",
+            "score": 0.00281
+        },
+        {
+            "name": "Taraxacum dissectum (Ledeb.) Ledeb.",
+            "id": "1396568",
+            "score": 0.00275
+        },
+        {
+            "name": "Lamarckia aurea (L.) Moench",
+            "id": "1363507",
+            "score": 0.00273
+        },
+        {
+            "name": "Polycarpon tetraphyllum (L.) L.",
+            "id": "1356939",
+            "score": 0.00263
+        },
+        {
+            "name": "Lathyrus cicera L.",
+            "id": "1359268",
+            "score": 0.00261
+        },
+        {
+            "name": "Calyptocarpus vialis Less.",
+            "id": "1422228",
+            "score": 0.00247
+        },
+        {
+            "name": "Matricaria discoidea DC.",
+            "id": "1357711",
+            "score": 0.0024
+        },
+        {
+            "name": "Capsella bursa-pastoris (L.) Medik.",
+            "id": "1363910",
+            "score": 0.00231
+        },
+        {
+            "name": "Noccaea perfoliata (L.) Al-Shehbaz",
+            "id": "1737578",
+            "score": 0.00225
+        },
+        {
+            "name": "Medicago lupulina L.",
+            "id": "1363730",
+            "score": 0.0022
+        },
+        {
+            "name": "Trifolium medium L.",
+            "id": "1397514",
+            "score": 0.00217
+        },
+        {
+            "name": "Alysicarpus ovalifolius (Schumach.) J.Léonard",
+            "id": "1729287",
+            "score": 0.00213
+        },
+        {
+            "name": "Moraea sisyrinchium (L.) Ker Gawl.",
+            "id": "1361932",
+            "score": 0.00181
+        },
+        {
+            "name": "Lotus pedunculatus Cav.",
+            "id": "1359322",
+            "score": 0.00177
+        },
+        {
+            "name": "Lathyrus aphaca L.",
+            "id": "1363798",
+            "score": 0.00176
+        },
+        {
+            "name": "Kickxia spuria (L.) Dumort.",
+            "id": "1359892",
+            "score": 0.00176
+        },
+        {
+            "name": "Eclipta prostrata (L.) L.",
+            "id": "1364146",
+            "score": 0.0017
+        },
+        {
+            "name": "Lotus maritimus L.",
+            "id": "1393646",
+            "score": 0.00166
+        },
+        {
+            "name": "Cynodon dactylon (L.) Pers.",
+            "id": "1363526",
+            "score": 0.00163
+        },
+        {
+            "name": "Bellis perennis L.",
+            "id": "1357317",
+            "score": 0.00158
+        },
+        {
+            "name": "Geropogon hybridus (L.) Sch.Bip.",
+            "id": "1392601",
+            "score": 0.00157
+        },
+        {
+            "name": "Nothoscordum gracile (Aiton) Stearn",
+            "id": "1393975",
+            "score": 0.00154
+        },
+        {
+            "name": "Nothoscordum bivalve (L.) Britton",
+            "id": "1435224",
+            "score": 0.00153
+        },
+        {
+            "name": "Cyperus strigosus L.",
+            "id": "1399577",
+            "score": 0.00151
+        },
+        {
+            "name": "Oxalis dillenii Jacq.",
+            "id": "1394359",
+            "score": 0.00149
+        },
+        {
+            "name": "Lolium perenne L.",
+            "id": "1363475",
+            "score": 0.00148
+        },
+        {
+            "name": "Cyperus rotundus L.",
+            "id": "1361090",
+            "score": 0.00145
+        },
+        {
+            "name": "Bellium bellidioides L.",
+            "id": "1400110",
+            "score": 0.00145
+        },
+        {
+            "name": "Trifolium clypeatum L.",
+            "id": "1361849",
+            "score": 0.00142
+        },
+        {
+            "name": "Lepidium hirtum (L.) Sm.",
+            "id": "1358351",
+            "score": 0.00142
+        },
+        {
+            "name": "Lathyrus sphaericus Retz.",
+            "id": "1363797",
+            "score": 0.00141
+        },
+        {
+            "name": "Erodium moschatum (L.) L'Hér.",
+            "id": "1355995",
+            "score": 0.0014
+        },
+        {
+            "name": "Trifolium hirtum All.",
+            "id": "1359495",
+            "score": 0.00134
+        },
+        {
+            "name": "Dichondra micrantha Urb.",
+            "id": "1364071",
+            "score": 0.00129
+        },
+        {
+            "name": "Lysimachia arvensis (L.) U.Manns & Anderb.",
+            "id": "1388913",
+            "score": 0.00127
+        },
+        {
+            "name": "Lotus corniculatus L.",
+            "id": "1359296",
+            "score": 0.00126
+        },
+        {
+            "name": "Herbertia lahue (Molina) Goldblatt",
+            "id": "1432824",
+            "score": 0.00125
+        },
+        {
+            "name": "Gomphrena serrata L.",
+            "id": "1421299",
+            "score": 0.00125
+        },
+        {
+            "name": "Bromus diandrus Roth",
+            "id": "1414353",
+            "score": 0.00121
+        },
+        {
+            "name": "Trifolium tomentosum L.",
+            "id": "1359530",
+            "score": 0.00121
+        },
+        {
+            "name": "Oxalis pes-caprae L.",
+            "id": "1359757",
+            "score": 0.00119
+        },
+        {
+            "name": "Tripodion tetraphyllum (L.) Fourr.",
+            "id": "1359545",
+            "score": 0.00119
+        },
+        {
+            "name": "Oxalis purpurea L.",
+            "id": "1363630",
+            "score": 0.00114
+        },
+        {
+            "name": "Rhynchospora nervosa (Vahl) Boeckeler",
+            "id": "1406949",
+            "score": 0.00109
+        },
+        {
+            "name": "Romulea rosea (L.) Eckl.",
+            "id": "1395217",
+            "score": 0.00108
+        },
+        {
+            "name": "Leucanthemum ircutianum DC.",
+            "id": "1393506",
+            "score": 0.00108
+        },
+        {
+            "name": "Avena barbata Pott ex Link",
+            "id": "1363467",
+            "score": 0.00106
+        },
+        {
+            "name": "Astragalus hamosus L.",
+            "id": "1359124",
+            "score": 0.00105
+        },
+        {
+            "name": "Indigofera spicata Forssk.",
+            "id": "1406277",
+            "score": 0.00105
+        },
+        {
+            "name": "Aristolochia clusii Lojac.",
+            "id": "1396306",
+            "score": 0.00103
+        },
+        {
+            "name": "Eragrostis tenella (L.) P.Beauv. ex Roem. & Schult.",
+            "id": "1397791",
+            "score": 0.00102
+        },
+        {
+            "name": "Polygonum aviculare L.",
+            "id": "1356084",
+            "score": 0.00101
+        }
+    ]
+}

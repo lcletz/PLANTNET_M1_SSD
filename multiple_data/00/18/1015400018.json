@@ -1,0 +1,55 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Ficus elastica Roxb. ex Hornem.",
+            "id": "1403870",
+            "score": 0.12197
+        },
+        {
+            "name": "Musa acuminata Colla",
+            "id": "1380273",
+            "score": 0.09238
+        },
+        {
+            "name": "Araujia sericifera Brot.",
+            "id": "1363814",
+            "score": 0.00667
+        },
+        {
+            "name": "Citrus × limon (L.) Osbeck",
+            "id": "1403436",
+            "score": 0.00618
+        },
+        {
+            "name": "Ficus microcarpa L.f.",
+            "id": "1409180",
+            "score": 0.00582
+        },
+        {
+            "name": "Citrus × aurantium L.",
+            "id": "1403435",
+            "score": 0.00549
+        },
+        {
+            "name": "Prunus laurocerasus L.",
+            "id": "1394952",
+            "score": 0.00318
+        },
+        {
+            "name": "Anredera cordifolia (Ten.) Steenis",
+            "id": "1363138",
+            "score": 0.00294
+        },
+        {
+            "name": "Periploca graeca L.",
+            "id": "1356596",
+            "score": 0.00178
+        },
+        {
+            "name": "Mesembryanthemum cordifolium L.f.",
+            "id": "1418211",
+            "score": 0.00174
+        }
+    ]
+}

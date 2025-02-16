@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Silene vulgaris (Moench) Garcke",
+            "id": "1357059",
+            "score": 0.73343
+        },
+        {
+            "name": "Silene uniflora Roth",
+            "id": "1396296",
+            "score": 0.05671
+        },
+        {
+            "name": "Silene italica (L.) Pers.",
+            "id": "1357004",
+            "score": 0.04225
+        },
+        {
+            "name": "Silene nutans L.",
+            "id": "1357026",
+            "score": 0.02241
+        },
+        {
+            "name": "Saponaria officinalis L.",
+            "id": "1356803",
+            "score": 0.00989
+        },
+        {
+            "name": "Silene dichotoma Ehrh.",
+            "id": "1356984",
+            "score": 0.00588
+        },
+        {
+            "name": "Silene latifolia Poir.",
+            "id": "1357009",
+            "score": 0.0018
+        },
+        {
+            "name": "Silene gallica L.",
+            "id": "1356595",
+            "score": 0.00152
+        }
+    ]
+}

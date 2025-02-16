@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Solanum dulcamara L.",
+            "id": "1360566",
+            "score": 0.93866
+        },
+        {
+            "name": "Solanum seaforthianum Andrews",
+            "id": "1379566",
+            "score": 0.00261
+        },
+        {
+            "name": "Capsicum annuum L.",
+            "id": "1361992",
+            "score": 0.00179
+        },
+        {
+            "name": "Solanum interius Rydb.",
+            "id": "1413836",
+            "score": 0.00146
+        },
+        {
+            "name": "Solanum septemlobum Bunge",
+            "id": "1692168",
+            "score": 0.00121
+        }
+    ]
+}

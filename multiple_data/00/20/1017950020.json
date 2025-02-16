@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Solanum tuberosum L.",
+            "id": "1356171",
+            "score": 0.91111
+        },
+        {
+            "name": "Solanum pimpinellifolium L.",
+            "id": "1420742",
+            "score": 0.00543
+        },
+        {
+            "name": "Solanum lycopersicum L.",
+            "id": "1396325",
+            "score": 0.00454
+        },
+        {
+            "name": "Solanum demissum Lindl.",
+            "id": "1691606",
+            "score": 0.00399
+        },
+        {
+            "name": "Amaranthus blitum L.",
+            "id": "1356472",
+            "score": 0.00261
+        },
+        {
+            "name": "Amaranthus viridis L.",
+            "id": "1393682",
+            "score": 0.00167
+        },
+        {
+            "name": "Capsicum chinense Jacq.",
+            "id": "1377886",
+            "score": 0.00156
+        },
+        {
+            "name": "Solanum maglia Schltdl.",
+            "id": "1691885",
+            "score": 0.0015
+        },
+        {
+            "name": "Physalis philadelphica Lam.",
+            "id": "1356154",
+            "score": 0.00126
+        },
+        {
+            "name": "Solanum muricatum Aiton",
+            "id": "1377908",
+            "score": 0.00116
+        }
+    ]
+}

@@ -1,0 +1,430 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aloe arborescens Mill.",
+            "id": "1363324",
+            "score": 0.02415
+        },
+        {
+            "name": "Aloe maculata All.",
+            "id": "1393021",
+            "score": 0.02102
+        },
+        {
+            "name": "Agave americana L.",
+            "id": "1360898",
+            "score": 0.01265
+        },
+        {
+            "name": "Yucca gigantea Lem.",
+            "id": "1410190",
+            "score": 0.01163
+        },
+        {
+            "name": "Yucca gloriosa L.",
+            "id": "1362946",
+            "score": 0.01093
+        },
+        {
+            "name": "Aloe ferox Mill.",
+            "id": "1393017",
+            "score": 0.0108
+        },
+        {
+            "name": "Agave sisalana Perrine",
+            "id": "1357953",
+            "score": 0.00887
+        },
+        {
+            "name": "Aloe excelsa A.Berger",
+            "id": "1431955",
+            "score": 0.00869
+        },
+        {
+            "name": "Leonotis nepetifolia (L.) R.Br.",
+            "id": "1401896",
+            "score": 0.00843
+        },
+        {
+            "name": "Pyrostegia venusta (Ker Gawl.) Miers",
+            "id": "1388724",
+            "score": 0.00835
+        },
+        {
+            "name": "Leonotis leonurus (L.) R.Br.",
+            "id": "1419265",
+            "score": 0.00772
+        },
+        {
+            "name": "Aloe pluridens Haw.",
+            "id": "1698805",
+            "score": 0.00768
+        },
+        {
+            "name": "Echium creticum L.",
+            "id": "1356654",
+            "score": 0.00759
+        },
+        {
+            "name": "Beschorneria yuccoides K.Koch",
+            "id": "1397304",
+            "score": 0.00655
+        },
+        {
+            "name": "Yucca aloifolia L.",
+            "id": "1398112",
+            "score": 0.00645
+        },
+        {
+            "name": "Agave attenuata Salm-Dyck",
+            "id": "1399860",
+            "score": 0.00565
+        },
+        {
+            "name": "Symphyotrichum novae-angliae (L.) G.L.Nesom",
+            "id": "1396486",
+            "score": 0.00543
+        },
+        {
+            "name": "Kniphofia uvaria (L.) Oken",
+            "id": "1420863",
+            "score": 0.00537
+        },
+        {
+            "name": "Dracaena draco (L.) L.",
+            "id": "1358510",
+            "score": 0.00448
+        },
+        {
+            "name": "Aloe kedongensis Reynolds",
+            "id": "1386995",
+            "score": 0.00364
+        },
+        {
+            "name": "Lobelia tupa L.",
+            "id": "1490137",
+            "score": 0.00363
+        },
+        {
+            "name": "Lonicera sempervirens L.",
+            "id": "1393629",
+            "score": 0.00352
+        },
+        {
+            "name": "Echium wildpretii H.Pearson ex Hook.f.",
+            "id": "1418028",
+            "score": 0.00345
+        },
+        {
+            "name": "Chasmanthe aethiopica (L.) N.E.Br.",
+            "id": "1397583",
+            "score": 0.00341
+        },
+        {
+            "name": "Lobelia excelsa Bonpl.",
+            "id": "1489920",
+            "score": 0.00329
+        },
+        {
+            "name": "Furcraea foetida (L.) Haw.",
+            "id": "1357992",
+            "score": 0.00327
+        },
+        {
+            "name": "Puya venusta (Baker) Phil.",
+            "id": "1484463",
+            "score": 0.00318
+        },
+        {
+            "name": "Watsonia pillansii L.Bolus",
+            "id": "1557847",
+            "score": 0.00288
+        },
+        {
+            "name": "Echium sabulicola Pomel",
+            "id": "1356674",
+            "score": 0.00269
+        },
+        {
+            "name": "Campsis grandiflora (Thunb.) K.Schum.",
+            "id": "1390679",
+            "score": 0.00267
+        },
+        {
+            "name": "Kniphofia thomsonii Baker",
+            "id": "1699416",
+            "score": 0.00267
+        },
+        {
+            "name": "Yucca flaccida Haw.",
+            "id": "1409149",
+            "score": 0.00261
+        },
+        {
+            "name": "Hamelia patens Jacq.",
+            "id": "1371987",
+            "score": 0.00255
+        },
+        {
+            "name": "Verbascum creticum (L.) Cav.",
+            "id": "1360522",
+            "score": 0.0024
+        },
+        {
+            "name": "Echium candicans L.f.",
+            "id": "1399885",
+            "score": 0.00238
+        },
+        {
+            "name": "Pandanus tectorius Parkinson ex Du Roi",
+            "id": "1638943",
+            "score": 0.00234
+        },
+        {
+            "name": "Kniphofia foliosa Hochst.",
+            "id": "1387118",
+            "score": 0.00233
+        },
+        {
+            "name": "Fuchsia triphylla L.",
+            "id": "1609919",
+            "score": 0.00222
+        },
+        {
+            "name": "Aloidendron barberae (Dyer) Klopper & Gideon F.Sm.",
+            "id": "1381429",
+            "score": 0.00218
+        },
+        {
+            "name": "Yucca filamentosa L.",
+            "id": "1397243",
+            "score": 0.00216
+        },
+        {
+            "name": "Crocosmia × crocosmiiflora (Lemoine) N.E.Br.",
+            "id": "1556072",
+            "score": 0.00208
+        },
+        {
+            "name": "Plumeria pudica Jacq.",
+            "id": "1409018",
+            "score": 0.00192
+        },
+        {
+            "name": "Aloiampelos striatula (Haw.) Klopper & Gideon F.Sm.",
+            "id": "1754586",
+            "score": 0.00183
+        },
+        {
+            "name": "Ananas comosus (L.) Merr.",
+            "id": "1379722",
+            "score": 0.00179
+        },
+        {
+            "name": "Kniphofia linearifolia Baker",
+            "id": "1387107",
+            "score": 0.00173
+        },
+        {
+            "name": "Agapanthus praecox Willd.",
+            "id": "1362010",
+            "score": 0.00169
+        },
+        {
+            "name": "Kleinia neriifolia Haw.",
+            "id": "1357674",
+            "score": 0.00169
+        },
+        {
+            "name": "Tecomaria capensis (Thunb.) Spach",
+            "id": "1400151",
+            "score": 0.00169
+        },
+        {
+            "name": "Aloe marlothii A.Berger",
+            "id": "1432013",
+            "score": 0.00166
+        },
+        {
+            "name": "Vicia sicula (Raf.) Guss.",
+            "id": "1359577",
+            "score": 0.00162
+        },
+        {
+            "name": "Chlorophytum comosum (Thunb.) Jacques",
+            "id": "1407810",
+            "score": 0.00161
+        },
+        {
+            "name": "Echium plantagineum L.",
+            "id": "1363849",
+            "score": 0.00158
+        },
+        {
+            "name": "Cantua buxifolia Juss. ex Lam.",
+            "id": "1420130",
+            "score": 0.00156
+        },
+        {
+            "name": "Echium pininana Webb & Berthel.",
+            "id": "1418026",
+            "score": 0.0015
+        },
+        {
+            "name": "Digitalis obscura L.",
+            "id": "1362291",
+            "score": 0.00148
+        },
+        {
+            "name": "Euphorbia murielii N.E.Br.",
+            "id": "1752224",
+            "score": 0.00146
+        },
+        {
+            "name": "Euphorbia tirucalli L.",
+            "id": "1355972",
+            "score": 0.00142
+        },
+        {
+            "name": "Agapanthus inapertus Beauverd",
+            "id": "1392469",
+            "score": 0.00139
+        },
+        {
+            "name": "Lobelia laxiflora Kunth",
+            "id": "1356771",
+            "score": 0.00139
+        },
+        {
+            "name": "Ipomoea indica (Burm.) Merr.",
+            "id": "1364032",
+            "score": 0.00134
+        },
+        {
+            "name": "Nicotiana glauca Graham",
+            "id": "1356158",
+            "score": 0.00133
+        },
+        {
+            "name": "Aloe polyphylla Pillans",
+            "id": "1698806",
+            "score": 0.00131
+        },
+        {
+            "name": "Lilium pomponium L.",
+            "id": "1393535",
+            "score": 0.0013
+        },
+        {
+            "name": "Selenicereus undatus (Haw.) D.R.Hunt",
+            "id": "1722630",
+            "score": 0.00129
+        },
+        {
+            "name": "Agave sebastiana Greene",
+            "id": "1471145",
+            "score": 0.00125
+        },
+        {
+            "name": "Agave salmiana Otto ex Salm-Dyck",
+            "id": "1417642",
+            "score": 0.00124
+        },
+        {
+            "name": "Echinocereus longisetus (Engelm.) Lem.",
+            "id": "1486791",
+            "score": 0.00124
+        },
+        {
+            "name": "Anchusa officinalis L.",
+            "id": "1394038",
+            "score": 0.00117
+        },
+        {
+            "name": "Aloe helenae Danguy",
+            "id": "1698678",
+            "score": 0.00115
+        },
+        {
+            "name": "Echium italicum L.",
+            "id": "1356663",
+            "score": 0.00114
+        },
+        {
+            "name": "Onopordum tauricum Willd.",
+            "id": "1394059",
+            "score": 0.00112
+        },
+        {
+            "name": "Ferocactus herrerae J.G.Ortega",
+            "id": "1418244",
+            "score": 0.0011
+        },
+        {
+            "name": "Phormium tenax J.R.Forst. & G.Forst.",
+            "id": "1394529",
+            "score": 0.0011
+        },
+        {
+            "name": "Echium judaeum Lacaita",
+            "id": "1424924",
+            "score": 0.00109
+        },
+        {
+            "name": "Echeveria setosa Rose & Purpus",
+            "id": "1528777",
+            "score": 0.00108
+        },
+        {
+            "name": "Onopordum acanthium L.",
+            "id": "1357723",
+            "score": 0.00106
+        },
+        {
+            "name": "Vicia incana Gouan",
+            "id": "1397094",
+            "score": 0.00106
+        },
+        {
+            "name": "Oxera coriacea Dubard",
+            "id": "1416020",
+            "score": 0.00106
+        },
+        {
+            "name": "Lobelia giberroa Hemsl.",
+            "id": "1489943",
+            "score": 0.00105
+        },
+        {
+            "name": "Ampelaster carolinianus (Walter) G.L.Nesom",
+            "id": "1498800",
+            "score": 0.00104
+        },
+        {
+            "name": "Tillandsia aeranthos (Loisel.) Desf.",
+            "id": "1730400",
+            "score": 0.00103
+        },
+        {
+            "name": "Cuphea ignea A.DC.",
+            "id": "1407884",
+            "score": 0.00102
+        },
+        {
+            "name": "Aloe ellenbeckii A.Berger",
+            "id": "1698638",
+            "score": 0.00102
+        },
+        {
+            "name": "Solanum lanceolatum Cav.",
+            "id": "1423683",
+            "score": 0.00101
+        },
+        {
+            "name": "Echium vulgare L.",
+            "id": "1363850",
+            "score": 0.001
+        }
+    ]
+}

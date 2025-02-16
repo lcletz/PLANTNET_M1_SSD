@@ -1,0 +1,445 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cornus mas L.",
+            "id": "1391354",
+            "score": 0.16865
+        },
+        {
+            "name": "Cornus florida L.",
+            "id": "1397618",
+            "score": 0.08694
+        },
+        {
+            "name": "Cornus kousa Bürger ex Hance",
+            "id": "1720853",
+            "score": 0.06978
+        },
+        {
+            "name": "Ocimum basilicum L.",
+            "id": "1361975",
+            "score": 0.03939
+        },
+        {
+            "name": "Cotoneaster acutifolius Turcz.",
+            "id": "1411560",
+            "score": 0.02098
+        },
+        {
+            "name": "Cotoneaster divaricatus Rehder & E.H.Wilson",
+            "id": "1391381",
+            "score": 0.01544
+        },
+        {
+            "name": "Maranta arundinacea L.",
+            "id": "1408343",
+            "score": 0.01405
+        },
+        {
+            "name": "Cornus amomum Mill.",
+            "id": "1418488",
+            "score": 0.01177
+        },
+        {
+            "name": "Amelanchier × lamarckii F.G.Schroed.",
+            "id": "1737557",
+            "score": 0.01101
+        },
+        {
+            "name": "Epipremnum pinnatum (L.) Engl.",
+            "id": "1385967",
+            "score": 0.0106
+        },
+        {
+            "name": "Ocimum americanum L.",
+            "id": "1419267",
+            "score": 0.01033
+        },
+        {
+            "name": "Smilax rotundifolia L.",
+            "id": "1398567",
+            "score": 0.00929
+        },
+        {
+            "name": "Griselinia littoralis (Raoul) Raoul",
+            "id": "1419147",
+            "score": 0.00808
+        },
+        {
+            "name": "Ligustrum ovalifolium Hassk.",
+            "id": "1393526",
+            "score": 0.00789
+        },
+        {
+            "name": "Diospyros kaki L.f.",
+            "id": "1391735",
+            "score": 0.00718
+        },
+        {
+            "name": "Cornus rugosa Lam.",
+            "id": "1411550",
+            "score": 0.00695
+        },
+        {
+            "name": "Cornus alba L.",
+            "id": "1397617",
+            "score": 0.00574
+        },
+        {
+            "name": "Vaccinium corymbosum L.",
+            "id": "1396966",
+            "score": 0.00563
+        },
+        {
+            "name": "Potamogeton natans L.",
+            "id": "1361706",
+            "score": 0.00544
+        },
+        {
+            "name": "Richardia brasiliensis Gomes",
+            "id": "1371246",
+            "score": 0.00541
+        },
+        {
+            "name": "Acokanthera schimperi (A.DC.) Schweinf.",
+            "id": "1432658",
+            "score": 0.00461
+        },
+        {
+            "name": "Robinia hispida L.",
+            "id": "1395210",
+            "score": 0.00438
+        },
+        {
+            "name": "Spermacoce alata Aubl.",
+            "id": "1426628",
+            "score": 0.00399
+        },
+        {
+            "name": "Monstera pinnatipartita Schott",
+            "id": "1465889",
+            "score": 0.00381
+        },
+        {
+            "name": "Ctenanthe lubbersiana (É.Morren) Eichler ex Petersen",
+            "id": "1730308",
+            "score": 0.00379
+        },
+        {
+            "name": "Jasminum dichotomum Vahl",
+            "id": "1383131",
+            "score": 0.00374
+        },
+        {
+            "name": "Richardia scabra L.",
+            "id": "1371248",
+            "score": 0.00353
+        },
+        {
+            "name": "Duranta erecta L.",
+            "id": "1378717",
+            "score": 0.0034
+        },
+        {
+            "name": "Philadelphus pubescens Loisel.",
+            "id": "1398588",
+            "score": 0.00338
+        },
+        {
+            "name": "Rhamnus cathartica L.",
+            "id": "1360262",
+            "score": 0.00335
+        },
+        {
+            "name": "Chomelia tenuiflora Benth.",
+            "id": "1403258",
+            "score": 0.00331
+        },
+        {
+            "name": "Eugenia uniflora L.",
+            "id": "1382851",
+            "score": 0.00319
+        },
+        {
+            "name": "Aronia arbutifolia (L.) Pers.",
+            "id": "1413527",
+            "score": 0.00318
+        },
+        {
+            "name": "Cornus canadensis L.",
+            "id": "1411545",
+            "score": 0.00311
+        },
+        {
+            "name": "Quillaja saponaria Molina",
+            "id": "1662873",
+            "score": 0.00298
+        },
+        {
+            "name": "Lagerstroemia indica L.",
+            "id": "1376509",
+            "score": 0.00292
+        },
+        {
+            "name": "Malus hupehensis (Pamp.) Rehder",
+            "id": "1393732",
+            "score": 0.00289
+        },
+        {
+            "name": "Cornus sericea L.",
+            "id": "1397902",
+            "score": 0.00271
+        },
+        {
+            "name": "Aronia melanocarpa (Michx.) Elliott",
+            "id": "1398450",
+            "score": 0.00271
+        },
+        {
+            "name": "Pyrus pyrifolia (Burm.f.) Nakai",
+            "id": "1420439",
+            "score": 0.00268
+        },
+        {
+            "name": "Syringa persica L.",
+            "id": "1419641",
+            "score": 0.00257
+        },
+        {
+            "name": "Populus balsamifera L.",
+            "id": "1394775",
+            "score": 0.00244
+        },
+        {
+            "name": "Malus sylvestris (L.) Mill.",
+            "id": "1420379",
+            "score": 0.00235
+        },
+        {
+            "name": "Paliurus spina-christi Mill.",
+            "id": "1360259",
+            "score": 0.00232
+        },
+        {
+            "name": "Bunchosia glandulifera (Jacq.) Kunth",
+            "id": "1409420",
+            "score": 0.00227
+        },
+        {
+            "name": "Catharanthus coriaceus Markgr.",
+            "id": "1432695",
+            "score": 0.00226
+        },
+        {
+            "name": "Lagerstroemia speciosa (L.) Pers.",
+            "id": "1376510",
+            "score": 0.00216
+        },
+        {
+            "name": "Syringa reticulata (Blume) H.Hara",
+            "id": "1609522",
+            "score": 0.00206
+        },
+        {
+            "name": "Cotoneaster pannosus Franch.",
+            "id": "1391394",
+            "score": 0.00203
+        },
+        {
+            "name": "Rhamnus utilis Decne.",
+            "id": "1437231",
+            "score": 0.00201
+        },
+        {
+            "name": "Prunus pensylvanica L.f.",
+            "id": "1420421",
+            "score": 0.00195
+        },
+        {
+            "name": "Cornus officinalis Siebold & Zucc.",
+            "id": "1418495",
+            "score": 0.00194
+        },
+        {
+            "name": "Wisteria floribunda (Willd.) DC.",
+            "id": "1397228",
+            "score": 0.00193
+        },
+        {
+            "name": "Citrus × limon (L.) Osbeck",
+            "id": "1403436",
+            "score": 0.00191
+        },
+        {
+            "name": "Colubrina glandulosa G.Perkins",
+            "id": "1665560",
+            "score": 0.00189
+        },
+        {
+            "name": "Plinia cauliflora (Mart.) Kausel",
+            "id": "1419577",
+            "score": 0.00176
+        },
+        {
+            "name": "Epipremnum aureum (Linden & André) G.S.Bunting",
+            "id": "1409602",
+            "score": 0.00173
+        },
+        {
+            "name": "Annona cherimola Mill.",
+            "id": "1390486",
+            "score": 0.00162
+        },
+        {
+            "name": "Prionostemma aspera (Lam.) Miers",
+            "id": "1401847",
+            "score": 0.00159
+        },
+        {
+            "name": "Andira coriacea Pulle",
+            "id": "1402799",
+            "score": 0.00148
+        },
+        {
+            "name": "Citrus maxima (Burm.) Merr.",
+            "id": "1372591",
+            "score": 0.00148
+        },
+        {
+            "name": "Monstera siltepecana Matuda",
+            "id": "1465895",
+            "score": 0.00141
+        },
+        {
+            "name": "Hymenaea courbaril L.",
+            "id": "1368680",
+            "score": 0.00138
+        },
+        {
+            "name": "Lysimachia borealis (Raf.) U.Manns & Anderb.",
+            "id": "1815368",
+            "score": 0.00132
+        },
+        {
+            "name": "Atriplex crenatifolia Chodat & Wilczek",
+            "id": "1450759",
+            "score": 0.00131
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.00131
+        },
+        {
+            "name": "Frangula alnus Mill.",
+            "id": "1360257",
+            "score": 0.00128
+        },
+        {
+            "name": "Spirodela polyrhiza (L.) Schleid.",
+            "id": "1396411",
+            "score": 0.00126
+        },
+        {
+            "name": "Cotoneaster simonsii Baker",
+            "id": "1391419",
+            "score": 0.00126
+        },
+        {
+            "name": "Cotoneaster hjelmqvistii Flinck & B.Hylmö",
+            "id": "1738847",
+            "score": 0.00125
+        },
+        {
+            "name": "Pyrus cordata Desv.",
+            "id": "1360328",
+            "score": 0.00124
+        },
+        {
+            "name": "Cotoneaster bullatus Bois",
+            "id": "1391402",
+            "score": 0.00124
+        },
+        {
+            "name": "Ctenanthe burle-marxii H.Kenn.",
+            "id": "1730306",
+            "score": 0.00122
+        },
+        {
+            "name": "Ocimum kilimandscharicum Gürke",
+            "id": "1561124",
+            "score": 0.00121
+        },
+        {
+            "name": "Philadelphus × virginalis Rehder",
+            "id": "1844555",
+            "score": 0.00121
+        },
+        {
+            "name": "Ligustrum japonicum Thunb.",
+            "id": "1397735",
+            "score": 0.0012
+        },
+        {
+            "name": "Ruscus hypophyllum L.",
+            "id": "1361711",
+            "score": 0.00118
+        },
+        {
+            "name": "Diospyros virginiana L.",
+            "id": "1389362",
+            "score": 0.00116
+        },
+        {
+            "name": "Cornus capitata Wall.",
+            "id": "1418489",
+            "score": 0.00115
+        },
+        {
+            "name": "Maianthemum canadense Desf.",
+            "id": "1412659",
+            "score": 0.00114
+        },
+        {
+            "name": "Cinnamomum camphora (L.) J.Presl",
+            "id": "1389656",
+            "score": 0.00113
+        },
+        {
+            "name": "Lipandra polysperma (L.) S.Fuentes, Uotila & Borsch",
+            "id": "1389976",
+            "score": 0.00112
+        },
+        {
+            "name": "Rhamnus alaternus L.",
+            "id": "1360260",
+            "score": 0.00112
+        },
+        {
+            "name": "Prunus brigantina Vill.",
+            "id": "1394945",
+            "score": 0.0011
+        },
+        {
+            "name": "Punica granatum L.",
+            "id": "1359616",
+            "score": 0.00106
+        },
+        {
+            "name": "Chionanthus retusus Lindl. & Paxton",
+            "id": "1419613",
+            "score": 0.00106
+        },
+        {
+            "name": "Passiflora quadrangularis L.",
+            "id": "1376593",
+            "score": 0.00105
+        },
+        {
+            "name": "Cornus sanguinea L.",
+            "id": "1397356",
+            "score": 0.00103
+        }
+    ]
+}

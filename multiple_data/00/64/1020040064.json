@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Salix aurita L.",
+            "id": "1395745",
+            "score": 0.62047
+        },
+        {
+            "name": "Salix cinerea L.",
+            "id": "1362486",
+            "score": 0.16781
+        },
+        {
+            "name": "Salix atrocinerea Brot.",
+            "id": "1360451",
+            "score": 0.07557
+        },
+        {
+            "name": "Salix myrsinifolia Salisb.",
+            "id": "1395843",
+            "score": 0.06592
+        },
+        {
+            "name": "Salix caprea L.",
+            "id": "1395765",
+            "score": 0.03215
+        },
+        {
+            "name": "Salix × reichardtii A.Kern.",
+            "id": "1737553",
+            "score": 0.0063
+        },
+        {
+            "name": "Salix appendiculata Vill.",
+            "id": "1395742",
+            "score": 0.00455
+        },
+        {
+            "name": "Salix hastata L.",
+            "id": "1397478",
+            "score": 0.00285
+        },
+        {
+            "name": "Salix × quercifolia Sennen ex Goerz",
+            "id": "1738830",
+            "score": 0.00115
+        }
+    ]
+}

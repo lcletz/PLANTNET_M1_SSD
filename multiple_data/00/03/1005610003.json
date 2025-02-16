@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ribes rubrum L.",
+            "id": "1397543",
+            "score": 0.86091
+        },
+        {
+            "name": "Ribes nigrum L.",
+            "id": "1395200",
+            "score": 0.06871
+        },
+        {
+            "name": "Ribes uva-crispa L.",
+            "id": "1358684",
+            "score": 0.01643
+        },
+        {
+            "name": "Ribes × nidigrolaria Rud.Bauer & A.Bauer",
+            "id": "1844692",
+            "score": 0.00287
+        },
+        {
+            "name": "Ribes americanum Mill.",
+            "id": "1413471",
+            "score": 0.00182
+        },
+        {
+            "name": "Ribes magellanicum Poir.",
+            "id": "1554170",
+            "score": 0.00178
+        },
+        {
+            "name": "Ribes alpinum L.",
+            "id": "1358682",
+            "score": 0.00112
+        }
+    ]
+}

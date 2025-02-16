@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Asphodelus ramosus L.",
+            "id": "1361020",
+            "score": 0.37224
+        },
+        {
+            "name": "Asphodelus albus Mill.",
+            "id": "1397256",
+            "score": 0.28162
+        },
+        {
+            "name": "Asphodelus macrocarpus Parl.",
+            "id": "1361019",
+            "score": 0.14564
+        },
+        {
+            "name": "Kniphofia uvaria (L.) Oken",
+            "id": "1420863",
+            "score": 0.00417
+        },
+        {
+            "name": "Drimia maritima (L.) Stearn",
+            "id": "1361487",
+            "score": 0.00215
+        },
+        {
+            "name": "Asphodelus cerasifer J.Gay",
+            "id": "1743220",
+            "score": 0.00195
+        }
+    ]
+}

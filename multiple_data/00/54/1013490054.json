@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Veronica chamaedrys L.",
+            "id": "1397521",
+            "score": 0.50384
+        },
+        {
+            "name": "Veronica agrestis L.",
+            "id": "1364061",
+            "score": 0.29317
+        },
+        {
+            "name": "Veronica montana L.",
+            "id": "1359979",
+            "score": 0.08575
+        },
+        {
+            "name": "Veronica filiformis Sm.",
+            "id": "1397048",
+            "score": 0.01341
+        },
+        {
+            "name": "Veronica beccabunga L.",
+            "id": "1364067",
+            "score": 0.01197
+        },
+        {
+            "name": "Veronica arvensis L.",
+            "id": "1364063",
+            "score": 0.00898
+        },
+        {
+            "name": "Veronica teucrium L.",
+            "id": "1397074",
+            "score": 0.0052
+        },
+        {
+            "name": "Veronica persica Poir.",
+            "id": "1364065",
+            "score": 0.00154
+        },
+        {
+            "name": "Veronica officinalis L.",
+            "id": "1364068",
+            "score": 0.00146
+        },
+        {
+            "name": "Veronica glauca Sm.",
+            "id": "1389279",
+            "score": 0.00122
+        }
+    ]
+}

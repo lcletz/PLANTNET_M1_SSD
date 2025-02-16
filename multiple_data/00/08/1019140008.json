@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Pedicularis verticillata L.",
+            "id": "1394451",
+            "score": 0.90971
+        },
+        {
+            "name": "Betonica hirsuta L.",
+            "id": "1400125",
+            "score": 0.01179
+        },
+        {
+            "name": "Pedicularis pyrenaica J.Gay",
+            "id": "1394444",
+            "score": 0.00199
+        },
+        {
+            "name": "Pedicularis sylvatica L.",
+            "id": "1359740",
+            "score": 0.0018
+        },
+        {
+            "name": "Pedicularis rosea Wulfen",
+            "id": "1394446",
+            "score": 0.00165
+        }
+    ]
+}

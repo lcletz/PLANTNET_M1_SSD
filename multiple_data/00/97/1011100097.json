@@ -1,0 +1,75 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iris foetidissima L.",
+            "id": "1361540",
+            "score": 0.81677
+        },
+        {
+            "name": "Iris spuria L.",
+            "id": "1361544",
+            "score": 0.02453
+        },
+        {
+            "name": "Iris orientalis Mill.",
+            "id": "1388948",
+            "score": 0.01316
+        },
+        {
+            "name": "Iris fulva Ker Gawl.",
+            "id": "1433289",
+            "score": 0.0119
+        },
+        {
+            "name": "Iris ensata Thunb.",
+            "id": "1393295",
+            "score": 0.00766
+        },
+        {
+            "name": "Iris pumila L.",
+            "id": "1398617",
+            "score": 0.0041
+        },
+        {
+            "name": "Iris graminea L.",
+            "id": "1393300",
+            "score": 0.00258
+        },
+        {
+            "name": "Iris versicolor L.",
+            "id": "1393297",
+            "score": 0.00219
+        },
+        {
+            "name": "Iris hartwegii Baker",
+            "id": "1433292",
+            "score": 0.00129
+        },
+        {
+            "name": "Iris pseudacorus L.",
+            "id": "1361543",
+            "score": 0.00124
+        },
+        {
+            "name": "Iris prismatica Pursh",
+            "id": "1556862",
+            "score": 0.00115
+        },
+        {
+            "name": "Iris petrana Dinsm.",
+            "id": "1425134",
+            "score": 0.00107
+        },
+        {
+            "name": "Iris sibirica L.",
+            "id": "1393304",
+            "score": 0.00104
+        },
+        {
+            "name": "Iris douglasiana Herb.",
+            "id": "1433286",
+            "score": 0.00103
+        }
+    ]
+}

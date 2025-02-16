@@ -1,0 +1,60 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Agrostis capillaris L.",
+            "id": "1361133",
+            "score": 0.90421
+        },
+        {
+            "name": "Agrostis stolonifera L.",
+            "id": "1356321",
+            "score": 0.00916
+        },
+        {
+            "name": "Agrostis gigantea Roth",
+            "id": "1363472",
+            "score": 0.00685
+        },
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.00503
+        },
+        {
+            "name": "Aira caryophyllea L.",
+            "id": "1363452",
+            "score": 0.00297
+        },
+        {
+            "name": "Agrostis canina L.",
+            "id": "1361914",
+            "score": 0.00248
+        },
+        {
+            "name": "Poa palustris L.",
+            "id": "1394677",
+            "score": 0.00204
+        },
+        {
+            "name": "Agrostis rupestris All.",
+            "id": "1361141",
+            "score": 0.00171
+        },
+        {
+            "name": "Agrostis castellana Boiss. & Reut.",
+            "id": "1361134",
+            "score": 0.00169
+        },
+        {
+            "name": "Trisetum flavescens (L.) P.Beauv.",
+            "id": "1396889",
+            "score": 0.00164
+        },
+        {
+            "name": "Deschampsia cespitosa (L.) P.Beauv.",
+            "id": "1391666",
+            "score": 0.0014
+        }
+    ]
+}

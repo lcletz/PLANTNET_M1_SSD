@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Crataegus monogyna Jacq.",
+            "id": "1363988",
+            "score": 0.33746
+        },
+        {
+            "name": "Crataegus azarolus L.",
+            "id": "1360290",
+            "score": 0.25649
+        },
+        {
+            "name": "Crataegus laevigata (Poir.) DC.",
+            "id": "1360293",
+            "score": 0.15384
+        },
+        {
+            "name": "Crataegus laciniata Ucria",
+            "id": "1360292",
+            "score": 0.13736
+        },
+        {
+            "name": "Crataegus rhipidophylla Gand.",
+            "id": "1363068",
+            "score": 0.06113
+        },
+        {
+            "name": "Rosa dumalis Bechst.",
+            "id": "1362985",
+            "score": 0.00868
+        },
+        {
+            "name": "Crataegus persimilis Sarg.",
+            "id": "1391430",
+            "score": 0.00836
+        },
+        {
+            "name": "Malus × floribunda Siebold ex Van Houtte",
+            "id": "1782760",
+            "score": 0.00519
+        },
+        {
+            "name": "Crataegus pentagyna Waldst. & Kit. ex Willd.",
+            "id": "1667322",
+            "score": 0.00182
+        },
+        {
+            "name": "Rosa canina L.",
+            "id": "1360334",
+            "score": 0.00162
+        },
+        {
+            "name": "Cotoneaster horizontalis Decne.",
+            "id": "1391410",
+            "score": 0.00111
+        },
+        {
+            "name": "Rosa stylosa Desv.",
+            "id": "1360352",
+            "score": 0.00105
+        }
+    ]
+}

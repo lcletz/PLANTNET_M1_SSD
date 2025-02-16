@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rudbeckia triloba L.",
+            "id": "1413543",
+            "score": 0.92277
+        },
+        {
+            "name": "Rudbeckia fulgida Aiton",
+            "id": "1397722",
+            "score": 0.01951
+        },
+        {
+            "name": "Rudbeckia hirta L.",
+            "id": "1395638",
+            "score": 0.01039
+        },
+        {
+            "name": "Sanvitalia procumbens Lam.",
+            "id": "1398570",
+            "score": 0.00325
+        },
+        {
+            "name": "Helianthus debilis Nutt.",
+            "id": "1379525",
+            "score": 0.00133
+        }
+    ]
+}

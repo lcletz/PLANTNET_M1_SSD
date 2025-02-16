@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Hibiscus moscheutos L.",
+            "id": "1412258",
+            "score": 0.40812
+        },
+        {
+            "name": "Gossypium herbaceum L.",
+            "id": "1359627",
+            "score": 0.01047
+        },
+        {
+            "name": "Hibiscus syriacus L.",
+            "id": "1392770",
+            "score": 0.00874
+        },
+        {
+            "name": "Hibiscus trionum L.",
+            "id": "1363941",
+            "score": 0.00673
+        },
+        {
+            "name": "Malva subovata (DC.) Molero & J.M.Monts.",
+            "id": "1390058",
+            "score": 0.00304
+        }
+    ]
+}

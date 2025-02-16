@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cerastium tomentosum L.",
+            "id": "1391092",
+            "score": 0.74024
+        },
+        {
+            "name": "Cerastium arvense L.",
+            "id": "1356817",
+            "score": 0.12971
+        },
+        {
+            "name": "Cerastium alpinum L.",
+            "id": "1391074",
+            "score": 0.03126
+        },
+        {
+            "name": "Cerastium biebersteinii DC.",
+            "id": "1391075",
+            "score": 0.00339
+        },
+        {
+            "name": "Stellaria nemorum L.",
+            "id": "1382174",
+            "score": 0.00315
+        },
+        {
+            "name": "Cerastium lineare All.",
+            "id": "1391080",
+            "score": 0.00235
+        },
+        {
+            "name": "Cerastium grandiflorum Waldst. & Kit.",
+            "id": "1492385",
+            "score": 0.00126
+        },
+        {
+            "name": "Gypsophila elegans M.Bieb.",
+            "id": "1392676",
+            "score": 0.00117
+        }
+    ]
+}

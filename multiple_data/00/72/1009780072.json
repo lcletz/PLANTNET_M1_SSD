@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Crassula ovata (Mill.) Druce",
+            "id": "1363615",
+            "score": 0.89721
+        },
+        {
+            "name": "Sedum pachyphyllum Rose",
+            "id": "1389307",
+            "score": 0.01281
+        },
+        {
+            "name": "Limbarda crithmoides (L.) Dumort.",
+            "id": "1357705",
+            "score": 0.00423
+        },
+        {
+            "name": "Sedum dendroideum Moc. & Sessé ex DC.",
+            "id": "1389308",
+            "score": 0.00411
+        },
+        {
+            "name": "Sedum praealtum A.DC.",
+            "id": "1529305",
+            "score": 0.00333
+        },
+        {
+            "name": "Sedum album L.",
+            "id": "1358095",
+            "score": 0.00269
+        },
+        {
+            "name": "Malephora crocea (Jacq.) Schwantes",
+            "id": "1389328",
+            "score": 0.00225
+        }
+    ]
+}

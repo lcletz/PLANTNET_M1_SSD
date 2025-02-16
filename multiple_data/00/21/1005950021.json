@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Galium aparine L.",
+            "id": "1360385",
+            "score": 0.86661
+        },
+        {
+            "name": "Galium verrucosum Huds.",
+            "id": "1360420",
+            "score": 0.05253
+        },
+        {
+            "name": "Ranunculus auricomus L.",
+            "id": "1395053",
+            "score": 0.01202
+        },
+        {
+            "name": "Galium tricornutum Dandy",
+            "id": "1360417",
+            "score": 0.0018
+        },
+        {
+            "name": "Asperula arvensis L.",
+            "id": "1360369",
+            "score": 0.00111
+        },
+        {
+            "name": "Galium odoratum (L.) Scop.",
+            "id": "1360404",
+            "score": 0.00101
+        }
+    ]
+}

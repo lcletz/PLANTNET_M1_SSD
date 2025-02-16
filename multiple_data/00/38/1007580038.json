@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Erigeron strigosus Muhl. ex Willd.",
+            "id": "1411968",
+            "score": 0.48796
+        },
+        {
+            "name": "Erigeron philadelphicus L.",
+            "id": "1392052",
+            "score": 0.07964
+        },
+        {
+            "name": "Erigeron annuus (L.) Desf",
+            "id": "1737555",
+            "score": 0.02667
+        },
+        {
+            "name": "Erigeron speciosus (Lindl.) DC.",
+            "id": "1392033",
+            "score": 0.00288
+        },
+        {
+            "name": "Erigeron karvinskianus DC.",
+            "id": "1355907",
+            "score": 0.00141
+        },
+        {
+            "name": "Erigeron quercifolius Lam.",
+            "id": "1443127",
+            "score": 0.00111
+        }
+    ]
+}

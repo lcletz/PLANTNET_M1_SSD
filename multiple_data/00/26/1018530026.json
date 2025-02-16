@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Echium plantagineum L.",
+            "id": "1363849",
+            "score": 0.64382
+        },
+        {
+            "name": "Echium vulgare L.",
+            "id": "1363850",
+            "score": 0.11458
+        },
+        {
+            "name": "Echium sabulicola Pomel",
+            "id": "1356674",
+            "score": 0.06396
+        },
+        {
+            "name": "Echium creticum L.",
+            "id": "1356654",
+            "score": 0.04835
+        },
+        {
+            "name": "Echium italicum L.",
+            "id": "1356663",
+            "score": 0.00891
+        },
+        {
+            "name": "Echium parviflorum Moench",
+            "id": "1356669",
+            "score": 0.00424
+        },
+        {
+            "name": "Echium arenarium Guss.",
+            "id": "1363852",
+            "score": 0.0039
+        },
+        {
+            "name": "Echium rosulatum Lange",
+            "id": "1391833",
+            "score": 0.00267
+        },
+        {
+            "name": "Anchusa officinalis L.",
+            "id": "1394038",
+            "score": 0.00117
+        }
+    ]
+}

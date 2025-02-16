@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ceiba speciosa (A.St.-Hil.) Ravenna",
+            "id": "1419412",
+            "score": 0.56396
+        },
+        {
+            "name": "Ceiba pentandra (L.) Gaertn.",
+            "id": "1388740",
+            "score": 0.07398
+        },
+        {
+            "name": "Persea americana Mill.",
+            "id": "1364365",
+            "score": 0.00431
+        },
+        {
+            "name": "Jacaranda mimosifolia D.Don",
+            "id": "1400148",
+            "score": 0.00221
+        },
+        {
+            "name": "Adansonia digitata L.",
+            "id": "1388738",
+            "score": 0.00206
+        },
+        {
+            "name": "Styphnolobium japonicum (L.) Schott",
+            "id": "1369068",
+            "score": 0.00172
+        },
+        {
+            "name": "Mangifera indica L.",
+            "id": "1384600",
+            "score": 0.00121
+        }
+    ]
+}

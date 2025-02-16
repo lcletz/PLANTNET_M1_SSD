@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ornithogalum umbellatum L.",
+            "id": "1362350",
+            "score": 0.60895
+        },
+        {
+            "name": "Ornithogalum divergens Boreau",
+            "id": "1394319",
+            "score": 0.22913
+        },
+        {
+            "name": "Ornithogalum gussonei Ten.",
+            "id": "1394320",
+            "score": 0.025
+        },
+        {
+            "name": "Ornithogalum pyramidale L.",
+            "id": "1362480",
+            "score": 0.02056
+        },
+        {
+            "name": "Ornithogalum orthophyllum Ten.",
+            "id": "1362348",
+            "score": 0.01543
+        },
+        {
+            "name": "Ornithogalum narbonense L.",
+            "id": "1361514",
+            "score": 0.01461
+        },
+        {
+            "name": "Ornithogalum comosum L.",
+            "id": "1362347",
+            "score": 0.00112
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Beta vulgaris L.",
+            "id": "1363199",
+            "score": 0.83553
+        },
+        {
+            "name": "Rumex sanguineus L.",
+            "id": "1395686",
+            "score": 0.06716
+        },
+        {
+            "name": "Beta macrocarpa Guss.",
+            "id": "1356497",
+            "score": 0.05
+        },
+        {
+            "name": "Penstemon smallii A.Heller",
+            "id": "1819341",
+            "score": 0.00854
+        },
+        {
+            "name": "Spinacia oleracea L.",
+            "id": "1356556",
+            "score": 0.00568
+        },
+        {
+            "name": "Eruca vesicaria (L.) Cav.",
+            "id": "1356328",
+            "score": 0.0017
+        },
+        {
+            "name": "Penstemon digitalis Nutt. ex Sims",
+            "id": "1412996",
+            "score": 0.00166
+        },
+        {
+            "name": "Basella alba L.",
+            "id": "1383999",
+            "score": 0.00164
+        },
+        {
+            "name": "Raphanus raphanistrum L.",
+            "id": "1363901",
+            "score": 0.00135
+        }
+    ]
+}

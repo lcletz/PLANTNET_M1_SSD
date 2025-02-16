@@ -1,0 +1,20 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Bryonia alba L.",
+            "id": "1389570",
+            "score": 0.85455
+        },
+        {
+            "name": "Bryonia cretica L.",
+            "id": "1358446",
+            "score": 0.15196
+        },
+        {
+            "name": "Sicyos angulatus L.",
+            "id": "1413783",
+            "score": 0.0034
+        }
+    ]
+}

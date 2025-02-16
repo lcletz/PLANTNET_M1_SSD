@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Juniperus squamata D.Don",
+            "id": "1740397",
+            "score": 0.54878
+        },
+        {
+            "name": "Juniperus horizontalis Moench",
+            "id": "1388819",
+            "score": 0.14701
+        },
+        {
+            "name": "Chamaecyparis pisifera (Siebold & Zucc.) Endl.",
+            "id": "1391117",
+            "score": 0.03351
+        },
+        {
+            "name": "Juniperus communis L.",
+            "id": "1393364",
+            "score": 0.01153
+        },
+        {
+            "name": "Juniperus scopulorum Sarg.",
+            "id": "1388823",
+            "score": 0.00856
+        },
+        {
+            "name": "Chamaecyparis lawsoniana (A.Murray bis) Parl.",
+            "id": "1418584",
+            "score": 0.00211
+        },
+        {
+            "name": "Juniperus chinensis L.",
+            "id": "1393361",
+            "score": 0.00189
+        },
+        {
+            "name": "Juniperus recurva Buch.-Ham. ex D.Don",
+            "id": "1418590",
+            "score": 0.00127
+        }
+    ]
+}

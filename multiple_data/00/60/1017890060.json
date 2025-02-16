@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vaccinium corymbosum L.",
+            "id": "1396966",
+            "score": 0.95039
+        },
+        {
+            "name": "Vaccinium angustifolium Aiton",
+            "id": "1414140",
+            "score": 0.02266
+        },
+        {
+            "name": "Vaccinium pallidum Aiton",
+            "id": "1414150",
+            "score": 0.01018
+        },
+        {
+            "name": "Vaccinium myrtillus L.",
+            "id": "1361801",
+            "score": 0.00292
+        },
+        {
+            "name": "Vaccinium stamineum L.",
+            "id": "1414153",
+            "score": 0.00139
+        }
+    ]
+}

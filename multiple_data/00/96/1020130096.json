@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Polystichum aculeatum (L.) Roth",
+            "id": "1356387",
+            "score": 0.10452
+        },
+        {
+            "name": "Polystichum setiferum (Forssk.) T.Moore ex Woynar",
+            "id": "1722693",
+            "score": 0.01691
+        },
+        {
+            "name": "Dryopteris filix-mas (L.) Schott",
+            "id": "1356382",
+            "score": 0.00928
+        },
+        {
+            "name": "Polystichum braunii (Spenn.) Fée",
+            "id": "1394767",
+            "score": 0.00353
+        },
+        {
+            "name": "Thelypteris pozoi (Lag.) C.V.Morton",
+            "id": "1743831",
+            "score": 0.00253
+        },
+        {
+            "name": "Dryopteris × complexa Fraser-Jenk.",
+            "id": "1739061",
+            "score": 0.00187
+        },
+        {
+            "name": "Dryopteris ardechensis Fraser-Jenk.",
+            "id": "1391802",
+            "score": 0.00165
+        }
+    ]
+}

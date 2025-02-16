@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vaccinium myrtillus L.",
+            "id": "1361801",
+            "score": 0.87891
+        },
+        {
+            "name": "Dictamnus albus L.",
+            "id": "1391724",
+            "score": 0.01353
+        },
+        {
+            "name": "Gaultheria shallon Pursh",
+            "id": "1392505",
+            "score": 0.00379
+        },
+        {
+            "name": "Vaccinium ovatum Pursh",
+            "id": "1414148",
+            "score": 0.00258
+        },
+        {
+            "name": "Vaccinium vitis-idaea L.",
+            "id": "1396971",
+            "score": 0.00202
+        },
+        {
+            "name": "Vaccinium angustifolium Aiton",
+            "id": "1414140",
+            "score": 0.00138
+        },
+        {
+            "name": "Orthilia secunda (L.) House",
+            "id": "1397450",
+            "score": 0.0013
+        }
+    ]
+}

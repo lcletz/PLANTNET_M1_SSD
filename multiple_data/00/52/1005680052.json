@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Achillea millefolium L.",
+            "id": "1364157",
+            "score": 0.56589
+        },
+        {
+            "name": "Achillea nobilis L.",
+            "id": "1397302",
+            "score": 0.25649
+        },
+        {
+            "name": "Achillea tomentosa L.",
+            "id": "1393953",
+            "score": 0.01729
+        },
+        {
+            "name": "Filipendula vulgaris Moench",
+            "id": "1360297",
+            "score": 0.01695
+        },
+        {
+            "name": "Achillea distans Waldst. & Kit. ex Willd.",
+            "id": "1392898",
+            "score": 0.01543
+        },
+        {
+            "name": "Achillea × roseoalba Ehrend.",
+            "id": "1742055",
+            "score": 0.00734
+        },
+        {
+            "name": "Achillea setacea Waldst. & Kit.",
+            "id": "1392587",
+            "score": 0.00715
+        },
+        {
+            "name": "Achillea odorata L.",
+            "id": "1357187",
+            "score": 0.00572
+        },
+        {
+            "name": "Hippuris vulgaris L.",
+            "id": "1392778",
+            "score": 0.00489
+        },
+        {
+            "name": "Lycopodium annotinum L.",
+            "id": "1397431",
+            "score": 0.00404
+        },
+        {
+            "name": "Meum athamanticum Jacq.",
+            "id": "1360759",
+            "score": 0.00287
+        },
+        {
+            "name": "Asparagus densiflorus (Kunth) Jessop",
+            "id": "1386163",
+            "score": 0.00251
+        },
+        {
+            "name": "Foeniculum vulgare Mill.",
+            "id": "1360739",
+            "score": 0.0024
+        },
+        {
+            "name": "Carum carvi L.",
+            "id": "1363229",
+            "score": 0.00105
+        },
+        {
+            "name": "Achillea pannonica Scheele",
+            "id": "1392630",
+            "score": 0.00102
+        }
+    ]
+}

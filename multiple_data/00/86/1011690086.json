@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ficus carica L.",
+            "id": "1363142",
+            "score": 0.91002
+        },
+        {
+            "name": "Cordia myxa L.",
+            "id": "1369999",
+            "score": 0.00315
+        },
+        {
+            "name": "Ficus palmata Forssk.",
+            "id": "1363141",
+            "score": 0.00294
+        },
+        {
+            "name": "Ficus johannis Boiss.",
+            "id": "1601982",
+            "score": 0.00217
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.00161
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.00156
+        }
+    ]
+}

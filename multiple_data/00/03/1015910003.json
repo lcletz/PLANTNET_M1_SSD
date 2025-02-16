@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Erica multiflora L.",
+            "id": "1358509",
+            "score": 0.85216
+        },
+        {
+            "name": "Erica vagans L.",
+            "id": "1361800",
+            "score": 0.07831
+        },
+        {
+            "name": "Erica manipuliflora Salisb.",
+            "id": "1399165",
+            "score": 0.02211
+        },
+        {
+            "name": "Erica arborea L.",
+            "id": "1358503",
+            "score": 0.01425
+        },
+        {
+            "name": "Erica scoparia L.",
+            "id": "1358511",
+            "score": 0.00166
+        },
+        {
+            "name": "Erica × darleyensis Bean",
+            "id": "1844194",
+            "score": 0.00162
+        },
+        {
+            "name": "Erica lusitanica Rudolphi",
+            "id": "1392024",
+            "score": 0.00123
+        }
+    ]
+}

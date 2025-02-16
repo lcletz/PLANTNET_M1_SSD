@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Chaerophyllum aromaticum L.",
+            "id": "1399141",
+            "score": 0.94105
+        },
+        {
+            "name": "Angelica archangelica L.",
+            "id": "1397313",
+            "score": 0.02029
+        },
+        {
+            "name": "Aegopodium podagraria L.",
+            "id": "1389510",
+            "score": 0.00826
+        },
+        {
+            "name": "Bidens pilosa L.",
+            "id": "1364143",
+            "score": 0.00155
+        },
+        {
+            "name": "Angelica atropurpurea L.",
+            "id": "1399920",
+            "score": 0.0015
+        },
+        {
+            "name": "Dahlia imperialis Roezl ex Ortgies",
+            "id": "1417809",
+            "score": 0.00117
+        },
+        {
+            "name": "Angelica sylvestris L.",
+            "id": "1394591",
+            "score": 0.00102
+        }
+    ]
+}

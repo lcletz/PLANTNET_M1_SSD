@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Camellia japonica L.",
+            "id": "1379149",
+            "score": 0.66409
+        },
+        {
+            "name": "Camellia sasanqua Thunb.",
+            "id": "1379181",
+            "score": 0.26935
+        },
+        {
+            "name": "Camellia reticulata Lindl.",
+            "id": "1420770",
+            "score": 0.00241
+        },
+        {
+            "name": "Camellia chekiangoleosa Hu",
+            "id": "1693066",
+            "score": 0.00183
+        },
+        {
+            "name": "Camellia saluenensis Stapf ex Bean",
+            "id": "1390645",
+            "score": 0.00106
+        }
+    ]
+}

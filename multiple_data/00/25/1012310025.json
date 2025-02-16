@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Actinidia chinensis Planch.",
+            "id": "1397151",
+            "score": 0.97631
+        },
+        {
+            "name": "Posidonia oceanica (L.) Delile",
+            "id": "1361703",
+            "score": 0.00606
+        },
+        {
+            "name": "Mammea americana L.",
+            "id": "1367554",
+            "score": 0.00337
+        },
+        {
+            "name": "Cucumis melo L.",
+            "id": "1363647",
+            "score": 0.00197
+        },
+        {
+            "name": "Prunus persica (L.) Batsch",
+            "id": "1363997",
+            "score": 0.00117
+        }
+    ]
+}

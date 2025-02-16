@@ -1,0 +1,340 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cardamine flexuosa With.",
+            "id": "1363883",
+            "score": 0.58514
+        },
+        {
+            "name": "Cardamine parviflora L.",
+            "id": "1363885",
+            "score": 0.26627
+        },
+        {
+            "name": "Cardamine amara L.",
+            "id": "1397336",
+            "score": 0.13905
+        },
+        {
+            "name": "Cardamine hirsuta L.",
+            "id": "1363884",
+            "score": 0.10217
+        },
+        {
+            "name": "Cardamine impatiens L.",
+            "id": "1397337",
+            "score": 0.01463
+        },
+        {
+            "name": "Arabidopsis halleri (L.) O'Kane & Al-Shehbaz",
+            "id": "1389346",
+            "score": 0.0137
+        },
+        {
+            "name": "Papaver setiferum Goldblatt",
+            "id": "1737543",
+            "score": 0.01013
+        },
+        {
+            "name": "Arabidopsis thaliana (L.) Heynh.",
+            "id": "1363915",
+            "score": 0.00989
+        },
+        {
+            "name": "Veronica sublobata M.A.Fisch.",
+            "id": "1711843",
+            "score": 0.00911
+        },
+        {
+            "name": "Cardamine pratensis L.",
+            "id": "1358213",
+            "score": 0.00785
+        },
+        {
+            "name": "Arabidopsis arenosa (L.) Lawalrée",
+            "id": "1389345",
+            "score": 0.00595
+        },
+        {
+            "name": "Rorippa palustris (L.) Besser",
+            "id": "1363914",
+            "score": 0.00516
+        },
+        {
+            "name": "Arabis hirsuta (L.) Scop.",
+            "id": "1358171",
+            "score": 0.0045
+        },
+        {
+            "name": "Capsella bursa-pastoris (L.) Medik.",
+            "id": "1363910",
+            "score": 0.00386
+        },
+        {
+            "name": "Sinapis alba L.",
+            "id": "1363889",
+            "score": 0.00366
+        },
+        {
+            "name": "Brassica juncea (L.) Czern.",
+            "id": "1363904",
+            "score": 0.00328
+        },
+        {
+            "name": "Draba muralis L.",
+            "id": "1358264",
+            "score": 0.00258
+        },
+        {
+            "name": "Lapsana communis L.",
+            "id": "1364164",
+            "score": 0.00221
+        },
+        {
+            "name": "Cardamine oligosperma Nutt.",
+            "id": "1414434",
+            "score": 0.002
+        },
+        {
+            "name": "Cardamine angulata Hook.",
+            "id": "1414422",
+            "score": 0.00188
+        },
+        {
+            "name": "Cardamine raphanifolia Pourr.",
+            "id": "1397338",
+            "score": 0.00187
+        },
+        {
+            "name": "Pseudoturritis turrita (L.) Al-Shehbaz",
+            "id": "1390300",
+            "score": 0.0018
+        },
+        {
+            "name": "Murbeckiella pinnatifida (Lam.) Rothm.",
+            "id": "1362469",
+            "score": 0.00173
+        },
+        {
+            "name": "Rorippa sylvestris (L.) Besser",
+            "id": "1358416",
+            "score": 0.00162
+        },
+        {
+            "name": "Nasturtium officinale W.T.Aiton",
+            "id": "1409146",
+            "score": 0.00156
+        },
+        {
+            "name": "Cardamine concatenata (Michx.) O.Schwarz",
+            "id": "1479755",
+            "score": 0.00151
+        },
+        {
+            "name": "Raphanus raphanistrum L.",
+            "id": "1363901",
+            "score": 0.00145
+        },
+        {
+            "name": "Cardamine caldeirarum Guthnick ex Seub.",
+            "id": "1479742",
+            "score": 0.00139
+        },
+        {
+            "name": "Barbarea orthoceras Ledeb.",
+            "id": "1414275",
+            "score": 0.00139
+        },
+        {
+            "name": "Erysimum cheiranthoides L.",
+            "id": "1358289",
+            "score": 0.00136
+        },
+        {
+            "name": "Lepidium heterophyllum Benth.",
+            "id": "1358350",
+            "score": 0.00129
+        },
+        {
+            "name": "Lepidium hirtum (L.) Sm.",
+            "id": "1358351",
+            "score": 0.00125
+        },
+        {
+            "name": "Alliaria petiolata (M.Bieb.) Cavara & Grande",
+            "id": "1392475",
+            "score": 0.00111
+        },
+        {
+            "name": "Papaver dubium L.",
+            "id": "1363129",
+            "score": 0.00103
+        },
+        {
+            "name": "Iberis amara L.",
+            "id": "1358322",
+            "score": 0.00088
+        },
+        {
+            "name": "Veronica hederifolia L.",
+            "id": "1364064",
+            "score": 0.00081
+        },
+        {
+            "name": "Lepidium sativum L.",
+            "id": "1363894",
+            "score": 0.0008
+        },
+        {
+            "name": "Callistephus chinensis (L.) Nees",
+            "id": "1390640",
+            "score": 0.00076
+        },
+        {
+            "name": "Cardamine bonariensis Juss. ex Pers.",
+            "id": "1479738",
+            "score": 0.00069
+        },
+        {
+            "name": "Bothriospermum zeylanicum (J.Jacq.) Druce",
+            "id": "1409021",
+            "score": 0.00067
+        },
+        {
+            "name": "Lapsanastrum humile (Thunb.) Pak & K.Bremer",
+            "id": "1513337",
+            "score": 0.00058
+        },
+        {
+            "name": "Youngia japonica (L.) DC.",
+            "id": "1373670",
+            "score": 0.00058
+        },
+        {
+            "name": "Lactuca muralis (L.) E.Mey.",
+            "id": "1737633",
+            "score": 0.00058
+        },
+        {
+            "name": "Thlaspi arvense L.",
+            "id": "1363886",
+            "score": 0.00056
+        },
+        {
+            "name": "Arabis alpina L.",
+            "id": "1363887",
+            "score": 0.00054
+        },
+        {
+            "name": "Sisymbrium loeselii L.",
+            "id": "1396308",
+            "score": 0.00051
+        },
+        {
+            "name": "Cardamine bellidifolia L.",
+            "id": "1397528",
+            "score": 0.0005
+        },
+        {
+            "name": "Campanula portenschlagiana Schult.",
+            "id": "1418359",
+            "score": 0.00048
+        },
+        {
+            "name": "Veronica filiformis Sm.",
+            "id": "1397048",
+            "score": 0.00048
+        },
+        {
+            "name": "Arctotheca calendula (L.) Levyns",
+            "id": "1355927",
+            "score": 0.00047
+        },
+        {
+            "name": "Stellaria apetala Ucria",
+            "id": "1722525",
+            "score": 0.00046
+        },
+        {
+            "name": "Diplotaxis muralis (L.) DC.",
+            "id": "1363875",
+            "score": 0.00046
+        },
+        {
+            "name": "Rhamphospermum arvense (L.) Andrz. ex Besser",
+            "id": "1737463",
+            "score": 0.00039
+        },
+        {
+            "name": "Veronica agrestis L.",
+            "id": "1364061",
+            "score": 0.00037
+        },
+        {
+            "name": "Sisymbrium officinale (L.) Scop.",
+            "id": "1363897",
+            "score": 0.00035
+        },
+        {
+            "name": "Lepidium didymum L.",
+            "id": "1363892",
+            "score": 0.00033
+        },
+        {
+            "name": "Veronica polita Fr.",
+            "id": "1359981",
+            "score": 0.00029
+        },
+        {
+            "name": "Eruca vesicaria (L.) Cav.",
+            "id": "1356328",
+            "score": 0.00029
+        },
+        {
+            "name": "Calepina irregularis (Asso) Thell.",
+            "id": "1358204",
+            "score": 0.00029
+        },
+        {
+            "name": "Rhamphospermum nigrum (L.) Al-Shehbaz",
+            "id": "1737676",
+            "score": 0.00029
+        },
+        {
+            "name": "Anthriscus cerefolium (L.) Hoffm.",
+            "id": "1360613",
+            "score": 0.00029
+        },
+        {
+            "name": "Drusa glandulosa (Poir.) H.Wolff ex Engl.",
+            "id": "1399895",
+            "score": 0.00028
+        },
+        {
+            "name": "Veronica cymbalaria Bodard",
+            "id": "1359978",
+            "score": 0.00028
+        },
+        {
+            "name": "Hesperocodon hederaceus (L.) Eddie & Cupido",
+            "id": "1738627",
+            "score": 0.00028
+        },
+        {
+            "name": "Galinsoga quadriradiata Ruiz & Pav.",
+            "id": "1357599",
+            "score": 0.00026
+        },
+        {
+            "name": "Cardamine occulta Hornem.",
+            "id": "1719822",
+            "score": 0.00026
+        },
+        {
+            "name": "Houstonia rosea (Raf.) Terrell",
+            "id": "1433044",
+            "score": 0.00026
+        }
+    ]
+}

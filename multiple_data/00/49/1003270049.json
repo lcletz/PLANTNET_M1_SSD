@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Datura stramonium L.",
+            "id": "1360549",
+            "score": 0.93532
+        },
+        {
+            "name": "Datura wrightii Regel",
+            "id": "1399913",
+            "score": 0.01168
+        },
+        {
+            "name": "Datura ferox L.",
+            "id": "1356149",
+            "score": 0.01155
+        },
+        {
+            "name": "Datura metel L.",
+            "id": "1356150",
+            "score": 0.00571
+        },
+        {
+            "name": "Xanthium strumarium L.",
+            "id": "1355898",
+            "score": 0.00344
+        },
+        {
+            "name": "Datura innoxia Mill.",
+            "id": "1391658",
+            "score": 0.00268
+        },
+        {
+            "name": "Orlaya grandiflora (L.) Hoffm.",
+            "id": "1360771",
+            "score": 0.00107
+        }
+    ]
+}

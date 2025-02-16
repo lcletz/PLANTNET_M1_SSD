@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Clematis recta L.",
+            "id": "1391298",
+            "score": 0.61025
+        },
+        {
+            "name": "Clematis flammula L.",
+            "id": "1360159",
+            "score": 0.07546
+        },
+        {
+            "name": "Thalictrum tuberosum L.",
+            "id": "1396750",
+            "score": 0.00349
+        },
+        {
+            "name": "Ranunculus platanifolius L.",
+            "id": "1395114",
+            "score": 0.0011
+        },
+        {
+            "name": "Clematis vitalba L.",
+            "id": "1360161",
+            "score": 0.00104
+        }
+    ]
+}

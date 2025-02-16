@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Euphorbia lathyris L.",
+            "id": "1355968",
+            "score": 0.82995
+        },
+        {
+            "name": "Euphorbia dulcis L.",
+            "id": "1392156",
+            "score": 0.01168
+        },
+        {
+            "name": "Euphorbia esula L.",
+            "id": "1392158",
+            "score": 0.00105
+        },
+        {
+            "name": "Lathyrus oleraceus Lam.",
+            "id": "1741625",
+            "score": 0.00102
+        }
+    ]
+}

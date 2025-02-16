@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tripleurospermum inodorum Sch.Bip.",
+            "id": "1396882",
+            "score": 0.47676
+        },
+        {
+            "name": "Matricaria chamomilla L.",
+            "id": "1362332",
+            "score": 0.07253
+        },
+        {
+            "name": "Anthemis cotula L.",
+            "id": "1364155",
+            "score": 0.06249
+        },
+        {
+            "name": "Anthemis arvensis L.",
+            "id": "1364154",
+            "score": 0.03197
+        },
+        {
+            "name": "Leucanthemum vulgare Lam.",
+            "id": "1393513",
+            "score": 0.0069
+        },
+        {
+            "name": "Cota altissima (L.) J.Gay ex Guss.",
+            "id": "1391372",
+            "score": 0.00134
+        }
+    ]
+}

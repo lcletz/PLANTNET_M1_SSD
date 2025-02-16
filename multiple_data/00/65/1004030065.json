@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Amorpha fruticosa L.",
+            "id": "1393787",
+            "score": 0.90695
+        },
+        {
+            "name": "Amorpha canescens Pursh",
+            "id": "1412168",
+            "score": 0.00616
+        },
+        {
+            "name": "Gleditsia triacanthos L.",
+            "id": "1363687",
+            "score": 0.00517
+        },
+        {
+            "name": "Robinia pseudoacacia L.",
+            "id": "1363698",
+            "score": 0.00277
+        },
+        {
+            "name": "Amorpha ouachitensis Wilbur",
+            "id": "1444118",
+            "score": 0.00181
+        },
+        {
+            "name": "Glycyrrhiza glabra L.",
+            "id": "1363659",
+            "score": 0.00155
+        },
+        {
+            "name": "Buddleja davidii Franch.",
+            "id": "1365253",
+            "score": 0.0013
+        }
+    ]
+}

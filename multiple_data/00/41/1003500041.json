@@ -1,0 +1,480 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iris × germanica L.",
+            "id": "1556750",
+            "score": 0.08924
+        },
+        {
+            "name": "Acorus calamus L.",
+            "id": "1396585",
+            "score": 0.05938
+        },
+        {
+            "name": "Iris pseudacorus L.",
+            "id": "1361543",
+            "score": 0.04038
+        },
+        {
+            "name": "Luzula sylvatica (Huds.) Gaudin",
+            "id": "1397430",
+            "score": 0.03997
+        },
+        {
+            "name": "Iris lutescens Lam.",
+            "id": "1362462",
+            "score": 0.03569
+        },
+        {
+            "name": "Iris pumila L.",
+            "id": "1398617",
+            "score": 0.03162
+        },
+        {
+            "name": "Typha latifolia L.",
+            "id": "1363339",
+            "score": 0.02388
+        },
+        {
+            "name": "Lachnanthes caroliniana (Lam.) Dandy",
+            "id": "1554384",
+            "score": 0.02021
+        },
+        {
+            "name": "Narcissus pseudonarcissus L.",
+            "id": "1360968",
+            "score": 0.01924
+        },
+        {
+            "name": "Sisyrinchium striatum Sm.",
+            "id": "1396313",
+            "score": 0.01657
+        },
+        {
+            "name": "Xiphidium caeruleum Aubl.",
+            "id": "1401835",
+            "score": 0.01653
+        },
+        {
+            "name": "Trimezia candida (Hassl.) Ravenna",
+            "id": "1730459",
+            "score": 0.01639
+        },
+        {
+            "name": "Iris spuria L.",
+            "id": "1361544",
+            "score": 0.0153
+        },
+        {
+            "name": "Narcissus papyraceus Ker Gawl.",
+            "id": "1360965",
+            "score": 0.01396
+        },
+        {
+            "name": "Allium fistulosum L.",
+            "id": "1382101",
+            "score": 0.01352
+        },
+        {
+            "name": "Gladiolus communis L.",
+            "id": "1361533",
+            "score": 0.01326
+        },
+        {
+            "name": "Yucca gloriosa L.",
+            "id": "1362946",
+            "score": 0.01314
+        },
+        {
+            "name": "Iris foetidissima L.",
+            "id": "1361540",
+            "score": 0.01267
+        },
+        {
+            "name": "Sisyrinchium californicum (Ker Gawl.) Dryand.",
+            "id": "1396312",
+            "score": 0.01238
+        },
+        {
+            "name": "Hyacinthus orientalis L.",
+            "id": "1393221",
+            "score": 0.01233
+        },
+        {
+            "name": "Podangis dactyloceras (Rchb.f.) Schltr.",
+            "id": "1631171",
+            "score": 0.01122
+        },
+        {
+            "name": "Trimezia gracilis (Herb.) Christenh. & Byng",
+            "id": "1732606",
+            "score": 0.00779
+        },
+        {
+            "name": "Iris versicolor L.",
+            "id": "1393297",
+            "score": 0.00765
+        },
+        {
+            "name": "Allium cepa L.",
+            "id": "1358140",
+            "score": 0.00746
+        },
+        {
+            "name": "Juncus effusus L.",
+            "id": "1363328",
+            "score": 0.00647
+        },
+        {
+            "name": "Allium sativum L.",
+            "id": "1358126",
+            "score": 0.00605
+        },
+        {
+            "name": "Scilla bifolia L.",
+            "id": "1396093",
+            "score": 0.0053
+        },
+        {
+            "name": "Luzula lutea (All.) DC.",
+            "id": "1393679",
+            "score": 0.00506
+        },
+        {
+            "name": "Iris verna L.",
+            "id": "1433305",
+            "score": 0.00488
+        },
+        {
+            "name": "Gladiolus italicus Mill.",
+            "id": "1361535",
+            "score": 0.00451
+        },
+        {
+            "name": "Xeronema moorei Brongn. & Gris",
+            "id": "1414539",
+            "score": 0.00405
+        },
+        {
+            "name": "Anacamptis laxiflora (Lam.) R.M.Bateman, Pridgeon & M.W.Chase",
+            "id": "1393873",
+            "score": 0.00396
+        },
+        {
+            "name": "Vallisneria americana Michx.",
+            "id": "1414165",
+            "score": 0.00394
+        },
+        {
+            "name": "Iris longipetala Herb.",
+            "id": "1556805",
+            "score": 0.00381
+        },
+        {
+            "name": "Anacamptis palustris (Jacq.) R.M.Bateman, Pridgeon & M.W.Chase",
+            "id": "1393879",
+            "score": 0.0036
+        },
+        {
+            "name": "Iris hartwegii Baker",
+            "id": "1433292",
+            "score": 0.00332
+        },
+        {
+            "name": "Schiekia orinocensis (Kunth) Meisn.",
+            "id": "1401833",
+            "score": 0.00331
+        },
+        {
+            "name": "Sisyrinchium angustifolium Mill.",
+            "id": "1396314",
+            "score": 0.0033
+        },
+        {
+            "name": "Arundina graminifolia (D.Don) Hochr.",
+            "id": "1400845",
+            "score": 0.00322
+        },
+        {
+            "name": "Iris macrosiphon Torr.",
+            "id": "1433295",
+            "score": 0.00321
+        },
+        {
+            "name": "Anacamptis morio (L.) R.M.Bateman, Pridgeon & M.W.Chase",
+            "id": "1393877",
+            "score": 0.00316
+        },
+        {
+            "name": "Hyacinthoides non-scripta (L.) Chouard ex Rothm.",
+            "id": "1393219",
+            "score": 0.00296
+        },
+        {
+            "name": "Juncus articulatus L.",
+            "id": "1361572",
+            "score": 0.00293
+        },
+        {
+            "name": "Iris douglasiana Herb.",
+            "id": "1433286",
+            "score": 0.00285
+        },
+        {
+            "name": "Narcissus dubius Gouan",
+            "id": "1393921",
+            "score": 0.00249
+        },
+        {
+            "name": "Narcissus tazetta L.",
+            "id": "1360971",
+            "score": 0.0023
+        },
+        {
+            "name": "Cyperus rotundus L.",
+            "id": "1361090",
+            "score": 0.00221
+        },
+        {
+            "name": "Trimezia northiana (Schneev.) Ravenna",
+            "id": "1730465",
+            "score": 0.00208
+        },
+        {
+            "name": "Juncus requienii Parl.",
+            "id": "1393353",
+            "score": 0.00194
+        },
+        {
+            "name": "Stratiotes aloides L.",
+            "id": "1396473",
+            "score": 0.00193
+        },
+        {
+            "name": "Oberonia equitans (G.Forst.) Mutel",
+            "id": "1426731",
+            "score": 0.00187
+        },
+        {
+            "name": "Azolla filiculoides Lam.",
+            "id": "1356371",
+            "score": 0.00178
+        },
+        {
+            "name": "Allium atrosanguineum Schrenk",
+            "id": "1452137",
+            "score": 0.00178
+        },
+        {
+            "name": "Iris tuberosa L.",
+            "id": "1393305",
+            "score": 0.00176
+        },
+        {
+            "name": "Cyperus esculentus L.",
+            "id": "1361087",
+            "score": 0.00175
+        },
+        {
+            "name": "Carex pendula Huds.",
+            "id": "1361075",
+            "score": 0.00174
+        },
+        {
+            "name": "Amaryllis belladonna L.",
+            "id": "1361418",
+            "score": 0.00168
+        },
+        {
+            "name": "Aloe vera (L.) Burm.f.",
+            "id": "1400011",
+            "score": 0.00167
+        },
+        {
+            "name": "Encyclia pollardiana (Withner) Dressler & G.E.Pollard",
+            "id": "1620033",
+            "score": 0.00165
+        },
+        {
+            "name": "Colchicum umbrosum Steven",
+            "id": "1496768",
+            "score": 0.00164
+        },
+        {
+            "name": "Ornithogalum thyrsoides Jacq.",
+            "id": "1417728",
+            "score": 0.00163
+        },
+        {
+            "name": "Zostera marina L.",
+            "id": "1361723",
+            "score": 0.00161
+        },
+        {
+            "name": "Yucca schidigera Roezl ex Ortgies",
+            "id": "1439763",
+            "score": 0.0016
+        },
+        {
+            "name": "Narthecium ossifragum (L.) Huds.",
+            "id": "1393933",
+            "score": 0.00159
+        },
+        {
+            "name": "Encyclia fucata (Lindl.) Schltr.",
+            "id": "1619967",
+            "score": 0.00156
+        },
+        {
+            "name": "Burmannia disticha L.",
+            "id": "1485697",
+            "score": 0.00154
+        },
+        {
+            "name": "Orchis mascula (L.) L.",
+            "id": "1361682",
+            "score": 0.00153
+        },
+        {
+            "name": "Juncus ensifolius Wikstr.",
+            "id": "1393338",
+            "score": 0.00152
+        },
+        {
+            "name": "Carex digitata L.",
+            "id": "1390801",
+            "score": 0.00152
+        },
+        {
+            "name": "Allium roseum L.",
+            "id": "1360931",
+            "score": 0.00151
+        },
+        {
+            "name": "Anacamptis papilionacea (L.) R.M.Bateman, Pridgeon & M.W.Chase",
+            "id": "1393885",
+            "score": 0.00151
+        },
+        {
+            "name": "Allium barthianum Asch. & Schweinf.",
+            "id": "1360908",
+            "score": 0.00148
+        },
+        {
+            "name": "Allium ampeloprasum L.",
+            "id": "1358134",
+            "score": 0.00147
+        },
+        {
+            "name": "Carex sylvatica Huds.",
+            "id": "1363283",
+            "score": 0.00145
+        },
+        {
+            "name": "Allium tricoccum Aiton",
+            "id": "1411756",
+            "score": 0.00143
+        },
+        {
+            "name": "Neotinea tridentata (Scop.) R.M.Bateman, Pridgeon & M.W.Chase",
+            "id": "1398041",
+            "score": 0.00139
+        },
+        {
+            "name": "Freesia refracta (Jacq.) Klatt",
+            "id": "1362582",
+            "score": 0.00138
+        },
+        {
+            "name": "Leucojum vernum L.",
+            "id": "1393517",
+            "score": 0.00137
+        },
+        {
+            "name": "Sisyrinchium rosulatum E.P.Bicknell",
+            "id": "1396317",
+            "score": 0.00135
+        },
+        {
+            "name": "Anacamptis pyramidalis (L.) Rich.",
+            "id": "1361634",
+            "score": 0.00134
+        },
+        {
+            "name": "Allium canadense L.",
+            "id": "1411691",
+            "score": 0.0013
+        },
+        {
+            "name": "Sparganium erectum L.",
+            "id": "1361720",
+            "score": 0.00127
+        },
+        {
+            "name": "Tradescantia virginiana L.",
+            "id": "1396824",
+            "score": 0.00126
+        },
+        {
+            "name": "Iris cristata Aiton",
+            "id": "1433285",
+            "score": 0.00124
+        },
+        {
+            "name": "Tofieldia calyculata (L.) Wahlenb.",
+            "id": "1396806",
+            "score": 0.0012
+        },
+        {
+            "name": "Chasmanthe aethiopica (L.) N.E.Br.",
+            "id": "1397583",
+            "score": 0.0012
+        },
+        {
+            "name": "Carex acutiformis Ehrh.",
+            "id": "1363281",
+            "score": 0.0012
+        },
+        {
+            "name": "Orchis olbiensis Reut. ex Gren.",
+            "id": "1361683",
+            "score": 0.00116
+        },
+        {
+            "name": "Yucca aloifolia L.",
+            "id": "1398112",
+            "score": 0.00114
+        },
+        {
+            "name": "Himantoglossum robertianum (Loisel.) P.Delforge",
+            "id": "1361652",
+            "score": 0.00112
+        },
+        {
+            "name": "Anacamptis coriophora (L.) R.M.Bateman, Pridgeon & M.W.Chase",
+            "id": "1393872",
+            "score": 0.00112
+        },
+        {
+            "name": "Neottia nidus-avis (L.) Rich.",
+            "id": "1361654",
+            "score": 0.00112
+        },
+        {
+            "name": "Ophrys tenthredinifera Willd.",
+            "id": "1361672",
+            "score": 0.00108
+        },
+        {
+            "name": "Hypoxis hirsuta (L.) Coville",
+            "id": "1412317",
+            "score": 0.00107
+        },
+        {
+            "name": "Iris stenophylla Hausskn. ex Baker",
+            "id": "1556910",
+            "score": 0.00106
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Humulus lupulus L.",
+            "id": "1356781",
+            "score": 0.91108
+        },
+        {
+            "name": "Humulus scandens (Lour.) Merr.",
+            "id": "1418380",
+            "score": 0.00974
+        },
+        {
+            "name": "Filipendula rubra (Hill) B.L.Rob.",
+            "id": "1667442",
+            "score": 0.00764
+        },
+        {
+            "name": "Acer heldreichii Orph. ex Boiss.",
+            "id": "1420597",
+            "score": 0.00264
+        },
+        {
+            "name": "Filipendula ulmaria (L.) Maxim.",
+            "id": "1392353",
+            "score": 0.0021
+        },
+        {
+            "name": "Ribes nigrum L.",
+            "id": "1395200",
+            "score": 0.00168
+        },
+        {
+            "name": "Cannabis sativa L.",
+            "id": "1356780",
+            "score": 0.00126
+        }
+    ]
+}

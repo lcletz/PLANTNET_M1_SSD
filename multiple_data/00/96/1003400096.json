@@ -1,0 +1,405 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Clematis flammula L.",
+            "id": "1360159",
+            "score": 0.25112
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.02656
+        },
+        {
+            "name": "Bidens tripartita L.",
+            "id": "1400144",
+            "score": 0.02158
+        },
+        {
+            "name": "Silaum silaus (L.) Schinz & Thell.",
+            "id": "1396267",
+            "score": 0.01855
+        },
+        {
+            "name": "Rubia tinctorum L.",
+            "id": "1360434",
+            "score": 0.01841
+        },
+        {
+            "name": "Bidens bipinnata L.",
+            "id": "1364141",
+            "score": 0.01728
+        },
+        {
+            "name": "Sambucus racemosa L.",
+            "id": "1397608",
+            "score": 0.01722
+        },
+        {
+            "name": "Bidens frondosa L.",
+            "id": "1400138",
+            "score": 0.01659
+        },
+        {
+            "name": "Rubia peregrina L.",
+            "id": "1360433",
+            "score": 0.01403
+        },
+        {
+            "name": "Clematis vitalba L.",
+            "id": "1360161",
+            "score": 0.0123
+        },
+        {
+            "name": "Alternanthera brasiliana (L.) Kuntze",
+            "id": "1382098",
+            "score": 0.00965
+        },
+        {
+            "name": "Clematis recta L.",
+            "id": "1391298",
+            "score": 0.00914
+        },
+        {
+            "name": "Cryptotaenia japonica Hassk.",
+            "id": "1419754",
+            "score": 0.00899
+        },
+        {
+            "name": "Ipomoea batatas (L.) Lam.",
+            "id": "1364028",
+            "score": 0.00743
+        },
+        {
+            "name": "Vitex agnus-castus L.",
+            "id": "1356208",
+            "score": 0.00663
+        },
+        {
+            "name": "Alternanthera sessilis (L.) R.Br. ex DC.",
+            "id": "1393406",
+            "score": 0.00644
+        },
+        {
+            "name": "Clematis montana Buch.-Ham. ex DC.",
+            "id": "1391296",
+            "score": 0.00634
+        },
+        {
+            "name": "Ranunculus repens L.",
+            "id": "1360222",
+            "score": 0.00582
+        },
+        {
+            "name": "Bidens subalternans DC.",
+            "id": "1400143",
+            "score": 0.00552
+        },
+        {
+            "name": "Torilis arvensis (Huds.) Link",
+            "id": "1363212",
+            "score": 0.00541
+        },
+        {
+            "name": "Angelica atropurpurea L.",
+            "id": "1399920",
+            "score": 0.00518
+        },
+        {
+            "name": "Lepidagathis cristata Willd.",
+            "id": "1785371",
+            "score": 0.00481
+        },
+        {
+            "name": "Bidens pilosa L.",
+            "id": "1364143",
+            "score": 0.00459
+        },
+        {
+            "name": "Passiflora caerulea L.",
+            "id": "1356052",
+            "score": 0.00441
+        },
+        {
+            "name": "Paeonia officinalis L.",
+            "id": "1362842",
+            "score": 0.00389
+        },
+        {
+            "name": "Nandina domestica Thunb.",
+            "id": "1409295",
+            "score": 0.00388
+        },
+        {
+            "name": "Cyphostemma elephantopus Desc.",
+            "id": "1697967",
+            "score": 0.00356
+        },
+        {
+            "name": "Angelica gigas Nakai",
+            "id": "1399921",
+            "score": 0.00351
+        },
+        {
+            "name": "Rosa glauca Pourr.",
+            "id": "1668240",
+            "score": 0.00323
+        },
+        {
+            "name": "Ranunculus flammula L.",
+            "id": "1360203",
+            "score": 0.00319
+        },
+        {
+            "name": "Paeonia lactiflora Pall.",
+            "id": "1412934",
+            "score": 0.00275
+        },
+        {
+            "name": "Vitex trifolia L.",
+            "id": "1408829",
+            "score": 0.00271
+        },
+        {
+            "name": "Hibiscus acetosella Welw. ex Hiern",
+            "id": "1370453",
+            "score": 0.00266
+        },
+        {
+            "name": "Floerkea proserpinacoides Willd.",
+            "id": "1412086",
+            "score": 0.00249
+        },
+        {
+            "name": "Clematis cirrhosa L.",
+            "id": "1360158",
+            "score": 0.00239
+        },
+        {
+            "name": "Zygophyllum creticum (L.) Christenh. & Byng",
+            "id": "1722705",
+            "score": 0.00233
+        },
+        {
+            "name": "Rhoicissus revoilii Planch.",
+            "id": "1379118",
+            "score": 0.00224
+        },
+        {
+            "name": "Peucedanum oreoselinum (L.) Moench",
+            "id": "1458390",
+            "score": 0.00215
+        },
+        {
+            "name": "Helleborus viridis L.",
+            "id": "1397399",
+            "score": 0.00213
+        },
+        {
+            "name": "Helleborus foetidus L.",
+            "id": "1360182",
+            "score": 0.00207
+        },
+        {
+            "name": "Ayapana triplinervis (Vahl) R.M.King & H.Rob.",
+            "id": "1403789",
+            "score": 0.00207
+        },
+        {
+            "name": "Stylosanthes humilis Kunth",
+            "id": "1368478",
+            "score": 0.00197
+        },
+        {
+            "name": "Paeonia mascula (L.) Mill.",
+            "id": "1359758",
+            "score": 0.00194
+        },
+        {
+            "name": "Galium aparine L.",
+            "id": "1360385",
+            "score": 0.00188
+        },
+        {
+            "name": "Dahlia × cultorum Thorsrud & Reisaeter",
+            "id": "1844132",
+            "score": 0.00187
+        },
+        {
+            "name": "Thapsia minor Hoffmanns. & Link",
+            "id": "1389142",
+            "score": 0.00187
+        },
+        {
+            "name": "Clematis alpina (L.) Mill.",
+            "id": "1397354",
+            "score": 0.00187
+        },
+        {
+            "name": "Combretum glutinosum Perr. ex DC.",
+            "id": "1382440",
+            "score": 0.00187
+        },
+        {
+            "name": "Clematis viticella L.",
+            "id": "1391301",
+            "score": 0.00182
+        },
+        {
+            "name": "Aristolochia watsonii Wooton & Standl.",
+            "id": "1436842",
+            "score": 0.00176
+        },
+        {
+            "name": "Euphorbia dentata Michx.",
+            "id": "1392150",
+            "score": 0.00169
+        },
+        {
+            "name": "Lathyrus tingitanus L.",
+            "id": "1359283",
+            "score": 0.00169
+        },
+        {
+            "name": "Senecio bayonnensis Boiss.",
+            "id": "1396188",
+            "score": 0.00164
+        },
+        {
+            "name": "Clematis crispa L.",
+            "id": "1441494",
+            "score": 0.00163
+        },
+        {
+            "name": "Helminthotheca echioides (L.) Holub",
+            "id": "1357635",
+            "score": 0.00162
+        },
+        {
+            "name": "Anemonoides nemorosa (L.) Holub",
+            "id": "1737521",
+            "score": 0.00162
+        },
+        {
+            "name": "Astilbe japonica (C.Morren & Decne.) A.Gray",
+            "id": "1398452",
+            "score": 0.00161
+        },
+        {
+            "name": "Peucedanum lancifolium Lange",
+            "id": "1458369",
+            "score": 0.00159
+        },
+        {
+            "name": "Iresine diffusa Humb. & Bonpl. ex Willd.",
+            "id": "1405499",
+            "score": 0.00156
+        },
+        {
+            "name": "Apium prostratum Labill. ex Vent.",
+            "id": "1456675",
+            "score": 0.00154
+        },
+        {
+            "name": "Baptisia alba (L.) R.Br.",
+            "id": "1815834",
+            "score": 0.00147
+        },
+        {
+            "name": "Erigenia bulbosa (Michx.) Nutt.",
+            "id": "1411937",
+            "score": 0.00146
+        },
+        {
+            "name": "Vigna luteola (Jacq.) Benth.",
+            "id": "1359582",
+            "score": 0.00142
+        },
+        {
+            "name": "Peucedanum alsaticum L.",
+            "id": "1458331",
+            "score": 0.00139
+        },
+        {
+            "name": "Eupatorium serotinum Michx.",
+            "id": "1412025",
+            "score": 0.00136
+        },
+        {
+            "name": "Jatropha gossypiifolia L.",
+            "id": "1401703",
+            "score": 0.00135
+        },
+        {
+            "name": "Atriplex hortensis L.",
+            "id": "1363180",
+            "score": 0.00131
+        },
+        {
+            "name": "Macroptilium lathyroides (L.) Urb.",
+            "id": "1368959",
+            "score": 0.00127
+        },
+        {
+            "name": "Ranunculus lanuginosus L.",
+            "id": "1395100",
+            "score": 0.00125
+        },
+        {
+            "name": "Peucedanum officinale L.",
+            "id": "1362481",
+            "score": 0.00123
+        },
+        {
+            "name": "Scilla vindobonensis Speta",
+            "id": "1473232",
+            "score": 0.00122
+        },
+        {
+            "name": "Laserpitium gallicum L.",
+            "id": "1393441",
+            "score": 0.00122
+        },
+        {
+            "name": "Ranunculus abortivus L.",
+            "id": "1413411",
+            "score": 0.00122
+        },
+        {
+            "name": "Alternanthera paronychioides A.St.-Hil.",
+            "id": "1393405",
+            "score": 0.00119
+        },
+        {
+            "name": "Actaea racemosa L.",
+            "id": "1414305",
+            "score": 0.00114
+        },
+        {
+            "name": "Medicago sativa L.",
+            "id": "1363732",
+            "score": 0.00113
+        },
+        {
+            "name": "Angelica sylvestris L.",
+            "id": "1394591",
+            "score": 0.00112
+        },
+        {
+            "name": "Ludwigia octovalvis (Jacq.) P.H.Raven",
+            "id": "1409213",
+            "score": 0.00111
+        },
+        {
+            "name": "Paeonia rockii (S.G.Haw & Lauener) T.Hong & J.J.Li ex D.Y.Hong",
+            "id": "1419821",
+            "score": 0.0011
+        },
+        {
+            "name": "Siler montanum Crantz",
+            "id": "1741693",
+            "score": 0.001
+        }
+    ]
+}

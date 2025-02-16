@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hamamelis virginiana L.",
+            "id": "1397621",
+            "score": 0.90915
+        },
+        {
+            "name": "Parrotia persica C.A.Mey.",
+            "id": "1738716",
+            "score": 0.05529
+        },
+        {
+            "name": "Fothergilla latifolia J.F.Mill.",
+            "id": "1819399",
+            "score": 0.00261
+        },
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.00167
+        },
+        {
+            "name": "Viburnum dentatum L.",
+            "id": "1417545",
+            "score": 0.00155
+        },
+        {
+            "name": "Parrotiopsis jacquemontiana (Decne.) Rehder",
+            "id": "1554548",
+            "score": 0.00141
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Zinnia elegans Jacq.",
+            "id": "1374114",
+            "score": 0.78485
+        },
+        {
+            "name": "Zinnia peruviana (L.) L.",
+            "id": "1374113",
+            "score": 0.10765
+        },
+        {
+            "name": "Zinnia haageana Regel",
+            "id": "1397251",
+            "score": 0.0376
+        },
+        {
+            "name": "Zinnia angustifolia Kunth",
+            "id": "1397249",
+            "score": 0.01675
+        },
+        {
+            "name": "Echinacea purpurea (L.) Moench",
+            "id": "1398120",
+            "score": 0.00257
+        },
+        {
+            "name": "Echinacea angustifolia DC.",
+            "id": "1411839",
+            "score": 0.00166
+        }
+    ]
+}

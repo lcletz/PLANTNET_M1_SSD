@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia amygdaloides L.",
+            "id": "1358525",
+            "score": 0.83747
+        },
+        {
+            "name": "Euphorbia characias L.",
+            "id": "1358543",
+            "score": 0.02036
+        },
+        {
+            "name": "Daphne laureola L.",
+            "id": "1360590",
+            "score": 0.00828
+        },
+        {
+            "name": "Euphorbia segetalis L.",
+            "id": "1358590",
+            "score": 0.00373
+        },
+        {
+            "name": "Euphorbia helioscopia L.",
+            "id": "1355964",
+            "score": 0.00324
+        },
+        {
+            "name": "Berberis vulgaris L.",
+            "id": "1356603",
+            "score": 0.00175
+        },
+        {
+            "name": "Euphorbia nicaeensis All.",
+            "id": "1358572",
+            "score": 0.00152
+        },
+        {
+            "name": "Berberis thunbergii DC.",
+            "id": "1400119",
+            "score": 0.00145
+        },
+        {
+            "name": "Euphorbia dendroides L.",
+            "id": "1358548",
+            "score": 0.00131
+        },
+        {
+            "name": "Euphorbia × martini Rouy",
+            "id": "1545589",
+            "score": 0.00101
+        }
+    ]
+}

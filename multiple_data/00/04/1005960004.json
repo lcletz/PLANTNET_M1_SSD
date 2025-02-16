@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pisum sativum L.",
+            "id": "1359446",
+            "score": 0.49308
+        },
+        {
+            "name": "Lathyrus ochrus (L.) DC.",
+            "id": "1359279",
+            "score": 0.00653
+        },
+        {
+            "name": "Lathyrus odoratus L.",
+            "id": "1363802",
+            "score": 0.00629
+        },
+        {
+            "name": "Lathyrus latifolius L.",
+            "id": "1363801",
+            "score": 0.00207
+        },
+        {
+            "name": "Lathyrus sativus L.",
+            "id": "1363804",
+            "score": 0.00109
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lycopus europaeus L.",
+            "id": "1358770",
+            "score": 0.91531
+        },
+        {
+            "name": "Lycopus exaltatus L.f.",
+            "id": "1393706",
+            "score": 0.01229
+        },
+        {
+            "name": "Dysphania ambrosioides (L.) Mosyakin & Clemants",
+            "id": "1388787",
+            "score": 0.00394
+        },
+        {
+            "name": "Urtica pilulifera L.",
+            "id": "1360831",
+            "score": 0.00168
+        },
+        {
+            "name": "Bidens tripartita L.",
+            "id": "1400144",
+            "score": 0.00158
+        },
+        {
+            "name": "Agrimonia procera Wallr.",
+            "id": "1389589",
+            "score": 0.00147
+        },
+        {
+            "name": "Galeopsis tetrahit L.",
+            "id": "1392433",
+            "score": 0.00124
+        }
+    ]
+}

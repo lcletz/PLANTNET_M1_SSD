@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Xanthium strumarium L.",
+            "id": "1355898",
+            "score": 0.87037
+        },
+        {
+            "name": "Xanthium orientale L.",
+            "id": "1361786",
+            "score": 0.05257
+        },
+        {
+            "name": "Xanthium spinosum L.",
+            "id": "1355897",
+            "score": 0.00217
+        },
+        {
+            "name": "Datura stramonium L.",
+            "id": "1360549",
+            "score": 0.0011
+        },
+        {
+            "name": "Datura metel L.",
+            "id": "1356150",
+            "score": 0.00107
+        }
+    ]
+}

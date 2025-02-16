@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ipomoea indica (Burm.) Merr.",
+            "id": "1364032",
+            "score": 0.72899
+        },
+        {
+            "name": "Ipomoea purpurea (L.) Roth",
+            "id": "1364031",
+            "score": 0.16621
+        },
+        {
+            "name": "Ipomoea tricolor Cav.",
+            "id": "1364036",
+            "score": 0.0231
+        },
+        {
+            "name": "Ipomoea hederacea Jacq.",
+            "id": "1358016",
+            "score": 0.01627
+        },
+        {
+            "name": "Ipomoea nil (L.) Roth",
+            "id": "1369244",
+            "score": 0.00547
+        },
+        {
+            "name": "Ipomoea batatas (L.) Lam.",
+            "id": "1364028",
+            "score": 0.00264
+        },
+        {
+            "name": "Ipomoea sagittata Poir.",
+            "id": "1358019",
+            "score": 0.00157
+        },
+        {
+            "name": "Ipomoea violacea L.",
+            "id": "1369481",
+            "score": 0.001
+        }
+    ]
+}

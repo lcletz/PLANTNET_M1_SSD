@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Ficus rubiginosa Desf. ex Vent.",
+            "id": "1362952",
+            "score": 0.1536
+        },
+        {
+            "name": "Ficus microcarpa L.f.",
+            "id": "1409180",
+            "score": 0.0324
+        },
+        {
+            "name": "Ficus elastica Roxb. ex Hornem.",
+            "id": "1403870",
+            "score": 0.01659
+        },
+        {
+            "name": "Corylus colurna L.",
+            "id": "1397579",
+            "score": 0.00197
+        },
+        {
+            "name": "Carduus acanthoides L.",
+            "id": "1362653",
+            "score": 0.00175
+        }
+    ]
+}

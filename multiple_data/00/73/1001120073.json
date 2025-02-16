@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Azadirachta indica A.Juss.",
+            "id": "1405342",
+            "score": 0.94907
+        },
+        {
+            "name": "Schinus terebinthifolia Raddi",
+            "id": "1396078",
+            "score": 0.00459
+        },
+        {
+            "name": "Rorippa amphibia (L.) Besser",
+            "id": "1358413",
+            "score": 0.00423
+        },
+        {
+            "name": "Quercus lancifolia Schltdl. & Cham.",
+            "id": "1548331",
+            "score": 0.00376
+        },
+        {
+            "name": "Quercus castaneifolia C.A.Mey.",
+            "id": "1390589",
+            "score": 0.00362
+        },
+        {
+            "name": "Zelkova serrata (Thunb.) Makino",
+            "id": "1398535",
+            "score": 0.00345
+        },
+        {
+            "name": "Fraxinus angustifolia Vahl",
+            "id": "1362009",
+            "score": 0.00222
+        },
+        {
+            "name": "Ulmus pumila L.",
+            "id": "1390603",
+            "score": 0.00135
+        },
+        {
+            "name": "Bidens tripartita L.",
+            "id": "1400144",
+            "score": 0.00128
+        },
+        {
+            "name": "Schinus molle L.",
+            "id": "1363642",
+            "score": 0.0012
+        }
+    ]
+}

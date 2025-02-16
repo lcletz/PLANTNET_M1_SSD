@@ -1,0 +1,110 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Populus balsamifera L.",
+            "id": "1394775",
+            "score": 0.80979
+        },
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.1081
+        },
+        {
+            "name": "Populus tristis Fisch.",
+            "id": "1741869",
+            "score": 0.07517
+        },
+        {
+            "name": "Populus tremuloides Michx.",
+            "id": "1413261",
+            "score": 0.07301
+        },
+        {
+            "name": "Populus tremula L.",
+            "id": "1360449",
+            "score": 0.01356
+        },
+        {
+            "name": "Populus simonii Carrière",
+            "id": "1394781",
+            "score": 0.00984
+        },
+        {
+            "name": "Populus × generosa A.Henry",
+            "id": "1683828",
+            "score": 0.00698
+        },
+        {
+            "name": "Populus × canadensis Moench",
+            "id": "1683817",
+            "score": 0.00632
+        },
+        {
+            "name": "Alnus cordata (Loisel.) Duby",
+            "id": "1397307",
+            "score": 0.00447
+        },
+        {
+            "name": "Populus alba L.",
+            "id": "1364046",
+            "score": 0.0022
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.00115
+        },
+        {
+            "name": "Populus deltoides W.Bartram ex Marshall",
+            "id": "1738800",
+            "score": 0.00109
+        },
+        {
+            "name": "Populus laurifolia Ledeb.",
+            "id": "1683849",
+            "score": 0.00103
+        },
+        {
+            "name": "Populus grandidentata Michx.",
+            "id": "1413259",
+            "score": 0.00056
+        },
+        {
+            "name": "Rhamnus cathartica L.",
+            "id": "1360262",
+            "score": 0.00055
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.00052
+        },
+        {
+            "name": "Tilia americana L.",
+            "id": "1397800",
+            "score": 0.00049
+        },
+        {
+            "name": "Populus × canescens (Aiton) Sm.",
+            "id": "1683819",
+            "score": 0.00043
+        },
+        {
+            "name": "Juglans regia L.",
+            "id": "1358713",
+            "score": 0.00042
+        },
+        {
+            "name": "Triadica sebifera (L.) Small",
+            "id": "1376366",
+            "score": 0.00041
+        },
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.00032
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Echinacea angustifolia DC.",
+            "id": "1411839",
+            "score": 0.46811
+        },
+        {
+            "name": "Echinacea purpurea (L.) Moench",
+            "id": "1398120",
+            "score": 0.40572
+        },
+        {
+            "name": "Echinacea pallida (Nutt.) Nutt.",
+            "id": "1411840",
+            "score": 0.00535
+        },
+        {
+            "name": "Gaillardia aristata Pursh",
+            "id": "1392412",
+            "score": 0.00495
+        },
+        {
+            "name": "Rudbeckia laciniata L.",
+            "id": "1395639",
+            "score": 0.00288
+        },
+        {
+            "name": "Helenium autumnale L.",
+            "id": "1392703",
+            "score": 0.00228
+        },
+        {
+            "name": "Tithonia rotundifolia (Mill.) S.F.Blake",
+            "id": "1417905",
+            "score": 0.00108
+        },
+        {
+            "name": "Rudbeckia triloba L.",
+            "id": "1413543",
+            "score": 0.00105
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Datura stramonium L.",
+            "id": "1360549",
+            "score": 0.74035
+        },
+        {
+            "name": "Datura metel L.",
+            "id": "1356150",
+            "score": 0.00505
+        },
+        {
+            "name": "Datura ferox L.",
+            "id": "1356149",
+            "score": 0.00175
+        },
+        {
+            "name": "Solanum wrightii Benth.",
+            "id": "1377904",
+            "score": 0.00171
+        },
+        {
+            "name": "Datura quercifolia Kunth",
+            "id": "1420712",
+            "score": 0.00169
+        },
+        {
+            "name": "Datura discolor Bernh.",
+            "id": "1442346",
+            "score": 0.00159
+        },
+        {
+            "name": "Nicandra physalodes (L.) Gaertn.",
+            "id": "1356144",
+            "score": 0.00159
+        },
+        {
+            "name": "Datura wrightii Regel",
+            "id": "1399913",
+            "score": 0.00149
+        }
+    ]
+}

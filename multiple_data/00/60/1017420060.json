@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bromus sterilis L.",
+            "id": "1414366",
+            "score": 0.4753
+        },
+        {
+            "name": "Bromus diandrus Roth",
+            "id": "1414353",
+            "score": 0.02534
+        },
+        {
+            "name": "Bromus racemosus L.",
+            "id": "1361203",
+            "score": 0.00497
+        },
+        {
+            "name": "Avena fatua L.",
+            "id": "1363468",
+            "score": 0.00384
+        },
+        {
+            "name": "Festuca bromoides L.",
+            "id": "1722436",
+            "score": 0.00182
+        },
+        {
+            "name": "Bromus ramosus Huds.",
+            "id": "1440300",
+            "score": 0.00155
+        },
+        {
+            "name": "Avena barbata Pott ex Link",
+            "id": "1363467",
+            "score": 0.0012
+        },
+        {
+            "name": "Lolium giganteum (L.) Darbysh.",
+            "id": "1728724",
+            "score": 0.00111
+        }
+    ]
+}

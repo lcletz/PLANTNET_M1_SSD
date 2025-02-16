@@ -1,0 +1,405 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.17334
+        },
+        {
+            "name": "Salix hastata L.",
+            "id": "1397478",
+            "score": 0.15577
+        },
+        {
+            "name": "Salix daphnoides Vill.",
+            "id": "1395778",
+            "score": 0.14596
+        },
+        {
+            "name": "Salix pentandra L.",
+            "id": "1395852",
+            "score": 0.13132
+        },
+        {
+            "name": "Salix myrsinifolia Salisb.",
+            "id": "1395843",
+            "score": 0.09564
+        },
+        {
+            "name": "Salix foetida Schleich. ex DC.",
+            "id": "1395791",
+            "score": 0.09013
+        },
+        {
+            "name": "Salix cinerea L.",
+            "id": "1362486",
+            "score": 0.0812
+        },
+        {
+            "name": "Aronia melanocarpa (Michx.) Elliott",
+            "id": "1398450",
+            "score": 0.07508
+        },
+        {
+            "name": "Salix euxina I.V.Belyaeva",
+            "id": "1684004",
+            "score": 0.04746
+        },
+        {
+            "name": "Salix triandra L.",
+            "id": "1360459",
+            "score": 0.04688
+        },
+        {
+            "name": "Salix eriocephala Michx.",
+            "id": "1413596",
+            "score": 0.02462
+        },
+        {
+            "name": "Salix purpurea L.",
+            "id": "1360457",
+            "score": 0.02336
+        },
+        {
+            "name": "Salix breviserrata Flod.",
+            "id": "1395758",
+            "score": 0.01679
+        },
+        {
+            "name": "Salix × pendulina Wender.",
+            "id": "1684175",
+            "score": 0.01362
+        },
+        {
+            "name": "Salix atrocinerea Brot.",
+            "id": "1360451",
+            "score": 0.01265
+        },
+        {
+            "name": "Salix babylonica L.",
+            "id": "1360452",
+            "score": 0.0126
+        },
+        {
+            "name": "Vernonia baldwinii Torr.",
+            "id": "1439537",
+            "score": 0.01181
+        },
+        {
+            "name": "Pyrus spinosa Forssk.",
+            "id": "1395014",
+            "score": 0.01178
+        },
+        {
+            "name": "Salix caprea L.",
+            "id": "1395765",
+            "score": 0.01178
+        },
+        {
+            "name": "Oenothera biennis L.",
+            "id": "1361953",
+            "score": 0.00868
+        },
+        {
+            "name": "Pyrus communis L.",
+            "id": "1363987",
+            "score": 0.00773
+        },
+        {
+            "name": "Persicaria amphibia (L.) Delarbre",
+            "id": "1356089",
+            "score": 0.00708
+        },
+        {
+            "name": "Populus balsamifera L.",
+            "id": "1394775",
+            "score": 0.00698
+        },
+        {
+            "name": "Salix repens L.",
+            "id": "1395867",
+            "score": 0.00613
+        },
+        {
+            "name": "Euonymus europaeus L.",
+            "id": "1392236",
+            "score": 0.00564
+        },
+        {
+            "name": "Bistorta officinalis Delarbre",
+            "id": "1400175",
+            "score": 0.00548
+        },
+        {
+            "name": "Vernonia fasciculata Michx.",
+            "id": "1414173",
+            "score": 0.0046
+        },
+        {
+            "name": "Senecio ovatus (G.Gaertn., B.Mey. & Scherb.) Willd.",
+            "id": "1728570",
+            "score": 0.00369
+        },
+        {
+            "name": "Salix helvetica Vill.",
+            "id": "1395805",
+            "score": 0.00366
+        },
+        {
+            "name": "Salix appendiculata Vill.",
+            "id": "1395742",
+            "score": 0.0035
+        },
+        {
+            "name": "Platycodon grandiflorus (Jacq.) A.DC.",
+            "id": "1418374",
+            "score": 0.00331
+        },
+        {
+            "name": "Salix × fragilis L.",
+            "id": "1684017",
+            "score": 0.00319
+        },
+        {
+            "name": "Salix daltoniana Andersson",
+            "id": "1683977",
+            "score": 0.00317
+        },
+        {
+            "name": "Verbascum lychnitis L.",
+            "id": "1360531",
+            "score": 0.00291
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.00286
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.00281
+        },
+        {
+            "name": "Persicaria orientalis (L.) Spach",
+            "id": "1360114",
+            "score": 0.00279
+        },
+        {
+            "name": "Escallonia rubra (Ruiz & Pav.) Pers.",
+            "id": "1392136",
+            "score": 0.00261
+        },
+        {
+            "name": "Apocynum cannabinum L.",
+            "id": "1412793",
+            "score": 0.00255
+        },
+        {
+            "name": "Prunus persica (L.) Batsch",
+            "id": "1363997",
+            "score": 0.00254
+        },
+        {
+            "name": "Epilobium hirsutum L.",
+            "id": "1361947",
+            "score": 0.00242
+        },
+        {
+            "name": "Catha edulis (Vahl) Endl.",
+            "id": "1418417",
+            "score": 0.00238
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00234
+        },
+        {
+            "name": "Salix viminalis L.",
+            "id": "1395903",
+            "score": 0.00232
+        },
+        {
+            "name": "Euphorbia heterophylla L.",
+            "id": "1355965",
+            "score": 0.00231
+        },
+        {
+            "name": "Pyrus cordata Desv.",
+            "id": "1360328",
+            "score": 0.00219
+        },
+        {
+            "name": "Prunus mahaleb L.",
+            "id": "1360323",
+            "score": 0.00211
+        },
+        {
+            "name": "Salix laggeri Wimm.",
+            "id": "1395820",
+            "score": 0.00204
+        },
+        {
+            "name": "Oenothera glazioviana Micheli",
+            "id": "1361960",
+            "score": 0.00184
+        },
+        {
+            "name": "Spiraea alba Du Roi",
+            "id": "1396390",
+            "score": 0.00175
+        },
+        {
+            "name": "Verbesina helianthoides Michx.",
+            "id": "1397037",
+            "score": 0.00174
+        },
+        {
+            "name": "Salix lapponum L.",
+            "id": "1395821",
+            "score": 0.00169
+        },
+        {
+            "name": "Prunus maritima Marshall",
+            "id": "1420417",
+            "score": 0.00168
+        },
+        {
+            "name": "Epilobium parviflorum Schreb.",
+            "id": "1359686",
+            "score": 0.00167
+        },
+        {
+            "name": "Aronia arbutifolia (L.) Pers.",
+            "id": "1413527",
+            "score": 0.00164
+        },
+        {
+            "name": "Amelanchier ovalis Medik.",
+            "id": "1360275",
+            "score": 0.00161
+        },
+        {
+            "name": "Rhamnus alaternus L.",
+            "id": "1360260",
+            "score": 0.00161
+        },
+        {
+            "name": "Malus hupehensis (Pamp.) Rehder",
+            "id": "1393732",
+            "score": 0.00154
+        },
+        {
+            "name": "Pterocaulon alopecuroides (Lam.) DC.",
+            "id": "1404371",
+            "score": 0.00151
+        },
+        {
+            "name": "Eucalyptus globulus Labill.",
+            "id": "1356282",
+            "score": 0.00145
+        },
+        {
+            "name": "Senecio cacaliaster Lam.",
+            "id": "1396189",
+            "score": 0.00144
+        },
+        {
+            "name": "Salvia nemorosa L.",
+            "id": "1397479",
+            "score": 0.00143
+        },
+        {
+            "name": "Dictamnus albus L.",
+            "id": "1391724",
+            "score": 0.00136
+        },
+        {
+            "name": "Viburnum nudum L.",
+            "id": "1414188",
+            "score": 0.00136
+        },
+        {
+            "name": "Salix lucida Muhl.",
+            "id": "1413608",
+            "score": 0.00135
+        },
+        {
+            "name": "Malus domestica (Suckow) Borkh.",
+            "id": "1729464",
+            "score": 0.0013
+        },
+        {
+            "name": "Populus tristis Fisch.",
+            "id": "1741869",
+            "score": 0.00126
+        },
+        {
+            "name": "Salix × reichardtii A.Kern.",
+            "id": "1737553",
+            "score": 0.00123
+        },
+        {
+            "name": "Chamaemespilus alpina (Mill.) K.R.Robertson & J.B.Phipps",
+            "id": "1741903",
+            "score": 0.00123
+        },
+        {
+            "name": "Salix amygdaloides Andersson",
+            "id": "1413574",
+            "score": 0.00118
+        },
+        {
+            "name": "Koenigia alpina (All.) T.M.Schust. & Reveal",
+            "id": "1737583",
+            "score": 0.00115
+        },
+        {
+            "name": "Thalia dealbata Fraser",
+            "id": "1596466",
+            "score": 0.00113
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.00111
+        },
+        {
+            "name": "Pluchea ovalis (Pers.) DC.",
+            "id": "1364104",
+            "score": 0.00109
+        },
+        {
+            "name": "Silphium radula Nutt.",
+            "id": "1438304",
+            "score": 0.00106
+        },
+        {
+            "name": "Salix integra Thunb.",
+            "id": "1420567",
+            "score": 0.00102
+        },
+        {
+            "name": "Cortaderia selloana (Schult. & Schult.f.) Asch. & Graebn.",
+            "id": "1391361",
+            "score": 0.00102
+        },
+        {
+            "name": "Mercurialis perennis L.",
+            "id": "1358605",
+            "score": 0.00102
+        },
+        {
+            "name": "Salix phylicifolia L.",
+            "id": "1395853",
+            "score": 0.00083
+        },
+        {
+            "name": "Salix caesia Vill.",
+            "id": "1395760",
+            "score": 0.00068
+        }
+    ]
+}

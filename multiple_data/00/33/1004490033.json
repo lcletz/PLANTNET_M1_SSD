@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Campanula barbata L.",
+            "id": "1390653",
+            "score": 0.9693
+        },
+        {
+            "name": "Campanula alpina Jacq.",
+            "id": "1399112",
+            "score": 0.00264
+        },
+        {
+            "name": "Campanula alpestris All.",
+            "id": "1390652",
+            "score": 0.00244
+        },
+        {
+            "name": "Campanula alliariifolia Willd.",
+            "id": "1390651",
+            "score": 0.00144
+        },
+        {
+            "name": "Campanula cochleariifolia Lam.",
+            "id": "1390659",
+            "score": 0.0012
+        }
+    ]
+}

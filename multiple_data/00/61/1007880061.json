@@ -1,0 +1,60 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.88287
+        },
+        {
+            "name": "Sonchus palustris L.",
+            "id": "1361781",
+            "score": 0.03322
+        },
+        {
+            "name": "Sonchus asper (L.) Hill",
+            "id": "1357875",
+            "score": 0.00523
+        },
+        {
+            "name": "Crepis setosa Haller f.",
+            "id": "1361760",
+            "score": 0.00372
+        },
+        {
+            "name": "Crepis paludosa (L.) Moench",
+            "id": "1391457",
+            "score": 0.00325
+        },
+        {
+            "name": "Hieracium umbellatum L.",
+            "id": "1393169",
+            "score": 0.00258
+        },
+        {
+            "name": "Crepis biennis L.",
+            "id": "1391445",
+            "score": 0.00196
+        },
+        {
+            "name": "Hieracium neocerinthe Fr.",
+            "id": "1393032",
+            "score": 0.00188
+        },
+        {
+            "name": "Hieracium amplexicaule L.",
+            "id": "1357643",
+            "score": 0.00188
+        },
+        {
+            "name": "Crepis conyzifolia (Gouan) A.Kern.",
+            "id": "1391446",
+            "score": 0.00142
+        },
+        {
+            "name": "Crepis foetida L.",
+            "id": "1355870",
+            "score": 0.00111
+        }
+    ]
+}

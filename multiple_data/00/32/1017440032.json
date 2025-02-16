@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sonchus oleraceus L.",
+            "id": "1364170",
+            "score": 0.28838
+        },
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.18941
+        },
+        {
+            "name": "Sonchus asper (L.) Hill",
+            "id": "1357875",
+            "score": 0.06733
+        },
+        {
+            "name": "Lactuca biennis (Moench) Fernald",
+            "id": "1412412",
+            "score": 0.03604
+        },
+        {
+            "name": "Lactuca floridana (L.) Gaertn.",
+            "id": "1409746",
+            "score": 0.0328
+        },
+        {
+            "name": "Sonchus tenerrimus L.",
+            "id": "1364171",
+            "score": 0.01881
+        },
+        {
+            "name": "Lactuca canadensis L.",
+            "id": "1412413",
+            "score": 0.01347
+        },
+        {
+            "name": "Lactuca muralis (L.) E.Mey.",
+            "id": "1737633",
+            "score": 0.0118
+        },
+        {
+            "name": "Sonchus palustris L.",
+            "id": "1361781",
+            "score": 0.00624
+        },
+        {
+            "name": "Urospermum picroides (L.) Scop. ex F.W.Schmidt",
+            "id": "1396956",
+            "score": 0.00605
+        },
+        {
+            "name": "Sisymbrium irio L.",
+            "id": "1363896",
+            "score": 0.00385
+        },
+        {
+            "name": "Lactuca serriola L.",
+            "id": "1364173",
+            "score": 0.00331
+        },
+        {
+            "name": "Cicerbita alpina Wallr.",
+            "id": "1738123",
+            "score": 0.00264
+        },
+        {
+            "name": "Cicerbita plumieri (L.) Kirschl.",
+            "id": "1738967",
+            "score": 0.00251
+        },
+        {
+            "name": "Cicerbita macrophylla (Willd.) Wallr.",
+            "id": "1737632",
+            "score": 0.00153
+        }
+    ]
+}

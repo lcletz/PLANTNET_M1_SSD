@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dipsacus sativus (L.) Honck.",
+            "id": "1391749",
+            "score": 0.82607
+        },
+        {
+            "name": "Dipsacus fullonum L.",
+            "id": "1358454",
+            "score": 0.09916
+        },
+        {
+            "name": "Dipsacus laciniatus L.",
+            "id": "1391747",
+            "score": 0.00982
+        },
+        {
+            "name": "Lactuca virosa L.",
+            "id": "1355868",
+            "score": 0.00498
+        },
+        {
+            "name": "Rumex azoricus Rech.f.",
+            "id": "1658574",
+            "score": 0.00149
+        },
+        {
+            "name": "Primula elatior (L.) Hill",
+            "id": "1394906",
+            "score": 0.00123
+        }
+    ]
+}

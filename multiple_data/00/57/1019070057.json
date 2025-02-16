@@ -1,0 +1,45 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Malva sylvestris L.",
+            "id": "1363947",
+            "score": 0.19162
+        },
+        {
+            "name": "Malva multiflora (Cav.) Soldano, Banfi & Galasso",
+            "id": "1362898",
+            "score": 0.08751
+        },
+        {
+            "name": "Malva parviflora L.",
+            "id": "1359639",
+            "score": 0.04508
+        },
+        {
+            "name": "Malva neglecta Wallr.",
+            "id": "1363944",
+            "score": 0.02071
+        },
+        {
+            "name": "Malva nicaeensis All.",
+            "id": "1363945",
+            "score": 0.00956
+        },
+        {
+            "name": "Malva cretica Cav.",
+            "id": "1359636",
+            "score": 0.00416
+        },
+        {
+            "name": "Malva tournefortiana L.",
+            "id": "1359641",
+            "score": 0.00139
+        },
+        {
+            "name": "Malva hispanica L.",
+            "id": "1359637",
+            "score": 0.00104
+        }
+    ]
+}

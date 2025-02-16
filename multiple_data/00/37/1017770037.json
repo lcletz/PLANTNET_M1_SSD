@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Jasminum officinale L.",
+            "id": "1359673",
+            "score": 0.6914
+        },
+        {
+            "name": "Jasminum polyanthum Franch.",
+            "id": "1383126",
+            "score": 0.27127
+        },
+        {
+            "name": "Jasminum grandiflorum L.",
+            "id": "1359672",
+            "score": 0.00981
+        },
+        {
+            "name": "Jasminum beesianum Forrest & Diels",
+            "id": "1419624",
+            "score": 0.00488
+        },
+        {
+            "name": "Solanum laxum Spreng.",
+            "id": "1356173",
+            "score": 0.00142
+        }
+    ]
+}

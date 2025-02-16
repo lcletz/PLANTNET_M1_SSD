@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fraxinus ornus L.",
+            "id": "1362963",
+            "score": 0.97181
+        },
+        {
+            "name": "Fraxinus americana L.",
+            "id": "1397619",
+            "score": 0.00318
+        },
+        {
+            "name": "Chionanthus virginicus L.",
+            "id": "1419614",
+            "score": 0.00241
+        },
+        {
+            "name": "Fraxinus pennsylvanica Marshall",
+            "id": "1392363",
+            "score": 0.00154
+        },
+        {
+            "name": "Fraxinus sieboldiana Blume",
+            "id": "1419622",
+            "score": 0.00142
+        }
+    ]
+}

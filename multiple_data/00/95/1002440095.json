@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Achillea ptarmica L.",
+            "id": "1393773",
+            "score": 0.90682
+        },
+        {
+            "name": "Achillea macrophylla L.",
+            "id": "1393307",
+            "score": 0.00393
+        },
+        {
+            "name": "Achillea millefolium L.",
+            "id": "1364157",
+            "score": 0.0036
+        },
+        {
+            "name": "Anaphalis margaritacea (L.) Benth. & Hook.f.",
+            "id": "1417760",
+            "score": 0.00253
+        },
+        {
+            "name": "Achillea erba-rotta All.",
+            "id": "1392952",
+            "score": 0.00241
+        },
+        {
+            "name": "Achillea nobilis L.",
+            "id": "1397302",
+            "score": 0.00223
+        },
+        {
+            "name": "Achillea pyrenaica Sibth. ex Godr.",
+            "id": "1497825",
+            "score": 0.00148
+        }
+    ]
+}

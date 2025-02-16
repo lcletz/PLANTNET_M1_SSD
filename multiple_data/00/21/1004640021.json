@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ulmus pumila L.",
+            "id": "1390603",
+            "score": 0.84334
+        },
+        {
+            "name": "Ulmus americana L.",
+            "id": "1390323",
+            "score": 0.05419
+        },
+        {
+            "name": "Ulmus alata Michx.",
+            "id": "1420807",
+            "score": 0.0344
+        },
+        {
+            "name": "Ulmus minor Mill.",
+            "id": "1360607",
+            "score": 0.02004
+        },
+        {
+            "name": "Ulmus parvifolia Jacq.",
+            "id": "1414124",
+            "score": 0.01574
+        },
+        {
+            "name": "Ulmus crassifolia Nutt.",
+            "id": "1420809",
+            "score": 0.00682
+        },
+        {
+            "name": "Zelkova serrata (Thunb.) Makino",
+            "id": "1398535",
+            "score": 0.00157
+        },
+        {
+            "name": "Ulmus glabra Huds.",
+            "id": "1397552",
+            "score": 0.00122
+        },
+        {
+            "name": "Ulmus rubra Muhl.",
+            "id": "1414126",
+            "score": 0.00119
+        }
+    ]
+}

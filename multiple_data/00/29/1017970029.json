@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Geranium purpureum Vill.",
+            "id": "1356012",
+            "score": 0.82766
+        },
+        {
+            "name": "Geranium robertianum L.",
+            "id": "1356017",
+            "score": 0.04203
+        },
+        {
+            "name": "Geranium dissectum L.",
+            "id": "1356007",
+            "score": 0.00297
+        },
+        {
+            "name": "Geranium lucidum L.",
+            "id": "1358674",
+            "score": 0.00215
+        },
+        {
+            "name": "Geranium rivulare Vill.",
+            "id": "1392595",
+            "score": 0.00133
+        },
+        {
+            "name": "Geranium columbinum L.",
+            "id": "1358671",
+            "score": 0.00122
+        },
+        {
+            "name": "Hibiscus trionum L.",
+            "id": "1363941",
+            "score": 0.00122
+        }
+    ]
+}

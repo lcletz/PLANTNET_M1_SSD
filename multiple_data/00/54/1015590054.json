@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Amaranthus caudatus L.",
+            "id": "1363248",
+            "score": 0.91447
+        },
+        {
+            "name": "Amaranthus hypochondriacus L.",
+            "id": "1363259",
+            "score": 0.01806
+        },
+        {
+            "name": "Rhus typhina L.",
+            "id": "1395193",
+            "score": 0.00693
+        },
+        {
+            "name": "Rheum compactum L.",
+            "id": "1658537",
+            "score": 0.0043
+        },
+        {
+            "name": "Celosia argentea L.",
+            "id": "1363271",
+            "score": 0.00369
+        },
+        {
+            "name": "Rheum palmatum L.",
+            "id": "1398842",
+            "score": 0.00219
+        },
+        {
+            "name": "Blitum capitatum L.",
+            "id": "1400180",
+            "score": 0.00109
+        }
+    ]
+}

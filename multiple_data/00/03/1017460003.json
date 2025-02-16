@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.88957
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.0179
+        },
+        {
+            "name": "Prunus serotina Ehrh.",
+            "id": "1370859",
+            "score": 0.01701
+        },
+        {
+            "name": "Terminalia phanerophlebia Engl. & Diels",
+            "id": "1373579",
+            "score": 0.00173
+        },
+        {
+            "name": "Ligustrum sinense Lour.",
+            "id": "1390584",
+            "score": 0.0014
+        }
+    ]
+}

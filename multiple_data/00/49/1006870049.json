@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia peplus L.",
+            "id": "1355969",
+            "score": 0.93101
+        },
+        {
+            "name": "Euphorbia stricta L.",
+            "id": "1392190",
+            "score": 0.02529
+        },
+        {
+            "name": "Euphorbia platyphyllos L.",
+            "id": "1355986",
+            "score": 0.00324
+        },
+        {
+            "name": "Euphorbia serpens Kunth",
+            "id": "1355970",
+            "score": 0.00186
+        },
+        {
+            "name": "Euphorbia dulcis L.",
+            "id": "1392156",
+            "score": 0.00156
+        }
+    ]
+}

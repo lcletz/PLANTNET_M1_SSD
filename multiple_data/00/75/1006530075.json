@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Syringa pubescens Turcz.",
+            "id": "1609521",
+            "score": 0.5623
+        },
+        {
+            "name": "Syringa persica L.",
+            "id": "1419641",
+            "score": 0.39415
+        },
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.06358
+        },
+        {
+            "name": "Syringa josikaea J.Jacq. ex Rchb.",
+            "id": "1746584",
+            "score": 0.03549
+        },
+        {
+            "name": "Syringa oblata Lindl.",
+            "id": "1419640",
+            "score": 0.0127
+        },
+        {
+            "name": "Syringa villosa Vahl",
+            "id": "1419642",
+            "score": 0.00826
+        },
+        {
+            "name": "Origanum majorana L.",
+            "id": "1356133",
+            "score": 0.00134
+        },
+        {
+            "name": "Valeriana tuberosa L.",
+            "id": "1360841",
+            "score": 0.00113
+        },
+        {
+            "name": "Valeriana montana L.",
+            "id": "1396976",
+            "score": 0.00109
+        }
+    ]
+}

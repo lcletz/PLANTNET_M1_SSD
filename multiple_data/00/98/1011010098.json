@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iris foetidissima L.",
+            "id": "1361540",
+            "score": 0.89186
+        },
+        {
+            "name": "Iris douglasiana Herb.",
+            "id": "1433286",
+            "score": 0.00908
+        },
+        {
+            "name": "Iris versicolor L.",
+            "id": "1393297",
+            "score": 0.00818
+        },
+        {
+            "name": "Iris graminea L.",
+            "id": "1393300",
+            "score": 0.00654
+        },
+        {
+            "name": "Iris spuria L.",
+            "id": "1361544",
+            "score": 0.00479
+        },
+        {
+            "name": "Iris reichenbachiana Klatt",
+            "id": "1389990",
+            "score": 0.0021
+        },
+        {
+            "name": "Iris unguicularis Poir.",
+            "id": "1361547",
+            "score": 0.00178
+        }
+    ]
+}

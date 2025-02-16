@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.43963
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.36087
+        },
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.06087
+        },
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.04319
+        },
+        {
+            "name": "Tilia platyphyllos Scop.",
+            "id": "1396802",
+            "score": 0.00104
+        }
+    ]
+}

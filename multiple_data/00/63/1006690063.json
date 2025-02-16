@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Calluna vulgaris (L.) Hull",
+            "id": "1358501",
+            "score": 0.89465
+        },
+        {
+            "name": "Empetrum nigrum L.",
+            "id": "1391868",
+            "score": 0.01158
+        },
+        {
+            "name": "Erica vagans L.",
+            "id": "1361800",
+            "score": 0.0112
+        },
+        {
+            "name": "Erica cinerea L.",
+            "id": "1358507",
+            "score": 0.00578
+        },
+        {
+            "name": "Erica tetralix L.",
+            "id": "1392025",
+            "score": 0.00277
+        },
+        {
+            "name": "Erica arborea L.",
+            "id": "1358503",
+            "score": 0.00139
+        },
+        {
+            "name": "Erica scoparia L.",
+            "id": "1358511",
+            "score": 0.00133
+        },
+        {
+            "name": "Erica carnea L.",
+            "id": "1358505",
+            "score": 0.00128
+        },
+        {
+            "name": "Erica ciliaris L.",
+            "id": "1358506",
+            "score": 0.00126
+        },
+        {
+            "name": "Erica umbellata L.",
+            "id": "1358514",
+            "score": 0.00104
+        }
+    ]
+}

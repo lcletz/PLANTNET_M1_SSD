@@ -1,0 +1,365 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lysimachia clethroides Duby",
+            "id": "1412637",
+            "score": 0.64976
+        },
+        {
+            "name": "Lysimachia ephemerum L.",
+            "id": "1361862",
+            "score": 0.56927
+        },
+        {
+            "name": "Talinum paniculatum (Jacq.) Gaertn.",
+            "id": "1361940",
+            "score": 0.06025
+        },
+        {
+            "name": "Euphorbia hirsuta L.",
+            "id": "1358561",
+            "score": 0.02249
+        },
+        {
+            "name": "Euphorbia amygdaloides L.",
+            "id": "1358525",
+            "score": 0.0169
+        },
+        {
+            "name": "Ludwigia palustris (L.) Elliott",
+            "id": "1361944",
+            "score": 0.01362
+        },
+        {
+            "name": "Euphorbia peplus L.",
+            "id": "1355969",
+            "score": 0.01185
+        },
+        {
+            "name": "Euphorbia helioscopia L.",
+            "id": "1355964",
+            "score": 0.00931
+        },
+        {
+            "name": "Phytolacca americana L.",
+            "id": "1356062",
+            "score": 0.00812
+        },
+        {
+            "name": "Mandevilla laxa (Ruiz & Pav.) Woodson",
+            "id": "1395280",
+            "score": 0.00647
+        },
+        {
+            "name": "Euphorbia milii Des Moul.",
+            "id": "1361945",
+            "score": 0.00612
+        },
+        {
+            "name": "Veronica officinalis L.",
+            "id": "1364068",
+            "score": 0.00499
+        },
+        {
+            "name": "Lysimachia mauritiana Lam.",
+            "id": "1408331",
+            "score": 0.00407
+        },
+        {
+            "name": "Veronicastrum virginicum (L.) Farw.",
+            "id": "1414182",
+            "score": 0.00371
+        },
+        {
+            "name": "Euphorbia marginata Pursh",
+            "id": "1392172",
+            "score": 0.00367
+        },
+        {
+            "name": "Lysimachia barystachys Bunge",
+            "id": "1434389",
+            "score": 0.00361
+        },
+        {
+            "name": "Rhaphiolepis indica (L.) Lindl.",
+            "id": "1409218",
+            "score": 0.00327
+        },
+        {
+            "name": "Euphorbia dulcis L.",
+            "id": "1392156",
+            "score": 0.00324
+        },
+        {
+            "name": "Euphorbia umbellata (Pax) Bruyns",
+            "id": "1546218",
+            "score": 0.00314
+        },
+        {
+            "name": "Buddleja asiatica Lour.",
+            "id": "1365246",
+            "score": 0.00308
+        },
+        {
+            "name": "Clethra alnifolia L.",
+            "id": "1398480",
+            "score": 0.00307
+        },
+        {
+            "name": "Lobularia maritima (L.) Desv.",
+            "id": "1363882",
+            "score": 0.00304
+        },
+        {
+            "name": "Rhodocactus grandifolius (Haw.) F.M.Knuth",
+            "id": "1733122",
+            "score": 0.00301
+        },
+        {
+            "name": "Cosmos atrosanguineus (Hook.) Voss",
+            "id": "1417803",
+            "score": 0.003
+        },
+        {
+            "name": "Allamanda blanchetii A.DC.",
+            "id": "1407440",
+            "score": 0.00298
+        },
+        {
+            "name": "Plantago major L.",
+            "id": "1356067",
+            "score": 0.0028
+        },
+        {
+            "name": "Veronica spicata L.",
+            "id": "1397522",
+            "score": 0.00277
+        },
+        {
+            "name": "Ceratostigma plumbaginoides Bunge",
+            "id": "1391099",
+            "score": 0.0025
+        },
+        {
+            "name": "Phlox paniculata L.",
+            "id": "1394721",
+            "score": 0.00244
+        },
+        {
+            "name": "Lagerstroemia indica L.",
+            "id": "1376509",
+            "score": 0.00209
+        },
+        {
+            "name": "Himatanthus drasticus (Mart.) Plumel",
+            "id": "1404574",
+            "score": 0.00205
+        },
+        {
+            "name": "Chaenomeles japonica (Thunb.) Lindl. ex Spach",
+            "id": "1391103",
+            "score": 0.00201
+        },
+        {
+            "name": "Veronica longifolia L.",
+            "id": "1397056",
+            "score": 0.00193
+        },
+        {
+            "name": "Prunus laurocerasus L.",
+            "id": "1394952",
+            "score": 0.00191
+        },
+        {
+            "name": "Talinum fruticosum (L.) Juss.",
+            "id": "1404984",
+            "score": 0.00189
+        },
+        {
+            "name": "Lysimachia punctata L.",
+            "id": "1397433",
+            "score": 0.00188
+        },
+        {
+            "name": "Portulaca grandiflora Hook.",
+            "id": "1383052",
+            "score": 0.00178
+        },
+        {
+            "name": "Euphorbia hyberna L.",
+            "id": "1392167",
+            "score": 0.00176
+        },
+        {
+            "name": "Mandevilla sanderi (Hemsl.) Woodson",
+            "id": "1420319",
+            "score": 0.00171
+        },
+        {
+            "name": "Rhododendron calendulaceum (Michx.) Torr.",
+            "id": "1395179",
+            "score": 0.00169
+        },
+        {
+            "name": "Hibbertia scandens (Willd.) Gilg",
+            "id": "1802999",
+            "score": 0.00165
+        },
+        {
+            "name": "Portulaca oleracea L.",
+            "id": "1360141",
+            "score": 0.0016
+        },
+        {
+            "name": "Catharanthus roseus (L.) G.Don",
+            "id": "1401889",
+            "score": 0.00159
+        },
+        {
+            "name": "Berberis thunbergii DC.",
+            "id": "1400119",
+            "score": 0.00151
+        },
+        {
+            "name": "Spiraea alba Du Roi",
+            "id": "1396390",
+            "score": 0.00147
+        },
+        {
+            "name": "Veronica serpyllifolia L.",
+            "id": "1364066",
+            "score": 0.00146
+        },
+        {
+            "name": "Linaria purpurea (L.) Mill.",
+            "id": "1362464",
+            "score": 0.00141
+        },
+        {
+            "name": "Persicaria punctata (Elliott) Small",
+            "id": "1410885",
+            "score": 0.0014
+        },
+        {
+            "name": "Ludwigia grandiflora (Michx.) Greuter & Burdet",
+            "id": "1393651",
+            "score": 0.00139
+        },
+        {
+            "name": "Celosia argentea L.",
+            "id": "1363271",
+            "score": 0.00136
+        },
+        {
+            "name": "Samolus ebracteatus Kunth",
+            "id": "1437834",
+            "score": 0.00136
+        },
+        {
+            "name": "Ludwigia peploides (Kunth) P.H.Raven",
+            "id": "1393652",
+            "score": 0.00133
+        },
+        {
+            "name": "Photinia serratifolia (Desf.) Kalkman",
+            "id": "1420392",
+            "score": 0.00131
+        },
+        {
+            "name": "Anredera cordifolia (Ten.) Steenis",
+            "id": "1363138",
+            "score": 0.0013
+        },
+        {
+            "name": "Cistanthe grandiflora (Lindl.) Schltdl.",
+            "id": "1658848",
+            "score": 0.00127
+        },
+        {
+            "name": "Lonicera etrusca Santi",
+            "id": "1356784",
+            "score": 0.00125
+        },
+        {
+            "name": "Gonzalagunia rosea Standl.",
+            "id": "1673604",
+            "score": 0.00121
+        },
+        {
+            "name": "Ligustrum vulgare L.",
+            "id": "1359675",
+            "score": 0.0012
+        },
+        {
+            "name": "Fuchsia paniculata Lindl.",
+            "id": "1406308",
+            "score": 0.0012
+        },
+        {
+            "name": "Allamanda cathartica L.",
+            "id": "1369872",
+            "score": 0.00117
+        },
+        {
+            "name": "Buddleja davidii Franch.",
+            "id": "1365253",
+            "score": 0.00115
+        },
+        {
+            "name": "Sabulina verna (L.) Rchb.",
+            "id": "1738699",
+            "score": 0.00114
+        },
+        {
+            "name": "Ixora coccinea L.",
+            "id": "1371944",
+            "score": 0.00112
+        },
+        {
+            "name": "Bistorta vivipara (L.) Delarbre",
+            "id": "1400176",
+            "score": 0.00108
+        },
+        {
+            "name": "Citharexylum caudatum L.",
+            "id": "1406677",
+            "score": 0.00107
+        },
+        {
+            "name": "Badula barthesia (Lam.) A.DC.",
+            "id": "1408972",
+            "score": 0.00104
+        },
+        {
+            "name": "Euphorbia platyphyllos L.",
+            "id": "1355986",
+            "score": 0.00103
+        },
+        {
+            "name": "Verbena officinalis L.",
+            "id": "1360860",
+            "score": 0.00102
+        },
+        {
+            "name": "Euphorbia flavicoma DC.",
+            "id": "1392161",
+            "score": 0.001
+        },
+        {
+            "name": "Escallonia rubra (Ruiz & Pav.) Pers.",
+            "id": "1392136",
+            "score": 0.001
+        },
+        {
+            "name": "Lonicera fragrantissima Lindl. & Paxton",
+            "id": "1389306",
+            "score": 0.00097
+        },
+        {
+            "name": "Euphorbia heterophylla L.",
+            "id": "1355965",
+            "score": 0.00096
+        }
+    ]
+}

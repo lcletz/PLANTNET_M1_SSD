@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Circaea lutetiana L.",
+            "id": "1359680",
+            "score": 0.89793
+        },
+        {
+            "name": "Circaea × intermedia Ehrh.",
+            "id": "1609596",
+            "score": 0.00709
+        },
+        {
+            "name": "Circaea alpina L.",
+            "id": "1397350",
+            "score": 0.00252
+        },
+        {
+            "name": "Rivina humilis L.",
+            "id": "1356061",
+            "score": 0.0017
+        },
+        {
+            "name": "Atropa bella-donna L.",
+            "id": "1360548",
+            "score": 0.00106
+        },
+        {
+            "name": "Monarda didyma L.",
+            "id": "1397732",
+            "score": 0.00097
+        }
+    ]
+}

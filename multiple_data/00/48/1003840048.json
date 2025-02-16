@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Veronica serpyllifolia L.",
+            "id": "1364066",
+            "score": 0.9236
+        },
+        {
+            "name": "Veronica verna L.",
+            "id": "1359988",
+            "score": 0.01284
+        },
+        {
+            "name": "Veronica anagallis-aquatica L.",
+            "id": "1364062",
+            "score": 0.00273
+        },
+        {
+            "name": "Veronica agrestis L.",
+            "id": "1364061",
+            "score": 0.00199
+        },
+        {
+            "name": "Veronica officinalis L.",
+            "id": "1364068",
+            "score": 0.0018
+        },
+        {
+            "name": "Veronica arvensis L.",
+            "id": "1364063",
+            "score": 0.00173
+        },
+        {
+            "name": "Veronica filiformis Sm.",
+            "id": "1397048",
+            "score": 0.00158
+        },
+        {
+            "name": "Veronica repens Clarion ex DC.",
+            "id": "1397070",
+            "score": 0.0013
+        }
+    ]
+}

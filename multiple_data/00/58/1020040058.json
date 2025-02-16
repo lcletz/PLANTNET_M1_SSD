@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Galega officinalis L.",
+            "id": "1359197",
+            "score": 0.93648
+        },
+        {
+            "name": "Galega orientalis Lam.",
+            "id": "1392418",
+            "score": 0.00262
+        },
+        {
+            "name": "Coronilla varia L.",
+            "id": "1391360",
+            "score": 0.00257
+        },
+        {
+            "name": "Vicia tenuifolia Roth",
+            "id": "1359578",
+            "score": 0.00204
+        },
+        {
+            "name": "Glycyrrhiza glabra L.",
+            "id": "1363659",
+            "score": 0.00174
+        },
+        {
+            "name": "Vicia sylvatica L.",
+            "id": "1362394",
+            "score": 0.00104
+        }
+    ]
+}

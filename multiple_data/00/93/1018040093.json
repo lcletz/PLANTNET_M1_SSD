@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salvia microphylla Kunth",
+            "id": "1356117",
+            "score": 0.5407
+        },
+        {
+            "name": "Salvia × jamensis J.Compton",
+            "id": "1562718",
+            "score": 0.35292
+        },
+        {
+            "name": "Salvia coccinea Buc'hoz ex Etl.",
+            "id": "1356114",
+            "score": 0.02123
+        },
+        {
+            "name": "Salvia greggii A.Gray",
+            "id": "1562646",
+            "score": 0.00955
+        },
+        {
+            "name": "Salvia procurrens Benth.",
+            "id": "1562938",
+            "score": 0.00262
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salix viminalis L.",
+            "id": "1395903",
+            "score": 0.70333
+        },
+        {
+            "name": "Salix eleagnos Scop.",
+            "id": "1395785",
+            "score": 0.17284
+        },
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.08887
+        },
+        {
+            "name": "Salix exigua Nutt.",
+            "id": "1413598",
+            "score": 0.04568
+        },
+        {
+            "name": "Salix purpurea L.",
+            "id": "1360457",
+            "score": 0.03329
+        },
+        {
+            "name": "Salix rosmarinifolia L.",
+            "id": "1397871",
+            "score": 0.0072
+        },
+        {
+            "name": "Salix babylonica L.",
+            "id": "1360452",
+            "score": 0.00244
+        },
+        {
+            "name": "Salix interior Rowlee",
+            "id": "1413605",
+            "score": 0.00124
+        },
+        {
+            "name": "Salix triandra L.",
+            "id": "1360459",
+            "score": 0.00101
+        }
+    ]
+}

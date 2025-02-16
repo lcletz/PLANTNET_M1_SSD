@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Malva setigera Spenn.",
+            "id": "1393750",
+            "score": 0.6735
+        },
+        {
+            "name": "Malva sylvestris L.",
+            "id": "1363947",
+            "score": 0.06777
+        },
+        {
+            "name": "Malva multiflora (Cav.) Soldano",
+            "id": "1390057",
+            "score": 0.05393
+        },
+        {
+            "name": "Malva parviflora L.",
+            "id": "1359639",
+            "score": 0.01667
+        },
+        {
+            "name": "Malva neglecta Wallr.",
+            "id": "1363944",
+            "score": 0.01129
+        },
+        {
+            "name": "Malva arborea (L.) Webb & Berthel.",
+            "id": "1362856",
+            "score": 0.00318
+        },
+        {
+            "name": "Malva nicaeensis All.",
+            "id": "1363945",
+            "score": 0.00105
+        }
+    ]
+}

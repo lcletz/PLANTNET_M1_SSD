@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Satureja montana L.",
+            "id": "1361829",
+            "score": 0.93774
+        },
+        {
+            "name": "Satureja hortensis L.",
+            "id": "1395936",
+            "score": 0.01505
+        },
+        {
+            "name": "Satureja subspicata Bartl. ex Vis.",
+            "id": "1399393",
+            "score": 0.01095
+        },
+        {
+            "name": "Thymus transcaucasicus Ronniger",
+            "id": "1564714",
+            "score": 0.00378
+        },
+        {
+            "name": "Hyssopus officinalis L.",
+            "id": "1358747",
+            "score": 0.00122
+        }
+    ]
+}

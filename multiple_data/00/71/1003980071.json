@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iris pseudacorus L.",
+            "id": "1361543",
+            "score": 0.95684
+        },
+        {
+            "name": "Trimezia steyermarkii R.C.Foster",
+            "id": "1557763",
+            "score": 0.00227
+        },
+        {
+            "name": "Iris versicolor L.",
+            "id": "1393297",
+            "score": 0.00224
+        },
+        {
+            "name": "Trimezia martinicensis (Jacq.) Herb.",
+            "id": "1408788",
+            "score": 0.00198
+        },
+        {
+            "name": "Iris variegata L.",
+            "id": "1397946",
+            "score": 0.00115
+        },
+        {
+            "name": "Narcissus pseudonarcissus L.",
+            "id": "1360968",
+            "score": 0.0006
+        },
+        {
+            "name": "Iris orientalis Mill.",
+            "id": "1388948",
+            "score": 0.0004
+        }
+    ]
+}

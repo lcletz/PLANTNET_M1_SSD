@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cichorium endivia L.",
+            "id": "1364163",
+            "score": 0.56095
+        },
+        {
+            "name": "Cichorium pumilum Jacq.",
+            "id": "1357496",
+            "score": 0.26721
+        },
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.0433
+        },
+        {
+            "name": "Cichorium spinosum L.",
+            "id": "1357497",
+            "score": 0.03738
+        },
+        {
+            "name": "Lactuca floridana (L.) Gaertn.",
+            "id": "1409746",
+            "score": 0.00108
+        }
+    ]
+}

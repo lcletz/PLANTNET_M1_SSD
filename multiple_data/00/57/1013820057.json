@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lysimachia punctata L.",
+            "id": "1397433",
+            "score": 0.75439
+        },
+        {
+            "name": "Lysimachia vulgaris L.",
+            "id": "1361863",
+            "score": 0.14932
+        },
+        {
+            "name": "Lysimachia ciliata L.",
+            "id": "1393707",
+            "score": 0.00191
+        },
+        {
+            "name": "Lysimachia quadrifolia L.",
+            "id": "1412641",
+            "score": 0.00184
+        },
+        {
+            "name": "Lysimachia ephemerum L.",
+            "id": "1361862",
+            "score": 0.00137
+        }
+    ]
+}

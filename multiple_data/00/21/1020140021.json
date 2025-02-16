@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Echium sabulicola Pomel",
+            "id": "1356674",
+            "score": 0.70014
+        },
+        {
+            "name": "Echium vulgare L.",
+            "id": "1363850",
+            "score": 0.18405
+        },
+        {
+            "name": "Echium plantagineum L.",
+            "id": "1363849",
+            "score": 0.03774
+        },
+        {
+            "name": "Echium italicum L.",
+            "id": "1356663",
+            "score": 0.02098
+        },
+        {
+            "name": "Echium creticum L.",
+            "id": "1356654",
+            "score": 0.0087
+        },
+        {
+            "name": "Echium parviflorum Moench",
+            "id": "1356669",
+            "score": 0.00679
+        },
+        {
+            "name": "Echium arenarium Guss.",
+            "id": "1363852",
+            "score": 0.00601
+        },
+        {
+            "name": "Echium rosulatum Lange",
+            "id": "1391833",
+            "score": 0.00476
+        },
+        {
+            "name": "Echium gaditanum Boiss.",
+            "id": "1356657",
+            "score": 0.0011
+        }
+    ]
+}

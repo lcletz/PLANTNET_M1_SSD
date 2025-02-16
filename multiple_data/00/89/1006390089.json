@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Malus pumila Mill.",
+            "id": "1362849",
+            "score": 0.40746
+        },
+        {
+            "name": "Malus domestica Borkh.",
+            "id": "1393737",
+            "score": 0.33748
+        },
+        {
+            "name": "Malus sylvestris (L.) Mill.",
+            "id": "1420379",
+            "score": 0.03745
+        },
+        {
+            "name": "Malus spectabilis (Aiton) Borkh.",
+            "id": "1393734",
+            "score": 0.0023
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.0015
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ribes sanguineum Pursh",
+            "id": "1395204",
+            "score": 0.82046
+        },
+        {
+            "name": "Ribes nigrum L.",
+            "id": "1395200",
+            "score": 0.03102
+        },
+        {
+            "name": "Ribes malvaceum Sm.",
+            "id": "1437371",
+            "score": 0.01594
+        },
+        {
+            "name": "Ribes indecorum Eastw.",
+            "id": "1437368",
+            "score": 0.00737
+        },
+        {
+            "name": "Holodiscus discolor (Pursh) Maxim.",
+            "id": "1395391",
+            "score": 0.00712
+        },
+        {
+            "name": "Ribes uva-crispa L.",
+            "id": "1358684",
+            "score": 0.00376
+        },
+        {
+            "name": "Ribes rubrum L.",
+            "id": "1397543",
+            "score": 0.00307
+        }
+    ]
+}

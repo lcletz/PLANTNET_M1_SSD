@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Jacobaea maritima (L.) Pelser & Meijden",
+            "id": "1362038",
+            "score": 0.87655
+        },
+        {
+            "name": "Jacobaea leucophylla (DC.) Pelser",
+            "id": "1389249",
+            "score": 0.08982
+        },
+        {
+            "name": "Centaurea cineraria L.",
+            "id": "1362276",
+            "score": 0.00913
+        },
+        {
+            "name": "Senecio maritimus L.f.",
+            "id": "1520466",
+            "score": 0.00295
+        },
+        {
+            "name": "Senecio vira-vira Hieron.",
+            "id": "1736341",
+            "score": 0.00151
+        },
+        {
+            "name": "Achillea maritima (L.) Ehrend. & Y.P.Guo",
+            "id": "1388812",
+            "score": 0.00118
+        }
+    ]
+}

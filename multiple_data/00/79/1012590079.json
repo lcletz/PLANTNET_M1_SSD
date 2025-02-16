@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tilia cordata Mill.",
+            "id": "1396797",
+            "score": 0.73888
+        },
+        {
+            "name": "Tilia platyphyllos Scop.",
+            "id": "1396802",
+            "score": 0.13133
+        },
+        {
+            "name": "Tilia × europaea L.",
+            "id": "1595800",
+            "score": 0.06254
+        },
+        {
+            "name": "Tilia americana L.",
+            "id": "1397800",
+            "score": 0.00836
+        },
+        {
+            "name": "Tilia miqueliana Maxim.",
+            "id": "1419458",
+            "score": 0.00445
+        },
+        {
+            "name": "Tilia × euchlora K.Koch",
+            "id": "1595799",
+            "score": 0.00421
+        },
+        {
+            "name": "Tilia amurensis Rupr.",
+            "id": "1595789",
+            "score": 0.00318
+        },
+        {
+            "name": "Tilia dasystyla Steven",
+            "id": "1595796",
+            "score": 0.00314
+        },
+        {
+            "name": "Tilia chinensis Maxim.",
+            "id": "1595794",
+            "score": 0.001
+        },
+        {
+            "name": "Tilia oliveri Szyszył.",
+            "id": "1595818",
+            "score": 0.001
+        }
+    ]
+}

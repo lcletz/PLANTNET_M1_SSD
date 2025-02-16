@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus laurocerasus L.",
+            "id": "1394952",
+            "score": 0.95029
+        },
+        {
+            "name": "Camellia sinensis (L.) Kuntze",
+            "id": "1379192",
+            "score": 0.01519
+        },
+        {
+            "name": "Prunus lusitanica L.",
+            "id": "1360322",
+            "score": 0.00404
+        },
+        {
+            "name": "Camellia japonica L.",
+            "id": "1379149",
+            "score": 0.00358
+        },
+        {
+            "name": "Euonymus japonicus Thunb.",
+            "id": "1418419",
+            "score": 0.00157
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Urtica dioica L.",
+            "id": "1356200",
+            "score": 0.5503
+        },
+        {
+            "name": "Urtica urens L.",
+            "id": "1356201",
+            "score": 0.23654
+        },
+        {
+            "name": "Urtica pilulifera L.",
+            "id": "1360831",
+            "score": 0.02741
+        },
+        {
+            "name": "Urtica membranacea Poir. ex Savigny",
+            "id": "1695710",
+            "score": 0.01159
+        },
+        {
+            "name": "Lamium album L.",
+            "id": "1393423",
+            "score": 0.00929
+        },
+        {
+            "name": "Urtica atrovirens Req. ex Loisel.",
+            "id": "1396958",
+            "score": 0.00423
+        },
+        {
+            "name": "Urtica rupestris Guss.",
+            "id": "1398886",
+            "score": 0.00391
+        },
+        {
+            "name": "Urtica chamaedryoides Pursh",
+            "id": "1424320",
+            "score": 0.00357
+        },
+        {
+            "name": "Ballota nigra L.",
+            "id": "1358722",
+            "score": 0.00346
+        },
+        {
+            "name": "Verbena urticifolia L.",
+            "id": "1398544",
+            "score": 0.00269
+        },
+        {
+            "name": "Potentilla norvegica L.",
+            "id": "1394867",
+            "score": 0.00141
+        },
+        {
+            "name": "Geum macrophyllum Willd.",
+            "id": "1398509",
+            "score": 0.00109
+        },
+        {
+            "name": "Leonurus cardiaca L.",
+            "id": "1358768",
+            "score": 0.00106
+        },
+        {
+            "name": "Agrimonia eupatoria L.",
+            "id": "1363994",
+            "score": 0.001
+        }
+    ]
+}

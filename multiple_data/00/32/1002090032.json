@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Calycanthus floridus L.",
+            "id": "1398326",
+            "score": 0.76797
+        },
+        {
+            "name": "Calycanthus occidentalis Hook. & Arn.",
+            "id": "1418345",
+            "score": 0.1521
+        },
+        {
+            "name": "Tapinanthus belvisii (DC.) Danser",
+            "id": "1384225",
+            "score": 0.00278
+        },
+        {
+            "name": "Chimonanthus nitens Oliv.",
+            "id": "1488760",
+            "score": 0.00246
+        },
+        {
+            "name": "Lonicera caprifolium L.",
+            "id": "1393632",
+            "score": 0.00152
+        }
+    ]
+}

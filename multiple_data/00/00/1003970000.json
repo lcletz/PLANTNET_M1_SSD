@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lycianthes rantonnetii (Carrière ex Lesc.) Bitter",
+            "id": "1389725",
+            "score": 0.56426
+        },
+        {
+            "name": "Solanum laciniatum Aiton",
+            "id": "1360570",
+            "score": 0.28719
+        },
+        {
+            "name": "Nicandra physalodes (L.) Gaertn.",
+            "id": "1356144",
+            "score": 0.00167
+        },
+        {
+            "name": "Solanum mauritianum Scop.",
+            "id": "1356166",
+            "score": 0.00148
+        },
+        {
+            "name": "Solanum wendlandii Hook. f.",
+            "id": "1377911",
+            "score": 0.00115
+        }
+    ]
+}

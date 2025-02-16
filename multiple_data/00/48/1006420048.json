@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Scrophularia nodosa L.",
+            "id": "1396122",
+            "score": 0.96087
+        },
+        {
+            "name": "Scrophularia auriculata L.",
+            "id": "1360495",
+            "score": 0.01228
+        },
+        {
+            "name": "Scrophularia alpestris J.Gay ex Benth.",
+            "id": "1396119",
+            "score": 0.0045
+        },
+        {
+            "name": "Scrophularia peregrina L.",
+            "id": "1360507",
+            "score": 0.00433
+        },
+        {
+            "name": "Scrophularia marilandica L.",
+            "id": "1413743",
+            "score": 0.00112
+        },
+        {
+            "name": "Scrophularia lanceolata Pursh",
+            "id": "1413742",
+            "score": 0.00107
+        }
+    ]
+}

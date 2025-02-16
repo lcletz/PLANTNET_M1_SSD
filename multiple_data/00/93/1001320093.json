@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.8424
+        },
+        {
+            "name": "Syringa persica L.",
+            "id": "1419641",
+            "score": 0.0393
+        },
+        {
+            "name": "Syringa oblata Lindl.",
+            "id": "1419640",
+            "score": 0.00458
+        },
+        {
+            "name": "Mauria heterophylla Kunth",
+            "id": "1454247",
+            "score": 0.0013
+        },
+        {
+            "name": "Hydrangea macrophylla (Thunb.) Ser.",
+            "id": "1361819",
+            "score": 0.00115
+        }
+    ]
+}

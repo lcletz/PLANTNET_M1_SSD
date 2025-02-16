@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Ophrys holosericea (Burm.f.) Greuter",
+            "id": "1425319",
+            "score": 0.81367
+        },
+        {
+            "name": "Ophrys scolopax Cav.",
+            "id": "1361666",
+            "score": 0.09194
+        },
+        {
+            "name": "Ophrys apifera Huds.",
+            "id": "1361656",
+            "score": 0.01002
+        },
+        {
+            "name": "Ophrys sphegodes Mill.",
+            "id": "1361669",
+            "score": 0.00368
+        },
+        {
+            "name": "Ophrys tenthredinifera Willd.",
+            "id": "1361672",
+            "score": 0.00307
+        },
+        {
+            "name": "Ophrys × flavicans Vis.",
+            "id": "1628822",
+            "score": 0.00234
+        },
+        {
+            "name": "Ophrys × minuticauda Duffort",
+            "id": "1628858",
+            "score": 0.00194
+        }
+    ]
+}

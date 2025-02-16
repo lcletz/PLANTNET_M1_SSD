@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Conyza canadensis (L.) Cronquist",
+            "id": "1405532",
+            "score": 0.37864
+        },
+        {
+            "name": "Conyza bonariensis (L.) Cronquist",
+            "id": "1403879",
+            "score": 0.06163
+        },
+        {
+            "name": "Plantago coronopus L.",
+            "id": "1356065",
+            "score": 0.01102
+        },
+        {
+            "name": "Lepidium virginicum L.",
+            "id": "1363893",
+            "score": 0.00387
+        },
+        {
+            "name": "Galium aparine L.",
+            "id": "1360385",
+            "score": 0.0015
+        },
+        {
+            "name": "Linaria vulgaris Mill.",
+            "id": "1393600",
+            "score": 0.00123
+        }
+    ]
+}

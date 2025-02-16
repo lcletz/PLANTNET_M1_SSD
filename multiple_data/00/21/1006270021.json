@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Campanula scheuchzeri Vill.",
+            "id": "1390674",
+            "score": 0.7834
+        },
+        {
+            "name": "Campanula rotundifolia L.",
+            "id": "1362422",
+            "score": 0.07927
+        },
+        {
+            "name": "Campanula rhomboidalis L.",
+            "id": "1397255",
+            "score": 0.07779
+        },
+        {
+            "name": "Campanula alpestris All.",
+            "id": "1390652",
+            "score": 0.00514
+        },
+        {
+            "name": "Campanula precatoria Timb.-Lagr.",
+            "id": "1390672",
+            "score": 0.00509
+        },
+        {
+            "name": "Campanula herminii Hoffmanns. & Link",
+            "id": "1362271",
+            "score": 0.00438
+        },
+        {
+            "name": "Campanula lasiocarpa Cham.",
+            "id": "1414415",
+            "score": 0.00356
+        },
+        {
+            "name": "Campanula bertolae Colla",
+            "id": "1397923",
+            "score": 0.00354
+        },
+        {
+            "name": "Campanula serrata (Kit. ex Schult.) Hendrych",
+            "id": "1489283",
+            "score": 0.00294
+        },
+        {
+            "name": "Campanula alpina Jacq.",
+            "id": "1399112",
+            "score": 0.00229
+        },
+        {
+            "name": "Campanula persicifolia L.",
+            "id": "1390671",
+            "score": 0.00222
+        },
+        {
+            "name": "Campanula witasekiana Vierh.",
+            "id": "1399134",
+            "score": 0.00204
+        },
+        {
+            "name": "Campanula bohemica Hruby",
+            "id": "1489049",
+            "score": 0.00138
+        },
+        {
+            "name": "Campanula cochleariifolia Lam.",
+            "id": "1390659",
+            "score": 0.00133
+        },
+        {
+            "name": "Campanula arvatica Lag.",
+            "id": "1489036",
+            "score": 0.0012
+        }
+    ]
+}

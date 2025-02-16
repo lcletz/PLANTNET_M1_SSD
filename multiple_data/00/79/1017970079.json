@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Digitalis purpurea L.",
+            "id": "1364079",
+            "score": 0.60381
+        },
+        {
+            "name": "Digitalis thapsi L.",
+            "id": "1400052",
+            "score": 0.27249
+        },
+        {
+            "name": "Digitalis grandiflora Mill.",
+            "id": "1391727",
+            "score": 0.01434
+        },
+        {
+            "name": "Digitalis ferruginea L.",
+            "id": "1373275",
+            "score": 0.00382
+        },
+        {
+            "name": "Verbascum virgatum Stokes",
+            "id": "1364058",
+            "score": 0.00199
+        },
+        {
+            "name": "Verbascum phoeniceum L.",
+            "id": "1396994",
+            "score": 0.00125
+        },
+        {
+            "name": "Campanula bononiensis L.",
+            "id": "1390655",
+            "score": 0.00117
+        },
+        {
+            "name": "Digitalis lutea L.",
+            "id": "1362533",
+            "score": 0.00114
+        }
+    ]
+}

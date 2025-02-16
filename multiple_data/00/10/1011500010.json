@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Robinia hispida L.",
+            "id": "1395210",
+            "score": 0.67143
+        },
+        {
+            "name": "Robinia viscosa Michx. ex Vent.",
+            "id": "1742844",
+            "score": 0.14226
+        },
+        {
+            "name": "Robinia neomexicana A.Gray",
+            "id": "1399024",
+            "score": 0.02855
+        },
+        {
+            "name": "Robinia pseudoacacia L.",
+            "id": "1363698",
+            "score": 0.00441
+        },
+        {
+            "name": "Wisteria frutescens (L.) Poir.",
+            "id": "1439678",
+            "score": 0.00406
+        },
+        {
+            "name": "Indigofera tinctoria L.",
+            "id": "1408229",
+            "score": 0.00332
+        }
+    ]
+}

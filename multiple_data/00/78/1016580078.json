@@ -1,0 +1,370 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Magnolia grandiflora L.",
+            "id": "1393723",
+            "score": 0.31207
+        },
+        {
+            "name": "Magnolia virginiana L.",
+            "id": "1389430",
+            "score": 0.06718
+        },
+        {
+            "name": "Pittosporum undulatum Vent.",
+            "id": "1356064",
+            "score": 0.05841
+        },
+        {
+            "name": "Paulownia tomentosa (Thunb.) Steud.",
+            "id": "1394426",
+            "score": 0.02779
+        },
+        {
+            "name": "Gleditsia triacanthos L.",
+            "id": "1363687",
+            "score": 0.02754
+        },
+        {
+            "name": "Magnolia kobus DC.",
+            "id": "1393719",
+            "score": 0.02159
+        },
+        {
+            "name": "Magnolia × soulangeana Soul.-Bod.",
+            "id": "1591282",
+            "score": 0.02125
+        },
+        {
+            "name": "Magnolia denudata Desr.",
+            "id": "1393717",
+            "score": 0.02083
+        },
+        {
+            "name": "Jacaranda mimosifolia D.Don",
+            "id": "1400148",
+            "score": 0.02026
+        },
+        {
+            "name": "Fraxinus ornus L.",
+            "id": "1362963",
+            "score": 0.01349
+        },
+        {
+            "name": "Enterolobium contortisiliquum (Vell.) Morong",
+            "id": "1368549",
+            "score": 0.01194
+        },
+        {
+            "name": "Olea europaea L.",
+            "id": "1359676",
+            "score": 0.01188
+        },
+        {
+            "name": "Tetradium daniellii (Benn.) T.G.Hartley",
+            "id": "1420545",
+            "score": 0.01142
+        },
+        {
+            "name": "Phytolacca dioica L.",
+            "id": "1356063",
+            "score": 0.01066
+        },
+        {
+            "name": "Ligustrum japonicum Thunb.",
+            "id": "1397735",
+            "score": 0.0099
+        },
+        {
+            "name": "Fraxinus angustifolia Vahl",
+            "id": "1362009",
+            "score": 0.00862
+        },
+        {
+            "name": "Albizia julibrissin Durazz.",
+            "id": "1391958",
+            "score": 0.00586
+        },
+        {
+            "name": "Fraxinus pennsylvanica Marshall",
+            "id": "1392363",
+            "score": 0.00519
+        },
+        {
+            "name": "Casimiroa edulis La Llave",
+            "id": "1420507",
+            "score": 0.00501
+        },
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.0044
+        },
+        {
+            "name": "Persea americana Mill.",
+            "id": "1364365",
+            "score": 0.00419
+        },
+        {
+            "name": "Cladrastis kentukea (Dum.Cours.) Rudd",
+            "id": "1418918",
+            "score": 0.00417
+        },
+        {
+            "name": "Vachellia farnesiana (L.) Wight & Arn.",
+            "id": "1409148",
+            "score": 0.00398
+        },
+        {
+            "name": "Magnolia liliiflora Desr.",
+            "id": "1397622",
+            "score": 0.00387
+        },
+        {
+            "name": "Azadirachta indica A.Juss.",
+            "id": "1405342",
+            "score": 0.0038
+        },
+        {
+            "name": "Leucaena leucocephala (Lam.) de Wit",
+            "id": "1363651",
+            "score": 0.00365
+        },
+        {
+            "name": "Styphnolobium japonicum (L.) Schott",
+            "id": "1369068",
+            "score": 0.00362
+        },
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.00347
+        },
+        {
+            "name": "Bauhinia purpurea L.",
+            "id": "1366759",
+            "score": 0.00343
+        },
+        {
+            "name": "Pongamia pinnata (L.) Pierre",
+            "id": "1408557",
+            "score": 0.00333
+        },
+        {
+            "name": "Gleditsia sinensis Lam.",
+            "id": "1428562",
+            "score": 0.00321
+        },
+        {
+            "name": "Spathodea campanulata P.Beauv.",
+            "id": "1389151",
+            "score": 0.00321
+        },
+        {
+            "name": "Prunus laurocerasus L.",
+            "id": "1394952",
+            "score": 0.00294
+        },
+        {
+            "name": "Terminalia mantaly H.Perrier",
+            "id": "1424294",
+            "score": 0.00288
+        },
+        {
+            "name": "Fraxinus uhdei (Wenz.) Lingelsh.",
+            "id": "1419623",
+            "score": 0.00275
+        },
+        {
+            "name": "Enterolobium cyclocarpum (Jacq.) Griseb.",
+            "id": "1368550",
+            "score": 0.00267
+        },
+        {
+            "name": "Artocarpus heterophyllus Lam.",
+            "id": "1402426",
+            "score": 0.00252
+        },
+        {
+            "name": "Fraxinus americana L.",
+            "id": "1397619",
+            "score": 0.00252
+        },
+        {
+            "name": "Yucca gigantea Lem.",
+            "id": "1410190",
+            "score": 0.00245
+        },
+        {
+            "name": "Viburnum odoratissimum Ker Gawl.",
+            "id": "1417575",
+            "score": 0.00219
+        },
+        {
+            "name": "Moquilea tomentosa Benth.",
+            "id": "1730478",
+            "score": 0.00192
+        },
+        {
+            "name": "Ligustrum lucidum W.T.Aiton",
+            "id": "1393525",
+            "score": 0.00185
+        },
+        {
+            "name": "Pterospermum acerifolium (L.) Willd.",
+            "id": "1362750",
+            "score": 0.00184
+        },
+        {
+            "name": "Albizia lebbeck (L.) Benth.",
+            "id": "1366605",
+            "score": 0.0017
+        },
+        {
+            "name": "Ficus maclellandii King",
+            "id": "1602034",
+            "score": 0.00163
+        },
+        {
+            "name": "Ailanthus altissima (Mill.) Swingle",
+            "id": "1360547",
+            "score": 0.00162
+        },
+        {
+            "name": "Acacia melanoxylon R.Br.",
+            "id": "1389553",
+            "score": 0.00162
+        },
+        {
+            "name": "Citharexylum donnell-smithii Greenm.",
+            "id": "1406797",
+            "score": 0.0016
+        },
+        {
+            "name": "Ligustrum sinense Lour.",
+            "id": "1390584",
+            "score": 0.00157
+        },
+        {
+            "name": "Melia azedarach L.",
+            "id": "1363624",
+            "score": 0.00156
+        },
+        {
+            "name": "Magnolia obovata Thunb.",
+            "id": "1419379",
+            "score": 0.00152
+        },
+        {
+            "name": "Bauhinia variegata L.",
+            "id": "1389161",
+            "score": 0.00151
+        },
+        {
+            "name": "Zelkova serrata (Thunb.) Makino",
+            "id": "1398535",
+            "score": 0.00149
+        },
+        {
+            "name": "Acer saccharum Marshall",
+            "id": "1390591",
+            "score": 0.00142
+        },
+        {
+            "name": "Inga laurina (Sw.) Willd.",
+            "id": "1404572",
+            "score": 0.00137
+        },
+        {
+            "name": "Samanea saman (Jacq.) Merr.",
+            "id": "1368559",
+            "score": 0.00137
+        },
+        {
+            "name": "Paubrasilia echinata (Lam.) Gagnon, H.C.Lima & G.P.Lewis",
+            "id": "1730026",
+            "score": 0.00132
+        },
+        {
+            "name": "Abies nordmanniana (Steven) Spach",
+            "id": "1393306",
+            "score": 0.0013
+        },
+        {
+            "name": "Ceratonia siliqua L.",
+            "id": "1363660",
+            "score": 0.00126
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.00124
+        },
+        {
+            "name": "Koelreuteria bipinnata Franch.",
+            "id": "1420619",
+            "score": 0.00121
+        },
+        {
+            "name": "Cedrela odorata L.",
+            "id": "1365961",
+            "score": 0.0012
+        },
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.0012
+        },
+        {
+            "name": "Aesculus pavia L.",
+            "id": "1389544",
+            "score": 0.00118
+        },
+        {
+            "name": "Acer diabolicum Blume ex K.Koch",
+            "id": "1685254",
+            "score": 0.00117
+        },
+        {
+            "name": "Albizia zygia (DC.) J.F.Macbr.",
+            "id": "1431721",
+            "score": 0.00117
+        },
+        {
+            "name": "Ficus saussureana DC.",
+            "id": "1384098",
+            "score": 0.00112
+        },
+        {
+            "name": "Aesculus flava Sol.",
+            "id": "1398407",
+            "score": 0.00111
+        },
+        {
+            "name": "Clitoria fairchildiana R.A.Howard",
+            "id": "1400416",
+            "score": 0.00106
+        },
+        {
+            "name": "Cocculus laurifolius DC.",
+            "id": "1419488",
+            "score": 0.00105
+        },
+        {
+            "name": "Casuarina cunninghamiana Miq.",
+            "id": "1361847",
+            "score": 0.00102
+        },
+        {
+            "name": "Pittosporum tobira (Thunb.) W.T.Aiton",
+            "id": "1394624",
+            "score": 0.00102
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.001
+        }
+    ]
+}

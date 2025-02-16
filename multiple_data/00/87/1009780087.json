@@ -1,0 +1,445 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Passiflora edulis Sims",
+            "id": "1356048",
+            "score": 0.09599
+        },
+        {
+            "name": "Vinca minor L.",
+            "id": "1369309",
+            "score": 0.0547
+        },
+        {
+            "name": "Malpighia emarginata DC.",
+            "id": "1404729",
+            "score": 0.05168
+        },
+        {
+            "name": "Cucumis sativus L.",
+            "id": "1384472",
+            "score": 0.04779
+        },
+        {
+            "name": "Adenium obesum (Forssk.) Roem. & Schult.",
+            "id": "1369307",
+            "score": 0.04623
+        },
+        {
+            "name": "Malpighia glabra L.",
+            "id": "1406672",
+            "score": 0.0351
+        },
+        {
+            "name": "Adansonia digitata L.",
+            "id": "1388738",
+            "score": 0.02589
+        },
+        {
+            "name": "Citrus × aurantium L.",
+            "id": "1403435",
+            "score": 0.024140000000000006
+        },
+        {
+            "name": "Zinnia peruviana (L.) L.",
+            "id": "1374113",
+            "score": 0.02195
+        },
+        {
+            "name": "Cuphea hyssopifolia Kunth",
+            "id": "1356026",
+            "score": 0.0146
+        },
+        {
+            "name": "Ipomoea cairica (L.) Sweet",
+            "id": "1358015",
+            "score": 0.01293
+        },
+        {
+            "name": "Rhododendron calendulaceum (Michx.) Torr.",
+            "id": "1395179",
+            "score": 0.01252
+        },
+        {
+            "name": "Buchozia japonica (Thunb.) Callm.",
+            "id": "1760598",
+            "score": 0.01106
+        },
+        {
+            "name": "Eugenia selloi B.D.Jacks.",
+            "id": "1604979",
+            "score": 0.00987
+        },
+        {
+            "name": "Ludwigia octovalvis (Jacq.) P.H.Raven",
+            "id": "1409213",
+            "score": 0.00965
+        },
+        {
+            "name": "Persicaria pensylvanica (L.) M.Gómez",
+            "id": "1737515",
+            "score": 0.00936
+        },
+        {
+            "name": "Citrus hystrix DC.",
+            "id": "1404728",
+            "score": 0.00933
+        },
+        {
+            "name": "Adenium multiflorum Klotzsch",
+            "id": "1369305",
+            "score": 0.00836
+        },
+        {
+            "name": "Cucumis melo L.",
+            "id": "1363647",
+            "score": 0.00816
+        },
+        {
+            "name": "Petroselinum crispum (Mill.) Fuss",
+            "id": "1363214",
+            "score": 0.0078
+        },
+        {
+            "name": "Citrus × limon (L.) Osbeck",
+            "id": "1403436",
+            "score": 0.00736
+        },
+        {
+            "name": "Asclepias purpurascens L.",
+            "id": "1413810",
+            "score": 0.00713
+        },
+        {
+            "name": "Helianthus giganteus L.",
+            "id": "1389511",
+            "score": 0.00697
+        },
+        {
+            "name": "Capsicum chinense Jacq.",
+            "id": "1377886",
+            "score": 0.00683
+        },
+        {
+            "name": "Trachelospermum asiaticum (Siebold & Zucc.) Nakai",
+            "id": "1463177",
+            "score": 0.00654
+        },
+        {
+            "name": "Eugenia uniflora L.",
+            "id": "1382851",
+            "score": 0.00618
+        },
+        {
+            "name": "Alternanthera philoxeroides (Mart.) Griseb.",
+            "id": "1393409",
+            "score": 0.00565
+        },
+        {
+            "name": "Satureja hortensis L.",
+            "id": "1395936",
+            "score": 0.00546
+        },
+        {
+            "name": "Cryptocarya alba (Molina) Looser",
+            "id": "1565838",
+            "score": 0.00496
+        },
+        {
+            "name": "Sanvitalia procumbens Lam.",
+            "id": "1398570",
+            "score": 0.0046
+        },
+        {
+            "name": "Pachira aquatica Aubl.",
+            "id": "1388748",
+            "score": 0.00438
+        },
+        {
+            "name": "Oldenlandia corymbosa L.",
+            "id": "1360427",
+            "score": 0.00435
+        },
+        {
+            "name": "Solanum diphyllum L.",
+            "id": "1405223",
+            "score": 0.00421
+        },
+        {
+            "name": "Modiola caroliniana (L.) G.Don",
+            "id": "1393845",
+            "score": 0.00408
+        },
+        {
+            "name": "Mangifera indica L.",
+            "id": "1384600",
+            "score": 0.00315
+        },
+        {
+            "name": "Capsicum annuum L.",
+            "id": "1361992",
+            "score": 0.00305
+        },
+        {
+            "name": "Eugenia uruguayensis Cambess.",
+            "id": "1605091",
+            "score": 0.00297
+        },
+        {
+            "name": "Urtica urens L.",
+            "id": "1356201",
+            "score": 0.0028
+        },
+        {
+            "name": "Allamanda cathartica L.",
+            "id": "1369872",
+            "score": 0.00273
+        },
+        {
+            "name": "Lagerstroemia speciosa (L.) Pers.",
+            "id": "1376510",
+            "score": 0.00263
+        },
+        {
+            "name": "Capsicum frutescens L.",
+            "id": "1356148",
+            "score": 0.00236
+        },
+        {
+            "name": "Pachira glabra Pasq.",
+            "id": "1388749",
+            "score": 0.00226
+        },
+        {
+            "name": "Hibiscus fragilis DC.",
+            "id": "1409016",
+            "score": 0.00226
+        },
+        {
+            "name": "Acalypha virginica L.",
+            "id": "1358519",
+            "score": 0.00226
+        },
+        {
+            "name": "Citrus australasica F.Muell.",
+            "id": "1420510",
+            "score": 0.00212
+        },
+        {
+            "name": "Eugenia involucrata DC.",
+            "id": "1419554",
+            "score": 0.0021
+        },
+        {
+            "name": "Barleria repens Nees",
+            "id": "1385106",
+            "score": 0.00209
+        },
+        {
+            "name": "Passiflora suberosa L.",
+            "id": "1356050",
+            "score": 0.00204
+        },
+        {
+            "name": "Helianthus annuus L.",
+            "id": "1364145",
+            "score": 0.00198
+        },
+        {
+            "name": "Ligustrum sinense Lour.",
+            "id": "1390584",
+            "score": 0.00197
+        },
+        {
+            "name": "Impatiens balsamina L.",
+            "id": "1363815",
+            "score": 0.00192
+        },
+        {
+            "name": "Cosmos sulphureus Cav.",
+            "id": "1373705",
+            "score": 0.0018
+        },
+        {
+            "name": "Vinca difformis Pourr.",
+            "id": "1356574",
+            "score": 0.00179
+        },
+        {
+            "name": "Petiveria alliacea L.",
+            "id": "1376703",
+            "score": 0.00178
+        },
+        {
+            "name": "Plinia cauliflora (Mart.) Kausel",
+            "id": "1419577",
+            "score": 0.00177
+        },
+        {
+            "name": "Ficus septica Burm.f.",
+            "id": "1423893",
+            "score": 0.00173
+        },
+        {
+            "name": "Cestrum nocturnum L.",
+            "id": "1380602",
+            "score": 0.0016
+        },
+        {
+            "name": "Asclepias tuberosa L.",
+            "id": "1413838",
+            "score": 0.00153
+        },
+        {
+            "name": "Ligustrum ovalifolium Hassk.",
+            "id": "1393526",
+            "score": 0.00151
+        },
+        {
+            "name": "Citrus maxima (Burm.) Merr.",
+            "id": "1372591",
+            "score": 0.0015
+        },
+        {
+            "name": "Chassalia corallioides (Cordem.) Verdc.",
+            "id": "1407802",
+            "score": 0.00149
+        },
+        {
+            "name": "Mandevilla sanderi (Hemsl.) Woodson",
+            "id": "1420319",
+            "score": 0.0014
+        },
+        {
+            "name": "Pachysandra terminalis Siebold & Zucc.",
+            "id": "1398597",
+            "score": 0.00139
+        },
+        {
+            "name": "Anisophyllea quangensis Engl. ex Henriq.",
+            "id": "1377037",
+            "score": 0.00135
+        },
+        {
+            "name": "Schotia latifolia Jacq.",
+            "id": "1432235",
+            "score": 0.00134
+        },
+        {
+            "name": "Buxus sempervirens L.",
+            "id": "1356729",
+            "score": 0.0013
+        },
+        {
+            "name": "Ipomoea indica (Burm.) Merr.",
+            "id": "1364032",
+            "score": 0.00128
+        },
+        {
+            "name": "Ixora coccinea L.",
+            "id": "1371944",
+            "score": 0.00124
+        },
+        {
+            "name": "Eclipta prostrata (L.) L.",
+            "id": "1364146",
+            "score": 0.00124
+        },
+        {
+            "name": "Amaranthus blitoides S.Watson",
+            "id": "1393587",
+            "score": 0.00123
+        },
+        {
+            "name": "Passiflora lutea L.",
+            "id": "1419859",
+            "score": 0.00123
+        },
+        {
+            "name": "Ficus vaccinioides Hemsl. & King",
+            "id": "1602291",
+            "score": 0.00122
+        },
+        {
+            "name": "Wrightia antidysenterica (L.) R.Br.",
+            "id": "1463440",
+            "score": 0.00122
+        },
+        {
+            "name": "Ipomoea nil (L.) Roth",
+            "id": "1369244",
+            "score": 0.0012
+        },
+        {
+            "name": "Buxus microphylla Siebold & Zucc.",
+            "id": "1418161",
+            "score": 0.00117
+        },
+        {
+            "name": "Cuphea hookeriana Walp.",
+            "id": "1590709",
+            "score": 0.00114
+        },
+        {
+            "name": "Solanum pimpinellifolium L.",
+            "id": "1420742",
+            "score": 0.00112
+        },
+        {
+            "name": "Barleria cristata L.",
+            "id": "1385131",
+            "score": 0.00112
+        },
+        {
+            "name": "Hedera canariensis Willd.",
+            "id": "1356580",
+            "score": 0.00111
+        },
+        {
+            "name": "Ruellia tuberosa L.",
+            "id": "1385214",
+            "score": 0.00111
+        },
+        {
+            "name": "Solanum laciniatum Aiton",
+            "id": "1360570",
+            "score": 0.00111
+        },
+        {
+            "name": "Eugenia pyriformis Cambess.",
+            "id": "1419556",
+            "score": 0.00106
+        },
+        {
+            "name": "Psidium guajava L.",
+            "id": "1382846",
+            "score": 0.00105
+        },
+        {
+            "name": "Xanthosoma sagittifolium (L.) Schott",
+            "id": "1386047",
+            "score": 0.00104
+        },
+        {
+            "name": "Punica granatum L.",
+            "id": "1359616",
+            "score": 0.00103
+        },
+        {
+            "name": "Gaultheria procumbens L.",
+            "id": "1392504",
+            "score": 0.00103
+        },
+        {
+            "name": "Adansonia madagascariensis Baill.",
+            "id": "1424495",
+            "score": 0.00101
+        },
+        {
+            "name": "Vigna radiata (L.) R.Wilczek",
+            "id": "1408822",
+            "score": 0.001
+        }
+    ]
+}

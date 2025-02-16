@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Gymnadenia conopsea (L.) R.Br.",
+            "id": "1392661",
+            "score": 0.76106
+        },
+        {
+            "name": "Gymnadenia densiflora (Wahlenb.) A.Dietr.",
+            "id": "1392662",
+            "score": 0.14289
+        },
+        {
+            "name": "Gymnadenia odoratissima (L.) Rich.",
+            "id": "1392666",
+            "score": 0.02029
+        },
+        {
+            "name": "Anacamptis pyramidalis (L.) Rich.",
+            "id": "1361634",
+            "score": 0.004
+        },
+        {
+            "name": "Gymnadenia borealis (Druce) R.M.Bateman, Pridgeon & M.W.Chase",
+            "id": "1389859",
+            "score": 0.00354
+        }
+    ]
+}

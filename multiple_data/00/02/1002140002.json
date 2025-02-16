@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunella vulgaris L.",
+            "id": "1356109",
+            "score": 0.91865
+        },
+        {
+            "name": "Prunella grandiflora (L.) Turra",
+            "id": "1737424",
+            "score": 0.01518
+        },
+        {
+            "name": "Scutellaria alpina L.",
+            "id": "1397490",
+            "score": 0.00514
+        },
+        {
+            "name": "Ajuga genevensis L.",
+            "id": "1391853",
+            "score": 0.00207
+        },
+        {
+            "name": "Ajuga reptans L.",
+            "id": "1358718",
+            "score": 0.0018
+        },
+        {
+            "name": "Prunella hyssopifolia L.",
+            "id": "1362041",
+            "score": 0.00166
+        },
+        {
+            "name": "Prunella laciniata (L.) L.",
+            "id": "1358854",
+            "score": 0.00137
+        }
+    ]
+}

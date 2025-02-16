@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Acer opalus Mill.",
+            "id": "1362399",
+            "score": 0.76981
+        },
+        {
+            "name": "Acer pseudoplatanus L.",
+            "id": "1356460",
+            "score": 0.11735
+        },
+        {
+            "name": "Acer macrophyllum Pursh",
+            "id": "1412158",
+            "score": 0.02963
+        },
+        {
+            "name": "Acer saccharum Marshall",
+            "id": "1390591",
+            "score": 0.02417
+        },
+        {
+            "name": "Acer platanoides L.",
+            "id": "1397301",
+            "score": 0.008
+        },
+        {
+            "name": "Viburnum opulus L.",
+            "id": "1361743",
+            "score": 0.00461
+        },
+        {
+            "name": "Acer spicatum Lam.",
+            "id": "1412687",
+            "score": 0.00375
+        },
+        {
+            "name": "Viburnum macrocephalum Fortune",
+            "id": "1398542",
+            "score": 0.00262
+        },
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.00175
+        },
+        {
+            "name": "Acer rubrum L.",
+            "id": "1398406",
+            "score": 0.00132
+        },
+        {
+            "name": "Acer × martini Jord.",
+            "id": "1685292",
+            "score": 0.00128
+        },
+        {
+            "name": "Ficus carica L.",
+            "id": "1363142",
+            "score": 0.00112
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lythrum salicaria L.",
+            "id": "1356023",
+            "score": 0.64882
+        },
+        {
+            "name": "Lythrum virgatum L.",
+            "id": "1393714",
+            "score": 0.24398
+        },
+        {
+            "name": "Lythrum hyssopifolia L.",
+            "id": "1356024",
+            "score": 0.00434
+        },
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.00294
+        },
+        {
+            "name": "Lythrum tribracteatum Salzm. ex Spreng.",
+            "id": "1359615",
+            "score": 0.002
+        },
+        {
+            "name": "Lythrum alatum Pursh",
+            "id": "1412643",
+            "score": 0.00117
+        },
+        {
+            "name": "Decodon verticillatus (L.) Elliott",
+            "id": "1411701",
+            "score": 0.00102
+        }
+    ]
+}

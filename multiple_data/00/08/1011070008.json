@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Solanum dulcamara L.",
+            "id": "1360566",
+            "score": 0.9098
+        },
+        {
+            "name": "Solanum seaforthianum Andrews",
+            "id": "1379566",
+            "score": 0.00642
+        },
+        {
+            "name": "Solanum crispum Ruiz & Pav.",
+            "id": "1691574",
+            "score": 0.00379
+        },
+        {
+            "name": "Solanum septemlobum Bunge",
+            "id": "1692168",
+            "score": 0.00273
+        },
+        {
+            "name": "Solanum elaeagnifolium Cav.",
+            "id": "1356163",
+            "score": 0.00176
+        },
+        {
+            "name": "Solanum mauritianum Scop.",
+            "id": "1356166",
+            "score": 0.00168
+        },
+        {
+            "name": "Solanum lyratum Thunb.",
+            "id": "1691879",
+            "score": 0.00108
+        }
+    ]
+}

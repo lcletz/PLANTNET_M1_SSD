@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Jasminum officinale L.",
+            "id": "1359673",
+            "score": 0.52276
+        },
+        {
+            "name": "Jasminum polyanthum Franch.",
+            "id": "1383126",
+            "score": 0.32306
+        },
+        {
+            "name": "Jasminum grandiflorum L.",
+            "id": "1359672",
+            "score": 0.01807
+        },
+        {
+            "name": "Solanum laxum Spreng.",
+            "id": "1356173",
+            "score": 0.00384
+        },
+        {
+            "name": "Pandorea jasminoides (Lindl.) K.Schum.",
+            "id": "1408456",
+            "score": 0.00152
+        },
+        {
+            "name": "Jasminum azoricum L.",
+            "id": "1361865",
+            "score": 0.00149
+        },
+        {
+            "name": "Ipomoea horsfalliae Hook.",
+            "id": "1369431",
+            "score": 0.00126
+        }
+    ]
+}

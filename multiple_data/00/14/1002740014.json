@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Panicum capillare L.",
+            "id": "1361351",
+            "score": 0.93179
+        },
+        {
+            "name": "Eragrostis spectabilis (Pursh) Steud.",
+            "id": "1397782",
+            "score": 0.04113
+        },
+        {
+            "name": "Agrostis capillaris L.",
+            "id": "1361133",
+            "score": 0.0022
+        },
+        {
+            "name": "Panicum trichanthum Nees",
+            "id": "1403090",
+            "score": 0.00161
+        },
+        {
+            "name": "Eragrostis unioloides (Retz.) Nees ex Steud.",
+            "id": "1363565",
+            "score": 0.00136
+        },
+        {
+            "name": "Digitaria sanguinalis (L.) Scop.",
+            "id": "1363424",
+            "score": 0.00136
+        },
+        {
+            "name": "Aira caryophyllea L.",
+            "id": "1363452",
+            "score": 0.00126
+        }
+    ]
+}

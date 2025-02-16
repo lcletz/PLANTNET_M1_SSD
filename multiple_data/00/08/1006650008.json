@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Nigella damascena L.",
+            "id": "1360185",
+            "score": 0.86566
+        },
+        {
+            "name": "Nigella sativa L.",
+            "id": "1363976",
+            "score": 0.26996
+        },
+        {
+            "name": "Nigella arvensis L.",
+            "id": "1360184",
+            "score": 0.01387
+        },
+        {
+            "name": "Nigella hispanica L.",
+            "id": "1393957",
+            "score": 0.00655
+        },
+        {
+            "name": "Nigella orientalis L.",
+            "id": "1664380",
+            "score": 0.00256
+        },
+        {
+            "name": "Cosmos bipinnatus Cav.",
+            "id": "1364120",
+            "score": 0.00167
+        }
+    ]
+}

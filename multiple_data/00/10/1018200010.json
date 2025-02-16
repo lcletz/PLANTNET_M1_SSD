@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Juglans regia L.",
+            "id": "1358713",
+            "score": 0.7827
+        },
+        {
+            "name": "Juglans mandshurica Maxim.",
+            "id": "1419240",
+            "score": 0.11447
+        },
+        {
+            "name": "Juglans cinerea L.",
+            "id": "1412349",
+            "score": 0.03652
+        },
+        {
+            "name": "Juglans × intermedia Jacques",
+            "id": "1844333",
+            "score": 0.00982
+        },
+        {
+            "name": "Juglans nigra L.",
+            "id": "1393337",
+            "score": 0.00433
+        }
+    ]
+}

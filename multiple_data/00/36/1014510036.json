@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rhus typhina L.",
+            "id": "1395193",
+            "score": 0.64261
+        },
+        {
+            "name": "Rhus glabra L.",
+            "id": "1397601",
+            "score": 0.2269
+        },
+        {
+            "name": "Sorbaria sorbifolia (L.) A.Braun",
+            "id": "1396352",
+            "score": 0.06694
+        },
+        {
+            "name": "Rhus coriaria L.",
+            "id": "1356570",
+            "score": 0.00583
+        },
+        {
+            "name": "Ailanthus altissima (Mill.) Swingle",
+            "id": "1360547",
+            "score": 0.00423
+        },
+        {
+            "name": "Platycarya strobilacea Siebold & Zucc.",
+            "id": "1557967",
+            "score": 0.00224
+        },
+        {
+            "name": "Sorbaria kirilowii (Regel) Maxim.",
+            "id": "1396351",
+            "score": 0.00187
+        }
+    ]
+}

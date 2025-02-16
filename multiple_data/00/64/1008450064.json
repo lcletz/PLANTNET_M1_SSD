@@ -1,0 +1,95 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cornus mas L.",
+            "id": "1391354",
+            "score": 0.72711
+        },
+        {
+            "name": "Cornus florida L.",
+            "id": "1397618",
+            "score": 0.02111
+        },
+        {
+            "name": "Ruscus aculeatus L.",
+            "id": "1361710",
+            "score": 0.01978
+        },
+        {
+            "name": "Maianthemum bifolium (L.) F.W.Schmidt",
+            "id": "1393725",
+            "score": 0.01829
+        },
+        {
+            "name": "Frangula alnus Mill.",
+            "id": "1360257",
+            "score": 0.0126
+        },
+        {
+            "name": "Ruscus hypophyllum L.",
+            "id": "1361711",
+            "score": 0.00865
+        },
+        {
+            "name": "Lonicera xylosteum L.",
+            "id": "1393639",
+            "score": 0.00846
+        },
+        {
+            "name": "Cornus canadensis L.",
+            "id": "1411545",
+            "score": 0.00646
+        },
+        {
+            "name": "Cornus kousa Bürger ex Hance",
+            "id": "1720853",
+            "score": 0.0045
+        },
+        {
+            "name": "Streptopus amplexifolius (L.) DC.",
+            "id": "1396474",
+            "score": 0.00422
+        },
+        {
+            "name": "Rhamnus cathartica L.",
+            "id": "1360262",
+            "score": 0.0038
+        },
+        {
+            "name": "Cornus sericea L.",
+            "id": "1397902",
+            "score": 0.00341
+        },
+        {
+            "name": "Lonicera alpigena L.",
+            "id": "1393630",
+            "score": 0.00336
+        },
+        {
+            "name": "Cornus sanguinea L.",
+            "id": "1397356",
+            "score": 0.00259
+        },
+        {
+            "name": "Maianthemum canadense Desf.",
+            "id": "1412659",
+            "score": 0.00133
+        },
+        {
+            "name": "Cotoneaster multiflorus Bunge",
+            "id": "1391390",
+            "score": 0.00115
+        },
+        {
+            "name": "Arisaema triphyllum (L.) Schott",
+            "id": "1413262",
+            "score": 0.00108
+        },
+        {
+            "name": "Cornus alba L.",
+            "id": "1397617",
+            "score": 0.00102
+        }
+    ]
+}

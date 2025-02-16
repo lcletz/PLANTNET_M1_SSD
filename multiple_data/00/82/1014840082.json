@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Helianthus tuberosus L.",
+            "id": "1357617",
+            "score": 0.97139
+        },
+        {
+            "name": "Helianthus giganteus L.",
+            "id": "1389511",
+            "score": 0.00431
+        },
+        {
+            "name": "Helianthus annuus L.",
+            "id": "1364145",
+            "score": 0.00416
+        },
+        {
+            "name": "Helianthus × laetiflorus Pers.",
+            "id": "1509310",
+            "score": 0.00345
+        },
+        {
+            "name": "Helianthus hirsutus Raf.",
+            "id": "1412234",
+            "score": 0.0026
+        },
+        {
+            "name": "Helianthus pauciflorus Nutt.",
+            "id": "1392721",
+            "score": 0.00199
+        }
+    ]
+}

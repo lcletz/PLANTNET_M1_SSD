@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Geranium macrorrhizum L.",
+            "id": "1392585",
+            "score": 0.9353
+        },
+        {
+            "name": "Geranium sylvaticum L.",
+            "id": "1392599",
+            "score": 0.00343
+        },
+        {
+            "name": "Geranium dalmaticum (Beck) Rech.f.",
+            "id": "1550287",
+            "score": 0.00273
+        },
+        {
+            "name": "Geranium phaeum L.",
+            "id": "1392592",
+            "score": 0.00222
+        },
+        {
+            "name": "Geranium pratense L.",
+            "id": "1397394",
+            "score": 0.00132
+        }
+    ]
+}

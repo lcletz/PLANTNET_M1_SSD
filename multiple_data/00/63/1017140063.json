@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Elaeagnus angustifolia L.",
+            "id": "1358494",
+            "score": 0.89298
+        },
+        {
+            "name": "Elaeagnus commutata Bernh. ex Rydb.",
+            "id": "1411845",
+            "score": 0.00544
+        },
+        {
+            "name": "Elaeagnus umbellata Thunb.",
+            "id": "1391838",
+            "score": 0.00275
+        },
+        {
+            "name": "Pyrus salicifolia Pall.",
+            "id": "1395004",
+            "score": 0.00128
+        },
+        {
+            "name": "Buddleja sessiliflora Kunth",
+            "id": "1440320",
+            "score": 0.00107
+        }
+    ]
+}

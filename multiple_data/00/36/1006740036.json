@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lactuca perennis L.",
+            "id": "1397420",
+            "score": 0.91458
+        },
+        {
+            "name": "Lactuca tenerrima Pourr.",
+            "id": "1357682",
+            "score": 0.03654
+        },
+        {
+            "name": "Scorzonera purpurea L.",
+            "id": "1742025",
+            "score": 0.00673
+        },
+        {
+            "name": "Cicerbita plumieri (L.) Kirschl.",
+            "id": "1738967",
+            "score": 0.00303
+        },
+        {
+            "name": "Lactuca inermis Forssk.",
+            "id": "1374066",
+            "score": 0.00111
+        },
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.00039
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium montanum L.",
+            "id": "1359508",
+            "score": 0.94813
+        },
+        {
+            "name": "Trifolium ochroleucon Huds.",
+            "id": "1359510",
+            "score": 0.0063
+        },
+        {
+            "name": "Trifolium alexandrinum L.",
+            "id": "1363735",
+            "score": 0.00357
+        },
+        {
+            "name": "Trifolium spadiceum L.",
+            "id": "1396867",
+            "score": 0.00127
+        },
+        {
+            "name": "Trifolium repens L.",
+            "id": "1363740",
+            "score": 0.00116
+        },
+        {
+            "name": "Trifolium pannonicum Jacq.",
+            "id": "1359513",
+            "score": 0.00108
+        }
+    ]
+}

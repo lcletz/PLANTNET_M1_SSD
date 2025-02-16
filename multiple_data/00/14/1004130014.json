@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.89691
+        },
+        {
+            "name": "Acer macrophyllum Pursh",
+            "id": "1412158",
+            "score": 0.01126
+        },
+        {
+            "name": "Acer monspessulanum L.",
+            "id": "1356457",
+            "score": 0.00735
+        },
+        {
+            "name": "Acer opalus Mill.",
+            "id": "1362399",
+            "score": 0.00603
+        },
+        {
+            "name": "Acer pseudoplatanus L.",
+            "id": "1356460",
+            "score": 0.00434
+        },
+        {
+            "name": "Acer grandidentatum Nutt.",
+            "id": "1436412",
+            "score": 0.00423
+        },
+        {
+            "name": "Liquidambar orientalis Mill.",
+            "id": "1390587",
+            "score": 0.00238
+        },
+        {
+            "name": "Acer × bornmuelleri Borbás",
+            "id": "1685237",
+            "score": 0.00143
+        },
+        {
+            "name": "Acer platanoides L.",
+            "id": "1397301",
+            "score": 0.0013
+        },
+        {
+            "name": "Acer obtusifolium Sm.",
+            "id": "1425616",
+            "score": 0.0011
+        }
+    ]
+}

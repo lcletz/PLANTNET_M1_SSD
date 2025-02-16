@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Chaenomeles speciosa (Sweet) Nakai",
+            "id": "1391104",
+            "score": 0.51512
+        },
+        {
+            "name": "Chaenomeles japonica (Thunb.) Lindl. ex Spach",
+            "id": "1391103",
+            "score": 0.40642
+        },
+        {
+            "name": "Chaenomeles × superba (Frahm) Rehder",
+            "id": "1666806",
+            "score": 0.02872
+        },
+        {
+            "name": "Chaenomeles cathayensis (Hemsl.) C.K.Schneid.",
+            "id": "1666805",
+            "score": 0.00167
+        },
+        {
+            "name": "Prunus persica (L.) Batsch",
+            "id": "1363997",
+            "score": 0.00127
+        },
+        {
+            "name": "Malus × floribunda Siebold ex Van Houtte",
+            "id": "1782760",
+            "score": 0.00124
+        }
+    ]
+}

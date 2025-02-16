@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Carduus nutans L.",
+            "id": "1357350",
+            "score": 0.65991
+        },
+        {
+            "name": "Onopordum tauricum Willd.",
+            "id": "1394059",
+            "score": 0.42928
+        },
+        {
+            "name": "Carduus nigrescens Vill.",
+            "id": "1390740",
+            "score": 0.07119
+        },
+        {
+            "name": "Onopordum illyricum L.",
+            "id": "1394057",
+            "score": 0.0256
+        },
+        {
+            "name": "Silybum marianum (L.) Gaertn.",
+            "id": "1364100",
+            "score": 0.01565
+        },
+        {
+            "name": "Cynara humilis L.",
+            "id": "1357556",
+            "score": 0.00952
+        },
+        {
+            "name": "Onopordum acanthium L.",
+            "id": "1357723",
+            "score": 0.00755
+        },
+        {
+            "name": "Onopordum horridum Viv.",
+            "id": "1394056",
+            "score": 0.00511
+        },
+        {
+            "name": "Onopordum macracanthum Schousb.",
+            "id": "1357734",
+            "score": 0.00373
+        },
+        {
+            "name": "Carduus defloratus L.",
+            "id": "1397340",
+            "score": 0.00242
+        },
+        {
+            "name": "Centaurea uniflora Turra",
+            "id": "1362433",
+            "score": 0.00237
+        },
+        {
+            "name": "Onopordum palaestinum Eig",
+            "id": "1425309",
+            "score": 0.00139
+        },
+        {
+            "name": "Centaurea centauroides L.",
+            "id": "1502466",
+            "score": 0.00124
+        },
+        {
+            "name": "Jurinea mollis (L.) Rchb.",
+            "id": "1399639",
+            "score": 0.00101
+        },
+        {
+            "name": "Cynara syriaca Boiss.",
+            "id": "1424889",
+            "score": 0.00101
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Physalis philadelphica Lam.",
+            "id": "1356154",
+            "score": 0.84283
+        },
+        {
+            "name": "Physalis ixocarpa Brot. ex Hornem.",
+            "id": "1394531",
+            "score": 0.0454
+        },
+        {
+            "name": "Physalis angulata L.",
+            "id": "1356152",
+            "score": 0.02472
+        },
+        {
+            "name": "Physalis longifolia Nutt.",
+            "id": "1413067",
+            "score": 0.01127
+        },
+        {
+            "name": "Physalis peruviana L.",
+            "id": "1356153",
+            "score": 0.01063
+        },
+        {
+            "name": "Nicandra physalodes (L.) Gaertn.",
+            "id": "1356144",
+            "score": 0.00231
+        },
+        {
+            "name": "Physalis heterophylla Nees",
+            "id": "1413066",
+            "score": 0.00144
+        }
+    ]
+}

@@ -1,0 +1,260 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aegilops cylindrica Host",
+            "id": "1361912",
+            "score": 0.38923
+        },
+        {
+            "name": "Aegilops ventricosa Tausch",
+            "id": "1361125",
+            "score": 0.03667
+        },
+        {
+            "name": "Avena fatua L.",
+            "id": "1363468",
+            "score": 0.0224
+        },
+        {
+            "name": "Bromus diandrus Roth",
+            "id": "1414353",
+            "score": 0.02237
+        },
+        {
+            "name": "Elymus repens (L.) Gould",
+            "id": "1411890",
+            "score": 0.01789
+        },
+        {
+            "name": "Hordeum vulgare L.",
+            "id": "1363481",
+            "score": 0.01544
+        },
+        {
+            "name": "Aegilops tauschii Coss.",
+            "id": "1440498",
+            "score": 0.01513
+        },
+        {
+            "name": "Aegilops triuncialis L.",
+            "id": "1361124",
+            "score": 0.01354
+        },
+        {
+            "name": "Secale strictum (C.Presl) C.Presl",
+            "id": "1425569",
+            "score": 0.01147
+        },
+        {
+            "name": "Aegilops speltoides Tausch",
+            "id": "1400165",
+            "score": 0.01044
+        },
+        {
+            "name": "Leymus arenarius (L.) Hochst.",
+            "id": "1393522",
+            "score": 0.00945
+        },
+        {
+            "name": "Festuca myuros L.",
+            "id": "1720968",
+            "score": 0.00834
+        },
+        {
+            "name": "Lolium perenne L.",
+            "id": "1363475",
+            "score": 0.00791
+        },
+        {
+            "name": "Secale cereale L.",
+            "id": "1363451",
+            "score": 0.00636
+        },
+        {
+            "name": "Brachypodium distachyon (L.) P.Beauv.",
+            "id": "1388770",
+            "score": 0.00497
+        },
+        {
+            "name": "Dichanthium annulatum (Forssk.) Stapf",
+            "id": "1361241",
+            "score": 0.00481
+        },
+        {
+            "name": "Bromus hordeaceus L.",
+            "id": "1356286",
+            "score": 0.00455
+        },
+        {
+            "name": "Digitaria sanguinalis (L.) Scop.",
+            "id": "1363424",
+            "score": 0.0044
+        },
+        {
+            "name": "Brachypodium phoenicoides (L.) Roem. & Schult.",
+            "id": "1388794",
+            "score": 0.00396
+        },
+        {
+            "name": "Nassella neesiana (Trin. & Rupr.) Barkworth",
+            "id": "1363407",
+            "score": 0.00345
+        },
+        {
+            "name": "Brachypodium retusum (Pers.) P.Beauv.",
+            "id": "1388990",
+            "score": 0.00336
+        },
+        {
+            "name": "Triticum monococcum L.",
+            "id": "1363485",
+            "score": 0.00301
+        },
+        {
+            "name": "Hordeum bulbosum L.",
+            "id": "1361304",
+            "score": 0.00283
+        },
+        {
+            "name": "Bromus sterilis L.",
+            "id": "1414366",
+            "score": 0.0028
+        },
+        {
+            "name": "Triticum aestivum L.",
+            "id": "1363483",
+            "score": 0.00277
+        },
+        {
+            "name": "Lolium rigidum Gaudin",
+            "id": "1363476",
+            "score": 0.00259
+        },
+        {
+            "name": "Brachypodium sylvaticum (Huds.) P.Beauv.",
+            "id": "1389018",
+            "score": 0.00258
+        },
+        {
+            "name": "Chondrilla juncea L.",
+            "id": "1357492",
+            "score": 0.00237
+        },
+        {
+            "name": "Sehima nervosa (Rottler) Stapf",
+            "id": "1751373",
+            "score": 0.00229
+        },
+        {
+            "name": "Triticum turgidum L.",
+            "id": "1363487",
+            "score": 0.00209
+        },
+        {
+            "name": "Elymus glaucus Buckley",
+            "id": "1411884",
+            "score": 0.00208
+        },
+        {
+            "name": "Hordeum spontaneum K.Koch",
+            "id": "1425101",
+            "score": 0.00203
+        },
+        {
+            "name": "Hordeum murinum L.",
+            "id": "1361307",
+            "score": 0.00169
+        },
+        {
+            "name": "Hordeum secalinum Schreb.",
+            "id": "1361308",
+            "score": 0.0016
+        },
+        {
+            "name": "Elymus pungens (Pers.) Melderis",
+            "id": "1650353",
+            "score": 0.00156
+        },
+        {
+            "name": "Hordeum pusillum Nutt.",
+            "id": "1393202",
+            "score": 0.00142
+        },
+        {
+            "name": "Phalaris coerulescens Desf.",
+            "id": "1361357",
+            "score": 0.0014
+        },
+        {
+            "name": "Hordelymus europaeus (L.) Jess. ex Harz",
+            "id": "1651891",
+            "score": 0.00139
+        },
+        {
+            "name": "Hordeum marinum Huds.",
+            "id": "1361306",
+            "score": 0.00126
+        },
+        {
+            "name": "Achnatherum bromoides (L.) P.Beauv.",
+            "id": "1389817",
+            "score": 0.00125
+        },
+        {
+            "name": "Melica ciliata L.",
+            "id": "1361329",
+            "score": 0.00122
+        },
+        {
+            "name": "Lepturus repens (G.Forst.) R.Br.",
+            "id": "1408286",
+            "score": 0.00121
+        },
+        {
+            "name": "Elymus caninus (L.) L.",
+            "id": "1391851",
+            "score": 0.00119
+        },
+        {
+            "name": "Cynodon dactylon (L.) Pers.",
+            "id": "1363526",
+            "score": 0.00115
+        },
+        {
+            "name": "Andropogon distachyos L.",
+            "id": "1363502",
+            "score": 0.00113
+        },
+        {
+            "name": "Leymus triticoides (Buckley) Pilg.",
+            "id": "1412482",
+            "score": 0.00113
+        },
+        {
+            "name": "Thinopyrum intermedium (Host) Barkworth & D.R.Dewey",
+            "id": "1741590",
+            "score": 0.00112
+        },
+        {
+            "name": "Brachypodium pinnatum (L.) P.Beauv.",
+            "id": "1388809",
+            "score": 0.00111
+        },
+        {
+            "name": "Sisymbrium officinale (L.) Scop.",
+            "id": "1363897",
+            "score": 0.00109
+        },
+        {
+            "name": "Sporobolus maritimus (Curtis) P.M.Peterson & Saarela",
+            "id": "1738630",
+            "score": 0.00109
+        },
+        {
+            "name": "Thinopyrum junceum (L.) Á.Löve",
+            "id": "1722441",
+            "score": 0.00108
+        }
+    ]
+}

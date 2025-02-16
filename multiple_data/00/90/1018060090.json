@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Erica carnea L.",
+            "id": "1358505",
+            "score": 0.7965
+        },
+        {
+            "name": "Erica vagans L.",
+            "id": "1361800",
+            "score": 0.13279
+        },
+        {
+            "name": "Erica cinerea L.",
+            "id": "1358507",
+            "score": 0.03939
+        },
+        {
+            "name": "Erica arborea L.",
+            "id": "1358503",
+            "score": 0.00546
+        },
+        {
+            "name": "Empetrum nigrum L.",
+            "id": "1391868",
+            "score": 0.00365
+        },
+        {
+            "name": "Erica erigena R.Ross",
+            "id": "1392023",
+            "score": 0.00255
+        },
+        {
+            "name": "Erica multiflora L.",
+            "id": "1358509",
+            "score": 0.00214
+        },
+        {
+            "name": "Erica scoparia L.",
+            "id": "1358511",
+            "score": 0.00186
+        },
+        {
+            "name": "Erica × darleyensis Bean",
+            "id": "1844194",
+            "score": 0.00167
+        },
+        {
+            "name": "Daboecia cantabrica (Huds.) K.Koch",
+            "id": "1391550",
+            "score": 0.00109
+        }
+    ]
+}

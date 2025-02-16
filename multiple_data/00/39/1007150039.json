@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sciadopitys verticillata (Thunb.) Siebold & Zucc.",
+            "id": "1398358",
+            "score": 0.9598
+        },
+        {
+            "name": "Pinus bungeana Zucc. ex Endl.",
+            "id": "1390017",
+            "score": 0.00654
+        },
+        {
+            "name": "Pinus cembra L.",
+            "id": "1394605",
+            "score": 0.00347
+        },
+        {
+            "name": "Pinus halepensis Mill.",
+            "id": "1397460",
+            "score": 0.00128
+        }
+    ]
+}

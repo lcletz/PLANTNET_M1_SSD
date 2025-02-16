@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium stellatum L.",
+            "id": "1359525",
+            "score": 0.959
+        },
+        {
+            "name": "Trifolium leucanthum M.Bieb.",
+            "id": "1396854",
+            "score": 0.00385
+        },
+        {
+            "name": "Trifolium scabrum L.",
+            "id": "1359521",
+            "score": 0.00203
+        },
+        {
+            "name": "Trifolium arvense L.",
+            "id": "1359485",
+            "score": 0.0015
+        },
+        {
+            "name": "Sideritis romana L.",
+            "id": "1358925",
+            "score": 0.0014
+        },
+        {
+            "name": "Trifolium spumosum L.",
+            "id": "1359523",
+            "score": 0.00116
+        },
+        {
+            "name": "Juncus capitatus Weigel",
+            "id": "1363327",
+            "score": 0.00107
+        }
+    ]
+}

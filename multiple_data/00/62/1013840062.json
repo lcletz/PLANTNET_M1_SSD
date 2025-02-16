@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dipsacus fullonum L.",
+            "id": "1358454",
+            "score": 0.65842
+        },
+        {
+            "name": "Dipsacus laciniatus L.",
+            "id": "1391747",
+            "score": 0.18697
+        },
+        {
+            "name": "Dipsacus sativus (L.) Honck.",
+            "id": "1391749",
+            "score": 0.02924
+        },
+        {
+            "name": "Inula helenium L.",
+            "id": "1397412",
+            "score": 0.00175
+        },
+        {
+            "name": "Cirsium heterophyllum (L.) Hill",
+            "id": "1391209",
+            "score": 0.00152
+        },
+        {
+            "name": "Sonchus acaulis Dum.Cours.",
+            "id": "1399809",
+            "score": 0.00135
+        },
+        {
+            "name": "Salvia deserta Schangin",
+            "id": "1562547",
+            "score": 0.00125
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Acer saccharinum L.",
+            "id": "1391667",
+            "score": 0.85147
+        },
+        {
+            "name": "Acer japonicum Thunb.",
+            "id": "1390723",
+            "score": 0.05583
+        },
+        {
+            "name": "Acer × freemanii A.E.Murray",
+            "id": "1685267",
+            "score": 0.04915
+        },
+        {
+            "name": "Acer palmatum Thunb.",
+            "id": "1390731",
+            "score": 0.0115
+        },
+        {
+            "name": "Acer longipes Franch. ex Rehder",
+            "id": "1685288",
+            "score": 0.00407
+        }
+    ]
+}

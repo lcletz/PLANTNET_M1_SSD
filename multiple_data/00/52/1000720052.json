@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Acer tataricum L.",
+            "id": "1398270",
+            "score": 0.89573
+        },
+        {
+            "name": "Acer davidii Franch.",
+            "id": "1390684",
+            "score": 0.00507
+        },
+        {
+            "name": "Acer pseudoplatanus L.",
+            "id": "1356460",
+            "score": 0.0048
+        },
+        {
+            "name": "Acer rubrum L.",
+            "id": "1398406",
+            "score": 0.00298
+        },
+        {
+            "name": "Acer opalus Mill.",
+            "id": "1362399",
+            "score": 0.0023
+        },
+        {
+            "name": "Acer glabrum Torr.",
+            "id": "1412039",
+            "score": 0.00172
+        },
+        {
+            "name": "Corylus maxima Mill.",
+            "id": "1391369",
+            "score": 0.00141
+        }
+    ]
+}

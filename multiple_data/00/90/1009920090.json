@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rhodiola rosea L.",
+            "id": "1395174",
+            "score": 0.95523
+        },
+        {
+            "name": "Rhodiola integrifolia Raf.",
+            "id": "1413457",
+            "score": 0.00182
+        },
+        {
+            "name": "Rhodiola ishidae (Miyabe & Kudô) H.Hara",
+            "id": "1763998",
+            "score": 0.00128
+        },
+        {
+            "name": "Euphorbia pilosa L.",
+            "id": "1545825",
+            "score": 0.00069
+        },
+        {
+            "name": "Euphorbia epithymoides L.",
+            "id": "1358550",
+            "score": 0.00056
+        }
+    ]
+}

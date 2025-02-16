@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Helleborus foetidus L.",
+            "id": "1360182",
+            "score": 0.86012
+        },
+        {
+            "name": "Helleborus viridis L.",
+            "id": "1397399",
+            "score": 0.06615
+        },
+        {
+            "name": "Cicuta virosa L.",
+            "id": "1391163",
+            "score": 0.00631
+        },
+        {
+            "name": "Helleborus multifidus Vis.",
+            "id": "1388995",
+            "score": 0.0057
+        },
+        {
+            "name": "Astrantia minor L.",
+            "id": "1398471",
+            "score": 0.00107
+        }
+    ]
+}

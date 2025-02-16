@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Persicaria orientalis (L.) Spach",
+            "id": "1360114",
+            "score": 0.73981
+        },
+        {
+            "name": "Bistorta amplexicaulis (D.Don) Greene",
+            "id": "1398461",
+            "score": 0.12411
+        },
+        {
+            "name": "Persicaria maculosa Gray",
+            "id": "1356094",
+            "score": 0.00327
+        },
+        {
+            "name": "Bistorta officinalis Delarbre",
+            "id": "1400175",
+            "score": 0.00264
+        },
+        {
+            "name": "Persicaria lapathifolia (L.) Delarbre",
+            "id": "1356091",
+            "score": 0.00121
+        },
+        {
+            "name": "Fagopyrum esculentum Moench",
+            "id": "1356095",
+            "score": 0.00104
+        }
+    ]
+}

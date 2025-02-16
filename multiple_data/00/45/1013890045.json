@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ficus carica L.",
+            "id": "1363142",
+            "score": 0.9079
+        },
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.00601
+        },
+        {
+            "name": "Broussonetia papyrifera (L.) L'Hér. ex Vent.",
+            "id": "1362912",
+            "score": 0.00559
+        },
+        {
+            "name": "Ficus palmata Forssk.",
+            "id": "1363141",
+            "score": 0.00514
+        },
+        {
+            "name": "Ficus johannis Boiss.",
+            "id": "1601982",
+            "score": 0.00199
+        },
+        {
+            "name": "Ficus exasperata Vahl",
+            "id": "1384054",
+            "score": 0.00158
+        }
+    ]
+}

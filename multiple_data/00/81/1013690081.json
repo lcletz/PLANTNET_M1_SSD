@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Spiraea trilobata L.",
+            "id": "1398562",
+            "score": 0.77964
+        },
+        {
+            "name": "Spiraea chamaedryfolia L.",
+            "id": "1396398",
+            "score": 0.08444
+        },
+        {
+            "name": "Spiraea × vanhouttei (Briot) Carrière",
+            "id": "1844864",
+            "score": 0.05255
+        },
+        {
+            "name": "Spiraea alba Du Roi",
+            "id": "1396390",
+            "score": 0.00752
+        },
+        {
+            "name": "Spiraea betulifolia Pall.",
+            "id": "1420478",
+            "score": 0.00614
+        },
+        {
+            "name": "Spiraea nipponica Maxim.",
+            "id": "1398563",
+            "score": 0.00342
+        },
+        {
+            "name": "Spiraea cantoniensis Lour.",
+            "id": "1396397",
+            "score": 0.00103
+        }
+    ]
+}

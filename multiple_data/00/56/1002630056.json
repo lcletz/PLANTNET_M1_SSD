@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ononis spinosa L.",
+            "id": "1359431",
+            "score": 0.60187
+        },
+        {
+            "name": "Ononis reclinata L.",
+            "id": "1363708",
+            "score": 0.322
+        },
+        {
+            "name": "Ononis cristata Mill.",
+            "id": "1359392",
+            "score": 0.0142
+        },
+        {
+            "name": "Ononis rotundifolia L.",
+            "id": "1394049",
+            "score": 0.00552
+        },
+        {
+            "name": "Ononis pusilla L.",
+            "id": "1359423",
+            "score": 0.00292
+        },
+        {
+            "name": "Vicia hybrida L.",
+            "id": "1359562",
+            "score": 0.00162
+        },
+        {
+            "name": "Ononis arvensis L.",
+            "id": "1394046",
+            "score": 0.00155
+        }
+    ]
+}

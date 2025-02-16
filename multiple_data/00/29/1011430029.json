@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Corylus avellana L.",
+            "id": "1391368",
+            "score": 0.9252
+        },
+        {
+            "name": "Corylus colurna L.",
+            "id": "1397579",
+            "score": 0.02769
+        },
+        {
+            "name": "Corylus heterophylla Fisch. ex Trautv.",
+            "id": "1417987",
+            "score": 0.01048
+        },
+        {
+            "name": "Corylus cornuta Marshall",
+            "id": "1411559",
+            "score": 0.00587
+        },
+        {
+            "name": "Corylus americana Walter",
+            "id": "1411558",
+            "score": 0.00426
+        },
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.00218
+        },
+        {
+            "name": "Corylus maxima Mill.",
+            "id": "1391369",
+            "score": 0.0014
+        },
+        {
+            "name": "Corylus chinensis Franch.",
+            "id": "1390624",
+            "score": 0.00124
+        }
+    ]
+}

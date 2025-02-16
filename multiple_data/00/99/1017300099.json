@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lilium martagon L.",
+            "id": "1393534",
+            "score": 0.9282
+        },
+        {
+            "name": "Medeola virginiana L.",
+            "id": "1412678",
+            "score": 0.00469
+        },
+        {
+            "name": "Paris quadrifolia L.",
+            "id": "1394419",
+            "score": 0.00323
+        },
+        {
+            "name": "Lilium lancifolium Thunb.",
+            "id": "1393528",
+            "score": 0.00273
+        },
+        {
+            "name": "Cornus canadensis L.",
+            "id": "1411545",
+            "score": 0.00221
+        },
+        {
+            "name": "Lilium michauxii Poir.",
+            "id": "1433914",
+            "score": 0.00194
+        }
+    ]
+}

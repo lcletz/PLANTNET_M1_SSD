@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stachys byzantina K.Koch",
+            "id": "1396424",
+            "score": 0.83831
+        },
+        {
+            "name": "Stachys germanica L.",
+            "id": "1358939",
+            "score": 0.07338
+        },
+        {
+            "name": "Sideritis syriaca L.",
+            "id": "1399412",
+            "score": 0.02497
+        },
+        {
+            "name": "Hieracium mixtum Lapeyr. ex Froel.",
+            "id": "1511012",
+            "score": 0.00436
+        },
+        {
+            "name": "Hieracium tomentosum L.",
+            "id": "1393160",
+            "score": 0.00204
+        },
+        {
+            "name": "Salvia argentea L.",
+            "id": "1358860",
+            "score": 0.00178
+        },
+        {
+            "name": "Sideritis scardica Griseb.",
+            "id": "1563801",
+            "score": 0.00138
+        }
+    ]
+}

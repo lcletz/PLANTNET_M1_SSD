@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Saponaria officinalis L.",
+            "id": "1356803",
+            "score": 0.9392
+        },
+        {
+            "name": "Zinnia elegans Jacq.",
+            "id": "1374114",
+            "score": 0.00394
+        },
+        {
+            "name": "Zinnia peruviana (L.) L.",
+            "id": "1374113",
+            "score": 0.00346
+        },
+        {
+            "name": "Dianthus barbatus L.",
+            "id": "1397367",
+            "score": 0.00309
+        },
+        {
+            "name": "Silene chalcedonica (L.) E.H.L.Krause",
+            "id": "1418409",
+            "score": 0.00235
+        },
+        {
+            "name": "Gentiana cruciata L.",
+            "id": "1397392",
+            "score": 0.0016
+        },
+        {
+            "name": "Antirrhinum majus L.",
+            "id": "1359845",
+            "score": 0.00116
+        },
+        {
+            "name": "Veronica anagallis-aquatica L.",
+            "id": "1364062",
+            "score": 0.00115
+        }
+    ]
+}

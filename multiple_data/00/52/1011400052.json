@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Nuphar lutea (L.) Sm.",
+            "id": "1359668",
+            "score": 0.8723
+        },
+        {
+            "name": "Nuphar pumila (Timm) DC.",
+            "id": "1393977",
+            "score": 0.01158
+        },
+        {
+            "name": "Nuphar × spenneriana Gaudin",
+            "id": "1608418",
+            "score": 0.01026
+        },
+        {
+            "name": "Nuphar microphylla (Pers.) Fernald",
+            "id": "1608413",
+            "score": 0.00525
+        },
+        {
+            "name": "Limnocharis flava (L.) Buchenau",
+            "id": "1410873",
+            "score": 0.00141
+        },
+        {
+            "name": "Nymphoides peltata (S.G.Gmel.) Kuntze",
+            "id": "1393981",
+            "score": 0.00129
+        }
+    ]
+}

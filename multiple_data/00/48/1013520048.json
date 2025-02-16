@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Celtis australis L.",
+            "id": "1361742",
+            "score": 0.81413
+        },
+        {
+            "name": "Celtis occidentalis L.",
+            "id": "1397796",
+            "score": 0.10694
+        },
+        {
+            "name": "Celtis sinensis Pers.",
+            "id": "1418377",
+            "score": 0.01141
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.00377
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.00312
+        },
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.00299
+        },
+        {
+            "name": "Celtis tournefortii Lam.",
+            "id": "1490869",
+            "score": 0.00171
+        },
+        {
+            "name": "Celtis laevigata Willd.",
+            "id": "1418375",
+            "score": 0.00169
+        }
+    ]
+}

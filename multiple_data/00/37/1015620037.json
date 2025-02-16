@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Magnolia grandiflora L.",
+            "id": "1393723",
+            "score": 0.84337
+        },
+        {
+            "name": "Magnolia virginiana L.",
+            "id": "1389430",
+            "score": 0.10212
+        },
+        {
+            "name": "Magnolia macrophylla Michx.",
+            "id": "1419377",
+            "score": 0.00327
+        },
+        {
+            "name": "Annona muricata L.",
+            "id": "1386673",
+            "score": 0.0015
+        },
+        {
+            "name": "Annona cherimola Mill.",
+            "id": "1390486",
+            "score": 0.00109
+        }
+    ]
+}

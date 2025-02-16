@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tilia platyphyllos Scop.",
+            "id": "1396802",
+            "score": 0.52264
+        },
+        {
+            "name": "Tilia americana L.",
+            "id": "1397800",
+            "score": 0.33064
+        },
+        {
+            "name": "Tilia cordata Mill.",
+            "id": "1396797",
+            "score": 0.03402
+        },
+        {
+            "name": "Tilia dasystyla Steven",
+            "id": "1595796",
+            "score": 0.0259
+        },
+        {
+            "name": "Tilia × europaea L.",
+            "id": "1595800",
+            "score": 0.00549
+        },
+        {
+            "name": "Tilia tomentosa Moench",
+            "id": "1396803",
+            "score": 0.00368
+        },
+        {
+            "name": "Salvia glutinosa L.",
+            "id": "1395911",
+            "score": 0.00127
+        },
+        {
+            "name": "Rubus macrophyllus Weihe & Nees",
+            "id": "1395538",
+            "score": 0.00125
+        },
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.00119
+        },
+        {
+            "name": "Hydrangea arborescens L.",
+            "id": "1393222",
+            "score": 0.00118
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Euphorbia maculata L.",
+            "id": "1358564",
+            "score": 0.46329
+        },
+        {
+            "name": "Euphorbia prostrata Aiton",
+            "id": "1355984",
+            "score": 0.39735
+        },
+        {
+            "name": "Euphorbia serpens Kunth",
+            "id": "1355970",
+            "score": 0.02069
+        },
+        {
+            "name": "Euphorbia chamaesyce L.",
+            "id": "1355987",
+            "score": 0.01873
+        },
+        {
+            "name": "Thymus pulegioides L.",
+            "id": "1396792",
+            "score": 0.0021
+        },
+        {
+            "name": "Polycarpon tetraphyllum (L.) L.",
+            "id": "1356939",
+            "score": 0.00167
+        },
+        {
+            "name": "Polygonum aviculare L.",
+            "id": "1356084",
+            "score": 0.00115
+        },
+        {
+            "name": "Illecebrum verticillatum L.",
+            "id": "1356883",
+            "score": 0.00103
+        }
+    ]
+}

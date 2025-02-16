@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pistacia lentiscus L.",
+            "id": "1356290",
+            "score": 0.84256
+        },
+        {
+            "name": "Schinus terebinthifolia Raddi",
+            "id": "1396078",
+            "score": 0.03009
+        },
+        {
+            "name": "Pistacia atlantica Desf.",
+            "id": "1356565",
+            "score": 0.01306
+        },
+        {
+            "name": "Pistacia terebinthus L.",
+            "id": "1356567",
+            "score": 0.00608
+        },
+        {
+            "name": "Pistacia × saportae Burnat",
+            "id": "1743668",
+            "score": 0.00532
+        },
+        {
+            "name": "Syzygium pondoense Engl.",
+            "id": "1422604",
+            "score": 0.00233
+        },
+        {
+            "name": "Schinus molle L.",
+            "id": "1363642",
+            "score": 0.00143
+        },
+        {
+            "name": "Rhus copallinum L.",
+            "id": "1413464",
+            "score": 0.00133
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Epilobium hirsutum L.",
+            "id": "1361947",
+            "score": 0.87581
+        },
+        {
+            "name": "Epilobium parviflorum Schreb.",
+            "id": "1359686",
+            "score": 0.02294
+        },
+        {
+            "name": "Agrostemma githago L.",
+            "id": "1356672",
+            "score": 0.0015
+        },
+        {
+            "name": "Epilobium montanum L.",
+            "id": "1391922",
+            "score": 0.00143
+        },
+        {
+            "name": "Epilobium ciliatum Raf.",
+            "id": "1391890",
+            "score": 0.00136
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phoenix canariensis Chabaud",
+            "id": "1363260",
+            "score": 0.46133
+        },
+        {
+            "name": "Phoenix dactylifera L.",
+            "id": "1363261",
+            "score": 0.04119
+        },
+        {
+            "name": "Cycas revoluta Thunb.",
+            "id": "1388904",
+            "score": 0.00425
+        },
+        {
+            "name": "Cocos nucifera L.",
+            "id": "1385873",
+            "score": 0.00269
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Solanum dulcamara L.",
+            "id": "1360566",
+            "score": 0.93122
+        },
+        {
+            "name": "Solanum villosum Mill.",
+            "id": "1361993",
+            "score": 0.00453
+        },
+        {
+            "name": "Solanum seaforthianum Andrews",
+            "id": "1379566",
+            "score": 0.00428
+        },
+        {
+            "name": "Solanum americanum Mill.",
+            "id": "1360564",
+            "score": 0.00283
+        },
+        {
+            "name": "Solanum chenopodioides Lam.",
+            "id": "1356162",
+            "score": 0.00134
+        },
+        {
+            "name": "Solanum nigrum L.",
+            "id": "1356167",
+            "score": 0.00122
+        },
+        {
+            "name": "Solanum bonariense L.",
+            "id": "1360565",
+            "score": 0.00107
+        },
+        {
+            "name": "Capsicum annuum L.",
+            "id": "1361992",
+            "score": 0.00107
+        }
+    ]
+}

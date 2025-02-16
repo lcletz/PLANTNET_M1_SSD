@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fagopyrum esculentum Moench",
+            "id": "1356095",
+            "score": 0.8895
+        },
+        {
+            "name": "Fagopyrum tataricum (L.) Gaertn.",
+            "id": "1392244",
+            "score": 0.01524
+        },
+        {
+            "name": "Calepina irregularis (Asso) Thell.",
+            "id": "1358204",
+            "score": 0.0018
+        },
+        {
+            "name": "Berteroa incana (L.) DC.",
+            "id": "1397327",
+            "score": 0.00148
+        },
+        {
+            "name": "Myosotis stricta Link ex Roem. & Schult.",
+            "id": "1393901",
+            "score": 0.00118
+        },
+        {
+            "name": "Chaerophyllum temulum L.",
+            "id": "1360671",
+            "score": 0.00114
+        },
+        {
+            "name": "Valeriana tripteris L.",
+            "id": "1396984",
+            "score": 0.00105
+        },
+        {
+            "name": "Myosotis scorpioides L.",
+            "id": "1393897",
+            "score": 0.00102
+        }
+    ]
+}

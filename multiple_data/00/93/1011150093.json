@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Digitalis grandiflora Mill.",
+            "id": "1391727",
+            "score": 0.87913
+        },
+        {
+            "name": "Digitalis lutea L.",
+            "id": "1362533",
+            "score": 0.04616
+        },
+        {
+            "name": "Digitalis obscura L.",
+            "id": "1362291",
+            "score": 0.00851
+        },
+        {
+            "name": "Digitalis × media Roth",
+            "id": "1742631",
+            "score": 0.00291
+        },
+        {
+            "name": "Digitalis ciliata Trautv.",
+            "id": "1646079",
+            "score": 0.0023
+        },
+        {
+            "name": "Digitalis ferruginea L.",
+            "id": "1373275",
+            "score": 0.00182
+        },
+        {
+            "name": "Digitalis lanata Ehrh.",
+            "id": "1397916",
+            "score": 0.00134
+        },
+        {
+            "name": "Digitalis purpurea L.",
+            "id": "1364079",
+            "score": 0.00132
+        }
+    ]
+}

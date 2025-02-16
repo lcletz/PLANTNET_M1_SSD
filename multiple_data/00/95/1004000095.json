@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Medicago lupulina L.",
+            "id": "1363730",
+            "score": 0.79972
+        },
+        {
+            "name": "Trifolium dubium Sibth.",
+            "id": "1363737",
+            "score": 0.04399
+        },
+        {
+            "name": "Trifolium campestre Schreb.",
+            "id": "1359488",
+            "score": 0.02609
+        },
+        {
+            "name": "Trifolium aureum Pollich",
+            "id": "1359486",
+            "score": 0.02437
+        },
+        {
+            "name": "Lotus ornithopodioides L.",
+            "id": "1359320",
+            "score": 0.00606
+        },
+        {
+            "name": "Melilotus indicus (L.) All.",
+            "id": "1363749",
+            "score": 0.00323
+        },
+        {
+            "name": "Trifolium badium Schreb.",
+            "id": "1397551",
+            "score": 0.00185
+        },
+        {
+            "name": "Medicago polymorpha L.",
+            "id": "1363731",
+            "score": 0.00166
+        },
+        {
+            "name": "Lotus rectus L.",
+            "id": "1743242",
+            "score": 0.00153
+        },
+        {
+            "name": "Trifolium patens Schreb.",
+            "id": "1359514",
+            "score": 0.00118
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Artemisia absinthium L.",
+            "id": "1357268",
+            "score": 0.93597
+        },
+        {
+            "name": "Artemisia arborescens L.",
+            "id": "1396742",
+            "score": 0.01192
+        },
+        {
+            "name": "Artemisia armeniaca Lam.",
+            "id": "1396744",
+            "score": 0.00139
+        },
+        {
+            "name": "Artemisia thuscula Cav.",
+            "id": "1357290",
+            "score": 0.00124
+        },
+        {
+            "name": "Eschscholzia californica Cham.",
+            "id": "1363125",
+            "score": 0.00112
+        },
+        {
+            "name": "Artemisia verlotiorum Lamotte",
+            "id": "1357291",
+            "score": 0.0011
+        },
+        {
+            "name": "Artemisia vallesiaca All.",
+            "id": "1396899",
+            "score": 0.00109
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Berberis aquifolium Pursh",
+            "id": "1400122",
+            "score": 0.12166
+        },
+        {
+            "name": "Berberis vulgaris L.",
+            "id": "1356603",
+            "score": 0.02796
+        },
+        {
+            "name": "Laburnum alpinum (Mill.) Bercht. & J.Presl",
+            "id": "1393412",
+            "score": 0.00574
+        },
+        {
+            "name": "Cytisus balansae (Boiss.) Ball",
+            "id": "1359177",
+            "score": 0.00432
+        },
+        {
+            "name": "Epimedium alpinum L.",
+            "id": "1391952",
+            "score": 0.00116
+        }
+    ]
+}

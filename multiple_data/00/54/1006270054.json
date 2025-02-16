@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Berberis thunbergii DC.",
+            "id": "1400119",
+            "score": 0.89631
+        },
+        {
+            "name": "Berberis vulgaris L.",
+            "id": "1356603",
+            "score": 0.07174
+        },
+        {
+            "name": "Berberis amurensis Rupr.",
+            "id": "1475451",
+            "score": 0.00163
+        },
+        {
+            "name": "Berberis wilsoniae Hemsl.",
+            "id": "1400120",
+            "score": 0.00125
+        },
+        {
+            "name": "Berberis aetnensis C.Presl",
+            "id": "1400121",
+            "score": 0.00121
+        }
+    ]
+}

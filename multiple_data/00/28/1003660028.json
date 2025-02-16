@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Veronica prostrata L.",
+            "id": "1397067",
+            "score": 0.90544
+        },
+        {
+            "name": "Veronica austriaca L.",
+            "id": "1362391",
+            "score": 0.04971
+        },
+        {
+            "name": "Veronica teucrium L.",
+            "id": "1397074",
+            "score": 0.00492
+        },
+        {
+            "name": "Veronica officinalis L.",
+            "id": "1364068",
+            "score": 0.00268
+        },
+        {
+            "name": "Veronica orsiniana Ten.",
+            "id": "1397061",
+            "score": 0.00108
+        }
+    ]
+}

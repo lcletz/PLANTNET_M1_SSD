@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Volutaria muricata (L.) Maire",
+            "id": "1355953",
+            "score": 0.92756
+        },
+        {
+            "name": "Galactites tomentosus Moench",
+            "id": "1357598",
+            "score": 0.01346
+        },
+        {
+            "name": "Centaurea napifolia L.",
+            "id": "1357437",
+            "score": 0.00249
+        },
+        {
+            "name": "Centaurea stoebe L.",
+            "id": "1391044",
+            "score": 0.00229
+        },
+        {
+            "name": "Centaurea triumfettii All.",
+            "id": "1426115",
+            "score": 0.00144
+        }
+    ]
+}

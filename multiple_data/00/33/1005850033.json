@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Ornithogalum nutans L.",
+            "id": "1412867",
+            "score": 0.93333
+        },
+        {
+            "name": "Ornithogalum divergens Boreau",
+            "id": "1394319",
+            "score": 0.00601
+        },
+        {
+            "name": "Ornithogalum umbellatum L.",
+            "id": "1362350",
+            "score": 0.00423
+        },
+        {
+            "name": "Ornithogalum narbonense L.",
+            "id": "1361514",
+            "score": 0.00372
+        }
+    ]
+}

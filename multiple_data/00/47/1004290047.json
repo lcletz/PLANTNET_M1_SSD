@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.92052
+        },
+        {
+            "name": "Alopecurus pratensis L.",
+            "id": "1362406",
+            "score": 0.01661
+        },
+        {
+            "name": "Phleum phleoides (L.) H.Karst.",
+            "id": "1394523",
+            "score": 0.01536
+        },
+        {
+            "name": "Phleum bertolonii DC.",
+            "id": "1653859",
+            "score": 0.00855
+        },
+        {
+            "name": "Phalaris aquatica L.",
+            "id": "1363489",
+            "score": 0.00373
+        },
+        {
+            "name": "Phalaris coerulescens Desf.",
+            "id": "1361357",
+            "score": 0.00164
+        },
+        {
+            "name": "Phleum alpinum L.",
+            "id": "1362482",
+            "score": 0.00142
+        }
+    ]
+}

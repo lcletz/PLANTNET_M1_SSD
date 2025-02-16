@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia peplus L.",
+            "id": "1355969",
+            "score": 0.9512
+        },
+        {
+            "name": "Euphorbia helioscopia L.",
+            "id": "1355964",
+            "score": 0.01084
+        },
+        {
+            "name": "Euphorbia stricta L.",
+            "id": "1392190",
+            "score": 0.00466
+        },
+        {
+            "name": "Euphorbia platyphyllos L.",
+            "id": "1355986",
+            "score": 0.00261
+        },
+        {
+            "name": "Euphorbia pterococca Brot.",
+            "id": "1358584",
+            "score": 0.00134
+        },
+        {
+            "name": "Euphorbia segetalis L.",
+            "id": "1358590",
+            "score": 0.0013
+        },
+        {
+            "name": "Euphorbia terracina L.",
+            "id": "1358595",
+            "score": 0.00123
+        }
+    ]
+}

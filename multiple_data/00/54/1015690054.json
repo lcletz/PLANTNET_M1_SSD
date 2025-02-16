@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Brassica oleracea L.",
+            "id": "1363909",
+            "score": 0.42904
+        },
+        {
+            "name": "Crambe maritima L.",
+            "id": "1391425",
+            "score": 0.2666
+        },
+        {
+            "name": "Brassica rupestris Raf.",
+            "id": "1398959",
+            "score": 0.08837
+        },
+        {
+            "name": "Brassica cretica Lam.",
+            "id": "1362418",
+            "score": 0.00915
+        },
+        {
+            "name": "Brassica rapa L.",
+            "id": "1363906",
+            "score": 0.0079
+        },
+        {
+            "name": "Brassica juncea (L.) Czern.",
+            "id": "1363904",
+            "score": 0.00737
+        },
+        {
+            "name": "Brassica montana Pourr.",
+            "id": "1389320",
+            "score": 0.00585
+        },
+        {
+            "name": "Lactuca sativa L.",
+            "id": "1364172",
+            "score": 0.00429
+        },
+        {
+            "name": "Reichardia ligulata (Vent.) G.Kunkel & Sunding",
+            "id": "1399824",
+            "score": 0.00334
+        },
+        {
+            "name": "Papaver somniferum L.",
+            "id": "1363130",
+            "score": 0.00329
+        },
+        {
+            "name": "Brassica carinata A.Braun",
+            "id": "1418056",
+            "score": 0.0031
+        },
+        {
+            "name": "Euphorbia veneris M.L.S.Khan",
+            "id": "1546246",
+            "score": 0.0023
+        },
+        {
+            "name": "Larrea nitida Cav.",
+            "id": "1701361",
+            "score": 0.00207
+        },
+        {
+            "name": "Brassica napus L.",
+            "id": "1363908",
+            "score": 0.0018
+        },
+        {
+            "name": "Rumex confertus Willd.",
+            "id": "1398843",
+            "score": 0.00108
+        }
+    ]
+}

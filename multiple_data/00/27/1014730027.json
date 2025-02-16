@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Zea mays L.",
+            "id": "1363500",
+            "score": 0.90763
+        },
+        {
+            "name": "Sorghum bicolor (L.) Moench",
+            "id": "1356240",
+            "score": 0.0045
+        },
+        {
+            "name": "Sorghum halepense (L.) Pers.",
+            "id": "1363508",
+            "score": 0.00288
+        },
+        {
+            "name": "Panicum miliaceum L.",
+            "id": "1363446",
+            "score": 0.00281
+        },
+        {
+            "name": "Hordeum vulgare L.",
+            "id": "1363481",
+            "score": 0.0025
+        },
+        {
+            "name": "Saccharum officinarum L.",
+            "id": "1363506",
+            "score": 0.00205
+        },
+        {
+            "name": "Avena sativa L.",
+            "id": "1363469",
+            "score": 0.00161
+        },
+        {
+            "name": "Cenchrus americanus (L.) Morrone",
+            "id": "1389964",
+            "score": 0.00142
+        },
+        {
+            "name": "Coix lacryma-jobi L.",
+            "id": "1363505",
+            "score": 0.00113
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia lathyris L.",
+            "id": "1355968",
+            "score": 0.91855
+        },
+        {
+            "name": "Asclepias tuberosa L.",
+            "id": "1413838",
+            "score": 0.00237
+        },
+        {
+            "name": "Euphorbia isatidifolia Lam.",
+            "id": "1389387",
+            "score": 0.00227
+        },
+        {
+            "name": "Elaeodendron orientale Jacq.",
+            "id": "1370180",
+            "score": 0.00121
+        },
+        {
+            "name": "Euphorbia palustris L.",
+            "id": "1392178",
+            "score": 0.00112
+        }
+    ]
+}

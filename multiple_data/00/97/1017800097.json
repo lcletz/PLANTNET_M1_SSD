@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iris pseudacorus L.",
+            "id": "1361543",
+            "score": 0.85392
+        },
+        {
+            "name": "Iris variegata L.",
+            "id": "1397946",
+            "score": 0.02525
+        },
+        {
+            "name": "Iris juncea Poir.",
+            "id": "1397727",
+            "score": 0.00985
+        },
+        {
+            "name": "Iris orientalis Mill.",
+            "id": "1388948",
+            "score": 0.00541
+        },
+        {
+            "name": "Iris pumila L.",
+            "id": "1398617",
+            "score": 0.00199
+        },
+        {
+            "name": "Iris foetidissima L.",
+            "id": "1361540",
+            "score": 0.00166
+        },
+        {
+            "name": "Iris reichenbachii Heuff.",
+            "id": "1556876",
+            "score": 0.00155
+        },
+        {
+            "name": "Iris ensata Thunb.",
+            "id": "1393295",
+            "score": 0.00102
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iris orientalis Mill.",
+            "id": "1388948",
+            "score": 0.80657
+        },
+        {
+            "name": "Iris spuria L.",
+            "id": "1361544",
+            "score": 0.03274
+        },
+        {
+            "name": "Iris xiphium L.",
+            "id": "1361548",
+            "score": 0.01405
+        },
+        {
+            "name": "Iris florentina L.",
+            "id": "1722421",
+            "score": 0.00117
+        },
+        {
+            "name": "Iris halophila Pall.",
+            "id": "1556757",
+            "score": 0.00111
+        },
+        {
+            "name": "Iris ensata Thunb.",
+            "id": "1393295",
+            "score": 0.0011
+        }
+    ]
+}

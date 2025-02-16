@@ -1,0 +1,410 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Olea europaea L.",
+            "id": "1359676",
+            "score": 0.21913
+        },
+        {
+            "name": "Hyssopus officinalis L.",
+            "id": "1358747",
+            "score": 0.02159
+        },
+        {
+            "name": "Andromeda polifolia L.",
+            "id": "1394064",
+            "score": 0.0204
+        },
+        {
+            "name": "Teucrium montanum L.",
+            "id": "1359006",
+            "score": 0.02022
+        },
+        {
+            "name": "Metrosideros excelsa Sol. ex Gaertn.",
+            "id": "1389375",
+            "score": 0.01538
+        },
+        {
+            "name": "Moltkia petraea (Tratt.) Griseb.",
+            "id": "1418034",
+            "score": 0.01387
+        },
+        {
+            "name": "Rubia tinctorum L.",
+            "id": "1360434",
+            "score": 0.01326
+        },
+        {
+            "name": "Chamaedaphne calyculata (L.) Moench",
+            "id": "1411411",
+            "score": 0.01275
+        },
+        {
+            "name": "Myrtus communis L.",
+            "id": "1359662",
+            "score": 0.01273
+        },
+        {
+            "name": "Kalmia angustifolia L.",
+            "id": "1398516",
+            "score": 0.01225
+        },
+        {
+            "name": "Vicia lens (L.) Coss. & Germ.",
+            "id": "1741669",
+            "score": 0.00879
+        },
+        {
+            "name": "Genista tinctoria L.",
+            "id": "1392527",
+            "score": 0.00838
+        },
+        {
+            "name": "Arenaria montana L.",
+            "id": "1356804",
+            "score": 0.00691
+        },
+        {
+            "name": "Lavandula latifolia Medik.",
+            "id": "1393466",
+            "score": 0.00689
+        },
+        {
+            "name": "Cneorum tricoccon L.",
+            "id": "1362990",
+            "score": 0.00654
+        },
+        {
+            "name": "Xeranthemum cylindraceum Sm.",
+            "id": "1362697",
+            "score": 0.00637
+        },
+        {
+            "name": "Grevillea olivacea A.S.George",
+            "id": "1662150",
+            "score": 0.00632
+        },
+        {
+            "name": "Lavandula angustifolia Mill.",
+            "id": "1361824",
+            "score": 0.00511
+        },
+        {
+            "name": "Teucrium fruticans L.",
+            "id": "1358986",
+            "score": 0.00491
+        },
+        {
+            "name": "Vaccinium macrocarpon Aiton",
+            "id": "1398547",
+            "score": 0.00475
+        },
+        {
+            "name": "Buxus arborea Proctor",
+            "id": "1486271",
+            "score": 0.00468
+        },
+        {
+            "name": "Asclepias tuberosa L.",
+            "id": "1413838",
+            "score": 0.00436
+        },
+        {
+            "name": "Buxus sempervirens L.",
+            "id": "1356729",
+            "score": 0.0043
+        },
+        {
+            "name": "Rubia peregrina L.",
+            "id": "1360433",
+            "score": 0.00429
+        },
+        {
+            "name": "Xeranthemum inapertum (L.) Mill.",
+            "id": "1357964",
+            "score": 0.00404
+        },
+        {
+            "name": "Lonicera sempervirens L.",
+            "id": "1393629",
+            "score": 0.00403
+        },
+        {
+            "name": "Elaeagnus angustifolia L.",
+            "id": "1358494",
+            "score": 0.00398
+        },
+        {
+            "name": "Corokia × virgata Turrill",
+            "id": "1470448",
+            "score": 0.00378
+        },
+        {
+            "name": "Lathyrus odoratus L.",
+            "id": "1363802",
+            "score": 0.0036
+        },
+        {
+            "name": "Carpenteria californica Torr.",
+            "id": "1440835",
+            "score": 0.0036
+        },
+        {
+            "name": "Polygala myrtifolia L.",
+            "id": "1360101",
+            "score": 0.00359
+        },
+        {
+            "name": "Ornichia lancifolia (Baker) Klack.",
+            "id": "1549818",
+            "score": 0.00342
+        },
+        {
+            "name": "Baptisia nuttalliana Small",
+            "id": "1440062",
+            "score": 0.0033
+        },
+        {
+            "name": "Phillyrea angustifolia L.",
+            "id": "1359677",
+            "score": 0.00268
+        },
+        {
+            "name": "Jasminum mesnyi Hance",
+            "id": "1383124",
+            "score": 0.00262
+        },
+        {
+            "name": "Cerastium tomentosum L.",
+            "id": "1391092",
+            "score": 0.00259
+        },
+        {
+            "name": "Buddleja alternifolia Maxim.",
+            "id": "1397799",
+            "score": 0.00254
+        },
+        {
+            "name": "Genista linifolia L.",
+            "id": "1397534",
+            "score": 0.00237
+        },
+        {
+            "name": "Moehringia lateriflora (L.) Fenzl",
+            "id": "1412745",
+            "score": 0.00232
+        },
+        {
+            "name": "Daphne sericea Vahl",
+            "id": "1399157",
+            "score": 0.0022
+        },
+        {
+            "name": "Kalmia polifolia Wangenh.",
+            "id": "1412398",
+            "score": 0.00215
+        },
+        {
+            "name": "Cytisus villosus Pourr.",
+            "id": "1359182",
+            "score": 0.00214
+        },
+        {
+            "name": "Baccharis halimifolia L.",
+            "id": "1400088",
+            "score": 0.00211
+        },
+        {
+            "name": "Polygala vulgaris L.",
+            "id": "1394742",
+            "score": 0.00209
+        },
+        {
+            "name": "Crocanthemum georgianum (Chapm.) Barnhart",
+            "id": "1817148",
+            "score": 0.00186
+        },
+        {
+            "name": "Genista stenopetala Webb & Berthel.",
+            "id": "1389840",
+            "score": 0.00181
+        },
+        {
+            "name": "Salvia rosmarinus Spenn.",
+            "id": "1722409",
+            "score": 0.00181
+        },
+        {
+            "name": "Caryopteris × clandonensis A.Simmonds",
+            "id": "1843883",
+            "score": 0.00177
+        },
+        {
+            "name": "Oenothera rosea L'Hér. ex Aiton",
+            "id": "1361957",
+            "score": 0.00162
+        },
+        {
+            "name": "Rubia tenuifolia d'Urv.",
+            "id": "1364009",
+            "score": 0.00157
+        },
+        {
+            "name": "Salvia microphylla Kunth",
+            "id": "1356117",
+            "score": 0.00151
+        },
+        {
+            "name": "Zamioculcas zamiifolia (G.Lodd.) Engl.",
+            "id": "1752284",
+            "score": 0.00151
+        },
+        {
+            "name": "Polygonum aviculare L.",
+            "id": "1356084",
+            "score": 0.00145
+        },
+        {
+            "name": "Rubus winteri (P.J.Müll. ex Focke) A.Först.",
+            "id": "1738876",
+            "score": 0.00142
+        },
+        {
+            "name": "Chenopodium album L.",
+            "id": "1363173",
+            "score": 0.0014
+        },
+        {
+            "name": "Erysimum × cheiri (L.) Crantz",
+            "id": "1480628",
+            "score": 0.00136
+        },
+        {
+            "name": "Polygaloides chamaebuxus (L.) O.Schwarz",
+            "id": "1741776",
+            "score": 0.00136
+        },
+        {
+            "name": "Vaccinium vitis-idaea L.",
+            "id": "1396971",
+            "score": 0.00135
+        },
+        {
+            "name": "Olea lancea Lam.",
+            "id": "1408436",
+            "score": 0.00134
+        },
+        {
+            "name": "Lespedeza thunbergii (DC.) Nakai",
+            "id": "1412459",
+            "score": 0.00132
+        },
+        {
+            "name": "Hilliardiella smithiana (Less.) H.Rob.",
+            "id": "1511941",
+            "score": 0.00132
+        },
+        {
+            "name": "Jasminum nudiflorum Lindl.",
+            "id": "1393331",
+            "score": 0.00132
+        },
+        {
+            "name": "Bouvardia ternifolia (Cav.) Schltdl.",
+            "id": "1440223",
+            "score": 0.00131
+        },
+        {
+            "name": "Lonicera japonica Thunb.",
+            "id": "1356786",
+            "score": 0.00129
+        },
+        {
+            "name": "Satureja montana L.",
+            "id": "1361829",
+            "score": 0.00128
+        },
+        {
+            "name": "Helianthemum nummularium (L.) Mill.",
+            "id": "1357148",
+            "score": 0.00125
+        },
+        {
+            "name": "Clematis vitalba L.",
+            "id": "1360161",
+            "score": 0.00125
+        },
+        {
+            "name": "Salix repens L.",
+            "id": "1395867",
+            "score": 0.0012
+        },
+        {
+            "name": "Lathyrus tuberosus L.",
+            "id": "1359284",
+            "score": 0.00119
+        },
+        {
+            "name": "Talinum arnotii Hook.f.",
+            "id": "1752438",
+            "score": 0.00119
+        },
+        {
+            "name": "Salvia fruticosa Mill.",
+            "id": "1358866",
+            "score": 0.00116
+        },
+        {
+            "name": "Cotoneaster franchetii Bois",
+            "id": "1391408",
+            "score": 0.00114
+        },
+        {
+            "name": "Xeranthemum annuum L.",
+            "id": "1397241",
+            "score": 0.00114
+        },
+        {
+            "name": "Salvia farinacea Benth.",
+            "id": "1377389",
+            "score": 0.00112
+        },
+        {
+            "name": "Satureja hortensis L.",
+            "id": "1395936",
+            "score": 0.00112
+        },
+        {
+            "name": "Phillyrea latifolia L.",
+            "id": "1359678",
+            "score": 0.00107
+        },
+        {
+            "name": "Helianthemum syriacum (Jacq.) Dum.Cours.",
+            "id": "1392717",
+            "score": 0.00106
+        },
+        {
+            "name": "Vitex agnus-castus L.",
+            "id": "1356208",
+            "score": 0.00105
+        },
+        {
+            "name": "Elaeagnus umbellata Thunb.",
+            "id": "1391838",
+            "score": 0.00104
+        },
+        {
+            "name": "Coriaria myrtifolia L.",
+            "id": "1358024",
+            "score": 0.00101
+        },
+        {
+            "name": "Anthyllis cytisoides L.",
+            "id": "1359082",
+            "score": 0.00101
+        }
+    ]
+}

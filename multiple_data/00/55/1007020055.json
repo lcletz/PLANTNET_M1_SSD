@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lilium bulbiferum L.",
+            "id": "1393532",
+            "score": 0.90658
+        },
+        {
+            "name": "Lilium longiflorum Thunb.",
+            "id": "1408290",
+            "score": 0.02458
+        },
+        {
+            "name": "Lilium candidum L.",
+            "id": "1361623",
+            "score": 0.01515
+        },
+        {
+            "name": "Lilium lancifolium Thunb.",
+            "id": "1393528",
+            "score": 0.00448
+        },
+        {
+            "name": "Lilium rhodopeum Delip.",
+            "id": "1588942",
+            "score": 0.00161
+        },
+        {
+            "name": "Lilium philadelphicum L.",
+            "id": "1412498",
+            "score": 0.00158
+        },
+        {
+            "name": "Lilium regale E.H.Wilson",
+            "id": "1419333",
+            "score": 0.0012
+        }
+    ]
+}

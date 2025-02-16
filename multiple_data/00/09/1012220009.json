@@ -1,0 +1,245 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Picris hieracioides L.",
+            "id": "1364160",
+            "score": 0.63712
+        },
+        {
+            "name": "Hieracium umbellatum L.",
+            "id": "1393169",
+            "score": 0.11147
+        },
+        {
+            "name": "Crepis foetida L.",
+            "id": "1355870",
+            "score": 0.02347
+        },
+        {
+            "name": "Crepis biennis L.",
+            "id": "1391445",
+            "score": 0.01677
+        },
+        {
+            "name": "Sonchus tenerrimus L.",
+            "id": "1364171",
+            "score": 0.01121
+        },
+        {
+            "name": "Leontodon hispidus L.",
+            "id": "1357697",
+            "score": 0.01097
+        },
+        {
+            "name": "Crepis setosa Haller f.",
+            "id": "1361760",
+            "score": 0.00948
+        },
+        {
+            "name": "Crepis vesicaria L.",
+            "id": "1357549",
+            "score": 0.00861
+        },
+        {
+            "name": "Helminthotheca echioides (L.) Holub",
+            "id": "1357635",
+            "score": 0.00813
+        },
+        {
+            "name": "Hypochaeris radicata L.",
+            "id": "1355872",
+            "score": 0.00784
+        },
+        {
+            "name": "Urospermum picroides (L.) Scop. ex F.W.Schmidt",
+            "id": "1396956",
+            "score": 0.00768
+        },
+        {
+            "name": "Crepis capillaris (L.) Wallr.",
+            "id": "1355869",
+            "score": 0.00655
+        },
+        {
+            "name": "Hieracium glaucinum Jord.",
+            "id": "1392931",
+            "score": 0.00573
+        },
+        {
+            "name": "Scorzoneroides autumnalis (L.) Moench",
+            "id": "1396117",
+            "score": 0.00497
+        },
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.00496
+        },
+        {
+            "name": "Hieracium lachenalii Suter",
+            "id": "1392971",
+            "score": 0.00415
+        },
+        {
+            "name": "Carduus nigrescens Vill.",
+            "id": "1390740",
+            "score": 0.00373
+        },
+        {
+            "name": "Hieracium gouanii Arv.-Touv.",
+            "id": "1392936",
+            "score": 0.00362
+        },
+        {
+            "name": "Hieracium sabaudum L.",
+            "id": "1393122",
+            "score": 0.00312
+        },
+        {
+            "name": "Crepis pyrenaica (L.) Greuter",
+            "id": "1391458",
+            "score": 0.00311
+        },
+        {
+            "name": "Pseudopodospermum hispanicum (L.) Zaika, Sukhor. & N.Kilian",
+            "id": "1739189",
+            "score": 0.00262
+        },
+        {
+            "name": "Picris rhagadioloides (L.) Desf.",
+            "id": "1357783",
+            "score": 0.00253
+        },
+        {
+            "name": "Hieracium murorum L.",
+            "id": "1393025",
+            "score": 0.00203
+        },
+        {
+            "name": "Leontodon saxatilis Lam.",
+            "id": "1357700",
+            "score": 0.00156
+        },
+        {
+            "name": "Hieracium maculatum Schrank",
+            "id": "1393002",
+            "score": 0.00133
+        },
+        {
+            "name": "Chondrilla juncea L.",
+            "id": "1357492",
+            "score": 0.0013
+        },
+        {
+            "name": "Tolpis staticifolia (All.) Sch.Bip.",
+            "id": "1396809",
+            "score": 0.00125
+        },
+        {
+            "name": "Crepis paludosa (L.) Moench",
+            "id": "1391457",
+            "score": 0.00106
+        },
+        {
+            "name": "Cichorium endivia L.",
+            "id": "1364163",
+            "score": 0.00097
+        },
+        {
+            "name": "Crepis sancta (L.) Bornm.",
+            "id": "1357546",
+            "score": 0.00085
+        },
+        {
+            "name": "Leucanthemum vulgare Lam.",
+            "id": "1393513",
+            "score": 0.0008
+        },
+        {
+            "name": "Hieracium amplexicaule L.",
+            "id": "1357643",
+            "score": 0.00078
+        },
+        {
+            "name": "Erigeron acris L.",
+            "id": "1357568",
+            "score": 0.0007
+        },
+        {
+            "name": "Helianthus tuberosus L.",
+            "id": "1357617",
+            "score": 0.00068
+        },
+        {
+            "name": "Sonchus oleraceus L.",
+            "id": "1364170",
+            "score": 0.00066
+        },
+        {
+            "name": "Carduus defloratus L.",
+            "id": "1397340",
+            "score": 0.00066
+        },
+        {
+            "name": "Tolpis umbellata Bertol.",
+            "id": "1357945",
+            "score": 0.00066
+        },
+        {
+            "name": "Onobrychis crista-galli (L.) Lam.",
+            "id": "1359370",
+            "score": 0.00066
+        },
+        {
+            "name": "Rudbeckia hirta L.",
+            "id": "1395638",
+            "score": 0.00056
+        },
+        {
+            "name": "Malva trimestris (L.) Salisb.",
+            "id": "1362892",
+            "score": 0.00051
+        },
+        {
+            "name": "Blackstonia perfoliata (L.) Huds.",
+            "id": "1358622",
+            "score": 0.00048
+        },
+        {
+            "name": "Cirsium tuberosum (L.) All.",
+            "id": "1391250",
+            "score": 0.00048
+        },
+        {
+            "name": "Leucanthemum coronopifolium Vill.",
+            "id": "1513959",
+            "score": 0.00043
+        },
+        {
+            "name": "Hibiscus aculeatus Walter",
+            "id": "1432950",
+            "score": 0.0004
+        },
+        {
+            "name": "Linum tenuifolium L.",
+            "id": "1393610",
+            "score": 0.0004
+        },
+        {
+            "name": "Carduus acanthoides L.",
+            "id": "1362653",
+            "score": 0.0004
+        },
+        {
+            "name": "Ptilostemon chamaepeuce (L.) Less.",
+            "id": "1398828",
+            "score": 0.00038
+        },
+        {
+            "name": "Picris strigosa M.Bieb.",
+            "id": "1425393",
+            "score": 0.00037
+        }
+    ]
+}

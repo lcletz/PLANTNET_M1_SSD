@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia hypericifolia L.",
+            "id": "1355967",
+            "score": 0.90425
+        },
+        {
+            "name": "Euphorbia graminea Jacq.",
+            "id": "1404001",
+            "score": 0.03693
+        },
+        {
+            "name": "Euphorbia leucocephala Lotsy",
+            "id": "1408061",
+            "score": 0.02546
+        },
+        {
+            "name": "Moringa oleifera Lam.",
+            "id": "1366224",
+            "score": 0.00165
+        },
+        {
+            "name": "Euphorbia hirta L.",
+            "id": "1355966",
+            "score": 0.00133
+        }
+    ]
+}

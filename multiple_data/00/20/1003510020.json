@@ -1,0 +1,310 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Crepis sancta (L.) Bornm.",
+            "id": "1357546",
+            "score": 0.08756
+        },
+        {
+            "name": "Leontodon hispidus L.",
+            "id": "1357697",
+            "score": 0.0556
+        },
+        {
+            "name": "Scorzoneroides montana (Lam.) Holub",
+            "id": "1396118",
+            "score": 0.05298
+        },
+        {
+            "name": "Leontodon tuberosus L.",
+            "id": "1357702",
+            "score": 0.05001
+        },
+        {
+            "name": "Reichardia picroides (L.) Roth",
+            "id": "1357815",
+            "score": 0.03168
+        },
+        {
+            "name": "Urospermum dalechampii (L.) Scop. ex F.W.Schmidt",
+            "id": "1396955",
+            "score": 0.02753
+        },
+        {
+            "name": "Crepis terglouensis A.Kern.",
+            "id": "1741965",
+            "score": 0.02529
+        },
+        {
+            "name": "Leontodon crispus Vill.",
+            "id": "1397425",
+            "score": 0.02393
+        },
+        {
+            "name": "Crepis foetida L.",
+            "id": "1355870",
+            "score": 0.02038
+        },
+        {
+            "name": "Pilosella glacialis (Reyn. ex Lachen.) F.W.Schultz & Sch.Bip.",
+            "id": "1389661",
+            "score": 0.01863
+        },
+        {
+            "name": "Chondrilla juncea L.",
+            "id": "1357492",
+            "score": 0.01812
+        },
+        {
+            "name": "Leontodon saxatilis Lam.",
+            "id": "1357700",
+            "score": 0.01731
+        },
+        {
+            "name": "Hypochaeris glabra L.",
+            "id": "1355871",
+            "score": 0.01698
+        },
+        {
+            "name": "Scorzoneroides pyrenaica (Gouan) Holub",
+            "id": "1388793",
+            "score": 0.01687
+        },
+        {
+            "name": "Taraxacum pyropappum Boiss. & Reut.",
+            "id": "1357931",
+            "score": 0.01215
+        },
+        {
+            "name": "Reseda phyteuma L.",
+            "id": "1360247",
+            "score": 0.00883
+        },
+        {
+            "name": "Tolpis staticifolia (All.) Sch.Bip.",
+            "id": "1396809",
+            "score": 0.0078
+        },
+        {
+            "name": "Hypochaeris maculata L.",
+            "id": "1393262",
+            "score": 0.00767
+        },
+        {
+            "name": "Aetheorhiza bulbosa (L.) Cass.",
+            "id": "1426088",
+            "score": 0.00708
+        },
+        {
+            "name": "Hypochaeris radicata L.",
+            "id": "1355872",
+            "score": 0.00644
+        },
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.00602
+        },
+        {
+            "name": "Crepis vesicaria L.",
+            "id": "1357549",
+            "score": 0.00548
+        },
+        {
+            "name": "Gaillardia suavis (A.Gray & Engelm.) Britton & Rusby",
+            "id": "1508236",
+            "score": 0.00534
+        },
+        {
+            "name": "Picris hieracioides L.",
+            "id": "1364160",
+            "score": 0.00525
+        },
+        {
+            "name": "Diplotaxis viminea (L.) DC.",
+            "id": "1358259",
+            "score": 0.00515
+        },
+        {
+            "name": "Centaurea raphanina Sm.",
+            "id": "1502835",
+            "score": 0.00497
+        },
+        {
+            "name": "Diplotaxis muralis (L.) DC.",
+            "id": "1363875",
+            "score": 0.00472
+        },
+        {
+            "name": "Taraxacum sect. Taraxacum F.H.Wigg.",
+            "id": "1737545",
+            "score": 0.00471
+        },
+        {
+            "name": "Taraxacum palustre (Lyons) Symons",
+            "id": "1396640",
+            "score": 0.00429
+        },
+        {
+            "name": "Sonchus tenerrimus L.",
+            "id": "1364171",
+            "score": 0.00372
+        },
+        {
+            "name": "Hieracium glaucinum Jord.",
+            "id": "1392931",
+            "score": 0.00366
+        },
+        {
+            "name": "Taraxacum mattmarkense Soest",
+            "id": "1396621",
+            "score": 0.00338
+        },
+        {
+            "name": "Taraxacum erythrospermum Andrz. ex Besser",
+            "id": "1362499",
+            "score": 0.00325
+        },
+        {
+            "name": "Crepis bursifolia L.",
+            "id": "1357526",
+            "score": 0.0026
+        },
+        {
+            "name": "Crepis aurea (L.) Cass.",
+            "id": "1505431",
+            "score": 0.00255
+        },
+        {
+            "name": "Brassica repanda (Willd.) DC.",
+            "id": "1389539",
+            "score": 0.00254
+        },
+        {
+            "name": "Pilosella lactucella (Wallr.) P.D.Sell & C.West",
+            "id": "1394577",
+            "score": 0.00227
+        },
+        {
+            "name": "Taraxacum bavaricum Soest",
+            "id": "1390362",
+            "score": 0.00223
+        },
+        {
+            "name": "Scorzoneroides carpetana (Lange) Greuter",
+            "id": "1519648",
+            "score": 0.00209
+        },
+        {
+            "name": "Reseda lutea L.",
+            "id": "1356295",
+            "score": 0.00206
+        },
+        {
+            "name": "Pilosella officinarum Vaill.",
+            "id": "1517561",
+            "score": 0.00178
+        },
+        {
+            "name": "Crepis mollis (Jacq.) Asch.",
+            "id": "1391455",
+            "score": 0.00171
+        },
+        {
+            "name": "Eruca vesicaria (L.) Cav.",
+            "id": "1356328",
+            "score": 0.00161
+        },
+        {
+            "name": "Cichorium spinosum L.",
+            "id": "1357497",
+            "score": 0.00156
+        },
+        {
+            "name": "Leontodon hirtus L.",
+            "id": "1393480",
+            "score": 0.00153
+        },
+        {
+            "name": "Globularia vulgaris L.",
+            "id": "1392634",
+            "score": 0.00151
+        },
+        {
+            "name": "Centaurea melitensis L.",
+            "id": "1355885",
+            "score": 0.00148
+        },
+        {
+            "name": "Lactuca perennis L.",
+            "id": "1397420",
+            "score": 0.00143
+        },
+        {
+            "name": "Agoseris aurantiaca (Hook.) Greene",
+            "id": "1411235",
+            "score": 0.00139
+        },
+        {
+            "name": "Crepis capillaris (L.) Wallr.",
+            "id": "1355869",
+            "score": 0.00132
+        },
+        {
+            "name": "Biscutella lima Rchb.",
+            "id": "1398226",
+            "score": 0.00125
+        },
+        {
+            "name": "Hieracium pellitum Fr.",
+            "id": "1393069",
+            "score": 0.00119
+        },
+        {
+            "name": "Picris hispanica (Willd.) P.D.Sell",
+            "id": "1517432",
+            "score": 0.00115
+        },
+        {
+            "name": "Taraxacum dissectum (Ledeb.) Ledeb.",
+            "id": "1396568",
+            "score": 0.00113
+        },
+        {
+            "name": "Rumex acetosella L.",
+            "id": "1356082",
+            "score": 0.00112
+        },
+        {
+            "name": "Beta vulgaris L.",
+            "id": "1363199",
+            "score": 0.00111
+        },
+        {
+            "name": "Crepis bellidifolia Loisel.",
+            "id": "1391444",
+            "score": 0.00108
+        },
+        {
+            "name": "Hypochaeris cretensis (L.) Bory & Chaub.",
+            "id": "1393261",
+            "score": 0.00108
+        },
+        {
+            "name": "Biscutella laevigata L.",
+            "id": "1362417",
+            "score": 0.00106
+        },
+        {
+            "name": "Hypochaeris eremophila Cabrera",
+            "id": "1512197",
+            "score": 0.00106
+        },
+        {
+            "name": "Leontodon incanus (L.) Schrank",
+            "id": "1393481",
+            "score": 0.00103
+        }
+    ]
+}

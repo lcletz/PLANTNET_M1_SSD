@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Myoporum laetum G.Forst.",
+            "id": "1393874",
+            "score": 0.55673
+        },
+        {
+            "name": "Myoporum tenuifolium G.Forst.",
+            "id": "1393875",
+            "score": 0.22117
+        },
+        {
+            "name": "Kalmia latifolia L.",
+            "id": "1398517",
+            "score": 0.02694
+        },
+        {
+            "name": "Laurus nobilis L.",
+            "id": "1363362",
+            "score": 0.0225
+        },
+        {
+            "name": "Pittosporum undulatum Vent.",
+            "id": "1356064",
+            "score": 0.01073
+        },
+        {
+            "name": "Magnolia virginiana L.",
+            "id": "1389430",
+            "score": 0.00741
+        },
+        {
+            "name": "Magnolia grandiflora L.",
+            "id": "1393723",
+            "score": 0.0036
+        },
+        {
+            "name": "Elaeagnus umbellata Thunb.",
+            "id": "1391838",
+            "score": 0.00355
+        },
+        {
+            "name": "Salix pentandra L.",
+            "id": "1395852",
+            "score": 0.00344
+        },
+        {
+            "name": "Phyllostachys nigra (Lodd. ex Lindl.) Munro",
+            "id": "1394711",
+            "score": 0.00211
+        },
+        {
+            "name": "Arbutus menziesii Pursh",
+            "id": "1413017",
+            "score": 0.00181
+        },
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.00157
+        },
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.00157
+        },
+        {
+            "name": "Coprosma robusta Raoul",
+            "id": "1671835",
+            "score": 0.00126
+        },
+        {
+            "name": "Cocculus laurifolius DC.",
+            "id": "1419488",
+            "score": 0.001
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Verbena bonariensis L.",
+            "id": "1356209",
+            "score": 0.83944
+        },
+        {
+            "name": "Verbena brasiliensis Vell.",
+            "id": "1378797",
+            "score": 0.10302
+        },
+        {
+            "name": "Verbena rigida Spreng.",
+            "id": "1356211",
+            "score": 0.00456
+        },
+        {
+            "name": "Verbena litoralis Kunth",
+            "id": "1398545",
+            "score": 0.00266
+        },
+        {
+            "name": "Verbena incompta P.W.Michael",
+            "id": "1389728",
+            "score": 0.00158
+        }
+    ]
+}

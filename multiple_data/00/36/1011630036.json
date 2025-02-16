@@ -1,0 +1,365 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ranunculus fluitans Lam.",
+            "id": "1395081",
+            "score": 0.20882
+        },
+        {
+            "name": "Ranunculus aquatilis L.",
+            "id": "1363973",
+            "score": 0.1072
+        },
+        {
+            "name": "Lemna minor L.",
+            "id": "1361113",
+            "score": 0.09435
+        },
+        {
+            "name": "Utricularia floridana Nash",
+            "id": "1439423",
+            "score": 0.03253
+        },
+        {
+            "name": "Myriophyllum spicatum L.",
+            "id": "1357455",
+            "score": 0.03045
+        },
+        {
+            "name": "Elodea densa (Planch.) Casp.",
+            "id": "1723120",
+            "score": 0.0272
+        },
+        {
+            "name": "Potamogeton nodosus Poir.",
+            "id": "1361707",
+            "score": 0.025
+        },
+        {
+            "name": "Zostera marina L.",
+            "id": "1361723",
+            "score": 0.01239
+        },
+        {
+            "name": "Potamogeton lucens L.",
+            "id": "1361168",
+            "score": 0.01221
+        },
+        {
+            "name": "Myriophyllum alterniflorum DC.",
+            "id": "1358685",
+            "score": 0.01135
+        },
+        {
+            "name": "Utricularia foliosa L.",
+            "id": "1366021",
+            "score": 0.00978
+        },
+        {
+            "name": "Rhyncholacis clavigera (P.Royen) B.R.Ruhfel & C.T.Philbrick",
+            "id": "1728566",
+            "score": 0.00925
+        },
+        {
+            "name": "Ranunculus trichophyllus Chaix",
+            "id": "1360226",
+            "score": 0.0084
+        },
+        {
+            "name": "Synandra hispidula (Michx.) Baill.",
+            "id": "1564173",
+            "score": 0.00724
+        },
+        {
+            "name": "Groenlandia densa (L.) Fourr.",
+            "id": "1361704",
+            "score": 0.00691
+        },
+        {
+            "name": "Potamogeton crispus L.",
+            "id": "1361143",
+            "score": 0.00633
+        },
+        {
+            "name": "Cabomba caroliniana A.Gray",
+            "id": "1398472",
+            "score": 0.00519
+        },
+        {
+            "name": "Utricularia vulgaris L.",
+            "id": "1359589",
+            "score": 0.00473
+        },
+        {
+            "name": "Lemna trisulca L.",
+            "id": "1361123",
+            "score": 0.00471
+        },
+        {
+            "name": "Zostera noltii Hornem.",
+            "id": "1361255",
+            "score": 0.00446
+        },
+        {
+            "name": "Azolla filiculoides Lam.",
+            "id": "1356371",
+            "score": 0.0042
+        },
+        {
+            "name": "Lagarosiphon major (Ridl.) Moss",
+            "id": "1393419",
+            "score": 0.00418
+        },
+        {
+            "name": "Utricularia australis R.Br.",
+            "id": "1396961",
+            "score": 0.0038
+        },
+        {
+            "name": "Marathrum foeniculaceum Bonpl.",
+            "id": "1717324",
+            "score": 0.00369
+        },
+        {
+            "name": "Benjaminia reflexa (Benth.) D'Arcy",
+            "id": "1403978",
+            "score": 0.0034
+        },
+        {
+            "name": "Littorella uniflora (L.) Asch.",
+            "id": "1359937",
+            "score": 0.0033
+        },
+        {
+            "name": "Posidonia oceanica (L.) Delile",
+            "id": "1361703",
+            "score": 0.00314
+        },
+        {
+            "name": "Myriophyllum heterophyllum Michx.",
+            "id": "1393909",
+            "score": 0.00287
+        },
+        {
+            "name": "Tristicha trifaria (Bory ex Willd.) Spreng.",
+            "id": "1361987",
+            "score": 0.0026
+        },
+        {
+            "name": "Arenaria provincialis Chater & P.Halliday",
+            "id": "1492211",
+            "score": 0.0025
+        },
+        {
+            "name": "Typha latifolia L.",
+            "id": "1363339",
+            "score": 0.00222
+        },
+        {
+            "name": "Stuckenia pectinata (L.) Börner",
+            "id": "1381315",
+            "score": 0.0022
+        },
+        {
+            "name": "Potamogeton pusillus L.",
+            "id": "1361148",
+            "score": 0.00215
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.00209
+        },
+        {
+            "name": "Nuphar lutea (L.) Sm.",
+            "id": "1359668",
+            "score": 0.00181
+        },
+        {
+            "name": "Limnophila indica (L.) Druce",
+            "id": "1373103",
+            "score": 0.00179
+        },
+        {
+            "name": "Ailanthus altissima (Mill.) Swingle",
+            "id": "1360547",
+            "score": 0.00179
+        },
+        {
+            "name": "Myriophyllum quitense Kunth",
+            "id": "1412789",
+            "score": 0.00176
+        },
+        {
+            "name": "Utricularia bremii Heer ex Koell.",
+            "id": "1737448",
+            "score": 0.00174
+        },
+        {
+            "name": "Ceratophyllum submersum L.",
+            "id": "1357095",
+            "score": 0.00172
+        },
+        {
+            "name": "Elodea nuttallii (Planch.) H.St.John",
+            "id": "1555067",
+            "score": 0.00163
+        },
+        {
+            "name": "Salix babylonica L.",
+            "id": "1360452",
+            "score": 0.00161
+        },
+        {
+            "name": "Salvinia auriculata Aubl.",
+            "id": "1400721",
+            "score": 0.00158
+        },
+        {
+            "name": "Ceratophyllum demersum L.",
+            "id": "1357093",
+            "score": 0.00157
+        },
+        {
+            "name": "Wolffiella welwitschii (Hegelm.) Monod",
+            "id": "1382655",
+            "score": 0.00157
+        },
+        {
+            "name": "Wolffia arrhiza (L.) Horkel ex Wimm.",
+            "id": "1361130",
+            "score": 0.00156
+        },
+        {
+            "name": "Polygala exilis DC.",
+            "id": "1394734",
+            "score": 0.00146
+        },
+        {
+            "name": "Vallisneria americana Michx.",
+            "id": "1414165",
+            "score": 0.00145
+        },
+        {
+            "name": "Salicornia europaea L.",
+            "id": "1363191",
+            "score": 0.00144
+        },
+        {
+            "name": "Elodea canadensis Michx.",
+            "id": "1361524",
+            "score": 0.00143
+        },
+        {
+            "name": "Trapa natans L.",
+            "id": "1356307",
+            "score": 0.00142
+        },
+        {
+            "name": "Eleocharis confervoides (Poir.) Steud.",
+            "id": "1533159",
+            "score": 0.00142
+        },
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.00141
+        },
+        {
+            "name": "Zannichellia palustris L.",
+            "id": "1363359",
+            "score": 0.00139
+        },
+        {
+            "name": "Sorbus aucuparia L.",
+            "id": "1362987",
+            "score": 0.00138
+        },
+        {
+            "name": "Lemna gibba L.",
+            "id": "1361112",
+            "score": 0.00132
+        },
+        {
+            "name": "Solanum americanum Mill.",
+            "id": "1360564",
+            "score": 0.00131
+        },
+        {
+            "name": "Fraxinus angustifolia Vahl",
+            "id": "1362009",
+            "score": 0.00125
+        },
+        {
+            "name": "Halerpestes cymbalaria (Pursh) Greene",
+            "id": "1664330",
+            "score": 0.00124
+        },
+        {
+            "name": "Ottelia alismoides (L.) Pers.",
+            "id": "1356034",
+            "score": 0.00123
+        },
+        {
+            "name": "Utricularia inflexa Forssk.",
+            "id": "1363626",
+            "score": 0.00121
+        },
+        {
+            "name": "Petasites hybridus (L.) G.Gaertn., B.Mey. & Scherb.",
+            "id": "1711822",
+            "score": 0.0012
+        },
+        {
+            "name": "Aldrovanda vesiculosa L.",
+            "id": "1383978",
+            "score": 0.0012
+        },
+        {
+            "name": "Amorphophallus hewittii Alderw.",
+            "id": "1464159",
+            "score": 0.00115
+        },
+        {
+            "name": "Ranunculus penicillatus (Dumort.) Bab.",
+            "id": "1360220",
+            "score": 0.00111
+        },
+        {
+            "name": "Pyrrosia adnascens (Sw.) Ching",
+            "id": "1708771",
+            "score": 0.0011
+        },
+        {
+            "name": "Callitriche fassettii Schotsman",
+            "id": "1440392",
+            "score": 0.00107
+        },
+        {
+            "name": "Cynometra marginata Benth.",
+            "id": "1400536",
+            "score": 0.00106
+        },
+        {
+            "name": "Pinus halepensis Mill.",
+            "id": "1397460",
+            "score": 0.00105
+        },
+        {
+            "name": "Senecio bonariensis Hook. & Arn.",
+            "id": "1519830",
+            "score": 0.00102
+        },
+        {
+            "name": "Tessaria integrifolia Ruiz & Pav.",
+            "id": "1404348",
+            "score": 0.00101
+        },
+        {
+            "name": "Abies alba Mill.",
+            "id": "1397299",
+            "score": 0.00101
+        }
+    ]
+}

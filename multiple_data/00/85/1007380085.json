@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Veronica serpyllifolia L.",
+            "id": "1364066",
+            "score": 0.93587
+        },
+        {
+            "name": "Veronica arvensis L.",
+            "id": "1364063",
+            "score": 0.01587
+        },
+        {
+            "name": "Veronica officinalis L.",
+            "id": "1364068",
+            "score": 0.00539
+        },
+        {
+            "name": "Thymus serpyllum L.",
+            "id": "1362246",
+            "score": 0.0026
+        },
+        {
+            "name": "Lysimachia nummularia L.",
+            "id": "1393708",
+            "score": 0.00197
+        },
+        {
+            "name": "Veronica peregrina L.",
+            "id": "1359980",
+            "score": 0.00175
+        },
+        {
+            "name": "Veronica verna L.",
+            "id": "1359988",
+            "score": 0.00126
+        },
+        {
+            "name": "Veronica beccabunga L.",
+            "id": "1364067",
+            "score": 0.00111
+        },
+        {
+            "name": "Thymus × citriodorus (Pers.) Schreb.",
+            "id": "1564513",
+            "score": 0.00111
+        },
+        {
+            "name": "Ocimum basilicum L.",
+            "id": "1361975",
+            "score": 0.00103
+        }
+    ]
+}

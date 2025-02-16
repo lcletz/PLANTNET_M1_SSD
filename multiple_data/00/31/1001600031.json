@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Plumbago auriculata Lam.",
+            "id": "1363960",
+            "score": 0.8745
+        },
+        {
+            "name": "Plumbago europaea L.",
+            "id": "1360092",
+            "score": 0.03438
+        },
+        {
+            "name": "Ceratostigma willmottianum Stapf",
+            "id": "1391098",
+            "score": 0.00566
+        },
+        {
+            "name": "Ceratostigma plumbaginoides Bunge",
+            "id": "1391099",
+            "score": 0.0048
+        },
+        {
+            "name": "Plumbago indica L.",
+            "id": "1370628",
+            "score": 0.00107
+        }
+    ]
+}

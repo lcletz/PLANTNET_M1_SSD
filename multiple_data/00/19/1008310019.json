@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.85553
+        },
+        {
+            "name": "Sonchus palustris L.",
+            "id": "1361781",
+            "score": 0.0543
+        },
+        {
+            "name": "Hieracium umbellatum L.",
+            "id": "1393169",
+            "score": 0.01313
+        },
+        {
+            "name": "Crepis setosa Haller f.",
+            "id": "1361760",
+            "score": 0.01005
+        },
+        {
+            "name": "Crepis foetida L.",
+            "id": "1355870",
+            "score": 0.00429
+        },
+        {
+            "name": "Crepis paludosa (L.) Moench",
+            "id": "1391457",
+            "score": 0.00265
+        },
+        {
+            "name": "Pilosella caespitosa (Dumort.) P.D.Sell & C.West",
+            "id": "1394571",
+            "score": 0.00207
+        },
+        {
+            "name": "Sonchus asper (L.) Hill",
+            "id": "1357875",
+            "score": 0.00182
+        },
+        {
+            "name": "Hieracium lachenalii Suter",
+            "id": "1392971",
+            "score": 0.00158
+        },
+        {
+            "name": "Hieracium amplexicaule L.",
+            "id": "1357643",
+            "score": 0.0014
+        },
+        {
+            "name": "Hieracium murorum L.",
+            "id": "1393025",
+            "score": 0.00122
+        },
+        {
+            "name": "Hieracium laevigatum Willd.",
+            "id": "1392973",
+            "score": 0.00118
+        }
+    ]
+}

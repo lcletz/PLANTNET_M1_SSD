@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Campanula persicifolia L.",
+            "id": "1390671",
+            "score": 0.88588
+        },
+        {
+            "name": "Campanula medium L.",
+            "id": "1390666",
+            "score": 0.01096
+        },
+        {
+            "name": "Campanula rotundifolia L.",
+            "id": "1362422",
+            "score": 0.00963
+        },
+        {
+            "name": "Campanula speciosa Pourr.",
+            "id": "1397527",
+            "score": 0.00853
+        },
+        {
+            "name": "Campanula rhomboidalis L.",
+            "id": "1397255",
+            "score": 0.00625
+        },
+        {
+            "name": "Campanula carpatica Jacq.",
+            "id": "1390656",
+            "score": 0.00309
+        },
+        {
+            "name": "Campanula trachelium L.",
+            "id": "1356757",
+            "score": 0.00199
+        },
+        {
+            "name": "Campanula rapunculoides L.",
+            "id": "1383635",
+            "score": 0.00197
+        },
+        {
+            "name": "Campanula baumgartenii Becker",
+            "id": "1390654",
+            "score": 0.00156
+        },
+        {
+            "name": "Campanula scheuchzeri Vill.",
+            "id": "1390674",
+            "score": 0.00136
+        }
+    ]
+}

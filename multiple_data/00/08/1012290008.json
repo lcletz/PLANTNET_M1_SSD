@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hibiscus rosa-sinensis L.",
+            "id": "1370542",
+            "score": 0.94552
+        },
+        {
+            "name": "Hibiscus fragilis DC.",
+            "id": "1409016",
+            "score": 0.00765
+        },
+        {
+            "name": "Hibiscus moscheutos L.",
+            "id": "1412258",
+            "score": 0.00248
+        },
+        {
+            "name": "Punica granatum L.",
+            "id": "1359616",
+            "score": 0.00161
+        },
+        {
+            "name": "Cordia sebestena L.",
+            "id": "1370001",
+            "score": 0.00131
+        },
+        {
+            "name": "Euphorbia pulcherrima Willd. ex Klotzsch",
+            "id": "1355985",
+            "score": 0.0012
+        },
+        {
+            "name": "Jatropha integerrima Jacq.",
+            "id": "1375656",
+            "score": 0.0012
+        }
+    ]
+}

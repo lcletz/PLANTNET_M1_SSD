@@ -1,0 +1,420 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sanicula europaea L.",
+            "id": "1360790",
+            "score": 0.04912
+        },
+        {
+            "name": "Astrantia major L.",
+            "id": "1398449",
+            "score": 0.03254
+        },
+        {
+            "name": "Astrantia carniolica Wulfen",
+            "id": "1399093",
+            "score": 0.02094
+        },
+        {
+            "name": "Heuchera sanguinea Engelm.",
+            "id": "1398623",
+            "score": 0.0204
+        },
+        {
+            "name": "Geranium lucidum L.",
+            "id": "1358674",
+            "score": 0.01897
+        },
+        {
+            "name": "Geranium macrorrhizum L.",
+            "id": "1392585",
+            "score": 0.01334
+        },
+        {
+            "name": "Ranunculus sceleratus L.",
+            "id": "1363974",
+            "score": 0.01069
+        },
+        {
+            "name": "Waldsteinia ternata (Stephan) Fritsch",
+            "id": "1670101",
+            "score": 0.00824
+        },
+        {
+            "name": "Eriocapitella hupehensis (É.Lemoine) Christenh. & Byng",
+            "id": "1729993",
+            "score": 0.00819
+        },
+        {
+            "name": "Sanicula canadensis L.",
+            "id": "1413660",
+            "score": 0.00729
+        },
+        {
+            "name": "Anemonoides sylvestris (L.) Galasso, Banfi & Soldano",
+            "id": "1737523",
+            "score": 0.00701
+        },
+        {
+            "name": "Heuchera maxima Greene",
+            "id": "1432916",
+            "score": 0.00684
+        },
+        {
+            "name": "Alchemilla xanthochlora Rothm.",
+            "id": "1392339",
+            "score": 0.00623
+        },
+        {
+            "name": "Heuchera richardsonii R.Br.",
+            "id": "1815381",
+            "score": 0.00617
+        },
+        {
+            "name": "Tellima grandiflora (Pursh) Douglas ex Lindl.",
+            "id": "1396714",
+            "score": 0.00584
+        },
+        {
+            "name": "Sanicula epipactis (Scop.) E.H.L.Krause",
+            "id": "1741692",
+            "score": 0.00531
+        },
+        {
+            "name": "Alchemilla vulgaris L.",
+            "id": "1737558",
+            "score": 0.00468
+        },
+        {
+            "name": "Heuchera parvifolia Nutt.",
+            "id": "1815474",
+            "score": 0.00436
+        },
+        {
+            "name": "Ranunculus repens L.",
+            "id": "1360222",
+            "score": 0.00409
+        },
+        {
+            "name": "Ribes aureum Pursh",
+            "id": "1397291",
+            "score": 0.00348
+        },
+        {
+            "name": "Petroselinum crispum (Mill.) Fuss",
+            "id": "1363214",
+            "score": 0.00325
+        },
+        {
+            "name": "Heuchera americana L.",
+            "id": "1412250",
+            "score": 0.00306
+        },
+        {
+            "name": "Heuchera chlorantha Piper",
+            "id": "1412251",
+            "score": 0.00297
+        },
+        {
+            "name": "Ranunculus sardous Crantz",
+            "id": "1360223",
+            "score": 0.00289
+        },
+        {
+            "name": "Aquilegia vulgaris L.",
+            "id": "1360155",
+            "score": 0.00287
+        },
+        {
+            "name": "Ligusticum scothicum L.",
+            "id": "1737456",
+            "score": 0.00262
+        },
+        {
+            "name": "Malva moschata L.",
+            "id": "1393748",
+            "score": 0.00258
+        },
+        {
+            "name": "Sanicula elata Buch.-Ham. ex D.Don",
+            "id": "1458686",
+            "score": 0.00249
+        },
+        {
+            "name": "Ranunculus bulbosus L.",
+            "id": "1360193",
+            "score": 0.00248
+        },
+        {
+            "name": "Sanicula crassicaulis Poepp. ex DC.",
+            "id": "1413662",
+            "score": 0.00239
+        },
+        {
+            "name": "Raoulia glabra Hook.f.",
+            "id": "1518592",
+            "score": 0.00222
+        },
+        {
+            "name": "Ranunculus uncinatus D.Don ex G.Don",
+            "id": "1763886",
+            "score": 0.0022
+        },
+        {
+            "name": "Rhododendron simsii Planch.",
+            "id": "1395189",
+            "score": 0.00216
+        },
+        {
+            "name": "Ribes alpinum L.",
+            "id": "1358682",
+            "score": 0.00211
+        },
+        {
+            "name": "Geranium sylvaticum L.",
+            "id": "1392599",
+            "score": 0.00206
+        },
+        {
+            "name": "Chaenomeles japonica (Thunb.) Lindl. ex Spach",
+            "id": "1391103",
+            "score": 0.00206
+        },
+        {
+            "name": "Eriocapitella tomentosa (Maxim.) Christenh. & Byng",
+            "id": "1778269",
+            "score": 0.00192
+        },
+        {
+            "name": "Crataegus monogyna Jacq.",
+            "id": "1363988",
+            "score": 0.0019
+        },
+        {
+            "name": "Eryngium planum L.",
+            "id": "1361890",
+            "score": 0.00186
+        },
+        {
+            "name": "Apium graveolens L.",
+            "id": "1363218",
+            "score": 0.00183
+        },
+        {
+            "name": "Alchemilla incisa Buser",
+            "id": "1392175",
+            "score": 0.00179
+        },
+        {
+            "name": "Astrantia bavarica F.W.Schultz",
+            "id": "1399092",
+            "score": 0.00177
+        },
+        {
+            "name": "Heuchera longiflora Rydb.",
+            "id": "1432915",
+            "score": 0.00177
+        },
+        {
+            "name": "Ranunculus montanus Willd.",
+            "id": "1362363",
+            "score": 0.00166
+        },
+        {
+            "name": "Coptis trifolia (L.) Salisb.",
+            "id": "1411530",
+            "score": 0.00159
+        },
+        {
+            "name": "Coriandrum sativum L.",
+            "id": "1363224",
+            "score": 0.00158
+        },
+        {
+            "name": "Ranunculus lanuginosus L.",
+            "id": "1395100",
+            "score": 0.00158
+        },
+        {
+            "name": "Ribes nigrum L.",
+            "id": "1395200",
+            "score": 0.00154
+        },
+        {
+            "name": "Hydrocotyle ranunculoides L.f.",
+            "id": "1393225",
+            "score": 0.00152
+        },
+        {
+            "name": "Darmera peltata (Torr. ex Benth.) Voss",
+            "id": "1389718",
+            "score": 0.00152
+        },
+        {
+            "name": "Geranium gracile Ledeb. ex Nordm.",
+            "id": "1550322",
+            "score": 0.0015
+        },
+        {
+            "name": "Ranunculus asiaticus L.",
+            "id": "1360189",
+            "score": 0.00149
+        },
+        {
+            "name": "Hepatica nobilis Schreb.",
+            "id": "1412241",
+            "score": 0.0014
+        },
+        {
+            "name": "Potentilla reptans L.",
+            "id": "1363993",
+            "score": 0.00138
+        },
+        {
+            "name": "Waldsteinia fragarioides (Michx.) Tratt.",
+            "id": "1414232",
+            "score": 0.00137
+        },
+        {
+            "name": "Spiraea faurieana C.K.Schneid.",
+            "id": "1669995",
+            "score": 0.00136
+        },
+        {
+            "name": "Pelargonium inodorum Willd.",
+            "id": "1435707",
+            "score": 0.00136
+        },
+        {
+            "name": "Ranunculus muricatus L.",
+            "id": "1363972",
+            "score": 0.00136
+        },
+        {
+            "name": "Heuchera elegans Abrams",
+            "id": "1432907",
+            "score": 0.00135
+        },
+        {
+            "name": "Pelargonium inquinans (L.) L'Hér.",
+            "id": "1355934",
+            "score": 0.00127
+        },
+        {
+            "name": "Pelargonium drummondii Turcz.",
+            "id": "1810508",
+            "score": 0.00127
+        },
+        {
+            "name": "Alchemilla erythropoda Juz.",
+            "id": "1666422",
+            "score": 0.00125
+        },
+        {
+            "name": "Saxifraga fortunei Hook.",
+            "id": "1687970",
+            "score": 0.00125
+        },
+        {
+            "name": "Heuchera cylindrica Douglas",
+            "id": "1687755",
+            "score": 0.00125
+        },
+        {
+            "name": "Mukdenia rossii (Oliv.) Koidz.",
+            "id": "1687843",
+            "score": 0.00124
+        },
+        {
+            "name": "Geranium endressii J.Gay",
+            "id": "1392581",
+            "score": 0.00123
+        },
+        {
+            "name": "Aeonium sedifolium (Webb ex Bolle) Pit. & Proust",
+            "id": "1399832",
+            "score": 0.00122
+        },
+        {
+            "name": "Geranium reflexum L.",
+            "id": "1399204",
+            "score": 0.00121
+        },
+        {
+            "name": "Geranium dalmaticum (Beck) Rech.f.",
+            "id": "1550287",
+            "score": 0.0012
+        },
+        {
+            "name": "Geranium rotundifolium L.",
+            "id": "1356013",
+            "score": 0.00119
+        },
+        {
+            "name": "Sanicula liberta Cham. & Schltdl.",
+            "id": "1458694",
+            "score": 0.00118
+        },
+        {
+            "name": "Heuchera micrantha Douglas",
+            "id": "1741858",
+            "score": 0.00117
+        },
+        {
+            "name": "Ribes sanguineum Pursh",
+            "id": "1395204",
+            "score": 0.00117
+        },
+        {
+            "name": "Solidago latissimifolia Mill.",
+            "id": "1413849",
+            "score": 0.00117
+        },
+        {
+            "name": "Geranium nodosum L.",
+            "id": "1392588",
+            "score": 0.00112
+        },
+        {
+            "name": "Heuchera caespitosa Eastw.",
+            "id": "1432902",
+            "score": 0.00111
+        },
+        {
+            "name": "Caltha palustris L.",
+            "id": "1397332",
+            "score": 0.00107
+        },
+        {
+            "name": "Ranunculus tuberosus Lapeyr.",
+            "id": "1395134",
+            "score": 0.00107
+        },
+        {
+            "name": "Anemone virginiana L.",
+            "id": "1412410",
+            "score": 0.00106
+        },
+        {
+            "name": "Heuchera pulchella Wooton & Standl.",
+            "id": "1432923",
+            "score": 0.00106
+        },
+        {
+            "name": "Hydrocotyle sibthorpioides Lam.",
+            "id": "1384659",
+            "score": 0.00105
+        },
+        {
+            "name": "Heracleum sphondylium L.",
+            "id": "1360744",
+            "score": 0.00103
+        },
+        {
+            "name": "Bowlesia incana Ruiz & Pav.",
+            "id": "1388767",
+            "score": 0.00101
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Oxalis latifolia Kunth",
+            "id": "1363639",
+            "score": 0.96145
+        },
+        {
+            "name": "Oxalis violacea L.",
+            "id": "1435414",
+            "score": 0.0054
+        },
+        {
+            "name": "Oxalis decaphylla Kunth",
+            "id": "1435400",
+            "score": 0.00177
+        },
+        {
+            "name": "Oxalis lasiandra Zucc.",
+            "id": "1637775",
+            "score": 0.00139
+        },
+        {
+            "name": "Oxalis argentina R.Knuth",
+            "id": "1832504",
+            "score": 0.00126
+        }
+    ]
+}

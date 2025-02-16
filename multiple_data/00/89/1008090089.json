@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cistus ladanifer L.",
+            "id": "1357103",
+            "score": 0.30253
+        },
+        {
+            "name": "Cistus monspeliensis L.",
+            "id": "1357105",
+            "score": 0.26254
+        },
+        {
+            "name": "Cistus × purpureus Lam.",
+            "id": "1495427",
+            "score": 0.06943
+        },
+        {
+            "name": "Cistus creticus L.",
+            "id": "1357099",
+            "score": 0.02847
+        },
+        {
+            "name": "Salvia mellifera Greene",
+            "id": "1437805",
+            "score": 0.00722
+        },
+        {
+            "name": "Cistus laurifolius L.",
+            "id": "1357104",
+            "score": 0.00209
+        },
+        {
+            "name": "Satureja montana L.",
+            "id": "1361829",
+            "score": 0.00166
+        },
+        {
+            "name": "Cistus parviflorus Lam.",
+            "id": "1357108",
+            "score": 0.00162
+        },
+        {
+            "name": "Artemisia dracunculus L.",
+            "id": "1362645",
+            "score": 0.00143
+        }
+    ]
+}

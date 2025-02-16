@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Eleocharis palustris (L.) Roem. & Schult.",
+            "id": "1363275",
+            "score": 0.9689
+        },
+        {
+            "name": "Eleocharis macrostachya Britton",
+            "id": "1411861",
+            "score": 0.00755
+        },
+        {
+            "name": "Eleocharis bonariensis Nees",
+            "id": "1391843",
+            "score": 0.00285
+        },
+        {
+            "name": "Eleocharis uniglumis (Link) Schult.",
+            "id": "1361095",
+            "score": 0.00192
+        },
+        {
+            "name": "Eleocharis compressa Sull.",
+            "id": "1411850",
+            "score": 0.00157
+        }
+    ]
+}

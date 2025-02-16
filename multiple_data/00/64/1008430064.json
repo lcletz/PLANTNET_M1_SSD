@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Conyza canadensis (L.) Cronquist",
+            "id": "1405532",
+            "score": 0.51542
+        },
+        {
+            "name": "Conyza bonariensis (L.) Cronquist",
+            "id": "1403879",
+            "score": 0.01619
+        },
+        {
+            "name": "Lepidium virginicum L.",
+            "id": "1363893",
+            "score": 0.01071
+        },
+        {
+            "name": "Cyanthillium cinereum (L.) H.Rob.",
+            "id": "1405308",
+            "score": 0.00225
+        },
+        {
+            "name": "Senecio inaequidens DC.",
+            "id": "1396197",
+            "score": 0.00129
+        },
+        {
+            "name": "Parthenium hysterophorus L.",
+            "id": "1374228",
+            "score": 0.00096
+        }
+    ]
+}

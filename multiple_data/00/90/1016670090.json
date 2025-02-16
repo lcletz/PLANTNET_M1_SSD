@@ -1,0 +1,465 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Corylus avellana L.",
+            "id": "1391368",
+            "score": 0.39886
+        },
+        {
+            "name": "Corylus maxima Mill.",
+            "id": "1391369",
+            "score": 0.18956
+        },
+        {
+            "name": "Corylus cornuta Marshall",
+            "id": "1411559",
+            "score": 0.13963
+        },
+        {
+            "name": "Ulmus glabra Huds.",
+            "id": "1397552",
+            "score": 0.12152
+        },
+        {
+            "name": "Corylus colurna L.",
+            "id": "1397579",
+            "score": 0.11144
+        },
+        {
+            "name": "Ulmus laevis Pall.",
+            "id": "1396951",
+            "score": 0.06486
+        },
+        {
+            "name": "Betula pubescens Ehrh.",
+            "id": "1362746",
+            "score": 0.03821
+        },
+        {
+            "name": "Betula pendula Roth",
+            "id": "1356609",
+            "score": 0.03163
+        },
+        {
+            "name": "Corylus americana Walter",
+            "id": "1411558",
+            "score": 0.01838
+        },
+        {
+            "name": "Ostrya carpinifolia Scop.",
+            "id": "1394357",
+            "score": 0.01234
+        },
+        {
+            "name": "Betula alleghaniensis Britton",
+            "id": "1389062",
+            "score": 0.01185
+        },
+        {
+            "name": "Acer japonicum Thunb.",
+            "id": "1390723",
+            "score": 0.01034
+        },
+        {
+            "name": "Acer saccharinum L.",
+            "id": "1391667",
+            "score": 0.00988
+        },
+        {
+            "name": "Hamamelis mollis Oliv.",
+            "id": "1397620",
+            "score": 0.00984
+        },
+        {
+            "name": "Betula utilis D.Don",
+            "id": "1400127",
+            "score": 0.00934
+        },
+        {
+            "name": "Ulmus minor Mill.",
+            "id": "1360607",
+            "score": 0.00894
+        },
+        {
+            "name": "Betula nigra L.",
+            "id": "1390590",
+            "score": 0.00735
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.00663
+        },
+        {
+            "name": "Wisteria floribunda (Willd.) DC.",
+            "id": "1397228",
+            "score": 0.00545
+        },
+        {
+            "name": "Corylus yunnanensis (Franch.) A.Camus",
+            "id": "1476300",
+            "score": 0.00498
+        },
+        {
+            "name": "Acer rubrum L.",
+            "id": "1398406",
+            "score": 0.00486
+        },
+        {
+            "name": "Carpinus fangiana Hu",
+            "id": "1476261",
+            "score": 0.00469
+        },
+        {
+            "name": "Juglans mandshurica Maxim.",
+            "id": "1419240",
+            "score": 0.00465
+        },
+        {
+            "name": "Dasylirion wheeleri S.Watson ex Rothr.",
+            "id": "1471827",
+            "score": 0.00447
+        },
+        {
+            "name": "Betula papyrifera Marshall",
+            "id": "1398459",
+            "score": 0.00437
+        },
+        {
+            "name": "Betula tianschanica Rupr.",
+            "id": "1476245",
+            "score": 0.0043
+        },
+        {
+            "name": "Magnolia × proctoriana Rehder",
+            "id": "1591254",
+            "score": 0.00395
+        },
+        {
+            "name": "Betula lenta L.",
+            "id": "1414284",
+            "score": 0.00388
+        },
+        {
+            "name": "Magnolia denudata Desr.",
+            "id": "1393717",
+            "score": 0.00377
+        },
+        {
+            "name": "Betula chichibuensis H.Hara",
+            "id": "1476172",
+            "score": 0.00371
+        },
+        {
+            "name": "Alnus serrulata (Aiton) Willd.",
+            "id": "1411837",
+            "score": 0.00362
+        },
+        {
+            "name": "Corylus sieboldiana Blume",
+            "id": "1476298",
+            "score": 0.00338
+        },
+        {
+            "name": "Pelargonium schizopetalum Sweet",
+            "id": "1550777",
+            "score": 0.00337
+        },
+        {
+            "name": "Platanus orientalis L.",
+            "id": "1362358",
+            "score": 0.00325
+        },
+        {
+            "name": "Dichrostachys cinerea (L.) Wight & Arn.",
+            "id": "1359183",
+            "score": 0.00315
+        },
+        {
+            "name": "Cenchrus americanus (L.) Morrone",
+            "id": "1389964",
+            "score": 0.00296
+        },
+        {
+            "name": "Alnus incana (L.) Moench",
+            "id": "1397308",
+            "score": 0.00275
+        },
+        {
+            "name": "Pyrus salicifolia Pall.",
+            "id": "1395004",
+            "score": 0.0027
+        },
+        {
+            "name": "Asimina triloba (L.) Dunal",
+            "id": "1413867",
+            "score": 0.00268
+        },
+        {
+            "name": "Broussonetia papyrifera (L.) L'Hér. ex Vent.",
+            "id": "1362912",
+            "score": 0.00263
+        },
+        {
+            "name": "Euptelea polyandra Siebold & Zucc.",
+            "id": "1547668",
+            "score": 0.00249
+        },
+        {
+            "name": "Hamamelis virginiana L.",
+            "id": "1397621",
+            "score": 0.00246
+        },
+        {
+            "name": "Alnus glutinosa (L.) Gaertn.",
+            "id": "1356608",
+            "score": 0.00243
+        },
+        {
+            "name": "Acer saccharum Marshall",
+            "id": "1390591",
+            "score": 0.00242
+        },
+        {
+            "name": "Garrya elliptica Douglas ex Lindl.",
+            "id": "1419086",
+            "score": 0.00239
+        },
+        {
+            "name": "Corylus fargesii (Franch.) C.K.Schneid.",
+            "id": "1417986",
+            "score": 0.00236
+        },
+        {
+            "name": "Corylus heterophylla Fisch. ex Trautv.",
+            "id": "1417987",
+            "score": 0.00234
+        },
+        {
+            "name": "Betula grossa Siebold & Zucc.",
+            "id": "1476192",
+            "score": 0.00225
+        },
+        {
+            "name": "Ostrya virginiana (Mill.) K.Koch",
+            "id": "1476305",
+            "score": 0.00223
+        },
+        {
+            "name": "Asarum europaeum L.",
+            "id": "1397108",
+            "score": 0.00223
+        },
+        {
+            "name": "Cyanotis foecunda DC. ex Hassk.",
+            "id": "1497414",
+            "score": 0.00216
+        },
+        {
+            "name": "Hamamelis vernalis Sarg.",
+            "id": "1419172",
+            "score": 0.00213
+        },
+        {
+            "name": "Acer triflorum Kom.",
+            "id": "1420604",
+            "score": 0.002
+        },
+        {
+            "name": "Acer diabolicum Blume ex K.Koch",
+            "id": "1685254",
+            "score": 0.00197
+        },
+        {
+            "name": "Acer opalus Mill.",
+            "id": "1362399",
+            "score": 0.0019
+        },
+        {
+            "name": "Asarum canadense L.",
+            "id": "1413749",
+            "score": 0.00189
+        },
+        {
+            "name": "Cercidiphyllum magnificum (Nakai) Nakai",
+            "id": "1418422",
+            "score": 0.00189
+        },
+        {
+            "name": "Alnus japonica (Thunb.) Steud.",
+            "id": "1398105",
+            "score": 0.00185
+        },
+        {
+            "name": "Combretum coccineum (Sonn.) Lam.",
+            "id": "1380629",
+            "score": 0.00176
+        },
+        {
+            "name": "Alnus × spaethii Callier",
+            "id": "1843632",
+            "score": 0.00174
+        },
+        {
+            "name": "Morus cathayana Hemsl.",
+            "id": "1602328",
+            "score": 0.00173
+        },
+        {
+            "name": "Acer campestre L.",
+            "id": "1356455",
+            "score": 0.00171
+        },
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.0017
+        },
+        {
+            "name": "Paspalum urvillei Steud.",
+            "id": "1363498",
+            "score": 0.00167
+        },
+        {
+            "name": "Commiphora mollis (Oliv.) Engl.",
+            "id": "1365447",
+            "score": 0.00165
+        },
+        {
+            "name": "Plantago coronopus L.",
+            "id": "1356065",
+            "score": 0.00164
+        },
+        {
+            "name": "Briza maxima L.",
+            "id": "1363440",
+            "score": 0.00164
+        },
+        {
+            "name": "Fagus sylvatica L.",
+            "id": "1397383",
+            "score": 0.00162
+        },
+        {
+            "name": "Magnolia acuminata (L.) L.",
+            "id": "1412655",
+            "score": 0.0016
+        },
+        {
+            "name": "Corylus jacquemontii Decne.",
+            "id": "1476296",
+            "score": 0.00155
+        },
+        {
+            "name": "Sanguisorba canadensis L.",
+            "id": "1395919",
+            "score": 0.00152
+        },
+        {
+            "name": "Cornus mas L.",
+            "id": "1391354",
+            "score": 0.00148
+        },
+        {
+            "name": "Chimonanthus praecox (L.) Link",
+            "id": "1418346",
+            "score": 0.00147
+        },
+        {
+            "name": "Paspalum dilatatum Poir.",
+            "id": "1363496",
+            "score": 0.00146
+        },
+        {
+            "name": "Betula ermanii Cham.",
+            "id": "1389063",
+            "score": 0.00141
+        },
+        {
+            "name": "Betula maximowicziana Regel",
+            "id": "1389064",
+            "score": 0.00137
+        },
+        {
+            "name": "Gymnocladus dioicus (L.) K.Koch",
+            "id": "1745442",
+            "score": 0.00136
+        },
+        {
+            "name": "Quercus pubescens Willd.",
+            "id": "1395026",
+            "score": 0.00134
+        },
+        {
+            "name": "Digitalis parviflora Jacq.",
+            "id": "1646088",
+            "score": 0.00133
+        },
+        {
+            "name": "Quercus pyrenaica Willd.",
+            "id": "1358616",
+            "score": 0.00131
+        },
+        {
+            "name": "Quercus robur L.",
+            "id": "1357413",
+            "score": 0.0013
+        },
+        {
+            "name": "Amelanchier × lamarckii F.G.Schroed.",
+            "id": "1737557",
+            "score": 0.00129
+        },
+        {
+            "name": "Betula luminifera H.J.P.Winkl.",
+            "id": "1476212",
+            "score": 0.00128
+        },
+        {
+            "name": "Juglans regia L.",
+            "id": "1358713",
+            "score": 0.00123
+        },
+        {
+            "name": "Ulmus rubra Muhl.",
+            "id": "1414126",
+            "score": 0.0012
+        },
+        {
+            "name": "Tabebuia heterophylla (DC.) Britton",
+            "id": "1388715",
+            "score": 0.00117
+        },
+        {
+            "name": "Populus tremula L.",
+            "id": "1360449",
+            "score": 0.00114
+        },
+        {
+            "name": "Ulmus alata Michx.",
+            "id": "1420807",
+            "score": 0.00112
+        },
+        {
+            "name": "Celtis koraiensis Nakai",
+            "id": "1390606",
+            "score": 0.00109
+        },
+        {
+            "name": "Parrotia persica C.A.Mey.",
+            "id": "1738716",
+            "score": 0.00102
+        },
+        {
+            "name": "Acer sterculiaceum Wall.",
+            "id": "1685335",
+            "score": 0.00102
+        },
+        {
+            "name": "Acer distylum Siebold & Zucc.",
+            "id": "1685256",
+            "score": 0.001
+        }
+    ]
+}

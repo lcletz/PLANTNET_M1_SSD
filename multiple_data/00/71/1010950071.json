@@ -1,0 +1,70 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iris sibirica L.",
+            "id": "1393304",
+            "score": 0.79266
+        },
+        {
+            "name": "Iris versicolor L.",
+            "id": "1393297",
+            "score": 0.10153
+        },
+        {
+            "name": "Iris spuria L.",
+            "id": "1361544",
+            "score": 0.01108
+        },
+        {
+            "name": "Iris sanguinea Hornem.",
+            "id": "1433298",
+            "score": 0.00339
+        },
+        {
+            "name": "Iris graminea L.",
+            "id": "1393300",
+            "score": 0.00312
+        },
+        {
+            "name": "Iris pumila L.",
+            "id": "1398617",
+            "score": 0.00308
+        },
+        {
+            "name": "Iris unguicularis Poir.",
+            "id": "1361547",
+            "score": 0.00185
+        },
+        {
+            "name": "Iris × germanica L.",
+            "id": "1556750",
+            "score": 0.00176
+        },
+        {
+            "name": "Iris setosa Pall. ex Link",
+            "id": "1412338",
+            "score": 0.00155
+        },
+        {
+            "name": "Iris reichenbachiana Klatt",
+            "id": "1389990",
+            "score": 0.00127
+        },
+        {
+            "name": "Iris tectorum Maxim.",
+            "id": "1419214",
+            "score": 0.00114
+        },
+        {
+            "name": "Iris pallida Lam.",
+            "id": "1361541",
+            "score": 0.00113
+        },
+        {
+            "name": "Iris virginica L.",
+            "id": "1412339",
+            "score": 0.00112
+        }
+    ]
+}

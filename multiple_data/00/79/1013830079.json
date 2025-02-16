@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Elaeagnus angustifolia L.",
+            "id": "1358494",
+            "score": 0.93468
+        },
+        {
+            "name": "Pyrus salicifolia Pall.",
+            "id": "1395004",
+            "score": 0.01434
+        },
+        {
+            "name": "Salix eleagnos Scop.",
+            "id": "1395785",
+            "score": 0.00165
+        },
+        {
+            "name": "Salix salviifolia Brot.",
+            "id": "1420584",
+            "score": 0.00165
+        },
+        {
+            "name": "Buddleja mendozensis Gillet ex Benth.",
+            "id": "1688465",
+            "score": 0.0011
+        }
+    ]
+}

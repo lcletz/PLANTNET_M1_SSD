@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Frangula alnus Mill.",
+            "id": "1360257",
+            "score": 0.86481
+        },
+        {
+            "name": "Frangula rupestris (Scop.) Schur",
+            "id": "1399186",
+            "score": 0.03435
+        },
+        {
+            "name": "Rhamnus cathartica L.",
+            "id": "1360262",
+            "score": 0.00209
+        },
+        {
+            "name": "Frangula californica (Eschsch.) A.Gray",
+            "id": "1420326",
+            "score": 0.00163
+        },
+        {
+            "name": "Frangula caroliniana (Walter) A.Gray",
+            "id": "1420328",
+            "score": 0.00143
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.00131
+        }
+    ]
+}

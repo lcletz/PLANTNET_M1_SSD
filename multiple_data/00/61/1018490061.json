@@ -1,0 +1,45 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Geranium pratense L.",
+            "id": "1397394",
+            "score": 0.12899
+        },
+        {
+            "name": "Geranium ibericum Cav.",
+            "id": "1397393",
+            "score": 0.07995
+        },
+        {
+            "name": "Geranium palustre L.",
+            "id": "1392591",
+            "score": 0.01326
+        },
+        {
+            "name": "Geranium sylvaticum L.",
+            "id": "1392599",
+            "score": 0.00965
+        },
+        {
+            "name": "Geranium phaeum L.",
+            "id": "1392592",
+            "score": 0.00283
+        },
+        {
+            "name": "Geranium rivulare Vill.",
+            "id": "1392595",
+            "score": 0.00212
+        },
+        {
+            "name": "Geranium sanguineum L.",
+            "id": "1392597",
+            "score": 0.00188
+        },
+        {
+            "name": "Geranium macrorrhizum L.",
+            "id": "1392585",
+            "score": 0.00173
+        }
+    ]
+}

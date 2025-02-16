@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Matricaria chamomilla L.",
+            "id": "1362332",
+            "score": 0.7578
+        },
+        {
+            "name": "Chamaemelum nobile (L.) All.",
+            "id": "1357465",
+            "score": 0.05593
+        },
+        {
+            "name": "Tripleurospermum inodorum (L.) Sch.Bip.",
+            "id": "1525142",
+            "score": 0.03487
+        },
+        {
+            "name": "Anthemis cotula L.",
+            "id": "1364155",
+            "score": 0.02055
+        },
+        {
+            "name": "Matricaria discoidea DC.",
+            "id": "1357711",
+            "score": 0.01877
+        },
+        {
+            "name": "Anthemis arvensis L.",
+            "id": "1364154",
+            "score": 0.0064
+        },
+        {
+            "name": "Tripleurospermum maritimum (L.) W.D.J.Koch",
+            "id": "1396883",
+            "score": 0.00446
+        },
+        {
+            "name": "Anacyclus clavatus (Desf.) Pers.",
+            "id": "1364151",
+            "score": 0.00181
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Oxalis acetosella L.",
+            "id": "1359750",
+            "score": 0.86927
+        },
+        {
+            "name": "Oxalis montana Raf.",
+            "id": "1412891",
+            "score": 0.03565
+        },
+        {
+            "name": "Oxalis oregana Nutt.",
+            "id": "1412892",
+            "score": 0.01004
+        },
+        {
+            "name": "Oxalis incarnata L.",
+            "id": "1394362",
+            "score": 0.00323
+        },
+        {
+            "name": "Oxalis violacea L.",
+            "id": "1435414",
+            "score": 0.00144
+        },
+        {
+            "name": "Claytonia virginica L.",
+            "id": "1411493",
+            "score": 0.0012
+        },
+        {
+            "name": "Fritillaria stribrnyi Velen.",
+            "id": "1588690",
+            "score": 0.0012
+        }
+    ]
+}

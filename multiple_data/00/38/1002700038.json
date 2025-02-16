@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Castanea dentata (Marshall) Borkh.",
+            "id": "1411348",
+            "score": 0.35118
+        },
+        {
+            "name": "Castanea crenata Siebold & Zucc.",
+            "id": "1390962",
+            "score": 0.28231
+        },
+        {
+            "name": "Castanea sativa Mill.",
+            "id": "1358610",
+            "score": 0.28022
+        },
+        {
+            "name": "Castanea pumila (L.) Mill.",
+            "id": "1419058",
+            "score": 0.00842
+        },
+        {
+            "name": "Fagus grandifolia Ehrh.",
+            "id": "1412056",
+            "score": 0.007
+        },
+        {
+            "name": "Quercus castaneifolia C.A.Mey.",
+            "id": "1390589",
+            "score": 0.00494
+        },
+        {
+            "name": "Quercus acutissima Carruth.",
+            "id": "1419069",
+            "score": 0.00432
+        },
+        {
+            "name": "Castanea mollissima Blume",
+            "id": "1419057",
+            "score": 0.00394
+        },
+        {
+            "name": "Zelkova serrata (Thunb.) Makino",
+            "id": "1398535",
+            "score": 0.00226
+        },
+        {
+            "name": "Quercus aliena Blume",
+            "id": "1548087",
+            "score": 0.00162
+        },
+        {
+            "name": "Quercus variabilis Blume",
+            "id": "1419080",
+            "score": 0.00127
+        },
+        {
+            "name": "Quercus serrata Murray",
+            "id": "1548488",
+            "score": 0.00103
+        }
+    ]
+}

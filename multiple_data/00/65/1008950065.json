@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Asparagus acutifolius L.",
+            "id": "1361000",
+            "score": 0.76328
+        },
+        {
+            "name": "Asparagus aphyllus L.",
+            "id": "1361002",
+            "score": 0.01269
+        },
+        {
+            "name": "Juniperus communis L.",
+            "id": "1393364",
+            "score": 0.00552
+        },
+        {
+            "name": "Asparagus albus L.",
+            "id": "1361001",
+            "score": 0.00412
+        },
+        {
+            "name": "Asparagus setaceus (Kunth) Jessop",
+            "id": "1363267",
+            "score": 0.00204
+        },
+        {
+            "name": "Asparagus horridus L.",
+            "id": "1361005",
+            "score": 0.00154
+        },
+        {
+            "name": "Asparagus densiflorus (Kunth) Jessop",
+            "id": "1386163",
+            "score": 0.00138
+        },
+        {
+            "name": "Juniperus oxycedrus L.",
+            "id": "1393365",
+            "score": 0.00109
+        }
+    ]
+}

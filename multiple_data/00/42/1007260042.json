@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ligustrum vulgare L.",
+            "id": "1359675",
+            "score": 0.89873
+        },
+        {
+            "name": "Ligustrum ovalifolium Hassk.",
+            "id": "1393526",
+            "score": 0.01032
+        },
+        {
+            "name": "Ligustrum sinense Lour.",
+            "id": "1390584",
+            "score": 0.00789
+        },
+        {
+            "name": "Galium saxatile L.",
+            "id": "1392487",
+            "score": 0.00213
+        },
+        {
+            "name": "Galium glaucum L.",
+            "id": "1392461",
+            "score": 0.00213
+        },
+        {
+            "name": "Ligustrum japonicum Thunb.",
+            "id": "1397735",
+            "score": 0.00178
+        },
+        {
+            "name": "Olea europaea L.",
+            "id": "1359676",
+            "score": 0.00162
+        }
+    ]
+}

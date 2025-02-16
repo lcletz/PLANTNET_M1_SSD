@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iris foetidissima L.",
+            "id": "1361540",
+            "score": 0.95815
+        },
+        {
+            "name": "Agapanthus praecox Willd.",
+            "id": "1362010",
+            "score": 0.00252
+        },
+        {
+            "name": "Iris japonica Thunb.",
+            "id": "1408237",
+            "score": 0.00238
+        },
+        {
+            "name": "Trimezia gracilis (Herb.) Christenh. & Byng",
+            "id": "1732606",
+            "score": 0.00226
+        },
+        {
+            "name": "Luzula sylvatica (Huds.) Gaudin",
+            "id": "1397430",
+            "score": 0.00216
+        },
+        {
+            "name": "Iris × germanica L.",
+            "id": "1556750",
+            "score": 0.00141
+        },
+        {
+            "name": "Bromelia karatas L.",
+            "id": "1410184",
+            "score": 0.0012
+        },
+        {
+            "name": "Iris pseudacorus L.",
+            "id": "1361543",
+            "score": 0.00101
+        }
+    ]
+}

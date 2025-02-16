@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phacelia tanacetifolia Benth.",
+            "id": "1363358",
+            "score": 0.85734
+        },
+        {
+            "name": "Phacelia congesta Hook.",
+            "id": "1436097",
+            "score": 0.00616
+        },
+        {
+            "name": "Echium italicum L.",
+            "id": "1356663",
+            "score": 0.00429
+        },
+        {
+            "name": "Phacelia pinnatifida Griseb. ex Wedd.",
+            "id": "1423359",
+            "score": 0.00352
+        },
+        {
+            "name": "Phacelia californica Cham.",
+            "id": "1436087",
+            "score": 0.00346
+        },
+        {
+            "name": "Echium vulgare L.",
+            "id": "1363850",
+            "score": 0.00204
+        },
+        {
+            "name": "Phacelia distans Benth.",
+            "id": "1436110",
+            "score": 0.00114
+        }
+    ]
+}

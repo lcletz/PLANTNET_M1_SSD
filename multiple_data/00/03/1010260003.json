@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cistus crispus L.",
+            "id": "1357100",
+            "score": 0.89842
+        },
+        {
+            "name": "Cistus creticus L.",
+            "id": "1357099",
+            "score": 0.02631
+        },
+        {
+            "name": "Cistus × incanus L.",
+            "id": "1495412",
+            "score": 0.01707
+        },
+        {
+            "name": "Cistus × laxus Aiton",
+            "id": "1495414",
+            "score": 0.00655
+        },
+        {
+            "name": "Cistus albidus L.",
+            "id": "1357096",
+            "score": 0.00287
+        },
+        {
+            "name": "Cistus symphytifolius Lam.",
+            "id": "1357112",
+            "score": 0.00161
+        }
+    ]
+}

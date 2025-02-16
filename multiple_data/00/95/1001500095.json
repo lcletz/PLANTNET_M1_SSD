@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Urtica urens L.",
+            "id": "1356201",
+            "score": 0.46284
+        },
+        {
+            "name": "Urtica dioica L.",
+            "id": "1356200",
+            "score": 0.41641
+        },
+        {
+            "name": "Urtica membranacea Poir. ex Savigny",
+            "id": "1695710",
+            "score": 0.01763
+        },
+        {
+            "name": "Urtica chamaedryoides Pursh",
+            "id": "1424320",
+            "score": 0.00937
+        },
+        {
+            "name": "Urtica pilulifera L.",
+            "id": "1360831",
+            "score": 0.00861
+        },
+        {
+            "name": "Urtica atrovirens Req. ex Loisel.",
+            "id": "1396958",
+            "score": 0.0024
+        },
+        {
+            "name": "Urtica rupestris Guss.",
+            "id": "1398886",
+            "score": 0.0015
+        }
+    ]
+}

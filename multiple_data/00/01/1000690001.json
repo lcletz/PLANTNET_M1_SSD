@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Centaurea cyanus L.",
+            "id": "1411387",
+            "score": 0.35139
+        },
+        {
+            "name": "Crepis rubra L.",
+            "id": "1391460",
+            "score": 0.10685
+        },
+        {
+            "name": "Centaurea napifolia L.",
+            "id": "1357437",
+            "score": 0.00825
+        },
+        {
+            "name": "Mantisalca salmantica (L.) Briq. & Cavill.",
+            "id": "1364108",
+            "score": 0.00327
+        },
+        {
+            "name": "Centaurea pullata L.",
+            "id": "1357448",
+            "score": 0.00257
+        },
+        {
+            "name": "Argyranthemum frutescens (L.) Sch.Bip.",
+            "id": "1408638",
+            "score": 0.0019
+        },
+        {
+            "name": "Centaurea trichocephala M.Bieb. ex Willd.",
+            "id": "1389505",
+            "score": 0.0019
+        },
+        {
+            "name": "Centaurea aspera L.",
+            "id": "1357401",
+            "score": 0.00186
+        },
+        {
+            "name": "Centaurea scabiosa L.",
+            "id": "1391037",
+            "score": 0.00115
+        }
+    ]
+}

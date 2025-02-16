@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Centaurea benedicta (L.) L.",
+            "id": "1357404",
+            "score": 0.92114
+        },
+        {
+            "name": "Onopordum tauricum Willd.",
+            "id": "1394059",
+            "score": 0.0025
+        },
+        {
+            "name": "Cirsium edule Nutt.",
+            "id": "1411464",
+            "score": 0.00168
+        },
+        {
+            "name": "Centaurea sphaerocephala L.",
+            "id": "1357456",
+            "score": 0.00107
+        },
+        {
+            "name": "Cirsium ferox (L.) DC.",
+            "id": "1391197",
+            "score": 0.00102
+        }
+    ]
+}

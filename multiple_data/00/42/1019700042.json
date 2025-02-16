@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Aucuba japonica Thunb.",
+            "id": "1399886",
+            "score": 0.72753
+        },
+        {
+            "name": "Fraxinus americana L.",
+            "id": "1397619",
+            "score": 0.00178
+        },
+        {
+            "name": "Helleborus niger L.",
+            "id": "1397560",
+            "score": 0.00178
+        },
+        {
+            "name": "Pulmonaria saccharata Mill.",
+            "id": "1394990",
+            "score": 0.00116
+        },
+        {
+            "name": "Fraxinus pennsylvanica Marshall",
+            "id": "1392363",
+            "score": 0.00105
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viola reichenbachiana Jord. ex Boreau",
+            "id": "1397185",
+            "score": 0.95379
+        },
+        {
+            "name": "Viola riviniana Rchb.",
+            "id": "1360878",
+            "score": 0.00466
+        },
+        {
+            "name": "Viola canina L.",
+            "id": "1360864",
+            "score": 0.0043
+        },
+        {
+            "name": "Viola hirta L.",
+            "id": "1361898",
+            "score": 0.00222
+        },
+        {
+            "name": "Viola labradorica Schrank",
+            "id": "1414204",
+            "score": 0.00162
+        }
+    ]
+}

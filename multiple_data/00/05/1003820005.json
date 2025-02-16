@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ribes rubrum L.",
+            "id": "1397543",
+            "score": 0.86457
+        },
+        {
+            "name": "Ribes sanguineum Pursh",
+            "id": "1395204",
+            "score": 0.01965
+        },
+        {
+            "name": "Ribes nigrum L.",
+            "id": "1395200",
+            "score": 0.0174
+        },
+        {
+            "name": "Ribes uva-crispa L.",
+            "id": "1358684",
+            "score": 0.00365
+        },
+        {
+            "name": "Tellima grandiflora (Pursh) Douglas ex Lindl.",
+            "id": "1396714",
+            "score": 0.00271
+        },
+        {
+            "name": "Ribes triste Pall.",
+            "id": "1413489",
+            "score": 0.00259
+        },
+        {
+            "name": "Ribes petraeum Wulfen",
+            "id": "1358683",
+            "score": 0.00242
+        }
+    ]
+}

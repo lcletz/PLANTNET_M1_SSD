@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cornus sanguinea L.",
+            "id": "1397356",
+            "score": 0.83857
+        },
+        {
+            "name": "Cornus mas L.",
+            "id": "1391354",
+            "score": 0.05908
+        },
+        {
+            "name": "Rhamnus cathartica L.",
+            "id": "1360262",
+            "score": 0.02005
+        },
+        {
+            "name": "Cornus florida L.",
+            "id": "1397618",
+            "score": 0.01489
+        },
+        {
+            "name": "Cornus sericea L.",
+            "id": "1397902",
+            "score": 0.01319
+        },
+        {
+            "name": "Cornus rugosa Lam.",
+            "id": "1411550",
+            "score": 0.00513
+        },
+        {
+            "name": "Cornus amomum Mill.",
+            "id": "1418488",
+            "score": 0.00413
+        },
+        {
+            "name": "Cornus racemosa Lam.",
+            "id": "1411549",
+            "score": 0.00197
+        }
+    ]
+}

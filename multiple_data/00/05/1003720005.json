@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Silene gallica L.",
+            "id": "1356595",
+            "score": 0.91776
+        },
+        {
+            "name": "Silene mutabilis L.",
+            "id": "1396287",
+            "score": 0.02598
+        },
+        {
+            "name": "Silene colorata Poir.",
+            "id": "1356975",
+            "score": 0.00591
+        },
+        {
+            "name": "Silene dioica (L.) Clairv.",
+            "id": "1356985",
+            "score": 0.0032
+        },
+        {
+            "name": "Silene sclerocarpa Dufour",
+            "id": "1357044",
+            "score": 0.00239
+        },
+        {
+            "name": "Silene nocturna L.",
+            "id": "1357025",
+            "score": 0.00218
+        },
+        {
+            "name": "Silene conica L.",
+            "id": "1356976",
+            "score": 0.00191
+        },
+        {
+            "name": "Silene apetala Willd.",
+            "id": "1356952",
+            "score": 0.00108
+        }
+    ]
+}

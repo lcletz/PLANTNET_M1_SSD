@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Clematis vitalba L.",
+            "id": "1360161",
+            "score": 0.89314
+        },
+        {
+            "name": "Clematis virginiana L.",
+            "id": "1411500",
+            "score": 0.02883
+        },
+        {
+            "name": "Clematis alpina (L.) Mill.",
+            "id": "1397354",
+            "score": 0.01284
+        },
+        {
+            "name": "Clematis flammula L.",
+            "id": "1360159",
+            "score": 0.00934
+        },
+        {
+            "name": "Actaea pachypoda Elliott",
+            "id": "1414303",
+            "score": 0.00436
+        },
+        {
+            "name": "Actaea racemosa L.",
+            "id": "1414305",
+            "score": 0.00143
+        },
+        {
+            "name": "Clematis montana Buch.-Ham. ex DC.",
+            "id": "1391296",
+            "score": 0.0014
+        },
+        {
+            "name": "Clematis ligusticifolia Nutt.",
+            "id": "1411496",
+            "score": 0.00112
+        }
+    ]
+}

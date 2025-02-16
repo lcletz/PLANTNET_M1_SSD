@@ -1,0 +1,395 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.20818
+        },
+        {
+            "name": "Leontodon hispidus L.",
+            "id": "1357697",
+            "score": 0.17041
+        },
+        {
+            "name": "Picris hieracioides L.",
+            "id": "1364160",
+            "score": 0.09591
+        },
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.08762
+        },
+        {
+            "name": "Crepis conyzifolia (Gouan) A.Kern.",
+            "id": "1391446",
+            "score": 0.06624
+        },
+        {
+            "name": "Bunias orientalis L.",
+            "id": "1389581",
+            "score": 0.05094
+        },
+        {
+            "name": "Taraxacum mattmarkense Soest",
+            "id": "1396621",
+            "score": 0.05052
+        },
+        {
+            "name": "Crepis pontana (L.) Dalla Torre",
+            "id": "1505553",
+            "score": 0.03082
+        },
+        {
+            "name": "Hypochaeris radicata L.",
+            "id": "1355872",
+            "score": 0.03022
+        },
+        {
+            "name": "Hypochaeris maculata L.",
+            "id": "1393262",
+            "score": 0.02628
+        },
+        {
+            "name": "Crepis biennis L.",
+            "id": "1391445",
+            "score": 0.02434
+        },
+        {
+            "name": "Hypochaeris glabra L.",
+            "id": "1355871",
+            "score": 0.02419
+        },
+        {
+            "name": "Taraxacum sect. Taraxacum F.H.Wigg.",
+            "id": "1737545",
+            "score": 0.02388
+        },
+        {
+            "name": "Crepis pyrenaica (L.) Greuter",
+            "id": "1391458",
+            "score": 0.01932
+        },
+        {
+            "name": "Crepis mollis (Jacq.) Asch.",
+            "id": "1391455",
+            "score": 0.01741
+        },
+        {
+            "name": "Scorzoneroides autumnalis (L.) Moench",
+            "id": "1396117",
+            "score": 0.01606
+        },
+        {
+            "name": "Helminthotheca echioides (L.) Holub",
+            "id": "1357635",
+            "score": 0.01197
+        },
+        {
+            "name": "Lactuca virosa L.",
+            "id": "1355868",
+            "score": 0.01168
+        },
+        {
+            "name": "Pilosella aurantiaca (L.) F.W.Schultz & Sch.Bip.",
+            "id": "1394567",
+            "score": 0.01068
+        },
+        {
+            "name": "Biscutella laevigata L.",
+            "id": "1362417",
+            "score": 0.01045
+        },
+        {
+            "name": "Crepis foetida L.",
+            "id": "1355870",
+            "score": 0.0098
+        },
+        {
+            "name": "Crepis albida Vill.",
+            "id": "1357521",
+            "score": 0.00976
+        },
+        {
+            "name": "Urospermum picroides (L.) Scop. ex F.W.Schmidt",
+            "id": "1396956",
+            "score": 0.00954
+        },
+        {
+            "name": "Crepis aurea (L.) Cass.",
+            "id": "1505431",
+            "score": 0.00953
+        },
+        {
+            "name": "Leontodon tuberosus L.",
+            "id": "1357702",
+            "score": 0.00928
+        },
+        {
+            "name": "Isatis tinctoria L.",
+            "id": "1358340",
+            "score": 0.008
+        },
+        {
+            "name": "Crepis setosa Haller f.",
+            "id": "1361760",
+            "score": 0.00797
+        },
+        {
+            "name": "Hypochaeris uniflora Vill.",
+            "id": "1357663",
+            "score": 0.00742
+        },
+        {
+            "name": "Hieracium glaucinum Jord.",
+            "id": "1392931",
+            "score": 0.00686
+        },
+        {
+            "name": "Crepis pulchra L.",
+            "id": "1357542",
+            "score": 0.00668
+        },
+        {
+            "name": "Taraxacum erythrospermum Andrz. ex Besser",
+            "id": "1362499",
+            "score": 0.00643
+        },
+        {
+            "name": "Hypochaeris achyrophorus L.",
+            "id": "1357654",
+            "score": 0.0061
+        },
+        {
+            "name": "Hieracium murorum L.",
+            "id": "1393025",
+            "score": 0.00582
+        },
+        {
+            "name": "Pilosella cymosa (L.) F.W.Schultz & Sch.Bip.",
+            "id": "1394573",
+            "score": 0.00526
+        },
+        {
+            "name": "Centaurea triumfettii All.",
+            "id": "1426115",
+            "score": 0.00469
+        },
+        {
+            "name": "Sonchus tenerrimus L.",
+            "id": "1364171",
+            "score": 0.00433
+        },
+        {
+            "name": "Pilosella officinarum Vaill.",
+            "id": "1517561",
+            "score": 0.00429
+        },
+        {
+            "name": "Reichardia picroides (L.) Roth",
+            "id": "1357815",
+            "score": 0.00399
+        },
+        {
+            "name": "Sonchus palustris L.",
+            "id": "1361781",
+            "score": 0.00395
+        },
+        {
+            "name": "Tolpis staticifolia (All.) Sch.Bip.",
+            "id": "1396809",
+            "score": 0.00382
+        },
+        {
+            "name": "Sonchus maritimus L.",
+            "id": "1364169",
+            "score": 0.0038
+        },
+        {
+            "name": "Lactuca serriola L.",
+            "id": "1364173",
+            "score": 0.00341
+        },
+        {
+            "name": "Hieracium umbellatum L.",
+            "id": "1393169",
+            "score": 0.00325
+        },
+        {
+            "name": "Crepis paludosa (L.) Moench",
+            "id": "1391457",
+            "score": 0.00311
+        },
+        {
+            "name": "Hieracium maculatum Schrank",
+            "id": "1393002",
+            "score": 0.00308
+        },
+        {
+            "name": "Picris rhagadioloides (L.) Desf.",
+            "id": "1357783",
+            "score": 0.00306
+        },
+        {
+            "name": "Scorzoneroides montana (Lam.) Holub",
+            "id": "1396118",
+            "score": 0.00303
+        },
+        {
+            "name": "Tolpis barbata (L.) Gaertn.",
+            "id": "1357934",
+            "score": 0.00285
+        },
+        {
+            "name": "Taraxacum mediterraneum Soest",
+            "id": "1396622",
+            "score": 0.00284
+        },
+        {
+            "name": "Taraxacum palustre (Lyons) Symons",
+            "id": "1396640",
+            "score": 0.00281
+        },
+        {
+            "name": "Leontodon incanus (L.) Schrank",
+            "id": "1393481",
+            "score": 0.00272
+        },
+        {
+            "name": "Pentanema montanum (L.) D.Gut.Larr., Santos-Vicente, Anderb., E.Rico & M.M.Mart.Ort.",
+            "id": "1743211",
+            "score": 0.00271
+        },
+        {
+            "name": "Pilosella caespitosa (Dumort.) P.D.Sell & C.West",
+            "id": "1394571",
+            "score": 0.0027
+        },
+        {
+            "name": "Cirsium erisithales Scop.",
+            "id": "1738947",
+            "score": 0.00265
+        },
+        {
+            "name": "Crepis vesicaria L.",
+            "id": "1357549",
+            "score": 0.00257
+        },
+        {
+            "name": "Hieracium amplexicaule L.",
+            "id": "1357643",
+            "score": 0.00256
+        },
+        {
+            "name": "Crepis sancta (L.) Bornm.",
+            "id": "1357546",
+            "score": 0.00252
+        },
+        {
+            "name": "Centaurea pullata L.",
+            "id": "1357448",
+            "score": 0.00244
+        },
+        {
+            "name": "Leontodon saxatilis Lam.",
+            "id": "1357700",
+            "score": 0.00236
+        },
+        {
+            "name": "Pseudopodospermum hispanicum (L.) Zaika, Sukhor. & N.Kilian",
+            "id": "1739189",
+            "score": 0.00235
+        },
+        {
+            "name": "Pentanema salicinum (L.) D.Gut.Larr., Santos-Vicente, Anderb., E.Rico & M.M.Mart.Ort.",
+            "id": "1737667",
+            "score": 0.00226
+        },
+        {
+            "name": "Pilosella guthnikiana (Hegetschw. & Heer) Soják",
+            "id": "1742019",
+            "score": 0.00219
+        },
+        {
+            "name": "Sonchus oleraceus L.",
+            "id": "1364170",
+            "score": 0.00209
+        },
+        {
+            "name": "Hieracium alpinum L.",
+            "id": "1392785",
+            "score": 0.00208
+        },
+        {
+            "name": "Hieracium gouanii Arv.-Touv.",
+            "id": "1392936",
+            "score": 0.00208
+        },
+        {
+            "name": "Sonchus asper (L.) Hill",
+            "id": "1357875",
+            "score": 0.00203
+        },
+        {
+            "name": "Knautia arvernensis (Briq.) Szabó",
+            "id": "1393377",
+            "score": 0.00195
+        },
+        {
+            "name": "Centaurea scabiosa L.",
+            "id": "1391037",
+            "score": 0.00191
+        },
+        {
+            "name": "Scolymus grandiflorus Desf.",
+            "id": "1357847",
+            "score": 0.0019
+        },
+        {
+            "name": "Leontodon crispus Vill.",
+            "id": "1397425",
+            "score": 0.0019
+        },
+        {
+            "name": "Taraxacum clemens Matysiak",
+            "id": "1390356",
+            "score": 0.00184
+        },
+        {
+            "name": "Hieracium villosum Jacq.",
+            "id": "1393183",
+            "score": 0.0018
+        },
+        {
+            "name": "Pilosella glacialis (Reyn. ex Lachen.) F.W.Schultz & Sch.Bip.",
+            "id": "1389661",
+            "score": 0.00177
+        },
+        {
+            "name": "Hedypnois rhagadioloides (L.) F.W.Schmidt",
+            "id": "1392699",
+            "score": 0.0017
+        },
+        {
+            "name": "Cirsium heterophyllum (L.) Hill",
+            "id": "1391209",
+            "score": 0.0016
+        },
+        {
+            "name": "Hieracium schmidtii Tausch",
+            "id": "1393130",
+            "score": 0.00156
+        },
+        {
+            "name": "Urospermum dalechampii (L.) Scop. ex F.W.Schmidt",
+            "id": "1396955",
+            "score": 0.00155
+        },
+        {
+            "name": "Knautia arvensis (L.) Coult.",
+            "id": "1362327",
+            "score": 0.00151
+        }
+    ]
+}

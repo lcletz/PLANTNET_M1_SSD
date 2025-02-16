@@ -1,0 +1,465 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Alopecurus pratensis L.",
+            "id": "1362406",
+            "score": 0.94278
+        },
+        {
+            "name": "Anthoxanthum odoratum L.",
+            "id": "1363461",
+            "score": 0.14061
+        },
+        {
+            "name": "Cynodon dactylon (L.) Pers.",
+            "id": "1363526",
+            "score": 0.07224
+        },
+        {
+            "name": "Cynosurus cristatus L.",
+            "id": "1361225",
+            "score": 0.06388
+        },
+        {
+            "name": "Lolium perenne L.",
+            "id": "1363475",
+            "score": 0.05508
+        },
+        {
+            "name": "Paspalum dilatatum Poir.",
+            "id": "1363496",
+            "score": 0.05489
+        },
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.03921
+        },
+        {
+            "name": "Stenotaphrum secundatum (Walter) Kuntze",
+            "id": "1363543",
+            "score": 0.03888
+        },
+        {
+            "name": "Lolium arundinaceum (Schreb.) Darbysh.",
+            "id": "1720971",
+            "score": 0.02901
+        },
+        {
+            "name": "Alopecurus geniculatus L.",
+            "id": "1361155",
+            "score": 0.02365
+        },
+        {
+            "name": "Sporobolus indicus (L.) R.Br.",
+            "id": "1396416",
+            "score": 0.02333
+        },
+        {
+            "name": "Paspalum distichum L.",
+            "id": "1363497",
+            "score": 0.02138
+        },
+        {
+            "name": "Chloris virgata Sw.",
+            "id": "1363582",
+            "score": 0.01409
+        },
+        {
+            "name": "Zoysia japonica Steud.",
+            "id": "1365716",
+            "score": 0.01048
+        },
+        {
+            "name": "Briza media L.",
+            "id": "1361195",
+            "score": 0.00794
+        },
+        {
+            "name": "Juncus conglomeratus L.",
+            "id": "1361574",
+            "score": 0.00772
+        },
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.00736
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.00736
+        },
+        {
+            "name": "Lolium tuberosum (Romero Zarco & Cabezudo) Banfi, Galasso, Foggi, Kopecký & Ardenghi",
+            "id": "1744241",
+            "score": 0.00711
+        },
+        {
+            "name": "Poa trivialis L.",
+            "id": "1363459",
+            "score": 0.0066
+        },
+        {
+            "name": "Narthecium ossifragum (L.) Huds.",
+            "id": "1393933",
+            "score": 0.00655
+        },
+        {
+            "name": "Agrostis capillaris L.",
+            "id": "1361133",
+            "score": 0.00615
+        },
+        {
+            "name": "Elymus repens (L.) Gould",
+            "id": "1411890",
+            "score": 0.00601
+        },
+        {
+            "name": "Glyceria fluitans (L.) R.Br.",
+            "id": "1392636",
+            "score": 0.00571
+        },
+        {
+            "name": "Glyceria declinata Bréb.",
+            "id": "1361294",
+            "score": 0.00565
+        },
+        {
+            "name": "Trisetum flavescens (L.) P.Beauv.",
+            "id": "1396889",
+            "score": 0.00501
+        },
+        {
+            "name": "Poa annua L.",
+            "id": "1363455",
+            "score": 0.00483
+        },
+        {
+            "name": "Juncus acutiflorus Ehrh. ex Hoffm.",
+            "id": "1361568",
+            "score": 0.00458
+        },
+        {
+            "name": "Lolium pratense (Huds.) Darbysh.",
+            "id": "1737440",
+            "score": 0.0045
+        },
+        {
+            "name": "Festuca rubra L.",
+            "id": "1361284",
+            "score": 0.00407
+        },
+        {
+            "name": "Alopecurus myosuroides Huds.",
+            "id": "1361157",
+            "score": 0.00398
+        },
+        {
+            "name": "Danthonia decumbens (L.) DC.",
+            "id": "1361233",
+            "score": 0.00365
+        },
+        {
+            "name": "Phleum alpinum L.",
+            "id": "1362482",
+            "score": 0.00337
+        },
+        {
+            "name": "Spiranthes lacera (Raf.) Raf.",
+            "id": "1413899",
+            "score": 0.00334
+        },
+        {
+            "name": "Bromus inermis Leyss.",
+            "id": "1414356",
+            "score": 0.00322
+        },
+        {
+            "name": "Digitaria sanguinalis (L.) Scop.",
+            "id": "1363424",
+            "score": 0.00318
+        },
+        {
+            "name": "Sisyrinchium rosulatum E.P.Bicknell",
+            "id": "1396317",
+            "score": 0.00313
+        },
+        {
+            "name": "Lolium multiflorum Lam.",
+            "id": "1363474",
+            "score": 0.00286
+        },
+        {
+            "name": "Paspalum notatum Flüggé",
+            "id": "1403109",
+            "score": 0.00273
+        },
+        {
+            "name": "Setaria pumila (Poir.) Roem. & Schult.",
+            "id": "1363386",
+            "score": 0.00269
+        },
+        {
+            "name": "Juncus subnodulosus Schrank",
+            "id": "1361587",
+            "score": 0.00244
+        },
+        {
+            "name": "Glyceria notata Chevall.",
+            "id": "1361296",
+            "score": 0.00242
+        },
+        {
+            "name": "Brachypodium pinnatum (L.) P.Beauv.",
+            "id": "1388809",
+            "score": 0.00201
+        },
+        {
+            "name": "Calydorea pallens Griseb.",
+            "id": "1556058",
+            "score": 0.00178
+        },
+        {
+            "name": "Arrhenatherum elatius (L.) P.Beauv. ex J.Presl & C.Presl",
+            "id": "1396638",
+            "score": 0.00176
+        },
+        {
+            "name": "Paspalum vaginatum Sw.",
+            "id": "1363499",
+            "score": 0.0017
+        },
+        {
+            "name": "Luzula campestris (L.) DC.",
+            "id": "1361592",
+            "score": 0.00168
+        },
+        {
+            "name": "Lolium mairei (St.-Yves) Banfi, Galasso, Foggi, Kopecký & Ardenghi",
+            "id": "1747967",
+            "score": 0.00162
+        },
+        {
+            "name": "Holcus lanatus L.",
+            "id": "1363460",
+            "score": 0.00159
+        },
+        {
+            "name": "Alopecurus bulbosus Gouan",
+            "id": "1361154",
+            "score": 0.00158
+        },
+        {
+            "name": "Glyceria maxima (Hartm.) Holmb.",
+            "id": "1392637",
+            "score": 0.00149
+        },
+        {
+            "name": "Acroceras hubbardii (A.Camus) Clayton",
+            "id": "1409059",
+            "score": 0.00147
+        },
+        {
+            "name": "Cenchrus clandestinus (Hochst. ex Chiov.) Morrone",
+            "id": "1363016",
+            "score": 0.00146
+        },
+        {
+            "name": "Tetrarrhena juncea R.Br.",
+            "id": "1804767",
+            "score": 0.00145
+        },
+        {
+            "name": "Sisyrinchium angustifolium Mill.",
+            "id": "1396314",
+            "score": 0.0014
+        },
+        {
+            "name": "Phalaris coerulescens Desf.",
+            "id": "1361357",
+            "score": 0.00137
+        },
+        {
+            "name": "Sporobolus africanus (Poir.) Robyns & Tournay",
+            "id": "1364521",
+            "score": 0.00129
+        },
+        {
+            "name": "Sporobolus anglicus (C.E.Hubb.) P.M.Peterson & Saarela",
+            "id": "1737447",
+            "score": 0.00125
+        },
+        {
+            "name": "Zoysia matrella (L.) Merr.",
+            "id": "1365718",
+            "score": 0.00125
+        },
+        {
+            "name": "Avenula pubescens (Huds.) Dumort.",
+            "id": "1400086",
+            "score": 0.00124
+        },
+        {
+            "name": "Agrostis gigantea Roth",
+            "id": "1363472",
+            "score": 0.00123
+        },
+        {
+            "name": "Sporobolus maritimus (Curtis) P.M.Peterson & Saarela",
+            "id": "1738630",
+            "score": 0.00122
+        },
+        {
+            "name": "Carex disticha Huds.",
+            "id": "1390803",
+            "score": 0.00121
+        },
+        {
+            "name": "Bromus hordeaceus L.",
+            "id": "1356286",
+            "score": 0.00121
+        },
+        {
+            "name": "Eleocharis palustris (L.) Roem. & Schult.",
+            "id": "1363275",
+            "score": 0.00115
+        },
+        {
+            "name": "Juncus effusus L.",
+            "id": "1363328",
+            "score": 0.00103
+        },
+        {
+            "name": "Agrostis stolonifera L.",
+            "id": "1356321",
+            "score": 0.00096
+        },
+        {
+            "name": "Montia linearis (Douglas) Greene",
+            "id": "1743029",
+            "score": 0.00095
+        },
+        {
+            "name": "Juncus articulatus L.",
+            "id": "1361572",
+            "score": 0.0009
+        },
+        {
+            "name": "Poa compressa L.",
+            "id": "1361369",
+            "score": 0.00089
+        },
+        {
+            "name": "Bromus catharticus Vahl",
+            "id": "1407739",
+            "score": 0.00085
+        },
+        {
+            "name": "Juncus compressus Jacq.",
+            "id": "1362325",
+            "score": 0.00085
+        },
+        {
+            "name": "Chrysopogon aciculatus (Retz.) Trin.",
+            "id": "1365381",
+            "score": 0.00063
+        },
+        {
+            "name": "Hordeum secalinum Schreb.",
+            "id": "1361308",
+            "score": 0.0006
+        },
+        {
+            "name": "Bolboschoenus maritimus (L.) Palla",
+            "id": "1362194",
+            "score": 0.00053
+        },
+        {
+            "name": "Cyperus surinamensis Rottb.",
+            "id": "1401444",
+            "score": 0.00049
+        },
+        {
+            "name": "Juncus dichotomus Elliott",
+            "id": "1433410",
+            "score": 0.00044
+        },
+        {
+            "name": "Schoenoplectus triqueter (L.) Palla",
+            "id": "1363317",
+            "score": 0.00044
+        },
+        {
+            "name": "Sporobolus fertilis (Steud.) Clayton",
+            "id": "1655209",
+            "score": 0.00044
+        },
+        {
+            "name": "Cynodon plectostachyus (K.Schum.) Pilg.",
+            "id": "1423802",
+            "score": 0.00036
+        },
+        {
+            "name": "Bromus erectus Huds.",
+            "id": "1414354",
+            "score": 0.00034
+        },
+        {
+            "name": "Deschampsia cespitosa (L.) P.Beauv.",
+            "id": "1391666",
+            "score": 0.00033
+        },
+        {
+            "name": "Lolium rigidum Gaudin",
+            "id": "1363476",
+            "score": 0.00032
+        },
+        {
+            "name": "Eleocharis dulcis (Burm.f.) Trin. ex Hensch.",
+            "id": "1418621",
+            "score": 0.00032
+        },
+        {
+            "name": "Eleocharis elegans (Kunth) Roem. & Schult.",
+            "id": "1423588",
+            "score": 0.0003
+        },
+        {
+            "name": "Chloris barbata Sw.",
+            "id": "1363583",
+            "score": 0.0003
+        },
+        {
+            "name": "Eleocharis mutata (L.) Roem. & Schult.",
+            "id": "1386359",
+            "score": 0.00029
+        },
+        {
+            "name": "Cyperus eragrostis Lam.",
+            "id": "1363293",
+            "score": 0.00027
+        },
+        {
+            "name": "Cyperus polystachyos Rottb.",
+            "id": "1403951",
+            "score": 0.00027
+        },
+        {
+            "name": "Juncus balticus Willd.",
+            "id": "1419245",
+            "score": 0.00027
+        },
+        {
+            "name": "Nassella neesiana (Trin. & Rupr.) Barkworth",
+            "id": "1363407",
+            "score": 0.00026
+        },
+        {
+            "name": "Chloris gayana Kunth",
+            "id": "1363579",
+            "score": 0.00025
+        }
+    ]
+}

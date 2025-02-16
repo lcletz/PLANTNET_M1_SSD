@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hippuris vulgaris L.",
+            "id": "1392778",
+            "score": 0.88115
+        },
+        {
+            "name": "Myriophyllum aquaticum (Vell.) Verdc.",
+            "id": "1357454",
+            "score": 0.03356
+        },
+        {
+            "name": "Lycopodium annotinum L.",
+            "id": "1397431",
+            "score": 0.00672
+        },
+        {
+            "name": "Equisetum fluviatile L.",
+            "id": "1356395",
+            "score": 0.00295
+        },
+        {
+            "name": "Erica verticillata P.J.Bergius",
+            "id": "1539447",
+            "score": 0.00105
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Nicotiana glauca Graham",
+            "id": "1356158",
+            "score": 0.8225
+        },
+        {
+            "name": "Nicotiana rustica L.",
+            "id": "1356160",
+            "score": 0.0062
+        },
+        {
+            "name": "Nicotiana tabacum L.",
+            "id": "1356159",
+            "score": 0.0025
+        },
+        {
+            "name": "Nicotiana paniculata L.",
+            "id": "1361886",
+            "score": 0.00198
+        },
+        {
+            "name": "Cestrum parqui (Lam.) L'Hér.",
+            "id": "1420711",
+            "score": 0.00148
+        }
+    ]
+}

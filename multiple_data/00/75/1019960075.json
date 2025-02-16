@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Juniperus phoenicea L.",
+            "id": "1393366",
+            "score": 0.8518
+        },
+        {
+            "name": "Juniperus turbinata Guss.",
+            "id": "1743226",
+            "score": 0.06701
+        },
+        {
+            "name": "Juniperus thurifera L.",
+            "id": "1393369",
+            "score": 0.01006
+        },
+        {
+            "name": "Juniperus sabina L.",
+            "id": "1393367",
+            "score": 0.00449
+        }
+    ]
+}

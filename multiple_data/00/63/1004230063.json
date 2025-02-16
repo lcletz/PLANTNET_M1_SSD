@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Myosotis sylvatica Hoffm.",
+            "id": "1397441",
+            "score": 0.54775
+        },
+        {
+            "name": "Myosotis alpestris F.W.Schmidt",
+            "id": "1393878",
+            "score": 0.0485
+        },
+        {
+            "name": "Pulmonaria officinalis L.",
+            "id": "1394988",
+            "score": 0.0124
+        },
+        {
+            "name": "Pulmonaria obscura Dumort.",
+            "id": "1394987",
+            "score": 0.00902
+        },
+        {
+            "name": "Myosotis scorpioides L.",
+            "id": "1393897",
+            "score": 0.00651
+        },
+        {
+            "name": "Pilosella aurantiaca (L.) F.W.Schultz & Sch.Bip.",
+            "id": "1394567",
+            "score": 0.00194
+        },
+        {
+            "name": "Saponaria ocymoides L.",
+            "id": "1361747",
+            "score": 0.00122
+        }
+    ]
+}

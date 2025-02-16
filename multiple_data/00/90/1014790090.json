@@ -1,0 +1,310 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ailanthus altissima (Mill.) Swingle",
+            "id": "1360547",
+            "score": 0.08573
+        },
+        {
+            "name": "Tecoma stans (L.) Juss. ex Kunth",
+            "id": "1400150",
+            "score": 0.07298
+        },
+        {
+            "name": "Podranea ricasoliana (Tanfani) Sprague",
+            "id": "1388692",
+            "score": 0.06898
+        },
+        {
+            "name": "Harpephyllum caffrum Bernh.",
+            "id": "1385232",
+            "score": 0.03348
+        },
+        {
+            "name": "Diplazium esculentum (Retz.) Sw.",
+            "id": "1417919",
+            "score": 0.02925
+        },
+        {
+            "name": "Rhus glabra L.",
+            "id": "1397601",
+            "score": 0.02625
+        },
+        {
+            "name": "Sorbaria sorbifolia (L.) A.Braun",
+            "id": "1396352",
+            "score": 0.02386
+        },
+        {
+            "name": "Azadirachta indica A.Juss.",
+            "id": "1405342",
+            "score": 0.01501
+        },
+        {
+            "name": "Toona ciliata M.Roem.",
+            "id": "1419485",
+            "score": 0.0134
+        },
+        {
+            "name": "Jasminum polyanthum Franch.",
+            "id": "1383126",
+            "score": 0.01131
+        },
+        {
+            "name": "Nephrolepis biserrata (Sw.) Schott",
+            "id": "1400478",
+            "score": 0.01122
+        },
+        {
+            "name": "Pterocarya fraxinifolia (Poir.) Spach",
+            "id": "1394969",
+            "score": 0.01082
+        },
+        {
+            "name": "Polemonium foliosissimum A.Gray",
+            "id": "1816135",
+            "score": 0.00949
+        },
+        {
+            "name": "Jasminum officinale L.",
+            "id": "1359673",
+            "score": 0.00783
+        },
+        {
+            "name": "Rhus typhina L.",
+            "id": "1395193",
+            "score": 0.0076
+        },
+        {
+            "name": "Cyrtomium falcatum (L.f.) C.Presl",
+            "id": "1391519",
+            "score": 0.00686
+        },
+        {
+            "name": "Bergera koenigii L.",
+            "id": "1775947",
+            "score": 0.0065
+        },
+        {
+            "name": "Cardamine impatiens L.",
+            "id": "1397337",
+            "score": 0.00531
+        },
+        {
+            "name": "Polystichum lepidocaulon (Hook.) J.Sm.",
+            "id": "1722246",
+            "score": 0.00462
+        },
+        {
+            "name": "Nephrolepis falcata (Cav.) C.Chr.",
+            "id": "1401145",
+            "score": 0.00445
+        },
+        {
+            "name": "Campsis grandiflora (Thunb.) K.Schum.",
+            "id": "1390679",
+            "score": 0.00433
+        },
+        {
+            "name": "Polyscias fruticosa (L.) Harms",
+            "id": "1380922",
+            "score": 0.00433
+        },
+        {
+            "name": "Cyrtomium fortunei J.Sm.",
+            "id": "1391521",
+            "score": 0.00331
+        },
+        {
+            "name": "Antrocaryon klaineanum Pierre",
+            "id": "1385251",
+            "score": 0.00319
+        },
+        {
+            "name": "Wisteria floribunda (Willd.) DC.",
+            "id": "1397228",
+            "score": 0.00304
+        },
+        {
+            "name": "Dryopteris erythrosora (D.C.Eaton) Kuntze",
+            "id": "1722137",
+            "score": 0.00295
+        },
+        {
+            "name": "Pistacia chinensis Bunge",
+            "id": "1419331",
+            "score": 0.00287
+        },
+        {
+            "name": "Anemia mexicana Klotzsch",
+            "id": "1433318",
+            "score": 0.00274
+        },
+        {
+            "name": "Helosciadium nodiflorum (L.) W.D.J.Koch",
+            "id": "1392746",
+            "score": 0.00267
+        },
+        {
+            "name": "Osmunda regalis L.",
+            "id": "1356428",
+            "score": 0.00244
+        },
+        {
+            "name": "Pteris dentata Forssk.",
+            "id": "1408599",
+            "score": 0.00243
+        },
+        {
+            "name": "Epipremnum pinnatum (L.) Engl.",
+            "id": "1385967",
+            "score": 0.00232
+        },
+        {
+            "name": "Poupartia borbonica J.F.Gmel.",
+            "id": "1408561",
+            "score": 0.00225
+        },
+        {
+            "name": "Sambucus ebulus L.",
+            "id": "1356276",
+            "score": 0.00225
+        },
+        {
+            "name": "Thelypteris serrata (Cav.) Alston",
+            "id": "1400777",
+            "score": 0.00224
+        },
+        {
+            "name": "Berberis japonica (Thunb.) Spreng.",
+            "id": "1721496",
+            "score": 0.00222
+        },
+        {
+            "name": "Tectaria incisa Cav.",
+            "id": "1400567",
+            "score": 0.00221
+        },
+        {
+            "name": "Semele androgyna (L.) Kunth",
+            "id": "1361713",
+            "score": 0.00208
+        },
+        {
+            "name": "Spondias mombin L.",
+            "id": "1385579",
+            "score": 0.00207
+        },
+        {
+            "name": "Averrhoa bilimbi L.",
+            "id": "1366296",
+            "score": 0.00202
+        },
+        {
+            "name": "Sapindus saponaria L.",
+            "id": "1372764",
+            "score": 0.00187
+        },
+        {
+            "name": "Rhus copallinum L.",
+            "id": "1413464",
+            "score": 0.00185
+        },
+        {
+            "name": "Dryopteris championii (Benth.) C.Chr.",
+            "id": "1722147",
+            "score": 0.00183
+        },
+        {
+            "name": "Chamaedorea elegans Mart.",
+            "id": "1409457",
+            "score": 0.00171
+        },
+        {
+            "name": "Pistacia atlantica Desf.",
+            "id": "1356565",
+            "score": 0.00168
+        },
+        {
+            "name": "Woodwardia radicans (L.) Sm.",
+            "id": "1356375",
+            "score": 0.00148
+        },
+        {
+            "name": "Berula erecta (Huds.) Coville",
+            "id": "1360618",
+            "score": 0.00147
+        },
+        {
+            "name": "Senna occidentalis (L.) Link",
+            "id": "1363758",
+            "score": 0.00146
+        },
+        {
+            "name": "Osmunda japonica Thunb.",
+            "id": "1419809",
+            "score": 0.00133
+        },
+        {
+            "name": "Thelypteris reticulata (L.) Proctor",
+            "id": "1401513",
+            "score": 0.0013
+        },
+        {
+            "name": "Swietenia mahagoni (L.) Jacq.",
+            "id": "1366100",
+            "score": 0.00123
+        },
+        {
+            "name": "Gonzalagunia osaensis C.M.Taylor",
+            "id": "1673598",
+            "score": 0.00115
+        },
+        {
+            "name": "Polyscias filicifolia (C.Moore ex E.Fourn.) L.H.Bailey",
+            "id": "1409302",
+            "score": 0.00115
+        },
+        {
+            "name": "Sisymbrium irio L.",
+            "id": "1363896",
+            "score": 0.00109
+        },
+        {
+            "name": "Melia azedarach L.",
+            "id": "1363624",
+            "score": 0.00108
+        },
+        {
+            "name": "Solanum trizygum Bitter",
+            "id": "1692282",
+            "score": 0.00106
+        },
+        {
+            "name": "Diervilla rivularis Gatt.",
+            "id": "1491318",
+            "score": 0.00106
+        },
+        {
+            "name": "Pachylobus edulis G.Don",
+            "id": "1749303",
+            "score": 0.00105
+        },
+        {
+            "name": "Annona reticulata L.",
+            "id": "1386681",
+            "score": 0.00103
+        },
+        {
+            "name": "Phellodendron amurense Rupr.",
+            "id": "1413037",
+            "score": 0.00102
+        },
+        {
+            "name": "Solanum wittmackii Bitter",
+            "id": "1692338",
+            "score": 0.00102
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rosa spinosissima L.",
+            "id": "1360350",
+            "score": 0.75738
+        },
+        {
+            "name": "Rosa arvensis Huds.",
+            "id": "1395253",
+            "score": 0.05287
+        },
+        {
+            "name": "Rosa xanthina Lindl.",
+            "id": "1395238",
+            "score": 0.0453
+        },
+        {
+            "name": "Rosa agrestis Savi",
+            "id": "1360330",
+            "score": 0.03298
+        },
+        {
+            "name": "Rosa micrantha Borrer ex Sm.",
+            "id": "1360342",
+            "score": 0.00504
+        },
+        {
+            "name": "Rosa sempervirens L.",
+            "id": "1360348",
+            "score": 0.00399
+        },
+        {
+            "name": "Rosa canina L.",
+            "id": "1360334",
+            "score": 0.00355
+        },
+        {
+            "name": "Rosa corymbifera Borkh.",
+            "id": "1360335",
+            "score": 0.00262
+        },
+        {
+            "name": "Rosa villosa L.",
+            "id": "1395371",
+            "score": 0.00164
+        },
+        {
+            "name": "Rosa foetida Herrm.",
+            "id": "1395284",
+            "score": 0.00163
+        },
+        {
+            "name": "Rosa stylosa Desv.",
+            "id": "1360352",
+            "score": 0.00133
+        }
+    ]
+}

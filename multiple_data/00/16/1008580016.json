@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Populus tremula L.",
+            "id": "1360449",
+            "score": 0.78588
+        },
+        {
+            "name": "Populus tremuloides Michx.",
+            "id": "1413261",
+            "score": 0.05154
+        },
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.03838
+        },
+        {
+            "name": "Populus alba L.",
+            "id": "1364046",
+            "score": 0.01952
+        },
+        {
+            "name": "Populus grandidentata Michx.",
+            "id": "1413259",
+            "score": 0.01899
+        },
+        {
+            "name": "Populus deltoides W.Bartram ex Marshall",
+            "id": "1738800",
+            "score": 0.00987
+        },
+        {
+            "name": "Populus × canadensis Moench",
+            "id": "1683817",
+            "score": 0.0045
+        },
+        {
+            "name": "Populus × canescens (Aiton) Sm.",
+            "id": "1683819",
+            "score": 0.00225
+        },
+        {
+            "name": "Populus fremontii S.Watson",
+            "id": "1683826",
+            "score": 0.00129
+        }
+    ]
+}

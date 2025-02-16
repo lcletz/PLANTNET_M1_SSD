@@ -1,0 +1,460 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Epilobium ciliatum Raf.",
+            "id": "1391890",
+            "score": 0.35976
+        },
+        {
+            "name": "Epilobium tetragonum L.",
+            "id": "1359688",
+            "score": 0.23127
+        },
+        {
+            "name": "Epilobium parviflorum Schreb.",
+            "id": "1359686",
+            "score": 0.13533
+        },
+        {
+            "name": "Eclipta prostrata (L.) L.",
+            "id": "1364146",
+            "score": 0.05482
+        },
+        {
+            "name": "Epilobium palustre L.",
+            "id": "1359685",
+            "score": 0.04087
+        },
+        {
+            "name": "Epilobium obscurum Schreb.",
+            "id": "1359684",
+            "score": 0.03908
+        },
+        {
+            "name": "Veronica peregrina L.",
+            "id": "1359980",
+            "score": 0.02618
+        },
+        {
+            "name": "Epilobium montanum L.",
+            "id": "1391922",
+            "score": 0.02518
+        },
+        {
+            "name": "Lythrum salicaria L.",
+            "id": "1356023",
+            "score": 0.02483
+        },
+        {
+            "name": "Campanula patula L.",
+            "id": "1390669",
+            "score": 0.01984
+        },
+        {
+            "name": "Melampyrum arvense L.",
+            "id": "1393779",
+            "score": 0.01918
+        },
+        {
+            "name": "Lythrum junceum Banks & Sol.",
+            "id": "1359612",
+            "score": 0.01657
+        },
+        {
+            "name": "Epilobium lanceolatum Sebast. & Mauri",
+            "id": "1359683",
+            "score": 0.01573
+        },
+        {
+            "name": "Odontites vernus (Bellardi) Dumort.",
+            "id": "1393989",
+            "score": 0.01429
+        },
+        {
+            "name": "Melampyrum pratense L.",
+            "id": "1393782",
+            "score": 0.01391
+        },
+        {
+            "name": "Epilobium pyrricholophum Franch. & Sav.",
+            "id": "1609767",
+            "score": 0.01362
+        },
+        {
+            "name": "Helianthemum nummularium (L.) Mill.",
+            "id": "1357148",
+            "score": 0.01243
+        },
+        {
+            "name": "Campanula lusitanica Loefl.",
+            "id": "1356747",
+            "score": 0.01017
+        },
+        {
+            "name": "Jasione montana L.",
+            "id": "1356766",
+            "score": 0.00834
+        },
+        {
+            "name": "Sonchus tenerrimus L.",
+            "id": "1364171",
+            "score": 0.00799
+        },
+        {
+            "name": "Epilobium collinum C.C.Gmel.",
+            "id": "1391891",
+            "score": 0.00759
+        },
+        {
+            "name": "Myosotis scorpioides L.",
+            "id": "1393897",
+            "score": 0.00743
+        },
+        {
+            "name": "Rhinanthus alectorolophus (Scop.) Pollich",
+            "id": "1395162",
+            "score": 0.0071
+        },
+        {
+            "name": "Cerastium arvense L.",
+            "id": "1356817",
+            "score": 0.00682
+        },
+        {
+            "name": "Oenothera laciniata Hill",
+            "id": "1383109",
+            "score": 0.00615
+        },
+        {
+            "name": "Oenothera rosea L'Hér. ex Aiton",
+            "id": "1361957",
+            "score": 0.00592
+        },
+        {
+            "name": "Calendula arvensis L.",
+            "id": "1390637",
+            "score": 0.00591
+        },
+        {
+            "name": "Epilobium dodonaei Vill.",
+            "id": "1391896",
+            "score": 0.00578
+        },
+        {
+            "name": "Lythrum hyssopifolia L.",
+            "id": "1356024",
+            "score": 0.00564
+        },
+        {
+            "name": "Legousia speculum-veneris (L.) Chaix",
+            "id": "1356770",
+            "score": 0.00528
+        },
+        {
+            "name": "Valeriana locusta L.",
+            "id": "1722516",
+            "score": 0.00509
+        },
+        {
+            "name": "Gratiola officinalis L.",
+            "id": "1359880",
+            "score": 0.00474
+        },
+        {
+            "name": "Arenaria montana L.",
+            "id": "1356804",
+            "score": 0.00473
+        },
+        {
+            "name": "Melampyrum lineare Lam.",
+            "id": "1815450",
+            "score": 0.00453
+        },
+        {
+            "name": "Berteroa incana (L.) DC.",
+            "id": "1397327",
+            "score": 0.00443
+        },
+        {
+            "name": "Prunella laciniata (L.) L.",
+            "id": "1358854",
+            "score": 0.00408
+        },
+        {
+            "name": "Oenothera speciosa Nutt.",
+            "id": "1397714",
+            "score": 0.00398
+        },
+        {
+            "name": "Glebionis segetum (L.) Fourr.",
+            "id": "1357603",
+            "score": 0.00346
+        },
+        {
+            "name": "Myosotis laxa Lehm.",
+            "id": "1356706",
+            "score": 0.00345
+        },
+        {
+            "name": "Crepis capillaris (L.) Wallr.",
+            "id": "1355869",
+            "score": 0.0033
+        },
+        {
+            "name": "Epilobium hirsutum L.",
+            "id": "1361947",
+            "score": 0.00325
+        },
+        {
+            "name": "Geranium columbinum L.",
+            "id": "1358671",
+            "score": 0.00322
+        },
+        {
+            "name": "Pulicaria dysenterica (L.) Bernh.",
+            "id": "1357799",
+            "score": 0.00321
+        },
+        {
+            "name": "Campanula rapunculus L.",
+            "id": "1356752",
+            "score": 0.00321
+        },
+        {
+            "name": "Veronica scutellata L.",
+            "id": "1361878",
+            "score": 0.00318
+        },
+        {
+            "name": "Rhinanthus minor L.",
+            "id": "1395169",
+            "score": 0.00315
+        },
+        {
+            "name": "Veronica arvensis L.",
+            "id": "1364063",
+            "score": 0.0031
+        },
+        {
+            "name": "Buglossoides arvensis (L.) I.M.Johnst.",
+            "id": "1389576",
+            "score": 0.00297
+        },
+        {
+            "name": "Clarkia unguiculata Lindl.",
+            "id": "1391293",
+            "score": 0.00296
+        },
+        {
+            "name": "Clarkia amoena (Lehm.) A.Nelson & J.F.Macbr.",
+            "id": "1391291",
+            "score": 0.00276
+        },
+        {
+            "name": "Hypericum perforatum L.",
+            "id": "1356022",
+            "score": 0.00252
+        },
+        {
+            "name": "Oenothera fruticosa L.",
+            "id": "1398605",
+            "score": 0.00252
+        },
+        {
+            "name": "Jasione laevis Lam.",
+            "id": "1397413",
+            "score": 0.00247
+        },
+        {
+            "name": "Capsella bursa-pastoris (L.) Medik.",
+            "id": "1363910",
+            "score": 0.00238
+        },
+        {
+            "name": "Stellaria graminea L.",
+            "id": "1396446",
+            "score": 0.00238
+        },
+        {
+            "name": "Petrorhagia prolifera (L.) P.W.Ball & Heywood",
+            "id": "1394478",
+            "score": 0.0023
+        },
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.00218
+        },
+        {
+            "name": "Atriplex prostrata Boucher ex DC.",
+            "id": "1356488",
+            "score": 0.00216
+        },
+        {
+            "name": "Veronica austriaca L.",
+            "id": "1362391",
+            "score": 0.00197
+        },
+        {
+            "name": "Epilobium coloratum Biehler",
+            "id": "1411906",
+            "score": 0.00195
+        },
+        {
+            "name": "Euphorbia nutans Lag.",
+            "id": "1358573",
+            "score": 0.00194
+        },
+        {
+            "name": "Epilobium roseum (Schreb.) Schreb.",
+            "id": "1609772",
+            "score": 0.00192
+        },
+        {
+            "name": "Oenothera lindheimeri (Engelm. & A.Gray) W.L.Wagner & Hoch",
+            "id": "1390068",
+            "score": 0.0019
+        },
+        {
+            "name": "Misopates orontium (L.) Raf.",
+            "id": "1359943",
+            "score": 0.00185
+        },
+        {
+            "name": "Psammophiliella muralis (L.) Ikonn.",
+            "id": "1721133",
+            "score": 0.00179
+        },
+        {
+            "name": "Hypericum humifusum L.",
+            "id": "1358701",
+            "score": 0.00173
+        },
+        {
+            "name": "Epilobium alsinifolium Vill.",
+            "id": "1391878",
+            "score": 0.00165
+        },
+        {
+            "name": "Epilobium oreganum Greene",
+            "id": "1442942",
+            "score": 0.00162
+        },
+        {
+            "name": "Erysimum cheiranthoides L.",
+            "id": "1358289",
+            "score": 0.00159
+        },
+        {
+            "name": "Euphorbia exigua L.",
+            "id": "1358552",
+            "score": 0.00158
+        },
+        {
+            "name": "Symphyotrichum novi-belgii (L.) G.L.Nesom",
+            "id": "1396487",
+            "score": 0.0015
+        },
+        {
+            "name": "Erigeron philadelphicus L.",
+            "id": "1392052",
+            "score": 0.00148
+        },
+        {
+            "name": "Dianthus armeria L.",
+            "id": "1397366",
+            "score": 0.00147
+        },
+        {
+            "name": "Dittrichia viscosa (L.) Greuter",
+            "id": "1357560",
+            "score": 0.00146
+        },
+        {
+            "name": "Epilobium alpestre (Jacq.) Krock.",
+            "id": "1391876",
+            "score": 0.00141
+        },
+        {
+            "name": "Buphthalmum salicifolium L.",
+            "id": "1397329",
+            "score": 0.00139
+        },
+        {
+            "name": "Phlox divaricata L.",
+            "id": "1413047",
+            "score": 0.00135
+        },
+        {
+            "name": "Cotula coronopifolia L.",
+            "id": "1364150",
+            "score": 0.00129
+        },
+        {
+            "name": "Guizotia abyssinica (L.f.) Cass.",
+            "id": "1392658",
+            "score": 0.00124
+        },
+        {
+            "name": "Sherardia arvensis L.",
+            "id": "1364029",
+            "score": 0.00123
+        },
+        {
+            "name": "Wahlenbergia marginata (Thunb.) A.DC.",
+            "id": "1431055",
+            "score": 0.00123
+        },
+        {
+            "name": "Polygala vulgaris L.",
+            "id": "1394742",
+            "score": 0.00123
+        },
+        {
+            "name": "Aegonychon purpurocaeruleum (L.) Holub",
+            "id": "1738734",
+            "score": 0.00122
+        },
+        {
+            "name": "Scutellaria minor Huds.",
+            "id": "1396140",
+            "score": 0.00118
+        },
+        {
+            "name": "Silene flos-cuculi (L.) Greuter & Burdet",
+            "id": "1418412",
+            "score": 0.00114
+        },
+        {
+            "name": "Collinsia bartsiifolia Benth.",
+            "id": "1441564",
+            "score": 0.00111
+        },
+        {
+            "name": "Bidens cernua L.",
+            "id": "1400135",
+            "score": 0.0011
+        },
+        {
+            "name": "Epilobium anagallidifolium Lam.",
+            "id": "1391881",
+            "score": 0.00108
+        },
+        {
+            "name": "Linaria maroccana Hook.f.",
+            "id": "1393591",
+            "score": 0.00108
+        },
+        {
+            "name": "Lythrum virgatum L.",
+            "id": "1393714",
+            "score": 0.00102
+        },
+        {
+            "name": "Centaurium erythraea Rafn",
+            "id": "1358624",
+            "score": 0.00101
+        }
+    ]
+}

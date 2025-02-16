@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cardamine raphanifolia Pourr.",
+            "id": "1397338",
+            "score": 0.83492
+        },
+        {
+            "name": "Cardamine pratensis L.",
+            "id": "1358213",
+            "score": 0.11791
+        },
+        {
+            "name": "Arabidopsis arenosa (L.) Lawalrée",
+            "id": "1389345",
+            "score": 0.00608
+        },
+        {
+            "name": "Cardamine crassifolia Pourr.",
+            "id": "1390693",
+            "score": 0.0043
+        },
+        {
+            "name": "Oxalis latifolia Kunth",
+            "id": "1363639",
+            "score": 0.00312
+        },
+        {
+            "name": "Cardamine bulbifera (L.) Crantz",
+            "id": "1390691",
+            "score": 0.00156
+        },
+        {
+            "name": "Claytonia virginica L.",
+            "id": "1411493",
+            "score": 0.00128
+        }
+    ]
+}

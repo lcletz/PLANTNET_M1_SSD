@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia lathyris L.",
+            "id": "1355968",
+            "score": 0.90248
+        },
+        {
+            "name": "Euphorbia characias L.",
+            "id": "1358543",
+            "score": 0.00928
+        },
+        {
+            "name": "Nerium oleander L.",
+            "id": "1363813",
+            "score": 0.00664
+        },
+        {
+            "name": "Lobelia laxiflora Kunth",
+            "id": "1356771",
+            "score": 0.00135
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vitis coignetiae Pulliat ex Planch.",
+            "id": "1420838",
+            "score": 0.45095
+        },
+        {
+            "name": "Vitis aestivalis Michx.",
+            "id": "1397210",
+            "score": 0.31467
+        },
+        {
+            "name": "Vitis labrusca L.",
+            "id": "1363005",
+            "score": 0.10732
+        },
+        {
+            "name": "Vitis amurensis Rupr.",
+            "id": "1420835",
+            "score": 0.01694
+        },
+        {
+            "name": "Vitis vinifera L.",
+            "id": "1356217",
+            "score": 0.00724
+        },
+        {
+            "name": "Vitis tiliifolia Humb. & Bonpl. ex Schult.",
+            "id": "1408945",
+            "score": 0.00653
+        },
+        {
+            "name": "Vitis mustangensis Buckley",
+            "id": "1439648",
+            "score": 0.00284
+        },
+        {
+            "name": "Vitis flexuosa Thunb.",
+            "id": "1431050",
+            "score": 0.00192
+        }
+    ]
+}

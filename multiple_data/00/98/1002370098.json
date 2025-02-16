@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Medicago sativa L.",
+            "id": "1363732",
+            "score": 0.76732
+        },
+        {
+            "name": "Medicago × varia Martyn",
+            "id": "1581623",
+            "score": 0.13064
+        },
+        {
+            "name": "Astragalus onobrychis L.",
+            "id": "1359139",
+            "score": 0.00337
+        },
+        {
+            "name": "Vicia villosa Roth",
+            "id": "1359581",
+            "score": 0.00217
+        },
+        {
+            "name": "Trigonella caerulea (L.) Ser.",
+            "id": "1361851",
+            "score": 0.00112
+        },
+        {
+            "name": "Vicia cracca L.",
+            "id": "1397085",
+            "score": 0.00103
+        }
+    ]
+}

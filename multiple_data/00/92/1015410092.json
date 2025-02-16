@@ -1,0 +1,370 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cotoneaster bullatus Bois",
+            "id": "1391402",
+            "score": 0.45671
+        },
+        {
+            "name": "Syringa josikaea J.Jacq. ex Rchb.",
+            "id": "1746584",
+            "score": 0.07578
+        },
+        {
+            "name": "Cotoneaster franchetii Bois",
+            "id": "1391408",
+            "score": 0.03764
+        },
+        {
+            "name": "Cotoneaster integerrimus Medik.",
+            "id": "1391411",
+            "score": 0.03655
+        },
+        {
+            "name": "Cotoneaster acutifolius Turcz.",
+            "id": "1411560",
+            "score": 0.02528
+        },
+        {
+            "name": "Cotoneaster coriaceus Franch.",
+            "id": "1390095",
+            "score": 0.02066
+        },
+        {
+            "name": "Viburnum rugosum Pers.",
+            "id": "1722512",
+            "score": 0.00944
+        },
+        {
+            "name": "Malus hupehensis (Pamp.) Rehder",
+            "id": "1393732",
+            "score": 0.0086
+        },
+        {
+            "name": "Crataegus germanica (L.) Kuntze",
+            "id": "1391434",
+            "score": 0.00695
+        },
+        {
+            "name": "Cydonia oblonga Mill.",
+            "id": "1363999",
+            "score": 0.00644
+        },
+        {
+            "name": "Clematis viticella L.",
+            "id": "1391301",
+            "score": 0.00625
+        },
+        {
+            "name": "Malus prunifolia (Willd.) Borkh.",
+            "id": "1412671",
+            "score": 0.00504
+        },
+        {
+            "name": "Clerodendrum trichotomum Thunb.",
+            "id": "1441531",
+            "score": 0.00474
+        },
+        {
+            "name": "Syringa persica L.",
+            "id": "1419641",
+            "score": 0.00472
+        },
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.0047
+        },
+        {
+            "name": "Cotoneaster rehderi Pojark.",
+            "id": "1667093",
+            "score": 0.00453
+        },
+        {
+            "name": "Gaultheria shallon Pursh",
+            "id": "1392505",
+            "score": 0.00451
+        },
+        {
+            "name": "Malus sylvestris (L.) Mill.",
+            "id": "1420379",
+            "score": 0.00444
+        },
+        {
+            "name": "Cornus sanguinea L.",
+            "id": "1397356",
+            "score": 0.00437
+        },
+        {
+            "name": "Lonicera xylosteum L.",
+            "id": "1393639",
+            "score": 0.00419
+        },
+        {
+            "name": "Malus × floribunda Siebold ex Van Houtte",
+            "id": "1782760",
+            "score": 0.00415
+        },
+        {
+            "name": "Syringa pubescens Turcz.",
+            "id": "1609521",
+            "score": 0.00399
+        },
+        {
+            "name": "Aronia arbutifolia (L.) Pers.",
+            "id": "1413527",
+            "score": 0.0037
+        },
+        {
+            "name": "Cotoneaster frigidus Wall. ex Lindl.",
+            "id": "1391409",
+            "score": 0.00365
+        },
+        {
+            "name": "Malus domestica (Suckow) Borkh.",
+            "id": "1729464",
+            "score": 0.00346
+        },
+        {
+            "name": "Syringa villosa Vahl",
+            "id": "1419642",
+            "score": 0.00346
+        },
+        {
+            "name": "Prunus brigantina Vill.",
+            "id": "1394945",
+            "score": 0.00329
+        },
+        {
+            "name": "Philadelphus × virginalis Rehder",
+            "id": "1844555",
+            "score": 0.00276
+        },
+        {
+            "name": "Cotoneaster multiflorus Bunge",
+            "id": "1391390",
+            "score": 0.00268
+        },
+        {
+            "name": "Kolkwitzia amabilis Graebn.",
+            "id": "1390685",
+            "score": 0.00268
+        },
+        {
+            "name": "Holmskioldia sanguinea Retz.",
+            "id": "1378850",
+            "score": 0.00255
+        },
+        {
+            "name": "Cotoneaster nebrodensis (Guss.) K.Koch",
+            "id": "1398126",
+            "score": 0.00247
+        },
+        {
+            "name": "Prunus japonica Thunb.",
+            "id": "1394940",
+            "score": 0.00239
+        },
+        {
+            "name": "Lonicera maackii (Rupr.) Maxim.",
+            "id": "1418392",
+            "score": 0.00222
+        },
+        {
+            "name": "Lonicera alpigena L.",
+            "id": "1393630",
+            "score": 0.00215
+        },
+        {
+            "name": "Lonicera tatarica L.",
+            "id": "1393638",
+            "score": 0.00207
+        },
+        {
+            "name": "Stewartia ovata (Cav.) Weath.",
+            "id": "1420777",
+            "score": 0.00205
+        },
+        {
+            "name": "Cotoneaster obscurus Rehder & E.H.Wilson",
+            "id": "1667070",
+            "score": 0.0019
+        },
+        {
+            "name": "Malus baccata (L.) Borkh.",
+            "id": "1393736",
+            "score": 0.00183
+        },
+        {
+            "name": "Stewartia pseudocamellia Maxim.",
+            "id": "1721460",
+            "score": 0.0018
+        },
+        {
+            "name": "Syringa reticulata (Blume) H.Hara",
+            "id": "1609522",
+            "score": 0.00178
+        },
+        {
+            "name": "Calycanthus floridus L.",
+            "id": "1398326",
+            "score": 0.00174
+        },
+        {
+            "name": "Lonicera caprifolium L.",
+            "id": "1393632",
+            "score": 0.00173
+        },
+        {
+            "name": "Viburnum carlesii Hemsl.",
+            "id": "1397080",
+            "score": 0.00172
+        },
+        {
+            "name": "Cotoneaster salicifolius Franch.",
+            "id": "1391418",
+            "score": 0.0017
+        },
+        {
+            "name": "Vaccinium corymbosum L.",
+            "id": "1396966",
+            "score": 0.00165
+        },
+        {
+            "name": "Styrax japonicus Siebold & Zucc.",
+            "id": "1420758",
+            "score": 0.00155
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.00152
+        },
+        {
+            "name": "Malus spectabilis (Aiton) Borkh.",
+            "id": "1393734",
+            "score": 0.0015
+        },
+        {
+            "name": "Cistus populifolius L.",
+            "id": "1357109",
+            "score": 0.00146
+        },
+        {
+            "name": "Cotoneaster moupinensis Franch.",
+            "id": "1391388",
+            "score": 0.00146
+        },
+        {
+            "name": "Salix reticulata L.",
+            "id": "1395868",
+            "score": 0.00143
+        },
+        {
+            "name": "Philadelphus pubescens Loisel.",
+            "id": "1398588",
+            "score": 0.00142
+        },
+        {
+            "name": "Cotoneaster affinis Lindl.",
+            "id": "1391400",
+            "score": 0.0014
+        },
+        {
+            "name": "Lonicera ruprechtiana Regel",
+            "id": "1434144",
+            "score": 0.0014
+        },
+        {
+            "name": "Ehretia anacua (Terán & Berland.) I.M.Johnst.",
+            "id": "1477947",
+            "score": 0.00135
+        },
+        {
+            "name": "Cotoneaster dielsianus E.Pritz.",
+            "id": "1666972",
+            "score": 0.00134
+        },
+        {
+            "name": "Cotoneaster ambiguus Rehder & E.H.Wilson",
+            "id": "1666928",
+            "score": 0.00132
+        },
+        {
+            "name": "Chaenomeles speciosa (Sweet) Nakai",
+            "id": "1391104",
+            "score": 0.00126
+        },
+        {
+            "name": "Cotoneaster zabelii C.K.Schneid.",
+            "id": "1391398",
+            "score": 0.00121
+        },
+        {
+            "name": "Diospyros kaki L.f.",
+            "id": "1391735",
+            "score": 0.00114
+        },
+        {
+            "name": "Prunus mexicana S.Watson",
+            "id": "1667993",
+            "score": 0.00113
+        },
+        {
+            "name": "Gaultheria sclerophylla Cuatrec.",
+            "id": "1539581",
+            "score": 0.00109
+        },
+        {
+            "name": "Euonymus latifolius (L.) Mill.",
+            "id": "1392238",
+            "score": 0.00104
+        },
+        {
+            "name": "Hydrangea paniculata Siebold",
+            "id": "1393223",
+            "score": 0.00102
+        },
+        {
+            "name": "Lonicera japonica Thunb.",
+            "id": "1356786",
+            "score": 0.00102
+        },
+        {
+            "name": "Crataegus monogyna Jacq.",
+            "id": "1363988",
+            "score": 0.00094
+        },
+        {
+            "name": "Crataegus laevigata (Poir.) DC.",
+            "id": "1360293",
+            "score": 0.00078
+        },
+        {
+            "name": "Cotoneaster pannosus Franch.",
+            "id": "1391394",
+            "score": 0.00072
+        },
+        {
+            "name": "Cotoneaster horizontalis Decne.",
+            "id": "1391410",
+            "score": 0.00058
+        },
+        {
+            "name": "Pyracantha coccinea M.Roem.",
+            "id": "1394994",
+            "score": 0.00057
+        },
+        {
+            "name": "Cotoneaster × watereri Exell",
+            "id": "1667154",
+            "score": 0.00051
+        },
+        {
+            "name": "Aronia melanocarpa (Michx.) Elliott",
+            "id": "1398450",
+            "score": 0.00045
+        }
+    ]
+}

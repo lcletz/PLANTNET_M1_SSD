@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Scirpoides holoschoenus (L.) Soják",
+            "id": "1361106",
+            "score": 0.66908
+        },
+        {
+            "name": "Juncus conglomeratus L.",
+            "id": "1361574",
+            "score": 0.10603
+        },
+        {
+            "name": "Juncus effusus L.",
+            "id": "1363328",
+            "score": 0.04749
+        },
+        {
+            "name": "Juncus acutus L.",
+            "id": "1361569",
+            "score": 0.01665
+        },
+        {
+            "name": "Rumex pseudonatronatus (Borbás) Murb.",
+            "id": "1658630",
+            "score": 0.01059
+        },
+        {
+            "name": "Scirpus atrovirens Willd.",
+            "id": "1396095",
+            "score": 0.00812
+        },
+        {
+            "name": "Juncus maritimus Lam.",
+            "id": "1361581",
+            "score": 0.0033
+        },
+        {
+            "name": "Schoenoplectus lacustris (L.) Palla",
+            "id": "1361104",
+            "score": 0.00254
+        },
+        {
+            "name": "Cyperus eragrostis Lam.",
+            "id": "1363293",
+            "score": 0.00243
+        },
+        {
+            "name": "Cyperus difformis L.",
+            "id": "1363292",
+            "score": 0.00183
+        },
+        {
+            "name": "Carex extensa Gooden.",
+            "id": "1361053",
+            "score": 0.00158
+        },
+        {
+            "name": "Cyperus ligularis L.",
+            "id": "1403991",
+            "score": 0.0011
+        }
+    ]
+}

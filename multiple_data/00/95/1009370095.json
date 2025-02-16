@@ -1,0 +1,485 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Papaver somniferum L.",
+            "id": "1363130",
+            "score": 0.47266
+        },
+        {
+            "name": "Papaver orientale L.",
+            "id": "1394404",
+            "score": 0.18795
+        },
+        {
+            "name": "Papaver rhoeas L.",
+            "id": "1363128",
+            "score": 0.08051
+        },
+        {
+            "name": "Allium vineale L.",
+            "id": "1360945",
+            "score": 0.07645
+        },
+        {
+            "name": "Allium ampeloprasum L.",
+            "id": "1358134",
+            "score": 0.02726
+        },
+        {
+            "name": "Lilium martagon L.",
+            "id": "1393534",
+            "score": 0.01887
+        },
+        {
+            "name": "Cirsium heterophyllum (L.) Hill",
+            "id": "1391209",
+            "score": 0.01758
+        },
+        {
+            "name": "Silene latifolia Poir.",
+            "id": "1357009",
+            "score": 0.01586
+        },
+        {
+            "name": "Allium scorodoprasum L.",
+            "id": "1360935",
+            "score": 0.01079
+        },
+        {
+            "name": "Hypochaeris radicata L.",
+            "id": "1355872",
+            "score": 0.01077
+        },
+        {
+            "name": "Allium canadense L.",
+            "id": "1411691",
+            "score": 0.01075
+        },
+        {
+            "name": "Tragopogon pratensis L.",
+            "id": "1396832",
+            "score": 0.0106
+        },
+        {
+            "name": "Tussilago farfara L.",
+            "id": "1357950",
+            "score": 0.0091
+        },
+        {
+            "name": "Reichardia picroides (L.) Roth",
+            "id": "1357815",
+            "score": 0.00649
+        },
+        {
+            "name": "Centaurea scabiosa L.",
+            "id": "1391037",
+            "score": 0.00645
+        },
+        {
+            "name": "Silphium perfoliatum L.",
+            "id": "1396301",
+            "score": 0.006
+        },
+        {
+            "name": "Calycanthus occidentalis Hook. & Arn.",
+            "id": "1418345",
+            "score": 0.00585
+        },
+        {
+            "name": "Tyrimnus leucographus (L.) Cass.",
+            "id": "1357951",
+            "score": 0.00448
+        },
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.00399
+        },
+        {
+            "name": "Narcissus obsoletus (Haw.) Spach",
+            "id": "1425272",
+            "score": 0.00381
+        },
+        {
+            "name": "Allium angulosum L.",
+            "id": "1392503",
+            "score": 0.00366
+        },
+        {
+            "name": "Trifolium fragiferum L.",
+            "id": "1356278",
+            "score": 0.00362
+        },
+        {
+            "name": "Asphodelus macrocarpus Parl.",
+            "id": "1361019",
+            "score": 0.0036
+        },
+        {
+            "name": "Amaryllis belladonna L.",
+            "id": "1361418",
+            "score": 0.00308
+        },
+        {
+            "name": "Tragopogon dubius Scop.",
+            "id": "1364167",
+            "score": 0.00304
+        },
+        {
+            "name": "Asclepias syriaca L.",
+            "id": "1397115",
+            "score": 0.003
+        },
+        {
+            "name": "Trifolium pratense L.",
+            "id": "1359517",
+            "score": 0.00274
+        },
+        {
+            "name": "Malva sylvestris L.",
+            "id": "1363947",
+            "score": 0.0027
+        },
+        {
+            "name": "Allium sativum L.",
+            "id": "1358126",
+            "score": 0.00269
+        },
+        {
+            "name": "Cistus laurifolius L.",
+            "id": "1357104",
+            "score": 0.00261
+        },
+        {
+            "name": "Eriocapitella hupehensis (É.Lemoine) Christenh. & Byng",
+            "id": "1729993",
+            "score": 0.00261
+        },
+        {
+            "name": "Allium commutatum Guss.",
+            "id": "1362525",
+            "score": 0.00252
+        },
+        {
+            "name": "Allium flavum L.",
+            "id": "1362404",
+            "score": 0.00245
+        },
+        {
+            "name": "Leucas deflexa Hook.f.",
+            "id": "1560505",
+            "score": 0.00233
+        },
+        {
+            "name": "Iris sibirica L.",
+            "id": "1393304",
+            "score": 0.00228
+        },
+        {
+            "name": "Allium oleraceum L.",
+            "id": "1392704",
+            "score": 0.00216
+        },
+        {
+            "name": "Arctium lappa L.",
+            "id": "1396002",
+            "score": 0.00208
+        },
+        {
+            "name": "Papaver dubium L.",
+            "id": "1363129",
+            "score": 0.00201
+        },
+        {
+            "name": "Allium carinatum L.",
+            "id": "1392528",
+            "score": 0.00199
+        },
+        {
+            "name": "Veltheimia bracteata Harv. ex Baker",
+            "id": "1417744",
+            "score": 0.00198
+        },
+        {
+            "name": "Selinum carvifolium (L.) L.",
+            "id": "1737493",
+            "score": 0.0019
+        },
+        {
+            "name": "Allium pallens L.",
+            "id": "1360928",
+            "score": 0.00189
+        },
+        {
+            "name": "Helianthus petiolaris Nutt.",
+            "id": "1392722",
+            "score": 0.00188
+        },
+        {
+            "name": "Allium sphaerocephalon L.",
+            "id": "1392805",
+            "score": 0.00185
+        },
+        {
+            "name": "Fritillaria involucrata All.",
+            "id": "1392366",
+            "score": 0.00182
+        },
+        {
+            "name": "Cistus ladanifer L.",
+            "id": "1357103",
+            "score": 0.00181
+        },
+        {
+            "name": "Papaver setiferum Goldblatt",
+            "id": "1737543",
+            "score": 0.00179
+        },
+        {
+            "name": "Liriodendron tulipifera L.",
+            "id": "1393614",
+            "score": 0.00177
+        },
+        {
+            "name": "Allium tuberosum Rottler ex Spreng.",
+            "id": "1418843",
+            "score": 0.00173
+        },
+        {
+            "name": "Cirsium canum (L.) All.",
+            "id": "1391184",
+            "score": 0.00172
+        },
+        {
+            "name": "Thelesperma megapotamicum (Spreng.) Herter",
+            "id": "1816308",
+            "score": 0.00171
+        },
+        {
+            "name": "Agrostemma githago L.",
+            "id": "1356672",
+            "score": 0.00159
+        },
+        {
+            "name": "Butomus umbellatus L.",
+            "id": "1361024",
+            "score": 0.00159
+        },
+        {
+            "name": "Rudbeckia hirta L.",
+            "id": "1395638",
+            "score": 0.00157
+        },
+        {
+            "name": "Asphodelus albus Mill.",
+            "id": "1397256",
+            "score": 0.00154
+        },
+        {
+            "name": "Narcissus papyraceus Ker Gawl.",
+            "id": "1360965",
+            "score": 0.00147
+        },
+        {
+            "name": "Onopordum acanthium L.",
+            "id": "1357723",
+            "score": 0.00129
+        },
+        {
+            "name": "Melocactus curvispinus Pfeiff.",
+            "id": "1487492",
+            "score": 0.00129
+        },
+        {
+            "name": "Agave virginica L.",
+            "id": "1816907",
+            "score": 0.00128
+        },
+        {
+            "name": "Scorzonera humilis L.",
+            "id": "1396115",
+            "score": 0.00128
+        },
+        {
+            "name": "Armeria maritima (Mill.) Willd.",
+            "id": "1413349",
+            "score": 0.00127
+        },
+        {
+            "name": "Helianthus pauciflorus Nutt.",
+            "id": "1392721",
+            "score": 0.00127
+        },
+        {
+            "name": "Allium cepa L.",
+            "id": "1358140",
+            "score": 0.0012
+        },
+        {
+            "name": "Leucanthemum vulgare Lam.",
+            "id": "1393513",
+            "score": 0.0012
+        },
+        {
+            "name": "Allium schoenoprasum L.",
+            "id": "1392774",
+            "score": 0.00117
+        },
+        {
+            "name": "Papaver apulum Ten.",
+            "id": "1394400",
+            "score": 0.00114
+        },
+        {
+            "name": "Uvariodendron gorgonis Verdc.",
+            "id": "1388657",
+            "score": 0.00114
+        },
+        {
+            "name": "Malva arborea (L.) Webb & Berthel.",
+            "id": "1362856",
+            "score": 0.00113
+        },
+        {
+            "name": "Monotropa uniflora L.",
+            "id": "1412752",
+            "score": 0.00113
+        },
+        {
+            "name": "Helianthus tuberosus L.",
+            "id": "1357617",
+            "score": 0.00113
+        },
+        {
+            "name": "Senecio smithii DC.",
+            "id": "1520911",
+            "score": 0.00111
+        },
+        {
+            "name": "Silene coronaria (L.) Clairv.",
+            "id": "1356979",
+            "score": 0.0011
+        },
+        {
+            "name": "Heracleum sphondylium L.",
+            "id": "1360744",
+            "score": 0.0011
+        },
+        {
+            "name": "Plantago lanceolata L.",
+            "id": "1356066",
+            "score": 0.00109
+        },
+        {
+            "name": "Silene vulgaris (Moench) Garcke",
+            "id": "1357059",
+            "score": 0.00103
+        },
+        {
+            "name": "Allium nigrum L.",
+            "id": "1360926",
+            "score": 0.00102
+        },
+        {
+            "name": "Argyranthemum frutescens (L.) Sch.Bip.",
+            "id": "1408638",
+            "score": 0.00101
+        },
+        {
+            "name": "Allium roseum L.",
+            "id": "1360931",
+            "score": 0.00101
+        },
+        {
+            "name": "Pteridium aquilinum (L.) Kuhn",
+            "id": "1356404",
+            "score": 0.00101
+        },
+        {
+            "name": "Allium paniculatum L.",
+            "id": "1362021",
+            "score": 0.00098
+        },
+        {
+            "name": "Monarda fistulosa L.",
+            "id": "1397733",
+            "score": 0.00097
+        },
+        {
+            "name": "Rosa chinensis Jacq.",
+            "id": "1395231",
+            "score": 0.00096
+        },
+        {
+            "name": "Nicandra physalodes (L.) Gaertn.",
+            "id": "1356144",
+            "score": 0.00094
+        },
+        {
+            "name": "Phlomis fruticosa L.",
+            "id": "1394526",
+            "score": 0.00089
+        },
+        {
+            "name": "Narcissus pseudonarcissus L.",
+            "id": "1360968",
+            "score": 0.00088
+        },
+        {
+            "name": "Rhinanthus minor L.",
+            "id": "1395169",
+            "score": 0.00087
+        },
+        {
+            "name": "Senecio inaequidens DC.",
+            "id": "1396197",
+            "score": 0.00087
+        },
+        {
+            "name": "Lamium amplexicaule L.",
+            "id": "1356111",
+            "score": 0.00084
+        },
+        {
+            "name": "Narcissus tazetta L.",
+            "id": "1360971",
+            "score": 0.00083
+        },
+        {
+            "name": "Phlomis russeliana (Sims) Lag. ex Benth.",
+            "id": "1561364",
+            "score": 0.00082
+        },
+        {
+            "name": "Hydrangea macrophylla (Thunb.) Ser.",
+            "id": "1361819",
+            "score": 0.00082
+        },
+        {
+            "name": "Eriophorum scheuchzeri Hoppe",
+            "id": "1392066",
+            "score": 0.00081
+        },
+        {
+            "name": "Homogyne alpina (L.) Cass.",
+            "id": "1393200",
+            "score": 0.00081
+        },
+        {
+            "name": "Dipsacus sativus (L.) Honck.",
+            "id": "1391749",
+            "score": 0.00079
+        },
+        {
+            "name": "Angelica atropurpurea L.",
+            "id": "1399920",
+            "score": 0.00078
+        },
+        {
+            "name": "Allium atroviolaceum Boiss.",
+            "id": "1397818",
+            "score": 0.00077
+        }
+    ]
+}

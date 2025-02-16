@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Primula marginata Curtis",
+            "id": "1394916",
+            "score": 0.93163
+        },
+        {
+            "name": "Primula latifolia Lapeyr.",
+            "id": "1394913",
+            "score": 0.02076
+        },
+        {
+            "name": "Primula hirsuta All.",
+            "id": "1394910",
+            "score": 0.0067
+        },
+        {
+            "name": "Primula farinosa L.",
+            "id": "1397542",
+            "score": 0.0018
+        },
+        {
+            "name": "Primula auricula L.",
+            "id": "1394898",
+            "score": 0.00136
+        }
+    ]
+}

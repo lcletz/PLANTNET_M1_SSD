@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Barbarea vulgaris R.Br.",
+            "id": "1400100",
+            "score": 0.34315
+        },
+        {
+            "name": "Barbarea verna (Mill.) Asch.",
+            "id": "1363871",
+            "score": 0.24471
+        },
+        {
+            "name": "Bunias orientalis L.",
+            "id": "1389581",
+            "score": 0.0108
+        },
+        {
+            "name": "Sinapis alba L.",
+            "id": "1363889",
+            "score": 0.003
+        },
+        {
+            "name": "Aurinia saxatilis (L.) Desv.",
+            "id": "1397326",
+            "score": 0.00231
+        },
+        {
+            "name": "Brassica napus L.",
+            "id": "1363908",
+            "score": 0.00172
+        }
+    ]
+}

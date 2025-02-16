@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hyssopus officinalis L.",
+            "id": "1358747",
+            "score": 0.95714
+        },
+        {
+            "name": "Lavandula stoechas L.",
+            "id": "1358766",
+            "score": 0.00387
+        },
+        {
+            "name": "Satureja montana L.",
+            "id": "1361829",
+            "score": 0.00383
+        },
+        {
+            "name": "Satureja hortensis L.",
+            "id": "1395936",
+            "score": 0.00217
+        },
+        {
+            "name": "Galium boreale L.",
+            "id": "1392445",
+            "score": 0.00143
+        }
+    ]
+}

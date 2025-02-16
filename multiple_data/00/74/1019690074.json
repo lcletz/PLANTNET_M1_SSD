@@ -1,0 +1,60 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Erigeron canadensis L.",
+            "id": "1392041",
+            "score": 0.35491
+        },
+        {
+            "name": "Erigeron sumatrensis Retz.",
+            "id": "1355908",
+            "score": 0.03367
+        },
+        {
+            "name": "Erigeron floribundus (Kunth) Sch.Bip.",
+            "id": "1388806",
+            "score": 0.01507
+        },
+        {
+            "name": "Senecio sylvaticus L.",
+            "id": "1357868",
+            "score": 0.00315
+        },
+        {
+            "name": "Symphyotrichum subulatum (Michx.) G.L.Nesom",
+            "id": "1396489",
+            "score": 0.00274
+        },
+        {
+            "name": "Euthamia graminifolia (L.) Nutt.",
+            "id": "1392232",
+            "score": 0.00257
+        },
+        {
+            "name": "Lepidium ruderale L.",
+            "id": "1358357",
+            "score": 0.00224
+        },
+        {
+            "name": "Erigeron blakei Cabrera",
+            "id": "1392040",
+            "score": 0.00202
+        },
+        {
+            "name": "Artemisia dracunculus L.",
+            "id": "1362645",
+            "score": 0.00186
+        },
+        {
+            "name": "Artemisia campestris L.",
+            "id": "1357275",
+            "score": 0.00115
+        },
+        {
+            "name": "Lactuca quercina L.",
+            "id": "1397421",
+            "score": 0.00106
+        }
+    ]
+}

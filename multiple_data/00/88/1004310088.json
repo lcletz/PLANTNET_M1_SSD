@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bryonia cretica L.",
+            "id": "1358446",
+            "score": 0.94248
+        },
+        {
+            "name": "Bryonia alba L.",
+            "id": "1389570",
+            "score": 0.2719
+        },
+        {
+            "name": "Bryonia verrucosa Aiton",
+            "id": "1529567",
+            "score": 0.0054
+        },
+        {
+            "name": "Bryonia syriaca Boiss.",
+            "id": "1426046",
+            "score": 0.00236
+        },
+        {
+            "name": "Marah macrocarpa (Greene) Greene",
+            "id": "1529988",
+            "score": 0.0018
+        },
+        {
+            "name": "Marah fabacea (Naudin) Greene",
+            "id": "1529983",
+            "score": 0.00124
+        },
+        {
+            "name": "Corallocarpus bainesii (Hook.f.) A.Meeuse",
+            "id": "1431341",
+            "score": 0.00114
+        }
+    ]
+}

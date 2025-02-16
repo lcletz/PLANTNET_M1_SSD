@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Sanguisorba minor Scop.",
+            "id": "1356303",
+            "score": 0.80473
+        },
+        {
+            "name": "Filipendula vulgaris Moench",
+            "id": "1360297",
+            "score": 0.05163
+        },
+        {
+            "name": "Sanguisorba officinalis L.",
+            "id": "1395920",
+            "score": 0.01342
+        },
+        {
+            "name": "Thalictrum flavum L.",
+            "id": "1360229",
+            "score": 0.0058
+        },
+        {
+            "name": "Sanguisorba verrucosa (Link ex G.Don) Ces.",
+            "id": "1669707",
+            "score": 0.00153
+        }
+    ]
+}

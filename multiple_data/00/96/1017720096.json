@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Philadelphus pubescens Loisel.",
+            "id": "1398588",
+            "score": 0.89258
+        },
+        {
+            "name": "Philadelphus lewisii Pursh",
+            "id": "1413040",
+            "score": 0.03386
+        },
+        {
+            "name": "Philadelphus × virginalis Rehder",
+            "id": "1844555",
+            "score": 0.01873
+        },
+        {
+            "name": "Philadelphus inodorus L.",
+            "id": "1413039",
+            "score": 0.01519
+        },
+        {
+            "name": "Philadelphus coronarius L.",
+            "id": "1394509",
+            "score": 0.00748
+        },
+        {
+            "name": "Philadelphus schrenkii Rupr.",
+            "id": "1555034",
+            "score": 0.00462
+        },
+        {
+            "name": "Philadelphus hirsutus Nutt.",
+            "id": "1436281",
+            "score": 0.00293
+        }
+    ]
+}

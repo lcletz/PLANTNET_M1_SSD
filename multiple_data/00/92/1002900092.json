@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lagurus ovatus L.",
+            "id": "1363433",
+            "score": 0.91692
+        },
+        {
+            "name": "Polypogon monspeliensis (L.) Desf.",
+            "id": "1363402",
+            "score": 0.03481
+        },
+        {
+            "name": "Polypogon maritimus Willd.",
+            "id": "1361384",
+            "score": 0.00192
+        },
+        {
+            "name": "Setaria pumila (Poir.) Roem. & Schult.",
+            "id": "1363386",
+            "score": 0.00149
+        },
+        {
+            "name": "Melica ciliata L.",
+            "id": "1361329",
+            "score": 0.00142
+        }
+    ]
+}

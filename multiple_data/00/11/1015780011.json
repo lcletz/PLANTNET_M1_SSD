@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Verbascum sinuatum L.",
+            "id": "1360542",
+            "score": 0.91556
+        },
+        {
+            "name": "Verbascum pulverulentum Vill.",
+            "id": "1360539",
+            "score": 0.01037
+        },
+        {
+            "name": "Verbascum undulatum Lam.",
+            "id": "1389473",
+            "score": 0.00829
+        },
+        {
+            "name": "Verbascum giganteum Willk.",
+            "id": "1400036",
+            "score": 0.00383
+        },
+        {
+            "name": "Verbascum phlomoides L.",
+            "id": "1397025",
+            "score": 0.00276
+        },
+        {
+            "name": "Verbascum boerhavii L.",
+            "id": "1360520",
+            "score": 0.00253
+        },
+        {
+            "name": "Verbascum speciosum Schrad.",
+            "id": "1398668",
+            "score": 0.0017
+        }
+    ]
+}

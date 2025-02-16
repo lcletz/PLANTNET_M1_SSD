@@ -1,0 +1,365 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Solidago virgaurea L.",
+            "id": "1357872",
+            "score": 0.58705
+        },
+        {
+            "name": "Solidago multiradiata Aiton",
+            "id": "1413854",
+            "score": 0.0893
+        },
+        {
+            "name": "Euthamia graminifolia (L.) Nutt.",
+            "id": "1392232",
+            "score": 0.03688
+        },
+        {
+            "name": "Solidago gigantea Aiton",
+            "id": "1396337",
+            "score": 0.03277
+        },
+        {
+            "name": "Phedimus aizoon (L.) 't Hart",
+            "id": "1389230",
+            "score": 0.02496
+        },
+        {
+            "name": "Solidago rugosa Mill.",
+            "id": "1396340",
+            "score": 0.01735
+        },
+        {
+            "name": "Senecio triangularis Hook.",
+            "id": "1413773",
+            "score": 0.01702
+        },
+        {
+            "name": "Solidago juncea Aiton",
+            "id": "1413848",
+            "score": 0.01477
+        },
+        {
+            "name": "Senecio ovatus (G.Gaertn., B.Mey. & Scherb.) Willd.",
+            "id": "1728570",
+            "score": 0.01399
+        },
+        {
+            "name": "Tanacetum vulgare L.",
+            "id": "1396512",
+            "score": 0.01301
+        },
+        {
+            "name": "Jacobaea alpina (L.) Moench",
+            "id": "1389240",
+            "score": 0.01102
+        },
+        {
+            "name": "Dittrichia viscosa (L.) Greuter",
+            "id": "1357560",
+            "score": 0.00769
+        },
+        {
+            "name": "Solidago sempervirens L.",
+            "id": "1396341",
+            "score": 0.00755
+        },
+        {
+            "name": "Solidago squarrosa Nutt.",
+            "id": "1413861",
+            "score": 0.00663
+        },
+        {
+            "name": "Rorippa palustris (L.) Besser",
+            "id": "1363914",
+            "score": 0.00617
+        },
+        {
+            "name": "Solidago velutina DC.",
+            "id": "1438446",
+            "score": 0.00494
+        },
+        {
+            "name": "Zizia aptera (A.Gray) Fernald",
+            "id": "1815444",
+            "score": 0.00454
+        },
+        {
+            "name": "Petrosedum montanum (Songeon & E.P.Perrier) Grulich",
+            "id": "1741654",
+            "score": 0.0044
+        },
+        {
+            "name": "Solidago simplex Kunth",
+            "id": "1413859",
+            "score": 0.00434
+        },
+        {
+            "name": "Rorippa sylvestris (L.) Besser",
+            "id": "1358416",
+            "score": 0.004
+        },
+        {
+            "name": "Pentanema britannica (L.) D.Gut.Larr., Santos-Vicente, Anderb., E.Rico & M.M.Mart.Ort.",
+            "id": "1737666",
+            "score": 0.0036
+        },
+        {
+            "name": "Solidago speciosa Nutt.",
+            "id": "1413860",
+            "score": 0.00352
+        },
+        {
+            "name": "Asclepias tuberosa L.",
+            "id": "1413838",
+            "score": 0.00339
+        },
+        {
+            "name": "Pentanema salicinum (L.) D.Gut.Larr., Santos-Vicente, Anderb., E.Rico & M.M.Mart.Ort.",
+            "id": "1737667",
+            "score": 0.00319
+        },
+        {
+            "name": "Solidago rigida L.",
+            "id": "1521475",
+            "score": 0.00297
+        },
+        {
+            "name": "Solidago puberula Nutt.",
+            "id": "1413857",
+            "score": 0.00283
+        },
+        {
+            "name": "Petrosedum rupestre (L.) P.V.Heath",
+            "id": "1737460",
+            "score": 0.00228
+        },
+        {
+            "name": "Hypericum perfoliatum L.",
+            "id": "1358706",
+            "score": 0.00223
+        },
+        {
+            "name": "Melilotus sulcatus Desf.",
+            "id": "1359364",
+            "score": 0.00218
+        },
+        {
+            "name": "Koelreuteria paniculata Laxm.",
+            "id": "1397985",
+            "score": 0.00212
+        },
+        {
+            "name": "Serratula tinctoria L.",
+            "id": "1357870",
+            "score": 0.00205
+        },
+        {
+            "name": "Solidago odora Aiton",
+            "id": "1438427",
+            "score": 0.00204
+        },
+        {
+            "name": "Solidago missouriensis Nutt.",
+            "id": "1413851",
+            "score": 0.00199
+        },
+        {
+            "name": "Odontites luteus (L.) Clairv.",
+            "id": "1362473",
+            "score": 0.00199
+        },
+        {
+            "name": "Solidago canadensis L.",
+            "id": "1396336",
+            "score": 0.00186
+        },
+        {
+            "name": "Solidago ulmifolia Muhl. ex Willd.",
+            "id": "1413864",
+            "score": 0.00183
+        },
+        {
+            "name": "Senecio integerrimus Nutt.",
+            "id": "1413765",
+            "score": 0.0018
+        },
+        {
+            "name": "Rorippa amphibia (L.) Besser",
+            "id": "1358413",
+            "score": 0.00179
+        },
+        {
+            "name": "Solidago uliginosa Nutt.",
+            "id": "1413863",
+            "score": 0.00177
+        },
+        {
+            "name": "Hypericum hircinum L.",
+            "id": "1358699",
+            "score": 0.00171
+        },
+        {
+            "name": "Senecio pyrenaicus L.",
+            "id": "1396203",
+            "score": 0.0017
+        },
+        {
+            "name": "Phedimus kamtschaticus (Fisch.) 't Hart",
+            "id": "1721141",
+            "score": 0.00169
+        },
+        {
+            "name": "Solidago caesia L.",
+            "id": "1413842",
+            "score": 0.00166
+        },
+        {
+            "name": "Barbarea orthoceras Ledeb.",
+            "id": "1414275",
+            "score": 0.00166
+        },
+        {
+            "name": "Spiraea alba Du Roi",
+            "id": "1396390",
+            "score": 0.00161
+        },
+        {
+            "name": "Solidago flexicaulis L.",
+            "id": "1413846",
+            "score": 0.00161
+        },
+        {
+            "name": "Galatella linosyris (L.) Rchb.f.",
+            "id": "1392417",
+            "score": 0.0016
+        },
+        {
+            "name": "Pentanema helveticum (Weber) D.Gut.Larr., Santos-Vicente, Anderb., E.Rico & M.M.Mart.Ort.",
+            "id": "1742788",
+            "score": 0.00157
+        },
+        {
+            "name": "Sonchus palmensis (Webb) Boulos",
+            "id": "1357898",
+            "score": 0.00151
+        },
+        {
+            "name": "Sedum lanceolatum Torr.",
+            "id": "1413752",
+            "score": 0.00147
+        },
+        {
+            "name": "Zizia aurea (L.) W.D.J.Koch",
+            "id": "1815702",
+            "score": 0.00141
+        },
+        {
+            "name": "Lysimachia vulgaris L.",
+            "id": "1361863",
+            "score": 0.0014
+        },
+        {
+            "name": "Spiraea tomentosa L.",
+            "id": "1396389",
+            "score": 0.00135
+        },
+        {
+            "name": "Psiadia punctulata Vatke",
+            "id": "1747929",
+            "score": 0.00134
+        },
+        {
+            "name": "Senecio squalidus L.",
+            "id": "1357867",
+            "score": 0.00129
+        },
+        {
+            "name": "Buphthalmum salicifolium L.",
+            "id": "1397329",
+            "score": 0.00127
+        },
+        {
+            "name": "Achillea ageratum L.",
+            "id": "1357182",
+            "score": 0.00126
+        },
+        {
+            "name": "Tagetes minuta L.",
+            "id": "1364158",
+            "score": 0.00123
+        },
+        {
+            "name": "Jacobaea incana (L.) Veldkamp",
+            "id": "1389244",
+            "score": 0.00123
+        },
+        {
+            "name": "Pentanema spiraeifolium (L.) D.Gut.Larr., Santos-Vicente, Anderb., E.Rico & M.M.Mart.Ort.",
+            "id": "1742953",
+            "score": 0.00121
+        },
+        {
+            "name": "Solidago decurrens Lour.",
+            "id": "1521432",
+            "score": 0.00118
+        },
+        {
+            "name": "Descurainia tanacetifolia (L.) Prantl",
+            "id": "1391669",
+            "score": 0.00115
+        },
+        {
+            "name": "Paederota lutea Scop.",
+            "id": "1399339",
+            "score": 0.00114
+        },
+        {
+            "name": "Sanguisorba officinalis L.",
+            "id": "1395920",
+            "score": 0.00112
+        },
+        {
+            "name": "Senecio sarracenicus L.",
+            "id": "1396206",
+            "score": 0.0011
+        },
+        {
+            "name": "Sisymbrium austriacum Jacq.",
+            "id": "1358428",
+            "score": 0.00109
+        },
+        {
+            "name": "Hieracium umbellatum L.",
+            "id": "1393169",
+            "score": 0.00105
+        },
+        {
+            "name": "Solidago macrophylla Banks ex Pursh",
+            "id": "1521456",
+            "score": 0.00104
+        },
+        {
+            "name": "Carthamus tinctorius L.",
+            "id": "1364165",
+            "score": 0.00099
+        },
+        {
+            "name": "Senecio hercynicus Herborg",
+            "id": "1396196",
+            "score": 0.00098
+        },
+        {
+            "name": "Ligularia sibirica (L.) Cass.",
+            "id": "1393524",
+            "score": 0.00096
+        },
+        {
+            "name": "Melilotus indicus (L.) All.",
+            "id": "1363749",
+            "score": 0.00094
+        }
+    ]
+}

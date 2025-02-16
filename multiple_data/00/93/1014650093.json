@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Carex ornithopoda Willd.",
+            "id": "1390878",
+            "score": 0.8734
+        },
+        {
+            "name": "Carex oshimensis Nakai",
+            "id": "1531989",
+            "score": 0.06167
+        },
+        {
+            "name": "Carex morrowii Boott",
+            "id": "1418615",
+            "score": 0.01365
+        },
+        {
+            "name": "Carex hachijoensis Akiyama",
+            "id": "1531489",
+            "score": 0.00751
+        },
+        {
+            "name": "Phalaris arundinacea L.",
+            "id": "1363490",
+            "score": 0.00556
+        },
+        {
+            "name": "Chlorophytum capense (L.) Voss",
+            "id": "1441267",
+            "score": 0.00118
+        },
+        {
+            "name": "Miscanthus sinensis Andersson",
+            "id": "1393844",
+            "score": 0.00111
+        },
+        {
+            "name": "Carex cephalophora Muhl. ex Willd.",
+            "id": "1411104",
+            "score": 0.00106
+        }
+    ]
+}

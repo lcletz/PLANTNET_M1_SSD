@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ceanothus impressus Trel.",
+            "id": "1390969",
+            "score": 0.91271
+        },
+        {
+            "name": "Ceanothus thyrsiflorus Eschw.",
+            "id": "1420323",
+            "score": 0.04168
+        },
+        {
+            "name": "Ceanothus arboreus Greene",
+            "id": "1390611",
+            "score": 0.01068
+        },
+        {
+            "name": "Ceanothus prostratus Benth.",
+            "id": "1441005",
+            "score": 0.00187
+        },
+        {
+            "name": "Ceanothus foliosus Parry",
+            "id": "1440981",
+            "score": 0.00112
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.42215
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.37921
+        },
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.14165
+        },
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.00404
+        },
+        {
+            "name": "Ribes alpinum L.",
+            "id": "1358682",
+            "score": 0.00271
+        },
+        {
+            "name": "Acer tataricum L.",
+            "id": "1398270",
+            "score": 0.00124
+        }
+    ]
+}

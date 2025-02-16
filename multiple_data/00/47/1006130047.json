@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ficus carica L.",
+            "id": "1363142",
+            "score": 0.90919
+        },
+        {
+            "name": "Ficus palmata Forssk.",
+            "id": "1363141",
+            "score": 0.0017
+        },
+        {
+            "name": "Ficus auriculata Lour.",
+            "id": "1419505",
+            "score": 0.00122
+        },
+        {
+            "name": "Broussonetia papyrifera (L.) L'Hér. ex Vent.",
+            "id": "1362912",
+            "score": 0.0012
+        },
+        {
+            "name": "Carica papaya L.",
+            "id": "1378024",
+            "score": 0.00119
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rosa banksiae R.Br. ex W.T.Aiton",
+            "id": "1395230",
+            "score": 0.12771
+        },
+        {
+            "name": "Rosa arvensis Huds.",
+            "id": "1395253",
+            "score": 0.02619
+        },
+        {
+            "name": "Rosa sempervirens L.",
+            "id": "1360348",
+            "score": 0.0145
+        },
+        {
+            "name": "Rosa canina L.",
+            "id": "1360334",
+            "score": 0.0144
+        },
+        {
+            "name": "Sorbus domestica L.",
+            "id": "1360365",
+            "score": 0.00272
+        },
+        {
+            "name": "Rosa agrestis Savi",
+            "id": "1360330",
+            "score": 0.00204
+        },
+        {
+            "name": "Kolkwitzia amabilis Graebn.",
+            "id": "1390685",
+            "score": 0.00169
+        }
+    ]
+}

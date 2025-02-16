@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vicia cracca L.",
+            "id": "1397085",
+            "score": 0.60852
+        },
+        {
+            "name": "Vicia villosa Roth",
+            "id": "1359581",
+            "score": 0.19052
+        },
+        {
+            "name": "Vicia tenuifolia Roth",
+            "id": "1359578",
+            "score": 0.12473
+        },
+        {
+            "name": "Hedysarum hedysaroides (L.) Schinz & Thell.",
+            "id": "1397396",
+            "score": 0.00452
+        },
+        {
+            "name": "Vicia incana Gouan",
+            "id": "1397094",
+            "score": 0.00428
+        },
+        {
+            "name": "Vicia benghalensis L.",
+            "id": "1363670",
+            "score": 0.00346
+        },
+        {
+            "name": "Vicia monantha Retz.",
+            "id": "1363673",
+            "score": 0.00121
+        }
+    ]
+}

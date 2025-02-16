@@ -1,0 +1,485 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bassia prostrata (L.) Beck",
+            "id": "1363045",
+            "score": 0.23872
+        },
+        {
+            "name": "Artemisia campestris L.",
+            "id": "1357275",
+            "score": 0.18298
+        },
+        {
+            "name": "Suaeda maritima (L.) Dumort.",
+            "id": "1363165",
+            "score": 0.06164
+        },
+        {
+            "name": "Camphorosma monspeliaca L.",
+            "id": "1356502",
+            "score": 0.05478
+        },
+        {
+            "name": "Artemisia alba Turra",
+            "id": "1357269",
+            "score": 0.03291
+        },
+        {
+            "name": "Artemisia dracunculus L.",
+            "id": "1362645",
+            "score": 0.02417
+        },
+        {
+            "name": "Artemisia abrotanum L.",
+            "id": "1396736",
+            "score": 0.01956
+        },
+        {
+            "name": "Santolina rosmarinifolia L.",
+            "id": "1362488",
+            "score": 0.01914
+        },
+        {
+            "name": "Bassia laniflora (S.G.Gmel.) A.J.Scott",
+            "id": "1400102",
+            "score": 0.01905
+        },
+        {
+            "name": "Epilobium dodonaei Vill.",
+            "id": "1391896",
+            "score": 0.01832
+        },
+        {
+            "name": "Artemisia californica Less.",
+            "id": "1417764",
+            "score": 0.01475
+        },
+        {
+            "name": "Lavandula stoechas L.",
+            "id": "1358766",
+            "score": 0.01404
+        },
+        {
+            "name": "Gypsophila struthium Loefl.",
+            "id": "1493056",
+            "score": 0.01172
+        },
+        {
+            "name": "Helichrysum italicum (Roth) G.Don",
+            "id": "1392725",
+            "score": 0.00985
+        },
+        {
+            "name": "Limbarda crithmoides (L.) Dumort.",
+            "id": "1357705",
+            "score": 0.00967
+        },
+        {
+            "name": "Helichrysum stoechas (L.) Moench",
+            "id": "1357630",
+            "score": 0.00922
+        },
+        {
+            "name": "Soda inermis Fourr.",
+            "id": "1742852",
+            "score": 0.00918
+        },
+        {
+            "name": "Bassia scoparia (L.) A.J.Scott",
+            "id": "1418499",
+            "score": 0.00889
+        },
+        {
+            "name": "Hyssopus officinalis L.",
+            "id": "1358747",
+            "score": 0.00862
+        },
+        {
+            "name": "Hypericum hyssopifolium Chaix",
+            "id": "1397407",
+            "score": 0.00809
+        },
+        {
+            "name": "Artemisia vulgaris L.",
+            "id": "1364152",
+            "score": 0.00759
+        },
+        {
+            "name": "Suaeda vera Forssk. ex J.F.Gmel.",
+            "id": "1397505",
+            "score": 0.00684
+        },
+        {
+            "name": "Mentha cervina L.",
+            "id": "1358786",
+            "score": 0.00638
+        },
+        {
+            "name": "Galatella linosyris (L.) Rchb.f.",
+            "id": "1392417",
+            "score": 0.00597
+        },
+        {
+            "name": "Stevia maimarensis (Hieron.) Cabrera",
+            "id": "1521894",
+            "score": 0.00521
+        },
+        {
+            "name": "Adenocarpus decorticans Boiss.",
+            "id": "1359072",
+            "score": 0.00475
+        },
+        {
+            "name": "Atriplex littoralis L.",
+            "id": "1363182",
+            "score": 0.00467
+        },
+        {
+            "name": "Myricaria germanica (L.) Desv.",
+            "id": "1393907",
+            "score": 0.00457
+        },
+        {
+            "name": "Plantago sempervirens Crantz",
+            "id": "1394640",
+            "score": 0.00446
+        },
+        {
+            "name": "Bassia hyssopifolia (Pall.) Kuntze",
+            "id": "1356494",
+            "score": 0.00414
+        },
+        {
+            "name": "Eupatorium hyssopifolium L.",
+            "id": "1443561",
+            "score": 0.00377
+        },
+        {
+            "name": "Spergula arvensis L.",
+            "id": "1356538",
+            "score": 0.00371
+        },
+        {
+            "name": "Thymus zygis L.",
+            "id": "1359051",
+            "score": 0.00355
+        },
+        {
+            "name": "Dysphania ambrosioides (L.) Mosyakin & Clemants",
+            "id": "1388787",
+            "score": 0.00347
+        },
+        {
+            "name": "Asparagus albus L.",
+            "id": "1361001",
+            "score": 0.00338
+        },
+        {
+            "name": "Galium verum L.",
+            "id": "1360422",
+            "score": 0.0033
+        },
+        {
+            "name": "Senecio flaccidus Less.",
+            "id": "1438095",
+            "score": 0.00324
+        },
+        {
+            "name": "Spergularia rubra (L.) J.Presl & C.Presl",
+            "id": "1493747",
+            "score": 0.00311
+        },
+        {
+            "name": "Artemisia herba-alba Asso",
+            "id": "1357277",
+            "score": 0.003
+        },
+        {
+            "name": "Salsola webbii Moq.",
+            "id": "1356552",
+            "score": 0.00299
+        },
+        {
+            "name": "Artemisia ludoviciana Nutt.",
+            "id": "1396735",
+            "score": 0.00298
+        },
+        {
+            "name": "Amaranthus albus L.",
+            "id": "1356471",
+            "score": 0.00298
+        },
+        {
+            "name": "Dittrichia graveolens (L.) Greuter",
+            "id": "1364127",
+            "score": 0.00294
+        },
+        {
+            "name": "Reseda luteola L.",
+            "id": "1363978",
+            "score": 0.00292
+        },
+        {
+            "name": "Reseda alba L.",
+            "id": "1360231",
+            "score": 0.00257
+        },
+        {
+            "name": "Artemisia michauxiana Besser",
+            "id": "1413676",
+            "score": 0.00251
+        },
+        {
+            "name": "Verbascum orientale (L.) All.",
+            "id": "1397024",
+            "score": 0.00249
+        },
+        {
+            "name": "Galatella sedifolia (L.) Greuter",
+            "id": "1388802",
+            "score": 0.00247
+        },
+        {
+            "name": "Artemisia frigida Willd.",
+            "id": "1413631",
+            "score": 0.00237
+        },
+        {
+            "name": "Artemisia atlantica Coss. & Durieu",
+            "id": "1499542",
+            "score": 0.00232
+        },
+        {
+            "name": "Senecio inaequidens DC.",
+            "id": "1396197",
+            "score": 0.00224
+        },
+        {
+            "name": "Caroxylon vermiculatum (L.) Akhani & Roalson",
+            "id": "1362940",
+            "score": 0.00222
+        },
+        {
+            "name": "Linaria repens (L.) Mill.",
+            "id": "1393595",
+            "score": 0.00216
+        },
+        {
+            "name": "Felicia filifolia (Vent.) Burtt Davy",
+            "id": "1507955",
+            "score": 0.00197
+        },
+        {
+            "name": "Artemisia biennis Willd.",
+            "id": "1396751",
+            "score": 0.00196
+        },
+        {
+            "name": "Artemisia maritima L.",
+            "id": "1397320",
+            "score": 0.00187
+        },
+        {
+            "name": "Oligomeris linifolia (Vahl ex Hornem.) J.F.Macbr.",
+            "id": "1425295",
+            "score": 0.00176
+        },
+        {
+            "name": "Erica scoparia L.",
+            "id": "1358511",
+            "score": 0.00176
+        },
+        {
+            "name": "Salsola kali L.",
+            "id": "1363170",
+            "score": 0.00171
+        },
+        {
+            "name": "Thymus vulgaris L.",
+            "id": "1356108",
+            "score": 0.0017
+        },
+        {
+            "name": "Atriplex patula L.",
+            "id": "1356310",
+            "score": 0.00165
+        },
+        {
+            "name": "Artemisia chamaemelifolia Vill.",
+            "id": "1397319",
+            "score": 0.00163
+        },
+        {
+            "name": "Satureja hortensis L.",
+            "id": "1395936",
+            "score": 0.00161
+        },
+        {
+            "name": "Beta trigyna Waldst. & Kit.",
+            "id": "1400124",
+            "score": 0.00153
+        },
+        {
+            "name": "Salvia × lavandulacea (de Noé) Roma-Marzio & Galasso",
+            "id": "1744279",
+            "score": 0.00152
+        },
+        {
+            "name": "Galium lucidum All.",
+            "id": "1360398",
+            "score": 0.0015
+        },
+        {
+            "name": "Atriplex canescens (Pursh) Nutt.",
+            "id": "1356479",
+            "score": 0.00149
+        },
+        {
+            "name": "Veronica peregrina L.",
+            "id": "1359980",
+            "score": 0.00141
+        },
+        {
+            "name": "Halogeton sativus (L.) Moq.",
+            "id": "1356515",
+            "score": 0.00141
+        },
+        {
+            "name": "Adenocarpus hispanicus (Lam.) DC.",
+            "id": "1569358",
+            "score": 0.0014
+        },
+        {
+            "name": "Atriplex prostrata Boucher ex DC.",
+            "id": "1356488",
+            "score": 0.00139
+        },
+        {
+            "name": "Atriplex glauca L.",
+            "id": "1363187",
+            "score": 0.00133
+        },
+        {
+            "name": "Reseda lutea L.",
+            "id": "1356295",
+            "score": 0.00131
+        },
+        {
+            "name": "Baccharis paniculata DC.",
+            "id": "1500718",
+            "score": 0.00131
+        },
+        {
+            "name": "Plantago indica L.",
+            "id": "1646477",
+            "score": 0.00118
+        },
+        {
+            "name": "Chenopodium album L.",
+            "id": "1363173",
+            "score": 0.00115
+        },
+        {
+            "name": "Asparagus acutifolius L.",
+            "id": "1361000",
+            "score": 0.00114
+        },
+        {
+            "name": "Beta vulgaris L.",
+            "id": "1363199",
+            "score": 0.00111
+        },
+        {
+            "name": "Rumex conglomeratus Murray",
+            "id": "1356078",
+            "score": 0.00109
+        },
+        {
+            "name": "Artemisia verlotiorum Lamotte",
+            "id": "1357291",
+            "score": 0.00104
+        },
+        {
+            "name": "Eriocephalus africanus L.",
+            "id": "1361764",
+            "score": 0.00102
+        },
+        {
+            "name": "Seseli austriacum (Beck) Wohlf.",
+            "id": "1399407",
+            "score": 0.00102
+        },
+        {
+            "name": "Teucrium polium L.",
+            "id": "1359009",
+            "score": 0.00102
+        },
+        {
+            "name": "Erica cinerea L.",
+            "id": "1358507",
+            "score": 0.00102
+        },
+        {
+            "name": "Soda oppositifolia (Desf.) Akhani",
+            "id": "1743354",
+            "score": 0.00101
+        },
+        {
+            "name": "Amaranthus muricatus (Gillies ex Moq.) Hieron.",
+            "id": "1393636",
+            "score": 0.00098
+        },
+        {
+            "name": "Artemisia caerulescens L.",
+            "id": "1396759",
+            "score": 0.00079
+        },
+        {
+            "name": "Reseda complicata Bory",
+            "id": "1398779",
+            "score": 0.00071
+        },
+        {
+            "name": "Amaranthus blitoides S.Watson",
+            "id": "1393587",
+            "score": 0.0006
+        },
+        {
+            "name": "Artemisia barrelieri Besser",
+            "id": "1357274",
+            "score": 0.00056
+        },
+        {
+            "name": "Reseda glauca L.",
+            "id": "1395146",
+            "score": 0.00049
+        },
+        {
+            "name": "Lepidium bonariense L.",
+            "id": "1363891",
+            "score": 0.00048
+        },
+        {
+            "name": "Reseda virgata Boiss. & Reut.",
+            "id": "1664948",
+            "score": 0.00045
+        },
+        {
+            "name": "Anarrhinum bellidifolium (L.) Willd.",
+            "id": "1393976",
+            "score": 0.00044
+        },
+        {
+            "name": "Linaria vulgaris Mill.",
+            "id": "1393600",
+            "score": 0.00042
+        },
+        {
+            "name": "Ambrosia psilostachya DC.",
+            "id": "1355902",
+            "score": 0.00041
+        }
+    ]
+}

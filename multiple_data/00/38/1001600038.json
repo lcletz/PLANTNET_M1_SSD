@@ -1,0 +1,75 @@
+{
+    "status": "REJECT",
+    "results": [
+        {
+            "name": "Fungi",
+            "id": "Fungi",
+            "score": 0.90639
+        },
+        {
+            "name": "Screenshot",
+            "id": "Screenshot",
+            "score": 0.00817
+        },
+        {
+            "name": "Art",
+            "id": "Art",
+            "score": 0.00706
+        },
+        {
+            "name": "Landscape",
+            "id": "Landscape",
+            "score": 0.00658
+        },
+        {
+            "name": "Empty",
+            "id": "Empty",
+            "score": 0.00624
+        },
+        {
+            "name": "Insecta",
+            "id": "Insecta",
+            "score": 0.00608
+        },
+        {
+            "name": "Homo_sapiens_L",
+            "id": "Homo_sapiens_L",
+            "score": 0.00596
+        },
+        {
+            "name": "Food",
+            "id": "Food",
+            "score": 0.00557
+        },
+        {
+            "name": "Animalia",
+            "id": "Animalia",
+            "score": 0.00535
+        },
+        {
+            "name": "Lichens",
+            "id": "Lichens",
+            "score": 0.00534
+        },
+        {
+            "name": "Mosses",
+            "id": "Mosses",
+            "score": 0.00517
+        },
+        {
+            "name": "Ground",
+            "id": "Ground",
+            "score": 0.00511
+        },
+        {
+            "name": "Objectum",
+            "id": "Objectum",
+            "score": 0.00463
+        },
+        {
+            "name": "Sex",
+            "id": "Sex",
+            "score": 0.00459
+        }
+    ]
+}

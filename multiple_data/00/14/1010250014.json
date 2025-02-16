@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Geranium dissectum L.",
+            "id": "1356007",
+            "score": 0.85466
+        },
+        {
+            "name": "Geranium columbinum L.",
+            "id": "1358671",
+            "score": 0.00608
+        },
+        {
+            "name": "Geranium purpureum Vill.",
+            "id": "1356012",
+            "score": 0.00469
+        },
+        {
+            "name": "Geranium sanguineum L.",
+            "id": "1392597",
+            "score": 0.00152
+        },
+        {
+            "name": "Callirhoe involucrata (Torr. & A.Gray) A.Gray",
+            "id": "1419408",
+            "score": 0.00138
+        },
+        {
+            "name": "Callirhoe digitata Nutt.",
+            "id": "1440378",
+            "score": 0.00124
+        },
+        {
+            "name": "Misopates orontium (L.) Raf.",
+            "id": "1359943",
+            "score": 0.00112
+        }
+    ]
+}

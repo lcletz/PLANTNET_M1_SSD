@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Erica carnea L.",
+            "id": "1358505",
+            "score": 0.86109
+        },
+        {
+            "name": "Erica × darleyensis Bean",
+            "id": "1844194",
+            "score": 0.02867
+        },
+        {
+            "name": "Erica cinerea L.",
+            "id": "1358507",
+            "score": 0.02018
+        },
+        {
+            "name": "Erica vagans L.",
+            "id": "1361800",
+            "score": 0.01145
+        },
+        {
+            "name": "Erica multiflora L.",
+            "id": "1358509",
+            "score": 0.0108
+        },
+        {
+            "name": "Erica erigena R.Ross",
+            "id": "1392023",
+            "score": 0.00277
+        }
+    ]
+}

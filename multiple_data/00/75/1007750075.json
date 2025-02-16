@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Avena fatua L.",
+            "id": "1363468",
+            "score": 0.73977
+        },
+        {
+            "name": "Avena sterilis L.",
+            "id": "1361190",
+            "score": 0.05556
+        },
+        {
+            "name": "Avena barbata Pott ex Link",
+            "id": "1363467",
+            "score": 0.02989
+        },
+        {
+            "name": "Avena sativa L.",
+            "id": "1363469",
+            "score": 0.0062
+        },
+        {
+            "name": "Achnatherum parviflorum (Desf.) M.Nobis",
+            "id": "1743514",
+            "score": 0.00216
+        },
+        {
+            "name": "Lagurus ovatus L.",
+            "id": "1363433",
+            "score": 0.00107
+        }
+    ]
+}

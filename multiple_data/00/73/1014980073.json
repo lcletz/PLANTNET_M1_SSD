@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Campanula cenisia L.",
+            "id": "1390657",
+            "score": 0.86522
+        },
+        {
+            "name": "Campanula alpestris All.",
+            "id": "1390652",
+            "score": 0.01461
+        },
+        {
+            "name": "Campanula poscharskyana Degen",
+            "id": "1390649",
+            "score": 0.00438
+        },
+        {
+            "name": "Campanula lasiocarpa Cham.",
+            "id": "1414415",
+            "score": 0.00406
+        },
+        {
+            "name": "Campanula cochleariifolia Lam.",
+            "id": "1390659",
+            "score": 0.00364
+        },
+        {
+            "name": "Campanula portenschlagiana Schult.",
+            "id": "1418359",
+            "score": 0.00286
+        },
+        {
+            "name": "Campanula elatines L.",
+            "id": "1390660",
+            "score": 0.00242
+        },
+        {
+            "name": "Campanula garganica Ten.",
+            "id": "1397333",
+            "score": 0.00149
+        },
+        {
+            "name": "Campanula edulis Forssk.",
+            "id": "1383636",
+            "score": 0.00131
+        },
+        {
+            "name": "Campanula piperi Howell",
+            "id": "1440562",
+            "score": 0.0013
+        }
+    ]
+}

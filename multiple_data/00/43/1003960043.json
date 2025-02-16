@@ -1,0 +1,280 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lolium perenne L.",
+            "id": "1363475",
+            "score": 0.2725
+        },
+        {
+            "name": "Lolium arundinaceum (Schreb.) Darbysh.",
+            "id": "1720971",
+            "score": 0.20569
+        },
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.07652
+        },
+        {
+            "name": "Molinia caerulea (L.) Moench",
+            "id": "1363593",
+            "score": 0.03633
+        },
+        {
+            "name": "Brachypodium phoenicoides (L.) Roem. & Schult.",
+            "id": "1388794",
+            "score": 0.02786
+        },
+        {
+            "name": "Festuca rubra L.",
+            "id": "1361284",
+            "score": 0.02749
+        },
+        {
+            "name": "Deschampsia cespitosa (L.) P.Beauv.",
+            "id": "1391666",
+            "score": 0.02116
+        },
+        {
+            "name": "Festuca ovina L.",
+            "id": "1361281",
+            "score": 0.01691
+        },
+        {
+            "name": "Poa nemoralis L.",
+            "id": "1361376",
+            "score": 0.01485
+        },
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.0123
+        },
+        {
+            "name": "Poa trivialis L.",
+            "id": "1363459",
+            "score": 0.01168
+        },
+        {
+            "name": "Lolium pratense (Huds.) Darbysh.",
+            "id": "1737440",
+            "score": 0.01093
+        },
+        {
+            "name": "Holcus lanatus L.",
+            "id": "1363460",
+            "score": 0.01049
+        },
+        {
+            "name": "Festuca filiformis Pourr.",
+            "id": "1362023",
+            "score": 0.0085
+        },
+        {
+            "name": "Festuca bromoides L.",
+            "id": "1722436",
+            "score": 0.0071
+        },
+        {
+            "name": "Bromus erectus Huds.",
+            "id": "1414354",
+            "score": 0.00672
+        },
+        {
+            "name": "Festuca heterophylla Lam.",
+            "id": "1392309",
+            "score": 0.00604
+        },
+        {
+            "name": "Elymus repens (L.) Gould",
+            "id": "1411890",
+            "score": 0.00568
+        },
+        {
+            "name": "Calamagrostis epigejos (L.) Roth",
+            "id": "1379532",
+            "score": 0.00539
+        },
+        {
+            "name": "Arrhenatherum elatius (L.) P.Beauv. ex J.Presl & C.Presl",
+            "id": "1396638",
+            "score": 0.00527
+        },
+        {
+            "name": "Lolium multiflorum Lam.",
+            "id": "1363474",
+            "score": 0.00485
+        },
+        {
+            "name": "Festuca myuros L.",
+            "id": "1720968",
+            "score": 0.00439
+        },
+        {
+            "name": "Brachypodium pinnatum (L.) P.Beauv.",
+            "id": "1388809",
+            "score": 0.00433
+        },
+        {
+            "name": "Poa compressa L.",
+            "id": "1361369",
+            "score": 0.00423
+        },
+        {
+            "name": "Nardus stricta L.",
+            "id": "1361347",
+            "score": 0.00313
+        },
+        {
+            "name": "Poa annua L.",
+            "id": "1363455",
+            "score": 0.00302
+        },
+        {
+            "name": "Trisetum flavescens (L.) P.Beauv.",
+            "id": "1396889",
+            "score": 0.00283
+        },
+        {
+            "name": "Avenella flexuosa (L.) Drejer",
+            "id": "1400084",
+            "score": 0.00273
+        },
+        {
+            "name": "Bromus hordeaceus L.",
+            "id": "1356286",
+            "score": 0.00272
+        },
+        {
+            "name": "Thinopyrum elongatum (Host) D.R.Dewey",
+            "id": "1743230",
+            "score": 0.00252
+        },
+        {
+            "name": "Calamagrostis arenaria (L.) Roth",
+            "id": "1722433",
+            "score": 0.00248
+        },
+        {
+            "name": "Oloptum miliaceum (L.) Röser & Hamasha",
+            "id": "1389833",
+            "score": 0.00238
+        },
+        {
+            "name": "Melica frutescens Scribn.",
+            "id": "1434605",
+            "score": 0.00231
+        },
+        {
+            "name": "Eragrostis plana Nees",
+            "id": "1365431",
+            "score": 0.00217
+        },
+        {
+            "name": "Festuca lemanii T.Bastard",
+            "id": "1651233",
+            "score": 0.00201
+        },
+        {
+            "name": "Festuca trachyphylla (Hack.) Hack.",
+            "id": "1651449",
+            "score": 0.00196
+        },
+        {
+            "name": "Panicum virgatum L.",
+            "id": "1394398",
+            "score": 0.00187
+        },
+        {
+            "name": "Poa bonariensis (Lam.) Kunth",
+            "id": "1654035",
+            "score": 0.00173
+        },
+        {
+            "name": "Festuca flavescens Bellardi",
+            "id": "1392296",
+            "score": 0.00163
+        },
+        {
+            "name": "Poa palustris L.",
+            "id": "1394677",
+            "score": 0.00159
+        },
+        {
+            "name": "Festuca arvernensis Auquier, Kerguélen & Markgr.-Dann.",
+            "id": "1392268",
+            "score": 0.00156
+        },
+        {
+            "name": "Festuca rupicola Heuff.",
+            "id": "1392333",
+            "score": 0.0015
+        },
+        {
+            "name": "Elymus pungens (Pers.) Melderis",
+            "id": "1650353",
+            "score": 0.00138
+        },
+        {
+            "name": "Agrostis capillaris L.",
+            "id": "1361133",
+            "score": 0.00137
+        },
+        {
+            "name": "Festuca dolichophylla J.Presl",
+            "id": "1422928",
+            "score": 0.00135
+        },
+        {
+            "name": "Festuca marginata (Hack.) K.Richt.",
+            "id": "1392319",
+            "score": 0.00131
+        },
+        {
+            "name": "Juncus effusus L.",
+            "id": "1363328",
+            "score": 0.0013
+        },
+        {
+            "name": "Festuca lachenalii (C.C.Gmel.) Spenn.",
+            "id": "1742545",
+            "score": 0.00126
+        },
+        {
+            "name": "Festuca varia Haenke",
+            "id": "1361287",
+            "score": 0.00122
+        },
+        {
+            "name": "Glyceria maxima (Hartm.) Holmb.",
+            "id": "1392637",
+            "score": 0.00115
+        },
+        {
+            "name": "Anthoxanthum odoratum L.",
+            "id": "1363461",
+            "score": 0.00112
+        },
+        {
+            "name": "Sorghum halepense (L.) Pers.",
+            "id": "1363508",
+            "score": 0.0011
+        },
+        {
+            "name": "Festuca heteromalla Pourr.",
+            "id": "1392307",
+            "score": 0.00106
+        },
+        {
+            "name": "Bromus inermis Leyss.",
+            "id": "1414356",
+            "score": 0.00104
+        },
+        {
+            "name": "Festuca ampla Hack.",
+            "id": "1361263",
+            "score": 0.00103
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Datura stramonium L.",
+            "id": "1360549",
+            "score": 0.87883
+        },
+        {
+            "name": "Datura ferox L.",
+            "id": "1356149",
+            "score": 0.01648
+        },
+        {
+            "name": "Aesculus hippocastanum L.",
+            "id": "1389550",
+            "score": 0.01451
+        },
+        {
+            "name": "Datura wrightii Regel",
+            "id": "1399913",
+            "score": 0.01375
+        },
+        {
+            "name": "Datura metel L.",
+            "id": "1356150",
+            "score": 0.00869
+        },
+        {
+            "name": "Datura ceratocaula Ortega",
+            "id": "1442344",
+            "score": 0.00736
+        },
+        {
+            "name": "Datura innoxia Mill.",
+            "id": "1391658",
+            "score": 0.00617
+        },
+        {
+            "name": "Ricinus communis L.",
+            "id": "1358609",
+            "score": 0.00289
+        },
+        {
+            "name": "Solanum linnaeanum Hepper & P.-M.L.Jaeger",
+            "id": "1432292",
+            "score": 0.00106
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Crataegus laevigata (Poir.) DC.",
+            "id": "1360293",
+            "score": 0.84801
+        },
+        {
+            "name": "Crataegus monogyna Jacq.",
+            "id": "1363988",
+            "score": 0.04683
+        },
+        {
+            "name": "Crataegus azarolus L.",
+            "id": "1360290",
+            "score": 0.0049
+        },
+        {
+            "name": "Crataegus × media Bechst.",
+            "id": "1667293",
+            "score": 0.00419
+        },
+        {
+            "name": "Scandosorbus intermedia (Ehrh.) Sennikov",
+            "id": "1737669",
+            "score": 0.00337
+        },
+        {
+            "name": "Rosa gallica L.",
+            "id": "1360338",
+            "score": 0.00199
+        },
+        {
+            "name": "Hedlundia thuringiaca (Nyman) Sennikov & Kurtto",
+            "id": "1738935",
+            "score": 0.00105
+        }
+    ]
+}

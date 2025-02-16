@@ -1,0 +1,315 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lemna minor L.",
+            "id": "1361113",
+            "score": 0.41053
+        },
+        {
+            "name": "Wolffia arrhiza (L.) Horkel ex Wimm.",
+            "id": "1361130",
+            "score": 0.08267
+        },
+        {
+            "name": "Azolla filiculoides Lam.",
+            "id": "1356371",
+            "score": 0.08117
+        },
+        {
+            "name": "Wolffia brasiliensis Wedd.",
+            "id": "1423707",
+            "score": 0.03833
+        },
+        {
+            "name": "Azolla caroliniana Willd.",
+            "id": "1356370",
+            "score": 0.02661
+        },
+        {
+            "name": "Spirodela polyrhiza (L.) Schleid.",
+            "id": "1396411",
+            "score": 0.02205
+        },
+        {
+            "name": "Lagarosiphon major (Ridl.) Moss",
+            "id": "1393419",
+            "score": 0.01584
+        },
+        {
+            "name": "Nymphaea candida C.Presl",
+            "id": "1393980",
+            "score": 0.01499
+        },
+        {
+            "name": "Spirodela punctata (G.Mey.) C.H.Thomps.",
+            "id": "1424250",
+            "score": 0.00949
+        },
+        {
+            "name": "Myriophyllum spicatum L.",
+            "id": "1357455",
+            "score": 0.00794
+        },
+        {
+            "name": "Hydrocharis morsus-ranae L.",
+            "id": "1361526",
+            "score": 0.00781
+        },
+        {
+            "name": "Azolla pinnata R.Br.",
+            "id": "1748551",
+            "score": 0.00695
+        },
+        {
+            "name": "Salvinia minima Baker",
+            "id": "1437832",
+            "score": 0.00687
+        },
+        {
+            "name": "Ludwigia peploides (Kunth) P.H.Raven",
+            "id": "1393652",
+            "score": 0.00576
+        },
+        {
+            "name": "Ranunculus fluitans Lam.",
+            "id": "1395081",
+            "score": 0.00567
+        },
+        {
+            "name": "Sagittaria sagittifolia L.",
+            "id": "1395722",
+            "score": 0.00452
+        },
+        {
+            "name": "Wolffiella welwitschii (Hegelm.) Monod",
+            "id": "1382655",
+            "score": 0.00438
+        },
+        {
+            "name": "Lemna gibba L.",
+            "id": "1361112",
+            "score": 0.00401
+        },
+        {
+            "name": "Lemna minuta Kunth",
+            "id": "1393473",
+            "score": 0.00373
+        },
+        {
+            "name": "Lemna aequinoctialis Welw.",
+            "id": "1361110",
+            "score": 0.00367
+        },
+        {
+            "name": "Utricularia bremii Heer ex Koell.",
+            "id": "1737448",
+            "score": 0.00357
+        },
+        {
+            "name": "Persicaria amphibia (L.) Delarbre",
+            "id": "1356089",
+            "score": 0.00353
+        },
+        {
+            "name": "Nymphaea alba L.",
+            "id": "1359669",
+            "score": 0.00347
+        },
+        {
+            "name": "Lemna trisulca L.",
+            "id": "1361123",
+            "score": 0.00347
+        },
+        {
+            "name": "Najas marina L.",
+            "id": "1356296",
+            "score": 0.00345
+        },
+        {
+            "name": "Potamogeton natans L.",
+            "id": "1361706",
+            "score": 0.00323
+        },
+        {
+            "name": "Myriophyllum aquaticum (Vell.) Verdc.",
+            "id": "1357454",
+            "score": 0.00323
+        },
+        {
+            "name": "Nuphar lutea (L.) Sm.",
+            "id": "1359668",
+            "score": 0.0032
+        },
+        {
+            "name": "Utricularia vulgaris L.",
+            "id": "1359589",
+            "score": 0.00314
+        },
+        {
+            "name": "Alisma plantago-aquatica L.",
+            "id": "1357998",
+            "score": 0.00283
+        },
+        {
+            "name": "Salvinia natans (L.) All.",
+            "id": "1356440",
+            "score": 0.00278
+        },
+        {
+            "name": "Ranunculus aquatilis L.",
+            "id": "1363973",
+            "score": 0.00234
+        },
+        {
+            "name": "Hippuris vulgaris L.",
+            "id": "1392778",
+            "score": 0.0023
+        },
+        {
+            "name": "Aponogeton distachyos L.f.",
+            "id": "1395285",
+            "score": 0.00213
+        },
+        {
+            "name": "Hydrocharis laevigata (Humb. & Bonpl. ex Willd.) Byng & Christenh.",
+            "id": "1724565",
+            "score": 0.00205
+        },
+        {
+            "name": "Trapa natans L.",
+            "id": "1356307",
+            "score": 0.00205
+        },
+        {
+            "name": "Victoria amazonica (Poepp.) Klotzsch",
+            "id": "1725273",
+            "score": 0.00199
+        },
+        {
+            "name": "Utricularia inflata Walter",
+            "id": "1439424",
+            "score": 0.00195
+        },
+        {
+            "name": "Elodea canadensis Michx.",
+            "id": "1361524",
+            "score": 0.00192
+        },
+        {
+            "name": "Hottonia palustris L.",
+            "id": "1393215",
+            "score": 0.00192
+        },
+        {
+            "name": "Utricularia australis R.Br.",
+            "id": "1396961",
+            "score": 0.00188
+        },
+        {
+            "name": "Utricularia purpurea Walter",
+            "id": "1414133",
+            "score": 0.00186
+        },
+        {
+            "name": "Salvinia auriculata Aubl.",
+            "id": "1400721",
+            "score": 0.00186
+        },
+        {
+            "name": "Stratiotes aloides L.",
+            "id": "1396473",
+            "score": 0.00184
+        },
+        {
+            "name": "Myriophyllum alterniflorum DC.",
+            "id": "1358685",
+            "score": 0.00181
+        },
+        {
+            "name": "Lemna valdiviana Phil.",
+            "id": "1388898",
+            "score": 0.00177
+        },
+        {
+            "name": "Hydrocotyle ranunculoides L.f.",
+            "id": "1393225",
+            "score": 0.0017
+        },
+        {
+            "name": "Callitriche stagnalis Scop.",
+            "id": "1359856",
+            "score": 0.0016
+        },
+        {
+            "name": "Crassula vaillantii (Willd.) Roth",
+            "id": "1363616",
+            "score": 0.00153
+        },
+        {
+            "name": "Wolffiella gladiata (Hegelm.) Hegelm.",
+            "id": "1439680",
+            "score": 0.00146
+        },
+        {
+            "name": "Ceratophyllum demersum L.",
+            "id": "1357093",
+            "score": 0.00143
+        },
+        {
+            "name": "Potamogeton nodosus Poir.",
+            "id": "1361707",
+            "score": 0.00135
+        },
+        {
+            "name": "Myriophyllum verticillatum L.",
+            "id": "1357459",
+            "score": 0.00128
+        },
+        {
+            "name": "Salvinia nymphellula Desv.",
+            "id": "1710107",
+            "score": 0.00128
+        },
+        {
+            "name": "Myriophyllum heterophyllum Michx.",
+            "id": "1393909",
+            "score": 0.00127
+        },
+        {
+            "name": "Luronium natans (L.) Raf.",
+            "id": "1393657",
+            "score": 0.00122
+        },
+        {
+            "name": "Callitriche palustris L.",
+            "id": "1362270",
+            "score": 0.00118
+        },
+        {
+            "name": "Elatine hexandra (Lapierre) DC.",
+            "id": "1391840",
+            "score": 0.00114
+        },
+        {
+            "name": "Potamogeton lucens L.",
+            "id": "1361168",
+            "score": 0.00113
+        },
+        {
+            "name": "Elodea densa (Planch.) Casp.",
+            "id": "1723120",
+            "score": 0.00109
+        },
+        {
+            "name": "Comarum palustre L.",
+            "id": "1391330",
+            "score": 0.00103
+        },
+        {
+            "name": "Salvinia molesta D.Mitch.",
+            "id": "1390532",
+            "score": 0.00102
+        }
+    ]
+}

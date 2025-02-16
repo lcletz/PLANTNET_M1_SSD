@@ -1,0 +1,465 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dittrichia viscosa (L.) Greuter",
+            "id": "1357560",
+            "score": 0.1481
+        },
+        {
+            "name": "Rhododendron calendulaceum (Michx.) Torr.",
+            "id": "1395179",
+            "score": 0.06712
+        },
+        {
+            "name": "Rubia tinctorum L.",
+            "id": "1360434",
+            "score": 0.05355
+        },
+        {
+            "name": "Lysimachia thyrsiflora L.",
+            "id": "1393709",
+            "score": 0.04242
+        },
+        {
+            "name": "Myosotis scorpioides L.",
+            "id": "1393897",
+            "score": 0.03449
+        },
+        {
+            "name": "Aegonychon purpurocaeruleum (L.) Holub",
+            "id": "1738734",
+            "score": 0.03301
+        },
+        {
+            "name": "Asclepias tuberosa L.",
+            "id": "1413838",
+            "score": 0.02378
+        },
+        {
+            "name": "Epilobium tetragonum L.",
+            "id": "1359688",
+            "score": 0.02062
+        },
+        {
+            "name": "Lysimachia vulgaris L.",
+            "id": "1361863",
+            "score": 0.01763
+        },
+        {
+            "name": "Lonicera caerulea L.",
+            "id": "1393631",
+            "score": 0.01292
+        },
+        {
+            "name": "Ranunculus auricomus L.",
+            "id": "1395053",
+            "score": 0.01129
+        },
+        {
+            "name": "Galium odoratum (L.) Scop.",
+            "id": "1360404",
+            "score": 0.0108
+        },
+        {
+            "name": "Galium verrucosum Huds.",
+            "id": "1360420",
+            "score": 0.01044
+        },
+        {
+            "name": "Rhododendron luteum Sweet",
+            "id": "1540273",
+            "score": 0.01033
+        },
+        {
+            "name": "Silene chalcedonica (L.) E.H.L.Krause",
+            "id": "1418409",
+            "score": 0.00942
+        },
+        {
+            "name": "Vaccinium corymbosum L.",
+            "id": "1396966",
+            "score": 0.00872
+        },
+        {
+            "name": "Erigeron philadelphicus L.",
+            "id": "1392052",
+            "score": 0.00869
+        },
+        {
+            "name": "Salix hastata L.",
+            "id": "1397478",
+            "score": 0.00832
+        },
+        {
+            "name": "Phlox paniculata L.",
+            "id": "1394721",
+            "score": 0.00796
+        },
+        {
+            "name": "Guizotia abyssinica (L.f.) Cass.",
+            "id": "1392658",
+            "score": 0.00784
+        },
+        {
+            "name": "Stellaria palustris Ehrh. ex Hoffm.",
+            "id": "1721301",
+            "score": 0.00779
+        },
+        {
+            "name": "Rubia peregrina L.",
+            "id": "1360433",
+            "score": 0.00777
+        },
+        {
+            "name": "Galium aparine L.",
+            "id": "1360385",
+            "score": 0.00771
+        },
+        {
+            "name": "Rhododendron ponticum L.",
+            "id": "1358517",
+            "score": 0.00738
+        },
+        {
+            "name": "Rabelera holostea (L.) M.T.Sharples & E.A.Tripp",
+            "id": "1737674",
+            "score": 0.0072
+        },
+        {
+            "name": "Daphne mezereum L.",
+            "id": "1391652",
+            "score": 0.00711
+        },
+        {
+            "name": "Gratiola officinalis L.",
+            "id": "1359880",
+            "score": 0.00665
+        },
+        {
+            "name": "Asclepias syriaca L.",
+            "id": "1397115",
+            "score": 0.00662
+        },
+        {
+            "name": "Oemleria cerasiformis (Torr. & A.Gray ex Hook. & Arn.) J.W.Landon",
+            "id": "1667575",
+            "score": 0.0059
+        },
+        {
+            "name": "Crataegus germanica (L.) Kuntze",
+            "id": "1391434",
+            "score": 0.00586
+        },
+        {
+            "name": "Silene flos-cuculi (L.) Greuter & Burdet",
+            "id": "1418412",
+            "score": 0.0058
+        },
+        {
+            "name": "Agrostemma githago L.",
+            "id": "1356672",
+            "score": 0.00551
+        },
+        {
+            "name": "Rhododendron roseum (Loisel.) Rehder",
+            "id": "1540408",
+            "score": 0.0054
+        },
+        {
+            "name": "Lythrum hyssopifolia L.",
+            "id": "1356024",
+            "score": 0.00538
+        },
+        {
+            "name": "Artemisia dracunculus L.",
+            "id": "1362645",
+            "score": 0.00525
+        },
+        {
+            "name": "Spiraea alba Du Roi",
+            "id": "1396390",
+            "score": 0.00515
+        },
+        {
+            "name": "Carpinus betulus L.",
+            "id": "1390952",
+            "score": 0.00501
+        },
+        {
+            "name": "Vaccinium myrtillus L.",
+            "id": "1361801",
+            "score": 0.00482
+        },
+        {
+            "name": "Phlox divaricata L.",
+            "id": "1413047",
+            "score": 0.00471
+        },
+        {
+            "name": "Anemonastrum canadense (L.) Mosyakin",
+            "id": "1737584",
+            "score": 0.00454
+        },
+        {
+            "name": "Salix repens L.",
+            "id": "1395867",
+            "score": 0.00439
+        },
+        {
+            "name": "Hypericum ellipticum Hook.",
+            "id": "1412310",
+            "score": 0.00417
+        },
+        {
+            "name": "Cynoglossum germanicum Jacq.",
+            "id": "1391500",
+            "score": 0.00408
+        },
+        {
+            "name": "Lysimachia europaea (L.) U.Manns & Anderb.",
+            "id": "1388916",
+            "score": 0.00404
+        },
+        {
+            "name": "Euphorbia palustris L.",
+            "id": "1392178",
+            "score": 0.00398
+        },
+        {
+            "name": "Scutellaria galericulata L.",
+            "id": "1396137",
+            "score": 0.00391
+        },
+        {
+            "name": "Andersonglossum virginianum (L.) J.I.Cohen",
+            "id": "1816997",
+            "score": 0.00384
+        },
+        {
+            "name": "Helleborus viridis L.",
+            "id": "1397399",
+            "score": 0.00381
+        },
+        {
+            "name": "Solidago altissima L.",
+            "id": "1413839",
+            "score": 0.00374
+        },
+        {
+            "name": "Carex plantaginea Lam.",
+            "id": "1411256",
+            "score": 0.00368
+        },
+        {
+            "name": "Mercurialis perennis L.",
+            "id": "1358605",
+            "score": 0.0036
+        },
+        {
+            "name": "Myosotis laxa Lehm.",
+            "id": "1356706",
+            "score": 0.0035
+        },
+        {
+            "name": "Salix myrsinifolia Salisb.",
+            "id": "1395843",
+            "score": 0.00349
+        },
+        {
+            "name": "Epilobium parviflorum Schreb.",
+            "id": "1359686",
+            "score": 0.00335
+        },
+        {
+            "name": "Ranunculus acris L.",
+            "id": "1360187",
+            "score": 0.00331
+        },
+        {
+            "name": "Achillea ptarmica L.",
+            "id": "1393773",
+            "score": 0.00327
+        },
+        {
+            "name": "Solidago canadensis L.",
+            "id": "1396336",
+            "score": 0.00325
+        },
+        {
+            "name": "Campanula persicifolia L.",
+            "id": "1390671",
+            "score": 0.00325
+        },
+        {
+            "name": "Cynoglossum officinale L.",
+            "id": "1391501",
+            "score": 0.00321
+        },
+        {
+            "name": "Saponaria officinalis L.",
+            "id": "1356803",
+            "score": 0.00308
+        },
+        {
+            "name": "Arabis hirsuta (L.) Scop.",
+            "id": "1358171",
+            "score": 0.00307
+        },
+        {
+            "name": "Lythrum virgatum L.",
+            "id": "1393714",
+            "score": 0.00304
+        },
+        {
+            "name": "Pulicaria dysenterica (L.) Bernh.",
+            "id": "1357799",
+            "score": 0.00297
+        },
+        {
+            "name": "Podophyllum peltatum L.",
+            "id": "1413174",
+            "score": 0.00296
+        },
+        {
+            "name": "Quercus imbricaria Michx.",
+            "id": "1419073",
+            "score": 0.0029
+        },
+        {
+            "name": "Myosotis arvensis (L.) Hill",
+            "id": "1363858",
+            "score": 0.00276
+        },
+        {
+            "name": "Astragalus glycyphyllos L.",
+            "id": "1398286",
+            "score": 0.00276
+        },
+        {
+            "name": "Buddleja globosa Hope",
+            "id": "1365271",
+            "score": 0.00272
+        },
+        {
+            "name": "Equisetum arvense L.",
+            "id": "1356394",
+            "score": 0.00264
+        },
+        {
+            "name": "Epilobium hirsutum L.",
+            "id": "1361947",
+            "score": 0.00264
+        },
+        {
+            "name": "Epilobium ciliatum Raf.",
+            "id": "1391890",
+            "score": 0.00259
+        },
+        {
+            "name": "Leucanthemella serotina (L.) Tzvelev",
+            "id": "1393493",
+            "score": 0.00258
+        },
+        {
+            "name": "Lindera benzoin (L.) Blume",
+            "id": "1412506",
+            "score": 0.00257
+        },
+        {
+            "name": "Lythrum salicaria L.",
+            "id": "1356023",
+            "score": 0.00254
+        },
+        {
+            "name": "Salix appendiculata Vill.",
+            "id": "1395742",
+            "score": 0.00254
+        },
+        {
+            "name": "Cerinthe glabra Mill.",
+            "id": "1391100",
+            "score": 0.00253
+        },
+        {
+            "name": "Symphyotrichum novae-angliae (L.) G.L.Nesom",
+            "id": "1396486",
+            "score": 0.00242
+        },
+        {
+            "name": "Spinacia oleracea L.",
+            "id": "1356556",
+            "score": 0.00241
+        },
+        {
+            "name": "Lithospermum officinale L.",
+            "id": "1393615",
+            "score": 0.00234
+        },
+        {
+            "name": "Myrica gale L.",
+            "id": "1393906",
+            "score": 0.00229
+        },
+        {
+            "name": "Quercus canariensis Willd.",
+            "id": "1358612",
+            "score": 0.00224
+        },
+        {
+            "name": "Veronica scutellata L.",
+            "id": "1361878",
+            "score": 0.00223
+        },
+        {
+            "name": "Euphorbia amygdaloides L.",
+            "id": "1358525",
+            "score": 0.00216
+        },
+        {
+            "name": "Galium triflorum Michx.",
+            "id": "1397684",
+            "score": 0.00215
+        },
+        {
+            "name": "Senecio squalidus L.",
+            "id": "1357867",
+            "score": 0.00211
+        },
+        {
+            "name": "Chionanthus virginicus L.",
+            "id": "1419614",
+            "score": 0.00211
+        },
+        {
+            "name": "Alternanthera philoxeroides (Mart.) Griseb.",
+            "id": "1393409",
+            "score": 0.00211
+        },
+        {
+            "name": "Dimorphotheca ecklonis DC.",
+            "id": "1748142",
+            "score": 0.00207
+        },
+        {
+            "name": "Dirca palustris L.",
+            "id": "1411766",
+            "score": 0.00203
+        },
+        {
+            "name": "Petasites frigidus (L.) Fr.",
+            "id": "1413018",
+            "score": 0.00192
+        },
+        {
+            "name": "Primula farinosa L.",
+            "id": "1397542",
+            "score": 0.00191
+        },
+        {
+            "name": "Persicaria hydropiper (L.) Delarbre",
+            "id": "1363046",
+            "score": 0.00191
+        }
+    ]
+}

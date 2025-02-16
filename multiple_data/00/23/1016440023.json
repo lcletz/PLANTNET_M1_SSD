@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ranunculus ficaria L.",
+            "id": "1413421",
+            "score": 0.46437
+        },
+        {
+            "name": "Ranunculus bullatus L.",
+            "id": "1360194",
+            "score": 0.02329
+        },
+        {
+            "name": "Eranthis hyemalis (L.) Salisb.",
+            "id": "1392020",
+            "score": 0.00355
+        },
+        {
+            "name": "Caltha palustris L.",
+            "id": "1397332",
+            "score": 0.00342
+        },
+        {
+            "name": "Anemone palmata L.",
+            "id": "1360154",
+            "score": 0.00324
+        }
+    ]
+}

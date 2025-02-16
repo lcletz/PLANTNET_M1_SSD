@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Leonurus cardiaca L.",
+            "id": "1358768",
+            "score": 0.92348
+        },
+        {
+            "name": "Leonurus quinquelobatus Gilib.",
+            "id": "1560443",
+            "score": 0.0052
+        },
+        {
+            "name": "Urtica urens L.",
+            "id": "1356201",
+            "score": 0.00211
+        },
+        {
+            "name": "Lamium hybridum Vill.",
+            "id": "1358751",
+            "score": 0.00184
+        },
+        {
+            "name": "Nepeta cataria L.",
+            "id": "1358827",
+            "score": 0.00167
+        },
+        {
+            "name": "Lamium album L.",
+            "id": "1393423",
+            "score": 0.00157
+        }
+    ]
+}

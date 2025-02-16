@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Thalictrum flavum L.",
+            "id": "1360229",
+            "score": 0.88691
+        },
+        {
+            "name": "Thalictrum lucidum L.",
+            "id": "1397292",
+            "score": 0.07889
+        },
+        {
+            "name": "Thalictrum aquilegiifolium L.",
+            "id": "1396734",
+            "score": 0.00443
+        },
+        {
+            "name": "Thalictrum simplex L.",
+            "id": "1396745",
+            "score": 0.00189
+        },
+        {
+            "name": "Filipendula ulmaria (L.) Maxim.",
+            "id": "1392353",
+            "score": 0.00144
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus laurocerasus L.",
+            "id": "1394952",
+            "score": 0.86393
+        },
+        {
+            "name": "Prunus serotina Ehrh.",
+            "id": "1370859",
+            "score": 0.02855
+        },
+        {
+            "name": "Prunus lusitanica L.",
+            "id": "1360322",
+            "score": 0.02788
+        },
+        {
+            "name": "Prunus caroliniana (Mill.) Aiton",
+            "id": "1420403",
+            "score": 0.00528
+        },
+        {
+            "name": "Arbutus menziesii Pursh",
+            "id": "1413017",
+            "score": 0.00173
+        },
+        {
+            "name": "Phytolacca dioica L.",
+            "id": "1356063",
+            "score": 0.00127
+        },
+        {
+            "name": "Kalmia latifolia L.",
+            "id": "1398517",
+            "score": 0.00125
+        }
+    ]
+}

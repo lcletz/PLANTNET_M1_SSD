@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Campanula rapunculus L.",
+            "id": "1356752",
+            "score": 0.78285
+        },
+        {
+            "name": "Campanula patula L.",
+            "id": "1390669",
+            "score": 0.13612
+        },
+        {
+            "name": "Campanula rapunculoides L.",
+            "id": "1383635",
+            "score": 0.01158
+        },
+        {
+            "name": "Campanula pyramidalis L.",
+            "id": "1390673",
+            "score": 0.00678
+        },
+        {
+            "name": "Campanula rotundifolia L.",
+            "id": "1362422",
+            "score": 0.00545
+        },
+        {
+            "name": "Campanula poscharskyana Degen",
+            "id": "1390649",
+            "score": 0.00498
+        },
+        {
+            "name": "Campanula trachelium L.",
+            "id": "1356757",
+            "score": 0.00244
+        },
+        {
+            "name": "Campanula persicifolia L.",
+            "id": "1390671",
+            "score": 0.00223
+        },
+        {
+            "name": "Platycodon grandiflorus (Jacq.) A.DC.",
+            "id": "1418374",
+            "score": 0.00117
+        },
+        {
+            "name": "Campanula latifolia L.",
+            "id": "1390665",
+            "score": 0.00117
+        }
+    ]
+}

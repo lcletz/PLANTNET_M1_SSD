@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lonicera xylosteum L.",
+            "id": "1393639",
+            "score": 0.94653
+        },
+        {
+            "name": "Lonicera nigra L.",
+            "id": "1393635",
+            "score": 0.01759
+        },
+        {
+            "name": "Lonicera japonica Thunb.",
+            "id": "1356786",
+            "score": 0.00115
+        },
+        {
+            "name": "Lonicera caucasica Pall.",
+            "id": "1491396",
+            "score": 0.0011
+        },
+        {
+            "name": "Lonicera caerulea L.",
+            "id": "1393631",
+            "score": 0.00106
+        },
+        {
+            "name": "Lonicera etrusca Santi",
+            "id": "1356784",
+            "score": 0.00103
+        }
+    ]
+}

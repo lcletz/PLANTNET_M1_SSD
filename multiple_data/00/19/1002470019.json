@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Solanum lycopersicum L.",
+            "id": "1396325",
+            "score": 0.55673
+        },
+        {
+            "name": "Solanum pimpinellifolium L.",
+            "id": "1420742",
+            "score": 0.03936
+        },
+        {
+            "name": "Solanum tuberosum L.",
+            "id": "1356171",
+            "score": 0.00293
+        },
+        {
+            "name": "Sesamum indicum L.",
+            "id": "1356058",
+            "score": 0.00135
+        }
+    ]
+}

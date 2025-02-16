@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Poa annua L.",
+            "id": "1363455",
+            "score": 0.93502
+        },
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.00684
+        },
+        {
+            "name": "Eragrostis minor Host",
+            "id": "1363555",
+            "score": 0.00571
+        },
+        {
+            "name": "Bromus hordeaceus L.",
+            "id": "1356286",
+            "score": 0.00413
+        },
+        {
+            "name": "Eragrostis cilianensis (All.) Vignolo ex Janch.",
+            "id": "1363551",
+            "score": 0.00302
+        },
+        {
+            "name": "Eragrostis multicaulis Steud.",
+            "id": "1361256",
+            "score": 0.00198
+        },
+        {
+            "name": "Poa supina Schrad.",
+            "id": "1361382",
+            "score": 0.00123
+        },
+        {
+            "name": "Poa trivialis L.",
+            "id": "1363459",
+            "score": 0.00111
+        },
+        {
+            "name": "Bromus catharticus Vahl",
+            "id": "1407739",
+            "score": 0.00108
+        },
+        {
+            "name": "Eragrostis hypnoides (Lam.) Britton, Sterns & Poggenb.",
+            "id": "1411930",
+            "score": 0.00104
+        }
+    ]
+}

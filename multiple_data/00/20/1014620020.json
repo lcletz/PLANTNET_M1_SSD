@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cichorium endivia L.",
+            "id": "1364163",
+            "score": 0.6481
+        },
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.19112
+        },
+        {
+            "name": "Cichorium pumilum Jacq.",
+            "id": "1357496",
+            "score": 0.04895
+        },
+        {
+            "name": "Lactuca perennis L.",
+            "id": "1397420",
+            "score": 0.00834
+        },
+        {
+            "name": "Cichorium spinosum L.",
+            "id": "1357497",
+            "score": 0.00431
+        },
+        {
+            "name": "Cicerbita macrophylla (Willd.) Wallr.",
+            "id": "1737632",
+            "score": 0.00312
+        },
+        {
+            "name": "Lactuca sibirica (L.) Benth. ex Maxim.",
+            "id": "1513225",
+            "score": 0.00143
+        }
+    ]
+}

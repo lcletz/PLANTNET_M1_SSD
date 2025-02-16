@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Paeonia officinalis L.",
+            "id": "1362842",
+            "score": 0.8158
+        },
+        {
+            "name": "Paeonia mascula (L.) Mill.",
+            "id": "1359758",
+            "score": 0.09741
+        },
+        {
+            "name": "Paeonia lactiflora Pall.",
+            "id": "1412934",
+            "score": 0.04119
+        },
+        {
+            "name": "Helleborus viridis L.",
+            "id": "1397399",
+            "score": 0.00201
+        },
+        {
+            "name": "Paeonia broteri Boiss. & Reut.",
+            "id": "1638029",
+            "score": 0.00101
+        }
+    ]
+}

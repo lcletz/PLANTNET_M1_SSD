@@ -1,0 +1,30 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Hydrangea macrophylla (Thunb.) Ser.",
+            "id": "1361819",
+            "score": 0.27069
+        },
+        {
+            "name": "Geranium ibericum Cav.",
+            "id": "1397393",
+            "score": 0.00141
+        },
+        {
+            "name": "Pentaglottis sempervirens (L.) Tausch ex L.H.Bailey",
+            "id": "1394459",
+            "score": 0.00139
+        },
+        {
+            "name": "Omphalodes verna Moench",
+            "id": "1394037",
+            "score": 0.00117
+        },
+        {
+            "name": "Gentiana brachyphylla Vill.",
+            "id": "1392541",
+            "score": 0.00112
+        }
+    ]
+}

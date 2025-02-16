@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stellaria graminea L.",
+            "id": "1396446",
+            "score": 0.93254
+        },
+        {
+            "name": "Stellaria crassifolia Ehrh.",
+            "id": "1413921",
+            "score": 0.01771
+        },
+        {
+            "name": "Stellaria palustris Ehrh. ex Hoffm.",
+            "id": "1721301",
+            "score": 0.00999
+        },
+        {
+            "name": "Stellaria longifolia Muhl. ex Willd.",
+            "id": "1413925",
+            "score": 0.00625
+        },
+        {
+            "name": "Spergula arvensis L.",
+            "id": "1356538",
+            "score": 0.00206
+        },
+        {
+            "name": "Stellaria longipes Goldie",
+            "id": "1413926",
+            "score": 0.00155
+        },
+        {
+            "name": "Cerastium fontanum Baumg.",
+            "id": "1356277",
+            "score": 0.00126
+        }
+    ]
+}

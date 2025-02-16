@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cardamine pratensis L.",
+            "id": "1358213",
+            "score": 0.90969
+        },
+        {
+            "name": "Cardamine amara L.",
+            "id": "1397336",
+            "score": 0.01111
+        },
+        {
+            "name": "Cardamine raphanifolia Pourr.",
+            "id": "1397338",
+            "score": 0.0096
+        },
+        {
+            "name": "Arabidopsis arenosa (L.) Lawalrée",
+            "id": "1389345",
+            "score": 0.00384
+        },
+        {
+            "name": "Cardamine heptaphylla (Vill.) O.E.Schulz",
+            "id": "1390699",
+            "score": 0.0023
+        },
+        {
+            "name": "Arabis alpina L.",
+            "id": "1363887",
+            "score": 0.0021
+        },
+        {
+            "name": "Cardamine bulbifera (L.) Crantz",
+            "id": "1390691",
+            "score": 0.002
+        }
+    ]
+}

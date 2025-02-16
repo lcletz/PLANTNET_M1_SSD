@@ -1,0 +1,360 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Coreopsis lanceolata L.",
+            "id": "1391350",
+            "score": 0.54775
+        },
+        {
+            "name": "Coreopsis grandiflora Hogg ex Sweet",
+            "id": "1391349",
+            "score": 0.09251
+        },
+        {
+            "name": "Coreopsis tinctoria Nutt.",
+            "id": "1391351",
+            "score": 0.06969
+        },
+        {
+            "name": "Iberis umbellata L.",
+            "id": "1363926",
+            "score": 0.06573
+        },
+        {
+            "name": "Bidens aurea (Aiton) Sherff",
+            "id": "1357321",
+            "score": 0.0334
+        },
+        {
+            "name": "Bidens bipinnata L.",
+            "id": "1364141",
+            "score": 0.02938
+        },
+        {
+            "name": "Coreopsis verticillata L.",
+            "id": "1398636",
+            "score": 0.01879
+        },
+        {
+            "name": "Artemisia dracunculus L.",
+            "id": "1362645",
+            "score": 0.01508
+        },
+        {
+            "name": "Bidens cernua L.",
+            "id": "1400135",
+            "score": 0.0141
+        },
+        {
+            "name": "Antirrhinum majus L.",
+            "id": "1359845",
+            "score": 0.01272
+        },
+        {
+            "name": "Coreopsis tripteris L.",
+            "id": "1411539",
+            "score": 0.01209
+        },
+        {
+            "name": "Spermacoce verticillata L.",
+            "id": "1371083",
+            "score": 0.00947
+        },
+        {
+            "name": "Cosmos sulphureus Cav.",
+            "id": "1373705",
+            "score": 0.00841
+        },
+        {
+            "name": "Cosmos bipinnatus Cav.",
+            "id": "1364120",
+            "score": 0.00801
+        },
+        {
+            "name": "Coreopsis palmata Nutt.",
+            "id": "1417800",
+            "score": 0.00772
+        },
+        {
+            "name": "Callistephus chinensis (L.) Nees",
+            "id": "1390640",
+            "score": 0.00669
+        },
+        {
+            "name": "Bidens subalternans DC.",
+            "id": "1400143",
+            "score": 0.00599
+        },
+        {
+            "name": "Rudbeckia laciniata L.",
+            "id": "1395639",
+            "score": 0.00491
+        },
+        {
+            "name": "Ratibida pinnata (Vent.) Barnhart",
+            "id": "1413451",
+            "score": 0.00434
+        },
+        {
+            "name": "Coreopsis pubescens Elliott",
+            "id": "1441701",
+            "score": 0.00408
+        },
+        {
+            "name": "Helianthus pauciflorus Nutt.",
+            "id": "1392721",
+            "score": 0.00392
+        },
+        {
+            "name": "Centaurea scabiosa L.",
+            "id": "1391037",
+            "score": 0.00391
+        },
+        {
+            "name": "Helianthus tuberosus L.",
+            "id": "1357617",
+            "score": 0.00389
+        },
+        {
+            "name": "Hieracium umbellatum L.",
+            "id": "1393169",
+            "score": 0.00382
+        },
+        {
+            "name": "Bidens hildebrandtii O.Hoffm.",
+            "id": "1501213",
+            "score": 0.00361
+        },
+        {
+            "name": "Anarrhinum bellidifolium (L.) Willd.",
+            "id": "1393976",
+            "score": 0.00343
+        },
+        {
+            "name": "Cosmos caudatus Kunth",
+            "id": "1406252",
+            "score": 0.0034
+        },
+        {
+            "name": "Encelia californica Nutt.",
+            "id": "1442895",
+            "score": 0.00322
+        },
+        {
+            "name": "Ranunculus abortivus L.",
+            "id": "1413411",
+            "score": 0.0032
+        },
+        {
+            "name": "Rumex acetosella L.",
+            "id": "1356082",
+            "score": 0.00298
+        },
+        {
+            "name": "Helianthus × laetiflorus Pers.",
+            "id": "1509310",
+            "score": 0.00295
+        },
+        {
+            "name": "Erigeron karvinskianus DC.",
+            "id": "1355907",
+            "score": 0.00293
+        },
+        {
+            "name": "Coreopsis auriculata L.",
+            "id": "1441678",
+            "score": 0.00278
+        },
+        {
+            "name": "Guizotia abyssinica (L.f.) Cass.",
+            "id": "1392658",
+            "score": 0.00257
+        },
+        {
+            "name": "Coreopsis leavenworthii Torr. & A.Gray",
+            "id": "1504392",
+            "score": 0.00247
+        },
+        {
+            "name": "Helenium autumnale L.",
+            "id": "1392703",
+            "score": 0.00241
+        },
+        {
+            "name": "Bidens tripartita L.",
+            "id": "1400144",
+            "score": 0.00235
+        },
+        {
+            "name": "Monarda citriodora Cerv. ex Lag.",
+            "id": "1434906",
+            "score": 0.00233
+        },
+        {
+            "name": "Lepidium sativum L.",
+            "id": "1363894",
+            "score": 0.0023
+        },
+        {
+            "name": "Valeriana rubra L.",
+            "id": "1722520",
+            "score": 0.00219
+        },
+        {
+            "name": "Mitracarpus hirtus (L.) DC.",
+            "id": "1372471",
+            "score": 0.00207
+        },
+        {
+            "name": "Symphyotrichum novi-belgii (L.) G.L.Nesom",
+            "id": "1396487",
+            "score": 0.00206
+        },
+        {
+            "name": "Symphyotrichum lanceolatum (Willd.) G.L.Nesom",
+            "id": "1396485",
+            "score": 0.00202
+        },
+        {
+            "name": "Coreopsis major Walter",
+            "id": "1441695",
+            "score": 0.00201
+        },
+        {
+            "name": "Aloysia polystachya (Griseb.) Moldenke",
+            "id": "1696043",
+            "score": 0.00195
+        },
+        {
+            "name": "Atriplex patula L.",
+            "id": "1356310",
+            "score": 0.00189
+        },
+        {
+            "name": "Valeriana angustifolia Mill.",
+            "id": "1743107",
+            "score": 0.00188
+        },
+        {
+            "name": "Celosia argentea L.",
+            "id": "1363271",
+            "score": 0.00176
+        },
+        {
+            "name": "Solidago juncea Aiton",
+            "id": "1413848",
+            "score": 0.00167
+        },
+        {
+            "name": "Lomelosia caucasica (M.Bieb.) Greuter & Burdet",
+            "id": "1418390",
+            "score": 0.00159
+        },
+        {
+            "name": "Cosmos atrosanguineus (Hook.) Voss",
+            "id": "1417803",
+            "score": 0.00148
+        },
+        {
+            "name": "Bidens triplinervia Kunth",
+            "id": "1423180",
+            "score": 0.00145
+        },
+        {
+            "name": "Delphinium carolinianum Walter",
+            "id": "1411704",
+            "score": 0.00136
+        },
+        {
+            "name": "Helianthella californica A.Gray",
+            "id": "1509279",
+            "score": 0.00136
+        },
+        {
+            "name": "Erysimum cheiranthoides L.",
+            "id": "1358289",
+            "score": 0.00132
+        },
+        {
+            "name": "Encelia farinosa A.Gray ex Torr.",
+            "id": "1506925",
+            "score": 0.0013
+        },
+        {
+            "name": "Erigeron strigosus Muhl. ex Willd.",
+            "id": "1411968",
+            "score": 0.00127
+        },
+        {
+            "name": "Heliomeris multiflora Nutt.",
+            "id": "1432797",
+            "score": 0.00122
+        },
+        {
+            "name": "Salvia uliginosa Benth.",
+            "id": "1388783",
+            "score": 0.00118
+        },
+        {
+            "name": "Silaum silaus (L.) Schinz & Thell.",
+            "id": "1396267",
+            "score": 0.00115
+        },
+        {
+            "name": "Clarkia amoena (Lehm.) A.Nelson & J.F.Macbr.",
+            "id": "1391291",
+            "score": 0.00114
+        },
+        {
+            "name": "Baccharis douglasii DC.",
+            "id": "1440008",
+            "score": 0.00113
+        },
+        {
+            "name": "Dahlia pinnata Cav.",
+            "id": "1391643",
+            "score": 0.00112
+        },
+        {
+            "name": "Xerochrysum bracteatum (Vent.) Tzvelev",
+            "id": "1362650",
+            "score": 0.00111
+        },
+        {
+            "name": "Alternanthera sessilis (L.) R.Br. ex DC.",
+            "id": "1393406",
+            "score": 0.00105
+        },
+        {
+            "name": "Ranunculus lingua L.",
+            "id": "1395101",
+            "score": 0.00105
+        },
+        {
+            "name": "Coreopsis gigantea (Kellogg) H.M.Hall",
+            "id": "1504381",
+            "score": 0.00104
+        },
+        {
+            "name": "Ranunculus arvensis L.",
+            "id": "1360188",
+            "score": 0.00104
+        },
+        {
+            "name": "Glebionis segetum (L.) Fourr.",
+            "id": "1357603",
+            "score": 0.001
+        },
+        {
+            "name": "Hyssopus officinalis L.",
+            "id": "1358747",
+            "score": 0.00097
+        },
+        {
+            "name": "Ranunculus sceleratus L.",
+            "id": "1363974",
+            "score": 0.00097
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ribes sanguineum Pursh",
+            "id": "1395204",
+            "score": 0.77014
+        },
+        {
+            "name": "Ribes nevadense Kellogg",
+            "id": "1437374",
+            "score": 0.0554
+        },
+        {
+            "name": "Ribes malvaceum Sm.",
+            "id": "1437371",
+            "score": 0.00357
+        },
+        {
+            "name": "Ribes menziesii Pursh",
+            "id": "1419150",
+            "score": 0.00228
+        },
+        {
+            "name": "Ribes alpinum L.",
+            "id": "1358682",
+            "score": 0.00197
+        },
+        {
+            "name": "Ribes uva-crispa L.",
+            "id": "1358684",
+            "score": 0.00112
+        },
+        {
+            "name": "Ribes laurifolium Jancz.",
+            "id": "1554159",
+            "score": 0.00111
+        }
+    ]
+}

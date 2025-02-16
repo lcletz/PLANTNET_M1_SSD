@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cercis siliquastrum L.",
+            "id": "1359162",
+            "score": 0.8812
+        },
+        {
+            "name": "Cercis canadensis L.",
+            "id": "1397806",
+            "score": 0.06379
+        },
+        {
+            "name": "Cercis griffithii Boiss.",
+            "id": "1574667",
+            "score": 0.01464
+        },
+        {
+            "name": "Hibiscus tiliaceus L.",
+            "id": "1408172",
+            "score": 0.00634
+        },
+        {
+            "name": "Cercis chinensis Bunge",
+            "id": "1418915",
+            "score": 0.00444
+        },
+        {
+            "name": "Jatropha curcas L.",
+            "id": "1375622",
+            "score": 0.00263
+        },
+        {
+            "name": "Cercis occidentalis Torr. ex A.Gray",
+            "id": "1397805",
+            "score": 0.00168
+        }
+    ]
+}

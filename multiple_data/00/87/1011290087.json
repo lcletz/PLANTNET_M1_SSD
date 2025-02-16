@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Galium verum L.",
+            "id": "1360422",
+            "score": 0.92749
+        },
+        {
+            "name": "Galium × pomeranicum Retz.",
+            "id": "1673274",
+            "score": 0.01716
+        },
+        {
+            "name": "Galium mollugo L.",
+            "id": "1360399",
+            "score": 0.00153
+        },
+        {
+            "name": "Galium elongatum C.Presl",
+            "id": "1392458",
+            "score": 0.00129
+        },
+        {
+            "name": "Galium arenarium Loisel.",
+            "id": "1392440",
+            "score": 0.00116
+        }
+    ]
+}

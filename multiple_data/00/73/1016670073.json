@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aegopodium podagraria L.",
+            "id": "1389510",
+            "score": 0.85345
+        },
+        {
+            "name": "Chaerophyllum aromaticum L.",
+            "id": "1399141",
+            "score": 0.04046
+        },
+        {
+            "name": "Angelica sylvestris L.",
+            "id": "1394591",
+            "score": 0.01675
+        },
+        {
+            "name": "Aruncus dioicus (Walter) Fernald",
+            "id": "1396983",
+            "score": 0.01086
+        },
+        {
+            "name": "Angelica archangelica L.",
+            "id": "1397313",
+            "score": 0.00876
+        },
+        {
+            "name": "Rodgersia aesculifolia Batalin",
+            "id": "1687857",
+            "score": 0.00247
+        },
+        {
+            "name": "Angelica atropurpurea L.",
+            "id": "1399920",
+            "score": 0.00152
+        }
+    ]
+}

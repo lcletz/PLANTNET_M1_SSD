@@ -1,0 +1,35 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Sedum palmeri S.Watson",
+            "id": "1398128",
+            "score": 0.06255
+        },
+        {
+            "name": "Sedum cepaea L.",
+            "id": "1358103",
+            "score": 0.0289
+        },
+        {
+            "name": "Sedum praealtum A.DC.",
+            "id": "1529305",
+            "score": 0.00511
+        },
+        {
+            "name": "Sedum dendroideum Moc. & Sessé ex DC.",
+            "id": "1389308",
+            "score": 0.00486
+        },
+        {
+            "name": "Hylotelephium anacampseros (L.) H.Ohba",
+            "id": "1393228",
+            "score": 0.00168
+        },
+        {
+            "name": "Crassula multicava Lem.",
+            "id": "1363618",
+            "score": 0.00143
+        }
+    ]
+}

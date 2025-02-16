@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Centaurea cyanus L.",
+            "id": "1411387",
+            "score": 0.41409
+        },
+        {
+            "name": "Centaurea sulphurea Willd.",
+            "id": "1357457",
+            "score": 0.06447
+        },
+        {
+            "name": "Jasione montana L.",
+            "id": "1356766",
+            "score": 0.00438
+        },
+        {
+            "name": "Cichorium intybus L.",
+            "id": "1357495",
+            "score": 0.00215
+        },
+        {
+            "name": "Catananche caerulea L.",
+            "id": "1357392",
+            "score": 0.00168
+        }
+    ]
+}

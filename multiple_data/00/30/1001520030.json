@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Eschscholzia californica Cham.",
+            "id": "1363125",
+            "score": 0.87633
+        },
+        {
+            "name": "Eschscholzia caespitosa Benth.",
+            "id": "1443494",
+            "score": 0.02095
+        },
+        {
+            "name": "Glaucium flavum Crantz",
+            "id": "1359804",
+            "score": 0.00192
+        },
+        {
+            "name": "Eschscholzia lemmonii Greene",
+            "id": "1443497",
+            "score": 0.00146
+        },
+        {
+            "name": "Papaver aculeatum Thunb.",
+            "id": "1639725",
+            "score": 0.00109
+        }
+    ]
+}

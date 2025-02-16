@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cupressus arizonica Greene",
+            "id": "1391484",
+            "score": 0.46963
+        },
+        {
+            "name": "Cupressus sempervirens L.",
+            "id": "1391488",
+            "score": 0.01762
+        },
+        {
+            "name": "Cupressus lusitanica Mill.",
+            "id": "1391485",
+            "score": 0.01618
+        },
+        {
+            "name": "Juniperus virginiana L.",
+            "id": "1393370",
+            "score": 0.00558
+        },
+        {
+            "name": "Juniperus chinensis L.",
+            "id": "1393361",
+            "score": 0.00152
+        },
+        {
+            "name": "Cupressus macrocarpa Hartw.",
+            "id": "1391486",
+            "score": 0.00103
+        }
+    ]
+}

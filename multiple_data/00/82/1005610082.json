@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Eschscholzia californica Cham.",
+            "id": "1363125",
+            "score": 0.8622
+        },
+        {
+            "name": "Eschscholzia caespitosa Benth.",
+            "id": "1443494",
+            "score": 0.0761
+        },
+        {
+            "name": "Glaucium flavum Crantz",
+            "id": "1359804",
+            "score": 0.00736
+        },
+        {
+            "name": "Eschscholzia parishii Greene",
+            "id": "1443501",
+            "score": 0.0029
+        },
+        {
+            "name": "Eschscholzia lemmonii Greene",
+            "id": "1443497",
+            "score": 0.00193
+        },
+        {
+            "name": "Eschscholzia glyptosperma Greene",
+            "id": "1443495",
+            "score": 0.00102
+        }
+    ]
+}

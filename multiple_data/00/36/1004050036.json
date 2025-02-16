@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Berberis darwinii Hook.",
+            "id": "1400115",
+            "score": 0.89163
+        },
+        {
+            "name": "Berberis aquifolium Pursh",
+            "id": "1400122",
+            "score": 0.00376
+        },
+        {
+            "name": "Berberis julianae C.K.Schneid.",
+            "id": "1400117",
+            "score": 0.00128
+        },
+        {
+            "name": "Vaccinium corymbosum L.",
+            "id": "1396966",
+            "score": 0.00117
+        },
+        {
+            "name": "Vaccinium uliginosum L.",
+            "id": "1396970",
+            "score": 0.00102
+        }
+    ]
+}

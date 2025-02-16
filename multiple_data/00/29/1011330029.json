@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Trichocereus macrogonus (Salm-Dyck) Riccob.",
+            "id": "1722506",
+            "score": 0.39022
+        },
+        {
+            "name": "Lophocereus marginatus (DC.) S.Arias & Terrazas",
+            "id": "1744541",
+            "score": 0.05181
+        },
+        {
+            "name": "Cereus hildmannianus K.Schum.",
+            "id": "1418192",
+            "score": 0.0223
+        },
+        {
+            "name": "Selenicereus undatus (Haw.) D.R.Hunt",
+            "id": "1722630",
+            "score": 0.00127
+        }
+    ]
+}

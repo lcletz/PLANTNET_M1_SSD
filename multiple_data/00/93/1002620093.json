@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vaccinium uliginosum L.",
+            "id": "1396970",
+            "score": 0.89473
+        },
+        {
+            "name": "Lonicera caerulea L.",
+            "id": "1393631",
+            "score": 0.00614
+        },
+        {
+            "name": "Vaccinium myrtillus L.",
+            "id": "1361801",
+            "score": 0.00337
+        },
+        {
+            "name": "Berberis vulgaris L.",
+            "id": "1356603",
+            "score": 0.00273
+        },
+        {
+            "name": "Myoschilos oblongus Ruiz & Pav.",
+            "id": "1842107",
+            "score": 0.00181
+        },
+        {
+            "name": "Myrsine africana L.",
+            "id": "1383319",
+            "score": 0.0012
+        },
+        {
+            "name": "Berberis microphylla G.Forst.",
+            "id": "1417950",
+            "score": 0.00111
+        }
+    ]
+}

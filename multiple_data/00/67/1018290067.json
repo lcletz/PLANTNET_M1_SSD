@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Anchusa azurea Mill.",
+            "id": "1363832",
+            "score": 0.85743
+        },
+        {
+            "name": "Myosotis alpestris F.W.Schmidt",
+            "id": "1393878",
+            "score": 0.00525
+        },
+        {
+            "name": "Anchusa officinalis L.",
+            "id": "1394038",
+            "score": 0.00494
+        },
+        {
+            "name": "Anchusa undulata L.",
+            "id": "1356619",
+            "score": 0.00202
+        },
+        {
+            "name": "Anchusa arvensis (L.) M.Bieb.",
+            "id": "1477188",
+            "score": 0.00155
+        }
+    ]
+}

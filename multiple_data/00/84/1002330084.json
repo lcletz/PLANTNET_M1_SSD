@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hamamelis virginiana L.",
+            "id": "1397621",
+            "score": 0.58898
+        },
+        {
+            "name": "Hamamelis mollis Oliv.",
+            "id": "1397620",
+            "score": 0.19018
+        },
+        {
+            "name": "Hamamelis × intermedia Rehder",
+            "id": "1844269",
+            "score": 0.00487
+        },
+        {
+            "name": "Hamamelis japonica Siebold & Zucc.",
+            "id": "1419170",
+            "score": 0.00354
+        },
+        {
+            "name": "Parrotia persica C.A.Mey.",
+            "id": "1738716",
+            "score": 0.00171
+        }
+    ]
+}

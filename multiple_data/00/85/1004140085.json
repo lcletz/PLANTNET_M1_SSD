@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pedicularis palustris L.",
+            "id": "1397455",
+            "score": 0.88963
+        },
+        {
+            "name": "Pedicularis sylvatica L.",
+            "id": "1359740",
+            "score": 0.09202
+        },
+        {
+            "name": "Pedicularis kerneri Dalla Torre",
+            "id": "1394438",
+            "score": 0.00441
+        },
+        {
+            "name": "Pedicularis elegans Ten.",
+            "id": "1399341",
+            "score": 0.00245
+        },
+        {
+            "name": "Pedicularis pyrenaica J.Gay",
+            "id": "1394444",
+            "score": 0.00135
+        }
+    ]
+}

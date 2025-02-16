@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Anemonoides trifolia (L.) Holub",
+            "id": "1738036",
+            "score": 0.89273
+        },
+        {
+            "name": "Anemonoides quinquefolia (L.) Holub",
+            "id": "1815461",
+            "score": 0.01557
+        },
+        {
+            "name": "Anemonoides nemorosa (L.) Holub",
+            "id": "1737521",
+            "score": 0.0136
+        },
+        {
+            "name": "Anemonoides lancifolia (Pursh) Holub",
+            "id": "1817356",
+            "score": 0.00497
+        },
+        {
+            "name": "Rubus pedatus Sm.",
+            "id": "1413534",
+            "score": 0.00156
+        },
+        {
+            "name": "Ranunculus platanifolius L.",
+            "id": "1395114",
+            "score": 0.00122
+        }
+    ]
+}

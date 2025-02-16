@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Juniperus oxycedrus L.",
+            "id": "1393365",
+            "score": 0.91654
+        },
+        {
+            "name": "Juniperus communis L.",
+            "id": "1393364",
+            "score": 0.02273
+        },
+        {
+            "name": "Juniperus cedrus Webb & Berthel.",
+            "id": "1399864",
+            "score": 0.01591
+        },
+        {
+            "name": "Juniperus macrocarpa Sm.",
+            "id": "1701525",
+            "score": 0.00426
+        },
+        {
+            "name": "Juniperus phoenicea L.",
+            "id": "1393366",
+            "score": 0.00254
+        },
+        {
+            "name": "Juniperus navicularis Gand.",
+            "id": "1701533",
+            "score": 0.0014
+        }
+    ]
+}

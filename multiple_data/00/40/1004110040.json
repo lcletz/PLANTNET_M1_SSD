@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Campanula trachelium L.",
+            "id": "1356757",
+            "score": 0.77391
+        },
+        {
+            "name": "Campanula latifolia L.",
+            "id": "1390665",
+            "score": 0.12882
+        },
+        {
+            "name": "Campanula rapunculoides L.",
+            "id": "1383635",
+            "score": 0.01487
+        },
+        {
+            "name": "Lunaria annua L.",
+            "id": "1361790",
+            "score": 0.00329
+        },
+        {
+            "name": "Scrophularia nodosa L.",
+            "id": "1396122",
+            "score": 0.00272
+        },
+        {
+            "name": "Carduus personata (L.) Jacq.",
+            "id": "1397341",
+            "score": 0.00143
+        },
+        {
+            "name": "Carduus crispus L.",
+            "id": "1390725",
+            "score": 0.00141
+        },
+        {
+            "name": "Senecio triangularis Hook.",
+            "id": "1413773",
+            "score": 0.00118
+        }
+    ]
+}

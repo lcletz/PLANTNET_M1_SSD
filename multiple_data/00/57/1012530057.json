@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cupressus macrocarpa Hartw.",
+            "id": "1391486",
+            "score": 0.53891
+        },
+        {
+            "name": "Chamaecyparis obtusa (Siebold & Zucc.) Endl.",
+            "id": "1398639",
+            "score": 0.00225
+        },
+        {
+            "name": "Juniperus virginiana L.",
+            "id": "1393370",
+            "score": 0.00171
+        },
+        {
+            "name": "Cedrus libani A.Rich.",
+            "id": "1390973",
+            "score": 0.00169
+        },
+        {
+            "name": "Juniperus sabina L.",
+            "id": "1393367",
+            "score": 0.00148
+        }
+    ]
+}

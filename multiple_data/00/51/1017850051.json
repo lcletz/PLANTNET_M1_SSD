@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pieris japonica (Thunb.) D.Don ex G.Don",
+            "id": "1392031",
+            "score": 0.35836
+        },
+        {
+            "name": "Pieris formosa (Wall.) D.Don",
+            "id": "1392030",
+            "score": 0.13253
+        },
+        {
+            "name": "Arbutus unedo L.",
+            "id": "1358500",
+            "score": 0.00356
+        },
+        {
+            "name": "Rhododendron maximum L.",
+            "id": "1398409",
+            "score": 0.00276
+        },
+        {
+            "name": "Elaeocarpus angustifolius Blume",
+            "id": "1409579",
+            "score": 0.00264
+        },
+        {
+            "name": "Arbutus andrachne L.",
+            "id": "1395933",
+            "score": 0.00131
+        },
+        {
+            "name": "Berberis julianae C.K.Schneid.",
+            "id": "1400117",
+            "score": 0.00123
+        },
+        {
+            "name": "Clethra arborea Aiton",
+            "id": "1357181",
+            "score": 0.00113
+        }
+    ]
+}

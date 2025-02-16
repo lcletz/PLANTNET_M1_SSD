@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Galanthus nivalis L.",
+            "id": "1397391",
+            "score": 0.4409
+        },
+        {
+            "name": "Galanthus plicatus M.Bieb.",
+            "id": "1392416",
+            "score": 0.37994
+        },
+        {
+            "name": "Galanthus elwesii Hook.f.",
+            "id": "1392415",
+            "score": 0.01807
+        },
+        {
+            "name": "Galanthus woronowii Losinsk.",
+            "id": "1418983",
+            "score": 0.01155
+        },
+        {
+            "name": "Galanthus alpinus Sosn.",
+            "id": "1397639",
+            "score": 0.00607
+        },
+        {
+            "name": "Galanthus reginae-olgae Orph.",
+            "id": "1418978",
+            "score": 0.00311
+        },
+        {
+            "name": "Leucojum aestivum L.",
+            "id": "1393515",
+            "score": 0.00113
+        },
+        {
+            "name": "Leucojum vernum L.",
+            "id": "1393517",
+            "score": 0.00109
+        }
+    ]
+}

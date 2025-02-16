@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Clematis virginiana L.",
+            "id": "1411500",
+            "score": 0.6175
+        },
+        {
+            "name": "Clematis vitalba L.",
+            "id": "1360161",
+            "score": 0.34027
+        },
+        {
+            "name": "Actaea pachypoda Elliott",
+            "id": "1414303",
+            "score": 0.00353
+        },
+        {
+            "name": "Clematis mauritiana Lam.",
+            "id": "1407827",
+            "score": 0.00148
+        },
+        {
+            "name": "Clematis ligusticifolia Nutt.",
+            "id": "1411496",
+            "score": 0.00139
+        },
+        {
+            "name": "Clematis stans Siebold & Zucc.",
+            "id": "1663771",
+            "score": 0.00116
+        },
+        {
+            "name": "Clematis apiifolia DC.",
+            "id": "1663532",
+            "score": 0.00109
+        }
+    ]
+}

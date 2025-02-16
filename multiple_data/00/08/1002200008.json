@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Artemisia vulgaris L.",
+            "id": "1364152",
+            "score": 0.71892
+        },
+        {
+            "name": "Artemisia verlotiorum Lamotte",
+            "id": "1357291",
+            "score": 0.21992
+        },
+        {
+            "name": "Artemisia campestris L.",
+            "id": "1357275",
+            "score": 0.00315
+        },
+        {
+            "name": "Salix eleagnos Scop.",
+            "id": "1395785",
+            "score": 0.00273
+        },
+        {
+            "name": "Potentilla argentea L.",
+            "id": "1394830",
+            "score": 0.00135
+        },
+        {
+            "name": "Artemisia abrotanum L.",
+            "id": "1396736",
+            "score": 0.00123
+        },
+        {
+            "name": "Phagnalon saxatile (L.) Cass.",
+            "id": "1357770",
+            "score": 0.00122
+        }
+    ]
+}

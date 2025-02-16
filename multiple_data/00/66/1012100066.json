@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lepidium virginicum L.",
+            "id": "1363893",
+            "score": 0.87781
+        },
+        {
+            "name": "Lepidium ruderale L.",
+            "id": "1358357",
+            "score": 0.07765
+        },
+        {
+            "name": "Lepidium densiflorum Schrad.",
+            "id": "1393488",
+            "score": 0.00799
+        },
+        {
+            "name": "Lepidium graminifolium L.",
+            "id": "1358349",
+            "score": 0.00393
+        },
+        {
+            "name": "Lepidium bonariense L.",
+            "id": "1363891",
+            "score": 0.00385
+        },
+        {
+            "name": "Lepidium austrinum Small",
+            "id": "1433665",
+            "score": 0.00309
+        },
+        {
+            "name": "Lepidium sativum L.",
+            "id": "1363894",
+            "score": 0.00121
+        },
+        {
+            "name": "Lobularia maritima (L.) Desv.",
+            "id": "1363882",
+            "score": 0.00101
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Rosa villosa L.",
+            "id": "1395371",
+            "score": 0.58408
+        },
+        {
+            "name": "Rosa agrestis Savi",
+            "id": "1360330",
+            "score": 0.15153
+        },
+        {
+            "name": "Rosa rubiginosa L.",
+            "id": "1363996",
+            "score": 0.03631
+        },
+        {
+            "name": "Rosa canina L.",
+            "id": "1360334",
+            "score": 0.02355
+        },
+        {
+            "name": "Rosa × andegavensis Bastard",
+            "id": "1668155",
+            "score": 0.02168
+        },
+        {
+            "name": "Rosa abietina Gren. ex Christ",
+            "id": "1741909",
+            "score": 0.01561
+        },
+        {
+            "name": "Rosa dumalis Bechst.",
+            "id": "1362985",
+            "score": 0.01104
+        },
+        {
+            "name": "Rosa sempervirens L.",
+            "id": "1360348",
+            "score": 0.00539
+        },
+        {
+            "name": "Rosa arvensis Huds.",
+            "id": "1395253",
+            "score": 0.00357
+        },
+        {
+            "name": "Rosa tomentosa Sm.",
+            "id": "1395366",
+            "score": 0.00228
+        },
+        {
+            "name": "Rosa glauca Pourr.",
+            "id": "1668240",
+            "score": 0.00169
+        },
+        {
+            "name": "Rosa micrantha Borrer ex Sm.",
+            "id": "1360342",
+            "score": 0.00158
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Rhus typhina L.",
+            "id": "1395193",
+            "score": 0.36621
+        },
+        {
+            "name": "Rhus coriaria L.",
+            "id": "1356570",
+            "score": 0.02729
+        },
+        {
+            "name": "Ailanthus altissima (Mill.) Swingle",
+            "id": "1360547",
+            "score": 0.01615
+        },
+        {
+            "name": "Bidens frondosa L.",
+            "id": "1400138",
+            "score": 0.01349
+        },
+        {
+            "name": "Sorbaria sorbifolia (L.) A.Braun",
+            "id": "1396352",
+            "score": 0.01229
+        },
+        {
+            "name": "Dahlia imperialis Roezl ex Ortgies",
+            "id": "1417809",
+            "score": 0.00217
+        },
+        {
+            "name": "Melia azedarach L.",
+            "id": "1363624",
+            "score": 0.0015
+        },
+        {
+            "name": "Chaerophyllum aureum L.",
+            "id": "1391110",
+            "score": 0.00138
+        },
+        {
+            "name": "Bidens tripartita L.",
+            "id": "1400144",
+            "score": 0.00136
+        },
+        {
+            "name": "Aruncus dioicus (Walter) Fernald",
+            "id": "1396983",
+            "score": 0.00121
+        }
+    ]
+}

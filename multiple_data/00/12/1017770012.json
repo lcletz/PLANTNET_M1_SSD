@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Broussonetia papyrifera (L.) L'Hér. ex Vent.",
+            "id": "1362912",
+            "score": 0.54507
+        },
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.01317
+        },
+        {
+            "name": "Broussonetia × kazinoki Siebold",
+            "id": "1721503",
+            "score": 0.00507
+        },
+        {
+            "name": "Sassafras albidum (Nutt.) Nees",
+            "id": "1413669",
+            "score": 0.00265
+        },
+        {
+            "name": "Vitis aestivalis Michx.",
+            "id": "1397210",
+            "score": 0.00211
+        }
+    ]
+}

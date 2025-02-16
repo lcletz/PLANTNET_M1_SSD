@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iberis umbellata L.",
+            "id": "1363926",
+            "score": 0.97127
+        },
+        {
+            "name": "Iberis amara L.",
+            "id": "1358322",
+            "score": 0.00589
+        },
+        {
+            "name": "Hesperis matronalis L.",
+            "id": "1392765",
+            "score": 0.00386
+        },
+        {
+            "name": "Cardamine bulbifera (L.) Crantz",
+            "id": "1390691",
+            "score": 0.00176
+        },
+        {
+            "name": "Iberis linifolia L.",
+            "id": "1393268",
+            "score": 0.00147
+        }
+    ]
+}

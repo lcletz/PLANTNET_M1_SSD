@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Salix alba L.",
+            "id": "1360450",
+            "score": 0.55834
+        },
+        {
+            "name": "Salix pentandra L.",
+            "id": "1395852",
+            "score": 0.17878
+        },
+        {
+            "name": "Salix euxina I.V.Belyaeva",
+            "id": "1684004",
+            "score": 0.14824
+        },
+        {
+            "name": "Salix × fragilis L.",
+            "id": "1684017",
+            "score": 0.02601
+        },
+        {
+            "name": "Salix triandra L.",
+            "id": "1360459",
+            "score": 0.0174
+        },
+        {
+            "name": "Salix lucida Muhl.",
+            "id": "1413608",
+            "score": 0.00451
+        },
+        {
+            "name": "Salix viminalis L.",
+            "id": "1395903",
+            "score": 0.00314
+        },
+        {
+            "name": "Salix babylonica L.",
+            "id": "1360452",
+            "score": 0.00275
+        },
+        {
+            "name": "Salix myrsinifolia Salisb.",
+            "id": "1395843",
+            "score": 0.00261
+        },
+        {
+            "name": "Salix pedicellata Desf.",
+            "id": "1364047",
+            "score": 0.00147
+        }
+    ]
+}

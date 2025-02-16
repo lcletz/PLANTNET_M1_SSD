@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Platanus occidentalis L.",
+            "id": "1398530",
+            "score": 0.48993
+        },
+        {
+            "name": "Platanus × hispanica Mill. ex Münchh.",
+            "id": "1844583",
+            "score": 0.24124
+        },
+        {
+            "name": "Platanus orientalis L.",
+            "id": "1362358",
+            "score": 0.08722
+        },
+        {
+            "name": "Platanus racemosa Nutt.",
+            "id": "1436625",
+            "score": 0.00626
+        },
+        {
+            "name": "Platanus mexicana Moric.",
+            "id": "1646830",
+            "score": 0.00266
+        },
+        {
+            "name": "Quercus velutina Lam.",
+            "id": "1398376",
+            "score": 0.00176
+        }
+    ]
+}

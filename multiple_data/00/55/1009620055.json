@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Asparagus acutifolius L.",
+            "id": "1361000",
+            "score": 0.92565
+        },
+        {
+            "name": "Asparagus aphyllus L.",
+            "id": "1361002",
+            "score": 0.01498
+        },
+        {
+            "name": "Asparagus albus L.",
+            "id": "1361001",
+            "score": 0.00814
+        },
+        {
+            "name": "Asparagus setaceus (Kunth) Jessop",
+            "id": "1363267",
+            "score": 0.00343
+        },
+        {
+            "name": "Asparagus densiflorus (Kunth) Jessop",
+            "id": "1386163",
+            "score": 0.0015
+        },
+        {
+            "name": "Asparagus maritimus (L.) Mill.",
+            "id": "1361006",
+            "score": 0.00118
+        },
+        {
+            "name": "Asparagus africanus Lam.",
+            "id": "1362140",
+            "score": 0.00113
+        },
+        {
+            "name": "Asparagus aethiopicus L.",
+            "id": "1386159",
+            "score": 0.001
+        }
+    ]
+}

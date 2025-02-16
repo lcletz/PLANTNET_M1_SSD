@@ -1,0 +1,380 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iberis carnosa Willd.",
+            "id": "1358325",
+            "score": 0.18734
+        },
+        {
+            "name": "Iberis amara L.",
+            "id": "1358322",
+            "score": 0.10073
+        },
+        {
+            "name": "Iberis bernardiana Gren. & Godr.",
+            "id": "1481080",
+            "score": 0.10018
+        },
+        {
+            "name": "Iberis saxatilis L.",
+            "id": "1358333",
+            "score": 0.05022
+        },
+        {
+            "name": "Valeriana supina Ard.",
+            "id": "1397928",
+            "score": 0.04965
+        },
+        {
+            "name": "Iberis spathulata DC.",
+            "id": "1743666",
+            "score": 0.03916
+        },
+        {
+            "name": "Hormathophylla spinosa (L.) P.Küpfer",
+            "id": "1358318",
+            "score": 0.03502
+        },
+        {
+            "name": "Noccaea rotundifolia (L.) Moench",
+            "id": "1393968",
+            "score": 0.0197
+        },
+        {
+            "name": "Thymus serpyllum L.",
+            "id": "1362246",
+            "score": 0.01529
+        },
+        {
+            "name": "Iberis umbellata L.",
+            "id": "1363926",
+            "score": 0.01459
+        },
+        {
+            "name": "Noccaea caerulescens (J.Presl & C.Presl) F.K.Mey.",
+            "id": "1393965",
+            "score": 0.0127
+        },
+        {
+            "name": "Thymus praecox Opiz",
+            "id": "1397512",
+            "score": 0.01212
+        },
+        {
+            "name": "Valeriana apula Pourr.",
+            "id": "1360840",
+            "score": 0.00979
+        },
+        {
+            "name": "Lobularia maritima (L.) Desv.",
+            "id": "1363882",
+            "score": 0.00913
+        },
+        {
+            "name": "Lepidium hirtum (L.) Sm.",
+            "id": "1358351",
+            "score": 0.00907
+        },
+        {
+            "name": "Iberis aurosica Chaix",
+            "id": "1397409",
+            "score": 0.00581
+        },
+        {
+            "name": "Cuscuta epithymum (L.) L.",
+            "id": "1358003",
+            "score": 0.00543
+        },
+        {
+            "name": "Valeriana tuberosa L.",
+            "id": "1360841",
+            "score": 0.0044
+        },
+        {
+            "name": "Lepidium heterophyllum Benth.",
+            "id": "1358350",
+            "score": 0.00393
+        },
+        {
+            "name": "Crucihimalaya himalaica (Edgew.) Al-Shehbaz, O'Kane & R.A.Price",
+            "id": "1480038",
+            "score": 0.00361
+        },
+        {
+            "name": "Noccaea montana (L.) F.K.Mey.",
+            "id": "1393967",
+            "score": 0.00345
+        },
+        {
+            "name": "Phyla nodiflora (L.) Greene",
+            "id": "1360859",
+            "score": 0.00333
+        },
+        {
+            "name": "Thymus longicaulis C.Presl",
+            "id": "1397511",
+            "score": 0.00325
+        },
+        {
+            "name": "Petrocallis pyrenaica (L.) W.T.Aiton",
+            "id": "1741655",
+            "score": 0.00309
+        },
+        {
+            "name": "Thymus vulgaris L.",
+            "id": "1356108",
+            "score": 0.00305
+        },
+        {
+            "name": "Bergenia crassifolia (L.) Fritsch",
+            "id": "1400123",
+            "score": 0.0027
+        },
+        {
+            "name": "Iberis linifolia L.",
+            "id": "1393268",
+            "score": 0.00265
+        },
+        {
+            "name": "Aethionema saxatile (L.) W.T.Aiton",
+            "id": "1741802",
+            "score": 0.00262
+        },
+        {
+            "name": "Iberis pinnata L.",
+            "id": "1393270",
+            "score": 0.00249
+        },
+        {
+            "name": "Thymus pulegioides L.",
+            "id": "1396792",
+            "score": 0.00241
+        },
+        {
+            "name": "Iberis ciliata All.",
+            "id": "1362460",
+            "score": 0.00228
+        },
+        {
+            "name": "Thymus nervosus J.Gay ex Willk.",
+            "id": "1396784",
+            "score": 0.0022
+        },
+        {
+            "name": "Iberis simplex DC.",
+            "id": "1481088",
+            "score": 0.00219
+        },
+        {
+            "name": "Mentha requienii Benth.",
+            "id": "1393810",
+            "score": 0.00209
+        },
+        {
+            "name": "Arabidopsis arenosa (L.) Lawalrée",
+            "id": "1389345",
+            "score": 0.00178
+        },
+        {
+            "name": "Phoenicaulis cheiranthoides Nutt.",
+            "id": "1436362",
+            "score": 0.00178
+        },
+        {
+            "name": "Hormathophylla lapeyrouseana (Jord.) P.Küpfer",
+            "id": "1743664",
+            "score": 0.00172
+        },
+        {
+            "name": "Antennaria dioica (L.) Gaertn.",
+            "id": "1394643",
+            "score": 0.00166
+        },
+        {
+            "name": "Cochlearia anglica L.",
+            "id": "1391309",
+            "score": 0.00162
+        },
+        {
+            "name": "Iberis procumbens Lange",
+            "id": "1399623",
+            "score": 0.0016
+        },
+        {
+            "name": "Orobanche rigens Loisel.",
+            "id": "1394346",
+            "score": 0.0016
+        },
+        {
+            "name": "Valeriana coronata (L.) Mill.",
+            "id": "1722517",
+            "score": 0.0016
+        },
+        {
+            "name": "Odontarrhena alpestris (L.) Ledeb.",
+            "id": "1743102",
+            "score": 0.00157
+        },
+        {
+            "name": "Kalmia procumbens (L.) Gift, Kron & P.F.Stevens ex Galasso, Banfi & F.Conti",
+            "id": "1737701",
+            "score": 0.00147
+        },
+        {
+            "name": "Valeriana saliunca All.",
+            "id": "1396982",
+            "score": 0.00146
+        },
+        {
+            "name": "Noccaea corymbosa (J.Gay) F.K.Mey.",
+            "id": "1393966",
+            "score": 0.00143
+        },
+        {
+            "name": "Iberis sempervirens L.",
+            "id": "1358335",
+            "score": 0.00134
+        },
+        {
+            "name": "Iberis semperflorens L.",
+            "id": "1358334",
+            "score": 0.00129
+        },
+        {
+            "name": "Lysimachia maritima (L.) Galasso, Banfi & Soldano",
+            "id": "1388890",
+            "score": 0.00125
+        },
+        {
+            "name": "Armeria maritima (Mill.) Willd.",
+            "id": "1413349",
+            "score": 0.00122
+        },
+        {
+            "name": "Valeriana montana L.",
+            "id": "1396976",
+            "score": 0.00118
+        },
+        {
+            "name": "Oxytropis helvetica Scheele",
+            "id": "1394372",
+            "score": 0.00116
+        },
+        {
+            "name": "Hornungia alpina (L.) O.Appel",
+            "id": "1393214",
+            "score": 0.00116
+        },
+        {
+            "name": "Teucrium capitatum L.",
+            "id": "1358968",
+            "score": 0.00115
+        },
+        {
+            "name": "Silene acaulis (L.) Jacq.",
+            "id": "1396272",
+            "score": 0.00114
+        },
+        {
+            "name": "Pedicularis oederi Vahl",
+            "id": "1394443",
+            "score": 0.00111
+        },
+        {
+            "name": "Buddleja alternifolia Maxim.",
+            "id": "1397799",
+            "score": 0.00109
+        },
+        {
+            "name": "Mutellina purpurea (Poir.) Reduron, Charpin & Pimenov",
+            "id": "1741629",
+            "score": 0.00104
+        },
+        {
+            "name": "Hormathophylla purpurea (Lag. & Rodr.) P.Küpfer",
+            "id": "1398768",
+            "score": 0.00101
+        },
+        {
+            "name": "Bergenia ciliata (Haw.) Sternb.",
+            "id": "1687655",
+            "score": 0.00096
+        },
+        {
+            "name": "Valeriana dioica L.",
+            "id": "1397518",
+            "score": 0.00093
+        },
+        {
+            "name": "Anthyllis montana L.",
+            "id": "1359086",
+            "score": 0.00082
+        },
+        {
+            "name": "Arenaria purpurascens Ramond ex DC.",
+            "id": "1396185",
+            "score": 0.00077
+        },
+        {
+            "name": "Myosotis alpestris F.W.Schmidt",
+            "id": "1393878",
+            "score": 0.00071
+        },
+        {
+            "name": "Daphne cneorum L.",
+            "id": "1391649",
+            "score": 0.00059
+        },
+        {
+            "name": "Salix reticulata L.",
+            "id": "1395868",
+            "score": 0.00059
+        },
+        {
+            "name": "Mentha arvensis L.",
+            "id": "1358785",
+            "score": 0.00048
+        },
+        {
+            "name": "Daphne striata Tratt.",
+            "id": "1391654",
+            "score": 0.00042
+        },
+        {
+            "name": "Achillea × roseoalba Ehrend.",
+            "id": "1742055",
+            "score": 0.00041
+        },
+        {
+            "name": "Valeriana saxatilis L.",
+            "id": "1399746",
+            "score": 0.00039
+        },
+        {
+            "name": "Trifolium occidentale Coombe",
+            "id": "1396857",
+            "score": 0.00039
+        },
+        {
+            "name": "Daphne sericea Vahl",
+            "id": "1399157",
+            "score": 0.00038
+        },
+        {
+            "name": "Darmera peltata (Torr. ex Benth.) Voss",
+            "id": "1389718",
+            "score": 0.00038
+        },
+        {
+            "name": "Ceanothus diversifolius Kellogg",
+            "id": "1440978",
+            "score": 0.00037
+        },
+        {
+            "name": "Ceanothus prostratus Benth.",
+            "id": "1441005",
+            "score": 0.00037
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Viburnum odoratissimum Ker Gawl.",
+            "id": "1417575",
+            "score": 0.90886
+        },
+        {
+            "name": "Viburnum henryi Hemsl.",
+            "id": "1447877",
+            "score": 0.02692
+        },
+        {
+            "name": "Prunus laurocerasus L.",
+            "id": "1394952",
+            "score": 0.01571
+        },
+        {
+            "name": "Viburnum nudum L.",
+            "id": "1414188",
+            "score": 0.00505
+        },
+        {
+            "name": "Viburnum tinus L.",
+            "id": "1356793",
+            "score": 0.00381
+        }
+    ]
+}

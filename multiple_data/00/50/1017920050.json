@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium pratense L.",
+            "id": "1359517",
+            "score": 0.8675
+        },
+        {
+            "name": "Trifolium medium L.",
+            "id": "1397514",
+            "score": 0.02654
+        },
+        {
+            "name": "Trifolium alpestre L.",
+            "id": "1396842",
+            "score": 0.01284
+        },
+        {
+            "name": "Trifolium hybridum L.",
+            "id": "1359497",
+            "score": 0.00654
+        },
+        {
+            "name": "Trifolium fragiferum L.",
+            "id": "1356278",
+            "score": 0.0026
+        },
+        {
+            "name": "Trifolium squarrosum L.",
+            "id": "1363742",
+            "score": 0.0019
+        },
+        {
+            "name": "Trifolium hirtum All.",
+            "id": "1359495",
+            "score": 0.00159
+        },
+        {
+            "name": "Trifolium repens L.",
+            "id": "1363740",
+            "score": 0.00119
+        },
+        {
+            "name": "Trifolium striatum L.",
+            "id": "1359526",
+            "score": 0.00101
+        }
+    ]
+}

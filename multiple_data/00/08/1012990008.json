@@ -1,0 +1,495 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rosa agrestis Savi",
+            "id": "1360330",
+            "score": 0.89741
+        },
+        {
+            "name": "Rosa spinosissima L.",
+            "id": "1360350",
+            "score": 0.05612
+        },
+        {
+            "name": "Rosa pouzinii Tratt.",
+            "id": "1360347",
+            "score": 0.01975
+        },
+        {
+            "name": "Rosa villosa L.",
+            "id": "1395371",
+            "score": 0.01535
+        },
+        {
+            "name": "Rosa canina L.",
+            "id": "1360334",
+            "score": 0.01068
+        },
+        {
+            "name": "Rosa rubiginosa L.",
+            "id": "1363996",
+            "score": 0.01049
+        },
+        {
+            "name": "Zanthoxylum bungeanum Maxim.",
+            "id": "1683186",
+            "score": 0.00978
+        },
+        {
+            "name": "Rosa micrantha Borrer ex Sm.",
+            "id": "1360342",
+            "score": 0.00859
+        },
+        {
+            "name": "Rosa pulverulenta M.Bieb.",
+            "id": "1425484",
+            "score": 0.00815
+        },
+        {
+            "name": "Rosa multiflora Thunb.",
+            "id": "1360345",
+            "score": 0.00649
+        },
+        {
+            "name": "Zanthoxylum schinifolium Siebold & Zucc.",
+            "id": "1683270",
+            "score": 0.00579
+        },
+        {
+            "name": "Euonymus latifolius (L.) Mill.",
+            "id": "1392238",
+            "score": 0.00493
+        },
+        {
+            "name": "Rosa × damascena Herrm.",
+            "id": "1668204",
+            "score": 0.00481
+        },
+        {
+            "name": "Rosa dumalis Bechst.",
+            "id": "1362985",
+            "score": 0.00457
+        },
+        {
+            "name": "Genista hirsuta Vahl",
+            "id": "1359209",
+            "score": 0.00452
+        },
+        {
+            "name": "Rosa arvensis Huds.",
+            "id": "1395253",
+            "score": 0.00376
+        },
+        {
+            "name": "Euonymus alatus (Thunb.) Siebold",
+            "id": "1412016",
+            "score": 0.00342
+        },
+        {
+            "name": "Rosa sempervirens L.",
+            "id": "1360348",
+            "score": 0.0034
+        },
+        {
+            "name": "Rosa stylosa Desv.",
+            "id": "1360352",
+            "score": 0.00322
+        },
+        {
+            "name": "Euonymus verrucosus Scop.",
+            "id": "1494252",
+            "score": 0.00301
+        },
+        {
+            "name": "Zanthoxylum clava-herculis L.",
+            "id": "1439772",
+            "score": 0.00235
+        },
+        {
+            "name": "Malva arborea (L.) Webb & Berthel.",
+            "id": "1362856",
+            "score": 0.00226
+        },
+        {
+            "name": "Rosa chinensis Jacq.",
+            "id": "1395231",
+            "score": 0.00207
+        },
+        {
+            "name": "Solanum albidum Dunal",
+            "id": "1403582",
+            "score": 0.00205
+        },
+        {
+            "name": "Zanthoxylum rhoifolium Lam.",
+            "id": "1405024",
+            "score": 0.00183
+        },
+        {
+            "name": "Rosa gallica L.",
+            "id": "1360338",
+            "score": 0.00163
+        },
+        {
+            "name": "Salix myrsinifolia Salisb.",
+            "id": "1395843",
+            "score": 0.00154
+        },
+        {
+            "name": "Cytisophyllum sessilifolium (L.) O.Lang",
+            "id": "1391531",
+            "score": 0.00153
+        },
+        {
+            "name": "Chrysojasminum fruticans (L.) Banfi",
+            "id": "1363101",
+            "score": 0.00153
+        },
+        {
+            "name": "Cnidoscolus aconitifolius (Mill.) I.M.Johnst.",
+            "id": "1409487",
+            "score": 0.00151
+        },
+        {
+            "name": "Zanthoxylum armatum DC.",
+            "id": "1420546",
+            "score": 0.0015
+        },
+        {
+            "name": "Zanthoxylum ailanthoides Siebold & Zucc.",
+            "id": "1683172",
+            "score": 0.00144
+        },
+        {
+            "name": "Pistacia terebinthus L.",
+            "id": "1356567",
+            "score": 0.00127
+        },
+        {
+            "name": "Hakea teretifolia (Salisb.) Britten",
+            "id": "1805993",
+            "score": 0.00122
+        },
+        {
+            "name": "Rubus argutus Link",
+            "id": "1421896",
+            "score": 0.00116
+        },
+        {
+            "name": "Sesbania drummondii (Rydb.) Cory",
+            "id": "1438149",
+            "score": 0.00114
+        },
+        {
+            "name": "Mutisia retrorsa Cav.",
+            "id": "1842222",
+            "score": 0.00111
+        },
+        {
+            "name": "Rosa pendulina L.",
+            "id": "1395329",
+            "score": 0.00106
+        },
+        {
+            "name": "Rosa mollis Sm.",
+            "id": "1395318",
+            "score": 0.00101
+        },
+        {
+            "name": "Euonymus japonicus Thunb.",
+            "id": "1418419",
+            "score": 0.00097
+        },
+        {
+            "name": "Solanum linnaeanum Hepper & P.-M.L.Jaeger",
+            "id": "1432292",
+            "score": 0.0009
+        },
+        {
+            "name": "Brassica montana Pourr.",
+            "id": "1389320",
+            "score": 0.0009
+        },
+        {
+            "name": "Juglans nigra L.",
+            "id": "1393337",
+            "score": 0.00089
+        },
+        {
+            "name": "Petteria ramentacea (Sieber) C.Presl",
+            "id": "1583974",
+            "score": 0.00088
+        },
+        {
+            "name": "Solanum dimidiatum Raf.",
+            "id": "1389721",
+            "score": 0.00087
+        },
+        {
+            "name": "Spartium junceum L.",
+            "id": "1363706",
+            "score": 0.00086
+        },
+        {
+            "name": "Euonymus fortunei (Turcz.) Hand.-Mazz.",
+            "id": "1392235",
+            "score": 0.00084
+        },
+        {
+            "name": "Euonymus europaeus L.",
+            "id": "1392236",
+            "score": 0.00084
+        },
+        {
+            "name": "Salix breviserrata Flod.",
+            "id": "1395758",
+            "score": 0.00078
+        },
+        {
+            "name": "Wisteria frutescens (L.) Poir.",
+            "id": "1439678",
+            "score": 0.00077
+        },
+        {
+            "name": "Citrus × aurantium L.",
+            "id": "1403435",
+            "score": 0.00075
+        },
+        {
+            "name": "Iberis linifolia L.",
+            "id": "1393268",
+            "score": 0.00073
+        },
+        {
+            "name": "Salix variegata Franch.",
+            "id": "1420587",
+            "score": 0.00068
+        },
+        {
+            "name": "Ilex aquifolium L.",
+            "id": "1356576",
+            "score": 0.00068
+        },
+        {
+            "name": "Cornus alternifolia L.f.",
+            "id": "1406479",
+            "score": 0.00061
+        },
+        {
+            "name": "Citrus japonica Thunb.",
+            "id": "1420517",
+            "score": 0.00061
+        },
+        {
+            "name": "Zanthoxylum caribaeum Lam.",
+            "id": "1410148",
+            "score": 0.00059
+        },
+        {
+            "name": "Citrus × limon (L.) Osbeck",
+            "id": "1403436",
+            "score": 0.00058
+        },
+        {
+            "name": "Cornus rugosa Lam.",
+            "id": "1411550",
+            "score": 0.00057
+        },
+        {
+            "name": "Fraxinus pennsylvanica Marshall",
+            "id": "1392363",
+            "score": 0.00057
+        },
+        {
+            "name": "Cotoneaster integerrimus Medik.",
+            "id": "1391411",
+            "score": 0.00056
+        },
+        {
+            "name": "Pyrus elaeagrifolia Pall.",
+            "id": "1745199",
+            "score": 0.00056
+        },
+        {
+            "name": "Daphne laureola L.",
+            "id": "1360590",
+            "score": 0.00056
+        },
+        {
+            "name": "Ailanthus altissima (Mill.) Swingle",
+            "id": "1360547",
+            "score": 0.00055
+        },
+        {
+            "name": "Frangula alnus Mill.",
+            "id": "1360257",
+            "score": 0.00054
+        },
+        {
+            "name": "Cornus mas L.",
+            "id": "1391354",
+            "score": 0.00053
+        },
+        {
+            "name": "Pluchea carolinensis (Jacq.) G.Don",
+            "id": "1409293",
+            "score": 0.00052
+        },
+        {
+            "name": "Salix hastata L.",
+            "id": "1397478",
+            "score": 0.00051
+        },
+        {
+            "name": "Daphne sericea Vahl",
+            "id": "1399157",
+            "score": 0.00051
+        },
+        {
+            "name": "Citrus trifoliata L.",
+            "id": "1682410",
+            "score": 0.0005
+        },
+        {
+            "name": "Lactuca viminea (L.) J.Presl & C.Presl",
+            "id": "1393418",
+            "score": 0.00049
+        },
+        {
+            "name": "Quercus hypoleucoides A.Camus",
+            "id": "1548295",
+            "score": 0.00049
+        },
+        {
+            "name": "Asparagus tenuifolius Lam.",
+            "id": "1397182",
+            "score": 0.00048
+        },
+        {
+            "name": "Scilla verna Huds.",
+            "id": "1362369",
+            "score": 0.00048
+        },
+        {
+            "name": "Staphylea pinnata L.",
+            "id": "1396437",
+            "score": 0.00047
+        },
+        {
+            "name": "Erythrina herbacea L.",
+            "id": "1418944",
+            "score": 0.00046
+        },
+        {
+            "name": "Euphorbia tirucalli L.",
+            "id": "1355972",
+            "score": 0.00046
+        },
+        {
+            "name": "Genista patens DC.",
+            "id": "1744507",
+            "score": 0.00046
+        },
+        {
+            "name": "Coffea arabica L.",
+            "id": "1360376",
+            "score": 0.00046
+        },
+        {
+            "name": "Solanum silvestre A.R.Bean",
+            "id": "1806255",
+            "score": 0.00045
+        },
+        {
+            "name": "Anagyris foetida L.",
+            "id": "1359079",
+            "score": 0.00044
+        },
+        {
+            "name": "Cytisus villosus Pourr.",
+            "id": "1359182",
+            "score": 0.00044
+        },
+        {
+            "name": "Zanthoxylum americanum Mill.",
+            "id": "1389743",
+            "score": 0.00044
+        },
+        {
+            "name": "Cytisus scoparius (L.) Link",
+            "id": "1363728",
+            "score": 0.00044
+        },
+        {
+            "name": "Cornus sanguinea L.",
+            "id": "1397356",
+            "score": 0.00044
+        },
+        {
+            "name": "Genista radiata (L.) Scop.",
+            "id": "1392523",
+            "score": 0.00043
+        },
+        {
+            "name": "Sporobolus heterolepis (A.Gray) A.Gray",
+            "id": "1815696",
+            "score": 0.00042
+        },
+        {
+            "name": "Scaevola taccada (Gaertn.) Roxb.",
+            "id": "1382319",
+            "score": 0.00042
+        },
+        {
+            "name": "Nageia nagi (Thunb.) Kuntze",
+            "id": "1424037",
+            "score": 0.00041
+        },
+        {
+            "name": "Adesmia obovata Clos",
+            "id": "1569516",
+            "score": 0.00041
+        },
+        {
+            "name": "Garcinia portoricensis (Urb.) Alain",
+            "id": "1496442",
+            "score": 0.0004
+        },
+        {
+            "name": "Rosa abietina Gren. ex Christ",
+            "id": "1741909",
+            "score": 0.0004
+        },
+        {
+            "name": "Plumeria rubra L.",
+            "id": "1369885",
+            "score": 0.0004
+        },
+        {
+            "name": "Erythrina crista-galli L.",
+            "id": "1366912",
+            "score": 0.0004
+        },
+        {
+            "name": "Solanum stelligerum Sm.",
+            "id": "1806257",
+            "score": 0.00039
+        },
+        {
+            "name": "Daphne alpina L.",
+            "id": "1391648",
+            "score": 0.00039
+        },
+        {
+            "name": "Erysimum rhaeticum (Schleich. ex Hornem.) DC.",
+            "id": "1392124",
+            "score": 0.00039
+        },
+        {
+            "name": "Plumeria alba L.",
+            "id": "1369884",
+            "score": 0.00038
+        }
+    ]
+}

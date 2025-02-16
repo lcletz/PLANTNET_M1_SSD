@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stellaria graminea L.",
+            "id": "1396446",
+            "score": 0.94137
+        },
+        {
+            "name": "Stellaria nemorum L.",
+            "id": "1382174",
+            "score": 0.00637
+        },
+        {
+            "name": "Stellaria palustris Ehrh. ex Hoffm.",
+            "id": "1721301",
+            "score": 0.00485
+        },
+        {
+            "name": "Stellaria crassifolia Ehrh.",
+            "id": "1413921",
+            "score": 0.00265
+        },
+        {
+            "name": "Stellaria longifolia Muhl. ex Willd.",
+            "id": "1413925",
+            "score": 0.00259
+        },
+        {
+            "name": "Stellaria longipes Goldie",
+            "id": "1413926",
+            "score": 0.00193
+        },
+        {
+            "name": "Stellaria aquatica (L.) Scop.",
+            "id": "1493766",
+            "score": 0.00119
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hedera nepalensis K.Koch",
+            "id": "1467322",
+            "score": 0.85736
+        },
+        {
+            "name": "Hedera helix L.",
+            "id": "1363575",
+            "score": 0.01687
+        },
+        {
+            "name": "Hedera hibernica Poit.",
+            "id": "1737422",
+            "score": 0.01317
+        },
+        {
+            "name": "Hedera canariensis Willd.",
+            "id": "1356580",
+            "score": 0.01162
+        },
+        {
+            "name": "Abelmoschus moschatus Medik.",
+            "id": "1402050",
+            "score": 0.00927
+        },
+        {
+            "name": "Abelmoschus manihot (L.) Medik.",
+            "id": "1408264",
+            "score": 0.00599
+        },
+        {
+            "name": "Brachychiton rupestris (T.Mitch. ex Lindl.) K.Schum.",
+            "id": "1417537",
+            "score": 0.00373
+        },
+        {
+            "name": "Ipomoea batatas (L.) Lam.",
+            "id": "1364028",
+            "score": 0.00356
+        },
+        {
+            "name": "Xanthium spinosum L.",
+            "id": "1355897",
+            "score": 0.0014
+        },
+        {
+            "name": "Solanum laciniatum Aiton",
+            "id": "1360570",
+            "score": 0.00118
+        }
+    ]
+}

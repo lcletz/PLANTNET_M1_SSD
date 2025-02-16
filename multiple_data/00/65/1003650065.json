@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Veronica arvensis L.",
+            "id": "1364063",
+            "score": 0.82672
+        },
+        {
+            "name": "Veronica verna L.",
+            "id": "1359988",
+            "score": 0.04737
+        },
+        {
+            "name": "Veronica dillenii Crantz",
+            "id": "1397047",
+            "score": 0.0167
+        },
+        {
+            "name": "Sherardia arvensis L.",
+            "id": "1364029",
+            "score": 0.00326
+        },
+        {
+            "name": "Veronica triphyllos L.",
+            "id": "1359987",
+            "score": 0.00147
+        },
+        {
+            "name": "Veronica peregrina L.",
+            "id": "1359980",
+            "score": 0.00113
+        }
+    ]
+}

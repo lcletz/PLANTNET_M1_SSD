@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Anthyllis vulneraria L.",
+            "id": "1356330",
+            "score": 0.84172
+        },
+        {
+            "name": "Anthyllis montana L.",
+            "id": "1359086",
+            "score": 0.05405
+        },
+        {
+            "name": "Lotus hirsutus L.",
+            "id": "1743246",
+            "score": 0.00946
+        },
+        {
+            "name": "Oxytropis campestris (L.) DC.",
+            "id": "1397451",
+            "score": 0.0023
+        },
+        {
+            "name": "Castilleja parviflora Bong.",
+            "id": "1411367",
+            "score": 0.00136
+        },
+        {
+            "name": "Astragalus vesicarius L.",
+            "id": "1398424",
+            "score": 0.00122
+        },
+        {
+            "name": "Trifolium incarnatum L.",
+            "id": "1359498",
+            "score": 0.0011
+        }
+    ]
+}

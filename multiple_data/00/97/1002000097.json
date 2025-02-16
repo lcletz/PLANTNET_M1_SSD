@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.69894
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.10784
+        },
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.07865
+        },
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.03445
+        },
+        {
+            "name": "Tilia platyphyllos Scop.",
+            "id": "1396802",
+            "score": 0.00248
+        },
+        {
+            "name": "Tilia americana L.",
+            "id": "1397800",
+            "score": 0.00184
+        },
+        {
+            "name": "Celtis australis L.",
+            "id": "1361742",
+            "score": 0.00105
+        }
+    ]
+}

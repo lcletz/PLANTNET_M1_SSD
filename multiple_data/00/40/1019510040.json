@@ -1,0 +1,75 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Stachys germanica L.",
+            "id": "1358939",
+            "score": 0.82076
+        },
+        {
+            "name": "Stachys cretica L.",
+            "id": "1396426",
+            "score": 0.28264
+        },
+        {
+            "name": "Stachys byzantina K.Koch",
+            "id": "1396424",
+            "score": 0.0468
+        },
+        {
+            "name": "Marrubium incanum Desr.",
+            "id": "1393754",
+            "score": 0.00651
+        },
+        {
+            "name": "Marrubium vulgare L.",
+            "id": "1356123",
+            "score": 0.00524
+        },
+        {
+            "name": "Marrubium supinum L.",
+            "id": "1358782",
+            "score": 0.00392
+        },
+        {
+            "name": "Phlomis purpurea L.",
+            "id": "1358852",
+            "score": 0.00391
+        },
+        {
+            "name": "Stachys maritima Gouan",
+            "id": "1358942",
+            "score": 0.00386
+        },
+        {
+            "name": "Stachys heraclea All.",
+            "id": "1396430",
+            "score": 0.00296
+        },
+        {
+            "name": "Nepeta nepetella L.",
+            "id": "1362340",
+            "score": 0.00179
+        },
+        {
+            "name": "Phlomis fruticosa L.",
+            "id": "1394526",
+            "score": 0.0013
+        },
+        {
+            "name": "Sideritis hirsuta L.",
+            "id": "1358906",
+            "score": 0.00121
+        },
+        {
+            "name": "Satureja thymbra L.",
+            "id": "1358884",
+            "score": 0.00113
+        },
+        {
+            "name": "Stachys recta L.",
+            "id": "1396435",
+            "score": 0.001
+        }
+    ]
+}

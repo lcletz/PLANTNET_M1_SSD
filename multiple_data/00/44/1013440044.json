@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vicia dasycarpa Ten.",
+            "id": "1397088",
+            "score": 0.44197
+        },
+        {
+            "name": "Vicia cracca L.",
+            "id": "1397085",
+            "score": 0.04983
+        },
+        {
+            "name": "Vicia tenuifolia Roth",
+            "id": "1359578",
+            "score": 0.04308
+        },
+        {
+            "name": "Vicia benghalensis L.",
+            "id": "1363670",
+            "score": 0.03525
+        },
+        {
+            "name": "Vicia villosa Roth",
+            "id": "1359581",
+            "score": 0.03187
+        },
+        {
+            "name": "Vicia monantha Retz.",
+            "id": "1363673",
+            "score": 0.019
+        },
+        {
+            "name": "Vicia incana Gouan",
+            "id": "1397094",
+            "score": 0.00602
+        },
+        {
+            "name": "Vicia disperma DC.",
+            "id": "1359557",
+            "score": 0.00236
+        }
+    ]
+}

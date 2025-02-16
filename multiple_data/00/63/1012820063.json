@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Juniperus oxycedrus L.",
+            "id": "1393365",
+            "score": 0.86628
+        },
+        {
+            "name": "Juniperus communis L.",
+            "id": "1393364",
+            "score": 0.07531
+        },
+        {
+            "name": "Juniperus cedrus Webb & Berthel.",
+            "id": "1399864",
+            "score": 0.02053
+        },
+        {
+            "name": "Juniperus macrocarpa Sm.",
+            "id": "1701525",
+            "score": 0.00351
+        },
+        {
+            "name": "Juniperus deltoides R.P.Adams",
+            "id": "1701512",
+            "score": 0.0015
+        }
+    ]
+}

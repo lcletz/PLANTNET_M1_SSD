@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Solanum americanum Mill.",
+            "id": "1360564",
+            "score": 0.52877
+        },
+        {
+            "name": "Solanum nigrum L.",
+            "id": "1356167",
+            "score": 0.31751
+        },
+        {
+            "name": "Solanum chenopodioides Lam.",
+            "id": "1356162",
+            "score": 0.04548
+        },
+        {
+            "name": "Solanum scabrum Mill.",
+            "id": "1379665",
+            "score": 0.00776
+        },
+        {
+            "name": "Solanum villosum Mill.",
+            "id": "1361993",
+            "score": 0.00507
+        },
+        {
+            "name": "Solanum douglasii Dunal",
+            "id": "1438373",
+            "score": 0.00384
+        },
+        {
+            "name": "Solanum interius Rydb.",
+            "id": "1413836",
+            "score": 0.00204
+        },
+        {
+            "name": "Atropa bella-donna L.",
+            "id": "1360548",
+            "score": 0.00147
+        }
+    ]
+}

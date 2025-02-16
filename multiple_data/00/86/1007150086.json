@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Iberis carnosa Willd.",
+            "id": "1358325",
+            "score": 0.94855
+        },
+        {
+            "name": "Iberis aurosica Chaix",
+            "id": "1397409",
+            "score": 0.01093
+        },
+        {
+            "name": "Iberis spathulata DC.",
+            "id": "1743666",
+            "score": 0.00495
+        },
+        {
+            "name": "Iberis linifolia L.",
+            "id": "1393268",
+            "score": 0.00462
+        },
+        {
+            "name": "Iberis amara L.",
+            "id": "1358322",
+            "score": 0.003
+        },
+        {
+            "name": "Iberis saxatilis L.",
+            "id": "1358333",
+            "score": 0.00254
+        },
+        {
+            "name": "Iberis gibraltarica L.",
+            "id": "1358327",
+            "score": 0.00186
+        }
+    ]
+}

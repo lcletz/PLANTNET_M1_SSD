@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Orchis purpurea Huds.",
+            "id": "1361685",
+            "score": 0.90452
+        },
+        {
+            "name": "Orchis × hybrida (Lindl.) Boenn. ex Rchb.",
+            "id": "1628948",
+            "score": 0.01325
+        },
+        {
+            "name": "Neotinea ustulata (L.) R.M.Bateman, Pridgeon & M.W.Chase",
+            "id": "1393946",
+            "score": 0.00472
+        },
+        {
+            "name": "Neotinea tridentata (Scop.) R.M.Bateman, Pridgeon & M.W.Chase",
+            "id": "1398041",
+            "score": 0.0019
+        },
+        {
+            "name": "Anacamptis coriophora (L.) R.M.Bateman, Pridgeon & M.W.Chase",
+            "id": "1393872",
+            "score": 0.00136
+        },
+        {
+            "name": "Orchis × angusticruris Franch.",
+            "id": "1628933",
+            "score": 0.0012
+        }
+    ]
+}

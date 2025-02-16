@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.67113
+        },
+        {
+            "name": "Poa annua L.",
+            "id": "1363455",
+            "score": 0.16151
+        },
+        {
+            "name": "Poa trivialis L.",
+            "id": "1363459",
+            "score": 0.09895
+        },
+        {
+            "name": "Poa palustris L.",
+            "id": "1394677",
+            "score": 0.0042
+        },
+        {
+            "name": "Poa nemoralis L.",
+            "id": "1361376",
+            "score": 0.00251
+        },
+        {
+            "name": "Agrostis capillaris L.",
+            "id": "1361133",
+            "score": 0.00163
+        },
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.0012
+        },
+        {
+            "name": "Puccinellia distans (Jacq.) Parl.",
+            "id": "1363522",
+            "score": 0.00109
+        }
+    ]
+}

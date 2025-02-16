@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tripleurospermum inodorum Sch.Bip.",
+            "id": "1396882",
+            "score": 0.4702
+        },
+        {
+            "name": "Matricaria chamomilla L.",
+            "id": "1362332",
+            "score": 0.01963
+        },
+        {
+            "name": "Anthemis cotula L.",
+            "id": "1364155",
+            "score": 0.00254
+        },
+        {
+            "name": "Adonis aestivalis L.",
+            "id": "1360147",
+            "score": 0.00157
+        },
+        {
+            "name": "Delphinium ajacis L.",
+            "id": "1360162",
+            "score": 0.0011
+        }
+    ]
+}

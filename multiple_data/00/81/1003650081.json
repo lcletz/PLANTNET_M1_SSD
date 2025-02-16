@@ -1,0 +1,375 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Brassica rapa L.",
+            "id": "1363906",
+            "score": 0.60447
+        },
+        {
+            "name": "Brassica napus L.",
+            "id": "1363908",
+            "score": 0.12875
+        },
+        {
+            "name": "Sinapis alba L.",
+            "id": "1363889",
+            "score": 0.03076
+        },
+        {
+            "name": "Erucastrum nasturtiifolium (Poir.) O.E.Schulz",
+            "id": "1392096",
+            "score": 0.02451
+        },
+        {
+            "name": "Brassica fruticulosa Cirillo",
+            "id": "1358196",
+            "score": 0.02143
+        },
+        {
+            "name": "Sisymbrium loeselii L.",
+            "id": "1396308",
+            "score": 0.02061
+        },
+        {
+            "name": "Rhamphospermum arvense (L.) Andrz. ex Besser",
+            "id": "1737463",
+            "score": 0.0203
+        },
+        {
+            "name": "Brassica juncea (L.) Czern.",
+            "id": "1363904",
+            "score": 0.01794
+        },
+        {
+            "name": "Brassica oleracea L.",
+            "id": "1363909",
+            "score": 0.01355
+        },
+        {
+            "name": "Brassica montana Pourr.",
+            "id": "1389320",
+            "score": 0.01305
+        },
+        {
+            "name": "Eruca vesicaria (L.) Cav.",
+            "id": "1356328",
+            "score": 0.01218
+        },
+        {
+            "name": "Papaver somniferum L.",
+            "id": "1363130",
+            "score": 0.01156
+        },
+        {
+            "name": "Valeriana montana L.",
+            "id": "1396976",
+            "score": 0.00991
+        },
+        {
+            "name": "Lepidium draba L.",
+            "id": "1358347",
+            "score": 0.0095
+        },
+        {
+            "name": "Crambe maritima L.",
+            "id": "1391425",
+            "score": 0.00914
+        },
+        {
+            "name": "Valeriana tripteris L.",
+            "id": "1396984",
+            "score": 0.00834
+        },
+        {
+            "name": "Ranunculus thora L.",
+            "id": "1395132",
+            "score": 0.00784
+        },
+        {
+            "name": "Raphanus raphanistrum L.",
+            "id": "1363901",
+            "score": 0.00631
+        },
+        {
+            "name": "Calepina irregularis (Asso) Thell.",
+            "id": "1358204",
+            "score": 0.0061
+        },
+        {
+            "name": "Rumex scutatus L.",
+            "id": "1362485",
+            "score": 0.00562
+        },
+        {
+            "name": "Rorippa sylvestris (L.) Besser",
+            "id": "1358416",
+            "score": 0.00532
+        },
+        {
+            "name": "Noccaea caerulescens (J.Presl & C.Presl) F.K.Mey.",
+            "id": "1393965",
+            "score": 0.00494
+        },
+        {
+            "name": "Glaucium flavum Crantz",
+            "id": "1359804",
+            "score": 0.00479
+        },
+        {
+            "name": "Moricandia arvensis (L.) DC.",
+            "id": "1358386",
+            "score": 0.00472
+        },
+        {
+            "name": "Noccaea perfoliata (L.) Al-Shehbaz",
+            "id": "1737578",
+            "score": 0.00465
+        },
+        {
+            "name": "Dracunculus vulgaris Schott",
+            "id": "1360995",
+            "score": 0.00432
+        },
+        {
+            "name": "Valeriana graciliflora (Fisch. & C.A.Mey.) Byng & Christenh.",
+            "id": "1743348",
+            "score": 0.00422
+        },
+        {
+            "name": "Diplotaxis muralis (L.) DC.",
+            "id": "1363875",
+            "score": 0.00375
+        },
+        {
+            "name": "Acicarpha tribuloides Juss.",
+            "id": "1439918",
+            "score": 0.00349
+        },
+        {
+            "name": "Lactuca sativa L.",
+            "id": "1364172",
+            "score": 0.00341
+        },
+        {
+            "name": "Diplotaxis tenuifolia (L.) DC.",
+            "id": "1358257",
+            "score": 0.00317
+        },
+        {
+            "name": "Lactuca muralis (L.) E.Mey.",
+            "id": "1737633",
+            "score": 0.00308
+        },
+        {
+            "name": "Atocion armeria (L.) Raf.",
+            "id": "1398690",
+            "score": 0.00305
+        },
+        {
+            "name": "Coincya richeri (Vill.) Greuter & Burdet",
+            "id": "1391317",
+            "score": 0.00292
+        },
+        {
+            "name": "Lactuca serriola L.",
+            "id": "1364173",
+            "score": 0.00287
+        },
+        {
+            "name": "Brassica barrelieri (L.) Janka",
+            "id": "1358194",
+            "score": 0.00278
+        },
+        {
+            "name": "Brassica cretica Lam.",
+            "id": "1362418",
+            "score": 0.00275
+        },
+        {
+            "name": "Diplotaxis catholica (L.) DC.",
+            "id": "1358250",
+            "score": 0.00269
+        },
+        {
+            "name": "Sisymbrium irio L.",
+            "id": "1363896",
+            "score": 0.00266
+        },
+        {
+            "name": "Jacobaea erratica (Bertol.) Fourr.",
+            "id": "1362687",
+            "score": 0.00222
+        },
+        {
+            "name": "Thlaspi arvense L.",
+            "id": "1363886",
+            "score": 0.0022
+        },
+        {
+            "name": "Silene vulgaris (Moench) Garcke",
+            "id": "1357059",
+            "score": 0.00218
+        },
+        {
+            "name": "Ranunculus platanifolius L.",
+            "id": "1395114",
+            "score": 0.00213
+        },
+        {
+            "name": "Lactuca perennis L.",
+            "id": "1397420",
+            "score": 0.00213
+        },
+        {
+            "name": "Myagrum perfoliatum L.",
+            "id": "1358394",
+            "score": 0.00207
+        },
+        {
+            "name": "Isatis tinctoria L.",
+            "id": "1358340",
+            "score": 0.00206
+        },
+        {
+            "name": "Rorippa palustris (L.) Besser",
+            "id": "1363914",
+            "score": 0.00204
+        },
+        {
+            "name": "Erysimum cheiranthoides L.",
+            "id": "1358289",
+            "score": 0.00203
+        },
+        {
+            "name": "Rorippa amphibia (L.) Besser",
+            "id": "1358413",
+            "score": 0.00196
+        },
+        {
+            "name": "Cephalopentandra ecirrhosa (Cogn.) C.Jeffrey",
+            "id": "1529637",
+            "score": 0.00194
+        },
+        {
+            "name": "Sisymbrium austriacum Jacq.",
+            "id": "1358428",
+            "score": 0.00184
+        },
+        {
+            "name": "Senecio doria L.",
+            "id": "1357857",
+            "score": 0.00182
+        },
+        {
+            "name": "Brassica insularis Moris",
+            "id": "1358197",
+            "score": 0.00179
+        },
+        {
+            "name": "Rumex arifolius All.",
+            "id": "1395646",
+            "score": 0.00175
+        },
+        {
+            "name": "Valeriana calcitrapae L.",
+            "id": "1722514",
+            "score": 0.0016
+        },
+        {
+            "name": "Moricandia moricandioides (Boiss.) Heywood",
+            "id": "1398746",
+            "score": 0.00158
+        },
+        {
+            "name": "Sisymbrium strictissimum L.",
+            "id": "1396310",
+            "score": 0.00156
+        },
+        {
+            "name": "Rhamphospermum nigrum (L.) Al-Shehbaz",
+            "id": "1737676",
+            "score": 0.00156
+        },
+        {
+            "name": "Verbascum blattaria L.",
+            "id": "1364060",
+            "score": 0.00155
+        },
+        {
+            "name": "Lunaria annua L.",
+            "id": "1361790",
+            "score": 0.00154
+        },
+        {
+            "name": "Cicerbita plumieri (L.) Kirschl.",
+            "id": "1738967",
+            "score": 0.00153
+        },
+        {
+            "name": "Peltaria alliacea Jacq.",
+            "id": "1394456",
+            "score": 0.00153
+        },
+        {
+            "name": "Ranunculus amplexicaulis L.",
+            "id": "1395049",
+            "score": 0.00148
+        },
+        {
+            "name": "Prenanthes purpurea L.",
+            "id": "1394894",
+            "score": 0.00146
+        },
+        {
+            "name": "Coincya monensis (L.) Greuter & Burdet",
+            "id": "1358222",
+            "score": 0.00145
+        },
+        {
+            "name": "Ranunculus hybridus Biria",
+            "id": "1397845",
+            "score": 0.00138
+        },
+        {
+            "name": "Alliaria petiolata (M.Bieb.) Cavara & Grande",
+            "id": "1392475",
+            "score": 0.00138
+        },
+        {
+            "name": "Turritis glabra L.",
+            "id": "1396934",
+            "score": 0.00134
+        },
+        {
+            "name": "Caltha leptosepala DC.",
+            "id": "1414399",
+            "score": 0.00129
+        },
+        {
+            "name": "Senecio mohavensis A.Gray",
+            "id": "1520507",
+            "score": 0.00123
+        },
+        {
+            "name": "Gypsophila vaccaria (L.) Sm.",
+            "id": "1721558",
+            "score": 0.00112
+        },
+        {
+            "name": "Lepidium perfoliatum L.",
+            "id": "1358355",
+            "score": 0.00111
+        },
+        {
+            "name": "Barbarea orthoceras Ledeb.",
+            "id": "1414275",
+            "score": 0.00041
+        },
+        {
+            "name": "Bunias orientalis L.",
+            "id": "1389581",
+            "score": 0.0004
+        }
+    ]
+}

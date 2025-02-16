@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunella vulgaris L.",
+            "id": "1356109",
+            "score": 0.85806
+        },
+        {
+            "name": "Prunella grandiflora (L.) Turra",
+            "id": "1737424",
+            "score": 0.02173
+        },
+        {
+            "name": "Stachys palustris L.",
+            "id": "1397503",
+            "score": 0.00703
+        },
+        {
+            "name": "Scutellaria alpina L.",
+            "id": "1397490",
+            "score": 0.00556
+        },
+        {
+            "name": "Prunella hyssopifolia L.",
+            "id": "1362041",
+            "score": 0.00345
+        },
+        {
+            "name": "Prunella laciniata (L.) L.",
+            "id": "1358854",
+            "score": 0.00249
+        },
+        {
+            "name": "Betonica officinalis L.",
+            "id": "1400126",
+            "score": 0.00234
+        },
+        {
+            "name": "Betonica hirsuta L.",
+            "id": "1400125",
+            "score": 0.00197
+        }
+    ]
+}

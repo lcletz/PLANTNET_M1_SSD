@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Satureja hortensis L.",
+            "id": "1395936",
+            "score": 0.49566
+        },
+        {
+            "name": "Satureja montana L.",
+            "id": "1361829",
+            "score": 0.47192
+        },
+        {
+            "name": "Micromeria graeca (L.) Benth. ex Rchb.",
+            "id": "1358797",
+            "score": 0.0103
+        },
+        {
+            "name": "Satureja cuneifolia Ten.",
+            "id": "1399392",
+            "score": 0.00283
+        },
+        {
+            "name": "Satureja subspicata Bartl. ex Vis.",
+            "id": "1399393",
+            "score": 0.00235
+        },
+        {
+            "name": "Satureja intricata Lange",
+            "id": "1398783",
+            "score": 0.00209
+        },
+        {
+            "name": "Thymus vulgaris L.",
+            "id": "1356108",
+            "score": 0.00129
+        }
+    ]
+}

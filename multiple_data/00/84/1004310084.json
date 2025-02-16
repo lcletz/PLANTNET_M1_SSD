@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Papaver alpinum L.",
+            "id": "1394399",
+            "score": 0.93383
+        },
+        {
+            "name": "Papaver nudicaule L.",
+            "id": "1412946",
+            "score": 0.01102
+        },
+        {
+            "name": "Papaver cambricum L.",
+            "id": "1419850",
+            "score": 0.00248
+        },
+        {
+            "name": "Ranunculus montanus Willd.",
+            "id": "1362363",
+            "score": 0.00177
+        },
+        {
+            "name": "Glaucium flavum Crantz",
+            "id": "1359804",
+            "score": 0.0015
+        },
+        {
+            "name": "Ranunculus gramineus L.",
+            "id": "1360204",
+            "score": 0.00125
+        },
+        {
+            "name": "Ranunculus gouanii Willd.",
+            "id": "1395089",
+            "score": 0.00106
+        }
+    ]
+}

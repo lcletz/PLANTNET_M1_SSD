@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fragaria vesca L.",
+            "id": "1363991",
+            "score": 0.70098
+        },
+        {
+            "name": "Fragaria viridis Weston",
+            "id": "1397387",
+            "score": 0.15906
+        },
+        {
+            "name": "Potentilla simplex Michx.",
+            "id": "1413317",
+            "score": 0.03137
+        },
+        {
+            "name": "Potentilla sterilis (L.) Garcke",
+            "id": "1394877",
+            "score": 0.008
+        },
+        {
+            "name": "Potentilla canadensis L.",
+            "id": "1413292",
+            "score": 0.00673
+        },
+        {
+            "name": "Fragaria virginiana Mill.",
+            "id": "1420364",
+            "score": 0.00369
+        },
+        {
+            "name": "Rubus pubescens Raf.",
+            "id": "1413537",
+            "score": 0.00111
+        },
+        {
+            "name": "Potentilla erecta (L.) Raeusch.",
+            "id": "1360307",
+            "score": 0.0011
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Geum reptans L.",
+            "id": "1392612",
+            "score": 0.89964
+        },
+        {
+            "name": "Geum montanum L.",
+            "id": "1392608",
+            "score": 0.048
+        },
+        {
+            "name": "Ranunculus montanus Willd.",
+            "id": "1362363",
+            "score": 0.00285
+        },
+        {
+            "name": "Geum triflorum Pursh",
+            "id": "1412172",
+            "score": 0.00179
+        },
+        {
+            "name": "Ranunculus creticus L.",
+            "id": "1360198",
+            "score": 0.00124
+        },
+        {
+            "name": "Potentilla verna L.",
+            "id": "1728592",
+            "score": 0.00039
+        },
+        {
+            "name": "Potentilla supina L.",
+            "id": "1363992",
+            "score": 0.0003
+        },
+        {
+            "name": "Potentilla crantzii (Crantz) Beck ex Fritsch",
+            "id": "1394840",
+            "score": 0.0003
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pinus pinea L.",
+            "id": "1394612",
+            "score": 0.77009
+        },
+        {
+            "name": "Pinus halepensis Mill.",
+            "id": "1397460",
+            "score": 0.0841
+        },
+        {
+            "name": "Pinus pinaster Aiton",
+            "id": "1394611",
+            "score": 0.05144
+        },
+        {
+            "name": "Pinus sylvestris L.",
+            "id": "1394617",
+            "score": 0.01615
+        },
+        {
+            "name": "Pinus densiflora Siebold & Zucc.",
+            "id": "1390021",
+            "score": 0.01513
+        },
+        {
+            "name": "Pinus canariensis C.Sm. ex DC.",
+            "id": "1722426",
+            "score": 0.00748
+        },
+        {
+            "name": "Pinus mugo Turra",
+            "id": "1394608",
+            "score": 0.00645
+        },
+        {
+            "name": "Pinus brutia Ten.",
+            "id": "1398092",
+            "score": 0.00578
+        },
+        {
+            "name": "Pinus contorta Douglas ex Loudon",
+            "id": "1413085",
+            "score": 0.00325
+        },
+        {
+            "name": "Pinus radiata D.Don",
+            "id": "1394613",
+            "score": 0.00267
+        },
+        {
+            "name": "Pinus nigra J.F.Arnold",
+            "id": "1419915",
+            "score": 0.00247
+        },
+        {
+            "name": "Pinus tabuliformis Carrière",
+            "id": "1390047",
+            "score": 0.00164
+        }
+    ]
+}

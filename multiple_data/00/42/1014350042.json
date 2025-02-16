@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Eruca sativa Mill.",
+            "id": "1392091",
+            "score": 0.68029
+        },
+        {
+            "name": "Eruca vesicaria (L.) Cav.",
+            "id": "1356328",
+            "score": 0.24776
+        },
+        {
+            "name": "Raphanus raphanistrum L.",
+            "id": "1363901",
+            "score": 0.01672
+        },
+        {
+            "name": "Raphanus sativus L.",
+            "id": "1363902",
+            "score": 0.00135
+        }
+    ]
+}

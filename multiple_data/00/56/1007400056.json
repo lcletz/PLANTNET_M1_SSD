@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Acer palmatum Thunb.",
+            "id": "1390731",
+            "score": 0.91699
+        },
+        {
+            "name": "Acer japonicum Thunb.",
+            "id": "1390723",
+            "score": 0.03192
+        },
+        {
+            "name": "Vitex agnus-castus L.",
+            "id": "1356208",
+            "score": 0.00171
+        },
+        {
+            "name": "Acer longipes Franch. ex Rehder",
+            "id": "1685288",
+            "score": 0.00106
+        },
+        {
+            "name": "Acer cappadocicum Gled.",
+            "id": "1397300",
+            "score": 0.00104
+        }
+    ]
+}

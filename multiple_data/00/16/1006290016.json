@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sonchus asper (L.) Hill",
+            "id": "1357875",
+            "score": 0.86752
+        },
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.02623
+        },
+        {
+            "name": "Scolymus hispanicus L.",
+            "id": "1357848",
+            "score": 0.01209
+        },
+        {
+            "name": "Sonchus oleraceus L.",
+            "id": "1364170",
+            "score": 0.01202
+        },
+        {
+            "name": "Centaurea benedicta (L.) L.",
+            "id": "1357404",
+            "score": 0.00286
+        },
+        {
+            "name": "Reichardia ligulata (Vent.) G.Kunkel & Sunding",
+            "id": "1399824",
+            "score": 0.00236
+        },
+        {
+            "name": "Argemone mexicana L.",
+            "id": "1356300",
+            "score": 0.0015
+        },
+        {
+            "name": "Lactuca serriola L.",
+            "id": "1364173",
+            "score": 0.00135
+        },
+        {
+            "name": "Urospermum picroides (L.) Scop. ex F.W.Schmidt",
+            "id": "1396956",
+            "score": 0.00111
+        },
+        {
+            "name": "Cirsium horridulum Michx.",
+            "id": "1441375",
+            "score": 0.00101
+        }
+    ]
+}

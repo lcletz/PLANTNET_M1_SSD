@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Calendula officinalis L.",
+            "id": "1357330",
+            "score": 0.6222
+        },
+        {
+            "name": "Calendula stellata Cav.",
+            "id": "1357331",
+            "score": 0.15161
+        },
+        {
+            "name": "Calendula arvensis L.",
+            "id": "1390637",
+            "score": 0.02368
+        },
+        {
+            "name": "Dimorphotheca sinuata DC.",
+            "id": "1374876",
+            "score": 0.00812
+        },
+        {
+            "name": "Dimorphotheca ecklonis DC.",
+            "id": "1748142",
+            "score": 0.00146
+        }
+    ]
+}

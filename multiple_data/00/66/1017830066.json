@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cytinus ruber Fritsch",
+            "id": "1391530",
+            "score": 0.52305
+        },
+        {
+            "name": "Cytinus hypocistis (L.) L.",
+            "id": "1391529",
+            "score": 0.11151
+        },
+        {
+            "name": "Punica granatum L.",
+            "id": "1359616",
+            "score": 0.0064
+        },
+        {
+            "name": "Arbutus unedo L.",
+            "id": "1358500",
+            "score": 0.00209
+        },
+        {
+            "name": "Rhus typhina L.",
+            "id": "1395193",
+            "score": 0.00202
+        },
+        {
+            "name": "Laurus nobilis L.",
+            "id": "1363362",
+            "score": 0.00114
+        },
+        {
+            "name": "Schinus molle L.",
+            "id": "1363642",
+            "score": 0.00112
+        }
+    ]
+}

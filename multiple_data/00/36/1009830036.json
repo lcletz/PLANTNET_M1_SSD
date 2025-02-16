@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Veronica filiformis Sm.",
+            "id": "1397048",
+            "score": 0.27408
+        },
+        {
+            "name": "Veronica persica Poir.",
+            "id": "1364065",
+            "score": 0.21666
+        },
+        {
+            "name": "Veronica hederifolia L.",
+            "id": "1364064",
+            "score": 0.14769
+        },
+        {
+            "name": "Veronica polita Fr.",
+            "id": "1359981",
+            "score": 0.05448
+        },
+        {
+            "name": "Veronica agrestis L.",
+            "id": "1364061",
+            "score": 0.02906
+        },
+        {
+            "name": "Veronica arvensis L.",
+            "id": "1364063",
+            "score": 0.01925
+        },
+        {
+            "name": "Veronica cymbalaria Bodard",
+            "id": "1359978",
+            "score": 0.01397
+        },
+        {
+            "name": "Veronica chamaedrys L.",
+            "id": "1397521",
+            "score": 0.00199
+        },
+        {
+            "name": "Veronica officinalis L.",
+            "id": "1364068",
+            "score": 0.00134
+        },
+        {
+            "name": "Sherardia arvensis L.",
+            "id": "1364029",
+            "score": 0.00105
+        }
+    ]
+}

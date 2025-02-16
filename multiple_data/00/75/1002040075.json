@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iris orientalis Mill.",
+            "id": "1388948",
+            "score": 0.57708
+        },
+        {
+            "name": "Iris xiphium L.",
+            "id": "1361548",
+            "score": 0.25211
+        },
+        {
+            "name": "Iris planifolia (Mill.) T.Durand & Schinz",
+            "id": "1556855",
+            "score": 0.00542
+        },
+        {
+            "name": "Iris ensata Thunb.",
+            "id": "1393295",
+            "score": 0.00417
+        },
+        {
+            "name": "Iris spuria L.",
+            "id": "1361544",
+            "score": 0.00366
+        },
+        {
+            "name": "Iris japonica Thunb.",
+            "id": "1408237",
+            "score": 0.00306
+        },
+        {
+            "name": "Iris × hollandica H.R.Wehrh.",
+            "id": "1844324",
+            "score": 0.00277
+        },
+        {
+            "name": "Iris florentina L.",
+            "id": "1722421",
+            "score": 0.00157
+        },
+        {
+            "name": "Iris × germanica L.",
+            "id": "1556750",
+            "score": 0.001
+        }
+    ]
+}

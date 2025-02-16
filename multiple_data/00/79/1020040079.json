@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Erica vagans L.",
+            "id": "1361800",
+            "score": 0.79191
+        },
+        {
+            "name": "Erica multiflora L.",
+            "id": "1358509",
+            "score": 0.04334
+        },
+        {
+            "name": "Erica arborea L.",
+            "id": "1358503",
+            "score": 0.0198
+        },
+        {
+            "name": "Erica scoparia L.",
+            "id": "1358511",
+            "score": 0.00102
+        }
+    ]
+}

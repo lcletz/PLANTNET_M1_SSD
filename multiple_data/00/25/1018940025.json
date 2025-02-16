@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Gentiana nivalis L.",
+            "id": "1392552",
+            "score": 0.27581
+        },
+        {
+            "name": "Gentiana bavarica L.",
+            "id": "1392539",
+            "score": 0.2447
+        },
+        {
+            "name": "Gentiana brachyphylla Vill.",
+            "id": "1392541",
+            "score": 0.23619
+        },
+        {
+            "name": "Gentiana sierrae Briq.",
+            "id": "1358632",
+            "score": 0.1183
+        },
+        {
+            "name": "Gentiana verna L.",
+            "id": "1397535",
+            "score": 0.06159
+        },
+        {
+            "name": "Gentiana utriculosa L.",
+            "id": "1392566",
+            "score": 0.01531
+        },
+        {
+            "name": "Gentiana pumila Jacq.",
+            "id": "1392558",
+            "score": 0.00465
+        },
+        {
+            "name": "Gentiana alpina Vill.",
+            "id": "1392535",
+            "score": 0.00135
+        }
+    ]
+}

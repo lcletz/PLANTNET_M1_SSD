@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trachelium caeruleum L.",
+            "id": "1356778",
+            "score": 0.80521
+        },
+        {
+            "name": "Valeriana pyrenaica L.",
+            "id": "1396980",
+            "score": 0.00501
+        },
+        {
+            "name": "Adenostyles alpina (L.) Bluff & Fingerh.",
+            "id": "1397303",
+            "score": 0.00395
+        },
+        {
+            "name": "Chaerophyllum hirsutum L.",
+            "id": "1391112",
+            "score": 0.00249
+        },
+        {
+            "name": "Limonium vulgare Mill.",
+            "id": "1370637",
+            "score": 0.002
+        },
+        {
+            "name": "Valeriana rubra L.",
+            "id": "1722520",
+            "score": 0.00182
+        },
+        {
+            "name": "Pimpinella major (L.) Huds.",
+            "id": "1394592",
+            "score": 0.00115
+        }
+    ]
+}

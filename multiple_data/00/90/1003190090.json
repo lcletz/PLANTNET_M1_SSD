@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stellaria media (L.) Vill.",
+            "id": "1356571",
+            "score": 0.86987
+        },
+        {
+            "name": "Spergula pentandra L.",
+            "id": "1357061",
+            "score": 0.01305
+        },
+        {
+            "name": "Stellaria apetala Ucria",
+            "id": "1722525",
+            "score": 0.01046
+        },
+        {
+            "name": "Stellaria nemorum L.",
+            "id": "1382174",
+            "score": 0.00934
+        },
+        {
+            "name": "Stellaria graminea L.",
+            "id": "1396446",
+            "score": 0.00789
+        },
+        {
+            "name": "Spergula arvensis L.",
+            "id": "1356538",
+            "score": 0.00582
+        },
+        {
+            "name": "Cerastium diffusum Pers.",
+            "id": "1356822",
+            "score": 0.00217
+        },
+        {
+            "name": "Moehringia pentandra J.Gay",
+            "id": "1393851",
+            "score": 0.00216
+        },
+        {
+            "name": "Cerastium semidecandrum L.",
+            "id": "1356835",
+            "score": 0.00194
+        },
+        {
+            "name": "Arenaria serpyllifolia L.",
+            "id": "1362019",
+            "score": 0.00171
+        }
+    ]
+}

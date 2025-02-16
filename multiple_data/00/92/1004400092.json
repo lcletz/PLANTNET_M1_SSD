@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iberis umbellata L.",
+            "id": "1363926",
+            "score": 0.93017
+        },
+        {
+            "name": "Iberis amara L.",
+            "id": "1358322",
+            "score": 0.03104
+        },
+        {
+            "name": "Iberis ciliata All.",
+            "id": "1362460",
+            "score": 0.00189
+        },
+        {
+            "name": "Iberis linifolia L.",
+            "id": "1393268",
+            "score": 0.00181
+        },
+        {
+            "name": "Iberis contracta Pers.",
+            "id": "1358326",
+            "score": 0.00113
+        },
+        {
+            "name": "Iberis sempervirens L.",
+            "id": "1358335",
+            "score": 0.00101
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cirsium erisithales (Jacq.) Scop.",
+            "id": "1391193",
+            "score": 0.85723
+        },
+        {
+            "name": "Sonchus arvensis L.",
+            "id": "1362380",
+            "score": 0.00209
+        },
+        {
+            "name": "Cirsium rivulare (Jacq.) All.",
+            "id": "1391235",
+            "score": 0.00167
+        },
+        {
+            "name": "Pilosella lactucella (Wallr.) P.D.Sell & C.West",
+            "id": "1394577",
+            "score": 0.0014
+        },
+        {
+            "name": "Hieracium umbellatum L.",
+            "id": "1393169",
+            "score": 0.00128
+        }
+    ]
+}

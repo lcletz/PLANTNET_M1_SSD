@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lycopus europaeus L.",
+            "id": "1358770",
+            "score": 0.95472
+        },
+        {
+            "name": "Lycopus uniflorus Michx.",
+            "id": "1412632",
+            "score": 0.00591
+        },
+        {
+            "name": "Lycopus exaltatus L.f.",
+            "id": "1393706",
+            "score": 0.00459
+        },
+        {
+            "name": "Leonurus cardiaca L.",
+            "id": "1358768",
+            "score": 0.00384
+        },
+        {
+            "name": "Galeopsis tetrahit L.",
+            "id": "1392433",
+            "score": 0.00251
+        },
+        {
+            "name": "Lycopus virginicus L.",
+            "id": "1412633",
+            "score": 0.0022
+        },
+        {
+            "name": "Mentha arvensis L.",
+            "id": "1358785",
+            "score": 0.00205
+        },
+        {
+            "name": "Mentha spicata L.",
+            "id": "1358788",
+            "score": 0.00155
+        }
+    ]
+}

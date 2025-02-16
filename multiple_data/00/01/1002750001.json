@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Campanula pyramidalis L.",
+            "id": "1390673",
+            "score": 0.96202
+        },
+        {
+            "name": "Campanula rapunculus L.",
+            "id": "1356752",
+            "score": 0.00568
+        },
+        {
+            "name": "Campanula versicolor Andrews",
+            "id": "1489324",
+            "score": 0.00375
+        },
+        {
+            "name": "Campanula rotundifolia L.",
+            "id": "1362422",
+            "score": 0.00156
+        },
+        {
+            "name": "Campanula persicifolia L.",
+            "id": "1390671",
+            "score": 0.00144
+        }
+    ]
+}

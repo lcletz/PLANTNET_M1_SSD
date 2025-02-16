@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Populus tremula L.",
+            "id": "1360449",
+            "score": 0.83126
+        },
+        {
+            "name": "Populus tremuloides Michx.",
+            "id": "1413261",
+            "score": 0.07273
+        },
+        {
+            "name": "Populus alba L.",
+            "id": "1364046",
+            "score": 0.00772
+        },
+        {
+            "name": "Populus grandidentata Michx.",
+            "id": "1413259",
+            "score": 0.00508
+        },
+        {
+            "name": "Hibiscus moscheutos L.",
+            "id": "1412258",
+            "score": 0.00407
+        },
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.00382
+        },
+        {
+            "name": "Atriplex hortensis L.",
+            "id": "1363180",
+            "score": 0.00285
+        },
+        {
+            "name": "Populus balsamifera L.",
+            "id": "1394775",
+            "score": 0.00179
+        },
+        {
+            "name": "Leycesteria formosa Wall.",
+            "id": "1393519",
+            "score": 0.00158
+        },
+        {
+            "name": "Dombeya rotundifolia (Hochst.) Planch.",
+            "id": "1431541",
+            "score": 0.00124
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Symphytum officinale L.",
+            "id": "1370072",
+            "score": 0.90598
+        },
+        {
+            "name": "Symphytum asperum Lepech.",
+            "id": "1396491",
+            "score": 0.03938
+        },
+        {
+            "name": "Symphytum × uplandicum Nyman",
+            "id": "1478916",
+            "score": 0.02212
+        },
+        {
+            "name": "Symphytum tuberosum L.",
+            "id": "1397507",
+            "score": 0.00415
+        },
+        {
+            "name": "Symphytum bulbosum K.F.Schimp.",
+            "id": "1396492",
+            "score": 0.00124
+        }
+    ]
+}

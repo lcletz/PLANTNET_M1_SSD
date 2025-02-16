@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Persicaria maculosa Gray",
+            "id": "1356094",
+            "score": 0.72601
+        },
+        {
+            "name": "Persicaria lapathifolia (L.) Delarbre",
+            "id": "1356091",
+            "score": 0.18655
+        },
+        {
+            "name": "Persicaria pensylvanica (L.) M.Gómez",
+            "id": "1737515",
+            "score": 0.03221
+        },
+        {
+            "name": "Persicaria hydropiper (L.) Delarbre",
+            "id": "1363046",
+            "score": 0.00483
+        },
+        {
+            "name": "Persicaria minor (Huds.) Opiz",
+            "id": "1394469",
+            "score": 0.00289
+        }
+    ]
+}

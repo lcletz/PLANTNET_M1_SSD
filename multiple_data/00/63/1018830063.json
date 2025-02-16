@@ -1,0 +1,40 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Solanum chenopodioides Lam.",
+            "id": "1356162",
+            "score": 0.01356
+        },
+        {
+            "name": "Solanum pseudocapsicum L.",
+            "id": "1356168",
+            "score": 0.00561
+        },
+        {
+            "name": "Solanum nigrum L.",
+            "id": "1356167",
+            "score": 0.00159
+        },
+        {
+            "name": "Solanum bonariense L.",
+            "id": "1360565",
+            "score": 0.00134
+        },
+        {
+            "name": "Jasminum officinale L.",
+            "id": "1359673",
+            "score": 0.00061
+        },
+        {
+            "name": "Solanum laciniatum Aiton",
+            "id": "1360570",
+            "score": 0.00051
+        },
+        {
+            "name": "Lycium barbarum L.",
+            "id": "1360557",
+            "score": 0.0004
+        }
+    ]
+}

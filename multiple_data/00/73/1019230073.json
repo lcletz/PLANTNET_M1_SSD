@@ -1,0 +1,80 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Daucus carota L.",
+            "id": "1363227",
+            "score": 0.65474
+        },
+        {
+            "name": "Ammi majus L.",
+            "id": "1363217",
+            "score": 0.13589
+        },
+        {
+            "name": "Visnaga daucoides Gaertn.",
+            "id": "1362719",
+            "score": 0.02294
+        },
+        {
+            "name": "Daucus rouyi Spalik & Reduron",
+            "id": "1743404",
+            "score": 0.02088
+        },
+        {
+            "name": "Daucus pusillus Michx.",
+            "id": "1411700",
+            "score": 0.0134
+        },
+        {
+            "name": "Pimpinella saxifraga L.",
+            "id": "1394593",
+            "score": 0.01215
+        },
+        {
+            "name": "Conopodium majus (Gouan) Loret",
+            "id": "1360674",
+            "score": 0.00358
+        },
+        {
+            "name": "Torilis arvensis (Huds.) Link",
+            "id": "1363212",
+            "score": 0.00352
+        },
+        {
+            "name": "Scabiosa atropurpurea L.",
+            "id": "1396055",
+            "score": 0.00322
+        },
+        {
+            "name": "Seseli annuum L.",
+            "id": "1396241",
+            "score": 0.00314
+        },
+        {
+            "name": "Tordylium maximum L.",
+            "id": "1396812",
+            "score": 0.00151
+        },
+        {
+            "name": "Torilis japonica (Houtt.) DC.",
+            "id": "1360816",
+            "score": 0.00141
+        },
+        {
+            "name": "Scabiosa columbaria L.",
+            "id": "1361926",
+            "score": 0.00133
+        },
+        {
+            "name": "Aethusa cynapium L.",
+            "id": "1360608",
+            "score": 0.00114
+        },
+        {
+            "name": "Falcaria vulgaris Bernh.",
+            "id": "1361891",
+            "score": 0.00111
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Chelidonium majus L.",
+            "id": "1359760",
+            "score": 0.91948
+        },
+        {
+            "name": "Stylophorum diphyllum (Michx.) Nutt.",
+            "id": "1413938",
+            "score": 0.03392
+        },
+        {
+            "name": "Papaver alpinum L.",
+            "id": "1394399",
+            "score": 0.00191
+        },
+        {
+            "name": "Papaver cambricum L.",
+            "id": "1419850",
+            "score": 0.00179
+        },
+        {
+            "name": "Sanguinaria canadensis L.",
+            "id": "1413654",
+            "score": 0.00104
+        }
+    ]
+}

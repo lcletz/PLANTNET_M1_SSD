@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rhododendron ponticum L.",
+            "id": "1358517",
+            "score": 0.90057
+        },
+        {
+            "name": "Rhododendron catawbiense Michx.",
+            "id": "1418752",
+            "score": 0.02637
+        },
+        {
+            "name": "Rhododendron ferrugineum L.",
+            "id": "1397475",
+            "score": 0.01644
+        },
+        {
+            "name": "Rhododendron maximum L.",
+            "id": "1398409",
+            "score": 0.00737
+        },
+        {
+            "name": "Rhododendron hirsutum L.",
+            "id": "1395190",
+            "score": 0.00122
+        }
+    ]
+}

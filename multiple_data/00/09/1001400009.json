@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bellis perennis L.",
+            "id": "1357317",
+            "score": 0.59798
+        },
+        {
+            "name": "Bellis sylvestris Cirillo",
+            "id": "1357320",
+            "score": 0.26157
+        },
+        {
+            "name": "Bellis annua L.",
+            "id": "1357314",
+            "score": 0.0954
+        },
+        {
+            "name": "Bellis pappulosa Boiss. ex DC.",
+            "id": "1357316",
+            "score": 0.0076
+        },
+        {
+            "name": "Erigeron karvinskianus DC.",
+            "id": "1355907",
+            "score": 0.00134
+        },
+        {
+            "name": "Leucanthemum vulgare Lam.",
+            "id": "1393513",
+            "score": 0.00122
+        }
+    ]
+}

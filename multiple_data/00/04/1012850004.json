@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Chaenomeles speciosa (Sweet) Nakai",
+            "id": "1391104",
+            "score": 0.50063
+        },
+        {
+            "name": "Chaenomeles × superba (Frahm) Rehder",
+            "id": "1666806",
+            "score": 0.37624
+        },
+        {
+            "name": "Chaenomeles japonica (Thunb.) Lindl. ex Spach",
+            "id": "1391103",
+            "score": 0.06628
+        },
+        {
+            "name": "Malus × floribunda Siebold ex Van Houtte",
+            "id": "1782760",
+            "score": 0.00216
+        },
+        {
+            "name": "Malus × purpurea (A.Barbier) Rehder",
+            "id": "1844417",
+            "score": 0.00109
+        }
+    ]
+}

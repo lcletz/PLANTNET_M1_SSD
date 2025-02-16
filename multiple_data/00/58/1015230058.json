@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phragmites australis (Cav.) Trin. ex Steud.",
+            "id": "1356268",
+            "score": 0.9567
+        },
+        {
+            "name": "Arundo donax L.",
+            "id": "1363442",
+            "score": 0.00263
+        },
+        {
+            "name": "Calamagrostis canescens (Weber) Roth",
+            "id": "1397331",
+            "score": 0.00223
+        },
+        {
+            "name": "Calamagrostis purpurea (Trin.) Trin.",
+            "id": "1389984",
+            "score": 0.00106
+        }
+    ]
+}

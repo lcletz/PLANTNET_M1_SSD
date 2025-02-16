@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dysphania ambrosioides (L.) Mosyakin & Clemants",
+            "id": "1388787",
+            "score": 0.92663
+        },
+        {
+            "name": "Amaranthus albus L.",
+            "id": "1356471",
+            "score": 0.00608
+        },
+        {
+            "name": "Bassia scoparia (L.) A.J.Scott",
+            "id": "1418499",
+            "score": 0.00325
+        },
+        {
+            "name": "Artemisia annua L.",
+            "id": "1382106",
+            "score": 0.0021
+        },
+        {
+            "name": "Artemisia dracunculus L.",
+            "id": "1362645",
+            "score": 0.00183
+        }
+    ]
+}

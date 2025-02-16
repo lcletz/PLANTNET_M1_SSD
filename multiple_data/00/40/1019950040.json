@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Lythrum salicaria L.",
+            "id": "1356023",
+            "score": 0.4865
+        },
+        {
+            "name": "Lythrum virgatum L.",
+            "id": "1393714",
+            "score": 0.44354
+        },
+        {
+            "name": "Oenothera stricta Ledeb. ex Link",
+            "id": "1361986",
+            "score": 0.00459
+        },
+        {
+            "name": "Oenothera glazioviana Micheli",
+            "id": "1361960",
+            "score": 0.00199
+        },
+        {
+            "name": "Oenothera biennis L.",
+            "id": "1361953",
+            "score": 0.00197
+        }
+    ]
+}

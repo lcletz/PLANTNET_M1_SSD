@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Parietaria judaica L.",
+            "id": "1360825",
+            "score": 0.83718
+        },
+        {
+            "name": "Parietaria officinalis L.",
+            "id": "1362353",
+            "score": 0.04345
+        },
+        {
+            "name": "Parietaria lusitanica L.",
+            "id": "1360826",
+            "score": 0.04289
+        },
+        {
+            "name": "Origanum vulgare L.",
+            "id": "1358846",
+            "score": 0.00434
+        },
+        {
+            "name": "Clinopodium alpinum (L.) Kuntze",
+            "id": "1391304",
+            "score": 0.00162
+        },
+        {
+            "name": "Mentha pulegium L.",
+            "id": "1356106",
+            "score": 0.00159
+        },
+        {
+            "name": "Origanum onites L.",
+            "id": "1358844",
+            "score": 0.0014
+        },
+        {
+            "name": "Clinopodium acinos (L.) Kuntze",
+            "id": "1391303",
+            "score": 0.00129
+        },
+        {
+            "name": "Lysimachia punctata L.",
+            "id": "1397433",
+            "score": 0.00127
+        },
+        {
+            "name": "Lipandra polysperma (L.) S.Fuentes, Uotila & Borsch",
+            "id": "1389976",
+            "score": 0.00115
+        }
+    ]
+}

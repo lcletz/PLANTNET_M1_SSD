@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Echinops bannaticus Rochel ex Schrad.",
+            "id": "1398631",
+            "score": 0.39266
+        },
+        {
+            "name": "Echinops ritro L.",
+            "id": "1397374",
+            "score": 0.25836
+        },
+        {
+            "name": "Echinops sphaerocephalus L.",
+            "id": "1397375",
+            "score": 0.06446
+        },
+        {
+            "name": "Echinops exaltatus Schrad.",
+            "id": "1391830",
+            "score": 0.02991
+        },
+        {
+            "name": "Allium sphaerocephalon L.",
+            "id": "1392805",
+            "score": 0.00293
+        },
+        {
+            "name": "Echinops strigosus L.",
+            "id": "1357566",
+            "score": 0.00246
+        },
+        {
+            "name": "Eryngium alpinum L.",
+            "id": "1392102",
+            "score": 0.00212
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sedum anglicum Huds.",
+            "id": "1362489",
+            "score": 0.92107
+        },
+        {
+            "name": "Sedum arenarium Brot.",
+            "id": "1390627",
+            "score": 0.02188
+        },
+        {
+            "name": "Sedum brevifolium DC.",
+            "id": "1358099",
+            "score": 0.01318
+        },
+        {
+            "name": "Sedum rubens L.",
+            "id": "1358132",
+            "score": 0.00535
+        },
+        {
+            "name": "Sedum album L.",
+            "id": "1358095",
+            "score": 0.00424
+        },
+        {
+            "name": "Sedum cepaea L.",
+            "id": "1358103",
+            "score": 0.00288
+        },
+        {
+            "name": "Sedum atratum L.",
+            "id": "1397491",
+            "score": 0.00103
+        }
+    ]
+}

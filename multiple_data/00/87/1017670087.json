@@ -1,0 +1,335 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vicia ervilia (L.) Willd.",
+            "id": "1363672",
+            "score": 0.24224
+        },
+        {
+            "name": "Vicia lens (L.) Coss. & Germ.",
+            "id": "1741669",
+            "score": 0.05874
+        },
+        {
+            "name": "Vicia sativa L.",
+            "id": "1359575",
+            "score": 0.05323
+        },
+        {
+            "name": "Vicia lentoides (Ten.) Coss. & Germ.",
+            "id": "1743378",
+            "score": 0.04898
+        },
+        {
+            "name": "Vicia disperma DC.",
+            "id": "1359557",
+            "score": 0.03906
+        },
+        {
+            "name": "Vicia villosa Roth",
+            "id": "1359581",
+            "score": 0.02745
+        },
+        {
+            "name": "Astragalus nuttallianus DC.",
+            "id": "1439601",
+            "score": 0.02637
+        },
+        {
+            "name": "Cicer arietinum L.",
+            "id": "1363794",
+            "score": 0.0246
+        },
+        {
+            "name": "Astragalus crassicarpus Nutt.",
+            "id": "1414068",
+            "score": 0.02437
+        },
+        {
+            "name": "Vicia ludoviciana Nutt.",
+            "id": "1439577",
+            "score": 0.02378
+        },
+        {
+            "name": "Biserrula pelecinus L.",
+            "id": "1711782",
+            "score": 0.02246
+        },
+        {
+            "name": "Astragalus sesameus L.",
+            "id": "1359148",
+            "score": 0.01591
+        },
+        {
+            "name": "Vicia pannonica Crantz",
+            "id": "1363675",
+            "score": 0.0142
+        },
+        {
+            "name": "Astragalus asterias Steven",
+            "id": "1359102",
+            "score": 0.01138
+        },
+        {
+            "name": "Tephrosia purpurea (L.) Pers.",
+            "id": "1359476",
+            "score": 0.00962
+        },
+        {
+            "name": "Astragalus hamosus L.",
+            "id": "1359124",
+            "score": 0.00721
+        },
+        {
+            "name": "Vicia monantha Retz.",
+            "id": "1363673",
+            "score": 0.00706
+        },
+        {
+            "name": "Astragalus tenellus Pursh",
+            "id": "1414194",
+            "score": 0.00612
+        },
+        {
+            "name": "Vicia hirsuta (L.) Gray",
+            "id": "1363671",
+            "score": 0.00584
+        },
+        {
+            "name": "Vicia onobrychioides L.",
+            "id": "1359569",
+            "score": 0.00572
+        },
+        {
+            "name": "Onobrychis viciifolia Scop.",
+            "id": "1363793",
+            "score": 0.00493
+        },
+        {
+            "name": "Astragalus longidentatus Chater",
+            "id": "1359131",
+            "score": 0.00484
+        },
+        {
+            "name": "Astragalus onobrychis L.",
+            "id": "1359139",
+            "score": 0.00468
+        },
+        {
+            "name": "Astragalus atropilosulus (Hochst.) Bunge",
+            "id": "1432541",
+            "score": 0.00464
+        },
+        {
+            "name": "Astragalus racemosus Pursh",
+            "id": "1414172",
+            "score": 0.00449
+        },
+        {
+            "name": "Vicia tetrasperma (L.) Schreb.",
+            "id": "1359579",
+            "score": 0.00437
+        },
+        {
+            "name": "Vicia tenuifolia Roth",
+            "id": "1359578",
+            "score": 0.00435
+        },
+        {
+            "name": "Vicia peregrina L.",
+            "id": "1359572",
+            "score": 0.0041
+        },
+        {
+            "name": "Vicia cracca L.",
+            "id": "1397085",
+            "score": 0.00399
+        },
+        {
+            "name": "Vicia cassubica L.",
+            "id": "1397084",
+            "score": 0.00394
+        },
+        {
+            "name": "Vicia parviflora Cav.",
+            "id": "1359570",
+            "score": 0.00382
+        },
+        {
+            "name": "Astragalus crenatus Schult.",
+            "id": "1359106",
+            "score": 0.0036
+        },
+        {
+            "name": "Vicia benghalensis L.",
+            "id": "1363670",
+            "score": 0.00346
+        },
+        {
+            "name": "Vicia lathyroides L.",
+            "id": "1363677",
+            "score": 0.00337
+        },
+        {
+            "name": "Vicia lutea L.",
+            "id": "1359565",
+            "score": 0.00337
+        },
+        {
+            "name": "Astragalus stella L.",
+            "id": "1572883",
+            "score": 0.00277
+        },
+        {
+            "name": "Astragalus echinatus Murray",
+            "id": "1359109",
+            "score": 0.00273
+        },
+        {
+            "name": "Onobrychis crista-galli (L.) Lam.",
+            "id": "1359370",
+            "score": 0.00243
+        },
+        {
+            "name": "Onobrychis caput-galli (L.) Lam.",
+            "id": "1359368",
+            "score": 0.00227
+        },
+        {
+            "name": "Vicia sepium L.",
+            "id": "1397110",
+            "score": 0.00221
+        },
+        {
+            "name": "Astragalus cymbicarpos Brot.",
+            "id": "1398453",
+            "score": 0.00219
+        },
+        {
+            "name": "Astragalus pehuenches Niederl.",
+            "id": "1572464",
+            "score": 0.00216
+        },
+        {
+            "name": "Vicia sylvatica L.",
+            "id": "1362394",
+            "score": 0.00206
+        },
+        {
+            "name": "Astragalus monticola Phil.",
+            "id": "1572284",
+            "score": 0.00197
+        },
+        {
+            "name": "Vicia hybrida L.",
+            "id": "1359562",
+            "score": 0.00193
+        },
+        {
+            "name": "Astragalus varius S.G.Gmel.",
+            "id": "1573118",
+            "score": 0.00186
+        },
+        {
+            "name": "Sulla spinosissima (L.) B.H.Choi & H.Ohashi",
+            "id": "1743300",
+            "score": 0.00182
+        },
+        {
+            "name": "Astragalus glaux L.",
+            "id": "1359119",
+            "score": 0.00181
+        },
+        {
+            "name": "Hedysarum boreale Nutt.",
+            "id": "1412223",
+            "score": 0.00175
+        },
+        {
+            "name": "Astragalus hypoglottis L.",
+            "id": "1398288",
+            "score": 0.0017
+        },
+        {
+            "name": "Tephrosia villosa (L.) Pers.",
+            "id": "1356329",
+            "score": 0.00168
+        },
+        {
+            "name": "Hippocrepis biflora Spreng.",
+            "id": "1359244",
+            "score": 0.00164
+        },
+        {
+            "name": "Medicago sativa L.",
+            "id": "1363732",
+            "score": 0.00154
+        },
+        {
+            "name": "Lathyrus hirsutus L.",
+            "id": "1363800",
+            "score": 0.00153
+        },
+        {
+            "name": "Glycyrrhiza glabra L.",
+            "id": "1363659",
+            "score": 0.00134
+        },
+        {
+            "name": "Astragalus boeticus L.",
+            "id": "1363666",
+            "score": 0.00131
+        },
+        {
+            "name": "Viola riviniana Rchb.",
+            "id": "1360878",
+            "score": 0.00126
+        },
+        {
+            "name": "Vicia orobus DC.",
+            "id": "1397103",
+            "score": 0.00121
+        },
+        {
+            "name": "Galega officinalis L.",
+            "id": "1359197",
+            "score": 0.00121
+        },
+        {
+            "name": "Astragalus cruckshanksii (Hook. & Arn.) Griseb.",
+            "id": "1571472",
+            "score": 0.0012
+        },
+        {
+            "name": "Vicia altissima Desf.",
+            "id": "1359549",
+            "score": 0.00118
+        },
+        {
+            "name": "Astragalus caprinus L.",
+            "id": "1359105",
+            "score": 0.00115
+        },
+        {
+            "name": "Vicia americana Muhl. ex Willd.",
+            "id": "1406326",
+            "score": 0.00114
+        },
+        {
+            "name": "Biserrula epiglottis (L.) Coulot, Rabaute & J.-M.Tison",
+            "id": "1711781",
+            "score": 0.00113
+        },
+        {
+            "name": "Vicia vicioides (Desf.) Cout.",
+            "id": "1359580",
+            "score": 0.00101
+        },
+        {
+            "name": "Vicia pubescens (DC.) Link",
+            "id": "1359573",
+            "score": 0.001
+        }
+    ]
+}

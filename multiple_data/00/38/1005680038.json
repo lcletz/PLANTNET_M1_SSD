@@ -1,0 +1,70 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Beta vulgaris L.",
+            "id": "1363199",
+            "score": 0.81237
+        },
+        {
+            "name": "Rumex acetosa L.",
+            "id": "1360120",
+            "score": 0.04574
+        },
+        {
+            "name": "Rumex patientia L.",
+            "id": "1360135",
+            "score": 0.04114
+        },
+        {
+            "name": "Rumex crispus L.",
+            "id": "1356079",
+            "score": 0.01251
+        },
+        {
+            "name": "Rumex obtusifolius L.",
+            "id": "1360132",
+            "score": 0.00728
+        },
+        {
+            "name": "Spinacia oleracea L.",
+            "id": "1356556",
+            "score": 0.00524
+        },
+        {
+            "name": "Phytolacca americana L.",
+            "id": "1356062",
+            "score": 0.00303
+        },
+        {
+            "name": "Rumex acetosella L.",
+            "id": "1356082",
+            "score": 0.00214
+        },
+        {
+            "name": "Helminthotheca echioides (L.) Holub",
+            "id": "1357635",
+            "score": 0.00202
+        },
+        {
+            "name": "Beta macrocarpa Guss.",
+            "id": "1356497",
+            "score": 0.00157
+        },
+        {
+            "name": "Rumex pulcher L.",
+            "id": "1356314",
+            "score": 0.00147
+        },
+        {
+            "name": "Bunias orientalis L.",
+            "id": "1389581",
+            "score": 0.00112
+        },
+        {
+            "name": "Rumex thyrsoides Desf.",
+            "id": "1360137",
+            "score": 0.00105
+        }
+    ]
+}

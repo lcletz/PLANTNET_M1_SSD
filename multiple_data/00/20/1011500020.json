@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Matricaria discoidea DC.",
+            "id": "1357711",
+            "score": 0.9564
+        },
+        {
+            "name": "Matricaria occidentalis Greene",
+            "id": "1434578",
+            "score": 0.00394
+        },
+        {
+            "name": "Matricaria chamomilla L.",
+            "id": "1362332",
+            "score": 0.00251
+        },
+        {
+            "name": "Chamaemelum nobile (L.) All.",
+            "id": "1357465",
+            "score": 0.00174
+        },
+        {
+            "name": "Anacyclus × valentinus L.",
+            "id": "1739035",
+            "score": 0.00143
+        },
+        {
+            "name": "Cotula coronopifolia L.",
+            "id": "1364150",
+            "score": 0.00103
+        }
+    ]
+}

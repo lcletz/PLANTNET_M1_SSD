@@ -1,0 +1,60 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Avena fatua L.",
+            "id": "1363468",
+            "score": 0.77159
+        },
+        {
+            "name": "Avena barbata Pott ex Link",
+            "id": "1363467",
+            "score": 0.07543
+        },
+        {
+            "name": "Avena sativa L.",
+            "id": "1363469",
+            "score": 0.04157
+        },
+        {
+            "name": "Avena sterilis L.",
+            "id": "1361190",
+            "score": 0.01492
+        },
+        {
+            "name": "Bromus inermis Leyss.",
+            "id": "1414356",
+            "score": 0.00895
+        },
+        {
+            "name": "Bromus sterilis L.",
+            "id": "1414366",
+            "score": 0.00625
+        },
+        {
+            "name": "Bromus diandrus Roth",
+            "id": "1414353",
+            "score": 0.00589
+        },
+        {
+            "name": "Arrhenatherum elatius (L.) P.Beauv. ex J.Presl & C.Presl",
+            "id": "1396638",
+            "score": 0.00179
+        },
+        {
+            "name": "Bromus arvensis L.",
+            "id": "1397525",
+            "score": 0.00165
+        },
+        {
+            "name": "Bromus catharticus Vahl",
+            "id": "1407739",
+            "score": 0.00162
+        },
+        {
+            "name": "Bromus ramosus Huds.",
+            "id": "1440300",
+            "score": 0.00144
+        }
+    ]
+}

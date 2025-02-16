@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vinca difformis Pourr.",
+            "id": "1356574",
+            "score": 0.74513
+        },
+        {
+            "name": "Vinca minor L.",
+            "id": "1369309",
+            "score": 0.0688
+        },
+        {
+            "name": "Jasminum grandiflorum L.",
+            "id": "1359672",
+            "score": 0.00684
+        },
+        {
+            "name": "Petrocoptis pyrenaica (Bergeret) A.Braun ex Walp.",
+            "id": "1743536",
+            "score": 0.00259
+        },
+        {
+            "name": "Oxalis incarnata L.",
+            "id": "1394362",
+            "score": 0.00182
+        },
+        {
+            "name": "Murraya paniculata (L.) Jack",
+            "id": "1372599",
+            "score": 0.00175
+        },
+        {
+            "name": "Jasminum officinale L.",
+            "id": "1359673",
+            "score": 0.00169
+        }
+    ]
+}

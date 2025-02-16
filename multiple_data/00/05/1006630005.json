@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Eriobotrya japonica (Thunb.) Lindl.",
+            "id": "1364001",
+            "score": 0.32243
+        },
+        {
+            "name": "Genipa americana L.",
+            "id": "1403295",
+            "score": 0.00593
+        },
+        {
+            "name": "Beaumontia grandiflora Wall.",
+            "id": "1369878",
+            "score": 0.00228
+        },
+        {
+            "name": "Castanea sativa Mill.",
+            "id": "1358610",
+            "score": 0.00163
+        },
+        {
+            "name": "Dillenia indica L.",
+            "id": "1378249",
+            "score": 0.00112
+        }
+    ]
+}

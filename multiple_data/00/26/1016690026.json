@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Berberis aquifolium Pursh",
+            "id": "1400122",
+            "score": 0.68454
+        },
+        {
+            "name": "Berberis repens Lindl.",
+            "id": "1398614",
+            "score": 0.2363
+        },
+        {
+            "name": "Berberis vulgaris L.",
+            "id": "1356603",
+            "score": 0.00462
+        },
+        {
+            "name": "Berberis pinnata Lag.",
+            "id": "1398613",
+            "score": 0.00113
+        },
+        {
+            "name": "Berberis fremontii Torr.",
+            "id": "1816168",
+            "score": 0.0011
+        }
+    ]
+}

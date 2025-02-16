@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Punica granatum L.",
+            "id": "1359616",
+            "score": 0.98113
+        },
+        {
+            "name": "Cordia sebestena L.",
+            "id": "1370001",
+            "score": 0.00626
+        },
+        {
+            "name": "Tecomaria capensis (Thunb.) Spach",
+            "id": "1400151",
+            "score": 0.00514
+        },
+        {
+            "name": "Lonicera sempervirens L.",
+            "id": "1393629",
+            "score": 0.00252
+        },
+        {
+            "name": "Campsis grandiflora (Thunb.) K.Schum.",
+            "id": "1390679",
+            "score": 0.00118
+        }
+    ]
+}

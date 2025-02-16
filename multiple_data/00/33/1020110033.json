@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Sternbergia lutea (L.) Ker Gawl. ex Spreng.",
+            "id": "1360982",
+            "score": 0.91218
+        },
+        {
+            "name": "Sternbergia colchiciflora Waldst. & Kit.",
+            "id": "1360981",
+            "score": 0.00175
+        },
+        {
+            "name": "Narcissus pseudonarcissus L.",
+            "id": "1360968",
+            "score": 0.0016
+        },
+        {
+            "name": "Narcissus minor L.",
+            "id": "1393927",
+            "score": 0.00144
+        },
+        {
+            "name": "Narcissus jonquilla L.",
+            "id": "1360962",
+            "score": 0.00137
+        }
+    ]
+}

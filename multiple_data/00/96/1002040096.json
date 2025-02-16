@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Morus alba L.",
+            "id": "1359658",
+            "score": 0.27149
+        },
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.18099
+        },
+        {
+            "name": "Morus nigra L.",
+            "id": "1359659",
+            "score": 0.16648
+        },
+        {
+            "name": "Morus rubra L.",
+            "id": "1412762",
+            "score": 0.00359
+        },
+        {
+            "name": "Prunus serrulata Lindl.",
+            "id": "1394953",
+            "score": 0.00317
+        },
+        {
+            "name": "Tilia platyphyllos Scop.",
+            "id": "1396802",
+            "score": 0.00232
+        },
+        {
+            "name": "Morus macroura Miq.",
+            "id": "1429529",
+            "score": 0.00205
+        },
+        {
+            "name": "Crataegus persimilis Sarg.",
+            "id": "1391430",
+            "score": 0.00177
+        }
+    ]
+}

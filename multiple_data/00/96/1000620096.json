@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Oxalis acetosella L.",
+            "id": "1359750",
+            "score": 0.94069
+        },
+        {
+            "name": "Oxalis montana Raf.",
+            "id": "1412891",
+            "score": 0.01898
+        },
+        {
+            "name": "Oxalis oregana Nutt.",
+            "id": "1412892",
+            "score": 0.01391
+        },
+        {
+            "name": "Oxalis incarnata L.",
+            "id": "1394362",
+            "score": 0.00122
+        },
+        {
+            "name": "Oxalis trilliifolia Hook.",
+            "id": "1435413",
+            "score": 0.00111
+        }
+    ]
+}

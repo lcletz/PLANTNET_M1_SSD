@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Yucca gloriosa L.",
+            "id": "1362946",
+            "score": 0.84417
+        },
+        {
+            "name": "Yucca filamentosa L.",
+            "id": "1397243",
+            "score": 0.02311
+        },
+        {
+            "name": "Yucca aloifolia L.",
+            "id": "1398112",
+            "score": 0.02081
+        },
+        {
+            "name": "Beschorneria yuccoides K.Koch",
+            "id": "1397304",
+            "score": 0.00249
+        },
+        {
+            "name": "Yucca schidigera Roezl ex Ortgies",
+            "id": "1439763",
+            "score": 0.00227
+        },
+        {
+            "name": "Agave sisalana Perrine",
+            "id": "1357953",
+            "score": 0.00131
+        },
+        {
+            "name": "Yucca glauca Nutt.",
+            "id": "1414249",
+            "score": 0.00104
+        }
+    ]
+}

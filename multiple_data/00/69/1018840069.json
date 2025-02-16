@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Teucrium capitatum L.",
+            "id": "1358968",
+            "score": 0.91285
+        },
+        {
+            "name": "Teucrium polium L.",
+            "id": "1359009",
+            "score": 0.02831
+        },
+        {
+            "name": "Teucrium dunense Sennen",
+            "id": "1396726",
+            "score": 0.00406
+        },
+        {
+            "name": "Thymus vulgaris L.",
+            "id": "1356108",
+            "score": 0.00242
+        },
+        {
+            "name": "Teucrium marum L.",
+            "id": "1362044",
+            "score": 0.00071
+        }
+    ]
+}

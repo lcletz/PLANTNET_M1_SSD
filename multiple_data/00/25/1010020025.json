@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia lathyris L.",
+            "id": "1355968",
+            "score": 0.95308
+        },
+        {
+            "name": "Bupleurum fruticosum L.",
+            "id": "1360638",
+            "score": 0.00174
+        },
+        {
+            "name": "Isatis tinctoria L.",
+            "id": "1358340",
+            "score": 0.00133
+        },
+        {
+            "name": "Euphorbia palustris L.",
+            "id": "1392178",
+            "score": 0.0013
+        },
+        {
+            "name": "Euphorbia stygiana H.C.Watson",
+            "id": "1389352",
+            "score": 0.0011
+        }
+    ]
+}

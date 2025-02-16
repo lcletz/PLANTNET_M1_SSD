@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Asplenium scolopendrium L.",
+            "id": "1356357",
+            "score": 0.86166
+        },
+        {
+            "name": "Asplenium nidus L.",
+            "id": "1390496",
+            "score": 0.02151
+        },
+        {
+            "name": "Pteris cretica L.",
+            "id": "1356435",
+            "score": 0.00476
+        },
+        {
+            "name": "Asplenium antrophyoides Christ",
+            "id": "1702250",
+            "score": 0.0043
+        },
+        {
+            "name": "Barringtonia macrocarpa Hassk.",
+            "id": "1431227",
+            "score": 0.00149
+        },
+        {
+            "name": "Euphorbia murielii N.E.Br.",
+            "id": "1752224",
+            "score": 0.00126
+        },
+        {
+            "name": "Asplenium variabile Hook.",
+            "id": "1380659",
+            "score": 0.00126
+        }
+    ]
+}

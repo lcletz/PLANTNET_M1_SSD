@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Smyrnium perfoliatum L.",
+            "id": "1360802",
+            "score": 0.88973
+        },
+        {
+            "name": "Euphorbia serrata L.",
+            "id": "1355971",
+            "score": 0.00482
+        },
+        {
+            "name": "Bupleurum rotundifolium L.",
+            "id": "1363219",
+            "score": 0.00349
+        },
+        {
+            "name": "Bupleurum glumaceum Sm.",
+            "id": "1399975",
+            "score": 0.0021
+        },
+        {
+            "name": "Euphorbia amygdaloides L.",
+            "id": "1358525",
+            "score": 0.001
+        }
+    ]
+}

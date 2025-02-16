@@ -1,0 +1,80 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hordeum murinum L.",
+            "id": "1361307",
+            "score": 0.66513
+        },
+        {
+            "name": "Hordeum marinum Huds.",
+            "id": "1361306",
+            "score": 0.14043
+        },
+        {
+            "name": "Crithopsis delileana (Schult.) Roshev.",
+            "id": "1361216",
+            "score": 0.03651
+        },
+        {
+            "name": "Hordeum jubatum L.",
+            "id": "1397404",
+            "score": 0.02009
+        },
+        {
+            "name": "Hordeum vulgare L.",
+            "id": "1363481",
+            "score": 0.00509
+        },
+        {
+            "name": "Aegilops geniculata Roth",
+            "id": "1361117",
+            "score": 0.00362
+        },
+        {
+            "name": "Taeniatherum caput-medusae (L.) Nevski",
+            "id": "1361437",
+            "score": 0.00258
+        },
+        {
+            "name": "Cynosurus echinatus L.",
+            "id": "1363504",
+            "score": 0.00253
+        },
+        {
+            "name": "Elymus canadensis L.",
+            "id": "1398629",
+            "score": 0.00235
+        },
+        {
+            "name": "Hordeum comosum J.Presl",
+            "id": "1651900",
+            "score": 0.00215
+        },
+        {
+            "name": "Lagurus ovatus L.",
+            "id": "1363433",
+            "score": 0.00165
+        },
+        {
+            "name": "Bromus madritensis L.",
+            "id": "1422217",
+            "score": 0.00154
+        },
+        {
+            "name": "Cenchrus longisetus M.C.Johnst.",
+            "id": "1389966",
+            "score": 0.0013
+        },
+        {
+            "name": "Secale cereale L.",
+            "id": "1363451",
+            "score": 0.00118
+        },
+        {
+            "name": "Triticum turgidum L.",
+            "id": "1363487",
+            "score": 0.00116
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia hypericifolia L.",
+            "id": "1355967",
+            "score": 0.90575
+        },
+        {
+            "name": "Euphorbia graminea Jacq.",
+            "id": "1404001",
+            "score": 0.01329
+        },
+        {
+            "name": "Euphorbia leucocephala Lotsy",
+            "id": "1408061",
+            "score": 0.00764
+        },
+        {
+            "name": "Clematis recta L.",
+            "id": "1391298",
+            "score": 0.00301
+        },
+        {
+            "name": "Euphorbia hirta L.",
+            "id": "1355966",
+            "score": 0.00196
+        }
+    ]
+}

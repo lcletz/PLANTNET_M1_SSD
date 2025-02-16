@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Physalis peruviana L.",
+            "id": "1356153",
+            "score": 0.84354
+        },
+        {
+            "name": "Physalis pubescens L.",
+            "id": "1356155",
+            "score": 0.10061
+        },
+        {
+            "name": "Alkekengi officinarum Moench",
+            "id": "1738735",
+            "score": 0.00153
+        },
+        {
+            "name": "Physalis heterophylla Nees",
+            "id": "1413066",
+            "score": 0.0011
+        },
+        {
+            "name": "Solanum chenopodioides Lam.",
+            "id": "1356162",
+            "score": 0.001
+        }
+    ]
+}

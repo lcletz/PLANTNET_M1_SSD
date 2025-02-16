@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Mercurialis annua L.",
+            "id": "1355990",
+            "score": 0.91329
+        },
+        {
+            "name": "Mercurialis perennis L.",
+            "id": "1358605",
+            "score": 0.02783
+        },
+        {
+            "name": "Mercurialis huetii Hanry",
+            "id": "1358604",
+            "score": 0.0082
+        },
+        {
+            "name": "Mercurialis canariensis Obbard & S.A.Harris",
+            "id": "1547095",
+            "score": 0.00707
+        },
+        {
+            "name": "Ocimum gratissimum L.",
+            "id": "1408426",
+            "score": 0.00181
+        },
+        {
+            "name": "Rumex obtusifolius L.",
+            "id": "1360132",
+            "score": 0.00114
+        },
+        {
+            "name": "Ocimum tenuiflorum L.",
+            "id": "1377338",
+            "score": 0.00101
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Arabis alpina L.",
+            "id": "1363887",
+            "score": 0.73561
+        },
+        {
+            "name": "Arabis caucasica Willd.",
+            "id": "1479393",
+            "score": 0.22827
+        },
+        {
+            "name": "Arabidopsis arenosa (L.) Lawalrée",
+            "id": "1389345",
+            "score": 0.01209
+        },
+        {
+            "name": "Hornungia alpina (L.) O.Appel",
+            "id": "1393214",
+            "score": 0.00401
+        },
+        {
+            "name": "Noccaea montana (L.) F.K.Mey.",
+            "id": "1393967",
+            "score": 0.00131
+        }
+    ]
+}

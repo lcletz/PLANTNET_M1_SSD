@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Hydrangea spp.",
+            "id": "1419192",
+            "score": 0.55716
+        },
+        {
+            "name": "Hydrangea arborescens L.",
+            "id": "1393222",
+            "score": 0.09372
+        },
+        {
+            "name": "Hydrangea macrophylla (Thunb.) Ser.",
+            "id": "1361819",
+            "score": 0.089
+        },
+        {
+            "name": "Salvia hispanica L.",
+            "id": "1419283",
+            "score": 0.01362
+        },
+        {
+            "name": "Plectranthus spp.",
+            "id": "1419276",
+            "score": 0.00451
+        },
+        {
+            "name": "Coleus spp.",
+            "id": "1420994",
+            "score": 0.00249
+        },
+        {
+            "name": "Hydrangea paniculata Siebold",
+            "id": "1393223",
+            "score": 0.00126
+        }
+    ]
+}

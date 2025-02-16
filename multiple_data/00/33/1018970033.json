@@ -1,0 +1,20 @@
+{
+    "status": "WRONG_REFERENTIAL",
+    "results": [
+        {
+            "name": "Liquidambar styraciflua L.",
+            "id": "1393613",
+            "score": 0.00269
+        },
+        {
+            "name": "Quercus rubra L.",
+            "id": "1395035",
+            "score": 0.0015
+        },
+        {
+            "name": "Morus indica L.",
+            "id": "1602329",
+            "score": 0.00145
+        }
+    ]
+}

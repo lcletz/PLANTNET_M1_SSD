@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Sorbus aria (L.) Crantz",
+            "id": "1360364",
+            "score": 0.4281
+        },
+        {
+            "name": "Sorbus intermedia (Ehrh.) Pers.",
+            "id": "1396361",
+            "score": 0.00878
+        },
+        {
+            "name": "Crataegus crus-galli L.",
+            "id": "1391433",
+            "score": 0.004
+        },
+        {
+            "name": "Sorbus domestica L.",
+            "id": "1360365",
+            "score": 0.00171
+        },
+        {
+            "name": "Crataegus azarolus L.",
+            "id": "1360290",
+            "score": 0.00148
+        }
+    ]
+}

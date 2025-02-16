@@ -1,0 +1,60 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Medicago lupulina L.",
+            "id": "1363730",
+            "score": 0.79206
+        },
+        {
+            "name": "Trifolium dubium Sibth.",
+            "id": "1363737",
+            "score": 0.05047
+        },
+        {
+            "name": "Trifolium aureum Pollich",
+            "id": "1359486",
+            "score": 0.01906
+        },
+        {
+            "name": "Trifolium campestre Schreb.",
+            "id": "1359488",
+            "score": 0.01649
+        },
+        {
+            "name": "Medicago polymorpha L.",
+            "id": "1363731",
+            "score": 0.01416
+        },
+        {
+            "name": "Medicago rigidula (L.) All.",
+            "id": "1359347",
+            "score": 0.0038
+        },
+        {
+            "name": "Medicago coronata (L.) Bartal.",
+            "id": "1359334",
+            "score": 0.00363
+        },
+        {
+            "name": "Medicago arabica (L.) Huds.",
+            "id": "1359333",
+            "score": 0.00258
+        },
+        {
+            "name": "Medicago truncatula Gaertn.",
+            "id": "1359356",
+            "score": 0.00188
+        },
+        {
+            "name": "Trifolium incarnatum L.",
+            "id": "1359498",
+            "score": 0.00167
+        },
+        {
+            "name": "Trifolium patens Schreb.",
+            "id": "1359514",
+            "score": 0.00111
+        }
+    ]
+}

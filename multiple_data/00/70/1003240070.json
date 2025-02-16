@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Daucus carota L.",
+            "id": "1363227",
+            "score": 0.85992
+        },
+        {
+            "name": "Daucus pusillus Michx.",
+            "id": "1411700",
+            "score": 0.08527
+        },
+        {
+            "name": "Ammi majus L.",
+            "id": "1363217",
+            "score": 0.0232
+        },
+        {
+            "name": "Selinum carvifolium (L.) L.",
+            "id": "1737493",
+            "score": 0.00412
+        },
+        {
+            "name": "Foeniculum vulgare Mill.",
+            "id": "1360739",
+            "score": 0.00388
+        }
+    ]
+}

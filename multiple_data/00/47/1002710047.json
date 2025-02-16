@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Eryngium maritimum L.",
+            "id": "1360719",
+            "score": 0.9326
+        },
+        {
+            "name": "Eryngium campestre L.",
+            "id": "1360711",
+            "score": 0.00208
+        },
+        {
+            "name": "Crambe maritima L.",
+            "id": "1391425",
+            "score": 0.0016
+        },
+        {
+            "name": "Cirsium undulatum Spreng.",
+            "id": "1815499",
+            "score": 0.00158
+        },
+        {
+            "name": "Onopordum leptolepis DC.",
+            "id": "1516105",
+            "score": 0.00124
+        }
+    ]
+}

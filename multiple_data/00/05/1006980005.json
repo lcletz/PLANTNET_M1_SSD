@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Geum urbanum L.",
+            "id": "1360300",
+            "score": 0.93391
+        },
+        {
+            "name": "Geum macrophyllum Willd.",
+            "id": "1398509",
+            "score": 0.03198
+        },
+        {
+            "name": "Geum laciniatum Murray",
+            "id": "1392604",
+            "score": 0.0183
+        },
+        {
+            "name": "Geum aleppicum Jacq.",
+            "id": "1412165",
+            "score": 0.00377
+        },
+        {
+            "name": "Geum rivale L.",
+            "id": "1392614",
+            "score": 0.00112
+        }
+    ]
+}

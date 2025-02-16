@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Urtica urens L.",
+            "id": "1356201",
+            "score": 0.87396
+        },
+        {
+            "name": "Urtica membranacea Poir. ex Savigny",
+            "id": "1695710",
+            "score": 0.05889
+        },
+        {
+            "name": "Urtica incisa Poir.",
+            "id": "1396957",
+            "score": 0.00851
+        },
+        {
+            "name": "Urtica dioica L.",
+            "id": "1356200",
+            "score": 0.00571
+        },
+        {
+            "name": "Lamium album L.",
+            "id": "1393423",
+            "score": 0.00207
+        },
+        {
+            "name": "Urtica pilulifera L.",
+            "id": "1360831",
+            "score": 0.00131
+        },
+        {
+            "name": "Lamium orvala L.",
+            "id": "1399231",
+            "score": 0.00127
+        },
+        {
+            "name": "Verbena urticifolia L.",
+            "id": "1398544",
+            "score": 0.00101
+        }
+    ]
+}

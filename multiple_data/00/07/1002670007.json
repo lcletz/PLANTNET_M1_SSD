@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vaccinium myrtillus L.",
+            "id": "1361801",
+            "score": 0.93715
+        },
+        {
+            "name": "Vaccinium angustifolium Aiton",
+            "id": "1414140",
+            "score": 0.01106
+        },
+        {
+            "name": "Vaccinium parvifolium Sm.",
+            "id": "1414151",
+            "score": 0.00497
+        },
+        {
+            "name": "Vaccinium vitis-idaea L.",
+            "id": "1396971",
+            "score": 0.00223
+        },
+        {
+            "name": "Vaccinium membranaceum Douglas ex Torr.",
+            "id": "1414145",
+            "score": 0.00194
+        },
+        {
+            "name": "Orthilia secunda (L.) House",
+            "id": "1397450",
+            "score": 0.00178
+        },
+        {
+            "name": "Vaccinium ovalifolium Sm.",
+            "id": "1414147",
+            "score": 0.00122
+        },
+        {
+            "name": "Gaultheria shallon Pursh",
+            "id": "1392505",
+            "score": 0.00103
+        }
+    ]
+}

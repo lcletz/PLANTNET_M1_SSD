@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Buddleja davidii Franch.",
+            "id": "1365253",
+            "score": 0.77882
+        },
+        {
+            "name": "Buddleja japonica Hemsl.",
+            "id": "1389573",
+            "score": 0.10467
+        },
+        {
+            "name": "Veronica longifolia L.",
+            "id": "1397056",
+            "score": 0.0056
+        },
+        {
+            "name": "Lythrum salicaria L.",
+            "id": "1356023",
+            "score": 0.00377
+        },
+        {
+            "name": "Veronica spicata L.",
+            "id": "1397522",
+            "score": 0.00267
+        },
+        {
+            "name": "Buddleja lindleyana Fortune",
+            "id": "1420669",
+            "score": 0.00259
+        },
+        {
+            "name": "Salvia leucantha Cav.",
+            "id": "1356116",
+            "score": 0.00212
+        },
+        {
+            "name": "Liatris spicata (L.) Willd.",
+            "id": "1398122",
+            "score": 0.00166
+        },
+        {
+            "name": "Mentha spicata L.",
+            "id": "1358788",
+            "score": 0.00134
+        },
+        {
+            "name": "Teucrium hircanicum L.",
+            "id": "1564336",
+            "score": 0.0011
+        }
+    ]
+}

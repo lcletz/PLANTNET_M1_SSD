@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lotus pedunculatus Cav.",
+            "id": "1359322",
+            "score": 0.83684
+        },
+        {
+            "name": "Lotus corniculatus L.",
+            "id": "1359296",
+            "score": 0.07632
+        },
+        {
+            "name": "Lotus tenuis Waldst. & Kit. ex Willd.",
+            "id": "1412585",
+            "score": 0.0128
+        },
+        {
+            "name": "Coronilla coronata L.",
+            "id": "1391355",
+            "score": 0.0068
+        },
+        {
+            "name": "Lathyrus pratensis L.",
+            "id": "1363803",
+            "score": 0.00481
+        },
+        {
+            "name": "Coronilla minima L.",
+            "id": "1359169",
+            "score": 0.00361
+        },
+        {
+            "name": "Hippocrepis comosa L.",
+            "id": "1392775",
+            "score": 0.00123
+        },
+        {
+            "name": "Coronilla valentina L.",
+            "id": "1359172",
+            "score": 0.00112
+        }
+    ]
+}

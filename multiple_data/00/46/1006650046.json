@@ -1,0 +1,465 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Atriplex hortensis L.",
+            "id": "1363180",
+            "score": 0.05214
+        },
+        {
+            "name": "Chenopodium ficifolium Sm.",
+            "id": "1363179",
+            "score": 0.05074
+        },
+        {
+            "name": "Atriplex prostrata Boucher ex DC.",
+            "id": "1356488",
+            "score": 0.04216
+        },
+        {
+            "name": "Ipomoea aquatica Forssk.",
+            "id": "1364027",
+            "score": 0.03403
+        },
+        {
+            "name": "Chenopodium album L.",
+            "id": "1363173",
+            "score": 0.02086
+        },
+        {
+            "name": "Atriplex laciniata L.",
+            "id": "1363181",
+            "score": 0.02016
+        },
+        {
+            "name": "Eclipta prostrata (L.) L.",
+            "id": "1364146",
+            "score": 0.01801
+        },
+        {
+            "name": "Solanum melongena L.",
+            "id": "1356172",
+            "score": 0.01759
+        },
+        {
+            "name": "Ipomoea indica (Burm.) Merr.",
+            "id": "1364032",
+            "score": 0.01587
+        },
+        {
+            "name": "Atriplex patula L.",
+            "id": "1356310",
+            "score": 0.01549
+        },
+        {
+            "name": "Fallopia convolvulus (L.) Á.Löve",
+            "id": "1392250",
+            "score": 0.01448
+        },
+        {
+            "name": "Fagopyrum esculentum Moench",
+            "id": "1356095",
+            "score": 0.01387
+        },
+        {
+            "name": "Capsicum annuum L.",
+            "id": "1361992",
+            "score": 0.01051
+        },
+        {
+            "name": "Oenothera speciosa Nutt.",
+            "id": "1397714",
+            "score": 0.00986
+        },
+        {
+            "name": "Impatiens balsamina L.",
+            "id": "1363815",
+            "score": 0.00936
+        },
+        {
+            "name": "Sisymbrium irio L.",
+            "id": "1363896",
+            "score": 0.00906
+        },
+        {
+            "name": "Cucumis sativus L.",
+            "id": "1384472",
+            "score": 0.00841
+        },
+        {
+            "name": "Epilobium alsinifolium Vill.",
+            "id": "1391878",
+            "score": 0.00762
+        },
+        {
+            "name": "Emilia sonchifolia (L.) DC.",
+            "id": "1373553",
+            "score": 0.00703
+        },
+        {
+            "name": "Epilobium collinum C.C.Gmel.",
+            "id": "1391891",
+            "score": 0.00657
+        },
+        {
+            "name": "Solanum chenopodioides Lam.",
+            "id": "1356162",
+            "score": 0.00653
+        },
+        {
+            "name": "Quillaja saponaria Molina",
+            "id": "1662873",
+            "score": 0.00646
+        },
+        {
+            "name": "Chenopodiastrum hybridum (L.) S.Fuentes, Uotila & Borsch",
+            "id": "1389975",
+            "score": 0.00615
+        },
+        {
+            "name": "Passiflora capsularis L.",
+            "id": "1376586",
+            "score": 0.00562
+        },
+        {
+            "name": "Monarda fistulosa L.",
+            "id": "1397733",
+            "score": 0.0055
+        },
+        {
+            "name": "Zea mays L.",
+            "id": "1363500",
+            "score": 0.00525
+        },
+        {
+            "name": "Mirabilis jalapa L.",
+            "id": "1362100",
+            "score": 0.00522
+        },
+        {
+            "name": "Canarina canariensis (L.) Vatke",
+            "id": "1356761",
+            "score": 0.00454
+        },
+        {
+            "name": "Amaranthus deflexus L.",
+            "id": "1363250",
+            "score": 0.00451
+        },
+        {
+            "name": "Salvia canariensis L.",
+            "id": "1358864",
+            "score": 0.00449
+        },
+        {
+            "name": "Fuchsia magellanica Lam.",
+            "id": "1392372",
+            "score": 0.00446
+        },
+        {
+            "name": "Hypericum lanceolatum Lam.",
+            "id": "1408214",
+            "score": 0.00436
+        },
+        {
+            "name": "Celosia argentea L.",
+            "id": "1363271",
+            "score": 0.00431
+        },
+        {
+            "name": "Lactuca sativa L.",
+            "id": "1364172",
+            "score": 0.0041
+        },
+        {
+            "name": "Monarda didyma L.",
+            "id": "1397732",
+            "score": 0.00405
+        },
+        {
+            "name": "Chenopodium quinoa Willd.",
+            "id": "1397667",
+            "score": 0.00401
+        },
+        {
+            "name": "Cryptocarya alba (Molina) Looser",
+            "id": "1565838",
+            "score": 0.00399
+        },
+        {
+            "name": "Pistacia atlantica Desf.",
+            "id": "1356565",
+            "score": 0.00385
+        },
+        {
+            "name": "Clarkia unguiculata Lindl.",
+            "id": "1391293",
+            "score": 0.0037
+        },
+        {
+            "name": "Phaseolus vulgaris L.",
+            "id": "1394501",
+            "score": 0.00359
+        },
+        {
+            "name": "Solanum lycopersicum L.",
+            "id": "1396325",
+            "score": 0.00355
+        },
+        {
+            "name": "Guizotia abyssinica (L.f.) Cass.",
+            "id": "1392658",
+            "score": 0.00352
+        },
+        {
+            "name": "Sonchus tenerrimus L.",
+            "id": "1364171",
+            "score": 0.00323
+        },
+        {
+            "name": "Eruca vesicaria (L.) Cav.",
+            "id": "1356328",
+            "score": 0.00318
+        },
+        {
+            "name": "Spinacia oleracea L.",
+            "id": "1356556",
+            "score": 0.00293
+        },
+        {
+            "name": "Ipomoea hederifolia L.",
+            "id": "1369421",
+            "score": 0.00287
+        },
+        {
+            "name": "Amaranthus blitum L.",
+            "id": "1356472",
+            "score": 0.00271
+        },
+        {
+            "name": "Zinnia peruviana (L.) L.",
+            "id": "1374113",
+            "score": 0.00264
+        },
+        {
+            "name": "Capsicum frutescens L.",
+            "id": "1356148",
+            "score": 0.0026
+        },
+        {
+            "name": "Oenothera tetraptera Cav.",
+            "id": "1361958",
+            "score": 0.00255
+        },
+        {
+            "name": "Tetragonia tetragonoides (Pall.) Kuntze",
+            "id": "1362576",
+            "score": 0.00249
+        },
+        {
+            "name": "Cucumis melo L.",
+            "id": "1363647",
+            "score": 0.00247
+        },
+        {
+            "name": "Cissus quadrangularis L.",
+            "id": "1360883",
+            "score": 0.00246
+        },
+        {
+            "name": "Chenopodium giganteum D.Don",
+            "id": "1408973",
+            "score": 0.00245
+        },
+        {
+            "name": "Amaranthus viridis L.",
+            "id": "1393682",
+            "score": 0.0024
+        },
+        {
+            "name": "Valeriana tripteris L.",
+            "id": "1396984",
+            "score": 0.00234
+        },
+        {
+            "name": "Euphorbia pulcherrima Willd. ex Klotzsch",
+            "id": "1355985",
+            "score": 0.0023
+        },
+        {
+            "name": "Solanum pimpinellifolium L.",
+            "id": "1420742",
+            "score": 0.00229
+        },
+        {
+            "name": "Senecio macroglossus DC.",
+            "id": "1373847",
+            "score": 0.00227
+        },
+        {
+            "name": "Helianthus annuus L.",
+            "id": "1364145",
+            "score": 0.00224
+        },
+        {
+            "name": "Oxybasis rubra (L.) S.Fuentes, Uotila & Borsch",
+            "id": "1389978",
+            "score": 0.00223
+        },
+        {
+            "name": "Hyssopus officinalis L.",
+            "id": "1358747",
+            "score": 0.00222
+        },
+        {
+            "name": "Amaranthus tricolor L.",
+            "id": "1363257",
+            "score": 0.0022
+        },
+        {
+            "name": "Dianthera pectoralis (Jacq.) J.F.Gmel.",
+            "id": "1726180",
+            "score": 0.00214
+        },
+        {
+            "name": "Lonicera caprifolium L.",
+            "id": "1393632",
+            "score": 0.00213
+        },
+        {
+            "name": "Sanvitalia procumbens Lam.",
+            "id": "1398570",
+            "score": 0.00213
+        },
+        {
+            "name": "Physalis longifolia Nutt.",
+            "id": "1413067",
+            "score": 0.00213
+        },
+        {
+            "name": "Delairea odorata Lem.",
+            "id": "1364133",
+            "score": 0.00212
+        },
+        {
+            "name": "Solanum laxum Spreng.",
+            "id": "1356173",
+            "score": 0.00197
+        },
+        {
+            "name": "Epilobium tetragonum L.",
+            "id": "1359688",
+            "score": 0.00197
+        },
+        {
+            "name": "Passiflora caerulea L.",
+            "id": "1356052",
+            "score": 0.00189
+        },
+        {
+            "name": "Lobelia erinus L.",
+            "id": "1356018",
+            "score": 0.00186
+        },
+        {
+            "name": "Blitum virgatum L.",
+            "id": "1356500",
+            "score": 0.00181
+        },
+        {
+            "name": "Stenotaphrum secundatum (Walter) Kuntze",
+            "id": "1363543",
+            "score": 0.00178
+        },
+        {
+            "name": "Sisymbrium orientale L.",
+            "id": "1363898",
+            "score": 0.00177
+        },
+        {
+            "name": "Ipomoea imperati (Vahl) Griseb.",
+            "id": "1364037",
+            "score": 0.00175
+        },
+        {
+            "name": "Physalis peruviana L.",
+            "id": "1356153",
+            "score": 0.00172
+        },
+        {
+            "name": "Coccinia grandis (L.) Voigt",
+            "id": "1363157",
+            "score": 0.00164
+        },
+        {
+            "name": "Thymbra spicata L.",
+            "id": "1425695",
+            "score": 0.00162
+        },
+        {
+            "name": "Tropaeolum majus L.",
+            "id": "1356229",
+            "score": 0.00156
+        },
+        {
+            "name": "Peperomia pellucida (L.) Kunth",
+            "id": "1376726",
+            "score": 0.00156
+        },
+        {
+            "name": "Lactuca serriola L.",
+            "id": "1364173",
+            "score": 0.00156
+        },
+        {
+            "name": "Hypericum hircinum L.",
+            "id": "1358699",
+            "score": 0.00155
+        },
+        {
+            "name": "Asclepias tuberosa L.",
+            "id": "1413838",
+            "score": 0.00153
+        },
+        {
+            "name": "Lonicera sempervirens L.",
+            "id": "1393629",
+            "score": 0.00149
+        },
+        {
+            "name": "Senecio massaicus (Maire) Maire",
+            "id": "1357863",
+            "score": 0.00147
+        },
+        {
+            "name": "Senecio angulatus L.f.",
+            "id": "1396186",
+            "score": 0.00146
+        },
+        {
+            "name": "Solanum americanum Mill.",
+            "id": "1360564",
+            "score": 0.00145
+        },
+        {
+            "name": "Salix babylonica L.",
+            "id": "1360452",
+            "score": 0.00145
+        },
+        {
+            "name": "Zinnia elegans Jacq.",
+            "id": "1374114",
+            "score": 0.00144
+        },
+        {
+            "name": "Crepis capillaris (L.) Wallr.",
+            "id": "1355869",
+            "score": 0.00144
+        },
+        {
+            "name": "Commelina diffusa Burm.f.",
+            "id": "1398493",
+            "score": 0.00142
+        }
+    ]
+}

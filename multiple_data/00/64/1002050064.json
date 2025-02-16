@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Digitalis purpurea L.",
+            "id": "1364079",
+            "score": 0.80593
+        },
+        {
+            "name": "Digitalis grandiflora Mill.",
+            "id": "1391727",
+            "score": 0.05188
+        },
+        {
+            "name": "Digitalis lutea L.",
+            "id": "1362533",
+            "score": 0.01324
+        },
+        {
+            "name": "Digitalis thapsi L.",
+            "id": "1400052",
+            "score": 0.00977
+        },
+        {
+            "name": "Symphytum orientale L.",
+            "id": "1396497",
+            "score": 0.00797
+        },
+        {
+            "name": "Symphytum officinale L.",
+            "id": "1370072",
+            "score": 0.0051
+        },
+        {
+            "name": "Campanula latifolia L.",
+            "id": "1390665",
+            "score": 0.00102
+        }
+    ]
+}

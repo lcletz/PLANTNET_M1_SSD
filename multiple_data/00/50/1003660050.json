@@ -1,0 +1,285 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Populus nigra L.",
+            "id": "1356308",
+            "score": 0.74493
+        },
+        {
+            "name": "Populus deltoides W.Bartram ex Marshall",
+            "id": "1738800",
+            "score": 0.03216
+        },
+        {
+            "name": "Populus × canadensis Moench",
+            "id": "1683817",
+            "score": 0.02327
+        },
+        {
+            "name": "Populus balsamifera L.",
+            "id": "1394775",
+            "score": 0.0169
+        },
+        {
+            "name": "Populus tristis Fisch.",
+            "id": "1741869",
+            "score": 0.01355
+        },
+        {
+            "name": "Populus × generosa A.Henry",
+            "id": "1683828",
+            "score": 0.00934
+        },
+        {
+            "name": "Cakile maritima Scop.",
+            "id": "1358203",
+            "score": 0.00883
+        },
+        {
+            "name": "Alnus cordata (Loisel.) Duby",
+            "id": "1397307",
+            "score": 0.00839
+        },
+        {
+            "name": "Populus ciliata Wall. ex Royle",
+            "id": "1683823",
+            "score": 0.00562
+        },
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.0055
+        },
+        {
+            "name": "Populus fremontii S.Watson",
+            "id": "1683826",
+            "score": 0.00368
+        },
+        {
+            "name": "Triadica sebifera (L.) Small",
+            "id": "1376366",
+            "score": 0.00352
+        },
+        {
+            "name": "Cakile edentula (Bigelow) Hook.",
+            "id": "1398811",
+            "score": 0.00348
+        },
+        {
+            "name": "Curio herreanus (Dinter) P.V.Heath",
+            "id": "1758855",
+            "score": 0.00307
+        },
+        {
+            "name": "Lonchocarpus punctatus Kunth",
+            "id": "1409769",
+            "score": 0.00305
+        },
+        {
+            "name": "Populus lasiocarpa Oliv.",
+            "id": "1398586",
+            "score": 0.00265
+        },
+        {
+            "name": "Eucalyptus globulus Labill.",
+            "id": "1356282",
+            "score": 0.00249
+        },
+        {
+            "name": "Thunbergia laevis Wall. ex Nees",
+            "id": "1749463",
+            "score": 0.002
+        },
+        {
+            "name": "Thunbergia fragrans Roxb.",
+            "id": "1385381",
+            "score": 0.00194
+        },
+        {
+            "name": "Crassula elegans Schönland & Baker f.",
+            "id": "1528483",
+            "score": 0.00174
+        },
+        {
+            "name": "Populus tremuloides Michx.",
+            "id": "1413261",
+            "score": 0.00159
+        },
+        {
+            "name": "Populus heterophylla L.",
+            "id": "1413260",
+            "score": 0.00152
+        },
+        {
+            "name": "Populus adenopoda Maxim.",
+            "id": "1683808",
+            "score": 0.00149
+        },
+        {
+            "name": "Dischidia ruscifolia Decne. ex Becc.",
+            "id": "1460363",
+            "score": 0.0014
+        },
+        {
+            "name": "Adromischus cristatus (Haw.) Lem.",
+            "id": "1528279",
+            "score": 0.00134
+        },
+        {
+            "name": "Anacampseros arachnoides (Haw.) Sims",
+            "id": "1454012",
+            "score": 0.00129
+        },
+        {
+            "name": "Curio citriformis (G.D.Rowley) P.V.Heath",
+            "id": "1758008",
+            "score": 0.00128
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.00117
+        },
+        {
+            "name": "Cochlearia danica L.",
+            "id": "1391310",
+            "score": 0.00114
+        },
+        {
+            "name": "Populus alba L.",
+            "id": "1364046",
+            "score": 0.00112
+        },
+        {
+            "name": "Strongylodon lucidus (G.Forst.) Seem.",
+            "id": "1409080",
+            "score": 0.001
+        },
+        {
+            "name": "Lupinus angustifolius L.",
+            "id": "1363699",
+            "score": 0.00099
+        },
+        {
+            "name": "Eucalyptus saligna Sm.",
+            "id": "1361810",
+            "score": 0.0009
+        },
+        {
+            "name": "Persicaria hydropiper (L.) Delarbre",
+            "id": "1363046",
+            "score": 0.00085
+        },
+        {
+            "name": "Matayba arborescens (Aubl.) Radlk.",
+            "id": "1403446",
+            "score": 0.00085
+        },
+        {
+            "name": "Delarbrea collina Vieill.",
+            "id": "1415051",
+            "score": 0.00081
+        },
+        {
+            "name": "Salicornia europaea L.",
+            "id": "1363191",
+            "score": 0.0008
+        },
+        {
+            "name": "Phaseolus vulgaris L.",
+            "id": "1394501",
+            "score": 0.00075
+        },
+        {
+            "name": "Diospyros pustulata F.White",
+            "id": "1536840",
+            "score": 0.00074
+        },
+        {
+            "name": "Tetragonia tetragonoides (Pall.) Kuntze",
+            "id": "1362576",
+            "score": 0.00074
+        },
+        {
+            "name": "Lupinus albus L.",
+            "id": "1363703",
+            "score": 0.00069
+        },
+        {
+            "name": "Chlorophytum tuberosum (Roxb.) Baker",
+            "id": "1386086",
+            "score": 0.00069
+        },
+        {
+            "name": "Abelmoschus esculentus (L.) Moench",
+            "id": "1361854",
+            "score": 0.00066
+        },
+        {
+            "name": "Pongamia pinnata (L.) Pierre",
+            "id": "1408557",
+            "score": 0.00063
+        },
+        {
+            "name": "Thingia ambigua (S.Watson) Hershk.",
+            "id": "1817876",
+            "score": 0.00061
+        },
+        {
+            "name": "Ficus adhatodifolia Schott",
+            "id": "1601681",
+            "score": 0.00061
+        },
+        {
+            "name": "Cananga odorata (Lam.) Hook.f. & Thomson",
+            "id": "1403813",
+            "score": 0.00059
+        },
+        {
+            "name": "Portulaca grandiflora Hook.",
+            "id": "1383052",
+            "score": 0.00058
+        },
+        {
+            "name": "Sedum litoreum Guss.",
+            "id": "1358119",
+            "score": 0.00054
+        },
+        {
+            "name": "Portulaca oleracea L.",
+            "id": "1360141",
+            "score": 0.00053
+        },
+        {
+            "name": "Fallopia convolvulus (L.) Á.Löve",
+            "id": "1392250",
+            "score": 0.00049
+        },
+        {
+            "name": "Dictamnus albus L.",
+            "id": "1391724",
+            "score": 0.00047
+        },
+        {
+            "name": "Styphnolobium japonicum (L.) Schott",
+            "id": "1369068",
+            "score": 0.00047
+        },
+        {
+            "name": "Cylindrophyllum calamiforme (L.) Schwantes",
+            "id": "1448355",
+            "score": 0.00045
+        },
+        {
+            "name": "Stenotus armerioides Nutt.",
+            "id": "1413932",
+            "score": 0.00043
+        },
+        {
+            "name": "Sedum sarmentosum Bunge",
+            "id": "1396143",
+            "score": 0.00041
+        }
+    ]
+}

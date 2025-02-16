@@ -1,0 +1,490 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Juglans regia L.",
+            "id": "1358713",
+            "score": 0.32194
+        },
+        {
+            "name": "Fraxinus americana L.",
+            "id": "1397619",
+            "score": 0.19647
+        },
+        {
+            "name": "Pinus sylvestris L.",
+            "id": "1394617",
+            "score": 0.07847
+        },
+        {
+            "name": "Juglans mandshurica Maxim.",
+            "id": "1419240",
+            "score": 0.07516
+        },
+        {
+            "name": "Pinus resinosa Aiton",
+            "id": "1390041",
+            "score": 0.06819
+        },
+        {
+            "name": "Asimina triloba (L.) Dunal",
+            "id": "1413867",
+            "score": 0.06558
+        },
+        {
+            "name": "Annona purpurea Moc. & Sessé ex Dunal",
+            "id": "1419489",
+            "score": 0.04784
+        },
+        {
+            "name": "Spathodea campanulata P.Beauv.",
+            "id": "1389151",
+            "score": 0.04757
+        },
+        {
+            "name": "Juglans nigra L.",
+            "id": "1393337",
+            "score": 0.03923
+        },
+        {
+            "name": "Handroanthus ochraceus (Cham.) Mattos",
+            "id": "1476704",
+            "score": 0.0256
+        },
+        {
+            "name": "Larix decidua Mill.",
+            "id": "1397422",
+            "score": 0.02255
+        },
+        {
+            "name": "Juglans cinerea L.",
+            "id": "1412349",
+            "score": 0.02214
+        },
+        {
+            "name": "Aesculus parviflora Walter",
+            "id": "1398239",
+            "score": 0.02141
+        },
+        {
+            "name": "Carya tomentosa (Lam.) Nutt.",
+            "id": "1440857",
+            "score": 0.01703
+        },
+        {
+            "name": "Erythrina amazonica Krukoff",
+            "id": "1405460",
+            "score": 0.01694
+        },
+        {
+            "name": "Carya glabra (Mill.) Sweet",
+            "id": "1411341",
+            "score": 0.01509
+        },
+        {
+            "name": "Pinus nigra J.F.Arnold",
+            "id": "1419915",
+            "score": 0.01243
+        },
+        {
+            "name": "Fraxinus latifolia Benth.",
+            "id": "1412090",
+            "score": 0.01106
+        },
+        {
+            "name": "Fraxinus excelsior L.",
+            "id": "1361864",
+            "score": 0.00992
+        },
+        {
+            "name": "Juglans × intermedia Jacques",
+            "id": "1844333",
+            "score": 0.00883
+        },
+        {
+            "name": "Markhamia zanzibarica (Bojer ex DC.) K.Schum.",
+            "id": "1422550",
+            "score": 0.00817
+        },
+        {
+            "name": "Fraxinus pennsylvanica Marshall",
+            "id": "1392363",
+            "score": 0.00801
+        },
+        {
+            "name": "Pinus pinea L.",
+            "id": "1394612",
+            "score": 0.00779
+        },
+        {
+            "name": "Cladrastis kentukea (Dum.Cours.) Rudd",
+            "id": "1418918",
+            "score": 0.00745
+        },
+        {
+            "name": "Tabebuia roseoalba (Ridl.) Sandwith",
+            "id": "1476995",
+            "score": 0.00694
+        },
+        {
+            "name": "Annona cherimola Mill.",
+            "id": "1390486",
+            "score": 0.00658
+        },
+        {
+            "name": "Theobroma cacao L.",
+            "id": "1377980",
+            "score": 0.00655
+        },
+        {
+            "name": "Fraxinus ornus L.",
+            "id": "1362963",
+            "score": 0.00654
+        },
+        {
+            "name": "Acer negundo L.",
+            "id": "1356458",
+            "score": 0.00651
+        },
+        {
+            "name": "Lonchocarpus sericeus (Poir.) Kunth ex DC.",
+            "id": "1366708",
+            "score": 0.00632
+        },
+        {
+            "name": "Uvaria bipindensis Engl.",
+            "id": "1387057",
+            "score": 0.00618
+        },
+        {
+            "name": "Pinus ponderosa Douglas ex C.Lawson",
+            "id": "1419917",
+            "score": 0.00612
+        },
+        {
+            "name": "Alseis costaricensis C.M.Taylor",
+            "id": "1670281",
+            "score": 0.00601
+        },
+        {
+            "name": "Vitex grandifolia Gürke",
+            "id": "1378650",
+            "score": 0.00591
+        },
+        {
+            "name": "Pterocarya fraxinifolia (Poir.) Spach",
+            "id": "1394969",
+            "score": 0.00532
+        },
+        {
+            "name": "Pinus pinaster Aiton",
+            "id": "1394611",
+            "score": 0.00497
+        },
+        {
+            "name": "Couma macrocarpa Barb.Rodr.",
+            "id": "1459955",
+            "score": 0.00493
+        },
+        {
+            "name": "Tabebuia rosea (Bertol.) Bertero ex A.DC.",
+            "id": "1418008",
+            "score": 0.00421
+        },
+        {
+            "name": "Pinus rigida Mill.",
+            "id": "1398532",
+            "score": 0.00317
+        },
+        {
+            "name": "Pinus strobus L.",
+            "id": "1394616",
+            "score": 0.00317
+        },
+        {
+            "name": "Larix kaempferi (Lamb.) Carrière",
+            "id": "1701758",
+            "score": 0.00309
+        },
+        {
+            "name": "Robinia pseudoacacia L.",
+            "id": "1363698",
+            "score": 0.00305
+        },
+        {
+            "name": "Brosimum lactescens (S.Moore) C.C.Berg",
+            "id": "1402431",
+            "score": 0.00301
+        },
+        {
+            "name": "Alstonia macrophylla Wall. ex G.Don",
+            "id": "1423951",
+            "score": 0.00283
+        },
+        {
+            "name": "Betula nigra L.",
+            "id": "1390590",
+            "score": 0.00282
+        },
+        {
+            "name": "Markhamia obtusifolia (Baker) Sprague",
+            "id": "1388693",
+            "score": 0.00281
+        },
+        {
+            "name": "Aralia nudicaulis L.",
+            "id": "1413002",
+            "score": 0.00269
+        },
+        {
+            "name": "Canarium album (Lour.) DC.",
+            "id": "1418148",
+            "score": 0.00264
+        },
+        {
+            "name": "Pinus wallichiana A.B.Jacks.",
+            "id": "1394618",
+            "score": 0.00263
+        },
+        {
+            "name": "Caryocar costaricense Donn.Sm.",
+            "id": "1491962",
+            "score": 0.00259
+        },
+        {
+            "name": "Sambucus nigra L.",
+            "id": "1356464",
+            "score": 0.00257
+        },
+        {
+            "name": "Markhamia tomentosa (Benth.) K.Schum. ex Engl.",
+            "id": "1431946",
+            "score": 0.00251
+        },
+        {
+            "name": "Meliosma myriantha Siebold & Zucc.",
+            "id": "1683350",
+            "score": 0.0025
+        },
+        {
+            "name": "Pinus halepensis Mill.",
+            "id": "1397460",
+            "score": 0.00241
+        },
+        {
+            "name": "Ehretia dicksonii Hance",
+            "id": "1418029",
+            "score": 0.00241
+        },
+        {
+            "name": "Tsuga canadensis (L.) Carrière",
+            "id": "1398279",
+            "score": 0.0022
+        },
+        {
+            "name": "Cupania americana L.",
+            "id": "1409534",
+            "score": 0.00219
+        },
+        {
+            "name": "Pinus thunbergii Parl.",
+            "id": "1390049",
+            "score": 0.00216
+        },
+        {
+            "name": "Euphorbia pulcherrima Willd. ex Klotzsch",
+            "id": "1355985",
+            "score": 0.00215
+        },
+        {
+            "name": "Staphylea pinnata L.",
+            "id": "1396437",
+            "score": 0.00215
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.00204
+        },
+        {
+            "name": "Handroanthus chrysanthus (Jacq.) S.O.Grose",
+            "id": "1423923",
+            "score": 0.00198
+        },
+        {
+            "name": "Lonicera xylosteum L.",
+            "id": "1393639",
+            "score": 0.00197
+        },
+        {
+            "name": "Camptotheca acuminata Decne.",
+            "id": "1418487",
+            "score": 0.00189
+        },
+        {
+            "name": "Cedrela salvadorensis Standl.",
+            "id": "1600540",
+            "score": 0.00189
+        },
+        {
+            "name": "Inga edulis Mart.",
+            "id": "1368191",
+            "score": 0.00186
+        },
+        {
+            "name": "Alnus nepalensis D.Don",
+            "id": "1428731",
+            "score": 0.00183
+        },
+        {
+            "name": "Tabernaemontana donnell-smithii Rose",
+            "id": "1712159",
+            "score": 0.00171
+        },
+        {
+            "name": "Fortunearia sinensis Rehder & E.H.Wilson",
+            "id": "1419166",
+            "score": 0.00167
+        },
+        {
+            "name": "Annona reticulata L.",
+            "id": "1386681",
+            "score": 0.00164
+        },
+        {
+            "name": "Pinus brutia Ten.",
+            "id": "1398092",
+            "score": 0.00163
+        },
+        {
+            "name": "Croton floribundus Spreng.",
+            "id": "1543694",
+            "score": 0.00161
+        },
+        {
+            "name": "Vitex orinocensis Kunth",
+            "id": "1403694",
+            "score": 0.00158
+        },
+        {
+            "name": "Dussia discolor (Benth.) Amshoff",
+            "id": "1402836",
+            "score": 0.00154
+        },
+        {
+            "name": "Fraxinus uhdei (Wenz.) Lingelsh.",
+            "id": "1419623",
+            "score": 0.00147
+        },
+        {
+            "name": "Guarea michel-moddei T.D.Penn. & S.A.Mori",
+            "id": "1405012",
+            "score": 0.00144
+        },
+        {
+            "name": "Frangula alnus Mill.",
+            "id": "1360257",
+            "score": 0.00144
+        },
+        {
+            "name": "Ormosia arborea (Vell.) Harms",
+            "id": "1583028",
+            "score": 0.00144
+        },
+        {
+            "name": "Decaisnea fargesii Franch.",
+            "id": "1728836",
+            "score": 0.00142
+        },
+        {
+            "name": "Hura crepitans L.",
+            "id": "1376239",
+            "score": 0.00138
+        },
+        {
+            "name": "Laccodiscus klaineanus Pierre ex Engl.",
+            "id": "1686007",
+            "score": 0.00135
+        },
+        {
+            "name": "Ulmus americana L.",
+            "id": "1390323",
+            "score": 0.00134
+        },
+        {
+            "name": "Palicourea acuminata (Benth.) Borhidi",
+            "id": "1717775",
+            "score": 0.00132
+        },
+        {
+            "name": "Dussia macroprophyllata (Donn.Sm.) Harms",
+            "id": "1577362",
+            "score": 0.0013
+        },
+        {
+            "name": "Pinus canariensis C.Sm. ex DC.",
+            "id": "1722426",
+            "score": 0.00128
+        },
+        {
+            "name": "Pongamia pinnata (L.) Pierre",
+            "id": "1408557",
+            "score": 0.00127
+        },
+        {
+            "name": "Pueraria montana (Lour.) Merr.",
+            "id": "1419021",
+            "score": 0.00126
+        },
+        {
+            "name": "Handroanthus albus (Cham.) Mattos",
+            "id": "1476689",
+            "score": 0.00121
+        },
+        {
+            "name": "Genipa americana L.",
+            "id": "1403295",
+            "score": 0.00113
+        },
+        {
+            "name": "Zeyheria tuberculosa (Vell.) Bureau ex Verl.",
+            "id": "1477051",
+            "score": 0.00113
+        },
+        {
+            "name": "Karpatiosorbus devoniensis (E.F.Warb.) Sennikov & Kurtto",
+            "id": "1738940",
+            "score": 0.00112
+        },
+        {
+            "name": "Nyssa sylvatica Marshall",
+            "id": "1412837",
+            "score": 0.00111
+        },
+        {
+            "name": "Chonemorpha fragrans (Moon) Alston",
+            "id": "1423517",
+            "score": 0.00109
+        },
+        {
+            "name": "Palicourea guianensis Aubl.",
+            "id": "1403339",
+            "score": 0.00108
+        },
+        {
+            "name": "Handroanthus chrysotrichus (Mart. ex DC.) Mattos",
+            "id": "1476697",
+            "score": 0.00104
+        },
+        {
+            "name": "Tecoma stans (L.) Juss. ex Kunth",
+            "id": "1400150",
+            "score": 0.00103
+        },
+        {
+            "name": "Irvingia grandifolia (Engl.) Engl.",
+            "id": "1378586",
+            "score": 0.00102
+        }
+    ]
+}

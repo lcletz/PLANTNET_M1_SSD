@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Reseda luteola L.",
+            "id": "1363978",
+            "score": 0.94829
+        },
+        {
+            "name": "Reseda lutea L.",
+            "id": "1356295",
+            "score": 0.00298
+        },
+        {
+            "name": "Reseda alba L.",
+            "id": "1360231",
+            "score": 0.00217
+        },
+        {
+            "name": "Verbascum nigrum L.",
+            "id": "1397520",
+            "score": 0.00146
+        },
+        {
+            "name": "Digitalis ferruginea L.",
+            "id": "1373275",
+            "score": 0.00114
+        }
+    ]
+}

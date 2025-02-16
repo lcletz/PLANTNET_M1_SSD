@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Parietaria officinalis L.",
+            "id": "1362353",
+            "score": 0.75062
+        },
+        {
+            "name": "Parietaria judaica L.",
+            "id": "1360825",
+            "score": 0.20177
+        },
+        {
+            "name": "Amaranthus graecizans L.",
+            "id": "1356474",
+            "score": 0.00463
+        },
+        {
+            "name": "Parietaria lusitanica L.",
+            "id": "1360826",
+            "score": 0.00449
+        },
+        {
+            "name": "Pouzolzia guineensis Benth.",
+            "id": "1378557",
+            "score": 0.00303
+        },
+        {
+            "name": "Parietaria pensylvanica Muhl. ex Willd.",
+            "id": "1412951",
+            "score": 0.00242
+        },
+        {
+            "name": "Parietaria mauritanica Durieu",
+            "id": "1360827",
+            "score": 0.00163
+        }
+    ]
+}

@@ -1,0 +1,485 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium repens L.",
+            "id": "1363740",
+            "score": 0.07683
+        },
+        {
+            "name": "Poa annua L.",
+            "id": "1363455",
+            "score": 0.05683
+        },
+        {
+            "name": "Trifolium fragiferum L.",
+            "id": "1356278",
+            "score": 0.05114
+        },
+        {
+            "name": "Lolium perenne L.",
+            "id": "1363475",
+            "score": 0.05022
+        },
+        {
+            "name": "Sesleria caerulea (L.) Ard.",
+            "id": "1397494",
+            "score": 0.04783
+        },
+        {
+            "name": "Cynodon dactylon (L.) Pers.",
+            "id": "1363526",
+            "score": 0.03112
+        },
+        {
+            "name": "Bellis annua L.",
+            "id": "1357314",
+            "score": 0.02487
+        },
+        {
+            "name": "Bellis perennis L.",
+            "id": "1357317",
+            "score": 0.02377
+        },
+        {
+            "name": "Carex caryophyllea Latourr.",
+            "id": "1390782",
+            "score": 0.01814
+        },
+        {
+            "name": "Veronica serpyllifolia L.",
+            "id": "1364066",
+            "score": 0.01565
+        },
+        {
+            "name": "Carex flacca Schreb.",
+            "id": "1361055",
+            "score": 0.01507
+        },
+        {
+            "name": "Poa pratensis L.",
+            "id": "1363458",
+            "score": 0.01196
+        },
+        {
+            "name": "Cyperus rotundus L.",
+            "id": "1361090",
+            "score": 0.01194
+        },
+        {
+            "name": "Muscari neglectum Guss. ex Ten.",
+            "id": "1361501",
+            "score": 0.01015
+        },
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.00984
+        },
+        {
+            "name": "Ophiopogon japonicus (Thunb.) Ker Gawl.",
+            "id": "1417723",
+            "score": 0.00672
+        },
+        {
+            "name": "Dichondra micrantha Urb.",
+            "id": "1364071",
+            "score": 0.00594
+        },
+        {
+            "name": "Carex paniculata L.",
+            "id": "1361074",
+            "score": 0.00552
+        },
+        {
+            "name": "Cyperus brevifolius (Rottb.) Hassk.",
+            "id": "1427744",
+            "score": 0.00472
+        },
+        {
+            "name": "Veronica agrestis L.",
+            "id": "1364061",
+            "score": 0.00451
+        },
+        {
+            "name": "Festuca rubra L.",
+            "id": "1361284",
+            "score": 0.00439
+        },
+        {
+            "name": "Taraxacum dissectum (Ledeb.) Ledeb.",
+            "id": "1396568",
+            "score": 0.0043
+        },
+        {
+            "name": "Carex sylvatica Huds.",
+            "id": "1363283",
+            "score": 0.00422
+        },
+        {
+            "name": "Parnassia palustris L.",
+            "id": "1359835",
+            "score": 0.00412
+        },
+        {
+            "name": "Festuca gautieri (Hack.) K.Richt.",
+            "id": "1392299",
+            "score": 0.00403
+        },
+        {
+            "name": "Potentilla indica (Andrews) Th.Wolf",
+            "id": "1721637",
+            "score": 0.00381
+        },
+        {
+            "name": "Viola palustris L.",
+            "id": "1360874",
+            "score": 0.00337
+        },
+        {
+            "name": "Cyperus richardii Steud.",
+            "id": "1718498",
+            "score": 0.00337
+        },
+        {
+            "name": "Carex divulsa Stokes",
+            "id": "1361050",
+            "score": 0.00333
+        },
+        {
+            "name": "Muscari botryoides (L.) Mill.",
+            "id": "1393865",
+            "score": 0.00327
+        },
+        {
+            "name": "Carex lachenalii Schkuhr",
+            "id": "1390846",
+            "score": 0.0032
+        },
+        {
+            "name": "Cenchrus clandestinus (Hochst. ex Chiov.) Morrone",
+            "id": "1363016",
+            "score": 0.00316
+        },
+        {
+            "name": "Viola sororia Willd.",
+            "id": "1414225",
+            "score": 0.00311
+        },
+        {
+            "name": "Scilla verna Huds.",
+            "id": "1362369",
+            "score": 0.0031
+        },
+        {
+            "name": "Dianthus integer Vis.",
+            "id": "1492638",
+            "score": 0.00308
+        },
+        {
+            "name": "Armeria alpina (DC.) Willd.",
+            "id": "1647128",
+            "score": 0.00303
+        },
+        {
+            "name": "Crocus nudiflorus Sm.",
+            "id": "1391474",
+            "score": 0.00294
+        },
+        {
+            "name": "Ornithogalum divergens Boreau",
+            "id": "1394319",
+            "score": 0.00293
+        },
+        {
+            "name": "Luzula campestris (L.) DC.",
+            "id": "1361592",
+            "score": 0.00292
+        },
+        {
+            "name": "Narcissus bulbocodium L.",
+            "id": "1360955",
+            "score": 0.00285
+        },
+        {
+            "name": "Taraxacum mattmarkense Soest",
+            "id": "1396621",
+            "score": 0.00277
+        },
+        {
+            "name": "Taraxacum sect. Taraxacum F.H.Wigg.",
+            "id": "1737545",
+            "score": 0.00269
+        },
+        {
+            "name": "Crocus flavus Weston",
+            "id": "1391469",
+            "score": 0.00252
+        },
+        {
+            "name": "Trifolium subterraneum L.",
+            "id": "1359528",
+            "score": 0.00244
+        },
+        {
+            "name": "Trifolium nigrescens Viv.",
+            "id": "1363739",
+            "score": 0.00239
+        },
+        {
+            "name": "Colchicum alpinum DC.",
+            "id": "1391318",
+            "score": 0.00238
+        },
+        {
+            "name": "Anthoxanthum odoratum L.",
+            "id": "1363461",
+            "score": 0.00238
+        },
+        {
+            "name": "Poa trivialis L.",
+            "id": "1363459",
+            "score": 0.00226
+        },
+        {
+            "name": "Colchicum montanum L.",
+            "id": "1391323",
+            "score": 0.00222
+        },
+        {
+            "name": "Cerastium fontanum Baumg.",
+            "id": "1356277",
+            "score": 0.0022
+        },
+        {
+            "name": "Armeria maritima (Mill.) Willd.",
+            "id": "1413349",
+            "score": 0.00218
+        },
+        {
+            "name": "Carex leersii F.W.Schultz",
+            "id": "1390851",
+            "score": 0.00209
+        },
+        {
+            "name": "Crepis aurea (L.) Cass.",
+            "id": "1505431",
+            "score": 0.00206
+        },
+        {
+            "name": "Carex remota L.",
+            "id": "1361080",
+            "score": 0.00205
+        },
+        {
+            "name": "Carex pairae F.W.Schultz",
+            "id": "1390880",
+            "score": 0.00204
+        },
+        {
+            "name": "Phyteuma hemisphaericum L.",
+            "id": "1394542",
+            "score": 0.00202
+        },
+        {
+            "name": "Lolium arundinaceum (Schreb.) Darbysh.",
+            "id": "1720971",
+            "score": 0.00201
+        },
+        {
+            "name": "Cynosurus cristatus L.",
+            "id": "1361225",
+            "score": 0.00198
+        },
+        {
+            "name": "Potentilla sterilis (L.) Garcke",
+            "id": "1394877",
+            "score": 0.00194
+        },
+        {
+            "name": "Trifolium dubium Sibth.",
+            "id": "1363737",
+            "score": 0.00185
+        },
+        {
+            "name": "Gentiana bavarica L.",
+            "id": "1392539",
+            "score": 0.00183
+        },
+        {
+            "name": "Lolium tuberosum (Romero Zarco & Cabezudo) Banfi, Galasso, Foggi, Kopecký & Ardenghi",
+            "id": "1744241",
+            "score": 0.0018
+        },
+        {
+            "name": "Ipheion uniflorum (Graham) Raf.",
+            "id": "1738592",
+            "score": 0.00174
+        },
+        {
+            "name": "Veronica officinalis L.",
+            "id": "1364068",
+            "score": 0.00172
+        },
+        {
+            "name": "Veronica filiformis Sm.",
+            "id": "1397048",
+            "score": 0.00169
+        },
+        {
+            "name": "Veronica arvensis L.",
+            "id": "1364063",
+            "score": 0.00169
+        },
+        {
+            "name": "Alopecurus pratensis L.",
+            "id": "1362406",
+            "score": 0.00168
+        },
+        {
+            "name": "Crocus vernus (L.) Hill",
+            "id": "1391476",
+            "score": 0.00166
+        },
+        {
+            "name": "Bellis bernardi Boiss. & Reut.",
+            "id": "1743424",
+            "score": 0.00166
+        },
+        {
+            "name": "Trifolium pratense L.",
+            "id": "1359517",
+            "score": 0.0016
+        },
+        {
+            "name": "Medicago lupulina L.",
+            "id": "1363730",
+            "score": 0.00154
+        },
+        {
+            "name": "Taraxacum palustre (Lyons) Symons",
+            "id": "1396640",
+            "score": 0.00154
+        },
+        {
+            "name": "Equisetum arvense L.",
+            "id": "1356394",
+            "score": 0.00147
+        },
+        {
+            "name": "Gentiana nivalis L.",
+            "id": "1392552",
+            "score": 0.00144
+        },
+        {
+            "name": "Poa bulbosa L.",
+            "id": "1363456",
+            "score": 0.00143
+        },
+        {
+            "name": "Campanula rotundifolia L.",
+            "id": "1362422",
+            "score": 0.00143
+        },
+        {
+            "name": "Carex brizoides L.",
+            "id": "1390778",
+            "score": 0.00141
+        },
+        {
+            "name": "Bellis sylvestris Cirillo",
+            "id": "1357320",
+            "score": 0.00138
+        },
+        {
+            "name": "Carex nigra (L.) Reichard",
+            "id": "1361069",
+            "score": 0.00137
+        },
+        {
+            "name": "Carex sempervirens Vill.",
+            "id": "1390910",
+            "score": 0.00136
+        },
+        {
+            "name": "Cerastium glomeratum Thuill.",
+            "id": "1356697",
+            "score": 0.00136
+        },
+        {
+            "name": "Agrostis canina L.",
+            "id": "1361914",
+            "score": 0.00135
+        },
+        {
+            "name": "Crocus chrysanthus (Herb.) Herb.",
+            "id": "1391466",
+            "score": 0.00133
+        },
+        {
+            "name": "Ornithogalum exscapum Ten.",
+            "id": "1397754",
+            "score": 0.00133
+        },
+        {
+            "name": "Geranium pusillum L.",
+            "id": "1392594",
+            "score": 0.00133
+        },
+        {
+            "name": "Carex leporina L.",
+            "id": "1362424",
+            "score": 0.00127
+        },
+        {
+            "name": "Tragopogon pratensis L.",
+            "id": "1396832",
+            "score": 0.00126
+        },
+        {
+            "name": "Eleocharis palustris (L.) Roem. & Schult.",
+            "id": "1363275",
+            "score": 0.00124
+        },
+        {
+            "name": "Carex spicata Huds.",
+            "id": "1361082",
+            "score": 0.00123
+        },
+        {
+            "name": "Prunus × syriaca Borkh.",
+            "id": "1741908",
+            "score": 0.00122
+        },
+        {
+            "name": "Carex montana L.",
+            "id": "1390870",
+            "score": 0.0012
+        },
+        {
+            "name": "Ornithogalum umbellatum L.",
+            "id": "1362350",
+            "score": 0.0012
+        },
+        {
+            "name": "Veronica persica Poir.",
+            "id": "1364065",
+            "score": 0.00118
+        },
+        {
+            "name": "Trifolium occidentale Coombe",
+            "id": "1396857",
+            "score": 0.00116
+        },
+        {
+            "name": "Euphorbia helioscopia L.",
+            "id": "1355964",
+            "score": 0.00115
+        },
+        {
+            "name": "Ononis spinosa L.",
+            "id": "1359431",
+            "score": 0.00113
+        }
+    ]
+}

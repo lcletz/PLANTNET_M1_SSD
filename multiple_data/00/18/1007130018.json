@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Gaillardia aristata Pursh",
+            "id": "1392412",
+            "score": 0.76706
+        },
+        {
+            "name": "Gaillardia pulchella Foug.",
+            "id": "1364122",
+            "score": 0.10372
+        },
+        {
+            "name": "Gaillardia × grandiflora Van Houtte",
+            "id": "1844242",
+            "score": 0.0249
+        },
+        {
+            "name": "Gaillardia pinnatifida Torr.",
+            "id": "1443818",
+            "score": 0.00134
+        },
+        {
+            "name": "Echinacea purpurea (L.) Moench",
+            "id": "1398120",
+            "score": 0.00132
+        },
+        {
+            "name": "Helenium autumnale L.",
+            "id": "1392703",
+            "score": 0.00129
+        },
+        {
+            "name": "Echinacea angustifolia DC.",
+            "id": "1411839",
+            "score": 0.00106
+        },
+        {
+            "name": "Eupatorium mohrii Greene",
+            "id": "1443567",
+            "score": 0.00105
+        }
+    ]
+}

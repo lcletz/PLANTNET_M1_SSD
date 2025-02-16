@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aristolochia clematitis L.",
+            "id": "1396305",
+            "score": 0.84775
+        },
+        {
+            "name": "Lycopus europaeus L.",
+            "id": "1358770",
+            "score": 0.73549
+        },
+        {
+            "name": "Lycopus exaltatus L.f.",
+            "id": "1393706",
+            "score": 0.07768
+        },
+        {
+            "name": "Dysphania ambrosioides (L.) Mosyakin & Clemants",
+            "id": "1388787",
+            "score": 0.00474
+        },
+        {
+            "name": "Aristolochia macrophylla Lam.",
+            "id": "1396303",
+            "score": 0.00317
+        },
+        {
+            "name": "Aristolochia steupii Woronow",
+            "id": "1470815",
+            "score": 0.00255
+        },
+        {
+            "name": "Erechtites valerianifolius (Link ex Spreng.) DC.",
+            "id": "1403955",
+            "score": 0.00224
+        },
+        {
+            "name": "Urtica pilulifera L.",
+            "id": "1360831",
+            "score": 0.00211
+        },
+        {
+            "name": "Aristolochia cymbifera Mart.",
+            "id": "1470542",
+            "score": 0.00201
+        },
+        {
+            "name": "Aristolochia birostris Duch.",
+            "id": "1470483",
+            "score": 0.00164
+        },
+        {
+            "name": "Carduus clavulatus Link",
+            "id": "1357342",
+            "score": 0.00127
+        },
+        {
+            "name": "Carduus crispus L.",
+            "id": "1390725",
+            "score": 0.00118
+        }
+    ]
+}

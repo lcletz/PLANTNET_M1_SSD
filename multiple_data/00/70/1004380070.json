@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Asplenium scolopendrium L.",
+            "id": "1356357",
+            "score": 0.90039
+        },
+        {
+            "name": "Asplenium nidus L.",
+            "id": "1390496",
+            "score": 0.00961
+        },
+        {
+            "name": "Asplenium serratum L.",
+            "id": "1400403",
+            "score": 0.00375
+        },
+        {
+            "name": "Asplenium antrophyoides Christ",
+            "id": "1702250",
+            "score": 0.00309
+        },
+        {
+            "name": "Pteris cretica L.",
+            "id": "1356435",
+            "score": 0.00114
+        },
+        {
+            "name": "Elaphoglossum macropodium T.Moore",
+            "id": "1750250",
+            "score": 0.00106
+        }
+    ]
+}

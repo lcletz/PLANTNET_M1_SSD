@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Parietaria judaica L.",
+            "id": "1360825",
+            "score": 0.82295
+        },
+        {
+            "name": "Parietaria officinalis L.",
+            "id": "1362353",
+            "score": 0.06214
+        },
+        {
+            "name": "Acalypha virginica L.",
+            "id": "1358519",
+            "score": 0.00418
+        },
+        {
+            "name": "Cistus populifolius L.",
+            "id": "1357109",
+            "score": 0.00377
+        },
+        {
+            "name": "Gesnouinia arborea (L.f.) Gaudich.",
+            "id": "1695238",
+            "score": 0.00276
+        },
+        {
+            "name": "Parietaria lusitanica L.",
+            "id": "1360826",
+            "score": 0.00192
+        },
+        {
+            "name": "Parietaria mauritanica Durieu",
+            "id": "1360827",
+            "score": 0.00166
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Crataegus azarolus L.",
+            "id": "1360290",
+            "score": 0.46873
+        },
+        {
+            "name": "Crataegus monogyna Jacq.",
+            "id": "1363988",
+            "score": 0.24669
+        },
+        {
+            "name": "Crataegus laevigata (Poir.) DC.",
+            "id": "1360293",
+            "score": 0.17571
+        },
+        {
+            "name": "Crataegus rhipidophylla Gand.",
+            "id": "1363068",
+            "score": 0.02605
+        },
+        {
+            "name": "Hedlundia thuringiaca (Nyman) Sennikov & Kurtto",
+            "id": "1738935",
+            "score": 0.0186
+        },
+        {
+            "name": "Scandosorbus intermedia (Ehrh.) Sennikov",
+            "id": "1737669",
+            "score": 0.00314
+        },
+        {
+            "name": "Crataegus × media Bechst.",
+            "id": "1667293",
+            "score": 0.00231
+        }
+    ]
+}

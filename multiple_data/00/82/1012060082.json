@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Amorpha fruticosa L.",
+            "id": "1393787",
+            "score": 0.95139
+        },
+        {
+            "name": "Indigofera tinctoria L.",
+            "id": "1408229",
+            "score": 0.002
+        },
+        {
+            "name": "Amorpha canescens Pursh",
+            "id": "1412168",
+            "score": 0.0014
+        },
+        {
+            "name": "Sophora tomentosa L.",
+            "id": "1409039",
+            "score": 0.00127
+        },
+        {
+            "name": "Gleditsia triacanthos L.",
+            "id": "1363687",
+            "score": 0.0012
+        },
+        {
+            "name": "Astragalus penduliflorus Lam.",
+            "id": "1398353",
+            "score": 0.00103
+        }
+    ]
+}

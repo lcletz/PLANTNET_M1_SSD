@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Coronilla valentina L.",
+            "id": "1359172",
+            "score": 0.53255
+        },
+        {
+            "name": "Coronilla coronata L.",
+            "id": "1391355",
+            "score": 0.08838
+        },
+        {
+            "name": "Coronilla minima L.",
+            "id": "1359169",
+            "score": 0.0606
+        },
+        {
+            "name": "Medicago arborea L.",
+            "id": "1363733",
+            "score": 0.00263
+        },
+        {
+            "name": "Coronilla juncea L.",
+            "id": "1359168",
+            "score": 0.0021
+        }
+    ]
+}

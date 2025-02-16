@@ -1,0 +1,55 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Quercus ilex L.",
+            "id": "1357416",
+            "score": 0.55458
+        },
+        {
+            "name": "Quercus suber L.",
+            "id": "1358617",
+            "score": 0.06364
+        },
+        {
+            "name": "Elaeagnus angustifolia L.",
+            "id": "1358494",
+            "score": 0.03637
+        },
+        {
+            "name": "Laurus nobilis L.",
+            "id": "1363362",
+            "score": 0.00904
+        },
+        {
+            "name": "Olea europaea L.",
+            "id": "1359676",
+            "score": 0.00897
+        },
+        {
+            "name": "Pittosporum tobira (Thunb.) W.T.Aiton",
+            "id": "1394624",
+            "score": 0.0086
+        },
+        {
+            "name": "Pittosporum undulatum Vent.",
+            "id": "1356064",
+            "score": 0.00827
+        },
+        {
+            "name": "Quercus rotundifolia Lam.",
+            "id": "1548459",
+            "score": 0.00249
+        },
+        {
+            "name": "Quercus faginea Lam.",
+            "id": "1358614",
+            "score": 0.00217
+        },
+        {
+            "name": "Quercus × crenata Lam.",
+            "id": "1738588",
+            "score": 0.00132
+        }
+    ]
+}

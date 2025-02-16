@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ricinus communis L.",
+            "id": "1358609",
+            "score": 0.92597
+        },
+        {
+            "name": "Cyclanthera brachystachya (DC.) Cogn.",
+            "id": "1418564",
+            "score": 0.00166
+        },
+        {
+            "name": "Medicago murex Willd.",
+            "id": "1359346",
+            "score": 0.00121
+        },
+        {
+            "name": "Quercus cerris L.",
+            "id": "1395020",
+            "score": 0.00083
+        },
+        {
+            "name": "Liquidambar orientalis Mill.",
+            "id": "1390587",
+            "score": 0.00077
+        },
+        {
+            "name": "Medicago arabica (L.) Huds.",
+            "id": "1359333",
+            "score": 0.00068
+        },
+        {
+            "name": "Momordica foetida Schumach.",
+            "id": "1384421",
+            "score": 0.00046
+        }
+    ]
+}

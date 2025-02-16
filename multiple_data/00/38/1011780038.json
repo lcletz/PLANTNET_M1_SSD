@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Betula pendula Roth",
+            "id": "1356609",
+            "score": 0.80205
+        },
+        {
+            "name": "Betula pubescens Ehrh.",
+            "id": "1362746",
+            "score": 0.15184
+        },
+        {
+            "name": "Betula papyrifera Marshall",
+            "id": "1398459",
+            "score": 0.00639
+        },
+        {
+            "name": "Tilia mongolica Maxim.",
+            "id": "1390592",
+            "score": 0.00497
+        },
+        {
+            "name": "Betula utilis D.Don",
+            "id": "1400127",
+            "score": 0.00453
+        },
+        {
+            "name": "Betula nigra L.",
+            "id": "1390590",
+            "score": 0.00355
+        },
+        {
+            "name": "Betula populifolia Marshall",
+            "id": "1414289",
+            "score": 0.00289
+        },
+        {
+            "name": "Betula nana L.",
+            "id": "1400132",
+            "score": 0.00126
+        }
+    ]
+}

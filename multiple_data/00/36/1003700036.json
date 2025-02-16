@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Convallaria majalis L.",
+            "id": "1391336",
+            "score": 0.92718
+        },
+        {
+            "name": "Convallaria pseudomajalis W.Bartram",
+            "id": "1817349",
+            "score": 0.01777
+        },
+        {
+            "name": "Hyacinthus orientalis L.",
+            "id": "1393221",
+            "score": 0.00332
+        },
+        {
+            "name": "Hyacinthoides non-scripta (L.) Chouard ex Rothm.",
+            "id": "1393219",
+            "score": 0.00316
+        },
+        {
+            "name": "Hyacinthoides × massartiana Geerinck",
+            "id": "1472365",
+            "score": 0.00174
+        }
+    ]
+}

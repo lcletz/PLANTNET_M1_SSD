@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Allium narcissiflorum Vill.",
+            "id": "1392696",
+            "score": 0.93319
+        },
+        {
+            "name": "Allium roseum L.",
+            "id": "1360931",
+            "score": 0.01162
+        },
+        {
+            "name": "Allium lusitanicum Lam.",
+            "id": "1392657",
+            "score": 0.00943
+        },
+        {
+            "name": "Allium acutiflorum Loisel.",
+            "id": "1392483",
+            "score": 0.00216
+        },
+        {
+            "name": "Armeria alpina (DC.) Willd.",
+            "id": "1647128",
+            "score": 0.00105
+        }
+    ]
+}

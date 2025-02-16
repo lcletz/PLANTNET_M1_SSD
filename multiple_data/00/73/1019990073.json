@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Mercurialis annua L.",
+            "id": "1355990",
+            "score": 0.69412
+        },
+        {
+            "name": "Eclipta prostrata (L.) L.",
+            "id": "1364146",
+            "score": 0.00359
+        },
+        {
+            "name": "Cannabis sativa L.",
+            "id": "1356780",
+            "score": 0.00297
+        },
+        {
+            "name": "Bidens cernua L.",
+            "id": "1400135",
+            "score": 0.00234
+        },
+        {
+            "name": "Mercurialis perennis L.",
+            "id": "1358605",
+            "score": 0.00167
+        }
+    ]
+}

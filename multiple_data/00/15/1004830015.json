@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunella grandiflora (L.) Turra",
+            "id": "1737424",
+            "score": 0.53871
+        },
+        {
+            "name": "Scutellaria alpina L.",
+            "id": "1397490",
+            "score": 0.02993
+        },
+        {
+            "name": "Prunella vulgaris L.",
+            "id": "1356109",
+            "score": 0.01879
+        },
+        {
+            "name": "Prunella hyssopifolia L.",
+            "id": "1362041",
+            "score": 0.00484
+        },
+        {
+            "name": "Gentianella campestris (L.) Börner",
+            "id": "1392568",
+            "score": 0.00143
+        },
+        {
+            "name": "Prunella × intermedia Link",
+            "id": "1562253",
+            "score": 0.00118
+        },
+        {
+            "name": "Pedicularis verticillata L.",
+            "id": "1394451",
+            "score": 0.001
+        }
+    ]
+}

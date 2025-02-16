@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Bryonia cretica L.",
+            "id": "1358446",
+            "score": 0.72092
+        },
+        {
+            "name": "Bryonia alba L.",
+            "id": "1389570",
+            "score": 0.20174
+        },
+        {
+            "name": "Ecballium elaterium (L.) A.Rich.",
+            "id": "1397373",
+            "score": 0.00239
+        },
+        {
+            "name": "Sicyos angulatus L.",
+            "id": "1413783",
+            "score": 0.00218
+        },
+        {
+            "name": "Bryonia verrucosa Aiton",
+            "id": "1529567",
+            "score": 0.00199
+        },
+        {
+            "name": "Bryonia syriaca Boiss.",
+            "id": "1426046",
+            "score": 0.00145
+        }
+    ]
+}

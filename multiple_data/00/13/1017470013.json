@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia lathyris L.",
+            "id": "1355968",
+            "score": 0.8982
+        },
+        {
+            "name": "Euphorbia dulcis L.",
+            "id": "1392156",
+            "score": 0.00273
+        },
+        {
+            "name": "Euphorbia hyberna L.",
+            "id": "1392167",
+            "score": 0.00213
+        },
+        {
+            "name": "Euphorbia dendroides L.",
+            "id": "1358548",
+            "score": 0.00147
+        },
+        {
+            "name": "Euphorbia griffithii Hook.f.",
+            "id": "1545286",
+            "score": 0.00131
+        },
+        {
+            "name": "Euphorbia wallichii Hook.f.",
+            "id": "1546271",
+            "score": 0.00109
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lamium maculatum (L.) L.",
+            "id": "1393425",
+            "score": 0.8044
+        },
+        {
+            "name": "Lamium purpureum L.",
+            "id": "1358752",
+            "score": 0.03416
+        },
+        {
+            "name": "Lamium hybridum Vill.",
+            "id": "1358751",
+            "score": 0.02184
+        },
+        {
+            "name": "Lamium garganicum L.",
+            "id": "1358750",
+            "score": 0.01312
+        },
+        {
+            "name": "Lamium orvala L.",
+            "id": "1399231",
+            "score": 0.01185
+        },
+        {
+            "name": "Lamium amplexicaule L.",
+            "id": "1356111",
+            "score": 0.00746
+        },
+        {
+            "name": "Lamium bifidum Cirillo",
+            "id": "1358748",
+            "score": 0.00111
+        },
+        {
+            "name": "Lamium flexuosum Ten.",
+            "id": "1358749",
+            "score": 0.00102
+        },
+        {
+            "name": "Clinopodium vulgare L.",
+            "id": "1358742",
+            "score": 0.00101
+        },
+        {
+            "name": "Galeopsis pubescens Besser",
+            "id": "1392427",
+            "score": 0.001
+        }
+    ]
+}

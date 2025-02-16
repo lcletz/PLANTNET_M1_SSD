@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Daphne laureola L.",
+            "id": "1360590",
+            "score": 0.95366
+        },
+        {
+            "name": "Daphne mezereum L.",
+            "id": "1391652",
+            "score": 0.01353
+        },
+        {
+            "name": "Daphne blagayana Freyer",
+            "id": "1399155",
+            "score": 0.00134
+        },
+        {
+            "name": "Daphne alpina L.",
+            "id": "1391648",
+            "score": 0.00115
+        },
+        {
+            "name": "Daphne glomerata Lam.",
+            "id": "1693434",
+            "score": 0.0011
+        }
+    ]
+}

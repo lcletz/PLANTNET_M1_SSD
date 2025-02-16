@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Papaver nudicaule L.",
+            "id": "1412946",
+            "score": 0.45527
+        },
+        {
+            "name": "Papaver croceum Ledeb.",
+            "id": "1394401",
+            "score": 0.35554
+        },
+        {
+            "name": "Papaver alpinum L.",
+            "id": "1394399",
+            "score": 0.1458
+        },
+        {
+            "name": "Papaver dubium L.",
+            "id": "1363129",
+            "score": 0.01227
+        },
+        {
+            "name": "Papaver cambricum L.",
+            "id": "1419850",
+            "score": 0.00448
+        },
+        {
+            "name": "Papaver atlanticum (Ball) Coss.",
+            "id": "1359815",
+            "score": 0.00374
+        },
+        {
+            "name": "Ranunculus asiaticus L.",
+            "id": "1360189",
+            "score": 0.0037
+        }
+    ]
+}

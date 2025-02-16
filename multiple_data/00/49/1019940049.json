@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Lycium barbarum L.",
+            "id": "1360557",
+            "score": 0.87978
+        },
+        {
+            "name": "Lycium chinense Mill.",
+            "id": "1393699",
+            "score": 0.02755
+        },
+        {
+            "name": "Berberis vulgaris L.",
+            "id": "1356603",
+            "score": 0.00982
+        },
+        {
+            "name": "Lycium europaeum L.",
+            "id": "1356147",
+            "score": 0.00535
+        },
+        {
+            "name": "Ligustrum vulgare L.",
+            "id": "1359675",
+            "score": 0.00396
+        },
+        {
+            "name": "Spiraea alba Du Roi",
+            "id": "1396390",
+            "score": 0.0034
+        },
+        {
+            "name": "Forsythia suspensa (Thunb.) Vahl",
+            "id": "1392356",
+            "score": 0.00295
+        },
+        {
+            "name": "Plumbago auriculata Lam.",
+            "id": "1363960",
+            "score": 0.0024
+        },
+        {
+            "name": "Solanum laciniatum Aiton",
+            "id": "1360570",
+            "score": 0.00102
+        }
+    ]
+}

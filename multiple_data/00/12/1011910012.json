@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Phragmites australis (Cav.) Trin. ex Steud.",
+            "id": "1356268",
+            "score": 0.88401
+        },
+        {
+            "name": "Arundo donax L.",
+            "id": "1363442",
+            "score": 0.03542
+        },
+        {
+            "name": "Arundo plinii Turra",
+            "id": "1361177",
+            "score": 0.01042
+        },
+        {
+            "name": "Sorghum halepense (L.) Pers.",
+            "id": "1363508",
+            "score": 0.00568
+        },
+        {
+            "name": "Erianthus giganteus (Walter) P.Beauv.",
+            "id": "1816920",
+            "score": 0.00151
+        },
+        {
+            "name": "Saccharum officinarum L.",
+            "id": "1363506",
+            "score": 0.00129
+        },
+        {
+            "name": "Tripidium ravennae (L.) H.Scholz",
+            "id": "1389835",
+            "score": 0.00129
+        },
+        {
+            "name": "Zea mays L.",
+            "id": "1363500",
+            "score": 0.00104
+        },
+        {
+            "name": "Calamagrostis pseudophragmites (Haller f.) Koeler",
+            "id": "1389969",
+            "score": 0.00103
+        },
+        {
+            "name": "Typha latifolia L.",
+            "id": "1363339",
+            "score": 0.00102
+        }
+    ]
+}

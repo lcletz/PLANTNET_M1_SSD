@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cercis canadensis L.",
+            "id": "1397806",
+            "score": 0.63057
+        },
+        {
+            "name": "Cercis siliquastrum L.",
+            "id": "1359162",
+            "score": 0.21103
+        },
+        {
+            "name": "Cercis chinensis Bunge",
+            "id": "1418915",
+            "score": 0.01896
+        },
+        {
+            "name": "Cercis glabra Pamp.",
+            "id": "1574666",
+            "score": 0.01407
+        },
+        {
+            "name": "Cercis occidentalis Torr. ex A.Gray",
+            "id": "1397805",
+            "score": 0.00351
+        },
+        {
+            "name": "Prunus × subhirtella Miq.",
+            "id": "1721663",
+            "score": 0.0012
+        },
+        {
+            "name": "Ixora ferrea (Jacq.) Benth.",
+            "id": "1406093",
+            "score": 0.001
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Medicago arabica (L.) Huds.",
+            "id": "1359333",
+            "score": 0.89107
+        },
+        {
+            "name": "Medicago polymorpha L.",
+            "id": "1363731",
+            "score": 0.05043
+        },
+        {
+            "name": "Lotus pedunculatus Cav.",
+            "id": "1359322",
+            "score": 0.01763
+        },
+        {
+            "name": "Lotus tenuis Waldst. & Kit. ex Willd.",
+            "id": "1412585",
+            "score": 0.00484
+        },
+        {
+            "name": "Medicago soleirolii Duby",
+            "id": "1359353",
+            "score": 0.00464
+        },
+        {
+            "name": "Medicago falcata L.",
+            "id": "1363729",
+            "score": 0.00333
+        },
+        {
+            "name": "Medicago coronata (L.) Bartal.",
+            "id": "1359334",
+            "score": 0.00103
+        }
+    ]
+}

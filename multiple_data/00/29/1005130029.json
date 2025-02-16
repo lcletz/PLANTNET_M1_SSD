@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Valeriana saxatilis L.",
+            "id": "1399746",
+            "score": 0.93024
+        },
+        {
+            "name": "Valeriana dioica L.",
+            "id": "1397518",
+            "score": 0.0217
+        },
+        {
+            "name": "Patrinia sibirica (L.) Juss.",
+            "id": "1491485",
+            "score": 0.00266
+        },
+        {
+            "name": "Galium anisophyllon Vill.",
+            "id": "1392439",
+            "score": 0.0017
+        },
+        {
+            "name": "Biscutella laevigata L.",
+            "id": "1362417",
+            "score": 0.00147
+        }
+    ]
+}

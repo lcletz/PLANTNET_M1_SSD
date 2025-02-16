@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rubia peregrina L.",
+            "id": "1360433",
+            "score": 0.96579
+        },
+        {
+            "name": "Rubia tinctorum L.",
+            "id": "1360434",
+            "score": 0.02217
+        },
+        {
+            "name": "Galium obliquum Vill.",
+            "id": "1392474",
+            "score": 0.00489
+        },
+        {
+            "name": "Galium aparine L.",
+            "id": "1360385",
+            "score": 0.00244
+        },
+        {
+            "name": "Rubia tenuifolia d'Urv.",
+            "id": "1364009",
+            "score": 0.00142
+        },
+        {
+            "name": "Galium tricornutum Dandy",
+            "id": "1360417",
+            "score": 0.00124
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lapsana communis L.",
+            "id": "1364164",
+            "score": 0.89428
+        },
+        {
+            "name": "Crepis pulchra L.",
+            "id": "1357542",
+            "score": 0.0234
+        },
+        {
+            "name": "Crepis capillaris (L.) Wallr.",
+            "id": "1355869",
+            "score": 0.00852
+        },
+        {
+            "name": "Crepis micrantha Czerep.",
+            "id": "1357538",
+            "score": 0.00165
+        },
+        {
+            "name": "Chondrilla juncea L.",
+            "id": "1357492",
+            "score": 0.00116
+        }
+    ]
+}

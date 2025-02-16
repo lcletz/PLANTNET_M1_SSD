@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Schinus molle L.",
+            "id": "1363642",
+            "score": 0.94174
+        },
+        {
+            "name": "Schinus areira L.",
+            "id": "1423127",
+            "score": 0.03138
+        },
+        {
+            "name": "Prosopis glandulosa Torr.",
+            "id": "1436922",
+            "score": 0.00629
+        },
+        {
+            "name": "Salix babylonica L.",
+            "id": "1360452",
+            "score": 0.00119
+        },
+        {
+            "name": "Azadirachta indica A.Juss.",
+            "id": "1405342",
+            "score": 0.00105
+        },
+        {
+            "name": "Salix × pendulina Wender.",
+            "id": "1684175",
+            "score": 0.00032
+        },
+        {
+            "name": "Moringa drouhardii Jum.",
+            "id": "1432002",
+            "score": 0.00028
+        }
+    ]
+}

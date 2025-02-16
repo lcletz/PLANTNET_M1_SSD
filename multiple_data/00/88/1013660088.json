@@ -1,0 +1,475 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Scorzoneroides autumnalis (L.) Moench",
+            "id": "1396117",
+            "score": 0.28138
+        },
+        {
+            "name": "Crepis paludosa (L.) Moench",
+            "id": "1391457",
+            "score": 0.16861
+        },
+        {
+            "name": "Veronica peregrina L.",
+            "id": "1359980",
+            "score": 0.15663
+        },
+        {
+            "name": "Crepis pyrenaica (L.) Greuter",
+            "id": "1391458",
+            "score": 0.15288
+        },
+        {
+            "name": "Cruciata pedemontana (Bellardi) Ehrend.",
+            "id": "1360383",
+            "score": 0.08966
+        },
+        {
+            "name": "Crepis biennis L.",
+            "id": "1391445",
+            "score": 0.05613
+        },
+        {
+            "name": "Leontodon hispidus L.",
+            "id": "1357697",
+            "score": 0.04138
+        },
+        {
+            "name": "Veronica arvensis L.",
+            "id": "1364063",
+            "score": 0.03843
+        },
+        {
+            "name": "Crepis pontana (L.) Dalla Torre",
+            "id": "1505553",
+            "score": 0.0224
+        },
+        {
+            "name": "Sherardia arvensis L.",
+            "id": "1364029",
+            "score": 0.0198
+        },
+        {
+            "name": "Legousia speculum-veneris (L.) Chaix",
+            "id": "1356770",
+            "score": 0.01148
+        },
+        {
+            "name": "Galium palustre L.",
+            "id": "1360406",
+            "score": 0.00921
+        },
+        {
+            "name": "Hypochaeris maculata L.",
+            "id": "1393262",
+            "score": 0.00907
+        },
+        {
+            "name": "Hieracium umbellatum L.",
+            "id": "1393169",
+            "score": 0.00858
+        },
+        {
+            "name": "Crepis setosa Haller f.",
+            "id": "1361760",
+            "score": 0.00854
+        },
+        {
+            "name": "Pseudopodospermum hispanicum (L.) Zaika, Sukhor. & N.Kilian",
+            "id": "1739189",
+            "score": 0.00807
+        },
+        {
+            "name": "Campanula erinus L.",
+            "id": "1362238",
+            "score": 0.00778
+        },
+        {
+            "name": "Campanula patula L.",
+            "id": "1390669",
+            "score": 0.00734
+        },
+        {
+            "name": "Crepis mollis (Jacq.) Asch.",
+            "id": "1391455",
+            "score": 0.00654
+        },
+        {
+            "name": "Crepis conyzifolia (Gouan) A.Kern.",
+            "id": "1391446",
+            "score": 0.00621
+        },
+        {
+            "name": "Crepis tectorum L.",
+            "id": "1397531",
+            "score": 0.00618
+        },
+        {
+            "name": "Valeriana locusta L.",
+            "id": "1722516",
+            "score": 0.00594
+        },
+        {
+            "name": "Picris hieracioides L.",
+            "id": "1364160",
+            "score": 0.00579
+        },
+        {
+            "name": "Hypochaeris radicata L.",
+            "id": "1355872",
+            "score": 0.0057
+        },
+        {
+            "name": "Veronica verna L.",
+            "id": "1359988",
+            "score": 0.00566
+        },
+        {
+            "name": "Hieracium sabaudum L.",
+            "id": "1393122",
+            "score": 0.00561
+        },
+        {
+            "name": "Hieracium lachenalii Suter",
+            "id": "1392971",
+            "score": 0.00486
+        },
+        {
+            "name": "Coreopsis lanceolata L.",
+            "id": "1391350",
+            "score": 0.00415
+        },
+        {
+            "name": "Hieracium murorum L.",
+            "id": "1393025",
+            "score": 0.00408
+        },
+        {
+            "name": "Campanula lusitanica Loefl.",
+            "id": "1356747",
+            "score": 0.00405
+        },
+        {
+            "name": "Euphorbia exigua L.",
+            "id": "1358552",
+            "score": 0.00394
+        },
+        {
+            "name": "Hypericum pulchrum L.",
+            "id": "1393254",
+            "score": 0.00386
+        },
+        {
+            "name": "Galium parisiense L.",
+            "id": "1360407",
+            "score": 0.00371
+        },
+        {
+            "name": "Triodanis perfoliata (L.) Nieuwl.",
+            "id": "1414099",
+            "score": 0.00346
+        },
+        {
+            "name": "Hieracium prenanthoides Vill.",
+            "id": "1393092",
+            "score": 0.00333
+        },
+        {
+            "name": "Jasione montana L.",
+            "id": "1356766",
+            "score": 0.00325
+        },
+        {
+            "name": "Cruciata laevipes Opiz",
+            "id": "1391478",
+            "score": 0.00297
+        },
+        {
+            "name": "Crepis aurea (L.) Cass.",
+            "id": "1505431",
+            "score": 0.00294
+        },
+        {
+            "name": "Dichodon viscidum (M.Bieb.) Holub",
+            "id": "1741833",
+            "score": 0.00292
+        },
+        {
+            "name": "Crepis micrantha Czerep.",
+            "id": "1357538",
+            "score": 0.00292
+        },
+        {
+            "name": "Veronica austriaca L.",
+            "id": "1362391",
+            "score": 0.00291
+        },
+        {
+            "name": "Centaurium erythraea Rafn",
+            "id": "1358624",
+            "score": 0.00288
+        },
+        {
+            "name": "Myosotis laxa Lehm.",
+            "id": "1356706",
+            "score": 0.00282
+        },
+        {
+            "name": "Crepis lampsanoides (Gouan) Tausch",
+            "id": "1391451",
+            "score": 0.00274
+        },
+        {
+            "name": "Crepis pulchra L.",
+            "id": "1357542",
+            "score": 0.00268
+        },
+        {
+            "name": "Sedum hispanicum L.",
+            "id": "1363613",
+            "score": 0.00267
+        },
+        {
+            "name": "Rhagadiolus stellatus (L.) Gaertn.",
+            "id": "1357817",
+            "score": 0.00265
+        },
+        {
+            "name": "Aster amellus L.",
+            "id": "1382107",
+            "score": 0.00244
+        },
+        {
+            "name": "Asperugo procumbens L.",
+            "id": "1356623",
+            "score": 0.00241
+        },
+        {
+            "name": "Leontodon saxatilis Lam.",
+            "id": "1357700",
+            "score": 0.00227
+        },
+        {
+            "name": "Galium maritimum L.",
+            "id": "1392467",
+            "score": 0.00221
+        },
+        {
+            "name": "Callitriche peploides Nutt.",
+            "id": "1399773",
+            "score": 0.00219
+        },
+        {
+            "name": "Lysimachia arvensis (L.) U.Manns & Anderb.",
+            "id": "1388913",
+            "score": 0.00215
+        },
+        {
+            "name": "Scutellaria minor Huds.",
+            "id": "1396140",
+            "score": 0.00211
+        },
+        {
+            "name": "Myosotis scorpioides L.",
+            "id": "1393897",
+            "score": 0.00202
+        },
+        {
+            "name": "Ornithopus perpusillus L.",
+            "id": "1359443",
+            "score": 0.002
+        },
+        {
+            "name": "Gelasia hirsuta (Gouan) Zaika, Sukhor. & N.Kilian",
+            "id": "1743889",
+            "score": 0.002
+        },
+        {
+            "name": "Rudbeckia hirta L.",
+            "id": "1395638",
+            "score": 0.00197
+        },
+        {
+            "name": "Asperula arvensis L.",
+            "id": "1360369",
+            "score": 0.00193
+        },
+        {
+            "name": "Pilosella caespitosa (Dumort.) P.D.Sell & C.West",
+            "id": "1394571",
+            "score": 0.00193
+        },
+        {
+            "name": "Tolpis staticifolia (All.) Sch.Bip.",
+            "id": "1396809",
+            "score": 0.00188
+        },
+        {
+            "name": "Galium verrucosum Huds.",
+            "id": "1360420",
+            "score": 0.00186
+        },
+        {
+            "name": "Crepis sibirica L.",
+            "id": "1505572",
+            "score": 0.00182
+        },
+        {
+            "name": "Knautia arvernensis (Briq.) Szabó",
+            "id": "1393377",
+            "score": 0.00179
+        },
+        {
+            "name": "Valeriana eriocarpa (Desv.) Christenh. & Byng",
+            "id": "1722703",
+            "score": 0.00175
+        },
+        {
+            "name": "Rhagadiolus edulis Gaertn.",
+            "id": "1357816",
+            "score": 0.00174
+        },
+        {
+            "name": "Sedum rubens L.",
+            "id": "1358132",
+            "score": 0.00173
+        },
+        {
+            "name": "Lindheimera texana A.Gray & Engelm.",
+            "id": "1514283",
+            "score": 0.00173
+        },
+        {
+            "name": "Cruciata glabra (L.) Opiz",
+            "id": "1672063",
+            "score": 0.00172
+        },
+        {
+            "name": "Hypochaeris glabra L.",
+            "id": "1355871",
+            "score": 0.0017
+        },
+        {
+            "name": "Galium trifidum L.",
+            "id": "1392495",
+            "score": 0.00168
+        },
+        {
+            "name": "Radiola linoides Roth",
+            "id": "1356042",
+            "score": 0.00166
+        },
+        {
+            "name": "Lobelia spicata Lam.",
+            "id": "1412539",
+            "score": 0.00161
+        },
+        {
+            "name": "Hieracium laevigatum Willd.",
+            "id": "1392973",
+            "score": 0.0016
+        },
+        {
+            "name": "Scorzoneroides helvetica (Mérat) Holub",
+            "id": "1519650",
+            "score": 0.00157
+        },
+        {
+            "name": "Aposeris foetida (L.) Less.",
+            "id": "1395287",
+            "score": 0.00154
+        },
+        {
+            "name": "Vicia hirsuta (L.) Gray",
+            "id": "1363671",
+            "score": 0.00153
+        },
+        {
+            "name": "Hieracium gouanii Arv.-Touv.",
+            "id": "1392936",
+            "score": 0.00152
+        },
+        {
+            "name": "Scorzonera humilis L.",
+            "id": "1396115",
+            "score": 0.00151
+        },
+        {
+            "name": "Veronica serpyllifolia L.",
+            "id": "1364066",
+            "score": 0.0015
+        },
+        {
+            "name": "Myosotis arvensis (L.) Hill",
+            "id": "1363858",
+            "score": 0.00149
+        },
+        {
+            "name": "Hieracium amplexicaule L.",
+            "id": "1357643",
+            "score": 0.00148
+        },
+        {
+            "name": "Hypochaeris uniflora Vill.",
+            "id": "1357663",
+            "score": 0.00146
+        },
+        {
+            "name": "Myosotis discolor Pers.",
+            "id": "1363859",
+            "score": 0.00143
+        },
+        {
+            "name": "Campanula ramosissima Sm.",
+            "id": "1489250",
+            "score": 0.00139
+        },
+        {
+            "name": "Reseda phyteuma L.",
+            "id": "1360247",
+            "score": 0.00135
+        },
+        {
+            "name": "Microseris borealis (Bong.) Sch.Bip.",
+            "id": "1514808",
+            "score": 0.00133
+        },
+        {
+            "name": "Knautia drymeia Heuff.",
+            "id": "1397717",
+            "score": 0.00132
+        },
+        {
+            "name": "Euphorbia cyparissias L.",
+            "id": "1392155",
+            "score": 0.0013
+        },
+        {
+            "name": "Hypericum mutilum L.",
+            "id": "1397408",
+            "score": 0.00127
+        },
+        {
+            "name": "Campanula glomerata L.",
+            "id": "1390663",
+            "score": 0.00125
+        },
+        {
+            "name": "Dianthus deltoides L.",
+            "id": "1397368",
+            "score": 0.00125
+        },
+        {
+            "name": "Taraxacum palustre (Lyons) Symons",
+            "id": "1396640",
+            "score": 0.00124
+        },
+        {
+            "name": "Valeriana dentata (L.) All.",
+            "id": "1722519",
+            "score": 0.00117
+        }
+    ]
+}

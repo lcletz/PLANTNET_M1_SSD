@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lilium regale E.H.Wilson",
+            "id": "1419333",
+            "score": 0.87424
+        },
+        {
+            "name": "Lilium lancifolium Thunb.",
+            "id": "1393528",
+            "score": 0.05683
+        },
+        {
+            "name": "Melampyrum arvense L.",
+            "id": "1393779",
+            "score": 0.00431
+        },
+        {
+            "name": "Lilium bulbiferum L.",
+            "id": "1393532",
+            "score": 0.0042
+        },
+        {
+            "name": "Fritillaria imperialis L.",
+            "id": "1397600",
+            "score": 0.00243
+        },
+        {
+            "name": "Lilium martagon L.",
+            "id": "1393534",
+            "score": 0.00214
+        },
+        {
+            "name": "Lilium columbianum Leichtlin",
+            "id": "1412495",
+            "score": 0.00163
+        },
+        {
+            "name": "Lilium candidum L.",
+            "id": "1361623",
+            "score": 0.00124
+        },
+        {
+            "name": "Lilium henryi Baker",
+            "id": "1588912",
+            "score": 0.0011
+        },
+        {
+            "name": "Melampyrum cristatum L.",
+            "id": "1393780",
+            "score": 0.00109
+        }
+    ]
+}

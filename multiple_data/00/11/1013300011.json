@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Rhodotypos scandens (Thunb.) Makino",
+            "id": "1395192",
+            "score": 0.98119
+        },
+        {
+            "name": "Rosa arvensis Huds.",
+            "id": "1395253",
+            "score": 0.00192
+        },
+        {
+            "name": "Rubus argutus Link",
+            "id": "1421896",
+            "score": 0.00153
+        },
+        {
+            "name": "Rubus polonicus Weston",
+            "id": "1737590",
+            "score": 0.00125
+        },
+        {
+            "name": "Rubus canadensis L.",
+            "id": "1390116",
+            "score": 0.00046
+        }
+    ]
+}

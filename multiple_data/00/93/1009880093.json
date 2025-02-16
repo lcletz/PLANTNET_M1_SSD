@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Fragaria viridis Weston",
+            "id": "1397387",
+            "score": 0.49135
+        },
+        {
+            "name": "Fragaria vesca L.",
+            "id": "1363991",
+            "score": 0.34584
+        },
+        {
+            "name": "Fragaria × ananassa (Duchesne ex Weston) Duchesne ex Rozier",
+            "id": "1667445",
+            "score": 0.01433
+        },
+        {
+            "name": "Fragaria moschata Duchesne ex Weston",
+            "id": "1737561",
+            "score": 0.00352
+        },
+        {
+            "name": "Fragaria chiloensis (L.) Mill.",
+            "id": "1408979",
+            "score": 0.00335
+        },
+        {
+            "name": "Drymocallis rupestris (L.) Soják",
+            "id": "1391798",
+            "score": 0.0014
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Linum perenne L.",
+            "id": "1389408",
+            "score": 0.79182
+        },
+        {
+            "name": "Linum austriacum L.",
+            "id": "1359590",
+            "score": 0.12569
+        },
+        {
+            "name": "Linum alpinum Jacq.",
+            "id": "1393605",
+            "score": 0.02582
+        },
+        {
+            "name": "Linum lewisii Pursh",
+            "id": "1412508",
+            "score": 0.00905
+        },
+        {
+            "name": "Linum leonii F.W.Schultz",
+            "id": "1393608",
+            "score": 0.00534
+        },
+        {
+            "name": "Linum usitatissimum L.",
+            "id": "1356040",
+            "score": 0.00283
+        },
+        {
+            "name": "Linum narbonense L.",
+            "id": "1359596",
+            "score": 0.00112
+        }
+    ]
+}

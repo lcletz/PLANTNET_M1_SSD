@@ -1,0 +1,40 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Buddleja japonica Hemsl.",
+            "id": "1389573",
+            "score": 0.72851
+        },
+        {
+            "name": "Buddleja davidii Franch.",
+            "id": "1365253",
+            "score": 0.35427
+        },
+        {
+            "name": "Veronica spicata L.",
+            "id": "1397522",
+            "score": 0.00937
+        },
+        {
+            "name": "Buddleja albiflora Hemsl.",
+            "id": "1389571",
+            "score": 0.00898
+        },
+        {
+            "name": "Veronica longifolia L.",
+            "id": "1397056",
+            "score": 0.00406
+        },
+        {
+            "name": "Mentha longifolia (L.) L.",
+            "id": "1356107",
+            "score": 0.00164
+        },
+        {
+            "name": "Buddleja lindleyana Fortune",
+            "id": "1420669",
+            "score": 0.00117
+        }
+    ]
+}

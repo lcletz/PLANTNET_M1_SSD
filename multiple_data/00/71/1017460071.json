@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Orchis pauciflora Ten.",
+            "id": "1363014",
+            "score": 0.7284
+        },
+        {
+            "name": "Orchis pallens L.",
+            "id": "1394280",
+            "score": 0.01691
+        },
+        {
+            "name": "Orchis provincialis Balb. ex Lam. & DC.",
+            "id": "1628961",
+            "score": 0.00748
+        },
+        {
+            "name": "Narcissus dubius Gouan",
+            "id": "1393921",
+            "score": 0.00584
+        },
+        {
+            "name": "Narcissus tazetta L.",
+            "id": "1360971",
+            "score": 0.00508
+        },
+        {
+            "name": "Dactylorhiza sambucina (L.) Soó",
+            "id": "1391605",
+            "score": 0.00395
+        },
+        {
+            "name": "Dactylorhiza romana (Sebast.) Soó",
+            "id": "1362073",
+            "score": 0.00323
+        },
+        {
+            "name": "Narcissus triandrus L.",
+            "id": "1393932",
+            "score": 0.00222
+        },
+        {
+            "name": "Linaria supina (L.) Chaz.",
+            "id": "1362465",
+            "score": 0.00179
+        },
+        {
+            "name": "Orchis × penzigiana A.Camus",
+            "id": "1628956",
+            "score": 0.00148
+        },
+        {
+            "name": "Ophrys sphegodes Mill.",
+            "id": "1361669",
+            "score": 0.00145
+        },
+        {
+            "name": "Dactylorhiza insularis (Sommier) Landwehr",
+            "id": "1743356",
+            "score": 0.00139
+        }
+    ]
+}

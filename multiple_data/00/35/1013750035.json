@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Carex flava L.",
+            "id": "1361056",
+            "score": 0.86949
+        },
+        {
+            "name": "Carex lepidocarpa Tausch",
+            "id": "1390852",
+            "score": 0.05593
+        },
+        {
+            "name": "Carex demissa Hornem.",
+            "id": "1361047",
+            "score": 0.02065
+        },
+        {
+            "name": "Carex oederi Retz.",
+            "id": "1720902",
+            "score": 0.00985
+        },
+        {
+            "name": "Carex echinata Murray",
+            "id": "1361051",
+            "score": 0.002
+        },
+        {
+            "name": "Carex otrubae Podp.",
+            "id": "1390879",
+            "score": 0.00125
+        }
+    ]
+}

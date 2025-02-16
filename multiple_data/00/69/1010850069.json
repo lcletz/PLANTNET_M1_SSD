@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Spergula arvensis L.",
+            "id": "1356538",
+            "score": 0.89941
+        },
+        {
+            "name": "Spergula pentandra L.",
+            "id": "1357061",
+            "score": 0.00984
+        },
+        {
+            "name": "Sabulina verna (L.) Rchb.",
+            "id": "1738699",
+            "score": 0.00699
+        },
+        {
+            "name": "Dichodon viscidum (M.Bieb.) Holub",
+            "id": "1741833",
+            "score": 0.00379
+        },
+        {
+            "name": "Stellaria graminea L.",
+            "id": "1396446",
+            "score": 0.00231
+        },
+        {
+            "name": "Spergularia marina (L.) Besser",
+            "id": "1357070",
+            "score": 0.00197
+        },
+        {
+            "name": "Linum catharticum L.",
+            "id": "1359592",
+            "score": 0.00193
+        }
+    ]
+}

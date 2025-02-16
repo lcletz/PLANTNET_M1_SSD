@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Solanum dulcamara L.",
+            "id": "1360566",
+            "score": 0.67549
+        },
+        {
+            "name": "Solanum villosum Mill.",
+            "id": "1361993",
+            "score": 0.04915
+        },
+        {
+            "name": "Lycium ferocissimum Miers",
+            "id": "1356145",
+            "score": 0.00768
+        },
+        {
+            "name": "Solanum betaceum Cav.",
+            "id": "1407911",
+            "score": 0.00146
+        },
+        {
+            "name": "Solanum chenopodioides Lam.",
+            "id": "1356162",
+            "score": 0.00111
+        },
+        {
+            "name": "Salpichroa origanifolia (Lam.) Baill.",
+            "id": "1360562",
+            "score": 0.00109
+        }
+    ]
+}

@@ -1,0 +1,385 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Argentina anserina (L.) Rydb.",
+            "id": "1396261",
+            "score": 0.12511
+        },
+        {
+            "name": "Sanguisorba minor Scop.",
+            "id": "1356303",
+            "score": 0.04904
+        },
+        {
+            "name": "Potentilla tobolensis Th.Wolf ex Pavlov",
+            "id": "1667871",
+            "score": 0.02746
+        },
+        {
+            "name": "Pimpinella saxifraga L.",
+            "id": "1394593",
+            "score": 0.02668
+        },
+        {
+            "name": "Sanguisorba officinalis L.",
+            "id": "1395920",
+            "score": 0.01988
+        },
+        {
+            "name": "Conium maculatum L.",
+            "id": "1363216",
+            "score": 0.01788
+        },
+        {
+            "name": "Coriandrum sativum L.",
+            "id": "1363224",
+            "score": 0.01598
+        },
+        {
+            "name": "Tagetes erecta L.",
+            "id": "1374048",
+            "score": 0.01419
+        },
+        {
+            "name": "Erodium cicutarium (L.) L'Hér.",
+            "id": "1355994",
+            "score": 0.01327
+        },
+        {
+            "name": "Chamaemelum nobile (L.) All.",
+            "id": "1357465",
+            "score": 0.01146
+        },
+        {
+            "name": "Tagetes tenuifolia Cav.",
+            "id": "1389492",
+            "score": 0.01086
+        },
+        {
+            "name": "Ranunculus arvensis L.",
+            "id": "1360188",
+            "score": 0.01076
+        },
+        {
+            "name": "Artemisia annua L.",
+            "id": "1382106",
+            "score": 0.00978
+        },
+        {
+            "name": "Pimpinella major (L.) Huds.",
+            "id": "1394592",
+            "score": 0.00771
+        },
+        {
+            "name": "Cardamine impatiens L.",
+            "id": "1397337",
+            "score": 0.00701
+        },
+        {
+            "name": "Ononis minutissima L.",
+            "id": "1359410",
+            "score": 0.00691
+        },
+        {
+            "name": "Rorippa sylvestris (L.) Besser",
+            "id": "1358416",
+            "score": 0.00671
+        },
+        {
+            "name": "Torilis arvensis (Huds.) Link",
+            "id": "1363212",
+            "score": 0.0065
+        },
+        {
+            "name": "Erodium botrys (Cav.) Bertol.",
+            "id": "1355991",
+            "score": 0.00625
+        },
+        {
+            "name": "Tanacetum corymbosum (L.) Sch.Bip.",
+            "id": "1397508",
+            "score": 0.00614
+        },
+        {
+            "name": "Potentilla recta L.",
+            "id": "1360313",
+            "score": 0.00593
+        },
+        {
+            "name": "Phacelia tanacetifolia Benth.",
+            "id": "1363358",
+            "score": 0.00571
+        },
+        {
+            "name": "Potentilla supina L.",
+            "id": "1363992",
+            "score": 0.0049
+        },
+        {
+            "name": "Potentilla pensylvanica L.",
+            "id": "1362361",
+            "score": 0.00473
+        },
+        {
+            "name": "Pimpinella anisum L.",
+            "id": "1363222",
+            "score": 0.00459
+        },
+        {
+            "name": "Aethusa cynapium L.",
+            "id": "1360608",
+            "score": 0.00458
+        },
+        {
+            "name": "Daucus carota L.",
+            "id": "1363227",
+            "score": 0.00436
+        },
+        {
+            "name": "Cotula australis Hook.f.",
+            "id": "1722671",
+            "score": 0.0039
+        },
+        {
+            "name": "Trifolium fragiferum L.",
+            "id": "1356278",
+            "score": 0.00373
+        },
+        {
+            "name": "Potentilla anglica Laichard.",
+            "id": "1360304",
+            "score": 0.00372
+        },
+        {
+            "name": "Urtica pilulifera L.",
+            "id": "1360831",
+            "score": 0.00352
+        },
+        {
+            "name": "Lepidium didymum L.",
+            "id": "1363892",
+            "score": 0.00345
+        },
+        {
+            "name": "Anthemis arvensis L.",
+            "id": "1364154",
+            "score": 0.00341
+        },
+        {
+            "name": "Matricaria chamomilla L.",
+            "id": "1362332",
+            "score": 0.00338
+        },
+        {
+            "name": "Rorippa amphibia (L.) Besser",
+            "id": "1358413",
+            "score": 0.00327
+        },
+        {
+            "name": "Torilis nodosa (L.) Gaertn.",
+            "id": "1363213",
+            "score": 0.0031
+        },
+        {
+            "name": "Erodium ciconium (L.) L'Hér.",
+            "id": "1358643",
+            "score": 0.003
+        },
+        {
+            "name": "Cota tinctoria (L.) J.Gay",
+            "id": "1417804",
+            "score": 0.00295
+        },
+        {
+            "name": "Melianthus comosus Vahl",
+            "id": "1419486",
+            "score": 0.00289
+        },
+        {
+            "name": "Urtica urens L.",
+            "id": "1356201",
+            "score": 0.00282
+        },
+        {
+            "name": "Ammi majus L.",
+            "id": "1363217",
+            "score": 0.00268
+        },
+        {
+            "name": "Filipendula vulgaris Moench",
+            "id": "1360297",
+            "score": 0.00263
+        },
+        {
+            "name": "Vicia lens (L.) Coss. & Germ.",
+            "id": "1741669",
+            "score": 0.00247
+        },
+        {
+            "name": "Potentilla reptans L.",
+            "id": "1363993",
+            "score": 0.00242
+        },
+        {
+            "name": "Potentilla gracilis Douglas ex Hook.",
+            "id": "1413302",
+            "score": 0.00235
+        },
+        {
+            "name": "Vicia bithynica (L.) L.",
+            "id": "1359551",
+            "score": 0.00216
+        },
+        {
+            "name": "Hippocrepis comosa L.",
+            "id": "1392775",
+            "score": 0.00214
+        },
+        {
+            "name": "Tagetes minuta L.",
+            "id": "1364158",
+            "score": 0.00213
+        },
+        {
+            "name": "Anthemis cotula L.",
+            "id": "1364155",
+            "score": 0.00212
+        },
+        {
+            "name": "Cicer arietinum L.",
+            "id": "1363794",
+            "score": 0.00208
+        },
+        {
+            "name": "Conopodium majus (Gouan) Loret",
+            "id": "1360674",
+            "score": 0.00207
+        },
+        {
+            "name": "Tanacetum vulgare L.",
+            "id": "1396512",
+            "score": 0.00202
+        },
+        {
+            "name": "Cardamine parviflora L.",
+            "id": "1363885",
+            "score": 0.00202
+        },
+        {
+            "name": "Potentilla chinensis Ser.",
+            "id": "1667695",
+            "score": 0.00199
+        },
+        {
+            "name": "Bonnaya ciliata (Colsm.) Spreng.",
+            "id": "1719810",
+            "score": 0.00181
+        },
+        {
+            "name": "Selaginella eurynota A.Braun",
+            "id": "1824264",
+            "score": 0.00177
+        },
+        {
+            "name": "Spergula arvensis L.",
+            "id": "1356538",
+            "score": 0.00166
+        },
+        {
+            "name": "Ipomoea coptica (L.) Roth",
+            "id": "1426341",
+            "score": 0.00161
+        },
+        {
+            "name": "Bifora testiculata (L.) Spreng.",
+            "id": "1360620",
+            "score": 0.00155
+        },
+        {
+            "name": "Cardamine flexuosa With.",
+            "id": "1363883",
+            "score": 0.00143
+        },
+        {
+            "name": "Vachellia campeachiana (Mill.) Seigler & Ebinger",
+            "id": "1820116",
+            "score": 0.00143
+        },
+        {
+            "name": "Bunias erucago L.",
+            "id": "1363920",
+            "score": 0.00142
+        },
+        {
+            "name": "Acaena microphylla Hook.f.",
+            "id": "1420333",
+            "score": 0.00137
+        },
+        {
+            "name": "Potentilla norvegica L.",
+            "id": "1394867",
+            "score": 0.00133
+        },
+        {
+            "name": "Anthriscus caucalis M.Bieb.",
+            "id": "1394851",
+            "score": 0.00131
+        },
+        {
+            "name": "Acaena poeppigiana Gay",
+            "id": "1666245",
+            "score": 0.00131
+        },
+        {
+            "name": "Polygala calcarea F.W.Schultz",
+            "id": "1394730",
+            "score": 0.0013
+        },
+        {
+            "name": "Senecio ampullaceus Hook.",
+            "id": "1438078",
+            "score": 0.0013
+        },
+        {
+            "name": "Roemeria argemone (L.) C.Morales, R.Mend. & Romero García",
+            "id": "1737479",
+            "score": 0.00126
+        },
+        {
+            "name": "Cardamine concatenata (Michx.) O.Schwarz",
+            "id": "1479755",
+            "score": 0.00124
+        },
+        {
+            "name": "Cyperus reduncus Hochst. ex Boeckeler",
+            "id": "1386604",
+            "score": 0.00122
+        },
+        {
+            "name": "Erodium acaule (L.) Bech. & Thell.",
+            "id": "1361805",
+            "score": 0.00122
+        },
+        {
+            "name": "Nigella damascena L.",
+            "id": "1360185",
+            "score": 0.00119
+        },
+        {
+            "name": "Bidens pilosa L.",
+            "id": "1364143",
+            "score": 0.00119
+        },
+        {
+            "name": "Cardamine pratensis L.",
+            "id": "1358213",
+            "score": 0.00103
+        },
+        {
+            "name": "Eleusine indica (L.) Gaertn.",
+            "id": "1361245",
+            "score": 0.00103
+        }
+    ]
+}

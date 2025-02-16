@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Euphorbia amygdaloides L.",
+            "id": "1358525",
+            "score": 0.93471
+        },
+        {
+            "name": "Euphorbia × martini Rouy",
+            "id": "1545589",
+            "score": 0.00511
+        },
+        {
+            "name": "Euphorbia characias L.",
+            "id": "1358543",
+            "score": 0.00286
+        },
+        {
+            "name": "Euphorbia dulcis L.",
+            "id": "1392156",
+            "score": 0.00143
+        },
+        {
+            "name": "Euphorbia epithymoides L.",
+            "id": "1358550",
+            "score": 0.00142
+        },
+        {
+            "name": "Cerinthe glabra Mill.",
+            "id": "1391100",
+            "score": 0.00142
+        }
+    ]
+}

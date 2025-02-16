@@ -1,0 +1,55 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Brassica oleracea L.",
+            "id": "1363909",
+            "score": 0.47408
+        },
+        {
+            "name": "Crambe maritima L.",
+            "id": "1391425",
+            "score": 0.37598
+        },
+        {
+            "name": "Brassica montana Pourr.",
+            "id": "1389320",
+            "score": 0.04493
+        },
+        {
+            "name": "Brassica napus L.",
+            "id": "1363908",
+            "score": 0.01076
+        },
+        {
+            "name": "Brassica rapa L.",
+            "id": "1363906",
+            "score": 0.00489
+        },
+        {
+            "name": "Beta vulgaris L.",
+            "id": "1363199",
+            "score": 0.00357
+        },
+        {
+            "name": "Brassica rupestris Raf.",
+            "id": "1398959",
+            "score": 0.00356
+        },
+        {
+            "name": "Crambe hispanica L.",
+            "id": "1363895",
+            "score": 0.00276
+        },
+        {
+            "name": "Hirschfeldia incana (L.) Lagr.-Foss.",
+            "id": "1363911",
+            "score": 0.00219
+        },
+        {
+            "name": "Hyoscyamus albus L.",
+            "id": "1360550",
+            "score": 0.00213
+        }
+    ]
+}

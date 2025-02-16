@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Populus × canescens (Aiton) Sm.",
+            "id": "1683819",
+            "score": 0.52347
+        },
+        {
+            "name": "Populus alba L.",
+            "id": "1364046",
+            "score": 0.40162
+        },
+        {
+            "name": "Populus tremula L.",
+            "id": "1360449",
+            "score": 0.04795
+        },
+        {
+            "name": "Juglans regia L.",
+            "id": "1358713",
+            "score": 0.00368
+        },
+        {
+            "name": "Fraxinus americana L.",
+            "id": "1397619",
+            "score": 0.00272
+        },
+        {
+            "name": "Populus laurifolia Ledeb.",
+            "id": "1683849",
+            "score": 0.00235
+        }
+    ]
+}

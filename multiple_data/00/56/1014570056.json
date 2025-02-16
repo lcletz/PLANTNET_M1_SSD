@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Verbena officinalis L.",
+            "id": "1360860",
+            "score": 0.89266
+        },
+        {
+            "name": "Verbena brasiliensis Vell.",
+            "id": "1378797",
+            "score": 0.02668
+        },
+        {
+            "name": "Verbena litoralis Kunth",
+            "id": "1398545",
+            "score": 0.00962
+        },
+        {
+            "name": "Verbena menthifolia Benth.",
+            "id": "1439507",
+            "score": 0.00596
+        },
+        {
+            "name": "Verbena halei Small",
+            "id": "1439504",
+            "score": 0.00455
+        },
+        {
+            "name": "Erucaria hispanica (L.) Druce",
+            "id": "1363922",
+            "score": 0.00205
+        }
+    ]
+}

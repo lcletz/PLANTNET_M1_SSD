@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Potentilla recta L.",
+            "id": "1360313",
+            "score": 0.86445
+        },
+        {
+            "name": "Potentilla hirta L.",
+            "id": "1362360",
+            "score": 0.07071
+        },
+        {
+            "name": "Potentilla gracilis Douglas ex Hook.",
+            "id": "1413302",
+            "score": 0.00819
+        },
+        {
+            "name": "Potentilla pedata Willd. ex Hornem.",
+            "id": "1399781",
+            "score": 0.00674
+        },
+        {
+            "name": "Potentilla inclinata Vill.",
+            "id": "1394855",
+            "score": 0.00369
+        },
+        {
+            "name": "Potentilla simplex Michx.",
+            "id": "1413317",
+            "score": 0.00218
+        },
+        {
+            "name": "Potentilla argentea L.",
+            "id": "1394830",
+            "score": 0.00132
+        }
+    ]
+}

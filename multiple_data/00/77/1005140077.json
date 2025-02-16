@@ -1,0 +1,300 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Juniperus oxycedrus L.",
+            "id": "1393365",
+            "score": 0.78772
+        },
+        {
+            "name": "Juniperus cedrus Webb & Berthel.",
+            "id": "1399864",
+            "score": 0.07733
+        },
+        {
+            "name": "Juniperus virginiana L.",
+            "id": "1393370",
+            "score": 0.04704
+        },
+        {
+            "name": "Cupressus sempervirens L.",
+            "id": "1391488",
+            "score": 0.03415
+        },
+        {
+            "name": "Cryptomeria japonica (Thunb. ex L.f.) D.Don",
+            "id": "1418585",
+            "score": 0.02451
+        },
+        {
+            "name": "Juniperus communis L.",
+            "id": "1393364",
+            "score": 0.01859
+        },
+        {
+            "name": "Juniperus osteosperma (Torr.) Little",
+            "id": "1388821",
+            "score": 0.01637
+        },
+        {
+            "name": "Juniperus phoenicea L.",
+            "id": "1393366",
+            "score": 0.0163
+        },
+        {
+            "name": "Sequoia sempervirens (D.Don) Endl.",
+            "id": "1396213",
+            "score": 0.01105
+        },
+        {
+            "name": "Eucalyptus globulus Labill.",
+            "id": "1356282",
+            "score": 0.00832
+        },
+        {
+            "name": "Juniperus occidentalis Hook.",
+            "id": "1433461",
+            "score": 0.00779
+        },
+        {
+            "name": "Taxus baccata L.",
+            "id": "1396710",
+            "score": 0.00701
+        },
+        {
+            "name": "Schinus molle L.",
+            "id": "1363642",
+            "score": 0.0049
+        },
+        {
+            "name": "Juniperus thurifera L.",
+            "id": "1393369",
+            "score": 0.00455
+        },
+        {
+            "name": "Calocedrus decurrens (Torr.) Florin",
+            "id": "1390644",
+            "score": 0.00454
+        },
+        {
+            "name": "Asparagus aphyllus L.",
+            "id": "1361002",
+            "score": 0.00443
+        },
+        {
+            "name": "Platycladus orientalis (L.) Franco",
+            "id": "1394647",
+            "score": 0.00436
+        },
+        {
+            "name": "Juniperus macrocarpa Sm.",
+            "id": "1701525",
+            "score": 0.00366
+        },
+        {
+            "name": "Cupressus pendula Thunb.",
+            "id": "1720952",
+            "score": 0.00317
+        },
+        {
+            "name": "Westringia fruticosa (Willd.) Druce",
+            "id": "1564927",
+            "score": 0.00308
+        },
+        {
+            "name": "Juniperus flaccida Schltdl.",
+            "id": "1433459",
+            "score": 0.00296
+        },
+        {
+            "name": "Hesperocyparis arizonica (Greene) Bartel",
+            "id": "1432840",
+            "score": 0.00292
+        },
+        {
+            "name": "Thuja occidentalis L.",
+            "id": "1396760",
+            "score": 0.00262
+        },
+        {
+            "name": "Juniperus foetidissima Willd.",
+            "id": "1701516",
+            "score": 0.0022
+        },
+        {
+            "name": "Hesperocyparis lusitanica (Mill.) Bartel",
+            "id": "1738619",
+            "score": 0.00173
+        },
+        {
+            "name": "Salvia rosmarinus Spenn.",
+            "id": "1722409",
+            "score": 0.00171
+        },
+        {
+            "name": "Juniperus drupacea Labill.",
+            "id": "1397755",
+            "score": 0.00164
+        },
+        {
+            "name": "Juniperus seravschanica Kom.",
+            "id": "1764240",
+            "score": 0.00164
+        },
+        {
+            "name": "Taxodium distichum (L.) Rich.",
+            "id": "1396709",
+            "score": 0.00161
+        },
+        {
+            "name": "Eucalyptus gunnii Hook.f.",
+            "id": "1392139",
+            "score": 0.00155
+        },
+        {
+            "name": "Juniperus navicularis Gand.",
+            "id": "1701533",
+            "score": 0.0013
+        },
+        {
+            "name": "Elaeagnus angustifolia L.",
+            "id": "1358494",
+            "score": 0.00125
+        },
+        {
+            "name": "Thuja plicata Donn ex D.Don",
+            "id": "1418597",
+            "score": 0.00124
+        },
+        {
+            "name": "Hypericum lanceolatum Lam.",
+            "id": "1408214",
+            "score": 0.00123
+        },
+        {
+            "name": "Asparagus densiflorus (Kunth) Jessop",
+            "id": "1386163",
+            "score": 0.00113
+        },
+        {
+            "name": "Metasequoia glyptostroboides Hu & W.C.Cheng",
+            "id": "1396708",
+            "score": 0.00102
+        },
+        {
+            "name": "Juniperus deltoides R.P.Adams",
+            "id": "1701512",
+            "score": 0.00101
+        },
+        {
+            "name": "Cupressus cashmeriana Royle ex Carrière",
+            "id": "1418586",
+            "score": 0.00086
+        },
+        {
+            "name": "Hesperocyparis macrocarpa (Hartw.) Bartel",
+            "id": "1432847",
+            "score": 0.00077
+        },
+        {
+            "name": "Tetraclinis articulata (Vahl) Mast.",
+            "id": "1398830",
+            "score": 0.00075
+        },
+        {
+            "name": "Eucalyptus camaldulensis Dehnh.",
+            "id": "1361792",
+            "score": 0.00073
+        },
+        {
+            "name": "Podocarpus neriifolius D.Don",
+            "id": "1420124",
+            "score": 0.00067
+        },
+        {
+            "name": "Chamaecyparis lawsoniana (A.Murray bis) Parl.",
+            "id": "1418584",
+            "score": 0.00064
+        },
+        {
+            "name": "Eucalyptus polyanthemos S.Schauer",
+            "id": "1752272",
+            "score": 0.00061
+        },
+        {
+            "name": "Juniperus rigida Siebold & Zucc.",
+            "id": "1418591",
+            "score": 0.0005
+        },
+        {
+            "name": "Fitzroya cupressoides (Molina) I.M.Johnst.",
+            "id": "1388923",
+            "score": 0.00048
+        },
+        {
+            "name": "Castanea sativa Mill.",
+            "id": "1358610",
+            "score": 0.00047
+        },
+        {
+            "name": "Juniperus deppeana Steud.",
+            "id": "1433458",
+            "score": 0.00043
+        },
+        {
+            "name": "Washingtonia robusta H.Wendl.",
+            "id": "1397225",
+            "score": 0.00043
+        },
+        {
+            "name": "Callitris sulcata (Parl.) Schltr.",
+            "id": "1415481",
+            "score": 0.00041
+        },
+        {
+            "name": "Hesperocyparis goveniana (Gordon) Bartel",
+            "id": "1432844",
+            "score": 0.00041
+        },
+        {
+            "name": "Juniperus sabina L.",
+            "id": "1393367",
+            "score": 0.00039
+        },
+        {
+            "name": "Casuarina cunninghamiana Miq.",
+            "id": "1361847",
+            "score": 0.00037
+        },
+        {
+            "name": "Juniperus canariensis Guyot & Mathou",
+            "id": "1722425",
+            "score": 0.00033
+        },
+        {
+            "name": "Eucalyptus stenostoma L.A.S.Johnson & Blaxell",
+            "id": "1604115",
+            "score": 0.00032
+        },
+        {
+            "name": "Juniperus excelsa M.Bieb.",
+            "id": "1389998",
+            "score": 0.00031
+        },
+        {
+            "name": "Juniperus scopulorum Sarg.",
+            "id": "1388823",
+            "score": 0.00031
+        },
+        {
+            "name": "Juniperus saltuaria Rehder & E.H.Wilson",
+            "id": "1701542",
+            "score": 0.00031
+        },
+        {
+            "name": "Eucalyptus strzeleckii Rule",
+            "id": "1604123",
+            "score": 0.00028
+        }
+    ]
+}

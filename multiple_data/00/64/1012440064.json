@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Camellia sasanqua Thunb.",
+            "id": "1379181",
+            "score": 0.83015
+        },
+        {
+            "name": "Camellia japonica L.",
+            "id": "1379149",
+            "score": 0.05764
+        },
+        {
+            "name": "Camellia saluenensis Stapf ex Bean",
+            "id": "1390645",
+            "score": 0.00456
+        },
+        {
+            "name": "Camellia × williamsii W.W.Sm.",
+            "id": "1843870",
+            "score": 0.00438
+        },
+        {
+            "name": "Camellia cuspidata (Kochs) Bean",
+            "id": "1693086",
+            "score": 0.00143
+        }
+    ]
+}

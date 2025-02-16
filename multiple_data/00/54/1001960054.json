@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Vitis vinifera L.",
+            "id": "1356217",
+            "score": 0.74845
+        },
+        {
+            "name": "Vitis aestivalis Michx.",
+            "id": "1397210",
+            "score": 0.18494
+        },
+        {
+            "name": "Vitis rotundifolia Michx.",
+            "id": "1397212",
+            "score": 0.00783
+        },
+        {
+            "name": "Vitis vulpina L.",
+            "id": "1397214",
+            "score": 0.00522
+        },
+        {
+            "name": "Vitis riparia Michx.",
+            "id": "1363006",
+            "score": 0.00236
+        },
+        {
+            "name": "Vitis labrusca L.",
+            "id": "1363005",
+            "score": 0.00233
+        },
+        {
+            "name": "Vitis rupestris Scheele",
+            "id": "1397213",
+            "score": 0.00158
+        },
+        {
+            "name": "Vitis californica Benth.",
+            "id": "1420837",
+            "score": 0.00127
+        },
+        {
+            "name": "Vitis mustangensis Buckley",
+            "id": "1439648",
+            "score": 0.00123
+        }
+    ]
+}

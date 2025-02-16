@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Epilobium angustifolium L.",
+            "id": "1359681",
+            "score": 0.73016
+        },
+        {
+            "name": "Epilobium dodonaei Vill.",
+            "id": "1391896",
+            "score": 0.15129
+        },
+        {
+            "name": "Epilobium fleischeri Hochst.",
+            "id": "1609681",
+            "score": 0.00595
+        },
+        {
+            "name": "Oenothera gaura W.L.Wagner & Hoch",
+            "id": "1390070",
+            "score": 0.00393
+        },
+        {
+            "name": "Cleome spinosa Jacq.",
+            "id": "1381489",
+            "score": 0.0014
+        },
+        {
+            "name": "Oenothera lindheimeri (Engelm. & A.Gray) W.L.Wagner & Hoch",
+            "id": "1390068",
+            "score": 0.00128
+        }
+    ]
+}

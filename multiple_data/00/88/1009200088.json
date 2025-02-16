@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Tilia × europaea L.",
+            "id": "1595800",
+            "score": 0.73389
+        },
+        {
+            "name": "Tilia cordata Mill.",
+            "id": "1396797",
+            "score": 0.09729
+        },
+        {
+            "name": "Tilia platyphyllos Scop.",
+            "id": "1396802",
+            "score": 0.0363
+        },
+        {
+            "name": "Tilia americana L.",
+            "id": "1397800",
+            "score": 0.02203
+        },
+        {
+            "name": "Tilia dasystyla Steven",
+            "id": "1595796",
+            "score": 0.01109
+        },
+        {
+            "name": "Dombeya wallichii (Lindl.) Benth. ex Baill.",
+            "id": "1759669",
+            "score": 0.00267
+        },
+        {
+            "name": "Acer distylum Siebold & Zucc.",
+            "id": "1685256",
+            "score": 0.00256
+        },
+        {
+            "name": "Corylus colurna L.",
+            "id": "1397579",
+            "score": 0.00156
+        }
+    ]
+}

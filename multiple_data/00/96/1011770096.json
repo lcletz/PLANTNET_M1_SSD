@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dryas octopetala L.",
+            "id": "1391797",
+            "score": 0.91377
+        },
+        {
+            "name": "Pulsatilla alpina (L.) Delarbre",
+            "id": "1741754",
+            "score": 0.01375
+        },
+        {
+            "name": "Ranunculus alpestris L.",
+            "id": "1397471",
+            "score": 0.00426
+        },
+        {
+            "name": "Dryas drummondii Richardson ex Hook.",
+            "id": "1411823",
+            "score": 0.00169
+        },
+        {
+            "name": "Rosa spinosissima L.",
+            "id": "1360350",
+            "score": 0.00106
+        }
+    ]
+}

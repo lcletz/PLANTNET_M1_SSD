@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Acanthus mollis L.",
+            "id": "1356448",
+            "score": 0.86387
+        },
+        {
+            "name": "Acanthus spinosus L.",
+            "id": "1356449",
+            "score": 0.08008
+        },
+        {
+            "name": "Digitalis lanata Ehrh.",
+            "id": "1397916",
+            "score": 0.00446
+        },
+        {
+            "name": "Salvia argentea L.",
+            "id": "1358860",
+            "score": 0.00321
+        },
+        {
+            "name": "Salvia sclarea L.",
+            "id": "1358876",
+            "score": 0.00121
+        }
+    ]
+}

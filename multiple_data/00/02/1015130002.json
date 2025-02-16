@@ -1,0 +1,25 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus lusitanica L.",
+            "id": "1360322",
+            "score": 0.95145
+        },
+        {
+            "name": "Prunus virginiana L.",
+            "id": "1394955",
+            "score": 0.00161
+        },
+        {
+            "name": "Prunus africana (Hook.f.) Kalkman",
+            "id": "1667898",
+            "score": 0.00153
+        },
+        {
+            "name": "Prunus serotina Ehrh.",
+            "id": "1370859",
+            "score": 0.00136
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Solanum melongena L.",
+            "id": "1356172",
+            "score": 0.94226
+        },
+        {
+            "name": "Solanum aethiopicum L.",
+            "id": "1356174",
+            "score": 0.0044
+        },
+        {
+            "name": "Solanum campylacanthum Hochst. ex A.Rich.",
+            "id": "1749650",
+            "score": 0.00434
+        },
+        {
+            "name": "Solanum torvum Sw.",
+            "id": "1377910",
+            "score": 0.00233
+        },
+        {
+            "name": "Solanum betaceum Cav.",
+            "id": "1407911",
+            "score": 0.00215
+        },
+        {
+            "name": "Solanum incanum L.",
+            "id": "1360569",
+            "score": 0.00206
+        },
+        {
+            "name": "Datura innoxia Mill.",
+            "id": "1391658",
+            "score": 0.00194
+        },
+        {
+            "name": "Solanum bonariense L.",
+            "id": "1360565",
+            "score": 0.00152
+        }
+    ]
+}

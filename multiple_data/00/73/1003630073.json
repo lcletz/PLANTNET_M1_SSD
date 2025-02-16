@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.72624
+        },
+        {
+            "name": "Syringa persica L.",
+            "id": "1419641",
+            "score": 0.17106
+        },
+        {
+            "name": "Syringa oblata Lindl.",
+            "id": "1419640",
+            "score": 0.01463
+        },
+        {
+            "name": "Syringa × chinensis Willd.",
+            "id": "1844886",
+            "score": 0.00203
+        },
+        {
+            "name": "Syringa emodi Wall. ex Royle",
+            "id": "1396500",
+            "score": 0.00191
+        },
+        {
+            "name": "Syringa × hyacinthiflora Rehder",
+            "id": "1844889",
+            "score": 0.00171
+        },
+        {
+            "name": "Syringa villosa Vahl",
+            "id": "1419642",
+            "score": 0.00144
+        },
+        {
+            "name": "Hydrangea arborescens L.",
+            "id": "1393222",
+            "score": 0.00126
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Trifolium angustifolium L.",
+            "id": "1359483",
+            "score": 0.99312
+        },
+        {
+            "name": "Trifolium arvense L.",
+            "id": "1359485",
+            "score": 0.00662
+        },
+        {
+            "name": "Trifolium purpureum Loisel.",
+            "id": "1359518",
+            "score": 0.00476
+        },
+        {
+            "name": "Melica ciliata L.",
+            "id": "1361329",
+            "score": 0.00241
+        },
+        {
+            "name": "Cenchrus ciliaris L.",
+            "id": "1363463",
+            "score": 0.00202
+        },
+        {
+            "name": "Cenchrus violaceus (Lam.) Morrone",
+            "id": "1363023",
+            "score": 0.00145
+        },
+        {
+            "name": "Polypogon monspeliensis (L.) Desf.",
+            "id": "1363402",
+            "score": 0.00139
+        },
+        {
+            "name": "Koeleria vallesiana (Honck.) Gaudin",
+            "id": "1361315",
+            "score": 0.00117
+        },
+        {
+            "name": "Rostraria cristata (L.) Tzvelev",
+            "id": "1361394",
+            "score": 0.00109
+        }
+    ]
+}

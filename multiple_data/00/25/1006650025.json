@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aegopodium podagraria L.",
+            "id": "1389510",
+            "score": 0.88441
+        },
+        {
+            "name": "Chaerophyllum hirsutum L.",
+            "id": "1391112",
+            "score": 0.02047
+        },
+        {
+            "name": "Pimpinella major (L.) Huds.",
+            "id": "1394592",
+            "score": 0.02019
+        },
+        {
+            "name": "Torilis japonica (Houtt.) DC.",
+            "id": "1360816",
+            "score": 0.00395
+        },
+        {
+            "name": "Angelica sylvestris L.",
+            "id": "1394591",
+            "score": 0.00242
+        },
+        {
+            "name": "Torilis arvensis (Huds.) Link",
+            "id": "1363212",
+            "score": 0.00208
+        },
+        {
+            "name": "Peucedanum ostruthium (L.) W.D.J.Koch",
+            "id": "1458391",
+            "score": 0.00167
+        },
+        {
+            "name": "Conopodium majus (Gouan) Loret",
+            "id": "1360674",
+            "score": 0.00153
+        },
+        {
+            "name": "Anthriscus sylvestris (L.) Hoffm.",
+            "id": "1360614",
+            "score": 0.00143
+        },
+        {
+            "name": "Cicuta maculata L.",
+            "id": "1411457",
+            "score": 0.00142
+        },
+        {
+            "name": "Chaerophyllum aromaticum L.",
+            "id": "1399141",
+            "score": 0.00112
+        },
+        {
+            "name": "Aegopodium alpestre Ledeb.",
+            "id": "1456401",
+            "score": 0.00105
+        }
+    ]
+}

@@ -1,0 +1,485 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Forsythia viridissima Lindl.",
+            "id": "1398098",
+            "score": 0.06918
+        },
+        {
+            "name": "Myoporum laetum G.Forst.",
+            "id": "1393874",
+            "score": 0.0422
+        },
+        {
+            "name": "Cestrum nocturnum L.",
+            "id": "1380602",
+            "score": 0.01642
+        },
+        {
+            "name": "Jasminum grandiflorum L.",
+            "id": "1359672",
+            "score": 0.01535
+        },
+        {
+            "name": "Forsythia suspensa (Thunb.) Vahl",
+            "id": "1392356",
+            "score": 0.01504
+        },
+        {
+            "name": "Barleria prionitis L.",
+            "id": "1409074",
+            "score": 0.01467
+        },
+        {
+            "name": "Valeriana lecoqii (Jord.) Christenh. & Byng",
+            "id": "1743865",
+            "score": 0.01355
+        },
+        {
+            "name": "Euonymus europaeus L.",
+            "id": "1392236",
+            "score": 0.01285
+        },
+        {
+            "name": "Calycanthus floridus L.",
+            "id": "1398326",
+            "score": 0.01054
+        },
+        {
+            "name": "Rhamnus saxatilis Jacq.",
+            "id": "1395158",
+            "score": 0.00974
+        },
+        {
+            "name": "Hymenosporum flavum (Hook.) F.Muell.",
+            "id": "1759060",
+            "score": 0.00891
+        },
+        {
+            "name": "Kraussia floribunda Harv.",
+            "id": "1371133",
+            "score": 0.00852
+        },
+        {
+            "name": "Valeriana rubra L.",
+            "id": "1722520",
+            "score": 0.00825
+        },
+        {
+            "name": "Rothmannia capensis Thunb.",
+            "id": "1371849",
+            "score": 0.00775
+        },
+        {
+            "name": "Jasminum officinale L.",
+            "id": "1359673",
+            "score": 0.00716
+        },
+        {
+            "name": "Jasminum multiflorum (Burm.f.) Andrews",
+            "id": "1409175",
+            "score": 0.00713
+        },
+        {
+            "name": "Sarcococca coriacea (Hook.) Sweet",
+            "id": "1729413",
+            "score": 0.00614
+        },
+        {
+            "name": "Rhododendron goodenoughii Sleumer",
+            "id": "1801744",
+            "score": 0.00549
+        },
+        {
+            "name": "Barleria observatrix Bosser & Heine",
+            "id": "1424359",
+            "score": 0.00535
+        },
+        {
+            "name": "Cornus mas L.",
+            "id": "1391354",
+            "score": 0.00521
+        },
+        {
+            "name": "Jasminum multipartitum Hochst.",
+            "id": "1383121",
+            "score": 0.00517
+        },
+        {
+            "name": "Vincetoxicum hirundinaria Medik.",
+            "id": "1356597",
+            "score": 0.00471
+        },
+        {
+            "name": "Cornus racemosa Lam.",
+            "id": "1411549",
+            "score": 0.00357
+        },
+        {
+            "name": "Sarcococca ruscifolia Stapf",
+            "id": "1418166",
+            "score": 0.00357
+        },
+        {
+            "name": "Salix pentandra L.",
+            "id": "1395852",
+            "score": 0.00287
+        },
+        {
+            "name": "Nyctanthes arbor-tristis L.",
+            "id": "1378859",
+            "score": 0.00286
+        },
+        {
+            "name": "Jasminum sambac (L.) Aiton",
+            "id": "1383127",
+            "score": 0.00283
+        },
+        {
+            "name": "Gelsemium sempervirens (L.) J.St.-Hil.",
+            "id": "1419088",
+            "score": 0.00277
+        },
+        {
+            "name": "Andrographis paniculata (Burm.f.) Nees",
+            "id": "1429726",
+            "score": 0.00277
+        },
+        {
+            "name": "Forsythia × intermedia Zabel",
+            "id": "1844237",
+            "score": 0.00262
+        },
+        {
+            "name": "Adansonia digitata L.",
+            "id": "1388738",
+            "score": 0.00262
+        },
+        {
+            "name": "Valeriana angustifolia Mill.",
+            "id": "1743107",
+            "score": 0.00261
+        },
+        {
+            "name": "Trachelospermum jasminoides (Lindl.) Lem.",
+            "id": "1369887",
+            "score": 0.00242
+        },
+        {
+            "name": "Syringa persica L.",
+            "id": "1419641",
+            "score": 0.00239
+        },
+        {
+            "name": "Cornus florida L.",
+            "id": "1397618",
+            "score": 0.00239
+        },
+        {
+            "name": "Hibiscus boryanus DC.",
+            "id": "1408166",
+            "score": 0.00229
+        },
+        {
+            "name": "Ficus neriifolia Sm.",
+            "id": "1602073",
+            "score": 0.00228
+        },
+        {
+            "name": "Arachnothryx leucophylla (Kunth) Planch.",
+            "id": "1670506",
+            "score": 0.00226
+        },
+        {
+            "name": "Coriaria myrtifolia L.",
+            "id": "1358024",
+            "score": 0.00224
+        },
+        {
+            "name": "Carissa spinarum L.",
+            "id": "1363812",
+            "score": 0.00223
+        },
+        {
+            "name": "Gambelia speciosa Nutt.",
+            "id": "1443899",
+            "score": 0.00218
+        },
+        {
+            "name": "Ligustrum lucidum W.T.Aiton",
+            "id": "1393525",
+            "score": 0.00217
+        },
+        {
+            "name": "Vaccinium corymbosum L.",
+            "id": "1396966",
+            "score": 0.0021
+        },
+        {
+            "name": "Daphne odora Thunb.",
+            "id": "1420792",
+            "score": 0.00202
+        },
+        {
+            "name": "Rubia tinctorum L.",
+            "id": "1360434",
+            "score": 0.002
+        },
+        {
+            "name": "Hedera iberica (McAll.) Ackerf. & J.Wen",
+            "id": "1356581",
+            "score": 0.00199
+        },
+        {
+            "name": "Coptosperma graveolens (S.Moore) Degreef",
+            "id": "1671879",
+            "score": 0.00199
+        },
+        {
+            "name": "Euonymus latifolius (L.) Mill.",
+            "id": "1392238",
+            "score": 0.00199
+        },
+        {
+            "name": "Cornus hongkongensis Hemsl.",
+            "id": "1418492",
+            "score": 0.00194
+        },
+        {
+            "name": "Ligustrum japonicum Thunb.",
+            "id": "1397735",
+            "score": 0.00191
+        },
+        {
+            "name": "Osmanthus fragrans Lour.",
+            "id": "1394028",
+            "score": 0.00191
+        },
+        {
+            "name": "Prunus salicina Lindl.",
+            "id": "1420425",
+            "score": 0.00191
+        },
+        {
+            "name": "Paeonia officinalis L.",
+            "id": "1362842",
+            "score": 0.00187
+        },
+        {
+            "name": "Sambucus canadensis L.",
+            "id": "1356462",
+            "score": 0.00184
+        },
+        {
+            "name": "Pleroma semidecandrum (Schrank & Mart. ex DC.) Triana",
+            "id": "1784017",
+            "score": 0.00184
+        },
+        {
+            "name": "Cinnamomum camphora (L.) J.Presl",
+            "id": "1389656",
+            "score": 0.00182
+        },
+        {
+            "name": "Punica granatum L.",
+            "id": "1359616",
+            "score": 0.00182
+        },
+        {
+            "name": "Daphne mezereum L.",
+            "id": "1391652",
+            "score": 0.00179
+        },
+        {
+            "name": "Agathis robusta (C.Moore ex F.Muell.) F.M.Bailey",
+            "id": "1390487",
+            "score": 0.00175
+        },
+        {
+            "name": "Ligustrum ovalifolium Hassk.",
+            "id": "1393526",
+            "score": 0.00174
+        },
+        {
+            "name": "Paeonia lactiflora Pall.",
+            "id": "1412934",
+            "score": 0.00173
+        },
+        {
+            "name": "Mikania glomerata Spreng.",
+            "id": "1735098",
+            "score": 0.00172
+        },
+        {
+            "name": "Euonymus japonicus Thunb.",
+            "id": "1418419",
+            "score": 0.00171
+        },
+        {
+            "name": "Gardenia jasminoides J.Ellis",
+            "id": "1409220",
+            "score": 0.00169
+        },
+        {
+            "name": "Citrus japonica Thunb.",
+            "id": "1420517",
+            "score": 0.00168
+        },
+        {
+            "name": "Cornus capitata Wall.",
+            "id": "1418489",
+            "score": 0.00166
+        },
+        {
+            "name": "Neolitsea pallens (D.Don) Momiy. & H.Hara",
+            "id": "1728917",
+            "score": 0.00159
+        },
+        {
+            "name": "Celtis laevigata Willd.",
+            "id": "1418375",
+            "score": 0.00159
+        },
+        {
+            "name": "Syringa vulgaris L.",
+            "id": "1396503",
+            "score": 0.00158
+        },
+        {
+            "name": "Hydnophytum radicans Becc.",
+            "id": "1674250",
+            "score": 0.00155
+        },
+        {
+            "name": "Pouzolzia laevigata Gaudich.",
+            "id": "1759662",
+            "score": 0.00153
+        },
+        {
+            "name": "Pyrostegia venusta (Ker Gawl.) Miers",
+            "id": "1388724",
+            "score": 0.00149
+        },
+        {
+            "name": "Cinnamomum sieboldii Meisn.",
+            "id": "1565778",
+            "score": 0.00148
+        },
+        {
+            "name": "Rothmannia fischeri (K.Schum.) Bullock ex Oberm.",
+            "id": "1432221",
+            "score": 0.00146
+        },
+        {
+            "name": "Duranta erecta L.",
+            "id": "1378717",
+            "score": 0.00144
+        },
+        {
+            "name": "Persea americana Mill.",
+            "id": "1364365",
+            "score": 0.00142
+        },
+        {
+            "name": "Celosia argentea L.",
+            "id": "1363271",
+            "score": 0.00141
+        },
+        {
+            "name": "Daphne laureola L.",
+            "id": "1360590",
+            "score": 0.00137
+        },
+        {
+            "name": "Clematis flammula L.",
+            "id": "1360159",
+            "score": 0.00133
+        },
+        {
+            "name": "Diospyros kaki L.f.",
+            "id": "1391735",
+            "score": 0.00129
+        },
+        {
+            "name": "Capsicum frutescens L.",
+            "id": "1356148",
+            "score": 0.00122
+        },
+        {
+            "name": "Hoya fusca Wall.",
+            "id": "1460982",
+            "score": 0.00121
+        },
+        {
+            "name": "Viburnum odoratissimum Ker Gawl.",
+            "id": "1417575",
+            "score": 0.00119
+        },
+        {
+            "name": "Colletoecema tortistilum (K.Schum.) Ntore & O.Lachenaud",
+            "id": "1749815",
+            "score": 0.00118
+        },
+        {
+            "name": "Dianthera candicans (Nees) Benth. & Hook.f. ex Hemsl.",
+            "id": "1791250",
+            "score": 0.00116
+        },
+        {
+            "name": "Rhamnus alaternus L.",
+            "id": "1360260",
+            "score": 0.00113
+        },
+        {
+            "name": "Ligustrum vulgare L.",
+            "id": "1359675",
+            "score": 0.00113
+        },
+        {
+            "name": "Mandevilla sanderi (Hemsl.) Woodson",
+            "id": "1420319",
+            "score": 0.00112
+        },
+        {
+            "name": "Rhododendron simsii Planch.",
+            "id": "1395189",
+            "score": 0.00111
+        },
+        {
+            "name": "Lonicera alpigena L.",
+            "id": "1393630",
+            "score": 0.00111
+        },
+        {
+            "name": "Cornus sanguinea L.",
+            "id": "1397356",
+            "score": 0.00109
+        },
+        {
+            "name": "Campanula carpatica Jacq.",
+            "id": "1390656",
+            "score": 0.00109
+        },
+        {
+            "name": "Lonicera caprifolium L.",
+            "id": "1393632",
+            "score": 0.00107
+        },
+        {
+            "name": "Cistus ladanifer L.",
+            "id": "1357103",
+            "score": 0.00106
+        },
+        {
+            "name": "Caloncoba crepiniana (De Wild. & T.Durand) Gilg",
+            "id": "1447563",
+            "score": 0.00105
+        },
+        {
+            "name": "Pachysandra terminalis Siebold & Zucc.",
+            "id": "1398597",
+            "score": 0.00105
+        }
+    ]
+}

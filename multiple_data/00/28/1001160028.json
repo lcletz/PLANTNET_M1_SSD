@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Alliaria petiolata (M.Bieb.) Cavara & Grande",
+            "id": "1392475",
+            "score": 0.94191
+        },
+        {
+            "name": "Marrubium vulgare L.",
+            "id": "1356123",
+            "score": 0.01289
+        },
+        {
+            "name": "Glechoma hederacea L.",
+            "id": "1358746",
+            "score": 0.01144
+        },
+        {
+            "name": "Leonurus cardiaca L.",
+            "id": "1358768",
+            "score": 0.00201
+        },
+        {
+            "name": "Ballota nigra L.",
+            "id": "1358722",
+            "score": 0.00167
+        },
+        {
+            "name": "Hydrocotyle sibthorpioides Lam.",
+            "id": "1384659",
+            "score": 0.00127
+        }
+    ]
+}

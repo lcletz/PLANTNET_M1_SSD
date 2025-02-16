@@ -1,0 +1,295 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Cupressus sempervirens L.",
+            "id": "1391488",
+            "score": 0.22451
+        },
+        {
+            "name": "Juniperus virginiana L.",
+            "id": "1393370",
+            "score": 0.17199
+        },
+        {
+            "name": "Chamaecyparis lawsoniana (A.Murray bis) Parl.",
+            "id": "1418584",
+            "score": 0.09962
+        },
+        {
+            "name": "Hesperocyparis lusitanica (Mill.) Bartel",
+            "id": "1738619",
+            "score": 0.0496
+        },
+        {
+            "name": "Juniperus horizontalis Moench",
+            "id": "1388819",
+            "score": 0.04402
+        },
+        {
+            "name": "Calocedrus decurrens (Torr.) Florin",
+            "id": "1390644",
+            "score": 0.03101
+        },
+        {
+            "name": "Thuja occidentalis L.",
+            "id": "1396760",
+            "score": 0.02471
+        },
+        {
+            "name": "Chamaecyparis obtusa (Siebold & Zucc.) Endl.",
+            "id": "1398639",
+            "score": 0.01822
+        },
+        {
+            "name": "Juniperus scopulorum Sarg.",
+            "id": "1388823",
+            "score": 0.0176
+        },
+        {
+            "name": "Juniperus thurifera L.",
+            "id": "1393369",
+            "score": 0.01617
+        },
+        {
+            "name": "Juniperus sabina L.",
+            "id": "1393367",
+            "score": 0.01534
+        },
+        {
+            "name": "Juniperus chinensis L.",
+            "id": "1393361",
+            "score": 0.01529
+        },
+        {
+            "name": "Platycladus orientalis (L.) Franco",
+            "id": "1394647",
+            "score": 0.01495
+        },
+        {
+            "name": "Cupressus cashmeriana Royle ex Carrière",
+            "id": "1418586",
+            "score": 0.01434
+        },
+        {
+            "name": "Hesperocyparis arizonica (Greene) Bartel",
+            "id": "1432840",
+            "score": 0.01389
+        },
+        {
+            "name": "Hesperocyparis macrocarpa (Hartw.) Bartel",
+            "id": "1432847",
+            "score": 0.01113
+        },
+        {
+            "name": "Chamaecyparis pisifera (Siebold & Zucc.) Endl.",
+            "id": "1391117",
+            "score": 0.01045
+        },
+        {
+            "name": "Juniperus phoenicea L.",
+            "id": "1393366",
+            "score": 0.0059
+        },
+        {
+            "name": "Tamarix gallica L.",
+            "id": "1364090",
+            "score": 0.00589
+        },
+        {
+            "name": "Thuja plicata Donn ex D.Don",
+            "id": "1418597",
+            "score": 0.00507
+        },
+        {
+            "name": "Chamaecyparis thyoides (L.) Britton, Sterns & Poggenb.",
+            "id": "1398332",
+            "score": 0.00505
+        },
+        {
+            "name": "Juniperus × pfitzeriana (Späth) P.A.Schmidt",
+            "id": "1701535",
+            "score": 0.00322
+        },
+        {
+            "name": "Pinus pinea L.",
+            "id": "1394612",
+            "score": 0.00267
+        },
+        {
+            "name": "Sequoiadendron giganteum (Lindl.) J.Buchholz",
+            "id": "1396214",
+            "score": 0.00193
+        },
+        {
+            "name": "Juniperus osteosperma (Torr.) Little",
+            "id": "1388821",
+            "score": 0.00192
+        },
+        {
+            "name": "Cephalotaxus fortunei Hook.",
+            "id": "1397596",
+            "score": 0.00185
+        },
+        {
+            "name": "Cupressus dupreziana A.Camus",
+            "id": "1388827",
+            "score": 0.0017
+        },
+        {
+            "name": "Juniperus deppeana Steud.",
+            "id": "1433458",
+            "score": 0.00167
+        },
+        {
+            "name": "Juniperus seravschanica Kom.",
+            "id": "1764240",
+            "score": 0.00162
+        },
+        {
+            "name": "Cryptomeria japonica (Thunb. ex L.f.) D.Don",
+            "id": "1418585",
+            "score": 0.00155
+        },
+        {
+            "name": "Juniperus flaccida Schltdl.",
+            "id": "1433459",
+            "score": 0.0015
+        },
+        {
+            "name": "Tamarix canariensis Willd.",
+            "id": "1364089",
+            "score": 0.00118
+        },
+        {
+            "name": "Juniperus squamata D.Don",
+            "id": "1740397",
+            "score": 0.00104
+        },
+        {
+            "name": "Taxus baccata L.",
+            "id": "1396710",
+            "score": 0.00104
+        },
+        {
+            "name": "Juniperus turbinata Guss.",
+            "id": "1743226",
+            "score": 0.00097
+        },
+        {
+            "name": "Casuarina cunninghamiana Miq.",
+            "id": "1361847",
+            "score": 0.00091
+        },
+        {
+            "name": "Acacia dealbata Link",
+            "id": "1363764",
+            "score": 0.00087
+        },
+        {
+            "name": "Eucalyptus camaldulensis Dehnh.",
+            "id": "1361792",
+            "score": 0.0008
+        },
+        {
+            "name": "Melaleuca armillaris (Sol. ex Gaertn.) Sm.",
+            "id": "1419565",
+            "score": 0.00079
+        },
+        {
+            "name": "Eucalyptus globulus Labill.",
+            "id": "1356282",
+            "score": 0.00078
+        },
+        {
+            "name": "Pinus densiflora Siebold & Zucc.",
+            "id": "1390021",
+            "score": 0.00075
+        },
+        {
+            "name": "Melaleuca ericifolia Sm.",
+            "id": "1605582",
+            "score": 0.00068
+        },
+        {
+            "name": "Tamarix ramosissima Ledeb.",
+            "id": "1364085",
+            "score": 0.00065
+        },
+        {
+            "name": "Microbiota decussata Kom.",
+            "id": "1418595",
+            "score": 0.00057
+        },
+        {
+            "name": "Wisteria sinensis (Sims) DC.",
+            "id": "1422166",
+            "score": 0.00056
+        },
+        {
+            "name": "Acacia mearnsii De Wild.",
+            "id": "1363770",
+            "score": 0.00047
+        },
+        {
+            "name": "Pinus halepensis Mill.",
+            "id": "1397460",
+            "score": 0.00046
+        },
+        {
+            "name": "Cupressus pendula Thunb.",
+            "id": "1720952",
+            "score": 0.00042
+        },
+        {
+            "name": "Ceratonia siliqua L.",
+            "id": "1363660",
+            "score": 0.00041
+        },
+        {
+            "name": "× Hesperotropsis leylandii (A.B.Jacks. & Dallim.) Garland & Gerry Moore",
+            "id": "1845039",
+            "score": 0.0004
+        },
+        {
+            "name": "Juniperus oxycedrus L.",
+            "id": "1393365",
+            "score": 0.00038
+        },
+        {
+            "name": "Melaleuca linariifolia Sm.",
+            "id": "1419568",
+            "score": 0.00035
+        },
+        {
+            "name": "Vachellia farnesiana (L.) Wight & Arn.",
+            "id": "1409148",
+            "score": 0.00032
+        },
+        {
+            "name": "Pinus strobus L.",
+            "id": "1394616",
+            "score": 0.00032
+        },
+        {
+            "name": "Acer palmatum Thunb.",
+            "id": "1390731",
+            "score": 0.00032
+        },
+        {
+            "name": "Pinus sylvestris L.",
+            "id": "1394617",
+            "score": 0.0003
+        },
+        {
+            "name": "Tetraclinis articulata (Vahl) Mast.",
+            "id": "1398830",
+            "score": 0.0003
+        },
+        {
+            "name": "Picea laxa (Münchh.) Sarg.",
+            "id": "1737434",
+            "score": 0.00029
+        }
+    ]
+}

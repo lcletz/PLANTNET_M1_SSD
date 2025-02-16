@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Sedum dendroideum Moc. & Sessé ex DC.",
+            "id": "1389308",
+            "score": 0.62877
+        },
+        {
+            "name": "Sedum praealtum A.DC.",
+            "id": "1529305",
+            "score": 0.30507
+        },
+        {
+            "name": "Sedum cepaea L.",
+            "id": "1358103",
+            "score": 0.00564
+        },
+        {
+            "name": "Bacopa monnieri (L.) Wettst.",
+            "id": "1403533",
+            "score": 0.00244
+        },
+        {
+            "name": "Crassula ovata (Mill.) Druce",
+            "id": "1363615",
+            "score": 0.00114
+        },
+        {
+            "name": "Sedum sarmentosum Bunge",
+            "id": "1396143",
+            "score": 0.00111
+        }
+    ]
+}

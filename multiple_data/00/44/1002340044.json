@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Stellaria nemorum L.",
+            "id": "1382174",
+            "score": 0.85673
+        },
+        {
+            "name": "Stellaria graminea L.",
+            "id": "1396446",
+            "score": 0.00409
+        },
+        {
+            "name": "Cerastium arvense L.",
+            "id": "1356817",
+            "score": 0.00297
+        },
+        {
+            "name": "Silene nutans L.",
+            "id": "1357026",
+            "score": 0.00224
+        },
+        {
+            "name": "Stellaria cuspidata Willd. ex D.F.K.Schltdl.",
+            "id": "1818830",
+            "score": 0.00196
+        },
+        {
+            "name": "Stellaria aquatica (L.) Scop.",
+            "id": "1493766",
+            "score": 0.00165
+        },
+        {
+            "name": "Silene portensis L.",
+            "id": "1357031",
+            "score": 0.00149
+        },
+        {
+            "name": "Silene italica (L.) Pers.",
+            "id": "1357004",
+            "score": 0.00142
+        }
+    ]
+}

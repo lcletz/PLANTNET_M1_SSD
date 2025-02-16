@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Arctium tomentosum Mill.",
+            "id": "1396054",
+            "score": 0.3383
+        },
+        {
+            "name": "Arctium minus (Hill) Bernh.",
+            "id": "1357244",
+            "score": 0.10802
+        },
+        {
+            "name": "Arctium lappa L.",
+            "id": "1396002",
+            "score": 0.03748
+        },
+        {
+            "name": "Arctium nemorosum Lej.",
+            "id": "1396028",
+            "score": 0.01299
+        },
+        {
+            "name": "Helichrysum foetidum Moench",
+            "id": "1743803",
+            "score": 0.00118
+        },
+        {
+            "name": "Balsamorhiza deltoidea Nutt.",
+            "id": "1414271",
+            "score": 0.00108
+        },
+        {
+            "name": "Paeonia daurica Andrews",
+            "id": "1419814",
+            "score": 0.00103
+        }
+    ]
+}

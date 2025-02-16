@@ -1,0 +1,55 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Crassula ovata (Mill.) Druce",
+            "id": "1363615",
+            "score": 0.70857
+        },
+        {
+            "name": "Crassula multicava Lem.",
+            "id": "1363618",
+            "score": 0.01605
+        },
+        {
+            "name": "Sedum cepaea L.",
+            "id": "1358103",
+            "score": 0.00846
+        },
+        {
+            "name": "Crassula arborescens (Mill.) Willd.",
+            "id": "1418509",
+            "score": 0.00351
+        },
+        {
+            "name": "Sedum dendroideum Moc. & Sessé ex DC.",
+            "id": "1389308",
+            "score": 0.00299
+        },
+        {
+            "name": "Bacopa monnieri (L.) Wettst.",
+            "id": "1403533",
+            "score": 0.00229
+        },
+        {
+            "name": "Cotyledon orbiculata L.",
+            "id": "1391424",
+            "score": 0.00212
+        },
+        {
+            "name": "Sedum praealtum A.DC.",
+            "id": "1529305",
+            "score": 0.00162
+        },
+        {
+            "name": "Crassula nudicaulis L.",
+            "id": "1528543",
+            "score": 0.00152
+        },
+        {
+            "name": "Sedum album L.",
+            "id": "1358095",
+            "score": 0.0012
+        }
+    ]
+}

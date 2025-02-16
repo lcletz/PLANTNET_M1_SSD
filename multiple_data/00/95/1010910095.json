@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Allium nigrum L.",
+            "id": "1360926",
+            "score": 0.72044
+        },
+        {
+            "name": "Allium giganteum Regel",
+            "id": "1418730",
+            "score": 0.15915
+        },
+        {
+            "name": "Allium aflatunense B.Fedtsch.",
+            "id": "1418645",
+            "score": 0.01109
+        },
+        {
+            "name": "Allium ampeloprasum L.",
+            "id": "1358134",
+            "score": 0.00922
+        },
+        {
+            "name": "Allium cristophii Trautv.",
+            "id": "1418715",
+            "score": 0.0039
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Lathyrus oleraceus Lam.",
+            "id": "1741625",
+            "score": 0.47801
+        },
+        {
+            "name": "Lathyrus odoratus L.",
+            "id": "1363802",
+            "score": 0.01782
+        },
+        {
+            "name": "Lathyrus ochrus (L.) DC.",
+            "id": "1359279",
+            "score": 0.0039
+        },
+        {
+            "name": "Vicia faba L.",
+            "id": "1363676",
+            "score": 0.00182
+        },
+        {
+            "name": "Trigonella foenum-graecum L.",
+            "id": "1363680",
+            "score": 0.00154
+        },
+        {
+            "name": "Lathyrus ochroleucus Hook.",
+            "id": "1412431",
+            "score": 0.00101
+        }
+    ]
+}

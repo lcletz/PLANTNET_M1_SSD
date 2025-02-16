@@ -1,0 +1,480 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Carduus nutans L.",
+            "id": "1357350",
+            "score": 0.55189
+        },
+        {
+            "name": "Cirsium ferox (L.) DC.",
+            "id": "1391197",
+            "score": 0.15079
+        },
+        {
+            "name": "Cirsium vulgare (Savi) Ten.",
+            "id": "1355937",
+            "score": 0.08126
+        },
+        {
+            "name": "Onopordum acanthium L.",
+            "id": "1357723",
+            "score": 0.07646
+        },
+        {
+            "name": "Cirsium discolor (Muhl. ex Willd.) Spreng.",
+            "id": "1411462",
+            "score": 0.07309
+        },
+        {
+            "name": "Carduus nigrescens Vill.",
+            "id": "1390740",
+            "score": 0.05187
+        },
+        {
+            "name": "Carduus crispus L.",
+            "id": "1390725",
+            "score": 0.04971
+        },
+        {
+            "name": "Onopordum illyricum L.",
+            "id": "1394057",
+            "score": 0.04289
+        },
+        {
+            "name": "Carduus tenuiflorus Curtis",
+            "id": "1355881",
+            "score": 0.03559
+        },
+        {
+            "name": "Carduus litigiosus Nocca & Balb.",
+            "id": "1390734",
+            "score": 0.03416
+        },
+        {
+            "name": "Carduus acanthoides L.",
+            "id": "1362653",
+            "score": 0.03324
+        },
+        {
+            "name": "Dipsacus sativus (L.) Honck.",
+            "id": "1391749",
+            "score": 0.03007
+        },
+        {
+            "name": "Onopordum palaestinum Eig",
+            "id": "1425309",
+            "score": 0.02604
+        },
+        {
+            "name": "Cirsium eriophorum (L.) Scop.",
+            "id": "1391192",
+            "score": 0.02543
+        },
+        {
+            "name": "Cirsium mohavense (Greene) Petr.",
+            "id": "1441383",
+            "score": 0.02511
+        },
+        {
+            "name": "Dipsacus fullonum L.",
+            "id": "1358454",
+            "score": 0.02162
+        },
+        {
+            "name": "Carduus defloratus L.",
+            "id": "1397340",
+            "score": 0.02162
+        },
+        {
+            "name": "Carduus pycnocephalus L.",
+            "id": "1357351",
+            "score": 0.01969
+        },
+        {
+            "name": "Picnomon acarna (L.) Cass.",
+            "id": "1357773",
+            "score": 0.01841
+        },
+        {
+            "name": "Onopordum tauricum Willd.",
+            "id": "1394059",
+            "score": 0.01727
+        },
+        {
+            "name": "Cirsium arvense (L.) Scop.",
+            "id": "1355936",
+            "score": 0.01681
+        },
+        {
+            "name": "Onopordum acaulon L.",
+            "id": "1357724",
+            "score": 0.01479
+        },
+        {
+            "name": "Onopordum horridum Viv.",
+            "id": "1394056",
+            "score": 0.01333
+        },
+        {
+            "name": "Cirsium mexicanum DC.",
+            "id": "1423555",
+            "score": 0.01293
+        },
+        {
+            "name": "Onopordum nervosum Boiss.",
+            "id": "1357736",
+            "score": 0.01206
+        },
+        {
+            "name": "Cynara cardunculus L.",
+            "id": "1355882",
+            "score": 0.00952
+        },
+        {
+            "name": "Cirsium creticum (Lam.) d'Urv.",
+            "id": "1357499",
+            "score": 0.00854
+        },
+        {
+            "name": "Onopordum macracanthum Schousb.",
+            "id": "1357734",
+            "score": 0.00782
+        },
+        {
+            "name": "Tyrimnus leucographus (L.) Cass.",
+            "id": "1357951",
+            "score": 0.00662
+        },
+        {
+            "name": "Carlina vulgaris L.",
+            "id": "1390949",
+            "score": 0.00619
+        },
+        {
+            "name": "Cirsium occidentale (Nutt.) Jeps.",
+            "id": "1441388",
+            "score": 0.00619
+        },
+        {
+            "name": "Chamaeleon gummifer (L.) Cass.",
+            "id": "1743408",
+            "score": 0.00557
+        },
+        {
+            "name": "Carduus kerneri Simonk.",
+            "id": "1502091",
+            "score": 0.00545
+        },
+        {
+            "name": "Carduus carlinoides Gouan",
+            "id": "1397339",
+            "score": 0.00461
+        },
+        {
+            "name": "Onopordum leptolepis DC.",
+            "id": "1516105",
+            "score": 0.00457
+        },
+        {
+            "name": "Echinops ritro L.",
+            "id": "1397374",
+            "score": 0.00445
+        },
+        {
+            "name": "Cirsium edule Nutt.",
+            "id": "1411464",
+            "score": 0.00347
+        },
+        {
+            "name": "Lamyropsis cynaroides (Lam.) Dittrich",
+            "id": "1513315",
+            "score": 0.00346
+        },
+        {
+            "name": "Cirsium acaule (L.) Scop.",
+            "id": "1737591",
+            "score": 0.0034
+        },
+        {
+            "name": "Cirsium canum (L.) All.",
+            "id": "1391184",
+            "score": 0.00333
+        },
+        {
+            "name": "Carduus carpetanus Boiss. & Reut.",
+            "id": "1502064",
+            "score": 0.00313
+        },
+        {
+            "name": "Carduus personata (L.) Jacq.",
+            "id": "1397341",
+            "score": 0.0031
+        },
+        {
+            "name": "Cirsium odontolepis Boiss. ex DC.",
+            "id": "1357507",
+            "score": 0.00294
+        },
+        {
+            "name": "Onopordum boissierianum Raab-Straube & Greuter",
+            "id": "1516095",
+            "score": 0.00292
+        },
+        {
+            "name": "Cirsium spectabile DC.",
+            "id": "1504056",
+            "score": 0.00272
+        },
+        {
+            "name": "Echinops sphaerocephalus L.",
+            "id": "1397375",
+            "score": 0.00266
+        },
+        {
+            "name": "Centaurea solstitialis L.",
+            "id": "1355886",
+            "score": 0.00265
+        },
+        {
+            "name": "Centaurea centauroides L.",
+            "id": "1502466",
+            "score": 0.00226
+        },
+        {
+            "name": "Cirsium nishiokae Kitam.",
+            "id": "1503964",
+            "score": 0.00226
+        },
+        {
+            "name": "Cirsium morisianum Rchb.f.",
+            "id": "1391221",
+            "score": 0.0022
+        },
+        {
+            "name": "Carduus hamulosus Ehrh.",
+            "id": "1502083",
+            "score": 0.00219
+        },
+        {
+            "name": "Echinops austroiranicus Mozaff.",
+            "id": "1769555",
+            "score": 0.00209
+        },
+        {
+            "name": "Cirsium altissimum (L.) Spreng.",
+            "id": "1817001",
+            "score": 0.00197
+        },
+        {
+            "name": "Carduus argentatus L.",
+            "id": "1357334",
+            "score": 0.0019
+        },
+        {
+            "name": "Carlina acaulis L.",
+            "id": "1390944",
+            "score": 0.00184
+        },
+        {
+            "name": "Cirsium richterianum Gillot",
+            "id": "1391233",
+            "score": 0.00166
+        },
+        {
+            "name": "Cirsium texanum Buckley",
+            "id": "1441410",
+            "score": 0.00166
+        },
+        {
+            "name": "Cirsium dyris Jahand. & Maire",
+            "id": "1357501",
+            "score": 0.00165
+        },
+        {
+            "name": "Berkheya spekeana Oliv.",
+            "id": "1373717",
+            "score": 0.00165
+        },
+        {
+            "name": "Dipsacus pilosus L.",
+            "id": "1391748",
+            "score": 0.00163
+        },
+        {
+            "name": "Echinops bovei Boiss.",
+            "id": "1355874",
+            "score": 0.0016
+        },
+        {
+            "name": "Carthamus carduncellus L.",
+            "id": "1390956",
+            "score": 0.00155
+        },
+        {
+            "name": "Carduus ballii Hook.f.",
+            "id": "1748053",
+            "score": 0.00153
+        },
+        {
+            "name": "Carduus aurosicus Vill.",
+            "id": "1502057",
+            "score": 0.0015
+        },
+        {
+            "name": "Carlina acanthifolia All.",
+            "id": "1390943",
+            "score": 0.00145
+        },
+        {
+            "name": "Atractylis humilis L.",
+            "id": "1362415",
+            "score": 0.00145
+        },
+        {
+            "name": "Onopordum corymbosum Willk.",
+            "id": "1397447",
+            "score": 0.00139
+        },
+        {
+            "name": "Echinops orientalis Trautv.",
+            "id": "1506703",
+            "score": 0.00137
+        },
+        {
+            "name": "Carlina corymbosa L.",
+            "id": "1397344",
+            "score": 0.00137
+        },
+        {
+            "name": "Cirsium wallichii DC.",
+            "id": "1504114",
+            "score": 0.00136
+        },
+        {
+            "name": "Dipsacus laciniatus L.",
+            "id": "1391747",
+            "score": 0.00134
+        },
+        {
+            "name": "Cirsium falconeri (Hook.f.) Petr.",
+            "id": "1503832",
+            "score": 0.00131
+        },
+        {
+            "name": "Cardopatium corymbosum (L.) Pers.",
+            "id": "1399493",
+            "score": 0.0013
+        },
+        {
+            "name": "Cheiridopsis peculiaris N.E.Br.",
+            "id": "1448268",
+            "score": 0.00119
+        },
+        {
+            "name": "Carthamus lanatus L.",
+            "id": "1357379",
+            "score": 0.00119
+        },
+        {
+            "name": "Cirsium echinatum (Desf.) DC.",
+            "id": "1357502",
+            "score": 0.00117
+        },
+        {
+            "name": "Cirsium spinosissimum (L.) Scop.",
+            "id": "1397352",
+            "score": 0.00116
+        },
+        {
+            "name": "Carduus clavulatus Link",
+            "id": "1357342",
+            "score": 0.00115
+        },
+        {
+            "name": "Cirsium scariosum Nutt.",
+            "id": "1411471",
+            "score": 0.00114
+        },
+        {
+            "name": "Trifolium microcephalum Pursh",
+            "id": "1414083",
+            "score": 0.00113
+        },
+        {
+            "name": "Cynara humilis L.",
+            "id": "1357556",
+            "score": 0.00109
+        },
+        {
+            "name": "Cirsium palustre (L.) Scop.",
+            "id": "1361759",
+            "score": 0.00107
+        },
+        {
+            "name": "Carlina racemosa L.",
+            "id": "1357361",
+            "score": 0.00107
+        },
+        {
+            "name": "Galactites tomentosus Moench",
+            "id": "1357598",
+            "score": 0.00106
+        },
+        {
+            "name": "Onopordum eriocephalum Rouy",
+            "id": "1394053",
+            "score": 0.00106
+        },
+        {
+            "name": "Scolymus hispanicus L.",
+            "id": "1357848",
+            "score": 0.00104
+        },
+        {
+            "name": "Dipsacus pinnatifidus Steud. ex A.Rich.",
+            "id": "1491339",
+            "score": 0.00103
+        },
+        {
+            "name": "Launaea petitiana (A.Rich.) N.Kilian",
+            "id": "1513416",
+            "score": 0.00101
+        },
+        {
+            "name": "Eryngium alpinum L.",
+            "id": "1392102",
+            "score": 0.00096
+        },
+        {
+            "name": "Centaurea diffusa Lam.",
+            "id": "1390997",
+            "score": 0.00065
+        },
+        {
+            "name": "Chondrilla juncea L.",
+            "id": "1357492",
+            "score": 0.00064
+        },
+        {
+            "name": "Jasione montana L.",
+            "id": "1356766",
+            "score": 0.00049
+        },
+        {
+            "name": "Centaurea calcitrapa L.",
+            "id": "1355884",
+            "score": 0.00048
+        },
+        {
+            "name": "Solanum bicorne Dunal",
+            "id": "1824107",
+            "score": 0.00047
+        },
+        {
+            "name": "Sinapis alba L.",
+            "id": "1363889",
+            "score": 0.00042
+        }
+    ]
+}

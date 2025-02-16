@@ -1,0 +1,215 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Prunus domestica L.",
+            "id": "1360319",
+            "score": 0.38012
+        },
+        {
+            "name": "Prunus cerasifera Ehrh.",
+            "id": "1360317",
+            "score": 0.08094
+        },
+        {
+            "name": "Prunus brigantina Vill.",
+            "id": "1394945",
+            "score": 0.07693
+        },
+        {
+            "name": "Cornus mas L.",
+            "id": "1391354",
+            "score": 0.04288
+        },
+        {
+            "name": "Diospyros kaki L.f.",
+            "id": "1391735",
+            "score": 0.01812
+        },
+        {
+            "name": "Cydonia oblonga Mill.",
+            "id": "1363999",
+            "score": 0.01729
+        },
+        {
+            "name": "Malus sylvestris (L.) Mill.",
+            "id": "1420379",
+            "score": 0.01618
+        },
+        {
+            "name": "Malus baccata (L.) Borkh.",
+            "id": "1393736",
+            "score": 0.01092
+        },
+        {
+            "name": "Prunus armeniaca L.",
+            "id": "1362982",
+            "score": 0.01004
+        },
+        {
+            "name": "Prunus avium (L.) L.",
+            "id": "1360316",
+            "score": 0.00772
+        },
+        {
+            "name": "Prunus cerasus L.",
+            "id": "1360318",
+            "score": 0.00522
+        },
+        {
+            "name": "Corylus avellana L.",
+            "id": "1391368",
+            "score": 0.00418
+        },
+        {
+            "name": "Sinojackia rehderiana Hu",
+            "id": "1692637",
+            "score": 0.00351
+        },
+        {
+            "name": "Celtis occidentalis L.",
+            "id": "1397796",
+            "score": 0.00348
+        },
+        {
+            "name": "Lindera benzoin (L.) Blume",
+            "id": "1412506",
+            "score": 0.00335
+        },
+        {
+            "name": "Prunus mume (Siebold) Siebold & Zucc.",
+            "id": "1420419",
+            "score": 0.0032
+        },
+        {
+            "name": "Fortunearia sinensis Rehder & E.H.Wilson",
+            "id": "1419166",
+            "score": 0.00294
+        },
+        {
+            "name": "Corylus cornuta Marshall",
+            "id": "1411559",
+            "score": 0.00273
+        },
+        {
+            "name": "Frangula alnus Mill.",
+            "id": "1360257",
+            "score": 0.00233
+        },
+        {
+            "name": "Flacourtia jangomas (Lour.) Raeusch.",
+            "id": "1382989",
+            "score": 0.00224
+        },
+        {
+            "name": "Prunus americana Marshall",
+            "id": "1413346",
+            "score": 0.00221
+        },
+        {
+            "name": "Crataegus germanica (L.) Kuntze",
+            "id": "1391434",
+            "score": 0.00214
+        },
+        {
+            "name": "Amelanchier canadensis (L.) Medik.",
+            "id": "1397734",
+            "score": 0.00201
+        },
+        {
+            "name": "Lonicera alpigena L.",
+            "id": "1393630",
+            "score": 0.00196
+        },
+        {
+            "name": "Calycanthus floridus L.",
+            "id": "1398326",
+            "score": 0.00193
+        },
+        {
+            "name": "Rosa canina L.",
+            "id": "1360334",
+            "score": 0.00167
+        },
+        {
+            "name": "Prunus padus L.",
+            "id": "1360324",
+            "score": 0.00167
+        },
+        {
+            "name": "Prunus tomentosa Thunb.",
+            "id": "1413354",
+            "score": 0.00157
+        },
+        {
+            "name": "Bunchosia armeniaca (Cav.) DC.",
+            "id": "1408959",
+            "score": 0.00153
+        },
+        {
+            "name": "Euonymus latifolius (L.) Mill.",
+            "id": "1392238",
+            "score": 0.00136
+        },
+        {
+            "name": "Prunus mexicana S.Watson",
+            "id": "1667993",
+            "score": 0.00134
+        },
+        {
+            "name": "Prunus umbellata Elliott",
+            "id": "1436948",
+            "score": 0.00134
+        },
+        {
+            "name": "Ximenia americana L.",
+            "id": "1406171",
+            "score": 0.00128
+        },
+        {
+            "name": "Diospyros virginiana L.",
+            "id": "1389362",
+            "score": 0.00126
+        },
+        {
+            "name": "Cornus florida L.",
+            "id": "1397618",
+            "score": 0.00118
+        },
+        {
+            "name": "Crataegus coccinea L.",
+            "id": "1667197",
+            "score": 0.00116
+        },
+        {
+            "name": "Neoshirakia japonica (Siebold & Zucc.) Esser",
+            "id": "1418846",
+            "score": 0.00113
+        },
+        {
+            "name": "Prunus spinosa L.",
+            "id": "1360326",
+            "score": 0.0011
+        },
+        {
+            "name": "Euonymus alatus (Thunb.) Siebold",
+            "id": "1412016",
+            "score": 0.00107
+        },
+        {
+            "name": "Malus domestica (Suckow) Borkh.",
+            "id": "1729464",
+            "score": 0.00107
+        },
+        {
+            "name": "Diospyros rubicunda Gürke",
+            "id": "1536859",
+            "score": 0.00106
+        },
+        {
+            "name": "Campomanesia xanthocarpa (Mart.) O.Berg",
+            "id": "1603267",
+            "score": 0.00101
+        }
+    ]
+}

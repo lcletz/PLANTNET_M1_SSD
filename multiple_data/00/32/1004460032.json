@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Crambe maritima L.",
+            "id": "1391425",
+            "score": 0.93785
+        },
+        {
+            "name": "Brassica oleracea L.",
+            "id": "1363909",
+            "score": 0.01449
+        },
+        {
+            "name": "Brassica montana Pourr.",
+            "id": "1389320",
+            "score": 0.00703
+        },
+        {
+            "name": "Eryngium maritimum L.",
+            "id": "1360719",
+            "score": 0.00258
+        },
+        {
+            "name": "Rheum × hybridum Murray",
+            "id": "1432206",
+            "score": 0.00137
+        }
+    ]
+}

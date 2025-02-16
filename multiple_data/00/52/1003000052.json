@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Chamaerops humilis L.",
+            "id": "1361702",
+            "score": 0.95694
+        },
+        {
+            "name": "Trachycarpus fortunei (Hook.) H.Wendl.",
+            "id": "1396821",
+            "score": 0.00728
+        },
+        {
+            "name": "Serenoa repens (W.Bartram) Small",
+            "id": "1417626",
+            "score": 0.00659
+        },
+        {
+            "name": "Sabal minor (Jacq.) Pers.",
+            "id": "1417623",
+            "score": 0.00278
+        },
+        {
+            "name": "Washingtonia robusta H.Wendl.",
+            "id": "1397225",
+            "score": 0.00112
+        }
+    ]
+}

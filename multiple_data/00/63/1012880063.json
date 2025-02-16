@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Barbarea vulgaris R.Br.",
+            "id": "1400100",
+            "score": 0.54007
+        },
+        {
+            "name": "Barbarea verna (Mill.) Asch.",
+            "id": "1363871",
+            "score": 0.19363
+        },
+        {
+            "name": "Eruca vesicaria (L.) Cav.",
+            "id": "1356328",
+            "score": 0.00909
+        },
+        {
+            "name": "Nasturtium officinale R.Br.",
+            "id": "1393940",
+            "score": 0.00213
+        },
+        {
+            "name": "Senecio angulatus L.f.",
+            "id": "1396186",
+            "score": 0.0018
+        },
+        {
+            "name": "Apium graveolens L.",
+            "id": "1363218",
+            "score": 0.00148
+        },
+        {
+            "name": "Iberis umbellata L.",
+            "id": "1363926",
+            "score": 0.00107
+        }
+    ]
+}

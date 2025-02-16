@@ -1,0 +1,50 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Aucuba japonica Thunb.",
+            "id": "1399886",
+            "score": 0.85536
+        },
+        {
+            "name": "Aucuba chinensis Benth.",
+            "id": "1548648",
+            "score": 0.02605
+        },
+        {
+            "name": "Aucuba himalaica Hook.f. & Thomson",
+            "id": "1548653",
+            "score": 0.01331
+        },
+        {
+            "name": "Ilex paraguariensis A.St.-Hil.",
+            "id": "1420708",
+            "score": 0.002
+        },
+        {
+            "name": "Sarcandra glabra (Thunb.) Nakai",
+            "id": "1430248",
+            "score": 0.00188
+        },
+        {
+            "name": "Croton laevigatus Vahl",
+            "id": "1543849",
+            "score": 0.0016
+        },
+        {
+            "name": "Rhaphiolepis deflexa (Hemsl.) B.B.Liu & J.Wen",
+            "id": "1779142",
+            "score": 0.00119
+        },
+        {
+            "name": "Pseudopanax lessonii (DC.) K.Koch",
+            "id": "1467818",
+            "score": 0.00116
+        },
+        {
+            "name": "Pittosporum undulatum Vent.",
+            "id": "1356064",
+            "score": 0.0011
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Ribes rubrum L.",
+            "id": "1397543",
+            "score": 0.85771
+        },
+        {
+            "name": "Ribes nigrum L.",
+            "id": "1395200",
+            "score": 0.06849
+        },
+        {
+            "name": "Ribes sanguineum Pursh",
+            "id": "1395204",
+            "score": 0.00485
+        },
+        {
+            "name": "Ribes spicatum E.Robson",
+            "id": "1737480",
+            "score": 0.00464
+        },
+        {
+            "name": "Ribes petraeum Wulfen",
+            "id": "1358683",
+            "score": 0.00241
+        },
+        {
+            "name": "Rubus tricolor Focke ex Prain",
+            "id": "1669600",
+            "score": 0.00205
+        },
+        {
+            "name": "Ribes magellanicum Poir.",
+            "id": "1554170",
+            "score": 0.0012
+        }
+    ]
+}

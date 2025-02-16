@@ -1,0 +1,25 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Euphorbia lathyris L.",
+            "id": "1355968",
+            "score": 0.93319
+        },
+        {
+            "name": "Andromeda polifolia L.",
+            "id": "1394064",
+            "score": 0.0014
+        },
+        {
+            "name": "Gomphocarpus physocarpus E.Mey.",
+            "id": "1392654",
+            "score": 0.00121
+        },
+        {
+            "name": "Euphorbia palustris L.",
+            "id": "1392178",
+            "score": 0.00101
+        }
+    ]
+}

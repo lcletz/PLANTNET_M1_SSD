@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Iris latifolia (Mill.) Voss",
+            "id": "1393302",
+            "score": 0.70067
+        },
+        {
+            "name": "Iris xiphium L.",
+            "id": "1361548",
+            "score": 0.10928
+        },
+        {
+            "name": "Iris spuria L.",
+            "id": "1361544",
+            "score": 0.01423
+        },
+        {
+            "name": "Iris ensata Thunb.",
+            "id": "1393295",
+            "score": 0.01091
+        },
+        {
+            "name": "Iris reticulata M.Bieb.",
+            "id": "1419213",
+            "score": 0.00323
+        },
+        {
+            "name": "Sparaxis tricolor (Schneev.) Ker Gawl.",
+            "id": "1362581",
+            "score": 0.00137
+        }
+    ]
+}

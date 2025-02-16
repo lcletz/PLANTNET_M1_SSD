@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Acorus calamus L.",
+            "id": "1396585",
+            "score": 0.93063
+        },
+        {
+            "name": "Typha angustifolia L.",
+            "id": "1361721",
+            "score": 0.00248
+        },
+        {
+            "name": "Carex acutiformis Ehrh.",
+            "id": "1363281",
+            "score": 0.00237
+        },
+        {
+            "name": "Sparganium eurycarpum Engelm.",
+            "id": "1413874",
+            "score": 0.00165
+        },
+        {
+            "name": "Typha latifolia L.",
+            "id": "1363339",
+            "score": 0.00122
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Geranium pratense L.",
+            "id": "1397394",
+            "score": 0.9372
+        },
+        {
+            "name": "Geranium sylvaticum L.",
+            "id": "1392599",
+            "score": 0.01592
+        },
+        {
+            "name": "Erodium atlanticum Coss.",
+            "id": "1358639",
+            "score": 0.00446
+        },
+        {
+            "name": "Geranium maculatum L.",
+            "id": "1412160",
+            "score": 0.00278
+        },
+        {
+            "name": "Geranium himalayense Klotzsch",
+            "id": "1419106",
+            "score": 0.00202
+        },
+        {
+            "name": "Geranium sanguineum L.",
+            "id": "1392597",
+            "score": 0.001
+        }
+    ]
+}

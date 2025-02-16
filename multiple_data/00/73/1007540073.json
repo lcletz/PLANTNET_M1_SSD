@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Buddleja davidii Franch.",
+            "id": "1365253",
+            "score": 0.74819
+        },
+        {
+            "name": "Buddleja japonica Hemsl.",
+            "id": "1389573",
+            "score": 0.1596
+        },
+        {
+            "name": "Buddleja asiatica Lour.",
+            "id": "1365246",
+            "score": 0.003
+        },
+        {
+            "name": "Buddleja alternifolia Maxim.",
+            "id": "1397799",
+            "score": 0.00244
+        },
+        {
+            "name": "Buddleja americana L.",
+            "id": "1409419",
+            "score": 0.0015
+        },
+        {
+            "name": "Buddleja nivea Duthie",
+            "id": "1688473",
+            "score": 0.00131
+        },
+        {
+            "name": "Buddleja salviifolia (L.) Lam.",
+            "id": "1365234",
+            "score": 0.00116
+        }
+    ]
+}

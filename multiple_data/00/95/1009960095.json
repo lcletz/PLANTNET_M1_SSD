@@ -1,0 +1,40 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Anthyllis montana L.",
+            "id": "1359086",
+            "score": 0.73285
+        },
+        {
+            "name": "Anthyllis vulneraria L.",
+            "id": "1356330",
+            "score": 0.16385
+        },
+        {
+            "name": "Astragalus monspessulanus L.",
+            "id": "1359138",
+            "score": 0.00243
+        },
+        {
+            "name": "Trifolium spumosum L.",
+            "id": "1359523",
+            "score": 0.00176
+        },
+        {
+            "name": "Trifolium fragiferum L.",
+            "id": "1356278",
+            "score": 0.0014
+        },
+        {
+            "name": "Astragalus incanus L.",
+            "id": "1359127",
+            "score": 0.00128
+        },
+        {
+            "name": "Sulla coronaria (L.) B.H.Choi & H.Ohashi",
+            "id": "1738789",
+            "score": 0.00127
+        }
+    ]
+}

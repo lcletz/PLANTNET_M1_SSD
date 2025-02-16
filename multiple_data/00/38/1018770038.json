@@ -1,0 +1,20 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Saponaria officinalis L.",
+            "id": "1356803",
+            "score": 0.94125
+        },
+        {
+            "name": "Saponaria caespitosa DC.",
+            "id": "1395928",
+            "score": 0.01054
+        },
+        {
+            "name": "Saponaria bellidifolia Sm.",
+            "id": "1395926",
+            "score": 0.00105
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Pistacia lentiscus L.",
+            "id": "1356290",
+            "score": 0.87889
+        },
+        {
+            "name": "Schinus terebinthifolia Raddi",
+            "id": "1396078",
+            "score": 0.05271
+        },
+        {
+            "name": "Pistacia terebinthus L.",
+            "id": "1356567",
+            "score": 0.0233
+        },
+        {
+            "name": "Pistacia atlantica Desf.",
+            "id": "1356565",
+            "score": 0.00951
+        },
+        {
+            "name": "Pistacia mexicana Kunth",
+            "id": "1436538",
+            "score": 0.00263
+        },
+        {
+            "name": "Pistacia × saportae Burnat",
+            "id": "1743668",
+            "score": 0.0021
+        }
+    ]
+}

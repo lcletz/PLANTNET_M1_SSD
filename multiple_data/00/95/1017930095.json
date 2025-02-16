@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Carex flacca Schreb.",
+            "id": "1361055",
+            "score": 0.97351
+        },
+        {
+            "name": "Carex nigra (L.) Reichard",
+            "id": "1361069",
+            "score": 0.00672
+        },
+        {
+            "name": "Carex panicea L.",
+            "id": "1361073",
+            "score": 0.00509
+        },
+        {
+            "name": "Carex acutiformis Ehrh.",
+            "id": "1363281",
+            "score": 0.00122
+        },
+        {
+            "name": "Carex riparia Curtis",
+            "id": "1361081",
+            "score": 0.00109
+        }
+    ]
+}

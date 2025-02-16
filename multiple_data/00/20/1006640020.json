@@ -1,0 +1,30 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Meconopsis cambrica (L.) Vig.",
+            "id": "1393763",
+            "score": 0.29645
+        },
+        {
+            "name": "Papaver dubium L.",
+            "id": "1363129",
+            "score": 0.02131
+        },
+        {
+            "name": "Papaver rhoeas L.",
+            "id": "1363128",
+            "score": 0.00293
+        },
+        {
+            "name": "Papaver argemone L.",
+            "id": "1363126",
+            "score": 0.00262
+        },
+        {
+            "name": "Glaucium flavum Crantz",
+            "id": "1359804",
+            "score": 0.00117
+        }
+    ]
+}

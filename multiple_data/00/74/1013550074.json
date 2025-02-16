@@ -1,0 +1,45 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Papaver somniferum L.",
+            "id": "1363130",
+            "score": 0.87493
+        },
+        {
+            "name": "Lactuca sativa L.",
+            "id": "1364172",
+            "score": 0.0128
+        },
+        {
+            "name": "Crambe maritima L.",
+            "id": "1391425",
+            "score": 0.00907
+        },
+        {
+            "name": "Brassica oleracea L.",
+            "id": "1363909",
+            "score": 0.00771
+        },
+        {
+            "name": "Brassica montana Pourr.",
+            "id": "1389320",
+            "score": 0.00286
+        },
+        {
+            "name": "Cyphostemma juttae (Dinter & Gilg) Desc.",
+            "id": "1697991",
+            "score": 0.00176
+        },
+        {
+            "name": "Bocconia frutescens L.",
+            "id": "1407729",
+            "score": 0.00157
+        },
+        {
+            "name": "Rosa farreri Stapf ex Cox",
+            "id": "1668224",
+            "score": 0.00109
+        }
+    ]
+}

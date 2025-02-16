@@ -1,0 +1,65 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Dactylis glomerata L.",
+            "id": "1363501",
+            "score": 0.85348
+        },
+        {
+            "name": "Phalaris minor Retz.",
+            "id": "1363492",
+            "score": 0.01624
+        },
+        {
+            "name": "Phalaris arundinacea L.",
+            "id": "1363490",
+            "score": 0.0127
+        },
+        {
+            "name": "Phalaris paradoxa L.",
+            "id": "1363493",
+            "score": 0.00828
+        },
+        {
+            "name": "Phalaris canariensis L.",
+            "id": "1363491",
+            "score": 0.00483
+        },
+        {
+            "name": "Phalaris aquatica L.",
+            "id": "1363489",
+            "score": 0.0048
+        },
+        {
+            "name": "Phalaris coerulescens Desf.",
+            "id": "1361357",
+            "score": 0.00353
+        },
+        {
+            "name": "Phalaris brachystachys Link",
+            "id": "1363495",
+            "score": 0.00325
+        },
+        {
+            "name": "Phleum pratense L.",
+            "id": "1363595",
+            "score": 0.00302
+        },
+        {
+            "name": "Holcus lanatus L.",
+            "id": "1363460",
+            "score": 0.0021
+        },
+        {
+            "name": "Alopecurus pratensis L.",
+            "id": "1362406",
+            "score": 0.00165
+        },
+        {
+            "name": "Xyris complanata R.Br.",
+            "id": "1431118",
+            "score": 0.00125
+        }
+    ]
+}

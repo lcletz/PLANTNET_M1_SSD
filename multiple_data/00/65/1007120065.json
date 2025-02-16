@@ -1,0 +1,35 @@
+{
+    "status": "BEST_REF",
+    "results": [
+        {
+            "name": "Galium aparine L.",
+            "id": "1360385",
+            "score": 0.90228
+        },
+        {
+            "name": "Galium tricornutum Dandy",
+            "id": "1360417",
+            "score": 0.04878
+        },
+        {
+            "name": "Galium verrucosum Huds.",
+            "id": "1360420",
+            "score": 0.01782
+        },
+        {
+            "name": "Galium spurium L.",
+            "id": "1360416",
+            "score": 0.00321
+        },
+        {
+            "name": "Galium uliginosum L.",
+            "id": "1360419",
+            "score": 0.00286
+        },
+        {
+            "name": "Galium mollugo L.",
+            "id": "1360399",
+            "score": 0.00113
+        }
+    ]
+}

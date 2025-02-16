@@ -1,0 +1,35 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Plantago major L.",
+            "id": "1356067",
+            "score": 0.94277
+        },
+        {
+            "name": "Saururus cernuus L.",
+            "id": "1398197",
+            "score": 0.00402
+        },
+        {
+            "name": "Echinacea purpurea (L.) Moench",
+            "id": "1398120",
+            "score": 0.00274
+        },
+        {
+            "name": "Plantago cornuti Gouan",
+            "id": "1646456",
+            "score": 0.00121
+        },
+        {
+            "name": "Alopecurus aequalis Sobol.",
+            "id": "1361151",
+            "score": 0.00117
+        },
+        {
+            "name": "Plantago media L.",
+            "id": "1394636",
+            "score": 0.00114
+        }
+    ]
+}

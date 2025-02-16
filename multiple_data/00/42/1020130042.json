@@ -1,0 +1,45 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "name": "Ficus rubiginosa Desf. ex Vent.",
+            "id": "1362952",
+            "score": 0.28801
+        },
+        {
+            "name": "Ficus elastica Roxb. ex Hornem.",
+            "id": "1403870",
+            "score": 0.06957
+        },
+        {
+            "name": "Ficus microcarpa L.f.",
+            "id": "1409180",
+            "score": 0.01037
+        },
+        {
+            "name": "Festuca pulchella Schrad.",
+            "id": "1651358",
+            "score": 0.00217
+        },
+        {
+            "name": "Cotoneaster coriaceus Franch.",
+            "id": "1390095",
+            "score": 0.00204
+        },
+        {
+            "name": "Cotoneaster pannosus Franch.",
+            "id": "1391394",
+            "score": 0.00167
+        },
+        {
+            "name": "Eucalyptus robusta Sm.",
+            "id": "1361806",
+            "score": 0.0013
+        },
+        {
+            "name": "Medicago coronata (L.) Bartal.",
+            "id": "1359334",
+            "score": 0.00127
+        }
+    ]
+}
