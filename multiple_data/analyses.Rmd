@@ -7,103 +7,152 @@ output: html_document
 
 ```{r}
 
-# Fonction pour traiter un fichier JSON individuel
+# Fonction to process a single JSON file
 process_single_json <- function(file_path) {
-  # Lire le fichier JSON
+  
+  # Read th JSON file
   json_data <- tryCatch(
+    
+    # Attempt to read the JSON file using the 'fromJSON' function
     fromJSON(file_path),
+    
+    # If an error occurs during reading, displau a warning and return NULL
     error = function(e) {
       warning(paste("Erreur lors de la lecture du fichier:", file_path))
       return(NULL)
     }
   )
   
-  if (is.null(json_data) || is.null(json_data$results) || length(json_data$results) == 0) return(NULL)
+  # Check is the JSON data is valid and contains resulsts
+  if (is.null(json_data) 
+      || is.null(json_data$results) 
+      || length(json_data$results) == 0) 
+    return(NULL)
   
-  # Extraire l'ID de l'observation depuis le nom du fichier
+  # Extract the observations ID from the file name
   obs_id <- tools::file_path_sans_ext(basename(file_path))
   
-  # Extraire les prédictions et scores sous la forme id: score
+  # Extract the predictions and scores in the form 'id: score'
   results <- json_data$results
+  
+  # Create a list of predictions where : names are IDs and values are scores
   predictions <- setNames(results$score, as.character(results$id))
   
-  # Convertir les résultats pour que l'id soit visible dans la structure finale
+  # Format the predictions as strings of the form 'id: score'
   formatted_predictions <- paste(names(predictions), predictions, sep=": ")
   
+  # Return an object containing the observation ID and the formatted predictions
   return(list(
     obs_id = obs_id,
     predictions = formatted_predictions
   ))
 }
 
-# Fonction principale
+```
+
+
+```{r}
+
+# Main function to process plant data
 process_plant_data <- function(base_dir = "00", 
-                               output_path = "output_test.json") {
+                               output_path = "output_test.json"
+                               ### Uncomment the line below to test with a small sample ###
+                               # , max_files = 10
+                               ) {
   
-  # Lister tous les sous-dossiers dans le dossier 00
+  # List all subdirectories in the first "00" directory
   subdirs <- list.files(base_dir, full.names = TRUE)
   
-  # Initialiser une liste vide pour stocker les résultats
+  # Initialize an empty list to store the results
   all_results <- list()
-  files_processed <- 0  # Compteur pour limiter le nombre total de fichiers traités
   
-  # Pour chaque sous-dossier
+  # Counter to limit the total number of files processed
+  files_processed <- 0
+  
+  # For each subdirectory
   for (subdir in subdirs) {
-    # Lister tous les fichiers JSON dans le sous-dossier
+    
+    # List all JSON files in the subdirectory
     json_files <- list.files(subdir, pattern = "\\.json$", full.names = TRUE)
     
-    # Traiter chaque fichier JSON
+    ### Uncomment the line below to test with a small sample ###
+    # json_files <- head(json_files, max_files - files_processed)
+    
+    # Process each JSON file using the 'process_single_json' function
     results <- map(json_files, process_single_json)
     
-    # Filtrer les résultats NULL
+    # Filter out NULL results
     results <- results[!sapply(results, is.null)]
     
-    # Ajouter à nos résultats globaux
+    # Add the valid results to the global results list
     if (length(results) > 0) {
       all_results <- c(all_results, results)
     }
     
-    # Mettre à jour le compteur
+    # Update the counter for processed files
     files_processed <- files_processed + length(json_files)
     
-    # Afficher la progression
-    cat(sprintf("Traitement du dossier %s terminé (%d fichiers traités)\n", 
+    # Display the progress
+    cat(sprintf("Finished processing folder %s (%d files processed)\n", 
                 basename(subdir), length(json_files)))
+    
+     ### Uncomment the line below to test with a small sample ###
+     # if (files_processed >= max_files) break
     
   }
   
-  # Vérifier si des résultats ont été collectés
+  # Check if any results were collected
   if (length(all_results) == 0) {
-    cat("Aucun fichier JSON valide n'a été traité.\n")
+    cat("No valid JSON files were processed.\n")
     return(NULL)
   }
   
-  # Créer la structure finale : { "nom_fichier" : [id1: score1, id2: score2, ...] }
+  # Create the final structure : { "file_name" : [id1: score1, id2: score2, ...] }
   final_results <- setNames(
     map(all_results, ~.x$predictions),
     map_chr(all_results, ~.x$obs_id)
   )
   
-  # Sauvegarder le résultat sous la forme JSON
+  # Save the final results as a JSON file
   write_json(final_results, output_path, auto_unbox = TRUE, pretty = TRUE)
   
+  # Return the results
   return(final_results)
 }
 
-# Tester avec un petit échantillon
+```
+
+```{r}
+
+# Call the function to process the plant data
 results <- process_plant_data(
-  base_dir = "00",              
+  
+  # Specify the base directory containing subdirectory with JSON files
+  base_dir = "00",    
+  
+  # Specify the output file path where the results will be saved
   output_path = "output_test.json"
+  
+  ### Uncomment the line below to test with a small sample ###
+  # , max_files = 10
 )
 
-# Vérifier les résultats
+```
+
+```{r}
+
+# Check the results
 if (!is.null(results)) {
-  cat("Nombre total d'observations traitées:", length(results), "\n")
-  cat("Exemple de la première observation:\n")
+  
+  # If resultst are not NULL, display the total number of processed observations
+  cat("Total number of observations processed:", length(results), "\n")
+  
+  # Display an exemple of the first observation in the results
+  cat("Example of the first observation:\n")
+  
+  # Print the first processed observation
   print(results[[1]])
 }
-
-```
 
 ```
 
