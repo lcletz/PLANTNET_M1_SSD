@@ -142,9 +142,9 @@ ggplot(top_2000_df, aes(y = count, x = mean_score)) +
   geom_point(aes(color = plant_class), size = 3) + # une couleur, une plante
   geom_smooth(method = "loess", se = FALSE, color = "blue") +
   labs(
-    title = "Mean Score by Count for Top 2000 Plants",
-    y = "Count of Observations",
-    x = "Mean Score"
+    title = "",
+    y = "Nombre d'observations",
+    x = "Score moyen"
   ) +
   theme_minimal() +
   theme(legend.position = "none")

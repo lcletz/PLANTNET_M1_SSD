@@ -79,3 +79,17 @@ for (file in output_files) {
 #output_file_300 <- file.path(dir_path, basename(target_file_300))
 
 #extract_limited_lines(output_file_300)
+
+library(httr)
+new_zip_url <- "https://lab.plantnet.org/share/external/swe/samples/kswe_20250117_00.tgz"
+tgz_file <- "kswe_20250117_00.tgz"
+response <- GET(new_zip_url, authenticate("repro", "cessing"))
+
+if (status_code(response) == 200) {
+  writeBin(content(response, "raw"), tgz_file)
+  untar(tgz_file, exdir = "samples")
+} else {
+  print(paste("Failed to download. HTTP status:", status_code(response)))
+}
+
+file.remove(tgz_file)
