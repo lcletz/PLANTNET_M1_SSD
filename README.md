@@ -20,36 +20,36 @@ PL@ntnet is a mobile plant recognition application used by 20 million users arou
 Here is a diagram of the architecture of our project, detailing the location of each folder and file:
 
 ```PLANTNET
-    ├── data/
-    |     ├── __init__.py
-    |     ├── fetch_data.py
-    ├── extracted_data/ 
-    │     ├── aggregation/
-    |     |     |── ai_answers.json
-    |     |     ├── ai_classes.json
-    |     |     ├── ai_scores.json
-    |     |     ├── authors.txt
-    │     │     └── k-southwestern-europe.json
-    |     ├── answers/
-    |     |     |── answers.json
-    │     │     └── ground_truth.txt      
-    │     └── converters/
-    │           ├── classes.json     
-    |           └── tasks.json
+    ├── PlantNetM1SSD/
+    |     ├── R/
+    |     |   |── data.R
+    |     |   ├── fetch_data.R
+    |     |   ├── first_plots.R
+    |     |   ├── limited_data.R
+    |     |   ├── samples_processing.R
+    |     |   ├── samples_test.R
+    │     │   └── truth_data.R 
+    |     ├── .Rbuildignore
+    |     ├── .Rhistory
+    |     ├── DESCRIPTION
+    |     ├── NAMESPACE
+    │     └── PlantNetM1SSD.Rproj
+    ├── R_plot/ 
+    │     ├── Données.Rmd   
+    │     └── Visualization.Rmd
+    ├── data_python/
+    │     ├── code_extraction.py  
+    │     └── code_figure_ai_answers.py
     ├── multiple_data/
-    │     ├── 00/
-    |     |     |── 00
-    |     |     |     |── 10003830000.json
-    |     |     |     |── ...
-    |     |     |── 01
-    |     |     |── ...
-    |     |     |── 99
-    │     ├── 1000460000.json
-    │     ├── tasks.json
+    │     └── Script.py
+    ├── multiple_data_python/
+    │     ├── extracted_tasks.json.py
+    │     ├── script.py  
+    │     └── script2.py
+    ├── slides/
+    │     └── Réunion 2.pptx
+    ├── .RData 
+    ├── .Rhistory
     ├── .gitignore
-    ├── LICENSE  
-    ├── README.md
-    └── requirements.txt 
+    └── README.md
 ```
-
-The ‘multiple_data’ folder contains a sample of the prediction data for the list of species with their score for each observation in the dataset (rather than a single prediction score).
