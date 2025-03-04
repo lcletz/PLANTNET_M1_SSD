@@ -6,20 +6,20 @@ from tqdm import tqdm
 def load_tasks(tasks_file):
     """Charge le fichier tasks.json contenant la correspondance des espèces."""
     if not os.path.exists(tasks_file):
-        print(f"❌ Erreur : le fichier {tasks_file} n'existe pas !")
+        print(f"Erreur : le fichier {tasks_file} n'existe pas !")
         return None
     
     with open(tasks_file, "r", encoding="utf-8") as f:
         try:
             tasks = json.load(f)
             if not tasks:  # Vérifie si le JSON est vide
-                print("⚠️ tasks.json est vide ou mal formaté !")
+                print("tasks.json est vide ou mal formaté !")
                 return None
-            print(f"✅ Chargé {len(tasks)} correspondances d'espèces")
-            print(f"🔍 Exemple de correspondance : {list(tasks.items())[:5]}")
+            print(f"Chargé {len(tasks)} correspondances d'espèces")
+            print(f"Exemple de correspondance : {list(tasks.items())[:5]}")
             return tasks
         except json.JSONDecodeError:
-            print(f"❌ Erreur : Impossible de lire {tasks_file}, format JSON invalide.")
+            print(f"Erreur : Impossible de lire {tasks_file}, format JSON invalide.")
             return None
 
 def process_json_files(input_dir, output_file, tasks_file):
@@ -132,7 +132,7 @@ for root, _, files in os.walk(input_dir):
             json_files.append(os.path.join(root, file))
 
 # Vérifier que des fichiers ont été trouvés
-print(f"📂 Nombre total de fichiers JSON trouvés : {len(json_files)}")
+print(f"Nombre total de fichiers JSON trouvés : {len(json_files)}")
 
 # Traitement avec écriture progressive
 with jsonlines.open(output_file, mode='w') as writer:
