@@ -20,8 +20,8 @@ library(factoextra)
 
 # Charger les fichiers JSON
 
-metadata <- fromJSON("plantnet300K_metadata.json", flatten = TRUE)
-species_id_name <- fromJSON("plantnet300K_species_id_2_name.json")
+metadata <- fromJSON("plantnet300K_metadata.json", flatten = TRUE) # ajuster le nom de fichier
+species_id_name <- fromJSON("plantnet300K_species_id_2_name.json") # adjust le nom de fichier
 
 ```
 
