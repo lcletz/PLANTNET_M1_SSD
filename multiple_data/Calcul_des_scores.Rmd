@@ -1,0 +1,387 @@
+---
+title: "Calcul des scores"
+author: "AIGOIN Emilie"
+date: "2025-03-04"
+output: html_document
+---
+
+```{r}
+
+library(dplyr)
+library(jsonlite)
+
+```
+
+```{r}
+
+# Charger les données
+
+# Charger les données de prédictions
+load_predictions <- function(predictions_file) {
+  predictions <- fromJSON(predictions_file)
+  return(predictions)
+}
+
+# Charger les ground truth depuis un fichier texte
+load_ground_truth <- function(ground_truth_file, predictions_file = NULL) {
+  # Charger le vecteur depuis le fichier texte
+  ground_truth <- as.numeric(read.table(ground_truth_file, header = FALSE)$V1)
+  
+  # Créer un dataframe avec les indices et les valeurs
+  if (!is.null(predictions_file)) {
+    # Si un fichier de prédictions est fourni, utiliser ses noms
+    predictions <- load_predictions(predictions_file)
+    image_ids <- names(predictions)
+  } else {
+    # Sinon, générer des ID séquentiels
+    image_ids <- as.character(seq_along(ground_truth))
+  }
+  
+  ground_truth_df <- data.frame(
+    image_id = image_ids,
+    expert_validation = ground_truth
+  )
+  
+  return(ground_truth_df)
+}
+
+```
+
+```{r}
+
+# Filtrer les données validées par un expert
+filter_expert_validated <- function(ground_truth) {
+  expert_validated <- ground_truth %>% 
+    filter(expert_validation != -1)
+  return(expert_validated)
+}
+
+```
+
+```{r}
+
+# Séparer les données en ensembles d'entraînement et de test
+split_data <- function(expert_validated, train_ratio = 2/3) {
+  set.seed(123)  # Pour reproductibilité
+  
+  # Échantillonnage stratifié
+  train_indices <- sample(1:nrow(expert_validated), 
+                          size = floor(train_ratio * nrow(expert_validated)))
+  
+  train_data <- expert_validated[train_indices, ]
+  test_data <- expert_validated[-train_indices, ]
+  
+  return(list(train = train_data, test = test_data))
+}
+
+```
+
+```{r}
+
+# Calculer les likelihood scores
+calculate_likelihood_scores <- function(predictions, ground_truth) {
+  likelihood_scores <- sapply(names(predictions), function(image_id) {
+    # Trouver la vraie classe pour cette image
+    true_class <- ground_truth$expert_validation[ground_truth$image_id == image_id]
+    
+    # Si pas de classe vraie, retourner NA
+    if(length(true_class) == 0 || true_class == -1) return(NA)
+    
+    # Convertir les prédictions en dataframe
+    pred_df <- data.frame(
+      plante = sapply(strsplit(predictions[[image_id]], ": "), `[`, 1),
+      probabilite = as.numeric(sapply(strsplit(predictions[[image_id]], ": "), `[`, 2))
+    )
+    
+    # Trouver la probabilité de la vraie classe
+    likelihood_score <- pred_df$probabilite[pred_df$plante == as.character(true_class)]
+    
+    return(likelihood_score)
+  })
+  
+  return(likelihood_scores)
+}
+
+```
+
+```{r}
+
+# Calculer les cumulative likelihood scores
+calculate_cumulative_likelihood_scores <- function(predictions, ground_truth) {
+  cumulative_scores <- sapply(names(predictions), function(image_id) {
+    # Trouver la vraie classe pour cette image
+    true_class <- ground_truth$expert_validation[ground_truth$image_id == image_id]
+    
+    # Si pas de classe vraie, retourner NA
+    if(length(true_class) == 0 || true_class == -1) return(NA)
+    
+    # Convertir les prédictions en dataframe et trier
+    pred_df <- data.frame(
+      plante = sapply(strsplit(predictions[[image_id]], ": "), `[`, 1),
+      probabilite = as.numeric(sapply(strsplit(predictions[[image_id]], ": "), `[`, 2))
+    ) %>% 
+      arrange(desc(probabilite))
+    
+    # Calculer le score cumulatif jusqu'à la classe correcte
+    cumulative_score <- sum(pred_df$probabilite[1:which(pred_df$plante == as.character(true_class))])
+    
+    return(cumulative_score)
+  })
+  
+  return(cumulative_scores)
+}
+
+```
+
+```{r}
+
+# Fonction principale
+main_analysis <- function(predictions_file, ground_truth_file) {
+  # Charger les données
+  predictions <- load_predictions(predictions_file)
+  ground_truth <- load_ground_truth(ground_truth_file)
+  
+  # Filtrer les données validées par un expert
+  expert_validated <- filter_expert_validated(ground_truth)
+  
+  # Séparer en ensembles d'entraînement et de test
+  data_split <- split_data(expert_validated)
+  
+  # Filtrer les prédictions pour correspondre aux données de test
+  test_predictions <- predictions[names(predictions) %in% data_split$test$image_id]
+  
+  # Calculer les scores
+  likelihood_scores <- calculate_likelihood_scores(test_predictions, data_split$test)
+  cumulative_scores <- calculate_cumulative_likelihood_scores(test_predictions, data_split$test)
+  
+  # Résultats
+  results <- list(
+    train_data = data_split$train,
+    test_data = data_split$test,
+    likelihood_scores = likelihood_scores,
+    cumulative_scores = cumulative_scores
+  )
+  
+  # Afficher un résumé
+  cat("Analyse des scores de prédiction conforme\n")
+  cat("Nombre total d'observations validées :", nrow(expert_validated), "\n")
+  cat("Ensemble d'entraînement :", nrow(data_split$train), "\n")
+  cat("Ensemble de test :", nrow(data_split$test), "\n\n")
+  
+  cat("Résumé des Likelihood Scores :\n")
+  print(summary(likelihood_scores))
+  
+  cat("\nRésumé des Cumulative Likelihood Scores :\n")
+  print(summary(cumulative_scores))
+  
+  return(results)
+}
+
+```
+
+```{r}
+
+# Exemple d'utilisation (à adapter avec vos chemins de fichiers)
+results <- main_analysis("output_test.json", "ground_truth.txt")
+
+# Exemple de code pour visualiser les distributions de scores
+plot_score_distributions <- function(results) {
+  par(mfrow=c(1,2))
+  
+  # Distribution des Likelihood Scores
+  hist(results$likelihood_scores, 
+       main = "Distribution des Likelihood Scores", 
+       xlab = "Score", 
+       col = "blue", 
+       breaks = 20)
+  
+  # Distribution des Cumulative Likelihood Scores
+  hist(results$cumulative_scores, 
+       main = "Distribution des Cumulative Likelihood Scores", 
+       xlab = "Score", 
+       col = "red", 
+       breaks = 20)
+}
+
+```
+
+```{r}
+
+# Fonction de débogage
+debug_prediction_matching <- function(predictions_file, ground_truth_file) {
+  # Charger les prédictions
+  predictions <- fromJSON(predictions_file)
+  
+  # Charger les ground truth
+  ground_truth <- as.numeric(read.table(ground_truth_file, header = FALSE)$V1)
+  
+  # Créer un dataframe avec les indices et les valeurs
+  ground_truth_df <- data.frame(
+    image_id = names(predictions),
+    expert_validation = ground_truth
+  )
+  
+  # Filtrer les données validées par un expert
+  expert_validated <- ground_truth_df %>% 
+    filter(expert_validation != -1)
+  
+  # Informations de débogage
+  cat("Nombre total de prédictions :", length(predictions), "\n")
+  cat("Nombre total de ground truth :", length(ground_truth), "\n")
+  cat("Nombre de ground truth validés :", nrow(expert_validated), "\n")
+  
+  # Vérifier les identifiants
+  cat("\nPremiers identifiants des prédictions :\n")
+  print(head(names(predictions)))
+  
+  cat("\nPremières valeurs de ground truth :\n")
+  print(head(ground_truth))
+  
+  # Vérifier la correspondance des identifiants
+  matched_ids <- intersect(names(predictions), as.character(expert_validated$image_id))
+  cat("\nNombre d'identifiants correspondants :", length(matched_ids), "\n")
+  
+  # Afficher quelques exemples de non-correspondance
+  if(length(matched_ids) == 0) {
+    cat("\nAucune correspondance trouvée entre les identifiants !\n")
+    cat("Type des identifiants de prédictions :", typeof(names(predictions)), "\n")
+    cat("Type des identifiants de ground truth :", typeof(expert_validated$image_id), "\n")
+  }
+}
+
+# Utilisation
+# Remplacez par vos chemins de fichiers
+debug_prediction_matching("output_test.json", "ground_truth.txt")
+
+```
+
+```{r}
+
+# Fonction pour réduire le ground truth
+reduce_ground_truth <- function(predictions_file, ground_truth_file, output_file) {
+  # Charger les prédictions
+  predictions <- fromJSON(predictions_file)
+  
+  # Charger les ground truth complet
+  ground_truth_full <- read.table(ground_truth_file, header = FALSE)
+  
+  # Récupérer les identifiants des prédictions
+  prediction_ids <- names(predictions)
+  
+  # Convertir les identifiants en numérique si nécessaire
+  prediction_ids_numeric <- as.numeric(prediction_ids)
+  
+  # Vérifier s'il y a suffisamment de lignes
+  if(length(prediction_ids_numeric) > nrow(ground_truth_full)) {
+    stop("Pas assez de lignes dans le ground truth pour correspondre aux prédictions")
+  }
+  
+  # Sélectionner les premières lignes correspondant aux prédictions
+  reduced_ground_truth <- ground_truth_full[1:length(prediction_ids_numeric), , drop = FALSE]
+  
+  # Écrire le ground truth réduit dans un nouveau fichier
+  write.table(reduced_ground_truth, 
+              file = output_file, 
+              row.names = FALSE, 
+              col.names = FALSE)
+  
+  # Afficher des informations sur la réduction
+  cat("Réduction du ground truth :\n")
+  cat("Nombre original de lignes :", nrow(ground_truth_full), "\n")
+  cat("Nouveau nombre de lignes :", nrow(reduced_ground_truth), "\n")
+  
+  return(reduced_ground_truth)
+}
+
+# Exemple d'utilisation
+reduced_gt <- reduce_ground_truth(
+"output_test.json", 
+"ground_truth.txt", 
+"ground_truth_reduit.txt"
+)
+
+```
+
+```{r}
+
+# Exemple d'utilisation (à adapter avec vos chemins de fichiers)
+results <- main_analysis("output_test.json", "ground_truth_reduit.txt")
+
+# Exemple de code pour visualiser les distributions de scores
+plot_score_distributions <- function(results) {
+  par(mfrow=c(1,2))
+  
+  # Distribution des Likelihood Scores
+  hist(results$likelihood_scores, 
+       main = "Distribution des Likelihood Scores", 
+       xlab = "Score", 
+       col = "blue", 
+       breaks = 20)
+  
+  # Distribution des Cumulative Likelihood Scores
+  hist(results$cumulative_scores, 
+       main = "Distribution des Cumulative Likelihood Scores", 
+       xlab = "Score", 
+       col = "red", 
+       breaks = 20)
+}
+
+```
+
+```{r}
+
+debug_validation <- function(predictions_file, ground_truth_file) {
+  # Charger les prédictions
+  predictions <- fromJSON(predictions_file)
+  
+  # Charger les ground truth
+  ground_truth <- read.table(ground_truth_file, header = FALSE)
+  
+  # Convertir en numérique
+  ground_truth_values <- as.numeric(ground_truth$V1)
+  
+  # Analyser la distribution des valeurs
+  cat("Distribution des valeurs dans ground truth :\n")
+  cat("Nombre total de lignes :", length(ground_truth_values), "\n")
+  cat("Nombre de -1 :", sum(ground_truth_values == -1), "\n")
+  cat("Nombre de valeurs différentes de -1 :", sum(ground_truth_values != -1), "\n")
+  
+  # Afficher la distribution complète
+  table_values <- table(ground_truth_values)
+  print(table_values)
+  
+  # Obtenir les valeurs uniques non -1
+  unique_validated_values <- unique(ground_truth_values[ground_truth_values != -1])
+  cat("\nValeurs uniques différentes de -1 :\n")
+  print(unique_validated_values)
+  
+  # Créer un dataframe de débogage
+  debug_df <- data.frame(
+    image_id = names(predictions),
+    ground_truth = ground_truth_values
+  )
+  
+  # Filtrer les observations validées
+  expert_validated <- debug_df %>% 
+    filter(ground_truth != -1)
+  
+  cat("\nInformations sur les observations validées :\n")
+  cat("Nombre total d'observations validées :", nrow(expert_validated), "\n")
+  
+  # Vérifier les correspondances
+  if(nrow(expert_validated) > 0) {
+    cat("\nPremières observations validées :\n")
+    print(head(expert_validated))
+  }
+  
+  return(debug_df)
+}
+
+# Exemple d'utilisation
+debug_result <- debug_validation("output_test.json", "ground_truth_reduit.txt")
+
+```
+
+
+
+
