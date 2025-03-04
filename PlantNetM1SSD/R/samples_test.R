@@ -21,10 +21,10 @@ samples <- samples %>%
   ) %>%
   rowwise() %>%
   mutate(
-    min_len = min(length(name[[1]]), length(id[[1]]), length(score[[1]])),
-    name = list(name[[1]][1:min_len]),
-    id = list(id[[1]][1:min_len]),
-    score = list(score[[1]][1:min_len])
+    min_len = min(length(name), length(id), length(score)),
+    name = list(name[1:min_len]),
+    id = list(id[1:min_len]),
+    score = list(score[1:min_len])
   ) %>%
   ungroup() %>%
   select(-min_len) %>%
@@ -45,3 +45,9 @@ write_json(merged_df, 'data/merged_samples.json', pretty=TRUE)
 
 test <- anti_join(samples, tasks_df, join_by(file==plantnet_id))
 test2 <- anti_join(tasks_df, samples, join_by(plantnet_id==file))
+
+gt <- fromJSON("data/ground_truth.json")
+merged_truth <- merge(merged_df, gt, by.x = 'plant_swe_id', by.y = 'plantswe_id')
+merged_truth <- merged_truth[!duplicated(merged_truth$plant_swe_id), ]
+
+write_json(merged_truth, 'data/merged_truth.json', pretty=TRUE)
