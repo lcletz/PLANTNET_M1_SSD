@@ -5,20 +5,11 @@ Thumbs.db
 # Fichiers R
 *.RData
 *.Rhistory
-<<<<<<< HEAD
+.Rproj.user
 
-# Fichiers système macOS
-.DS_Store
-=======
 PlantNet_M1_SSD.Rproj
 PlantNet_M1_SSD_0.1.0.tar.gz
 PlantNetM1SSD.Rcheck/
 
 # Fichiers système macOS
 .DS_Store
-<<<<<<< HEAD
-Thumbs.db
-.Rproj.user
-=======
->>>>>>> main
->>>>>>> dc935cb05ac28c8147f16e115b56202bf07ad2c1
