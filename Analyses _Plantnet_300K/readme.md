@@ -1,0 +1,1 @@
+In this folder you will find the ‘Visualisation.Rmd’ file, which allows you to carry out visual analyses of our data (using several types of graph).
