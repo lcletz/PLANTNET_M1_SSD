@@ -1,0 +1,194 @@
+---
+title: "ai"
+author: "AIGOIN Emilie"
+date: "2025-03-10"
+output: html_document
+---
+
+Croiser les données de tasks et de answers
+
+```{r}
+
+# Charger la bibliothèque jsonlite
+library(jsonlite)
+
+# Lire les fichiers JSON
+tasks <- fromJSON("/Users/emilieaigoin/Desktop/multiple_data/tasks.json")
+ai_answers <- fromJSON("/Users/emilieaigoin/Desktop/multiple_data/ai_answers.json")
+
+# Créer un data frame pour stocker les résultats
+resultats <- data.frame(
+  task_id = names(tasks),
+  task_value = unname(tasks),
+  stringsAsFactors = FALSE
+)
+
+# Ajouter une colonne pour les valeurs correspondantes de ai_answers
+resultats$answer_value <- NA
+
+# Pour chaque ligne du data frame
+for (i in 1:nrow(resultats)) {
+  # Obtenir la valeur de task (qui correspond à la clé dans ai_answers)
+  task_value_str <- as.character(resultats$task_value[i])
+  
+  # Vérifier si cette clé existe dans ai_answers
+  if (task_value_str %in% names(ai_answers)) {
+    # Si oui, ajouter la valeur correspondante
+    resultats$answer_value[i] <- ai_answers[[task_value_str]]
+  }
+}
+
+# Créer un nouveau fichier JSON avec les résultats
+# On transforme le data frame en une liste pour avoir un format similaire aux fichiers d'origine
+resultats_json <- list()
+for (i in 1:nrow(resultats)) {
+  resultats_json[[resultats$task_id[i]]] <- list(
+    task_value = resultats$task_value[i],
+    answer_value = resultats$answer_value[i]
+  )
+}
+
+# Sauvegarder le résultat
+write_json(resultats_json, "/Users/emilieaigoin/Desktop/multiple_data/tasks_answers_merged.json", pretty = TRUE, auto_unbox = TRUE)
+
+# Aussi exporter en CSV pour une visualisation plus facile
+write.csv(resultats, "/Users/emilieaigoin/Desktop/multiple_data/tasks_answers_merged.csv", row.names = FALSE)
+
+cat("Fichiers de résultats créés avec succès !\n")
+
+```
+
+Test avec un petit échantillon.
+```{r}
+
+# Charger la bibliothèque jsonlite
+library(jsonlite)
+
+# Lire les fichiers JSON
+tasks <- fromJSON("/Users/emilieaigoin/Desktop/multiple_data/tasks.json")
+ai_answers <- fromJSON("/Users/emilieaigoin/Desktop/multiple_data/ai_answers.json")
+
+# Créer un échantillon des données tasks (par exemple, les 10 premières entrées)
+# Vous pouvez ajuster la taille de l'échantillon selon vos besoins
+nombre_echantillon <- length(tasks)
+noms_tasks <- names(tasks)
+echantillon_noms <- noms_tasks[1:min(nombre_echantillon, length(noms_tasks))]
+
+# Créer un sous-ensemble de tasks
+echantillon_tasks <- tasks[echantillon_noms]
+
+# Créer un vecteur nommé pour faciliter le lookup
+ai_answers_vec <- unname(ai_answers)
+names(ai_answers_vec) <- names(ai_answers)
+
+# Créer directement le résultat au format JSON
+resultats_json <- list()
+
+# Parcourir l'échantillon de tasks
+for (task_id in names(echantillon_tasks)) {
+  task_value <- echantillon_tasks[[task_id]]
+  task_value_str <- as.character(task_value)
+  
+  # Lookup direct
+  answer_value <- ai_answers_vec[task_value_str]
+  
+  # Si NA, conserver NA sinon prendre la valeur
+  if (is.na(answer_value)) {
+    resultats_json[[task_id]] <- list(
+      task_value = task_value,
+      answer_value = NA
+    )
+  } else {
+    resultats_json[[task_id]] <- list(
+      task_value = task_value,
+      answer_value = as.numeric(answer_value)
+    )
+  }
+}
+
+# Sauvegarder le résultat
+write_json(resultats_json, "/Users/emilieaigoin/Desktop/multiple_data/sample_tasks_answers_merged.json", pretty = TRUE, auto_unbox = TRUE)
+
+cat("Fichier d'échantillon créé avec succès !\n")
+
+```
+
+```{r}
+
+# Charger les bibliothèques nécessaires
+library(jsonlite)
+library(data.table)
+
+# Lecture des fichiers JSON
+cat("Lecture des fichiers JSON...\n")
+tasks <- fromJSON("/Users/emilieaigoin/Desktop/multiple_data/tasks.json")
+ai_answers <- fromJSON("/Users/emilieaigoin/Desktop/multiple_data/ai_answers.json")
+
+# Conversion en data.table pour traitement plus rapide
+cat("Conversion des données...\n")
+tasks_dt <- data.table(
+  task_id = names(tasks),
+  task_value = as.character(unlist(tasks))  # Conversion explicite en caractères
+)
+
+answers_dt <- data.table(
+  task_value = as.character(names(ai_answers)),  # Conversion explicite en caractères
+  answer_value = unlist(ai_answers)
+)
+
+# Ajouter une clé pour accélérer les jointures
+setkey(tasks_dt, task_value)
+setkey(answers_dt, task_value)
+
+# Traitement par lots pour réduire l'empreinte mémoire
+cat("Traitement des données par lots...\n")
+batch_size <- 500000  # Ajustez selon votre mémoire disponible
+num_batches <- ceiling(nrow(tasks_dt) / batch_size)
+resultats_list <- list()
+
+for (i in 1:num_batches) {
+  cat(sprintf("Traitement du lot %d sur %d...\n", i, num_batches))
+  
+  # Sélectionner un lot de données
+  start_idx <- (i-1) * batch_size + 1
+  end_idx <- min(i * batch_size, nrow(tasks_dt))
+  batch <- tasks_dt[start_idx:end_idx]
+  
+  # Joindre avec les réponses AI (utilisation de merge qui est plus sûr avec les types)
+  result_batch <- merge(batch, answers_dt, by = "task_value", all.x = TRUE)
+  
+  # Création du format de sortie
+  resultats_batch <- lapply(1:nrow(result_batch), function(j) {
+    row <- result_batch[j]
+    list(
+      task_value = row$task_value,
+      answer_value = if(is.na(row$answer_value)) NA else as.numeric(row$answer_value)
+    )
+  })
+  
+  # Nommer les éléments avec task_id
+  names(resultats_batch) <- result_batch$task_id
+  
+  # Ajouter au résultat global
+  resultats_list <- c(resultats_list, resultats_batch)
+  
+  # Écrire les résultats intermédiaires (optionnel)
+  if (i %% 5 == 0 || i == num_batches) {
+    temp_filename <- sprintf("/Users/emilieaigoin/Desktop/multiple_data/temp_results_batch_%d.json", i)
+    write_json(resultats_list, temp_filename, pretty = TRUE, auto_unbox = TRUE)
+    cat(sprintf("Résultats intermédiaires sauvegardés dans %s\n", temp_filename))
+  }
+}
+
+# Sauvegarder le résultat final
+cat("Écriture du fichier JSON final...\n")
+write_json(resultats_list, "/Users/emilieaigoin/Desktop/multiple_data/tasks_answers_merged.json", 
+           pretty = TRUE, auto_unbox = TRUE)
+
+cat("Traitement terminé avec succès !\n")
+
+```
+
+
+
+
