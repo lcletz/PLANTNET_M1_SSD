@@ -59,7 +59,7 @@ with open("/home/anne-laure/projet/PLANTNET_M1_SSD/extracted_data/converters/tas
     tasks = json.load(f)
 
 # Vérification
-print(f"Nombre d'observations dans output_final1.json : {len(output_data)}")
+print(f"Nombre d'observations dans output_final.json : {len(output_data)}")
 print(f"Nombre d'observations attendues dans tasks.json : {len(tasks)}")
 
 # On obtient :
@@ -82,28 +82,4 @@ for root, _, files in os.walk(input_dir):
 print(f"Nombre total de fichiers JSON trouvés : {len(json_files)}")
 print(f"Exemples de chemins : {json_files[:5]}")
 
-# On obtient un nombre total de fichiers JSON trouvés : 8183.
-
-# Verifions maintenant si les IDs dans tasks.json correspondent bien à ceux présents dans les noms des fichiers JSON.
-# %%
-# Affiche quelques IDs pour comparer leur format
-print(f"Exemples d'IDs dans tasks.json : {list(valid_obs_ids)[:5]}")
-print(f"Exemples d'IDs de fichiers JSON détectés : {[os.path.splitext(os.path.basename(file))[0] for file in json_files[:5]]}")
-
-# Les IDs dans tasks.json semblent être à 10 chiffres, tandis que les fichiers JSON sont également à 10 chiffres mais semblent différer légèrement.
-# Il faut que les deux soient au même format, donc nous devons comparer les IDs correctement.
-
-
-
-#%%
-# Nettoyage des IDs dans tasks.json
-valid_obs_ids = {str(obs_id).strip() for obs_id in tasks.keys()}
-
-# Nettoyage des IDs de fichiers JSON
-json_file_ids = {os.path.splitext(os.path.basename(file))[0].strip() for file in json_files}
-
-# Afficher les nouveaux ensembles
-print(f"IDs dans tasks.json après nettoyage : {list(valid_obs_ids)[:5]}")
-print(f"IDs des fichiers JSON après nettoyage : {list(json_file_ids)[:5]}")
-
-# %%
+# On obtient un nombre total de fichiers JSON trouvés : 67466.
