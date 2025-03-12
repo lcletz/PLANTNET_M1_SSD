@@ -5,45 +5,50 @@ date: "2025-03-10"
 output: html_document
 ---
 
-Croiser les données de samples et de tasks
+Croiser les données de samples et de tasks : échantillon de 1 000 000 lignes
 
 ```{r}
 
-# Charger les bibliothèques nécessaires
-library(jsonlite)
-
-# Charger les fichiers JSON
-resultat_enrichi <- fromJSON("/Users/emilieaigoin/Desktop/multiple_data/resultat_enrichi.json")
-sample_tasks_answers_merged <- fromJSON("/Users/emilieaigoin/Desktop/multiple_data/sample_tasks_answers_merged.json")
-
-# Fonction pour comparer les identifiants
-add_correct_column <- function(resultat_enrichi, sample_tasks_answers_merged) {
-  for (key in names(resultat_enrichi)) {
-    for (i in 1:length(resultat_enrichi[[key]])) {
-      second_id <- resultat_enrichi[[key]][[i]]$second_id
-      # Vérifier si le second_id est dans sample_tasks_answers_merged
-      if (as.character(second_id) %in% names(sample_tasks_answers_merged)) {
-        answer_value <- sample_tasks_answers_merged[[as.character(second_id)]]$answer_value
-        # Comparer les second_id et answer_value
-        if (second_id == answer_value) {
-          resultat_enrichi[[key]][[i]]$correct <- 1
-        } else {
-          resultat_enrichi[[key]][[i]]$correct <- 0
-        }
+# Approche très simplifiée
+croisement_simple <- function(chemin_resultat, chemin_tasks, chemin_sortie) {
+  library(jsonlite)
+  
+  # Charger les fichiers JSON
+  resultat <- fromJSON(chemin_resultat, simplifyVector = FALSE)
+  tasks <- fromJSON(chemin_tasks, simplifyVector = FALSE)
+  
+  # Pour chaque observation (clé) dans le résultat
+  for (obs_id in names(resultat)) {
+    # Récupérer la valeur attendue pour cette observation
+    expected_value <- NULL
+    if (obs_id %in% names(tasks)) {
+      expected_value <- tasks[[obs_id]]$answer_value
+    }
+    
+    # Pour chaque élément dans cette observation
+    for (i in 1:length(resultat[[obs_id]])) {
+      item <- resultat[[obs_id]][[i]]
+      
+      # Vérifier la correspondance
+      if (!is.null(expected_value) && !is.null(item$second_id) && 
+          item$second_id == expected_value) {
+        resultat[[obs_id]][[i]]$correct <- 1
       } else {
-        resultat_enrichi[[key]][[i]]$correct <- 0
+        resultat[[obs_id]][[i]]$correct <- 0
       }
     }
   }
-  return(resultat_enrichi)
+  
+  # Écrire le résultat
+  writeLines(toJSON(resultat, pretty = TRUE, auto_unbox = TRUE), chemin_sortie)
+  
+  cat("Terminé. Résultat enregistré dans:", chemin_sortie, "\n")
+  return(resultat)
 }
 
-# Appliquer la fonction pour ajouter la colonne 'correct'
-resultat_enrichi <- add_correct_column(resultat_enrichi, sample_tasks_answers_merged)
-
-# Sauvegarder le fichier modifié
-write_json(resultat_enrichi, "/Users/emilieaigoin/Desktop/multiple_data/resultat_enrichi_with_correct.json", pretty = TRUE)
-
+# Exemple d'utilisation
+resultat_croise <- croisement_simple("/Users/emilieaigoin/Desktop/Test-ordinateur/multiple_data/sample_1000123.json", "/Users/emilieaigoin/Desktop/Test-ordinateur/multiple_data/tasks_answers_merged.json", "/Users/emilieaigoin/Desktop/Test-ordinateur/multiple_data/RESULTATS_1000123.json")
 
 ```
+
 
