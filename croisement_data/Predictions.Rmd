@@ -1,0 +1,206 @@
+---
+title: "Prédictions"
+author: "AIGOIN Emilie"
+date: "2025-03-10"
+output: html_document
+---
+
+```{r, warning = FALSE}
+
+# Charger les packages
+
+library(jsonlite)
+library(purrr)
+
+```
+
+```{r}
+
+# Mise en place du dossier de travail
+
+# Définir le chemin vers le dossier de travail : !!!! à changer !!!!
+chemin <- "/Users/emilieaigoin/Desktop/Test-ordinateur/multiple_data"
+
+# Changer le répertoire actuel vers ce dossier
+setwd(chemin)
+
+# Afficher le répertoire de travail pour confirmation
+cat("Répertoire de travail actuel:", getwd(), "\n")
+
+```
+
+```{r}
+
+# Vérifier si le dossier "00" existe dans ce répertoire
+
+if (!dir.exists("00")) {
+  cat("Le dossier '00' n'existe pas dans", getwd(), "\n")
+  cat("Contenu du répertoire actuel :", paste(list.files(), collapse = ", "), "\n")
+  stop("Le dossier '00' est introuvable. Veuillez vérifiez le chemin.")
+} else {
+  cat("Le dossier '00' existe bien dans le répertoire actuel", "\n")
+}
+
+```
+
+```{r}
+
+# Fonction qui crée une structure avec toutes les variables séparées
+
+process_plant_data_advanced <- function() {
+  
+  # Lister tous les sous-répertoires dans le répertoire "00"
+  subdirs <- list.files("00", full.names = TRUE)
+  cat("Sous-répertoires trouvés:", length(subdirs), "\n")
+  
+  # Initialiser une liste vide pour stocker les résultats
+  all_results <- list()
+  
+  # Pour chaque sous-répertoire
+  for (subdir in subdirs) {
+    
+    # Lister tous les fichiers JSON dans le sous-répertoire
+    json_files <- list.files(subdir, pattern = "\\.json$", full.names = TRUE)
+    
+    for (file_path in json_files) {
+      
+      # Lire le fichier JSON
+      json_data <- tryCatch(       
+        fromJSON(file_path),          # Essaie de lire les fichiers JSON
+        error = function(e) {         # Si une erreue survient
+          warning(paste("Erreur lors de la lecture du fichier:", file_path))
+          next                        # Passe au fichier suivant après l'avoir notifié
+        }
+      )
+      
+      # Vérifier si les données JSON sont valides et contiennent des résultats
+      if (is.null(json_data) || 
+          is.null(json_data$results) || 
+          length(json_data$results) == 0) 
+        next
+      
+      # Extraire l'ID d'observation du nom du fichier (récupère le nom du fichier sans le chemin ni l'extension)
+      obs_id <- tools::file_path_sans_ext(basename(file_path))
+      
+      # Créer une liste de noms et probabilités
+      result <- list()
+      for (i in 1:length(json_data$results$name)) {
+        entry <- list(
+          name = json_data$results$name[i],
+          obs = json_data$results$id[i],
+          proba = json_data$results$score[i]
+        )
+        result[[i]] <- entry
+      }
+      
+      # Ajouter cette observation aux résultats
+      all_results[[obs_id]] <- result
+    }
+    
+    # Afficher la progression
+    cat(sprintf("Traitement du dossier %s terminé (%d fichiers traités)\n", 
+                basename(subdir), length(json_files)))
+  }
+  
+  # Vérifier si des résultats ont été collectés
+  if (length(all_results) == 0) {
+    cat("Aucun fichier JSON valide n'a été traité.\n")
+    return(NULL)
+  }
+  
+  # Sauvegarder les résultats finaux sous forme de fichier JSON
+  output_path <- "1_predictions.json"
+  write_json(all_results, 
+             output_path, 
+             auto_unbox = TRUE, # Simplifie la strutcure des données dans le fichier
+             pretty = TRUE)     # Formatte le JSON pour une meilleure lisibilité
+  
+  cat("\n", 
+      "SUCCÈS: Fichier créé avec succès à:", 
+      normalizePath(output_path),            # Chemin complet du fichier créé
+      "\n")
+  
+  # Retourner les résultats
+  return(all_results)
+}
+
+```
+
+```{r}
+
+# Exécuter la fonction
+
+cat("\n--- CRÉATION DU FICHIER AVEC DONNÉES STRUCTURÉES ---\n")
+result <- process_plant_data_advanced()
+
+# Afficher un résumé
+cat("\nLe fichier 1_predictions.json a été créé dans", getwd(), ":\n")
+
+```
+
+## 2. Croiser les fichiers de données et de classes à l'aide du nom pour avoir les identifiants Pl@ntnet 
+
+```{r}
+
+# Lire les fichiers JSON
+
+predictions <- fromJSON(file.path(chemin, "1_predictions.json"), 
+                        simplifyDataFrame = FALSE)
+classes <- fromJSON(file.path(chemin, "ai_classes.json"))
+
+```
+
+```{r}
+
+# Création d'une fonction pour traiter chaque observation
+ajout_classes <- function(observation) {
+  
+  # observation est une liste d'espèces prédites
+  for (i in 1:length(observation)) {
+    
+    # Obtenir le nom de l'espèce
+    nom_espece <- observation[[i]]$name
+    
+    # Vérifier si le nom existe dans le deuxième fichier
+    if (nom_espece %in% names(classes)) {
+      
+      # Si oui, ajouter l'identifiant
+      observation[[i]]$id_SWE <- classes[[nom_espece]]
+    } else {
+      
+      # Sinon, ajouter NA
+      observation[[i]]$id_SWE <- NA
+    }
+  }
+  
+  return(observation)
+}
+
+```
+
+```{r}
+
+# Utilisation de la seconde fonction
+
+# Initialisation d'une liste vide
+resultat <- list()
+
+# Traitement de chaque observation dans le premier fichier
+for (id_obs in names(predictions)) {
+  
+  # Appliquer la fonction d'enrichissement à cette observation
+  resultat[[id_obs]] <- ajout_classes(predictions[[id_obs]])
+}
+
+# Sauvegarder le résultat dans un nouveau fichier JSON
+write_json(resultat, 
+           file.path(chemin, "2_predictions_classes.json"), 
+           auto_unbox = TRUE,
+           pretty = TRUE)
+
+cat("Le fichier enrichi avec les classes a été créé avec succès !\n")
+
+```
+
+
+
