@@ -5,245 +5,86 @@ date: "2025-03-10"
 output: html_document
 ---
 
-Croiser les données de samples et de tasks
-
 ```{r}
 
-# Charger les bibliothèques nécessaires
-library(jsonlite)
-
-# Charger les fichiers JSON
-resultat_enrichi <- fromJSON("/Users/emilieaigoin/Desktop/multiple_data/resultat_enrichi.json")
-sample_tasks_answers_merged <- fromJSON("/Users/emilieaigoin/Desktop/multiple_data/tasks_answers_merged.json")
-
-# Fonction pour comparer les identifiants
-add_correct_column <- function(resultat_enrichi, sample_tasks_answers_merged) {
-  for (key in names(resultat_enrichi)) {
-    for (i in 1:length(resultat_enrichi[[key]])) {
-      second_id <- resultat_enrichi[[key]][[i]]$second_id
-      # Vérifier si le second_id est dans sample_tasks_answers_merged
-      if (as.character(second_id) %in% names(sample_tasks_answers_merged)) {
-        answer_value <- sample_tasks_answers_merged[[as.character(second_id)]]$answer_value
-        # Comparer les second_id et answer_value
-        if (second_id == answer_value) {
-          resultat_enrichi[[key]][[i]]$correct <- 1
-        } else {
-          resultat_enrichi[[key]][[i]]$correct <- 0
-        }
-      } else {
-        resultat_enrichi[[key]][[i]]$correct <- 0
-      }
-    }
-  }
-  return(resultat_enrichi)
-}
-
-# Appliquer la fonction pour ajouter la colonne 'correct'
-resultat_enrichi <- add_correct_column(resultat_enrichi, sample_tasks_answers_merged)
-
-# Sauvegarder le fichier modifié
-write_json(resultat_enrichi, "/Users/emilieaigoin/Desktop/multiple_data/croisement.json", pretty = TRUE)
-
-```
-
-```{r}
-
-# Pour créer un échantillon aléatoire des clés de votre fichier resultat_enrichi
-sample_keys <- sample(names(resultat_enrichi), size = min(5, length(names(resultat_enrichi))))
-
-# Créer un sous-ensemble du resultat_enrichi
-sample_resultat <- resultat_enrichi[sample_keys]
-
-# Limiter chaque clé à quelques éléments
-for (key in names(sample_resultat)) {
-  if (length(sample_resultat[[key]]) > 3) {
-    sample_resultat[[key]] <- sample_resultat[[key]][1:3]
-  }
-}
-
-# Appliquer la fonction sur cet échantillon
-sample_resultat_avec_correct <- add_correct_column(sample_resultat, sample_tasks_answers_merged)
-
-# Examiner les résultats
-print(sample_resultat_avec_correct)
-
-# Optionnellement, sauvegarder l'échantillon
-write_json(sample_resultat_avec_correct, "/Users/emilieaigoin/Desktop/multiple_data/echantillon_croisement.json", pretty = TRUE)
-
-```
-
-Test avec petit échantillon
-
-```{r}
+# Charger les packages
 
 library(jsonlite)
 
-# Fonction simplifiée pour extraire un petit échantillon
-extract_quick_sample <- function(input_path, output_path) {
-  # Lire seulement les premières lignes du fichier
-  cmd <- sprintf("head -n 1000 '%s' > '%s'", input_path, output_path)
-  system(cmd)
-  
-  # Corriger le JSON pour qu'il soit valide (ajouter les accolades/crochets fermants)
-  con <- file(output_path, "r+")
-  lines <- readLines(con)
-  close(con)
-  
-  # Compter les accolades et crochets ouverts
-  open_braces <- sum(gregexpr("\\{", paste(lines, collapse = ""))[[1]] > 0)
-  close_braces <- sum(gregexpr("\\}", paste(lines, collapse = ""))[[1]] > 0)
-  open_brackets <- sum(gregexpr("\\[", paste(lines, collapse = ""))[[1]] > 0)
-  close_brackets <- sum(gregexpr("\\]", paste(lines, collapse = ""))[[1]] > 0)
-  
-  # Ajouter les accolades/crochets fermants manquants
-  additional_closing <- paste(
-    rep("}", open_braces - close_braces),
-    rep("]", open_brackets - close_brackets),
-    collapse = ""
-  )
-  
-  # Écrire le JSON corrigé
-  writeLines(c(lines, additional_closing), output_path)
-  
-  # Tenter de valider et corriger le JSON
-  tryCatch({
-    test <- fromJSON(output_path)
-    write_json(test, output_path)
-    return(TRUE)
-  }, error = function(e) {
-    # Si ça échoue, essayer une méthode encore plus brutale
-    cmd2 <- sprintf("echo '{\"sample\": [{}]}' > '%s'", output_path)
-    system(cmd2)
-    return(FALSE)
-  })
-}
-
-# Extraire un échantillon rapide
-extract_quick_sample(
-  "/Users/emilieaigoin/Desktop/multiple_data/resultat_enrichi.json",
-  "/Users/emilieaigoin/Desktop/multiple_data/resultat_enrichi_quick_sample.json"
-)
-
-# Alternative: extraire juste quelques lignes pour voir la structure
-system("head -n 20 '/Users/emilieaigoin/Desktop/multiple_data/resultat_enrichi.json' > '/Users/emilieaigoin/Desktop/multiple_data/resultat_enrichi_head.txt'")
-
-```
-
-
-Nouveau test avec chargement des données au préalable
-
-```{r}
-
-library(jsonlite)
-
-# Charger le fichier JSON
-tasks_answers <- fromJSON("/Users/emilieaigoin/Desktop/multiple_data/tasks_answers_merged.json")
-
 ```
 
 ```{r}
 
-# Charger le fichier JSON - échantillon
-tasks_answers <- fromJSON("/Users/emilieaigoin/Desktop/Test-ordinateur/multiple_data/sample_tasks.json")
+# Mise en place du dossier de travail
+
+# Définir le chemin vers le dossier de travail : !!!! à changer !!!!
+chemin <- "/Users/emilieaigoin/Desktop/Test-ordinateur/multiple_data"
+
+# Changer le répertoire actuel vers ce dossier
+setwd(chemin)
+
+# Afficher le répertoire de travail pour confirmation
+cat("Répertoire de travail actuel:", getwd(), "\n")
 
 ```
 
+Découper le fichier 2_predictions_classes.json en 7 sous-fichiers nommés 2.n_prediction_sample_n.json pour gagner du temps de chargement (code ci-dessous à exécuter donc 7 fois)
 
 ```{r}
 
-resultat_sample <- fromJSON("/Users/emilieaigoin/Desktop/Test-ordinateur/multiple_data/resultat_echantillon_valide.json")
+# Fonction de croisement des fichiers
 
-```
-
-BLOC QUI FONCTIONNE
-
-```{r}
-
-# Approche très simplifiée
 croisement_simple <- function(chemin_resultat, chemin_tasks, chemin_sortie) {
-  library(jsonlite)
   
   # Charger les fichiers JSON
   resultat <- fromJSON(chemin_resultat, simplifyVector = FALSE)
   tasks <- fromJSON(chemin_tasks, simplifyVector = FALSE)
   
-  # Pour chaque observation (clé) dans le résultat
-  for (obs_id in names(resultat)) {
+  # Boucle pour traiter chaque observation dans le résultat
+  for (i in names(resultat)) {
+    
     # Récupérer la valeur attendue pour cette observation
     expected_value <- NULL
-    if (obs_id %in% names(tasks)) {
-      expected_value <- tasks[[obs_id]]$answer_value
+    
+    # Si l'id existe aussi dans le fichier ai, récupérer la valeur attendue
+    if (i %in% names(tasks)) {
+      expected_value <- tasks[[i]]$id_SWE
     }
     
     # Pour chaque élément dans cette observation
-    for (i in 1:length(resultat[[obs_id]])) {
-      item <- resultat[[obs_id]][[i]]
+    for (j in 1:length(resultat[[i]])) {
+      item <- resultat[[i]][[j]]
       
       # Vérifier la correspondance
-      if (!is.null(expected_value) && !is.null(item$second_id) && 
-          item$second_id == expected_value) {
-        resultat[[obs_id]][[i]]$correct <- 1
+      if (!is.null(expected_value) && !is.null(item$id_SWE) && 
+          item$id_SWE == expected_value) {
+        resultat[[i]][[j]]$correct <- 1
       } else {
-        resultat[[obs_id]][[i]]$correct <- 0
+        resultat[[i]][[j]]$correct <- 0
       }
     }
   }
   
   # Écrire le résultat
-  writeLines(toJSON(resultat, pretty = TRUE, auto_unbox = TRUE), chemin_sortie)
+  writeLines(toJSON(resultat, 
+                    pretty = TRUE, 
+                    auto_unbox = TRUE),
+             chemin_sortie)
   
   cat("Terminé. Résultat enregistré dans:", chemin_sortie, "\n")
   return(resultat)
 }
 
-# Exemple d'utilisation
-resultat_croise <- croisement_simple("/Users/emilieaigoin/Desktop/Test-ordinateur/multiple_data/resultat_enrichi.json", "/Users/emilieaigoin/Desktop/Test-ordinateur/multiple_data/tasks_answers_merged.json", "/Users/emilieaigoin/Desktop/Test-ordinateur/multiple_data/RESULTATS.json")
-
 ```
-
-Avec plusieurs fichiers découpés pour limiter le temps 
 
 ```{r}
 
-# Approche très simplifiée
-croisement_simple <- function(chemin_resultat, chemin_tasks, chemin_sortie) {
-  library(jsonlite)
-  
-  # Charger les fichiers JSON
-  resultat <- fromJSON(chemin_resultat, simplifyVector = FALSE)
-  tasks <- fromJSON(chemin_tasks, simplifyVector = FALSE)
-  
-  # Pour chaque observation (clé) dans le résultat
-  for (obs_id in names(resultat)) {
-    # Récupérer la valeur attendue pour cette observation
-    expected_value <- NULL
-    if (obs_id %in% names(tasks)) {
-      expected_value <- tasks[[obs_id]]$answer_value
-    }
-    
-    # Pour chaque élément dans cette observation
-    for (i in 1:length(resultat[[obs_id]])) {
-      item <- resultat[[obs_id]][[i]]
-      
-      # Vérifier la correspondance
-      if (!is.null(expected_value) && !is.null(item$second_id) && 
-          item$second_id == expected_value) {
-        resultat[[obs_id]][[i]]$correct <- 1
-      } else {
-        resultat[[obs_id]][[i]]$correct <- 0
-      }
-    }
-  }
-  
-  # Écrire le résultat
-  writeLines(toJSON(resultat, pretty = TRUE, auto_unbox = TRUE), chemin_sortie)
-  
-  cat("Terminé. Résultat enregistré dans:", chemin_sortie, "\n")
-  return(resultat)
-}
+# Utilisation de la fonction (attention changer le nom du premier et dernier fichier pour chaque sous-fichier à exécuter)
 
-# Exemple d'utilisation
-resultat_croise <- croisement_simple("/Users/emilieaigoin/Desktop/Test-ordinateur/multiple_data/sample_6141248.json", "/Users/emilieaigoin/Desktop/Test-ordinateur/multiple_data/tasks_answers_merged.json", "/Users/emilieaigoin/Desktop/Test-ordinateur/multiple_data/RESULTATS_6141248.json")
+res <- croisement_simple(file.path(chemin, "2.7_prediction_sample_7.json"), 
+                         file.path(chemin, "3_trues_classes.json"), 
+                         file.path(chemin, "4.7_results_7.json"))
 
 ```
+
 
