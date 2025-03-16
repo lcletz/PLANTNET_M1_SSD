@@ -34,18 +34,18 @@ cat("Répertoire de travail actuel:", getwd(), "\n")
 # Chargement des données
 
 # Lecture des fichiers JSON
-#tasks <- fromJSON(file.path(chemin, "tasks.json"))
-#ai_answers <- fromJSON(file.path(chemin, "ai_answers.json"))
+tasks <- fromJSON(file.path(chemin, "tasks.json"))
+ai_answers <- fromJSON(file.path(chemin, "ai_answers.json"))
 
 # Conversion en data.table pour traitement plus rapide
 cat("Conversion des données...\n")
 tasks_dt <- data.table(
-  task_id = names(tasks),
-  task_value = as.character(unlist(tasks))
+ task_id = names(tasks),
+ task_value = as.character(unlist(tasks))  # Conversion explicite en caractères
 )
 answers_dt <- data.table(
-  task_value = as.character(names(ai_answers)),
-  answer_value = unlist(ai_answers)
+ task_value = as.character(names(ai_answers)),  # Conversion explicite en caractères
+ answer_value = unlist(ai_answers)
 )
 cat("Conversion des données terminée \n")
 
@@ -57,70 +57,67 @@ setkey(answers_dt, task_value)
 
 ```{r}
 
-# Traitement des données
+# Fonction de croisement des données ai
 
-traiter_donnees <- function(tasks_dt, answers_dt, batch_size = 500000) {
-  cat("Traitement des données par lots...\n")
-  num_batches <- ceiling(nrow(tasks_dt) / batch_size)
-  resultats_list <- list()
-  
-  for (i in 1:num_batches) {
-    cat(sprintf("Traitement du lot %d sur %d...\n", i, num_batches))
-    
-    # Sélectionner un des lots de données
-    start_idx <- (i-1) * batch_size + 1
-    end_idx <- min(i * batch_size, nrow(tasks_dt))
-    batch <- tasks_dt[start_idx:end_idx]
-    
-    # Joindre avec les réponses AI
-    result_batch <- merge(batch, answers_dt, by = "task_value", all.x = TRUE)
-    
-    # Création du format de sortie
-    resultats_batch <- lapply(1:nrow(result_batch), function(j) {
-      row <- result_batch[j]
-      list(
-        obs_SWE = row$task_value,
-        id_SWE = if(is.na(row$answer_value)) NA else as.numeric(row$answer_value)
-      )
-    })
-    
-    # Nommer les éléments avec task_id
-    names(resultats_batch) <- result_batch$task_id
-    
-    # Ajouter au résultat global
-    resultats_list <- c(resultats_list, resultats_batch)
-  }
-  
-  return(resultats_list)
+cat("Traitement des données par lots...\n")
+
+# Définir la taille de chaque lot pour l'empreinte mémoire (à ajuster)
+batch_size <- 500000
+
+# Calcul du nombre de lots nécessaire (même avec reste)
+num_batches <- ceiling(nrow(tasks_dt) / batch_size)
+
+# Initialiser une liste vide pour stocker les résultats
+resultats_list <- list()
+ 
+# Boucle sur chaque lots
+for (i in 1:num_batches) {
+ cat(sprintf("Traitement du lot %d sur %d...\n", i, num_batches))
+   
+ # Sélectionner un lot de données (calcul des indices de déut et de fin)
+ start_idx <- (i-1) * batch_size + 1
+ end_idx <- min(i * batch_size, nrow(tasks_dt))
+ batch <- tasks_dt[start_idx:end_idx]
+ 
+ # Joindre les données avec les réponses AI
+ result_batch <- merge(batch, 
+                       answers_dt, 
+                       by = "task_value", 
+                       all.x = TRUE)
+   
+ # Création du format de sortie
+ resultats_batch <- lapply(1:nrow(result_batch), function(j) {
+   row <- result_batch[j]
+   list(
+     obs_SWE = row$task_value,
+     id_SWE = if(is.na(row$answer_value)) NA   # Si la réponse n'existe pas
+     else as.numeric(row$answer_value)         # Si elle existe
+   )
+ })
+   
+ # Nommer les éléments avec task_id
+ names(resultats_batch) <- result_batch$task_id
+   
+ # Ajouter au résultat global
+ resultats_list <- c(resultats_list, resultats_batch)
 }
+
+cat("Traitements terminés")
 
 ```
 
 ```{r}
 
-# Fonction pour enregistrer le fichier
+# Sauvegarder le résultat final
 
-enregistrer_resultats <- function(resultats_list, chemin, nom_fichier = "3_trues_classes.json") {
-  chemin_complet <- file.path(chemin, nom_fichier)
-  cat(sprintf("Écriture du fichier JSON final: %s...\n", chemin_complet))
-  
-  write_json(resultats_list, chemin_complet, pretty = TRUE, auto_unbox = TRUE)
-  
-  cat(sprintf("Le fichier %s a été créé avec succès !\n", nom_fichier))
-}
+cat("Écriture du fichier JSON final...\n")
 
-# Utilisation des trois fonctions
-main <- function(chemin, batch_size = 500000) {
-  
-  # Initialisation
-  donnees <- charger_donnees(chemin)
-  
-  # Traitement
-  resultats_list <- traiter_donnees(donnees$tasks_dt, donnees$answers_dt, batch_size)
-  
-  # Enregistrement
-  enregistrer_resultats(resultats_list, chemin)
-}
+write_json(resultats_list, 
+           file.path(chemin, "3_trues_classes.json"),
+           pretty = TRUE, 
+           auto_unbox = TRUE)
+ 
+cat("Traitement terminé avec succès !\n")
 
 ```
 
