@@ -112,7 +112,7 @@ process_plant_data_advanced <- function() {
   output_path <- "1_predictions.json"
   write_json(all_results, 
              output_path, 
-             auto_unbox = TRUE, # Simplifie la strutcure des données dans le fichier
+             auto_unbox = TRUE, # Simplifie la structure des données dans le fichier
              pretty = TRUE)     # Formatte le JSON pour une meilleure lisibilité
   
   cat("\n", 

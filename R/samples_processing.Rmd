@@ -1,0 +1,46 @@
+---
+title: "Samples Processing"
+author: "CLETZ Laura"
+date: "2025-03-19"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+In order to process the datas from the JSON files belonging in *data/00* folder, we need the following R packages:
+```{r}
+library(jsonlite)
+library(purrr)
+library(dplyr)
+```
+
+We list all datas in a single DataFrame, in which we remove the column "status" we won't need.
+```{r}
+samples_test <- list.files("data/00", pattern="*.json", full.names=TRUE, recursive = TRUE)
+samples_test <- purrr::map(samples_test, function(file) {
+  data <- jsonlite::fromJSON(file)
+  data$status <- NULL
+  return(list(data = data, file = basename(file)))
+})
+```
+
+We then process the data to write a readable JSON file.
+```{r}
+processed_data <- purrr::map(samples_test, function(sample) {
+  list(
+    file = sample$file,
+    name = sample$data$results$name,
+    id = sample$data$results$id,
+    score = sample$data$results$score
+  )
+})
+```
+
+As we save the result, we remove the *data/00* folder.
+```{r}
+write_json(processed_data, "data/samples.json", pretty = TRUE)
+
+unlink("data/00", recursive = TRUE)
+```
