@@ -1,0 +1,104 @@
+---
+title: "Scores"
+author: "AIGOIN Emilie"
+date: "2025-03-18"
+output: html_document
+---
+
+A lancer avec nos n = 7 fichiers résultats (4.n_results_n.json)
+
+```{r}
+
+# Charger les packages
+
+library(jsonlite)
+
+```
+
+```{r}
+
+# Mise en place du dossier de travail
+
+# Définir le chemin vers le dossier de travail : !!!! à changer !!!!
+chemin <- "/Users/emilieaigoin/Desktop/Test-ordinateur/multiple_data"
+
+# Changer le répertoire actuel vers ce dossier
+setwd(chemin)
+
+# Afficher le répertoire de travail pour confirmation
+cat("Répertoire de travail actuel:", getwd(), "\n")
+
+```
+
+```{r}
+
+# Importer les données 
+
+data <- fromJSON(file.path(chemin, "4.7_results_7.json"), 
+                 simplifyDataFrame = FALSE)
+
+```
+
+
+```{r}
+
+# Fonction pour calculer les scores de prédiction
+
+calculate_scores <- function(data) {
+  
+  # Initialisation d'une liste vide pour stocker les résultats
+  scores <- list()
+  
+  # Parcourir chaque observation
+  for (i in names(data)) {
+    predictions <- data[[i]]
+    
+    # Initialisation du compteur de score à 0
+    cumulative_prob <- 0
+    
+    # Savoir si une prédiction correcte a été trouvé
+    found_correct <- FALSE
+    
+    # Parcourir les prédictions dans l'ordre
+    for (j in 1:length(predictions)) {
+      pred <- predictions[[j]]
+      
+      if (pred$correct == 1) {
+        
+        # Si la prédiction est correcte : on arrête sans ajouter sa proba
+        found_correct <- TRUE
+        break
+      } else {
+        
+        # Si la prédiction est incorrecte : ajouter sa proba
+        cumulative_prob <- cumulative_prob + pred$proba
+      }
+    }
+    
+    # Si une prédiction correcte a été trouvé : on calcule le score
+    if (found_correct) {
+      
+      # Calcule du score: 1 - somme des proba des prédictions incorrectes
+      scores[[i]] <- 1 - cumulative_prob
+    } else {
+      
+      # Si aucune prédiction correcte n'a été trouvée : attribuer 0
+      scores[[i]] <- 0
+    }
+  }
+  
+  return(scores)
+}
+
+```
+
+```{r}
+
+# Utilisation de la fonction à nos données
+scores <- calculate_scores(data)
+
+# Sauvegarder les résultats
+write_json(scores, file.path(chemin, "5.7_scores_7.json"), pretty = TRUE)
+
+```
+

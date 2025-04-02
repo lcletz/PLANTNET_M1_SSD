@@ -1,0 +1,130 @@
+---
+title: "Step2b_trueanswer"
+author: "AIGOIN Emilie"
+date: "2025-04-02"
+output: html_document
+---
+
+```{r, warning = FALSE}
+
+# Charger les packages
+
+library(jsonlite)
+library(data.table)
+
+```
+
+```{r}
+
+# Mise en place du dossier de travail
+
+# Définir le chemin vers le dossier de travail : !!!! à changer !!!!
+chemin <- "/Users/emilieaigoin/Desktop/Test-ordinateur/multiple_data"
+
+# Changer le répertoire actuel vers ce dossier
+setwd(chemin)
+
+# Afficher le répertoire de travail pour confirmation
+cat("Répertoire de travail actuel:", getwd(), "\n")
+
+```
+
+## Chargement des données
+
+```{r}
+
+# Mise en place du fichier des experts
+expert <- fread(file.path(chemin, "ground_truth.txt"), header = FALSE)
+
+# Ajouter le numéro de ligne comme colonne
+expert[, ligne := .I]
+
+# Filtrer les lignes où la valeur n'est pas -1
+expert_filtre <- expert[V1 != -1]
+
+# Afficher les indices des lignes qui ne sont pas -1
+indices_valides <- expert_filtre$ligne
+
+```
+
+```{r}
+
+# Lecture du fichier tasks
+tasks <- fromJSON(file.path(chemin, "tasks.json"), simplifyVector = TRUE)
+
+# Convertir en data.table
+tasks_dt <- data.table(
+  id = names(tasks),
+  numero = as.integer(unname(tasks))
+)
+
+```
+
+## Chercher les correspondances
+
+```{r}
+
+# Filtrer tasks_dt pour ne garder que les entrées dont la valeur 'numero' 
+# correspond à l'une des lignes non -1 du fichier ground_truth
+resultats <- tasks_dt[numero %in% indices_valides]
+
+# Si vous préférez une jointure complète avec toutes les données de ground_truth_filtre:
+resultats_complets <- expert_filtre[tasks_dt, on = .(ligne = numero), nomatch = NULL]
+
+# Afficher les résultats
+print(resultats_complets)
+
+```
+
+## Convertir en .json
+
+```{r}
+
+# Créer la structure JSON souhaitée
+json_output <- list()
+
+# Pour chaque ligne du dataframe
+for (i in 1:nrow(resultats_complets)) {
+  # Extraire les valeurs de chaque colonne
+  identifiant <- as.character(resultats_complets[i, id])
+  valeur_obs <- as.character(resultats_complets[i, ligne])
+  valeur_id <- as.integer(resultats_complets[i, V1])
+  
+  # Ajouter à notre structure JSON
+  json_output[[identifiant]] <- list(
+    obs_SWE = valeur_obs,
+    id_SWE = valeur_id
+  )
+}
+
+# Convertir en format JSON avec une mise en forme lisible
+json_string <- toJSON(json_output, pretty = TRUE, auto_unbox = TRUE)
+
+# Afficher le résultat
+cat(json_string)
+
+# Enregistrer dans un fichier
+writeLines(json_string, "TESTTTT.json")
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

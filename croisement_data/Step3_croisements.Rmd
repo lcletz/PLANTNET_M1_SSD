@@ -1,0 +1,134 @@
+---
+title: "Step3b_ croisementtrue"
+author: "AIGOIN Emilie"
+date: "2025-04-02"
+output: html_document
+---
+
+```{r, warning = FALSE}
+
+# Charger les packages
+
+library(jsonlite)
+
+```
+
+```{r}
+
+# Mise en place du dossier de travail
+
+# Définir le chemin vers le dossier de travail : !!!! à changer !!!!
+chemin <- "/Users/emilieaigoin/Desktop/Test-ordinateur/multiple_data"
+
+# Changer le répertoire actuel vers ce dossier
+setwd(chemin)
+
+# Afficher le répertoire de travail pour confirmation
+cat("Répertoire de travail actuel:", getwd(), "\n")
+
+```
+
+## Fonction de croisement
+
+```{r}
+
+croisement_avec_filtrage <- function(chemin_predictions, chemin_reference, chemin_sortie) {
+  
+  # Charger les fichiers JSON
+  predictions <- fromJSON(chemin_predictions, simplifyVector = FALSE)
+  reference <- fromJSON(chemin_reference, simplifyVector = FALSE)
+  
+  # Créer un nouveau dictionnaire pour stocker les résultats filtrés
+  resultats_filtres <- list()
+  
+  # Pour chaque identifiant dans les prédictions
+  for (id in names(predictions)) {
+    
+    # Vérifier si l'id existe dans le fichier de référence
+    if (id %in% names(reference)) {
+      # Récupérer les valeurs depuis la référence
+      expected_value <- reference[[id]]$id_SWE
+      obs_SWE_value <- reference[[id]]$obs_SWE
+      
+      # Préparer une liste pour stocker les items filtrés et évalués pour cet id
+      items_filtres <- list()
+      
+      # Pour chaque prédiction dans cette observation
+      for (j in 1:length(predictions[[id]])) {
+        item <- predictions[[id]][[j]]
+        
+        # Ajouter obs_SWE à chaque item
+        item$obs_SWE <- obs_SWE_value
+        
+        # Vérifier la correspondance et ajouter le champ "correct"
+        if (!is.null(expected_value) && !is.null(item$id_SWE) && 
+            item$id_SWE == expected_value) {
+          item$correct <- 1
+        } else {
+          item$correct <- 0
+        }
+        
+        # Ajouter cet item à la liste filtrée
+        items_filtres[[length(items_filtres) + 1]] <- item
+      }
+      
+      # Ajouter cette liste d'items à nos résultats filtrés
+      resultats_filtres[[id]] <- items_filtres
+    }
+    # Si l'id n'existe pas dans la référence, on ne l'ajoute pas aux résultats filtrés
+  }
+  
+  # Écrire le résultat
+  writeLines(toJSON(resultats_filtres, pretty = TRUE, auto_unbox = TRUE),
+             chemin_sortie)
+  
+  cat("Terminé. Résultat enregistré dans:", chemin_sortie, "\n")
+  return(resultats_filtres)
+}
+
+```
+
+## Utilisation de la fonction 
+
+```{r}
+
+res <- croisement_avec_filtrage(
+  file.path(chemin, "2.7_prediction_sample_7.json"),  # remplacez par votre fichier de prédictions
+  file.path(chemin, "TESTTTT.json"),       # votre fichier de référence créé précédemment
+  file.path(chemin, "RSU.json")     # nom du fichier de sortie
+)
+
+# Pour visualiser quelques statistiques sur les résultats
+cat("Nombre d'observations après filtrage:", length(names(res)), "\n")
+
+# Compter le nombre total d'items corrects
+nb_correct <- 0
+nb_total <- 0
+
+for (id in names(res)) {
+  for (item in res[[id]]) {
+    nb_total <- nb_total + 1
+    if (!is.null(item$correct) && item$correct == 1) {
+      nb_correct <- nb_correct + 1
+    }
+  }
+}
+
+cat("Pourcentage de prédictions correctes:", round(nb_correct/nb_total*100, 2), "%\n")
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
