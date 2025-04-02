@@ -53,8 +53,10 @@ calculate_scores <- function(data) {
     
     # Initialisation du compteur de score à 0
     cumulative_prob <- 0
+    score_du_vrai <- 0
+    score_somme <- 0
     
-    # Savoir si une prédiction correcte a été trouvé
+    # Savoir si une prédiction correcte a été trouvée
     found_correct <- FALSE
     
     # Parcourir les prédictions dans l'ordre
@@ -63,25 +65,40 @@ calculate_scores <- function(data) {
       
       if (pred$correct == 1) {
         
-        # Si la prédiction est correcte : on arrête sans ajouter sa proba
+        # Si la prédiction est correcte
         found_correct <- TRUE
-        break
-      } else {
         
-        # Si la prédiction est incorrecte : ajouter sa proba
+        # Premier score: 1 - probabilité de la vraie valeur
+        score_du_vrai <- 1 - pred$proba
+        
+        # Deuxième score: somme des probabilités jusqu'à la vraie valeur exclue
+        score_somme <- cumulative_prob
+        
+        break
+      } 
+      
+      else {
+        
+        # Si la prédiction est incorrecte : ajouter sa proba au cumul
         cumulative_prob <- cumulative_prob + pred$proba
       }
     }
     
-    # Si une prédiction correcte a été trouvé : on calcule le score
+    # Si une prédiction correcte a été trouvée : on enregistre les scores
     if (found_correct) {
+      scores[[i]] <- list(
+        one_minus_prob = score_du_vrai,
+        sum_until_correct = score_somme
+      )
+    } 
+    
+    else {
       
-      # Calcule du score: 1 - somme des proba des prédictions incorrectes
-      scores[[i]] <- 1 - cumulative_prob
-    } else {
-      
-      # Si aucune prédiction correcte n'a été trouvée : attribuer 0
-      scores[[i]] <- 0
+      # Si aucune prédiction correcte n'a été trouvée : attribuer 0 aux deux scores
+      scores[[i]] <- list(
+        one_minus_prob = 0.999,
+        sum_until_correct = 0.001
+      )
     }
   }
   
