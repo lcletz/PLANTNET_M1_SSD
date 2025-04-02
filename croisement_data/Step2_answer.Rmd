@@ -36,6 +36,9 @@ cat("Répertoire de travail actuel:", getwd(), "\n")
 # Mise en place du fichier des experts
 expert <- fread(file.path(chemin, "ground_truth.txt"), header = FALSE)
 
+# Enlever la première ligne (car en trop)
+expert <- expert[-1,]
+
 # Ajouter le numéro de ligne comme colonne
 expert[, ligne := .I]
 
@@ -52,7 +55,7 @@ indices_valides <- expert_filtre$ligne
 # Lecture du fichier tasks
 tasks <- fromJSON(file.path(chemin, "tasks.json"), simplifyVector = TRUE)
 
-# Convertir en data.table
+# Convertir en data.table (traitement plus rapide)
 tasks_dt <- data.table(
   id = names(tasks),
   numero = as.integer(unname(tasks))
@@ -64,19 +67,12 @@ tasks_dt <- data.table(
 
 ```{r}
 
-# Filtrer tasks_dt pour ne garder que les entrées dont la valeur 'numero' 
-# correspond à l'une des lignes non -1 du fichier ground_truth
-resultats <- tasks_dt[numero %in% indices_valides]
-
 # Si vous préférez une jointure complète avec toutes les données de ground_truth_filtre:
-resultats_complets <- expert_filtre[tasks_dt, on = .(ligne = numero), nomatch = NULL]
-
-# Afficher les résultats
-print(resultats_complets)
+resultats <- expert_filtre[tasks_dt, on = .(ligne = numero), nomatch = NULL]
 
 ```
 
-## Convertir en .json
+## Convertir les résultats en .json
 
 ```{r}
 
@@ -84,27 +80,25 @@ print(resultats_complets)
 json_output <- list()
 
 # Pour chaque ligne du dataframe
-for (i in 1:nrow(resultats_complets)) {
-  # Extraire les valeurs de chaque colonne
-  identifiant <- as.character(resultats_complets[i, id])
-  valeur_obs <- as.character(resultats_complets[i, ligne])
-  valeur_id <- as.integer(resultats_complets[i, V1])
+for (i in 1:nrow(resultats)) {
   
-  # Ajouter à notre structure JSON
+  # Extraire les valeurs de chaque colonne pour les renommer 
+  identifiant <- as.character(resultats[i, id])
+  valeur_obs <- as.character(resultats[i, ligne])
+  valeur_id <- as.integer(resultats[i, V1])
+  
+  # Ajouter à notre structure JSON dans le format souhaité
   json_output[[identifiant]] <- list(
     obs_SWE = valeur_obs,
     id_SWE = valeur_id
   )
 }
 
-# Convertir en format JSON avec une mise en forme lisible
+# Convertir en format JSON
 json_string <- toJSON(json_output, pretty = TRUE, auto_unbox = TRUE)
 
-# Afficher le résultat
-cat(json_string)
-
-# Enregistrer dans un fichier
-writeLines(json_string, "TESTTTT.json")
+# Enregistrer les résultats
+writeLines(json_string, "3_true_classes.json")
 
 ```
 

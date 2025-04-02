@@ -38,14 +38,16 @@ croisement_avec_filtrage <- function(chemin_predictions, chemin_reference, chemi
   predictions <- fromJSON(chemin_predictions, simplifyVector = FALSE)
   reference <- fromJSON(chemin_reference, simplifyVector = FALSE)
   
-  # Créer un nouveau dictionnaire pour stocker les résultats filtrés
+  # Créer une nouvelle liste pour stocker les résultats filtrés
   resultats_filtres <- list()
   
   # Pour chaque identifiant dans les prédictions
   for (id in names(predictions)) {
     
     # Vérifier si l'id existe dans le fichier de référence
+    
     if (id %in% names(reference)) {
+      
       # Récupérer les valeurs depuis la référence
       expected_value <- reference[[id]]$id_SWE
       obs_SWE_value <- reference[[id]]$obs_SWE
@@ -88,14 +90,37 @@ croisement_avec_filtrage <- function(chemin_predictions, chemin_reference, chemi
 
 ```
 
+## Si on veut vérifier le nombre d'id communs 
+
+```{r}
+
+# Ajouter ce code pour voir combien d'IDs sont communs aux deux fichiers
+predictions <- fromJSON(file.path(chemin, "2_predictions_classes.json"), simplifyVector = FALSE)
+reference <- fromJSON(file.path(chemin, "3_true_classes.json"), simplifyVector = FALSE)
+
+# Compter les identifiants dans chaque fichier
+nb_ids_predictions <- length(names(predictions))
+nb_ids_reference <- length(names(reference))
+
+# Compter les identifiants communs
+ids_communs <- intersect(names(predictions), names(reference))
+nb_ids_communs <- length(ids_communs)
+
+cat("Nombre d'identifiants dans le fichier de prédictions:", nb_ids_predictions, "\n")
+cat("Nombre d'identifiants dans le fichier de référence:", nb_ids_reference, "\n")
+cat("Nombre d'identifiants communs:", nb_ids_communs, "\n")
+
+```
+
+
 ## Utilisation de la fonction 
 
 ```{r}
 
 res <- croisement_avec_filtrage(
-  file.path(chemin, "2.7_prediction_sample_7.json"),  # remplacez par votre fichier de prédictions
-  file.path(chemin, "TESTTTT.json"),       # votre fichier de référence créé précédemment
-  file.path(chemin, "RSU.json")     # nom du fichier de sortie
+  file.path(chemin, "2_predictions_classes.json"),  # fichier de prédictions
+  file.path(chemin, "3_true_classes.json"),         # fichier de référence
+  file.path(chemin, "4_croisements_experts.json")   # fichier de sortie
 )
 
 # Pour visualiser quelques statistiques sur les résultats
@@ -113,8 +138,6 @@ for (id in names(res)) {
     }
   }
 }
-
-cat("Pourcentage de prédictions correctes:", round(nb_correct/nb_total*100, 2), "%\n")
 
 ```
 

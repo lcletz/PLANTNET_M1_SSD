@@ -5,8 +5,6 @@ date: "2025-03-18"
 output: html_document
 ---
 
-A lancer avec nos n = 7 fichiers résultats (4.n_results_n.json)
-
 ```{r}
 
 # Charger les packages
@@ -34,7 +32,7 @@ cat("Répertoire de travail actuel:", getwd(), "\n")
 
 # Importer les données 
 
-data <- fromJSON(file.path(chemin, "4.7_results_7.json"), 
+data <- fromJSON(file.path(chemin, "4_croisements_experts.json"), 
                  simplifyDataFrame = FALSE)
 
 ```
@@ -98,7 +96,7 @@ calculate_scores <- function(data) {
 scores <- calculate_scores(data)
 
 # Sauvegarder les résultats
-write_json(scores, file.path(chemin, "5.7_scores_7.json"), pretty = TRUE)
+write_json(scores, file.path(chemin, "5_scores.json"), pretty = TRUE)
 
 ```
 
