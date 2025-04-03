@@ -1,0 +1,834 @@
+{
+  "1003820000": {
+    "one_minus_prob": [0.1662],
+    "sum_until_correct": [0]
+  },
+  "1012600000": {
+    "one_minus_prob": [0.1655],
+    "sum_until_correct": [0]
+  },
+  "1009950001": {
+    "one_minus_prob": [0.0937],
+    "sum_until_correct": [0]
+  },
+  "1009980001": {
+    "one_minus_prob": [0.1259],
+    "sum_until_correct": [0]
+  },
+  "1015880001": {
+    "one_minus_prob": [0.0998],
+    "sum_until_correct": [0]
+  },
+  "1016340001": {
+    "one_minus_prob": [0.3772],
+    "sum_until_correct": [0]
+  },
+  "1017630001": {
+    "one_minus_prob": [0.7135],
+    "sum_until_correct": [0.6212]
+  },
+  "1001220002": {
+    "one_minus_prob": [0.4391],
+    "sum_until_correct": [0]
+  },
+  "1001600002": {
+    "one_minus_prob": [0.0442],
+    "sum_until_correct": [0]
+  },
+  "1016260002": {
+    "one_minus_prob": [0.5144],
+    "sum_until_correct": [0]
+  },
+  "1001600003": {
+    "one_minus_prob": [0.0376],
+    "sum_until_correct": [0]
+  },
+  "1003820003": {
+    "one_minus_prob": [0.1661],
+    "sum_until_correct": [0]
+  },
+  "1008880003": {
+    "one_minus_prob": [0.3764],
+    "sum_until_correct": [0]
+  },
+  "1002660004": {
+    "one_minus_prob": [0.3704],
+    "sum_until_correct": [0]
+  },
+  "1003820004": {
+    "one_minus_prob": [0.7772],
+    "sum_until_correct": [0.4244]
+  },
+  "1003900005": {
+    "one_minus_prob": [0.0151],
+    "sum_until_correct": [0]
+  },
+  "1001600006": {
+    "one_minus_prob": [0.3991],
+    "sum_until_correct": [0]
+  },
+  "1003900006": {
+    "one_minus_prob": [0.0911],
+    "sum_until_correct": [0]
+  },
+  "1008380006": {
+    "one_minus_prob": [0.0926],
+    "sum_until_correct": [0]
+  },
+  "1020010006": {
+    "one_minus_prob": [0.1269],
+    "sum_until_correct": [0]
+  },
+  "1003820007": {
+    "one_minus_prob": [0.0212],
+    "sum_until_correct": [0]
+  },
+  "1003960007": {
+    "one_minus_prob": [0.2016],
+    "sum_until_correct": [0]
+  },
+  "1009580007": {
+    "one_minus_prob": [0.7287],
+    "sum_until_correct": [0.4102]
+  },
+  "1004670008": {
+    "one_minus_prob": [0.1373],
+    "sum_until_correct": [0]
+  },
+  "1003520009": {
+    "one_minus_prob": [0.1837],
+    "sum_until_correct": [0]
+  },
+  "1014760009": {
+    "one_minus_prob": [0.2756],
+    "sum_until_correct": [0]
+  },
+  "1014410011": {
+    "one_minus_prob": [0.098],
+    "sum_until_correct": [0]
+  },
+  "1016380012": {
+    "one_minus_prob": [0.0836],
+    "sum_until_correct": [0]
+  },
+  "1003820013": {
+    "one_minus_prob": [0.1689],
+    "sum_until_correct": [0]
+  },
+  "1013890013": {
+    "one_minus_prob": [0.2449],
+    "sum_until_correct": [0]
+  },
+  "1011680014": {
+    "one_minus_prob": [0.9888],
+    "sum_until_correct": [0.7648]
+  },
+  "1019020014": {
+    "one_minus_prob": [0.057],
+    "sum_until_correct": [0]
+  },
+  "1004670015": {
+    "one_minus_prob": [0.2566],
+    "sum_until_correct": [0]
+  },
+  "1004670016": {
+    "one_minus_prob": [0.5201],
+    "sum_until_correct": [0]
+  },
+  "1004670017": {
+    "one_minus_prob": [0.691],
+    "sum_until_correct": [0]
+  },
+  "1005470017": {
+    "one_minus_prob": [0.0242],
+    "sum_until_correct": [0]
+  },
+  "1004670018": {
+    "one_minus_prob": [0.1179],
+    "sum_until_correct": [0]
+  },
+  "1012980018": {
+    "one_minus_prob": [0.2725],
+    "sum_until_correct": [0]
+  },
+  "1004670019": {
+    "one_minus_prob": [0.5105],
+    "sum_until_correct": [0]
+  },
+  "1013630019": {
+    "one_minus_prob": [0.1204],
+    "sum_until_correct": [0]
+  },
+  "1003820020": {
+    "one_minus_prob": [0.4703],
+    "sum_until_correct": [0]
+  },
+  "1004670020": {
+    "one_minus_prob": [0.1265],
+    "sum_until_correct": [0]
+  },
+  "1008880020": {
+    "one_minus_prob": [0.2996],
+    "sum_until_correct": [0]
+  },
+  "1005600021": {
+    "one_minus_prob": [0.4401],
+    "sum_until_correct": [0]
+  },
+  "1005810021": {
+    "one_minus_prob": [0.062],
+    "sum_until_correct": [0]
+  },
+  "1009580021": {
+    "one_minus_prob": [0.0237],
+    "sum_until_correct": [0]
+  },
+  "1004050022": {
+    "one_minus_prob": [0.3361],
+    "sum_until_correct": [0]
+  },
+  "1011030022": {
+    "one_minus_prob": [0.0865],
+    "sum_until_correct": [0]
+  },
+  "1003820023": {
+    "one_minus_prob": [0.1552],
+    "sum_until_correct": [0]
+  },
+  "1004670023": {
+    "one_minus_prob": [0.7913],
+    "sum_until_correct": [0.7181]
+  },
+  "1017680023": {
+    "one_minus_prob": [0.0775],
+    "sum_until_correct": [0]
+  },
+  "1004870024": {
+    "one_minus_prob": [0.6148],
+    "sum_until_correct": [0]
+  },
+  "1002570025": {
+    "one_minus_prob": [0.4851],
+    "sum_until_correct": [0]
+  },
+  "1004670025": {
+    "one_minus_prob": [0.0759],
+    "sum_until_correct": [0]
+  },
+  "1004670026": {
+    "one_minus_prob": [0.2892],
+    "sum_until_correct": [0]
+  },
+  "1011530026": {
+    "one_minus_prob": [0.0709],
+    "sum_until_correct": [0]
+  },
+  "1017630026": {
+    "one_minus_prob": [0.2639],
+    "sum_until_correct": [0]
+  },
+  "1003900027": {
+    "one_minus_prob": [0.1161],
+    "sum_until_correct": [0]
+  },
+  "1006030027": {
+    "one_minus_prob": [0.1518],
+    "sum_until_correct": [0]
+  },
+  "1008430027": {
+    "one_minus_prob": [0.12],
+    "sum_until_correct": [0]
+  },
+  "1001160028": {
+    "one_minus_prob": [0.9886],
+    "sum_until_correct": [0.9548]
+  },
+  "1004870028": {
+    "one_minus_prob": [0.2914],
+    "sum_until_correct": [0]
+  },
+  "1003910029": {
+    "one_minus_prob": [0.2036],
+    "sum_until_correct": [0]
+  },
+  "1003670030": {
+    "one_minus_prob": [0.3672],
+    "sum_until_correct": [0]
+  },
+  "1015020031": {
+    "one_minus_prob": [0.057],
+    "sum_until_correct": [0]
+  },
+  "1020010031": {
+    "one_minus_prob": [0.1843],
+    "sum_until_correct": [0]
+  },
+  "1003900032": {
+    "one_minus_prob": [0.3837],
+    "sum_until_correct": [0]
+  },
+  "1005240032": {
+    "one_minus_prob": [0.0532],
+    "sum_until_correct": [0]
+  },
+  "1010840032": {
+    "one_minus_prob": [0.1402],
+    "sum_until_correct": [0]
+  },
+  "1011110032": {
+    "one_minus_prob": [0.1756],
+    "sum_until_correct": [0]
+  },
+  "1004070033": {
+    "one_minus_prob": [0.0787],
+    "sum_until_correct": [0]
+  },
+  "1006570033": {
+    "one_minus_prob": [0.1188],
+    "sum_until_correct": [0]
+  },
+  "1007260033": {
+    "one_minus_prob": [0.6598],
+    "sum_until_correct": [0]
+  },
+  "1004670034": {
+    "one_minus_prob": [0.7557],
+    "sum_until_correct": [0]
+  },
+  "1008880034": {
+    "one_minus_prob": [0.3436],
+    "sum_until_correct": [0]
+  },
+  "1010190034": {
+    "one_minus_prob": [0.5678],
+    "sum_until_correct": [0]
+  },
+  "1019670034": {
+    "one_minus_prob": [0.1005],
+    "sum_until_correct": [0]
+  },
+  "1009080036": {
+    "one_minus_prob": [0.1524],
+    "sum_until_correct": [0]
+  },
+  "1009750036": {
+    "one_minus_prob": [0.1],
+    "sum_until_correct": [0]
+  },
+  "1016330036": {
+    "one_minus_prob": [0.8196],
+    "sum_until_correct": [0.7118]
+  },
+  "1017630036": {
+    "one_minus_prob": [0.6248],
+    "sum_until_correct": [0]
+  },
+  "1005240037": {
+    "one_minus_prob": [0.0636],
+    "sum_until_correct": [0]
+  },
+  "1015420037": {
+    "one_minus_prob": [0.0964],
+    "sum_until_correct": [0]
+  },
+  "1003900038": {
+    "one_minus_prob": [0.3303],
+    "sum_until_correct": [0]
+  },
+  "1008750038": {
+    "one_minus_prob": [0.3416],
+    "sum_until_correct": [0]
+  },
+  "1013890038": {
+    "one_minus_prob": [0.0413],
+    "sum_until_correct": [0]
+  },
+  "1004670039": {
+    "one_minus_prob": [0.03],
+    "sum_until_correct": [0]
+  },
+  "1008780039": {
+    "one_minus_prob": [0.0303],
+    "sum_until_correct": [0]
+  },
+  "1011030039": {
+    "one_minus_prob": [0.689],
+    "sum_until_correct": [0.5442]
+  },
+  "1003900040": {
+    "one_minus_prob": [0.2989],
+    "sum_until_correct": [0]
+  },
+  "1012620040": {
+    "one_minus_prob": [0.2782],
+    "sum_until_correct": [0]
+  },
+  "1015630040": {
+    "one_minus_prob": [0.0988],
+    "sum_until_correct": [0]
+  },
+  "1002570041": {
+    "one_minus_prob": [0.999],
+    "sum_until_correct": [0.001]
+  },
+  "1003900041": {
+    "one_minus_prob": [0.999],
+    "sum_until_correct": [0.001]
+  },
+  "1003820042": {
+    "one_minus_prob": [0.4546],
+    "sum_until_correct": [0]
+  },
+  "1003860042": {
+    "one_minus_prob": [0.0916],
+    "sum_until_correct": [0]
+  },
+  "1012620042": {
+    "one_minus_prob": [0.4077],
+    "sum_until_correct": [0]
+  },
+  "1013370042": {
+    "one_minus_prob": [0.0826],
+    "sum_until_correct": [0]
+  },
+  "1009950043": {
+    "one_minus_prob": [0.119],
+    "sum_until_correct": [0]
+  },
+  "1003910044": {
+    "one_minus_prob": [0.0156],
+    "sum_until_correct": [0]
+  },
+  "1009610045": {
+    "one_minus_prob": [0.6049],
+    "sum_until_correct": [0]
+  },
+  "1012650045": {
+    "one_minus_prob": [0.0792],
+    "sum_until_correct": [0]
+  },
+  "1020010045": {
+    "one_minus_prob": [0.1438],
+    "sum_until_correct": [0]
+  },
+  "1005270046": {
+    "one_minus_prob": [0.0582],
+    "sum_until_correct": [0]
+  },
+  "1016780046": {
+    "one_minus_prob": [0.1371],
+    "sum_until_correct": [0]
+  },
+  "1018010046": {
+    "one_minus_prob": [0.3113],
+    "sum_until_correct": [0]
+  },
+  "1003860048": {
+    "one_minus_prob": [0.9415],
+    "sum_until_correct": [0.1902]
+  },
+  "1003900048": {
+    "one_minus_prob": [0.2843],
+    "sum_until_correct": [0]
+  },
+  "1011590049": {
+    "one_minus_prob": [0.1271],
+    "sum_until_correct": [0]
+  },
+  "1015630049": {
+    "one_minus_prob": [0.4947],
+    "sum_until_correct": [0]
+  },
+  "1006500050": {
+    "one_minus_prob": [0.188],
+    "sum_until_correct": [0]
+  },
+  "1004160051": {
+    "one_minus_prob": [0.0623],
+    "sum_until_correct": [0]
+  },
+  "1009950052": {
+    "one_minus_prob": [0.3576],
+    "sum_until_correct": [0]
+  },
+  "1011370052": {
+    "one_minus_prob": [0.2599],
+    "sum_until_correct": [0]
+  },
+  "1006930054": {
+    "one_minus_prob": [0.0267],
+    "sum_until_correct": [0]
+  },
+  "1009060054": {
+    "one_minus_prob": [0.0792],
+    "sum_until_correct": [0]
+  },
+  "1010330054": {
+    "one_minus_prob": [0.2109],
+    "sum_until_correct": [0]
+  },
+  "1012980054": {
+    "one_minus_prob": [0.1773],
+    "sum_until_correct": [0]
+  },
+  "1012980055": {
+    "one_minus_prob": [0.5314],
+    "sum_until_correct": [0]
+  },
+  "1013890055": {
+    "one_minus_prob": [0.1031],
+    "sum_until_correct": [0]
+  },
+  "1016260055": {
+    "one_minus_prob": [0.0521],
+    "sum_until_correct": [0]
+  },
+  "1016780056": {
+    "one_minus_prob": [0.0336],
+    "sum_until_correct": [0]
+  },
+  "1004160057": {
+    "one_minus_prob": [0.1066],
+    "sum_until_correct": [0]
+  },
+  "1004190057": {
+    "one_minus_prob": [0.3288],
+    "sum_until_correct": [0]
+  },
+  "1016220058": {
+    "one_minus_prob": [0.1088],
+    "sum_until_correct": [0]
+  },
+  "1020010058": {
+    "one_minus_prob": [0.2644],
+    "sum_until_correct": [0]
+  },
+  "1008880059": {
+    "one_minus_prob": [0.1873],
+    "sum_until_correct": [0]
+  },
+  "1018860059": {
+    "one_minus_prob": [0.4828],
+    "sum_until_correct": [0]
+  },
+  "1013370060": {
+    "one_minus_prob": [0.4001],
+    "sum_until_correct": [0]
+  },
+  "1017850060": {
+    "one_minus_prob": [0.3143],
+    "sum_until_correct": [0]
+  },
+  "1017110061": {
+    "one_minus_prob": [0.0598],
+    "sum_until_correct": [0]
+  },
+  "1016330063": {
+    "one_minus_prob": [0.93],
+    "sum_until_correct": [1.0064]
+  },
+  "1003680064": {
+    "one_minus_prob": [0.0754],
+    "sum_until_correct": [0]
+  },
+  "1003820064": {
+    "one_minus_prob": [0.077],
+    "sum_until_correct": [0]
+  },
+  "1005270064": {
+    "one_minus_prob": [0.4685],
+    "sum_until_correct": [0]
+  },
+  "1020050064": {
+    "one_minus_prob": [0.031],
+    "sum_until_correct": [0]
+  },
+  "1010220065": {
+    "one_minus_prob": [0.1729],
+    "sum_until_correct": [0]
+  },
+  "1011590066": {
+    "one_minus_prob": [0.0658],
+    "sum_until_correct": [0]
+  },
+  "1016380066": {
+    "one_minus_prob": [0.4789],
+    "sum_until_correct": [0]
+  },
+  "1003680068": {
+    "one_minus_prob": [0.1073],
+    "sum_until_correct": [0]
+  },
+  "1011530069": {
+    "one_minus_prob": [0.0974],
+    "sum_until_correct": [0]
+  },
+  "1017110069": {
+    "one_minus_prob": [0.0508],
+    "sum_until_correct": [0]
+  },
+  "1003900070": {
+    "one_minus_prob": [0.5822],
+    "sum_until_correct": [0.5055]
+  },
+  "1019660070": {
+    "one_minus_prob": [0.9113],
+    "sum_until_correct": [0.213]
+  },
+  "1004760071": {
+    "one_minus_prob": [0.5195],
+    "sum_until_correct": [0]
+  },
+  "1011230071": {
+    "one_minus_prob": [0.0645],
+    "sum_until_correct": [0]
+  },
+  "1016260073": {
+    "one_minus_prob": [0.1233],
+    "sum_until_correct": [0]
+  },
+  "1019600073": {
+    "one_minus_prob": [0.2931],
+    "sum_until_correct": [0]
+  },
+  "1012980074": {
+    "one_minus_prob": [0.1372],
+    "sum_until_correct": [0]
+  },
+  "1004160075": {
+    "one_minus_prob": [0.4408],
+    "sum_until_correct": [0]
+  },
+  "1005340075": {
+    "one_minus_prob": [0.7078],
+    "sum_until_correct": [0.3701]
+  },
+  "1005570075": {
+    "one_minus_prob": [0.0653],
+    "sum_until_correct": [0]
+  },
+  "1011710075": {
+    "one_minus_prob": [0.2939],
+    "sum_until_correct": [0]
+  },
+  "1015150075": {
+    "one_minus_prob": [0.4527],
+    "sum_until_correct": [0]
+  },
+  "1017110075": {
+    "one_minus_prob": [0.0996],
+    "sum_until_correct": [0]
+  },
+  "1009080076": {
+    "one_minus_prob": [0.0614],
+    "sum_until_correct": [0]
+  },
+  "1004160077": {
+    "one_minus_prob": [0.0457],
+    "sum_until_correct": [0]
+  },
+  "1005340077": {
+    "one_minus_prob": [0.1868],
+    "sum_until_correct": [0]
+  },
+  "1007220077": {
+    "one_minus_prob": [0.1166],
+    "sum_until_correct": [0]
+  },
+  "1011220077": {
+    "one_minus_prob": [0.2378],
+    "sum_until_correct": [0]
+  },
+  "1008880078": {
+    "one_minus_prob": [0.1897],
+    "sum_until_correct": [0]
+  },
+  "1002660079": {
+    "one_minus_prob": [0.4376],
+    "sum_until_correct": [0]
+  },
+  "1004500079": {
+    "one_minus_prob": [0.0966],
+    "sum_until_correct": [0]
+  },
+  "1011530079": {
+    "one_minus_prob": [0.094],
+    "sum_until_correct": [0]
+  },
+  "1011590079": {
+    "one_minus_prob": [0.0388],
+    "sum_until_correct": [0]
+  },
+  "1001010080": {
+    "one_minus_prob": [0.4953],
+    "sum_until_correct": [0]
+  },
+  "1001600080": {
+    "one_minus_prob": [0.1231],
+    "sum_until_correct": [0]
+  },
+  "1001820080": {
+    "one_minus_prob": [0.9942],
+    "sum_until_correct": [0.638]
+  },
+  "1010090080": {
+    "one_minus_prob": [0.9566],
+    "sum_until_correct": [0.3481]
+  },
+  "1014920080": {
+    "one_minus_prob": [0.9475],
+    "sum_until_correct": [0.7911]
+  },
+  "1002280083": {
+    "one_minus_prob": [0.9984],
+    "sum_until_correct": [0.954]
+  },
+  "1002570083": {
+    "one_minus_prob": [0.3101],
+    "sum_until_correct": [0]
+  },
+  "1005340083": {
+    "one_minus_prob": [0.3852],
+    "sum_until_correct": [0]
+  },
+  "1003670084": {
+    "one_minus_prob": [0.6057],
+    "sum_until_correct": [0]
+  },
+  "1016760084": {
+    "one_minus_prob": [0.6608],
+    "sum_until_correct": [0.504]
+  },
+  "1020010084": {
+    "one_minus_prob": [0.2604],
+    "sum_until_correct": [0]
+  },
+  "1020050084": {
+    "one_minus_prob": [0.1468],
+    "sum_until_correct": [0]
+  },
+  "1005790085": {
+    "one_minus_prob": [0.233],
+    "sum_until_correct": [0]
+  },
+  "1014920085": {
+    "one_minus_prob": [0.1676],
+    "sum_until_correct": [0]
+  },
+  "1008770086": {
+    "one_minus_prob": [0.0928],
+    "sum_until_correct": [0]
+  },
+  "1008880086": {
+    "one_minus_prob": [0.4292],
+    "sum_until_correct": [0]
+  },
+  "1009060086": {
+    "one_minus_prob": [0.1915],
+    "sum_until_correct": [0]
+  },
+  "1009560086": {
+    "one_minus_prob": [0.1095],
+    "sum_until_correct": [0]
+  },
+  "1011220086": {
+    "one_minus_prob": [0.09],
+    "sum_until_correct": [0]
+  },
+  "1013810087": {
+    "one_minus_prob": [0.2531],
+    "sum_until_correct": [0]
+  },
+  "1003040088": {
+    "one_minus_prob": [0.8238],
+    "sum_until_correct": [0.5472]
+  },
+  "1011670088": {
+    "one_minus_prob": [0.2697],
+    "sum_until_correct": [0]
+  },
+  "1016160088": {
+    "one_minus_prob": [0.7588],
+    "sum_until_correct": [0]
+  },
+  "1008750089": {
+    "one_minus_prob": [0.5671],
+    "sum_until_correct": [0]
+  },
+  "1020010089": {
+    "one_minus_prob": [0.2717],
+    "sum_until_correct": [0]
+  },
+  "1017850090": {
+    "one_minus_prob": [0.4902],
+    "sum_until_correct": [0]
+  },
+  "1019020090": {
+    "one_minus_prob": [0.0686],
+    "sum_until_correct": [0]
+  },
+  "1014760091": {
+    "one_minus_prob": [0.0335],
+    "sum_until_correct": [0]
+  },
+  "1016490091": {
+    "one_minus_prob": [0.2671],
+    "sum_until_correct": [0]
+  },
+  "1020050091": {
+    "one_minus_prob": [0.0648],
+    "sum_until_correct": [0]
+  },
+  "1005340093": {
+    "one_minus_prob": [0.7447],
+    "sum_until_correct": [0]
+  },
+  "1002410094": {
+    "one_minus_prob": [0.6402],
+    "sum_until_correct": [0]
+  },
+  "1003900094": {
+    "one_minus_prob": [0.6822],
+    "sum_until_correct": [0]
+  },
+  "1003870095": {
+    "one_minus_prob": [0.3058],
+    "sum_until_correct": [0.894]
+  },
+  "1014760096": {
+    "one_minus_prob": [0.3671],
+    "sum_until_correct": [0]
+  },
+  "1001600097": {
+    "one_minus_prob": [0.3537],
+    "sum_until_correct": [0]
+  },
+  "1009960097": {
+    "one_minus_prob": [0.3532],
+    "sum_until_correct": [0]
+  },
+  "1012140097": {
+    "one_minus_prob": [0.5919],
+    "sum_until_correct": [0]
+  },
+  "1012760097": {
+    "one_minus_prob": [0.5328],
+    "sum_until_correct": [0.6324]
+  },
+  "1011900098": {
+    "one_minus_prob": [0.0483],
+    "sum_until_correct": [0]
+  },
+  "1017850098": {
+    "one_minus_prob": [0.1125],
+    "sum_until_correct": [0]
+  },
+  "1011370099": {
+    "one_minus_prob": [0.9174],
+    "sum_until_correct": [0.192]
+  },
+  "1014040099": {
+    "one_minus_prob": [0.6362],
+    "sum_until_correct": [0]
+  }
+}
