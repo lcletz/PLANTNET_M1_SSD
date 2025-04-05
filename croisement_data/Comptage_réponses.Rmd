@@ -1,0 +1,75 @@
+---
+title: "Comptage_réponses"
+author: "AIGOIN Emilie"
+date: "2025-04-05"
+output: html_document
+---
+
+```{r, warning = FALSE}
+
+# Charger les packages
+
+library(jsonlite)
+library(progress)
+
+```
+
+```{r}
+
+# Mise en place du dossier de travail
+
+# Définir le chemin vers le dossier de travail : !!!! à changer !!!!
+chemin <- "/Users/emilieaigoin/Desktop/Test-ordinateur/multiple_data"
+
+# Changer le répertoire actuel vers ce dossier
+setwd(chemin)
+
+# Afficher le répertoire de travail pour confirmation
+cat("Répertoire de travail actuel:", getwd(), "\n")
+
+```
+
+## Fonction de croisement
+
+```{r}
+  
+# Charger les fichiers JSON
+data <- fromJSON(file.path(chemin, "answers.json"), 
+                 simplifyDataFrame = FALSE)
+  
+```
+
+```{r}
+
+# Fonction pour compter le nombre d'étiquettes par observation
+count_labels <- function(json_data) {
+  
+  # Vecteur pour stocker le nombre d'étiquettes par observation
+  num_labels <- sapply(data, function(x) length(names(x)))
+  
+  # Créer un tableau de comptage
+  result <- table(num_labels)
+  
+  # Convertir en data frame pour une meilleure lisibilité
+  result_df <- data.frame(
+    nombre_etiquettes = as.numeric(names(result)),
+    nombre_observations = as.numeric(result)
+  )
+  
+  return(result_df)
+}
+
+# Appliquer la fonction à l'exemple
+results <- count_labels(data)
+print(results)
+
+# Pour afficher un résumé plus lisible
+cat("\nRésumé:\n")
+for (i in 1:nrow(results)) {
+  cat(results$nombre_observations[i], "observation(s) avec", 
+      results$nombre_etiquettes[i], "étiquette(s)\n")
+}
+
+```
+
+

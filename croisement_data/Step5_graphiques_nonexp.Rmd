@@ -1,0 +1,200 @@
+---
+title: "Scores"
+author: "AIGOIN Emilie"
+date: "2025-03-18"
+output: html_document
+---
+
+```{r}
+
+# Charger les packages
+
+library(jsonlite)
+library(ggplot2)
+library(dplyr)
+library(reshape2)
+library(gridExtra)
+
+```
+
+```{r}
+
+# Mise en place du dossier de travail
+
+# Définir le chemin vers le dossier de travail : !!!! à changer !!!!
+chemin <- "/Users/emilieaigoin/Desktop/Test-ordinateur/multiple_data"
+
+# Changer le répertoire actuel vers ce dossier
+setwd(chemin)
+
+# Afficher le répertoire de travail pour confirmation
+cat("Répertoire de travail actuel:", getwd(), "\n")
+
+```
+
+```{r}
+
+# Importer les données 
+
+data <- fromJSON(file.path(chemin, "5_scores_nonexp.json"), 
+                 simplifyDataFrame = FALSE)
+
+```
+
+```{r}
+
+# Convertir la structure de données en dataframe pour faciliter les visualisations
+convert_to_df <- function(data_json) {
+  ids <- names(data_json)
+  
+  result_df <- data.frame(
+    id = character(),
+    one_minus_prob = numeric(),
+    sum_until_correct = numeric(),
+    stringsAsFactors = FALSE
+  )
+  
+  for (id in ids) {
+    one_minus_prob <- data_json[[id]]$one_minus_prob[1]
+    sum_until_correct <- data_json[[id]]$sum_until_correct[1]
+    
+    result_df <- rbind(result_df, data.frame(
+      id = id,
+      one_minus_prob = one_minus_prob,
+      sum_until_correct = sum_until_correct,
+      stringsAsFactors = FALSE
+    ))
+  }
+  
+  return(result_df)
+}
+
+```
+
+```{r}
+
+# Convertir vos données importées en dataframe
+df <- convert_to_df(data)
+
+# Ajout d'informations supplémentaires pour l'analyse
+df$prob = 1 - df$one_minus_prob
+df$id_numeric = as.numeric(substr(df$id, 1, 10))
+
+```
+
+## Histogrammes
+
+```{r}
+
+# 1. Histogramme de distribution des scores
+p1 <- ggplot(df, aes(x = one_minus_prob)) +
+  geom_histogram(bins = 30, fill = "lightblue", color = "black", alpha = 0.7) +
+  scale_x_continuous(
+    breaks = seq(0, 1, by = 0.1),        # Graduations principales tous les 0.1
+    minor_breaks = seq(0, 1, by = 0.05)  # Graduations mineures tous les 0.05
+  ) +
+   scale_y_continuous(
+    breaks = seq(0, 8000, by = 1000),
+    minor_breaks = seq(0, 8000, by = 500)
+  ) +
+  theme_bw() +
+  labs(
+    title = "Distribution des scores du vrai label",
+    x = "Score du vrai label",
+    y = "Fréquence"
+  ) +
+  theme(plot.title = element_text(hjust = 0.5, face = "bold"))
+
+p2 <- ggplot(df, aes(x = sum_until_correct)) +
+  geom_histogram(bins = 30, fill = "pink", color = "black", alpha = 0.7) +
+   scale_x_continuous(
+     breaks = seq(0, 3, by = 0.5),        # Graduations principales tous les 0.1
+     minor_breaks = seq(0, 3, by = 0.25)  # Graduations mineures tous les 0.05
+     #limits = c(0,1)
+   ) +
+   scale_y_continuous(
+    breaks = seq(0, 70000, by = 5000),
+    minor_breaks = seq(0, 70000, by = 2500)
+  ) +
+  theme_bw() +
+  labs(
+    title = "Distribution des scores cumulatifs",
+    x = "Scores cumulatifs",
+    y = "Fréquence"
+  ) +
+  theme(plot.title = element_text(hjust = 0.5, face = "bold"))
+
+grid.arrange(p1, p2, ncol = 2)
+
+```
+
+## Nuage de points
+
+```{r}
+
+p3 <- ggplot(df, aes(x = one_minus_prob, y = sum_until_correct)) +
+  geom_point(alpha = 0.6) +
+  scale_x_continuous(breaks = seq(0, 1, by = 0.1)) +
+  scale_y_continuous(breaks = seq(0, max(df$sum_until_correct, na.rm = TRUE), by = 0.2)) +
+  theme_minimal() +
+  labs(
+    title = "Relation entre one_minus_prob et sum_until_correct",
+    x = "one_minus_prob",
+    y = "sum_until_correct"
+  )
+p3
+
+```
+
+```{r}
+
+# Premier score (1 - proba du vrai label)
+
+# Analyse des quantiles
+quantiles <- quantile(df$one_minus_prob, probs = c(0.1, 0.25, 0.5, 0.75, 0.9, 0.95))
+print("Quantiles des scores 'one_minus_prob':")
+print(quantiles)
+
+# Statistiques descriptives
+summary_stats <- data.frame(
+  Statistic = c("Min", "Median", "Mean", "Max", "SD", "Range", "N"),
+  Value = c(
+    min(df$one_minus_prob),
+    median(df$one_minus_prob),
+    mean(df$one_minus_prob),
+    max(df$one_minus_prob),
+    sd(df$one_minus_prob),
+    max(df$one_minus_prob) - min(df$one_minus_prob),
+    nrow(df)
+  )
+)
+print(summary_stats)
+
+# Deuxième score (sum jusqu'à la vraie label)
+
+# Analyse des quantiles
+quantiles_2 <- quantile(df$sum_until_correct, probs = c(0.1, 0.25, 0.5, 0.75, 0.9, 0.95))
+print("Quantiles des scores 'sum_until_correct':")
+print(quantiles_2)
+
+# Statistiques descriptives
+summary_stats_2 <- data.frame(
+  Statistic = c("Min", "Median", "Mean", "Max", "SD", "Range", "N"),
+  Value = c(
+    min(df$sum_until_correct),
+    median(df$sum_until_correct),
+    mean(df$sum_until_correct),
+    max(df$sum_until_correct),
+    sd(df$sum_until_correct),
+    max(df$sum_until_correct) - min(df$sum_until_correct),
+    nrow(df)
+  )
+)
+print(summary_stats_2)
+
+```
+
+
+
+
+
