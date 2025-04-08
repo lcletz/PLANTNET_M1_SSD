@@ -18,33 +18,21 @@ library(tibble)
 library(purrr)
 ```
 
-Let's cross the file `tasks.json` with the Zenodo's file `answers.json`.
+Let's cross the file `tasks.json` with the processed with majority vote' file `majority_answers.json`.
 ```{r}
 tasks <- fromJSON("data/tasks.json") %>% 
   enframe(name = "task_id", value = "obs_SWE") %>% 
   mutate(obs_SWE = as.character(obs_SWE))
 
-answers <- fromJSON("data/answers.json") %>% 
-  enframe(name = "obs_SWE", value = "id_SWE") %>% 
-  unnest(cols='id_SWE') %>% 
-  mutate(obs_SWE = as.character(obs_SWE), 
-         id_SWE = as.numeric(id_SWE))
+answers <- fromJSON("data/majority_answers.json")
 
-result_df <- tasks %>%
-  left_join(answers, by = "obs_SWE")
-
-results_list <- result_df %>%
-  group_by(task_id) %>%
-  nest(data = c(obs_SWE, id_SWE)) %>%
-  deframe()
+result_df <- answers %>%
+  left_join(tasks, by = "obs_SWE")
 ```
 
 The file obtained is too heavy to be saved, we will use them as is already and merge them with `samples_classes`'s file by applying the following function: `process_observation`.
-##TO_DO## 
 ```{r}
-##FAIRE VOTE MAJORITAIRE
 predictions <- fromJSON('data/samples_classes.json', simplifyVector = FALSE)
-tasks <- results_list
 
 process_observation <- function(observation, expected_value, obs_id) {
   cat("Traitement de l'observation:", obs_id, "\n")
@@ -72,12 +60,14 @@ process_observation <- function(observation, expected_value, obs_id) {
 
 Undo the commentaries in order to test the previous function on a few datas.
 ```{r}
-# test <- sample(predictions,10)
+# test <- sample(predictions, 10)
 # test2 <- purrr::map2(test, names(test), function(obs, obs_id) {
 #   cat("Traitement de l'observation pour task_id:", obs_id, "\n")
-#   if (obs_id %in% names(tasks)) {
-#     expected_value <- tasks[[obs_id]]$id_SWE
-#     cat("Valeur attendue pour", obs_id, ":", expected_value, "\n")
+#   if (obs_id %in% result_df$task_id) {
+#    expected_value <- result_df %>%
+#      filter(task_id == obs_id) %>%
+#      pull(id_SWE)
+#    cat("Valeur attendue pour", obs_id, ":", expected_value, "\n")
 #   } else {
 #     expected_value <- NULL
 #     cat("Aucune valeur attendue trouvée pour", obs_id, "\n")
@@ -89,14 +79,17 @@ Undo the commentaries in order to test the previous function on a few datas.
 #     return(obs) 
 #   }
 # })
+
 ```
 
 We can save the result of the function in .json file.
 ```{r}
 predictions2 <- purrr::map2(predictions, names(predictions), function(obs, obs_id) {
   cat("Traitement de l'observation pour task_id:", obs_id, "\n")
-  if (obs_id %in% names(tasks)) {
-    expected_value <- tasks[[obs_id]]$id_SWE
+  if (obs_id %in% result_df$task_id) {
+    expected_value <- result_df %>%
+      filter(task_id == obs_id) %>%
+      pull(id_SWE)
     cat("Valeur attendue pour", obs_id, ":", expected_value, "\n")
   } else {
     expected_value <- NULL
@@ -111,48 +104,4 @@ predictions2 <- purrr::map2(predictions, names(predictions), function(obs, obs_i
 })
 
 write_json(predictions2, "data/samples_user_answers.json", pretty = TRUE, auto_unbox = TRUE)
-```
-
-##TO_DO##
-```{r}
-#RETIRER LES 208 EXPERTS DES USER_ANSWERS
-experts <- fromJSON('data/croisements_experts.json')
-predictions3 <- predictions2 %>% 
-  
-## Scores
-results <- fromJSON('data/samples_user_answers.json')
-test <- sample(predictions2,5)
-
-calculate_scores <- function(data) {
-  scores <- list()
-  
-  for (i in names(data)) {
-    predictions <- data[[i]]
-    cumulative_prob <- 0
-    found_correct <- FALSE
-    
-    for (j in 1:length(predictions)) {
-      if (is.na(predictions[[j]]$correct)) {
-        next
-      }
-      if (predictions[[j]]$correct == 1) {
-        found_correct <- TRUE
-        break
-      } else {
-        cumulative_prob <- cumulative_prob + predictions[[j]]$proba
-      }
-    }
-    if (found_correct) {
-      scores[[i]] <- 1 - cumulative_prob
-    } else {
-      scores[[i]] <- 0
-    }
-  }
-  return(scores)
-}
-
-scores_test <- calculate_scores(test)
-scores <- calculate_scores(predictions2)
-
-write_json(scores, 'data/scores_user_answer.json', pretty = TRUE)
 ```

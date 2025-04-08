@@ -1,0 +1,69 @@
+---
+title: "Majority Vote"
+author: "CLETZ Laura"
+date: "2025-04-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+In order to apply the majority vote to the file `answers.json`, we need the following R packages:
+```{r}
+library(jsonlite)
+library(dplyr)
+```
+
+The principle of the majority vote is that the label considered as the truth for an observation will be chosen between all votes based on the weight we give to each user. It means that "our truth" will be the most voted species for each observation. The user that made the picture is given a weight of 3, every other voter has a weight of 1. Except when an expert votes, then their answer is considered the truth.
+
+We first load the necessary files:
+```{r}
+answers <- fromJSON("data/answers.json") %>% 
+  enframe(name = "obs_SWE", value = "id_SWE") %>% 
+  unnest(cols='id_SWE') %>% 
+  mutate(obs_SWE = as.character(obs_SWE), 
+         id_SWE = as.numeric(id_SWE))
+
+gt <- fromJSON('data/ground_truth.json')
+```
+
+We remove all observation where an expert voted. They are processed in another file.
+```{r}
+cl_answers <- answers %>%
+  anti_join(gt, by=join_by("obs_SWE"=="obs_id"))
+```
+
+We then need to retrieve the observation where there are multiple votes, since if there is only one vote it is considered as the truth already.
+```{r}
+counts <- cl_answers %>%
+  count(obs_SWE) %>%
+  filter(n > 1)
+```
+
+From the multiple votes, we duplicate the vote from the observer 2 times so that the specie they voted for appears at least 3 times.
+```{r}
+first_rows <- cl_answers %>%
+  filter(obs_SWE %in% counts$obs_SWE) %>%
+  group_by(obs_SWE) %>%
+  slice(1) %>%
+  ungroup()
+
+first_rows <- first_rows[rep(1:nrow(first_rows), each = 2), ]
+
+long_answers <- bind_rows(cl_answers, first_rows)
+```
+
+We can finally apply the majority vote and save our results. 
+```{r}
+majority_vote <- long_answers %>%
+  group_by(obs_SWE, id_SWE) %>%
+  tally(name = "count") %>%
+  arrange(obs_SWE, desc(count)) %>%
+  slice_head(n = 1) %>% 
+  ungroup() %>%
+  select(-count)
+
+
+write_json(majority_vote, 'data/majority_answers.json', pretty = TRUE)
+```

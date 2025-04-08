@@ -17,7 +17,7 @@ library(httr)
 
 Using the function created in the *R/fetch_data.R* file, we extract a limited lines of each files from the PlantNet-CrowdSWE database on **Zenodo**.
 ```{r}
-subDir <- "data"
+subDir <- "./data"
 mainDir <- getwd()
 dir_path <- file.path(mainDir, subDir)
 if (!dir.exists(dir_path)) {
@@ -36,6 +36,7 @@ target_files <- c("zenodo/aggregation/ai_answers.json",
                   "zenodo/aggregation/ai_scores.json",
                   "zenodo/converters/classes.json",
                   "zenodo/converters/tasks.json",
+                  "zenodo/answers/answers.json",
                   "zenodo/answers/ground_truth.txt")
 
 output_files <- file.path(dir_path, basename(target_files))
