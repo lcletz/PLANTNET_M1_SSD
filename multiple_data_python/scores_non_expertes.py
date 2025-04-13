@@ -6,20 +6,45 @@ import json
 with open("samples_user_answers.json", "r") as file:
     data = json.load(file)
 
-# Calculer les scores de non-conformité et les associer aux observations
-scores_dict = {}
+# Fonction pour calculer les scores comme pour les experts
+def calculate_non_expert_scores(data):
+    scores = {}
 
-for plant_id, predictions in data.items():
-    scores_dict[plant_id] = []
-    for entry in predictions:
-        non_conformity_score = 1 - entry["proba"]  # Calcul du score
-        scores_dict[plant_id].append({
-            "obs": entry["obs"], 
-            "non_conformity_score": round(non_conformity_score, 4)  # Arrondi à 4 décimales
-        })
+    for plant_id, predictions in data.items():
+        cumulative_prob = 0
+        score_du_vrai = 0
+        score_somme = 0
+        found_correct = False
 
-# Sauvegarder les scores dans un fichier JSON
-with open("5_score_non_expertes.json", "w") as outfile:
-    json.dump(scores_dict, outfile, indent=4)
+        for pred in predictions:
+            if pred.get('correct') == 1:
+                found_correct = True
+                score_du_vrai = round(1 - pred.get('proba', 0), 4)
+                score_somme = round(cumulative_prob, 4)
+                break
+            else:
+                cumulative_prob += pred.get('proba', 0)
 
-print("Fichier '5_scores_non_expertes.json' créé avec succès !")
+        if found_correct:
+            scores[plant_id] = {
+                "one_minus_prob": [score_du_vrai],
+                "sum_until_correct": [score_somme]
+            }
+        else:
+            scores[plant_id] = {
+                "one_minus_prob": [0.999],
+                "sum_until_correct": [0.001]
+            }
+
+    return scores
+
+# Calculer les scores
+scores_non_experts = calculate_non_expert_scores(data)
+
+# Sauvegarder dans un fichier JSON
+with open("5_scores_non_experts.json", "w") as outfile:
+    json.dump(scores_non_experts, outfile, indent=4)
+
+print("Fichier '5_scores_non_experts.json' créé avec succès !")
+
+# %%
