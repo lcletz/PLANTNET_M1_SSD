@@ -126,22 +126,25 @@ Le processus fonctionne ainsi : lorsqu'un utilisateur soumet une photographie, l
 \vspace{0.2cm}
 
 
-Notre travail est basé sur une démarche d'optimisation de ce système.
-Étant donné que nous cherchons à avoir un nombre de prédictions fini mais également raisonnable, l'affichage des étiquettes s'arrête dès que la probabilité devient inférieure à un seuil jugé trop faible pour être pertinent (ici fixé à $0,001$). De plus, nous verrons par la suite que nous cherchons également à ce que ce nombre soit adaptatif à la dureté du problème : plus il est facile de prédire l'espèce sur la photographie et moins il y aura d'étiquette en sortie.
+Notre travail est basé sur une démarche d'optimisation de ce système, avec pour objectif de rendre le nombre d'étiquettes présentées adaptatif à la difficulté du problème d'identification : plus l'identification est facile, moins le système proposera d'options à l'utilisateur, et inversement pour les cas ambigus ou difficiles.
 
 \vspace{0.2cm}
 
-Toutes les étiquettes que l'intelligence artificielle sort pour une observation sont stockées dans une base de données qui a constitué notre jeu de données pendant la totalité de ce travail.
+Toutes les interactions entre les utilisateurs et le système (incluant les images soumises, les prédictions de l'intelligence artificielle et les validations humaines) sont stockées dans une base de données qui a constitué notre jeu de données tout au long de ce projet.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsection{Présentation du jeu de données}
 
-Nous avons travaillé avec plusieurs jeux de données de différentes tailles et provenant d'observations de plantes de lieux différents.
+Notre étude s'est appuyée sur plusieurs jeux de données issus de Pl@ntnet, chacun présentant des caractéristiques spécifiques en termes de taille, de structure et de variables.
 
 \vspace{0.2cm}
 
-Dans un premier temps, nous nous sommes familiarisées avec un jeu de $6 699 593$ observations d'espèces de plantes situées en Europe du Sud-Ouest (Pl@ntnet-CrowdSWE). Ces observations ont été réalisées par $823 251$ utilisateurs de l'application Pl@ntNet. Ces utilisateurs sont différenciés en deux catégories : les experts (représentent seulement $98$ utilisateurs) et les non-experts. Les experts ont été identifiés comme tels car ce sont des experts en botanique. Ainsi, quand un expert a donné son avis sur une étiquette de plante, nous admettons sa véracité. 
+Dans un premier temps, nous nous sommes familiarisées avec le jeu de données principal Pl@ntnet-CrowdSWE (pour South-West Europe), comprenant $6 699 593$ observations d'espèces végétales situées en Europe du Sud-Ouest. Ces observations ont été réalisées par $823 251$ utilisateurs de l'application Pl@ntNet, parmi lesquels nous distonguons deux catégories : 
+\begin{itemize}
+    \item Les experts : au nombre de $98$, ce sont des botaniques professionnels ou des amateurs très expérimentés dont nous admettons la véracité des identifications.
+    \item Les non-experts : constituent la majorité des contributeurs et comprennent tout les utilisateurs novices en botanique.
+\end{itemize}
 
 \vspace{0.2cm}
 
