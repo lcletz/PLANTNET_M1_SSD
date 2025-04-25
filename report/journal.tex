@@ -1,0 +1,304 @@
+\documentclass[french]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{babel}
+\usepackage{gfsartemisia}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{ifthen}
+\usepackage{tikz}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{dsfont}
+\usepackage{xcolor}
+\usepackage{float}
+\usepackage{multirow}
+\usepackage{hyperref}
+
+\title{Journal de bord}
+
+\begin{document}
+\maketitle
+
+\section{Réunion du 29/01}
+
+\subsection{Données :}
+
+Travail uniquement sur des données de l'Europe de l'Ouest : 
+
+\begin{itemize}
+    \item $6$ millions d'observations.
+    \item $1$ million de personnes contributrices (au moins une photo).
+    \item $100$ personnes expertes (observateurs considérés comme experts par des botanistes).
+\end{itemize}
+
+\vspace{0.2cm}
+
+Dossier PlanetNet\_SWE :
+$19000$ espèces de plantes disponibles.
+
+Dossier PlantNet\_300K :
+$50 000$ espèces de plantes disponibles.
+
+Accès aux fichiers sur Zenodo.
+
+\subsection{Pour la réunion du 18/02 :}
+
+\begin{itemize}
+    \item Prendre en main la base de données.
+    \item Faire une visualisation de la base de données.
+    \item Télécharger et regarder l'application.
+    \item Choisir plutôt Python ou R.
+    \item Faire dépôt Git.
+    \item Identifier les images expertes et les mettre de côté (elles nous serviront à mesurer la performance).
+    \item Première référence dans le projet à lire et vidéos à regarder.
+    \item Regarder les différentes méthodes de classifications (score top K).
+    \item Faire les premières statistiques descriptives.
+    \item Nouvelles données à étudier.
+\end{itemize}
+
+Réunion toutes les $3$ semaines environ. 
+
+\subsection{Objectifs du projet :}
+
+Améliorer l'incertitude par prédiction conforme.
+
+Prise de décision au vu des labels (quels labels et à partir de combien).
+
+Actuellement des erreurs dans les cartes (si confusion entres espèces).
+  
+Nombre de labels à ajuster en fonction des probabilités de chaque observations (garantie conformale).
+
+\subsection{Remarques :}
+
+Réseau de neurones (classifieur) qui va prendre une photo et renvoyer un score de probabilité qui indique telle ou telle espèce.
+
+\vspace{0.2cm}
+
+Ce sont principalement des fleurs colorées, certaines pouvant être mangées ou utilisées à des fins curatives, ou des arbres fruitiers.
+1599 plantes de ai\_classes.json n'ont pas été observées dans ai\_answers.json.
+
+\vspace{0.2cm}
+
+Nous avons pour objectif de transformer un échantillon fourni sous forme de dossier compressé avec des fichiers JSON en un seul fichier JSON qui liste toutes les observations et leurs scores de prédiction par espèce. 
+
+\subsection{Laura :}
+
+\begin{itemize}
+    \item Création du Git : https://github.com/lcletz/PLANTNET\_M1\_SSD
+    \item Programmation Python d'un fetch\_data.py
+    \item Initialisation d'un package R auto-documenté par roxygen2
+    \item Programmation du fetch\_data précédent en R 
+    \item Récupération de 20 000 lignes par fichiers d'intérêt sur Zenodo
+    \item Statistiques descriptives et graphes : 
+    \begin{itemize}
+        \item Toutes les plantes observées dans le Sud-Ouest de l'Europe ne forment pas la totalité des espèces observées sur PlantNet
+        \item Les espèces les plus observées n'ont pas forcément de meilleurs scores 
+        \item Les espèces les moins observées (voire même observées une seule fois) peuvent avoir de très bon score
+        \item Il n'est pas possible de réaliser les méthodes d'analyse multivariée car il n'y a pas assez de variables
+    \end{itemize}
+    \item Récupération du nouveau dataset "samples"
+    \item Processing du dataset en un unique fichier .json
+\end{itemize}
+
+\subsection{Anne-Laure :}
+
+\begin{itemize}
+    \item Analyse des données avec des graphiques d'abord sur python avec seulement $20 000$ observations puis adaptation sur R (avec un fichier R Markodwn).
+    \item Récupération des nouvelles données "samples"
+    \item Script python de l'archive \textbf{kswe\_20250117.tar} (un nouvelle échantillon de fichier JSON) afin de regrouper en un seul fichier JSON toutes les observations et leurs scores de prédictions. Mon script permet de parcourir les fichiers JSON du dossier d’échantillon, d'extraire les informations pertinentes (ID observation, liste des espèces et leurs scores). Et de créer un dictionnaire final regroupant toutes les observations. Puis exporte le résultat en un seul fichier JSON.
+    \item Script python pour extraire juste le fichier \textbf{tasks.json} du fichier zip général.
+\end{itemize}
+
+\subsection{Emilie :}
+
+\begin{itemize}
+    \item Mise en place du fichier pour le rapport écrit final sur le projet.
+    \item Analyse des données Pl@ntnet-300K : 
+    \begin{itemize}
+        \item Compréhension des variables d'intérêt (organ, split, etc.).
+        \item Test avec les $20000$ premières données puis $20000$ données aléatoires.
+        \item Histogramme des $10$ espèces les plus observées.
+        \item Graphiques sur les séparations en différents groupes.
+        \item Graphiques sur les organes les plus observés.
+    \end{itemize}
+    \item Récupération des nouvelles données avec scores multiples.
+    \item Script R sur les données avec scores multiples pour qu'elles soient regroupées en un seul fichier .json.
+    \item Création du premier diaporama pour la présentation de notre avancée lors de la deuxième réunion.
+\end{itemize}
+
+
+\section{Réunion du 18/02}
+
+\subsection{Pour la réunion du 05/03 :}
+
+\begin{itemize}
+    \item Refaire des statistiques descriptives de SWE dont une estimation de densité :
+    \begin{itemize}
+        \item enlever les couleurs si elles ne sont pas informatives
+        \item distribution des p max plutôt que moyennes
+        \item enlever les scores en x et ne garder que les observations
+    \end{itemize}
+    \item Croiser les données de SWE et du dataset de Prédictions
+    \item Diviser les bases de données selon intérêt :
+    \begin{enumerate}
+        \item Données expertes (= ground truth)
+        \item Données disponibles dans tous les datasets
+        \item Les $10$ espèces les plus et les moins observées
+    \end{enumerate}
+    \item Tester différentes fonctions score (cf p.14 \url{https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/lectures/conformal.pdf}) : si on arrive à calculer les scores c'est très bien
+    \item Réorganiser le git et les branches (unifier les recherches avec TKinter pour Python, voir équivalent R)
+    \item  Faire la correspondance avec "tasks.json" (voir avec les noms des plantes plutôt que les identifiants d'observations). Faire les étapes de préprocessing.
+    \item être au point sur les scores ; 
+\end{itemize}
+
+\section{Informations complémentaires :}
+
+En général, les différentes observations sont dûes à un utilisateur qui prend plusieurs fois la même plante en photo mais sous des angles différents.
+
+\vspace{0.2cm}
+
+Nous avons $x_i$ qui correspond aux images et $y_i \in \{1, ..., N\}$ avec $N$ le nombre d'espèces. Si j'ai un nombre $x$ je veux un $y$ donné.
+
+\vspace{0.2cm}
+
+L'ingénieur qui a trié le dataset des prédictions a gardé les scores obtenus (il y a autant de scores que d'espèces) selon si la somme de ces scores est proche d'un certain seuil ($999$/$1000$) et si les scores sont au moins supérieurs à $1$/$1000$, d'où la différence du nombre de labels pour chaque observation.
+
+\vspace{0.2cm}
+
+Il est courant de choisir K = $1$,$5$,$10$ pour la méthode Top\_K, nous n'avons pas besoin de regarder la méthode Average\_K. Proche du sujet :
+
+\url{https://josephsalmon.eu/talks/pres_cirm2022.pdf}
+
+\vspace{0.2cm}
+
+Il est judicieux d'avoir pris des ($20 000$ dans notre cas) données aléatoirement car l'ordre des observations dans la base n'est pas dû au hasard.
+
+\vspace{0.2cm}
+
+Il vaudra mieux croiser les données à partir des noms des plantes plutôt qu'avec les identifiants des observations.
+
+\vspace{0.2cm}
+
+Nous cherchons à garantir que dans les labels que la fonction renvoie il y ait la bonne réponse à l'intérieur : le taux de couverture (exemple $9/10$) doit être réaliste et donner le nombre de labels en fonction des scores.
+
+\vspace{0.2cm}
+
+Nous n'avons pas à nous inquiéter de la fonction soft-argmax mais si besoin :
+\url{https://josephsalmon.eu/blog/softmax/}
+
+\vspace{0.2cm}
+
+Nous avons des données expertes dans le fichier 'ground\_truth.txt'. Il nous faut prendre une partie des données pour créer le réseau et une autre partie pour réitérer (à réfléchir quelles données prendre).
+
+\vspace{0.2cm}
+
+$$ \text{entrée (vecteur image)} \underset{\text{transformation d"objet réel en distribution de probabilité }}\longrightarrow \text{ sortie (vecteur de probabilité)} $$
+
+\vspace{0.2cm}
+
+Attention, nous avons un réseau de neurones qui a été entraîné sur toute la base de données alors il a déjà vu toutes nos données. D'habitude, on split les données en 'train' et 'test' pour que le réseau n'est pas déjà vu celles qu'il évalue.
+
+
+\section{Réunion du 05/03}
+
+\subsection{Pour la réunion du 21/03 : }
+\begin{itemize}
+    \item Corriger (échelle log) sur le graphique 1 et embellir les statistiques descriptives pour la dernière fois (mettre un thème où on voit les graduations sur les axes). Utilité d'utiliser plotly car cela donne des graphiques interactifs (pratique pour le requêtage).
+    \item Faire un graphique avec le nombre d'observations en fonction du niveau de difficulté (indice de difficulté en moyennant les scores) pour voir si les espèces avec le plus de labels sont plus simples à identifier.
+    \item Créer une fonction score APS (voir Tiffany Ding \url{https://arxiv.org/pdf/2306.09335})
+    \item Croiser les tableaux de données dont les colonnes sont :
+    \begin{enumerate}
+        \item Le nombre d'observations $(1:n_obs)$ ou obs_id
+        \item Les labels $Yi$
+        \item Le score $(s_1)_{1:n_obs}$ du label choisi par le réseau 
+        \item La liste des scores $(s_2)_{1:n_obs}$ du dataset samples 
+        \item La somme de la liste précédente (fonction score APS)
+    \end{enumerate}
+    \item Décisions à prendre et à rapporter aux encadrants (voir plus bas)
+\end{itemize}
+
+Remarque à propos du tableau croisé : les vecteurs de labels et de scores peuvent être des listes de tailles variables.
+
+\vspace{0.2cm}
+
+Une espèce observée une seule fois dans nos bases de données peut avoir un score très élevé car si le réseau n'a été entrainé que sur une seule image et qu'il la voit par la suite il va être sûr qu'elle correspond bien à cette espèce.
+
+\vspace{0.2cm}
+
+Nous avons $s(x_i, y_i) \in \mathbb R$ avec : 
+\begin{itemize}
+    \item $s_1 = 1 - p_j$, avec $p_j$ qui est le score du vrai. Donc plus $s_1$ est petite est mieux c'est.
+    \item $s_2 = \sum_{j=1}^{k-1} p_{(j)}$, avec $p_{(j)}$ quand les scores sont ordonnés et $k$ le label observé dans le train. On ne va que jusqu'à $k-1$ car on cherche un score faible et cela permet de prévenir d'un grand vrai label.
+\end{itemize}
+
+Un score peut-être vu comme une erreur, donc plus il est petit (proche de 0), plus il est bon/favorable/intéressant.
+
+\vspace{0.2cm}
+
+Deux décisions à prendre :
+\begin{itemize}
+    \item Choisir si on prend $(s_1)$ ou $1-(s_1)$, la convention suggère la seconde
+    \item Décider de comment nous allons traiter les listes des scores tronquées par l'ingénieur
+\end{itemize}
+
+\section{Réunion du 24/03}
+
+Le fichier ai_answer contient l'ancien top-1 prédiction et pas les vrais valeurs observées.
+Le fichier authors n'a pas d'intérêt pour nous.
+
+On commence par faire les analyses en se restreignant aux valeurs avec ground_truth (environ 26 000) et on part du principe que les résultats qu'ont donné les experts sont corrects. Et ensuite on élargit à tout le monde : 
+\begin{itemize}
+     \item La personne qui prend la photo a plus de voix sur le label qu'une personne qui vote pour un label car c'est la seule qui l'a vu en vrai.
+     \item On prend en compte le vote majoritaire pour trouver le bon label (faire notre propre ground truth).
+     \item Si deux votes sont à ex-aequo, on le choisit au hasard.
+     \item Il y a, en moyenne, 1.2 labels par image.
+\end{itemize}
+
+Pour le calcul des scores cumulatifs, ne pas mettre $1 - \sum$ mais juste la somme. 
+Calculer les autres score : 1 - proba associée au vrai label.
+
+L'\textbf{objectif} va être de prendre une décision pour donner un ensemble raisonnable du nombre de labels (calcul sur le nombre d'étiquette en fonction des photos).
+
+On va commencer par couper en deux notre base de données ($50\%$ et $50\%$) pour avoir un jeu de test et un jeu de calibration. On va le faire au hasard mais il faut vérifier. Attention, il faut qu'il y ait le même nombre d'experts dans les deux échantillons.
+
+Dans le jeu de calibration on veut prendre une décision pour qu'on atteigne un certain niveau de performance qu'on va devoir fixer (commencer avec $95\%$). Donc il faut \textbf{proposer une règle de décision pour que $95\%$ du temps la vraie étiquette soit dans notre ensemble de prédiction}.
+
+Pour cela, on va trier nos scores, tronquer à $90\%$ et on va avoir le quantile qui nous intéresse : si le score est en-dessous alors on ne le prend pas, sinon oui.
+
+Ensuite, on mesurera la performance sur les données laissées de côté avec Test.
+
+\textbf{Réponses aux problèmes}.
+\begin{itemize}
+     \item Enlever les données sans correspondances : car pas de label liés (il y a plus de labels maintenant qu'auparavant).
+     \item Quand il n'y a que des $0$ en correct : on part du principe que le bon label est de $1/1000$ car nous avons tronqués les données et il n'apparaît plus car il est trop faible en probabilité.
+\end{itemize}
+
+Il existe des packages de conformal prediction pour vérifier notre code.
+
+\texbf{Pour la prochaine fois} : relire le papier et surligner les endroits flous.
+
+\section{Réunion du 07/04}
+
+Prochaine réunion : 24/04 à 15h30 avec M.BOTELLA seulement
+
+\vspace{0.2cm}
+
+Nous pouvons omettre toutes les données dont les scores ne sont pas compris entre 0 et 1.
+
+\vspace{0.2cm}
+
+Lorsque deux graphes sont affichés l'un à côté de l'autre, il faut utiliser les mêmes échelles pour pouvoir les comparer.
+
+\vspace{0.2cm}
+
+À faire avant ça :
+\begin{itemize}
+    \item Modifier le fichier answers.json en y appliquant le vote majoritaire
+    \item Récupérer toutes les données, pas seulement samples
+    \item Refaire les prédictions avec ce vote majoritaire, commenter chaque étape, savoir les expliquer, chronométrer et au mieux améliorer l'algorithme
+    \item Diviser les croisements experts en 2 : un des deux sera le test permanent
+    \item Comparer deux calibration set : les données samples et la seconde partie des croisements experts
+\end{itemize}
+
+\end{document}

@@ -13,3 +13,18 @@ PlantNetM1SSD.Rcheck/
 
 # Fichiers système macOS
 .DS_Store
+
+# LaTeX temporary files
+*.aux
+*.bcf
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.fdb_latexmk
