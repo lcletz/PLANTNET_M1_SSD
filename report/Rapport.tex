@@ -82,19 +82,23 @@ Sous la direction (ou co-direction) de \\ \vspace{0.2cm}
 
 \section{Introduction}
 
-La reconnaissance des plantes est une problématique clé en botanique, avec des applications directes dans la conservation de la biodiversité, la gestion des écosystèmes ou encore la culture personnelle. Parmi les initiatives les plus importantes dans ce domaine, le projet Pl@ntNet joue un rôle central en proposant une application de reconnaissance automatique des plantes basée sur des données collectées par les utilisateurs. Cette approche de science participative permet de constituer une base de données massive et diversifiée, essentielle pour entraîner et affiner les modèles de classification.
+La reconnaissance des plantes est une problématique clé en botanique, avec des applications directes dans la conservation de la biodiversité, la gestion des écosystèmes ou encore la culture personnelle. Parmi les initiatives les plus importantes dans ce domaine, le projet Pl@ntNet joue un rôle central en proposant une application de reconnaissance automatique des plantes basée sur des données collectées par les utilisateurs. Cette approche de science participative permet de constituer une base de données massive et diversifiée de plus de $6$ millions d'observations pour la seule régione de l'Europe du Sud-Ouest, impliquant plus de $800000$ contributeurs et couvrant plus de $17000$ espèces végétales. Ce qui est essentielle pour entraîner et affiner les modèles de classification.
 
 \vspace{0.2cm}
 
-Cependant, garantir la fiabilité des prédictions reste un défi. Les données collectées, bien que nombreuses, peuvent être de qualité variable, et la diversité des espèces ainsi que les conditions de prise de vue (lumière, angle, netteté) introduisent des incertitudes. Pour améliorer la précision de l'application, il ne suffit pas d’optimiser la classification : nous devons également quantifier l’incertitude des prédictions et adapter la sortie du modèle en conséquence.
+Cependant, garantir la fiabilité des prédictions reste un défi majeur. Les données collectées, bien que nombreuses, peuvent être de qualité variable en raison des conditions de prise de vue (lumière, angle, netteté), de la diversité des espèces et de l'expertise variables des contributeurs. Pour améliorer la précision de l'application, il ne suffit pas d’optimiser la classification : nous devons également quantifier l’incertitude des prédictions et adapter dynamiquement la sortie du modèle en fonction du niveau de confiance.
 
 \vspace{0.2cm}
 
-Dans ce travail, nous nous sommes intégrées au projet Pl@ntNet, avons récupéré et analysé les données issues de l’application, et avons terminé en cherchant à améliorer la fiabilité des prédictions en les rendant adaptatives. Plutôt que de fournir une unique réponse avec une probabilité associée, notre objectif était de générer un ensemble de prédictions dont la probabilité de contenir la bonne espèce était presque garantie. Cet ensemble devait être le plus restreint possible pour éviter les suggestions inutiles, mais devait aussi s’ajuster en fonction de la difficulté de l’identification : être plus précis pour les cas évidents et plus large pour les situations ambiguës.
+Dans ce travail, nous nous sommes intégrées au projet Pl@ntNet avec un objectif précis : améliorer la fiabilité des prédictions en les rendant adaptatives. Plutôt que de fournir une unique réponse avec une probabilité associée, notre objectif était de générer un ensemble de prédictions dont la probabilité de contenir la bonne espèce atteint un niveau de garantit satisfaisant (fixé comme étant $95\%$). Cet ensemble doit être le plus restreint possible pour éviter les suggestions inutiles, tout en s'ajustant automatiquement en fonction de la difficulté de l’identification : être plus précis pour les cas évidents et plus large pour les situations ambiguës.
 
 \vspace{0.2cm}
 
-Pour répondre à cette problématique, nous allons utiliser la prédiction conforme, une approche statistique permettant de garantir un niveau de confiance contrôlé sur les résultats du modèle. Dans la suite de ce rapport, nous détaillerons comment cette méthode peut être appliquée aux données de Pl@ntNet pour améliorer la robustesse et la pertinence des prédictions.
+Pour répondre à cette problématique, nous avons utilisé la prédiction conforme, une approche statistique permettant de transformer les sorties probabilistes d'un modèle de classification en ensembles de prédiction avec des garanties de couverture. Contrairement aux méthodes classiques, la prédiction conforme offre des garanties valides même pour des échantillons de taille finie et sans hypothèses fortes sur la distribution des données.
+
+\vspace{0.2cm}
+
+Dans la suite de ce rapport, nous détaillerons notre approche en commençant par une présentation approfondie de l'application Pl@ntnet et des données utilisées, suivie d'analyses statistiques descriptives. Nous introduirons ensuite le cadre théorique de la prédiction conforme avant de présenter notre méthodologie, nos résultats principaux et leurs implications pour l'amélioration de l'application.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -105,18 +109,24 @@ Pour répondre à cette problématique, nous allons utiliser la prédiction conf
 
 \subsection{Application Pl@ntnet}
 
-Pl@ntNet est un projet de sciences participatives accessible sous forme d’application mais également avec une \href{https://identify.plantnet.org/fr}{interface en ligne}. Son objectif est d'aider à identifier une espèce de plante à partir d'une photographie. Elle se base sur l’intelligence artificielle pour faciliter l’identification et l’inventaire des espèces végétales qu'elle recense géographiquement en fonction de la localisation de la photo.
+Pl@ntNet est un projet de sciences participatives accessible sous forme d’application mobile gratuite mais également via une \href{https://identify.plantnet.org/fr}{interface en ligne}. Développé conjointement par l'Institut National de Recherche Informatique et Automatique (INRIA), le Centre de coopération International en Recherche Agronomique (CIRAD) et l'Institut de Recherche pour le Développement (IRD), ce projet a été lancé en $2009$ et recense plus de $20$ millions d'utilisateurs dans le monde en $2024$. 
 
 \vspace{0.2cm}
 
-Pl@ntNet est basée sur un principe d’apprentissage coopératif. Les utilisateurs peuvent partager leurs photographies (que nous appellerons des observations) et celles-ci peuvent être révisées par la communauté et utilisées par l’IA pour apprendre à reconnaître les plantes. Il est par exemple possible de confirmer le nom d’une espèce ou bien d'en suggérer une autre si l’on reconnaît la plante présente sur une photographie.
+Son objectif principal est d'aider le grand public et le professionnels à identifier les espèces végétales à partir de photographies. L'application s'appuie sur des algorithmes d'intelligence artificielle qui analysent les caractéristiques visuelles des plantes (écorce, feuilles, fruits, fleurs, etc.) pour proposer des identifications. Au-delà de la reconnaissance des plantes, Pl@ntnet permet également de cartographier la distribution géographique des espèces végétales en fonction de la localisation des photographies paratgés par les utilisateurs.
 
 \vspace{0.2cm}
 
-Ainsi, lorsqu'un utilisateur prend une plante en photo, le logiciel génère une liste avec les noms d'espèces de plantes (appelées étiquettes) susceptibles de correspondre à celle présente sur l'image, chacune associée à une probabilité. L'espèce affichée en premier est celle que l'intelligence artificielle estime la plus probable, suivie par les suivantes classées par ordre décroissant de probabilité. 
+Pl@ntNet est basée sur un principe d’apprentissage coopératif et itératif. Les utilisateurs peuvent partager leurs photographies (que nous appellerons des observations) et celles-ci peuvent être ensuite révisées par la communauté. Cet autre type de contribution est utilisé non seulement pour enrichir la base de données mais est aussi utilisé par l’IA pour améliorer les performances de son système de reconnaissance. Les utilisateurs peuvent, par exemple, confirmer l'identification d'une espèce, suggérer une identification alternative, ou signaler une erreur.
 
 \vspace{0.2cm}
 
+Le processus fonctionne ainsi : lorsqu'un utilisateur soumet une photographie, l'algorithme d'intelligence artificielle analyse l'image et généère une liste d'espèces candidates (appelées étiquettes), chacune associée à une probabilité. L'espèce affichée en première position est celle que l'intelligence artificielle estime la plus probable, suivie des autres classées par ordre décroissant de probabilité. Pour garantir la pertinence des suggestions et ne pas surcharger l'utilisateur d'informations avec des espèces peu probables, l'affichage est limité aux espèces dont la probabilité dépasse au seuil minimal, fixé à $0,001$ (soit $0,1\%$).
+
+\vspace{0.2cm}
+
+
+Notre travail est basé sur une démarche d'optimisation de ce système.
 Étant donné que nous cherchons à avoir un nombre de prédictions fini mais également raisonnable, l'affichage des étiquettes s'arrête dès que la probabilité devient inférieure à un seuil jugé trop faible pour être pertinent (ici fixé à $0,001$). De plus, nous verrons par la suite que nous cherchons également à ce que ce nombre soit adaptatif à la dureté du problème : plus il est facile de prédire l'espèce sur la photographie et moins il y aura d'étiquette en sortie.
 
 \vspace{0.2cm}
