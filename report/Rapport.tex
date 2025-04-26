@@ -87,7 +87,7 @@ Sous la direction (ou co-direction) de \\ \vspace{0.2cm}
 
 \section{Introduction}
 
-La reconnaissance des plantes est une problématique clé en botanique, avec des applications directes dans la conservation de la biodiversité, la gestion des écosystèmes ou encore la culture personnelle. Parmi les initiatives les plus importantes dans ce domaine, le projet Pl@ntNet joue un rôle central en proposant une application de reconnaissance automatique des plantes basée sur des données collectées par les utilisateurs. Cette approche de science participative permet de constituer une base de données massive et diversifiée de plus de $6$ millions d'observations pour la seule régione de l'Europe du Sud-Ouest, impliquant plus de $800000$ contributeurs et couvrant plus de $17000$ espèces végétales. Ce qui est essentielle pour entraîner et affiner les modèles de classification.
+La reconnaissance des plantes est une problématique clé en botanique, avec des applications directes dans la conservation de la biodiversité, la gestion des écosystèmes ou encore la culture personnelle. Parmi les initiatives les plus importantes dans ce domaine, le projet Pl@ntNet joue un rôle central en proposant une application de reconnaissance automatique des plantes basée sur des données collectées par les utilisateurs. Cette approche de science participative permet de constituer une base de données massive et diversifiée de plus de $6$ millions d'observations pour la seule régione de l'Europe du Sud-Ouest, impliquant plus de $\num{800000}$ contributeurs et couvrant plus de $\num{17000}$ espèces végétales. Ce qui est essentielle pour entraîner et affiner les modèles de classification.
 
 \vspace{0.2cm}
 
@@ -240,27 +240,34 @@ Cette complémentarité des outils nous a permis d'aborder efficacement les diff
 
 \subsection{Statistiques descriptives}
 
-Bien avant de nous atteler aux analyses plus poussées comme les algorithmes de prédiction conformes ou les calculs des scores, nous avons réalisé une série de statistiques descriptives sur le premier jeu de données. 
+Bien avant de nous atteler aux analyses plus poussées comme les algorithmes de prédiction conformes ou les calculs des scores, nous avons réalisé une série de statistiques descriptives sur le premier jeu de données. Ces analyses préliminaires nous ont permis de mieux comprendre la nature des données et d'identifier certains phénomènes intéressants.
 
-\vspace{2.0cm}
+\vspace{0.2cm}
 
-Nous souhaitions tout d'abord voir la répartition des espèces qui sont photographiées en Europe du Sud-Ouest.
+Nous avons tout d'abord examiné la répartition des espèces photographiées en Europe du Sud-Ouest.
 
 \begin{figure}[H]
   \centering
   \includegraphics[scale=0.3]{images/10_Most_Observed_Species.png}
+  \caption{Histogramme des $10$ espèces végétales les plus osbervées}
   \label{fig1}
 \end{figure}
 
-Nous pouvons lire ci-dessus les appellations des dix espèces les plus photographiées. Ce sont essentiellement des arbres vivaces, certains fruitiers, ou des fleurs comestibles, aux propriétés curatives qui peuvent être aperçues dans toute la zone géographique qui nous intéresse. 
+%%%%% ???? refaire les graphiques ???? %%%%%
+
+Comme le montre la Figure $1$, les espèces les plus fréquemment photographiées par les utilisateurs de Pl@ntnet sont essentiellement des arbres vivaces, certains fruitiers, ou des fleurs comestibles, aux propriétés curatives et qui peuvent être aperçues dans toute la zone géographique étudiée. Le \textit{Prunus Spinosa L.} ou, plus communément, prunellier, arrive en tête des observations, suivi par d'autres espèces communes comme le \textit{Fagus Sylvatica L.} (hêtre commun) ou encore le \textit{Corylus avellana L.} (noisetier commun).
 
 \vspace{0.2cm}
 
-Le \textit{Prunus Spinosa L.} ou, plus communément, prunellier est l'espèce qui revient le plus souvent, nous la verrons apparaître dans la majorité des graphes qui vont suivre. Parmi les espèces les moins observées, nous n'avons pas retenu de particularités qui les relieraient mais il est très probable que ce soient des plantes plus rares ou qui suscitent moins l'intérêt de l'observateur.
+Cette distribution n'est pas surprenante puisqu'elle reflète à la fois l'abondance de ces espèces dans l'écosystème méditerranéen et l'intérêt qu'elle suscite auprès du grand public, soit pour leur valeur décorative, soit pour leurs usages alimentaires ou médicinaux.
 
 \vspace{0.2cm}
 
-Au-delà de la répartition des apparitions des espèces qui semble seulement impliquer un intérêt de l'observateur, nous nous sommes intéressées aux scores top $1$ apportés par l'IA de Pl@ntNet, c'est-à-dire à l'espèce prédite ayant la plus grande probabilité d'être correcte pour une photographie donnée. Nous avons donc obtenu les graphiques suivants :
+A l'autre extrémité, les espèces les moins observées (avec parfois une seule occurence dans la base), correspondent généralement à des plantes rares, présentent dans des zones très restreintes, ou simplement moins reconnaissables par le grand public.
+
+\vspace{0.2cm}
+
+Au-delà de la simple fréquence d'apparition des espèces, qui semble seulement impliquer un intérêt de l'observateur, nous nous sommes intéressées à la relation entre cette fréquence et la qualité des prédictions de l'algorithme d'intelligence artificielle. Pour cela, nous avons analysé les scores "Top $1$" attribyés par le système, c'est-à-dire la probabilité associée à l'espèce la plus probable selon l'algorithme. Nous avons obtenu les graphiques suivants :
 
 \begin{figure}[H]
 \centering
@@ -270,21 +277,42 @@ Au-delà de la répartition des apparitions des espèces qui semble seulement im
 \begin{minipage}{0.5\textwidth}
   \includegraphics[width=0.8\linewidth]{images/max_rd.png}
 \end{minipage}
+\caption{Nuages de points de la moyenne des scores ou des scores max en fonction du nombre d'observations}
 \end{figure}
 
-Le premier graphe représente la moyenne des probabilités de toutes les observations pour une même espèce par rapport au nombre d'occurrences de cette dernière. Quant au second graphe, il représente le maximum de ces probabilités. Chaque point violet représente une photographie prise par un observation.
-Nous avons mis en relief une espèce n'ayant été observée qu'une seule fois dans ce jeu de données, \textit{Pavonia spinifex (L.) Cav.} et le prunellier déjà cité.
+%%%%% ???? refaire les graphiques ???? %%%%%
 
-\vspace{2.0cm}
+Ces deux graphiques révèlent plusieurs phénomènes interéssants.
 
-À première vue, il n'y a pas de relation évidente entre la fréquence d'apparitions et les scores de l'IA. Nous remarquons tout de même que le prunellier a en moyenne un score Top 1 assez proche de 1 et que le pavonia spinifex a un score assez bas, et la répartition des points sur les deux graphes est similaire, ce sont les mêmes 2000 espèces aléatoirement désignées qui sont présentées.
+Contrairement à ce que l'on pourrait intuitivement penser, il n'existe pas de relation linéaire évidente entre la fréquence d'observation d'une espèce et la confiance moyenne du système dans ses prédictions. Des espèces très fréquentes peuvent recevoir des scores moyens relativement bas, tandis que certaines espèces rares obtiennent des scores élevées.
 
-\vspace{2.0cm}
+\vspace{0.2cm}
 
-Nous avons quelques hypothèses permettant de comprendre pourquoi certaines espèces vues une seule fois peuvent avoir de très bon scores et pourquoi, au contraire, certaines espèces fréquentes peuvent avoir des scores presque nuls. Tout d'abord, la qualité de l'image : si l'objectif est trop éloigné, si l'image est floue, s'il y a des objets qui font obstacle (un emballage plastique transparent par exemple) ou s'il y a plusieurs espèces dans la même image, alors la performance de l'IA en est lésée.
-Ensuite, il se peut que l'IA ait été entraînée sur des images d'une espèce qui, dans notre base de données, n'apparaît qu'une seule fois. Ainsi, pour l'IA, c'est une espèce qu'elle sait reconnaître à chaque fois car elle existe dans sa base d'entraînement comme la même photographie. Ainsi, la plante peut se voir octroyer un score élevé même dans notre jeu de données.
+Le \textit{Prunus Spinosa L.}
+, l'espèce la plus observées, présente un score moyen relativement élevé (proche de $0,6$), ce qui suggère que le système est généralement confiant dans son identification. Cela peut s'expliquer par ses caractéristiques morphologiques distinctives et possiblement par la qualité généralement bonne des photos de cette espèce commune.
 
-...
+\vspace{0.2cm}
+
+Certaines espèces n'ayant qu'une seule observation présentent des scores très élevés, proches de $1$. Ce phénomène pourrait s'expliquer par le processus d'apprentissage du modèle : si l'intelligence artificielle a été entraînée sur des images similaires à cette unique observation dans notre jeu de données, elle peut la reconnaître avec une grande confiance.
+
+\vspace{0.2cm}
+
+Plusieurs facteurs peuvent expliquer la variabilité observée dans les scores de prédiction : 
+\begin{itemize}
+    \item Qualité des images : les photos floues, mal cadrées, prises de trop loin ou dans des conditions d'éclairage défavorables résuident considérablement la performance de l'algorithme.
+    \item Confusion entre espèces similaires : certaines espèces appartenant au même genre partagent des caractéristiques morphologiques très proches, ce qui peut induire l'algorithme en erreur. Par exemple, différentes espèces de chênes ou de roses peuvent être difficiles à distinguer même pour des botanistes expérimentés.
+    \item Stade de développement de la plante : une même espèce peut présenter des aspects très différents selon la saison (avec ou sans feuilles, en fleur ou non, avec ou sans fruit, etc.), ce qui peut affecter la confiance du système dans ses prédictions.
+    \item Organe photographié : les fleurs sont généralement plus distinctives et permettent une identification plus fiables que les feuilles ou les tiges, qui peuvent présenter plus de similarités entre espèces.
+    \item Effet d'apprentissage sur des images spécifiques : comme mentionné précédemment, certaines espèces rares peuvent obtenir des scores très élevés si l'image soumise est similaire à celle utilisée pour l'entraînement du modèle.
+\end{itemize}
+
+\vspace{0.2cm}
+
+Ces observations préliminaires nous ont confirmé la nécessaité d'une approche adaptative pour la présentation des résultats aux utilisateurs. En effet, un système qui proposerait un nombre fixe d'expèces candidates serait soit top restrictif dans les cas difficiles (risquant d'oublier la bonne espcèce), soit trop verbeux dans les cas simples (noyant l'utilisateur sous des propositions inutiles).
+
+\vspace{0.2cm}
+
+La prédiction conforme, que nous allons introduire dans la section suivante, offre plus précisément le cadre mathématique nécessaire pour adapter dynamiquement le nombre de suggestions en fonction de la difficulté de chaque cas d'identification.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
