@@ -15,6 +15,11 @@
 \usepackage{geometry}  % Pour ajuster les marges
 \geometry{top=2cm, bottom=2cm, left=2cm, right=2cm}
 
+% Ajout d'un espace insécable entre les décimales
+\usepackage{siunitx}
+\sisetup{output-decimal-marker = {,}, group-separator = {\,}, group-minimum-digits = 4}
+
+
 \usepackage[style=apa, backend=biber]{biblatex}
 \addbibresource{references.bib}
 
@@ -103,7 +108,7 @@ Dans la suite de ce rapport, nous détaillerons notre approche en commençant pa
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Pl@ntnet}
+\section{Jeux de données et outils}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -140,7 +145,7 @@ Notre étude s'est appuyée sur plusieurs jeux de données issus de Pl@ntnet, ch
 
 \vspace{0.2cm}
 
-Dans un premier temps, nous nous sommes familiarisées avec le jeu de données principal Pl@ntnet-CrowdSWE (pour South-West Europe), comprenant $6 699 593$ observations d'espèces végétales situées en Europe du Sud-Ouest. Ces observations ont été réalisées par $823 251$ utilisateurs de l'application Pl@ntNet, parmi lesquels nous distonguons deux catégories : 
+Dans un premier temps, nous nous sommes familiarisées avec le jeu de données principal Pl@ntnet-CrowdSWE (pour South-West Europe), comprenant $\num{6 699 593}$ observations d'espèces végétales situées en Europe du Sud-Ouest. Ces observations ont été réalisées par $\num{823 251}$ utilisateurs de l'application Pl@ntNet, parmi lesquels nous distonguons deux catégories : 
 \begin{itemize}
     \item Les experts : au nombre de $98$, ce sont des botaniques professionnels ou des amateurs très expérimentés dont nous admettons la véracité des identifications.
     \item Les non-experts : constituent la majorité des contributeurs et comprennent tout les utilisateurs novices en botanique.
@@ -148,68 +153,83 @@ Dans un premier temps, nous nous sommes familiarisées avec le jeu de données p
 
 \vspace{0.2cm}
 
-Ces données contiennent les variables suivantes :
+Cette distinction est très importante pour notre approche, car les identifications fournies par les experts servent de vérité terrain pour évaluer la qualité des prédictions automatiques et pour calibrer notre modèle de prédiction conforme.
+
+\vspace{0.2cm}
+
+Les données contiennent les variables suivantes :
 \begin{itemize}
-    \item Les identifiants d'utilisateur.
-    \item Les identifiants d'espèce dans la base globale Pl@ntNet.
-    \item Les identifiants d'espèce dans la base Pl@ntNet-CrowdSWE.
-    \item Les noms scientifiques des plantes.
-    \item Les espèces prédites par l'intelligence artificielle.
-    \item Les probabilités associées aux espèces prédites par l'intelligence artificielle.
+    \item Les identifiants uniques pour chaque utilisateur (avec leur expertise précisée).
+    \item Les identifiants uniques pour chaque observation.
+    \item Les identifiants pour chaque espèce (un identifiant spécifique pour la base de données mondiale et un identidiant spécifique pour la base de données SWE).
+    \item Les noms scientifiques complets des espèces.
+    \item Les prédictions générées par l'algorithme d'intelligence artificielle pour chaque observation avec leurs probabilités associées.
+    \item Ls métadonnées sur les images (date, localisation, type d'organe photographié).
+    \item Les votes des utilisateurs sur les identifications et leurs propositions sur les observations.
 \end{itemize}
 
 \vspace{0.2cm}
 
-Elles ont été réparties dans $7$ fichiers en format JSON (JavaScript Object Notation) et $2$ fichiers textes disponibles sur la \href{https://zenodo.org/records/10782465}{plateforme Zenodo}, un centre de données du CERN ouvert à tous. Parmi les espèces enregistrées dans la base de données, $17 247$ apparaissent dans les observations et nous ont permit de réaliser une série de statistiques descriptives après croisements par identifiants des différents fichiers. 
+Le tableau ci-dessous résume les principales caractéristiques de ce jeu de données :
 
 \vspace{0.2cm}
 
-Dans un second temps, nous avons travaillé avec un échantillon de $67 466$ résultats récoltés par l'application.
+\begin{center}
+\begin{tabular}{|c|c|}
+    \hline
+    Caractéristique & Valeur \\
+    \hline
+    Zone géographique  & Europe du Sud-Ouest  \\
+    Nombre d'observations & $\num{6 699 593}$  \\
+    Nombre d'utilisateurs  & $\num{823 251}$  \\
+    Nombre d'utilisateurs experts  & $98$  \\
+    Nombre d'espèces observées  & $\num{17 247}$  \\
+    Période couverte  & $2015-2023$  \\
+    \hline
+    \end{tabular}
+\end{center}
+    
+\vspace{0.2cm}
+
+Ces données sont réparties dans $7$ fichiers au format JSON (JavaScript Object Notation) et $2$ fichiers textes disponibles sur la \href{https://zenodo.org/records/10782465}{plateforme Zenodo}, un centre de données du CERN ouvert à tous.
 
 \vspace{0.2cm}
 
-Pour chacun des numéros d'observation dans la base globale Pl@ntnet, les variables suivantes sont associées : 
-\begin{itemize}
-    \item Les noms scientifiques des plantes prédites.
-    \item L'identifiant dans la base globale Pl@ntnet correspondant à l'espèce prédite.
-    \item L'identifiant dans la base Pl@ntnet-CrowdSWE correspondant à l'espèce prédite.
-    \item La probabilité que l'espèce prédite soit correcte.
-\end{itemize}
-
-Afin de pouvoir organiser et analyser ces données, nous nous sommes servis de plusieurs outils et logiciels.
+Dans un deuxième temps, nous avons travaillé avec un échantillon plus restreint de $\num{67 466}$ observations afin de faciliter le développement et les tests de nos algorithmes, permettant une exécution plus rapide qu'avec l'ensemble complet des $7$ millions de données. Cette approche nous a permit d'itérer efficacement sur nos modèles avant de les généraliser sur le jeu de données intégral.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsection{Outils}
 
-Afin de réaliser nos analyses, nous avons principalement utilisés les logiciels de programmation R et RStudio(\cite{RStudio}) ainsi que Python. Tous les codes que nous avons rédigés sont disponibles en open access sur \href{https://github.com/lcletz/PLANTNET_M1_SSD}{Github}.
+Pour mener à bien nos analyses, nous avons développé une chaîne de traitements combinant plusieurs langages et outils de programmation. Tous nos codes sont disponibles en libre accès sur notre \href{https://github.com/lcletz/PLANTNET_M1_SSD}{Github}.
 
 \vspace{0.2cm}
 
-Sous R, les packages dont nous avons fait appel sont :
+Nous avons principalement utilisés les langages de programmation R via RStudio (\cite{RStudio}) ainsi que Python (\cite{Python}) pour le traitement des données et les analyses statistiques. Le fait d'avoir utiliser plusieurs langages nous a permis de tirer parti de leurs forces : R pour ses capacités graphiques et statistiques avancées et Python pour sa flexibilité dans la manipulation de grands volumes de données (possibilités de travailler avec des fichiers zippés).
+
+\vspace{0.2cm}
+
+Pour nos analyses sous R, nous avons mobilisés les packages suivants :
 \begin{itemize}
-    \item \textit{jsonlite} pour l'ouverture et l'écriture de fichiers JSON.
-    \item \textit{tibble} et \textit{data.table} pour une manipulation plus rapide des données.
-    \item \textit{ggplot2}, \textit{gridExtra}, \textit{htmlwidget} et \textit{plotly} pour la création de rendus graphiques attrayants et interactifs.
-    \item \textit{dplyr} et \textit{tidyr} pour le croisement des données.
-    \item \textit{purrr} pour appliquer des fonctions prenant en entrée des vecteurs à chaque observation dans les listes larges.
+    \item Manipulation des données : \texttt{jsonlite} pour la lecture et l'écriture de fichiers JSON, \texttt{tibble} et \texttt{data.table} pour optimiser le traitement de grands tableaux de données, \texttt{dplyr} et \texttt{tidyr} pour les opérations de filtrage et de croisements de données.
+    \item Visualisation : \texttt{ggplot2} pour la création de graphiques, \texttt{gridExtra} pour la composition de plusieurs graphiques, \texttt{htmlwidget} et \texttt{plotly} pour générer des visualisations interactives exportables.
+    \item Traitement fonctionnel : \texttt{purrr} pour appliquer des fonctions prenant en entrée des vecteurs dans les listes larges.
 \end{itemize}
 
 \vspace{0.2cm}
 
-Sous Python, les packages dont nous avons fait usage sont :
+Pour nos analyses sous Python, les bibliothèques dont nous avons fait usage sont :
 \begin{itemize}
-    \item \textit{requests}, \textit{io}  et \textit{zipfile} pour la récupération et manipulation de fichiers ZIP.
-    \item \textit{json} et \textit{tarfile} pour la manipulation de fichiers JSON et TAR (archives compressées).
-    \item \textit{os} pour gérer les chemins et les fichiers.
-    \item \textit{pandas} pour manipuler les données sous forme de tableaux (convertir les données JSON en data frames et les fusionner par exemple).
-    \item \textit{matplotlib.pyplot} et \textit{seaborn} pour la création de graphiques.
-    \item \textit{tqdm} pour ajouter une barre de progression de l’avancement du traitement des fichiers.
-    \item \textit{math} pour utiliser des fonctions mathématiques avancées.
-    \item \textit{glob} pour la rechercher des fichiers correspondant à un modèle spécifique.
+    \item Gestion de fichiers : \texttt{requests}, \texttt{io}  et \texttt{zipfile} pour la récupération et extraction de fichiers compressés, \texttt{json} et \texttt{tarfile} pour la manipulation de fichiers JSON et TAR (archives compressées), \texttt{os} et \texttt{glob} ppour la navigation et la recherche dans l'arborescence des fichiers.
+    \item Analyse de données : \texttt{pandas} pour la manipulation tabulaire des données et les opérations de fusion, \texttt{numpy} pour les calculs numériques vectorisés.
+    \item Visualisation : \texttt{matplotlib.pyplot} et \texttt{seaborn} pour la création de graphiques.
+    \item Optimisation : \texttt{tqdm} pour suivre visuellement la progresson des traitements, \texttt{math} pour utiliser des fonctions mathématiques avancées.
     \item À compléter dès que le script du calcul de quantiles est fait. 
 \end{itemize}
 
+\vspace{0.2cm}
+
+Cette complémentarité des outils nous a permis d'aborder efficacement les différentes phases du projet : de l'exploration initiale des données à l'implémentation des algorithmes de prédiction conformes, en passant par la visualisation des résultats.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
