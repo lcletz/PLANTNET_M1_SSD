@@ -147,8 +147,8 @@ Notre étude s'est appuyée sur plusieurs jeux de données issus de Pl@ntnet, ch
 
 Dans un premier temps, nous nous sommes familiarisées avec le jeu de données principal Pl@ntnet-CrowdSWE (pour South-West Europe), comprenant $\num{6 699 593}$ observations d'espèces végétales situées en Europe du Sud-Ouest. Ces observations ont été réalisées par $\num{823 251}$ utilisateurs de l'application Pl@ntNet, parmi lesquels nous distonguons deux catégories : 
 \begin{itemize}
-    \item Les experts : au nombre de $98$, ce sont des botaniques professionnels ou des amateurs très expérimentés dont nous admettons la véracité des identifications.
-    \item Les non-experts : constituent la majorité des contributeurs et comprennent tout les utilisateurs novices en botanique.
+    \item \textbf{Les experts :} au nombre de $98$, ce sont des botaniques professionnels ou des amateurs très expérimentés dont nous admettons la véracité des identifications.
+    \item \textbf{Les non-experts :} constituent la majorité des contributeurs et comprennent tout les utilisateurs novices en botanique.
 \end{itemize}
 
 \vspace{0.2cm}
@@ -215,19 +215,19 @@ Nous avons principalement utilisés les langages de programmation R via RStudio 
 
 Pour nos analyses sous R, nous avons mobilisés les packages suivants :
 \begin{itemize}
-    \item Manipulation des données : \texttt{jsonlite} pour la lecture et l'écriture de fichiers JSON, \texttt{tibble} et \texttt{data.table} pour optimiser le traitement de grands tableaux de données, \texttt{dplyr} et \texttt{tidyr} pour les opérations de filtrage et de croisements de données.
-    \item Visualisation : \texttt{ggplot2} pour la création de graphiques, \texttt{gridExtra} pour la composition de plusieurs graphiques, \texttt{htmlwidget} et \texttt{plotly} pour générer des visualisations interactives exportables.
-    \item Traitement fonctionnel : \texttt{purrr} pour appliquer des fonctions prenant en entrée des vecteurs dans les listes larges.
+    \item \textbf{Manipulation des données :} \texttt{jsonlite} pour la lecture et l'écriture de fichiers JSON, \texttt{tibble} et \texttt{data.table} pour optimiser le traitement de grands tableaux de données, \texttt{dplyr} et \texttt{tidyr} pour les opérations de filtrage et de croisements de données.
+    \item \textbf{Visualisation :} \texttt{ggplot2} pour la création de graphiques, \texttt{gridExtra} pour la composition de plusieurs graphiques, \texttt{htmlwidget} et \texttt{plotly} pour générer des visualisations interactives exportables.
+    \item \textbf{Traitement fonctionnel :} \texttt{purrr} pour appliquer des fonctions prenant en entrée des vecteurs dans les listes larges.
 \end{itemize}
 
 \subsubsection{Bibliothèque Python}
 
 Pour nos analyses sous Python, les bibliothèques dont nous avons fait usage sont :
 \begin{itemize}
-    \item Gestion de fichiers : \texttt{requests}, \texttt{io}  et \texttt{zipfile} pour la récupération et extraction de fichiers compressés, \texttt{json} et \texttt{tarfile} pour la manipulation de fichiers JSON et TAR (archives compressées), \texttt{os} et \texttt{glob} ppour la navigation et la recherche dans l'arborescence des fichiers.
-    \item Analyse de données : \texttt{pandas} pour la manipulation tabulaire des données et les opérations de fusion, \texttt{numpy} pour les calculs numériques vectorisés.
-    \item Visualisation : \texttt{matplotlib.pyplot} et \texttt{seaborn} pour la création de graphiques.
-    \item Optimisation : \texttt{tqdm} pour suivre visuellement la progresson des traitements, \texttt{math} pour utiliser des fonctions mathématiques avancées.
+    \item \textbf{Gestion de fichiers :} \texttt{requests}, \texttt{io}  et \texttt{zipfile} pour la récupération et extraction de fichiers compressés, \texttt{json} et \texttt{tarfile} pour la manipulation de fichiers JSON et TAR (archives compressées), \texttt{os} et \texttt{glob} ppour la navigation et la recherche dans l'arborescence des fichiers.
+    \item \textbf{Analyse de données :} \texttt{pandas} pour la manipulation tabulaire des données et les opérations de fusion, \texttt{numpy} pour les calculs numériques vectorisés.
+    \item \textbf{Visualisation :} \texttt{matplotlib.pyplot} et \texttt{seaborn} pour la création de graphiques.
+    \item \textbf{Optimisation :} \texttt{tqdm} pour suivre visuellement la progresson des traitements, \texttt{math} pour utiliser des fonctions mathématiques avancées.
     \item À compléter dès que le script du calcul de quantiles est fait. 
 \end{itemize}
 
@@ -303,11 +303,11 @@ Certaines espèces n'ayant qu'une seule observation présentent des scores très
 
 Plusieurs facteurs peuvent expliquer la variabilité observée dans les scores de prédiction : 
 \begin{itemize}
-    \item Qualité des images : les photos floues, mal cadrées, prises de trop loin ou dans des conditions d'éclairage défavorables résuident considérablement la performance de l'algorithme.
-    \item Confusion entre espèces similaires : certaines espèces appartenant au même genre partagent des caractéristiques morphologiques très proches, ce qui peut induire l'algorithme en erreur. Par exemple, différentes espèces de chênes ou de roses peuvent être difficiles à distinguer même pour des botanistes expérimentés.
-    \item Stade de développement de la plante : une même espèce peut présenter des aspects très différents selon la saison (avec ou sans feuilles, en fleur ou non, avec ou sans fruit, etc.), ce qui peut affecter la confiance du système dans ses prédictions.
-    \item Organe photographié : les fleurs sont généralement plus distinctives et permettent une identification plus fiables que les feuilles ou les tiges, qui peuvent présenter plus de similarités entre espèces.
-    \item Effet d'apprentissage sur des images spécifiques : comme mentionné précédemment, certaines espèces rares peuvent obtenir des scores très élevés si l'image soumise est similaire à celle utilisée pour l'entraînement du modèle.
+    \item \textbf{Qualité des images :} les photos floues, mal cadrées, prises de trop loin ou dans des conditions d'éclairage défavorables résuident considérablement la performance de l'algorithme.
+    \item \textbf{Confusion entre espèces similaires :} certaines espèces appartenant au même genre partagent des caractéristiques morphologiques très proches, ce qui peut induire l'algorithme en erreur. Par exemple, différentes espèces de chênes ou de roses peuvent être difficiles à distinguer même pour des botanistes expérimentés.
+    \item \textbf{Stade de développement de la plante :} une même espèce peut présenter des aspects très différents selon la saison (avec ou sans feuilles, en fleur ou non, avec ou sans fruit, etc.), ce qui peut affecter la confiance du système dans ses prédictions.
+    \item \textbf{Organe photographié :} les fleurs sont généralement plus distinctives et permettent une identification plus fiables que les feuilles ou les tiges, qui peuvent présenter plus de similarités entre espèces.
+    \item \textbf{Effet d'apprentissage sur des images spécifiques :} comme mentionné précédemment, certaines espèces rares peuvent obtenir des scores très élevés si l'image soumise est similaire à celle utilisée pour l'entraînement du modèle.
 \end{itemize}
 
 \vspace{0.2cm}
@@ -404,10 +404,10 @@ Au-delà de la définition théorique des scores de non-conformité, nous avons 
 
 Notre stratégie de division s'articule autour de deux critères principaux : l'expertise des utilisateurs et le type de score utilisé. Cette approche nous a conduit à créer quatre configurations distinctes : 
 \begin{itemize}
-    \item Modèle $1$ : score $s_1$ (probabilité de la vraie classe) avec calibration sur toutes les données non-expertes et test sur la moitié des données expertes.
-    \item Modèle $2$ : score $s_1$ avec calibration sur la moitié des données expertes et test sur l'autre moitié des données expertes.
-    \item Modèle $3$ : score $s_2$ (score cumulatif APS) avec calibration sur toutes les données non-expertes et test sur la moitié des données expertes.
-    \item Modèle $4$ : score $s_2$ avec calibration sur la moitié des données expertes et test sur l'autre moitié des données expertes.
+    \item \textbf{Modèle $1$ :} score $s_1$ (probabilité de la vraie classe) avec calibration sur toutes les données non-expertes et test sur la moitié des données expertes.
+    \item \textbf{Modèle $2$ :} score $s_1$ avec calibration sur la moitié des données expertes et test sur l'autre moitié des données expertes.
+    \item \textbf{Modèle $3$ :} score $s_2$ (score cumulatif APS) avec calibration sur toutes les données non-expertes et test sur la moitié des données expertes.
+    \item \textbf{Modèle $4$ :} score $s_2$ avec calibration sur la moitié des données expertes et test sur l'autre moitié des données expertes.
 \end{itemize}
 
 \vspace{0.2cm}
