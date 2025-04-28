@@ -394,13 +394,172 @@ Une étape importante consistait à établir une vérité terrain fiable pour ch
 
 Ces adaptations nous ont permis d'appliquer avec succès le cadre de prédiction conforme à notre problématique d'identification des plantes, pour pouvoir par la suite déterminer nos ensemble de prédiction.
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsection{Méthodologie d'évaluation et validation croisée}
+
+Au-delà de la définition théorique des scores de non-conformité, nous avons dpu concevoir une méthodologie pour évaluer l'efficacité de notre approche conforme. Pour garantir des résultats statistiquement validess, nous avons adopté une stratégie de division des données qui permet à la fois de calibrer nos modèles mais également d'en tester les performances sur des échantillons indépendants pour pouvoir les comparer.
+
+\subsubsection{Division des données}
+
+Notre stratégie de division s'articule autour de deux critères principaux : l'expertise des utilisateurs et le type de score utilisé. Cette approche nous a conduit à créer quatre configurations distinctes : 
+\begin{itemize}
+    \item Modèle $1$ : score $s_1$ (probabilité de la vraie classe) avec calibration sur toutes les données non-expertes et test sur la moitié des données expertes.
+    \item Modèle $2$ : score $s_1$ avec calibration sur la moitié des données expertes et test sur l'autre moitié des données expertes.
+    \item Modèle $3$ : score $s_2$ (score cumulatif APS) avec calibration sur toutes les données non-expertes et test sur la moitié des données expertes.
+    \item Modèle $4$ : score $s_2$ avec calibration sur la moitié des données expertes et test sur l'autre moitié des données expertes.
+\end{itemize}
+
+\vspace{0.2cm}
+
+Nous avons représenté cette configuration comme suit : 
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.6]{images/Models.png}
+    \caption{Représentation des modèles}
+    \label{models}
+  \end{figure}
+
+\vspace{0.2cm}
+
+Cette structure nous permet d'évaluer non seulement l'impact du choix de la fonction de score ($s_1$ ou $s_2$), mais également l'influence de la qualité des données de calibration (expertes avec peu de données ou non expertes avec beaucoup de données) sur les performances finales.
+
+\vspace{0.2cm}
+
+Pour assurer la représentativité de nos échantillons, nous avons divisé les données expertes aléatoirement et avons vérifié que les deux groupes créés étaient bien similaires en terme de scores.
+
+\subsubsection{Calcul des quantiles}
+
+Une fois les données divisées, l'étape suivante a consisté à calculer les quantiles des scores de non-conformité qui nous permettraient de construire nos ensembles de prédiction avec le niveau de garantie souhaitée de $95\%$.
+
+\vspace{0.2cm}
+
+Pour chaque configuration, nous avons procédé commencé par récupérer les scores pour chaque observation du jeu de calibration que nous avons précédemment calculé. Puis, nous avons calculé le quantile $\frac{[(n+1)(1 - \alpha)]}{n}$, où $\alpha = 0,05$ représente notre niveau d'erreur souhaité et $n$ est le nombre d'observations dans notre ensemble d'apprentissage. Enfin, nous avons implémenté une fonction qui, pour toute nouvelle observation, calcule les scores de non-conformité pour chaque classe possible et inclut dans l'ensemble de prédiction toutes les classes dont le score est inférieur au quantile calculé précédemment.
+
+\vspace{0.2cm}
+
+Pour le calcul concret du quantile, nous avons utilisé la fonction quantile de Python, adapté pour notre large volume de données. Nous avons obtenu les résultats suivants : 
+
+\begin{center}
+    \begin{tabular}{|l|c|}
+        \hline
+        Configuration & Quantile calculé \\
+        \hline
+        Score $s_1$ + données non expertes & $0.??$ \\
+        Score $s_1$ + données expertes & $0.??$ \\
+        Score $s_2$ + données non expertes & $0.??$ \\
+        Score $s_2$ + données expertes & $0.??$ \\
+        \hline
+        \end{tabular}
+    \end{center}
+
+\vspace{0.2cm}
+
+Ces quantiles sont des seuils critiques : un score élevé indique une faible confiance, donc, pour le $s_1$, nous incluons toutes les classes dont le score est inférieur au quantile. Pour le $s_2$, nous incluons les classes jusqu'à ce que leur somme cumulée dépasse le quantile.
+
+\vspace{0.2cm}
+
+INTERPRETATION DU TABLEAU A FAIRE
+
+\subsubsection{Calcul des autres variables}
+
+Pour évaluer l'efficacité de notre approche de prédiction conforme, nous avons mesuré deux métriques principales sur nos ensembles de test que sont le taux de couverture et leur taille moyenne. 
+
+\vspace{0.2cm}
+
+Le taux de couverture représente la proportion des osbervations pour lesquelles la vraie classe est incluse dans l'ensemble de prédiction. Idéalement, ce taux devrait être supérieur ou égal à $1- \alpha$, c'est-à-dire à $95\%$.
+
+\vspace{0.2cm}
+
+De plus, nous avons calculé la taille moyenne des ensemble de prédiction qui correspond au nombre moyen de classes incluses dans les ensembles de prédiction. Pour une meilleure expérience utilisateur, cette taille doit être aussi petite que possible tout en maintenant le taux de couverture cible.
+
+\vspace{0.2cm}
+
+Les résultats que nous avons obtenu serons détaillés dans la partie suivante, afin de pouvoir comparer nos modèles en même temps.
+
+\section{Résultats et discussion}
+
+Après avoir défini notre méthodologie et implémenté les algorithmes correspondants, nous avons procédé à l'évaluation systématique des quatres configurations décriutes précédemment à l'aide des variables calculées. Cette section présente les résultats obtenus, analyse leurs implications en pratique et discutte de la généralisation de notre approche à l'ensemble des données Pl@ntnet.
+
+\subsection{Analyse comparative}
+
+A la suite de nos calculs pour mesurer l'efficacité des nos modèles, les résultats obtenus pour nos quatre configurations sont résumés dans le tableau suivant :
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|}
+    \hline
+    Configuration & Taux de couverture & Taille moyenne & Taille médiane \\
+    \hline
+    $s_1$ + non expert & $??\%$ & $??$ & $??$ \\
+    $s_1$ + expert & $??\%$ & $??$ & $??$ \\
+    $s_2$ + non expert & $??\%$ & $??$ & $??$ \\
+    $s_2$ + expert & $??\%$ & $??$ & $??$ \\
+    \hline
+    \end{tabular}
+\end{center}
+    
+Ces résutats révèlent plusieurs tendances importantes ????
+
+\subsection{Traitement du jeu de données complet}
+
+Encouragés par les résultats prometteurs obtenus sur notre échantillon de $\num{67 466}$ observations, nous avons entrepris d'étendre notre approche à l'intégralité des $\num{6 699 593}$ observations de la base de données Pl@ntnet-CrowdSWE. Cette mise à l'échelle présentait des défis considérables, principalement sur le plan technique.
+
+\vspace{0.2cm}
+
+Le traitement de près de $7$ millions d'observations, chacune associée à un vecteur de probabilités potentiellement long (jusqu'à plusieurs centaines de classes candidates), a nécessité plusieurs adaptations. Mais malgré des optimisations, le traitement complet des données a nécessité plusieurs jours de calcul sur des machines puissantes, soulignant la difficulté que représente l'application de méthodes de prédiction conforme à des jeux de données massifs.
+
+\vspace{0.2cm}
+
+Les analyses sur l'ensemble complet des données étaient encore en cours au moment de la rédaction de ce rapport, mais les résultats préliminaires obtenus ont pu tout de même être traités et donner de la matière à ce rapport.
+
+\subsection{Perspectives d'intégration dans l'application}
+
+L'intégration de notre système de prédiction conforme dans l'application Pl@ntnet nécessiterait quelques ajustement supplémentaires :
+\begin{itemize}
+    \item \textbf{Calcul en temps réel} : notre approche actuelle, basée sur des calculs de quantiles préalables, pourrait être adaptée pour permettre un calcul en temps réel des ensembles de prédiction pour chaque nouvelle observation soumise par un utilisateur.
+    \item \textbf{Mise à jour périodique} : les quantiles utilisés pour déterminer les seuils de décision devraient être recalculés périodiquement (par exemple, mensuellement) pour refléter l'évolution du modèle de base et des distributions de probabilités qu'il génère.
+    \item \textbf{Interface utilisateur} : la présentation des résultats pourrait être adaptée pour expliquer clairement aux utilisateurs la nature adaptative des suggestions et la garantie statistique associée.
+\end{itemize}
+
+\vspace{0.2cm}
+
+Si le temps l'avait permis, nous aurions souhaité développer un exemple d'interface utilisateur intégrant notre système de prédiction conforme, afin de démontrer concrètement l'amélioration potentielle de l'expérience utilisateur.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Conclusion}
 
+Dans ce projet, nous avons abordé la problématique de l'incertitude dans l'identification automatique des plantes, un défi majeur pour l'application Pl@ntnet qui repose sur des données collectées par une vaste communauté d'utilisateurs aux expertises avriées. Notre approche s'est articulée autour de la prédiction conforme, un cadre statistique qui permet de transformer des sorties probabilistes d'un modèle de classification en ensembles de prédiction dotés de garanties de couverture.
 
+\vspace{0.2cm}
+
+A partir d'un jeu de données de plus de $6$ millions d'observations d'espèces végétales en Eruope du Sud-Ouest, nous avons développé une méthodologie permettant d'adapter dynamiquement le nombre de suggestions d'espèces en fonction de la difficulté d'identification de chaque image. 
+
+\vspace{0.2cm}
+
+Cette approche présente plusieurs avantages par rapport au système actuel de Pl@ntnet, notamment parce qu'elle fournit une garantit statistique que la vraie espèce est incluse dans l'ensemble des suggestions avec une probabilité d'au moin $95\%$. De plus, elle réduit le nombre de suggestions dans les cas faciles, tout en élergissant les propositions dans les cas ambigus pour maintenir la garantie de couverture.
+
+\vspace{0.2cm}
+
+Nos expériences ont démontré la supériorité du score ?? par rapport à ??, ainsi que l'importance de la qualité des données de calibration. La configuration combinant le score ?? avec une calibration sur données ?? a produit les résultats les plus convaincants, avec une taille moyenne d'ensemble de prédiction de ??, tout en maintenant le taux de couverture au-dessus de $95\%$.
+
+\vspace{0.2cm}
+
+Bien que le traitement de l'intégralité des $7$ millions d'observations ait posé des défis techniques nécessitant plusieurs jours de calcul, les résultats préliminaires sur notre échantillon démontrent la faisabilité de nos modèles.
+
+\vspace{0.2cm}
+
+Ce projet ouvre plusieurs perspectives intéressantes pour des travaux futurs :
+
+\begin{itemize}
+    \item L'exploration d'autres fonctions de score potentiellement plus performantes.
+    \item L'adaptation de notre approche pour prendre en compte d'autres types d'incertitude, comme l'incertitude liée à la qualité des images ou à la variabilité saisonnière des caractéristiques morphologiques.
+\end{itemize}
+
+\vspace{0.2cm}
+
+En conclusion, notre étude démontre le potentiel de la prédiction conforme pour améliorer la fiabilité et l'expérience utilisateur des systèmes d'identification automatique des plantes, et plus généralement, de tout système de classification automatique confronté à des données de qualité variable et à des situations d'ambiguïté naturelle.
 
 \printbibliography
 
