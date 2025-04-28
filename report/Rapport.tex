@@ -197,6 +197,10 @@ Ces données sont réparties dans $7$ fichiers au format JSON (JavaScript Object
 
 Dans un deuxième temps, nous avons travaillé avec un échantillon plus restreint de $\num{67 466}$ observations afin de faciliter le développement et les tests de nos algorithmes, permettant une exécution plus rapide qu'avec l'ensemble complet des $7$ millions de données. Cette approche nous a permit d'itérer efficacement sur nos modèles avant de les généraliser sur le jeu de données intégral.
 
+\vspace{0.2cm}
+
+A partir de ces données, notre première tâche a consisté à croiser les différents tableaux pour créer un jeu de données unifié contenant toutes les informations nécessaires pour chaque observation. Pour cette fusion, nous avons privilégié le croisement basé sur les identifiants numériques des espèces plutôt que par le nom scientifique dans un but de gain de temps de traitement. Nous avons réalisé ces croisement à l'aide de plusieurs outils.
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsection{Outils}
@@ -318,47 +322,77 @@ La prédiction conforme, que nous allons introduire dans la section suivante, of
 
 \subsection{Prédiction conforme}
 
-La prédiction conforme permet de quantifier l'incertitude des prédictions faites par des algorithmes de prédiction arbitraire (ref). C'est-à-dire convertir les prédictions d'un algorithme en un ensemble de prédictions qui ont de fortes probabilités de contenir la réponse correcte.
-% * <aigoin.emilie@gmail.com> 12:02:29 29 Mar 2025 UTC+0100:
-% mettre ref
+La prédiction conforme est un cadre statistique qui permet de quantifier l'incertitude des prédictions faites par des algorithmes d'apprentissage automatique, y compris les réseaux de neurones utilisés dans Pl@ntnet. Contrairement aux autres approches comme bootstrap qui repose sur des hypothèses paramétriqus, la prédiction conforme offre des garanties de couverture valables même pour des échantillons de taille finie, sans hypothèses fortes sur la distribution des données (\cite{ShaferVovk}).
+
+\subsubsection{Cadre mathématiques}
+
+Nous considérons $(X_i, Y_i)$ des paires constituées de caractéristiques ($X_i$) et de réponses ($Y_i$) indépendantes et identiquement distribuées issues d'une distribution inconnue $P$, avec $i = 1, \dots, n$. Dans notre contexte, $X_i$ représente les caractéristiques extraites d'une image de plante, et $Y_i \in \{1, 2, \dots, K\}$ l'indice de la véritable espèce parmi les $K$ possibles. Notre espace des caractéristiques est $X = \mathbb R^d$ et notre espace des réponses est $Y = \mathbb R$.
 
 \vspace{0.2cm}
 
-Nous avons $(X_i, Y_i)$ des paires constituées de caractéristiques ($X_i$) et de réponses ($Y_i$) indépendants et identiquement distribués issus d'une distribution $P$, avec $i = 1, \dots, n$. Notre espace des caractéristiques est $X = \mathbb R^d$ et notre espace des réponses est $Y = \mathbb R$.
+L'objectif de la prédiction conforme est de construire, pour un nouvel échantillon $X_{n+1}$, un ensemble de prédiction $\hat{C}_n(X_{n+1}) \subseteq \{1, 2, \dots, K\}$ qui contienne la vraie classe $Y_{n+1}$ avec une probabilité d'au moins $1 - \alpha$, où $\alpha \in ]0,1[$ est un niveau d'erreur fixé à l'avance : 
+$$ \mathbb P(Y_{n+1} \in \hat C_n (X_{n+1}) \geq 1 - \alpha) $$
 
 \vspace{0.2cm}
 
-Nous fixons un niveau d'erreur $\alpha \in ]0,1[$.
+Cette garantie de couverture est valable sous l'hypothèse que les paires $(X_i, Y_i)$ soient échangeables, une condition plus faible que l'indépendance et l'identité de distribution.
 
 \vspace{0.2cm}
 
-Ainsi, nous cherchons à construire un intervalle $\hat C_n (X_{n+1})$ qui contienne $Y_{n+1}$ avec une probabilité d'au moins $1- \alpha$, c'est-à-dire : $$ \mathbb P(Y_{n+1} \in \hat C_n (X_{n+1}) \geq 1 - \alpha) $$
-
-\vspace{0.2cm}
-
-Tout cela nécessite certaines conditions. La première va être de ne pas poser d'hypothèse sur $P$. Nous ne devons pas non plus utiliser toutes les prédictions possibles car nous voulons un nombre de précision fini mais également raisonnable. Pour finir, nous voulons adapter notre stratégie à la dureté du problème, c'est-à-dire que plus il est facile de prédire $Y_{n+1}$ à partir de $X_{n+1}$ et plus notre ensemble $\hat C_n(X_{n+1})$ devra être petit.
+De plus, cela nécessite certaines conditions supplémentaires. La première va être de ne pas poser d'hypothèse sur $P$. Ensuite, nous ne devons pas non plus utiliser toutes les prédictions possibles car nous voulons un nombre de précision fini mais également raisonnable. Pour finir, nous voulons adapter notre stratégie à la dureté du problème, c'est-à-dire que plus il est facile de prédire $Y_{n+1}$ à partir de $X_{n+1}$ et plus notre ensemble $\hat C_n(X_{n+1})$ devra être petit.
 
 \vspace{0.2cm}
 
 Cela est tout à fait possible avec une distribution infinie dans des conditions standard (convergence du quantile de l'échantillon vers le quantile de la population). Mais, étant donné que nous sommes dans des conditions réelles, nous nous intéressons ici à des échantillons finis.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsubsection{Construction des ensembles de prédiction}
 
-\subsection{Algorithmes de prédiction}
-
-Le premier algorithme que nous avons utilisé est celui de la prédiction conforme de Vovk et al.  qui permet d'obtenir le score de la bonne classe.
-% * <aigoin.emilie@gmail.com> 12:33:22 29 Mar 2025 UTC+0100:
-% ajouter ref
+La construction des ensembles de prédiction conforme repose sur l'utilisation d'une fonction de score $s : \mathcal{X} \times \mathcal{Y} \rightarrow \mathbb{R}$ qui mesure la non-conformité (ou taux d'erreur) d'une paire (observation, classe). Plus cette valeur est élevée et moins l'observation et la classe sont conformes aux données d'entraînement.
 
 \vspace{0.2cm}
 
-Le deuxième algorithme dont nous nous sommes servis est celui de Romano et al. qui nous permet d'obtenir un ensemble de prédictions adaptatifs. 
-% * <aigoin.emilie@gmail.com> 12:34:34 29 Mar 2025 UTC+0100:
-% ajouter ref 
+La procédure de base comporte trois étapes : 
+\begin{itemize}
+    \item \textbf{Définition des vraies étiquettes :} pour les observations expertes, nous sommes partis du principe que quand un expert avait donné une étiquette elle était considérée comme correcte. Pour les observations non expertes, nous avons appliqués la méthode du vote majoritaire, que nous détaillerons par la suite, pour déterminer quel était le vrai label.
+    \item \textbf{Calcul des scores de non-conformité :} pour chaque paire $(X_i, Y_i)$, on calcule un score $s(X_i, Y_i)$ qu indique à quel point cette paire est inhabituelle selon le modèle.
+    \item \textbf{Construction de l'ensemble de prédiction :} pour un nouvel exemple $X_{n+1}$, on construit l'ensemble de prédiction en incluant toutes les classes $y$ pour lesquelles le score $s(X_{n+1}, y)$ est inférieur au quantile $(1- \alpha)$.
+\end{itemize}
 
-Pour cela, il faut tout d'abord commencer par ordonner les classes en fonction de leurs scores dans l'ordre décroissant. Puis, prendre la somme des sorties softmax jusqu'à atteindre la vraie classe (formule) (graphique).
-% * <aigoin.emilie@gmail.com> 12:36:32 29 Mar 2025 UTC+0100:
-% ajouter formule et graphique
+Cette procédure garantit que la probabilité que l'ensemble de prédiction contienne la vraie classe est d'au moins $1- \alpha$, c'est-à-dire $95\%$.
+
+\subsubsection{Fonctions de scores}
+
+Dans notre contexte de classification, plusieurs fonctions de score sont possibles. Nous avons donc choisi d'explorer deux principaux scores que sont la prédiction de la vraie classe et le score cumulatif.
+
+\vspace{0.2cm}
+
+Le score basé sur la probabilité de la vraie classe (\cite{Vovk}) se calcule comme suit : 
+$$ s_1(X_i, Y_i) = 1 - p_{Y_i}(X_i) $$ où $p_{Y_i}(X_i)$ est la probabilité prédite par le modèle pour le vrai label. Plus cette probabilité est élevée et plus le score est faible, ce qui est souhaitable.
+
+\vspace{0.2cm}
+
+Le score cumulatif APS (Adaptive Prediction Sets) se calcule comme suit : 
+$$ s_2(X_i, Y_i) = \sum_{j=1}^{r(X_i, Y_i)-1} p_{(j)}(X_i) $$ où $p_{(j)}(X_i)$ représente la $j$-ième plus grande probabilité prédite par le modèle pour l'observation $X_i$, et $r(X_i, Y_i)$ est le rang de la vraie classe $Y_i$ dans dans ce classement. Cette fonction de score, introduite par \cite{Romano}, permet de construire des ensembles de prédiction dont la taille s'adapte à la difficulté du problème.
+
+\vspace{0.2cm}
+
+Le score $s_2$ présente l'avantage de produire des ensembles de prédiction dont la taille varie en fonction de la confiance du modèle : pour les cas faciles où la vraie classe reçoit une probabilité dans celles les plus élevées (donc un rang faible), la somme sera petite et l'ensemble de prédiction contiendra peu de classes. Au contraire, pour les cas difficiles, l'ensemble sera plus grand pour maintenir la garantei de couverture.
+
+\subsubsection{Spécificités de notre approche}
+
+Dans le contexte de notre projet sur Pl@ntent, nous avons dû adapter la méthode stabdard pour tenir compte de plusieurs spécificités.
+
+\vspace{0.2cm}
+
+Comme indiqués plus tôt, les scores que nous avons récupérés étaient tronqués, ne conservant que les probabilités supérieures à un certain seuil ($1/1000$). Pour gérer ce problème, nous avons décidé de considérer que les classes non présentes dans la liset avaient une probabilité de $1/1000$, ce qu inous a permis d'appliquer les formules de scores sans souci.
+
+\vspace{0.2cm}
+
+Une étape importante consistait à établir une vérité terrain fiable pour chaque observation, c'est-à-dire déterminer quel label était le vrai pour chaque observation. Pour les observations avec le vote d'un utilisateur expert, nous avons directement utilisé leur identification comme référence absolue. Pour les observations sans validation experte, nous avons appliqué une méthode de vote majoritaire parmi les identifications fournies par les utilisateurs. C'est-à-dire que nous avons compté le nombre de réponse par label donné, en donnant un poids plus important à l'utilisateur ayant pris la photo car c'est le seul à avoir réellement vu la plante, et avons posé que c'était l'espèce avec le plus de votes qui été le label correct. En cas d'égalité entr deux espèces candidates, nous avons sélectionné aléatoireement l'une d'entre elles.
+
+\vspace{0.2cm}
+
+Ces adaptations nous ont permis d'appliquer avec succès le cadre de prédiction conforme à notre problématique d'identification des plantes, pour pouvoir par la suite déterminer nos ensemble de prédiction.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
