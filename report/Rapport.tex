@@ -207,11 +207,11 @@ A partir de ces données, notre première tâche a consisté à croiser les diff
 
 Pour mener à bien nos analyses, nous avons développé une chaîne de traitements combinant plusieurs langages et outils de programmation. Tous nos codes sont disponibles en libre accès sur notre \href{https://github.com/lcletz/PLANTNET_M1_SSD}{Github}.
 
-\vspace{0.2cm}
+\subsubsection{Environnement de développement}
 
 Nous avons principalement utilisés les langages de programmation R via RStudio (\cite{RStudio}) ainsi que Python (\cite{Python}) pour le traitement des données et les analyses statistiques. Le fait d'avoir utiliser plusieurs langages nous a permis de tirer parti de leurs forces : R pour ses capacités graphiques et statistiques avancées et Python pour sa flexibilité dans la manipulation de grands volumes de données (possibilités de travailler avec des fichiers zippés).
 
-\vspace{0.2cm}
+\subsubsection{Bibliothèques R}
 
 Pour nos analyses sous R, nous avons mobilisés les packages suivants :
 \begin{itemize}
@@ -220,7 +220,7 @@ Pour nos analyses sous R, nous avons mobilisés les packages suivants :
     \item Traitement fonctionnel : \texttt{purrr} pour appliquer des fonctions prenant en entrée des vecteurs dans les listes larges.
 \end{itemize}
 
-\vspace{0.2cm}
+\subsubsection{Bibliothèque Python}
 
 Pour nos analyses sous Python, les bibliothèques dont nous avons fait usage sont :
 \begin{itemize}
@@ -246,7 +246,7 @@ Cette complémentarité des outils nous a permis d'aborder efficacement les diff
 
 Bien avant de nous atteler aux analyses plus poussées comme les algorithmes de prédiction conformes ou les calculs des scores, nous avons réalisé une série de statistiques descriptives sur le premier jeu de données. Ces analyses préliminaires nous ont permis de mieux comprendre la nature des données et d'identifier certains phénomènes intéressants.
 
-\vspace{0.2cm}
+\subsubsection{Distribution des espèces observées}
 
 Nous avons tout d'abord examiné la répartition des espèces photographiées en Europe du Sud-Ouest.
 
@@ -269,7 +269,7 @@ Cette distribution n'est pas surprenante puisqu'elle reflète à la fois l'abond
 
 A l'autre extrémité, les espèces les moins observées (avec parfois une seule occurence dans la base), correspondent généralement à des plantes rares, présentent dans des zones très restreintes, ou simplement moins reconnaissables par le grand public.
 
-\vspace{0.2cm}
+\subsubsection{Relation entre fréquence d'observation et probabilités}
 
 Au-delà de la simple fréquence d'apparition des espèces, qui semble seulement impliquer un intérêt de l'observateur, nous nous sommes intéressées à la relation entre cette fréquence et la qualité des prédictions de l'algorithme d'intelligence artificielle. Pour cela, nous avons analysé les scores "Top $1$" attribyés par le système, c'est-à-dire la probabilité associée à l'espèce la plus probable selon l'algorithme. Nous avons obtenu les graphiques suivants :
 
@@ -299,7 +299,7 @@ Le \textit{Prunus Spinosa L.}
 
 Certaines espèces n'ayant qu'une seule observation présentent des scores très élevés, proches de $1$. Ce phénomène pourrait s'expliquer par le processus d'apprentissage du modèle : si l'intelligence artificielle a été entraînée sur des images similaires à cette unique observation dans notre jeu de données, elle peut la reconnaître avec une grande confiance.
 
-\vspace{0.2cm}
+\subsubsection{Facteurs influençant la qualité des prédictions}
 
 Plusieurs facteurs peuvent expliquer la variabilité observée dans les scores de prédiction : 
 \begin{itemize}
