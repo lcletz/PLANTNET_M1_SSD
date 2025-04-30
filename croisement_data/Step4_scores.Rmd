@@ -10,6 +10,7 @@ output: html_document
 # Charger les packages
 
 library(jsonlite)
+library(progress)
 
 ```
 
@@ -32,7 +33,7 @@ cat("Répertoire de travail actuel:", getwd(), "\n")
 
 # Importer les données 
 
-data <- fromJSON(file.path(chemin, "4_croisements_experts.json"), 
+data <- fromJSON(file.path(chemin, "expert_processed.json"), 
                  simplifyDataFrame = FALSE)
 
 ```
@@ -40,16 +41,36 @@ data <- fromJSON(file.path(chemin, "4_croisements_experts.json"),
 
 ```{r}
 
-# Fonction pour calculer les scores de prédiction
-
 calculate_scores <- function(data) {
   
   # Initialisation d'une liste vide pour stocker les résultats
   scores <- list()
   
+  # Créer une barre de progression
+  pb <- progress::progress_bar$new(
+    format = "  Traitement [:bar] :percent terminé (:current/:total) Temps restant: :eta",
+    total = length(data),
+    clear = FALSE,
+    width = 80
+  )
+  
   # Parcourir chaque observation
   for (i in names(data)) {
     predictions <- data[[i]]
+    
+    # Mettre à jour la barre de progression
+    pb$tick()
+    
+    # Vérifier si la liste des prédictions est vide
+    if (length(predictions) == 0) {
+      
+      # Si aucune prédiction, on attribue les valeurs par défaut
+      scores[[i]] <- list(
+        one_minus_prob = 0.999,
+        sum_until_correct = 0.001
+      )
+      next  # Passer à l'observation suivante
+    }
     
     # Initialisation du compteur de score à 0
     cumulative_prob <- 0
@@ -107,13 +128,129 @@ calculate_scores <- function(data) {
 
 ```
 
+Pour détecter les lignes avec erreurs : 
+
+```{r}
+
+# calculate_scores <- function(data) {
+#   
+#   # Initialisation d'une liste vide pour stocker les résultats
+#   scores <- list()
+#   
+#   # Log file pour tracer les erreurs
+#   log_file <- file("error_log.txt", "w")
+#   
+#   # Créer une barre de progression
+#   pb <- progress::progress_bar$new(
+#     format = "  Traitement [:bar] :percent terminé (:current/:total) Temps restant: :eta",
+#     total = length(data),
+#     clear = FALSE,
+#     width = 80
+#   )
+#   
+#   # Parcourir chaque observation
+#   for (i in names(data)) {
+#     predictions <- data[[i]]
+#     
+#     # Mettre à jour la barre de progression
+#     pb$tick()
+#     
+#     # Vérifier si predictions est NULL ou vide
+#     if (is.null(predictions) || length(predictions) == 0) {
+#       # Logger l'observation problématique
+#       writeLines(paste0("Observation problématique (vide): ", i), log_file)
+#       
+#       # Gérer le cas où il n'y a pas de prédictions pour cette observation
+#       scores[[i]] <- list(
+#         one_minus_prob = 0.999,
+#         sum_until_correct = 0.001
+#       )
+#       next
+#     }
+#     
+#     # Initialisation du compteur de score à 0
+#     cumulative_prob <- 0
+#     score_du_vrai <- 0
+#     score_somme <- 0
+#     
+#     # Savoir si une prédiction correcte a été trouvée
+#     found_correct <- FALSE
+#     
+#     # Parcourir les prédictions dans l'ordre
+#     for (j in 1:length(predictions)) {
+#       # Vérifier que j est un indice valide
+#       if (j > length(predictions)) {
+#         break
+#       }
+#       
+#       pred <- predictions[[j]]
+#       
+#       # Vérifier si pred est NULL ou s'il n'a pas les champs attendus
+#       if (is.null(pred) || !("correct" %in% names(pred)) || !("proba" %in% names(pred))) {
+#         # Logger la prédiction problématique
+#         writeLines(paste0("Prédiction problématique dans l'observation ", i, ", indice ", j), log_file)
+#         if (!is.null(pred)) {
+#           writeLines(paste0("  Champs disponibles: ", paste(names(pred), collapse=", ")), log_file)
+#         }
+#         next
+#       }
+#       
+#       if (pred$correct == 1) {
+#         
+#         # Si la prédiction est correcte
+#         found_correct <- TRUE
+#         
+#         # Premier score: 1 - probabilité de la vraie valeur
+#         score_du_vrai <- 1 - pred$proba
+#         
+#         # Deuxième score: somme des probabilités jusqu'à la vraie valeur exclue
+#         score_somme <- cumulative_prob
+#         
+#         break
+#       } 
+#       
+#       else {
+#         
+#         # Si la prédiction est incorrecte : ajouter sa proba au cumul
+#         cumulative_prob <- cumulative_prob + pred$proba
+#       }
+#     }
+#     
+#     # Si une prédiction correcte a été trouvée : on enregistre les scores
+#     if (found_correct) {
+#       scores[[i]] <- list(
+#         one_minus_prob = score_du_vrai,
+#         sum_until_correct = score_somme
+#       )
+#     } 
+#     
+#     else {
+#       
+#       # Si aucune prédiction correcte n'a été trouvée : attribuer les valeurs par défaut
+#       scores[[i]] <- list(
+#         one_minus_prob = 0.999,
+#         sum_until_correct = 0.001
+#       )
+#     }
+#   }
+#   
+#   # Fermer le fichier de log
+#   close(log_file)
+#   
+#   return(scores)
+# }
+
+```
+
+Erreur pour l'observation (car liste vide) :   "1020049917": [],
+
 ```{r}
 
 # Utilisation de la fonction à nos données
 scores <- calculate_scores(data)
 
 # Sauvegarder les résultats
-write_json(scores, file.path(chemin, "5_scores.json"), pretty = TRUE)
+write_json(scores, file.path(chemin, "expert_processed_scores.json"), pretty = TRUE)
 
 ```
 
