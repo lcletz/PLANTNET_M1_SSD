@@ -46,6 +46,9 @@ calculate_scores <- function(data) {
   # Initialisation d'une liste vide pour stocker les résultats
   scores <- list()
   
+  # Liste pour suivre les observations à supprimer
+  observations_to_remove <- c()
+  
   # Créer une barre de progression
   pb <- progress::progress_bar$new(
     format = "  Traitement [:bar] :percent terminé (:current/:total) Temps restant: :eta",
@@ -63,7 +66,6 @@ calculate_scores <- function(data) {
     
     # Vérifier si la liste des prédictions est vide
     if (length(predictions) == 0) {
-      
       # Si aucune prédiction, on attribue les valeurs par défaut
       scores[[i]] <- list(
         one_minus_prob = 0.999,
@@ -102,8 +104,20 @@ calculate_scores <- function(data) {
         
         # Si la prédiction est incorrecte : ajouter sa proba au cumul
         cumulative_prob <- cumulative_prob + pred$proba
+        
+        # Vérifier si cumulative_prob dépasse 1
+        if (cumulative_prob > 1) {
+          
+          # Marquer cette observation pour suppression
+          observations_to_remove <- c(observations_to_remove, i)
+          
+          break  # Sortir de la boucle des prédictions
+        }
       }
     }
+    
+     # Si l'observation n'est pas à supprimer
+    if (!(i %in% observations_to_remove)) {
     
     # Si une prédiction correcte a été trouvée : on enregistre les scores
     if (found_correct) {
@@ -121,6 +135,17 @@ calculate_scores <- function(data) {
         sum_until_correct = 0.001
       )
     }
+    }
+  }
+  
+  # Afficher le nombre d'observations supprimées
+  if (length(observations_to_remove) > 0) {
+    cat("\nObservations supprimées car cumulative_prob > 1:", length(observations_to_remove), "\n")
+    # Écrire les IDs des observations supprimées dans un fichier
+    writeLines(observations_to_remove, "observations_removed_cumulative.txt")
+    cat("Les IDs des observations supprimées ont été enregistrés dans 'observations_removed_cumulative.txt'\n")
+  } else {
+    cat("\nAucune observation n'a été supprimée pour cause de cumulative_prob > 1\n")
   }
   
   return(scores)
