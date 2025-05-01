@@ -6,7 +6,7 @@ import numpy as np
 with open("5_scores_non_experts.json", "r") as f:
     non_expert_data = json.load(f)
 
-# Score s1 = "non_conformity_score"
+# Score s1 = "one_minus_prob"
 calibration_scores = [
     values["one_minus_prob"][0]  # Prendre la première valeur de la liste
     for values in non_expert_data.values()
@@ -111,5 +111,11 @@ fig.show()
 
 # Enregistrement PNG statique
 fig.write_image("graphique_method1.png")
+
+# %% Calcul du pourcentage de plantes conformes
+nb_total = len(df)
+nb_conformes = df["Conforme"].sum()
+taux_couverture = (nb_conformes / nb_total) * 100
+print(f"\nTaux de couverture (méthode 1, s1) : {taux_couverture:.2f}% ({nb_conformes} sur {nb_total})")
 
 # %%
