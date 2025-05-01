@@ -257,8 +257,6 @@ Nous avons tout d'abord examiné la répartition des espèces photographiées en
   \label{fig1}
 \end{figure}
 
-%%%%% ???? refaire les graphiques ???? %%%%%
-
 Comme le montre la Figure $1$, les espèces les plus fréquemment photographiées par les utilisateurs de Pl@ntnet sont essentiellement des arbres vivaces, certains fruitiers, ou des fleurs comestibles, aux propriétés curatives et qui peuvent être aperçues dans toute la zone géographique étudiée. Le \textit{Prunus Spinosa L.} ou, plus communément, prunellier, arrive en tête des observations, suivi par d'autres espèces communes comme le \textit{Fagus Sylvatica L.} (hêtre commun) ou encore le \textit{Corylus avellana L.} (noisetier commun).
 
 \vspace{0.2cm}
@@ -284,8 +282,6 @@ Au-delà de la simple fréquence d'apparition des espèces, qui semble seulement
 \caption{Nuages de points de la moyenne des scores ou des scores max en fonction du nombre d'observations}
 \end{figure}
 
-%%%%% ???? refaire les graphiques ???? %%%%%
-
 Ces deux graphiques révèlent plusieurs phénomènes interéssants.
 
 Contrairement à ce que l'on pourrait intuitivement penser, il n'existe pas de relation linéaire évidente entre la fréquence d'observation d'une espèce et la confiance moyenne du système dans ses prédictions. Des espèces très fréquentes peuvent recevoir des scores moyens relativement bas, tandis que certaines espèces rares obtiennent des scores élevées.
@@ -310,9 +306,33 @@ Plusieurs facteurs peuvent expliquer la variabilité observée dans les scores d
     \item \textbf{Effet d'apprentissage sur des images spécifiques :} comme mentionné précédemment, certaines espèces rares peuvent obtenir des scores très élevés si l'image soumise est similaire à celle utilisée pour l'entraînement du modèle.
 \end{itemize}
 
+\subsubsection{Impact du choix de l'utilisateur}
+
+Les espèces associées aux probabilités Top 1 ne sont pas systématiquement celles choisies par l'observateur qui peut décider de désigner une espèce de probabilités plus faibles également proposées par l'IA ou opter pour une toute autre espèce. Des utilisateurs n'ayant pas observé eux-mêmes, sur place, peuvent également choisir une espèce à l'instar de l'observateur. Nous avons admis par vote majoritaire que l'observateur a plus de poids que les autres votants sauf si les votants externes sont plus nombreux à valider une réponse qui diffère de l'observateur. Observons sur un échantillon plus restreint du jeu de données, les différences entre le Top 1 et le vote majoritaire. 
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.3]{images/10_Most_Observed_Species_Users.png}
+    \caption{Histogramme des $10$ espèces végétales les plus osbervées}
+    \label{fig2}
+\end{figure}67461
+
+Si \textit{Prunus Spinosa L.} est toujours présente dans ce graphique, c'est l'espèce \textit{Malva sylvestris L.}, une fleur au mauve intense, qui est en tête. Sur ces $67 461$ observations (un centième des données totales), elle est donc la plus souvent choisie par les utilisateurs. Ce graphique seul indique que l'espèce prédite en première par l'IA, celle en qui l'algorithme est le plus confiant, n'est pas toujours ce que l'utilisateur compte choisir. Il est envisageable que les espèces proposées par l'IA dans son Top K se ressemblent : il existe par exemple plusieurs espèces d'iris ou de lotus partageant donc des caractéristiques communes, on parle de "familles".
+\begin{figure}[H]
+    \centering
+    \begin{minipage}{0.5\textwidth}
+      \includegraphics[width=0.8\linewidth]{images/mean_rd_users.png}
+    \end{minipage}%
+    \begin{minipage}{0.5\textwidth}
+      \includegraphics[width=0.8\linewidth]{images/max_rd_users.png}
+    \end{minipage}
+    \caption{Nuages de points de la moyenne des scores ou des scores max en fonction du nombre d'observations}
+\end{figure}
+
+La plante n'ayant été choisie qu'une seule fois dans cet échantillon est \textit{Daphne striata Tratt.}, un arbrisseau à fines fleurs roses et fruits rouges. Son score est pourtant assez bas, nous pouvons imaginer qu'elle n'était proposée par l'application qu'en deuxième ou troisième position. Pour ce qui est de la Mauve, sa probabilité est élevée, elle est possiblement le Top 1 de l'algorithme ce qui entraîne le choix de l'observateur. Outre ces deux espèces, nous remarquons qu'il y a plusieurs espèces aux scores très proches de $0$ qui ont été choisies, soit parce que l'IA n'était pas confiant et a proposé de nombreuses options ayant des probabilités minimes, soit les votants ont eux-mêmes été chercher une espèse en particulier parmi les espèces les moins évidentes selon l'IA.
+
 \vspace{0.2cm}
 
-Ces observations préliminaires nous ont confirmé la nécessaité d'une approche adaptative pour la présentation des résultats aux utilisateurs. En effet, un système qui proposerait un nombre fixe d'expèces candidates serait soit top restrictif dans les cas difficiles (risquant d'oublier la bonne espcèce), soit trop verbeux dans les cas simples (noyant l'utilisateur sous des propositions inutiles).
+Ces observations préliminaires nous ont confirmé la nécessité d'une approche adaptative pour la présentation des résultats aux utilisateurs. En effet, un système qui proposerait un nombre fixe d'expèces candidates serait soit top restrictif dans les cas difficiles (risquant d'oublier la bonne espcèce), soit trop verbeux dans les cas simples (noyant l'utilisateur sous des propositions inutiles).
 
 \vspace{0.2cm}
 
