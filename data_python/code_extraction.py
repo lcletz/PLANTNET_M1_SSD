@@ -63,8 +63,8 @@ if __name__ == "__main__":
     if zip_content:
         print("Data fetched successfully:")
         
-        # Limite le nombre de lignes à extraire (par exemple 5000)
-        num_lines = 5000  # Change ce nombre si tu veux plus ou moins de lignes extraites
+        # Limite le nombre de lignes à extraire (par exemple 100000)
+        num_lines = 100000  # Change ce nombre si tu veux plus ou moins de lignes extraites
         extract_and_save_data(zip_content, num_lines=num_lines)
         
         # Si tu veux tout extraire sans limite de lignes, tu peux utiliser cette fonction :

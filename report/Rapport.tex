@@ -87,15 +87,15 @@ Sous la direction (ou co-direction) de \\ \vspace{0.2cm}
 
 \section{Introduction}
 
-La reconnaissance des plantes est une problématique clé en botanique, avec des applications directes dans la conservation de la biodiversité, la gestion des écosystèmes ou encore la culture personnelle. Parmi les initiatives les plus importantes dans ce domaine, le projet Pl@ntNet joue un rôle central en proposant une application de reconnaissance automatique des plantes basée sur des données collectées par les utilisateurs. Cette approche de science participative permet de constituer une base de données massive et diversifiée de plus de $6$ millions d'observations pour la seule régione de l'Europe du Sud-Ouest, impliquant plus de $\num{800000}$ contributeurs et couvrant plus de $\num{17000}$ espèces végétales. Ce qui est essentielle pour entraîner et affiner les modèles de classification.
+La reconnaissance des plantes est une problématique clé en botanique, avec des applications directes dans la conservation de la biodiversité, la gestion des écosystèmes ou encore la culture personnelle. Parmi les initiatives les plus importantes dans ce domaine, le projet Pl@ntNet joue un rôle central en proposant une application de reconnaissance automatique des plantes basée sur des données collectées par les utilisateurs. Cette approche de science participative permet de constituer une base de données massive et diversifiée de plus de $6$ millions d'observations pour la seule région de l'Europe du Sud-Ouest, impliquant plus de $\num{800000}$ contributeurs et couvrant plus de $\num{17000}$ espèces végétales. Ce qui est essentiel pour entraîner et affiner les modèles de classification.
 
 \vspace{0.2cm}
 
-Cependant, garantir la fiabilité des prédictions reste un défi majeur. Les données collectées, bien que nombreuses, peuvent être de qualité variable en raison des conditions de prise de vue (lumière, angle, netteté), de la diversité des espèces et de l'expertise variables des contributeurs. Pour améliorer la précision de l'application, il ne suffit pas d’optimiser la classification : nous devons également quantifier l’incertitude des prédictions et adapter dynamiquement la sortie du modèle en fonction du niveau de confiance.
+Cependant, garantir la fiabilité des prédictions reste un défi majeur. Les données collectées, bien que nombreuses, peuvent être de qualité variable en raison des conditions de prise de vue (lumière, angle, netteté), de la diversité des espèces et de l'expertise variable des contributeurs. Pour améliorer la précision de l'application, il ne suffit pas d’optimiser la classification : nous devons également quantifier l’incertitude des prédictions et adapter dynamiquement la sortie du modèle en fonction du niveau de confiance.
 
 \vspace{0.2cm}
 
-Dans ce travail, nous nous sommes intégrées au projet Pl@ntNet avec un objectif précis : améliorer la fiabilité des prédictions en les rendant adaptatives. Plutôt que de fournir une unique réponse avec une probabilité associée, notre objectif était de générer un ensemble de prédictions dont la probabilité de contenir la bonne espèce atteint un niveau de garantit satisfaisant (fixé comme étant $95\%$). Cet ensemble doit être le plus restreint possible pour éviter les suggestions inutiles, tout en s'ajustant automatiquement en fonction de la difficulté de l’identification : être plus précis pour les cas évidents et plus large pour les situations ambiguës.
+Dans ce travail, nous nous sommes intégrées au projet Pl@ntNet avec un objectif précis : améliorer la fiabilité des prédictions en les rendant adaptatives. Plutôt que de fournir une unique réponse avec une probabilité associée, notre objectif était de générer un ensemble de prédictions dont la probabilité de contenir la bonne espèce atteint un niveau de garantie satisfaisant (fixé comme étant $95\%$). Cet ensemble doit être le plus restreint possible pour éviter les suggestions inutiles, tout en s'ajustant automatiquement en fonction de la difficulté de l’identification : être plus précis pour les cas évidents et plus large pour les situations ambiguës.
 
 \vspace{0.2cm}
 
@@ -114,22 +114,21 @@ Dans la suite de ce rapport, nous détaillerons notre approche en commençant pa
 
 \subsection{Application Pl@ntnet}
 
-Pl@ntNet est un projet de sciences participatives accessible sous forme d’application mobile gratuite mais également via une \href{https://identify.plantnet.org/fr}{interface en ligne}. Développé conjointement par l'Institut National de Recherche Informatique et Automatique (INRIA), le Centre de coopération International en Recherche Agronomique (CIRAD) et l'Institut de Recherche pour le Développement (IRD), ce projet a été lancé en $2009$ et recense plus de $20$ millions d'utilisateurs dans le monde en $2024$. 
+Pl@ntNet est un projet de sciences participatives accessible sous forme d’application mobile gratuite, mais également via une \href{https://identify.plantnet.org/fr}{interface en ligne}. Développé conjointement par l'Institut National de Recherche Informatique et Automatique (INRIA), le Centre de coopération International en Recherche Agronomique (CIRAD) et l'Institut de Recherche pour le Développement (IRD), ce projet a été lancé en $2009$ et recense plus de $20$ millions d'utilisateurs dans le monde en $2024$. 
 
 \vspace{0.2cm}
 
-Son objectif principal est d'aider le grand public et le professionnels à identifier les espèces végétales à partir de photographies. L'application s'appuie sur des algorithmes d'intelligence artificielle qui analysent les caractéristiques visuelles des plantes (écorce, feuilles, fruits, fleurs, etc.) pour proposer des identifications. Au-delà de la reconnaissance des plantes, Pl@ntnet permet également de cartographier la distribution géographique des espèces végétales en fonction de la localisation des photographies paratgés par les utilisateurs.
+Son objectif principal est d'aider le grand public et les professionnels à identifier les espèces végétales à partir de photographies. L'application s'appuie sur des algorithmes d'intelligence artificielle qui analysent les caractéristiques visuelles des plantes (écorce, feuilles, fruits, fleurs, etc.) pour proposer des identifications. Au-delà de la reconnaissance des plantes, Pl@ntnet permet également de cartographier la distribution géographique des espèces végétales en fonction de la localisation des photographies partagées par les utilisateurs.
 
 \vspace{0.2cm}
 
-Pl@ntNet est basée sur un principe d’apprentissage coopératif et itératif. Les utilisateurs peuvent partager leurs photographies (que nous appellerons des observations) et celles-ci peuvent être ensuite révisées par la communauté. Cet autre type de contribution est utilisé non seulement pour enrichir la base de données mais est aussi utilisé par l’IA pour améliorer les performances de son système de reconnaissance. Les utilisateurs peuvent, par exemple, confirmer l'identification d'une espèce, suggérer une identification alternative, ou signaler une erreur.
+Pl@ntNet est basée sur un principe d’apprentissage coopératif et itératif. Les utilisateurs peuvent partager leurs photographies (que nous appellerons des observations) et celles-ci peuvent être ensuite révisées par la communauté. Cet autre type de contribution est utilisé non seulement pour enrichir la base de données, mais est aussi utilisé par l’IA pour améliorer les performances de son système de reconnaissance. Les utilisateurs peuvent, par exemple, confirmer l'identification d'une espèce, suggérer une identification alternative ou signaler une erreur.
 
 \vspace{0.2cm}
 
-Le processus fonctionne ainsi : lorsqu'un utilisateur soumet une photographie, l'algorithme d'intelligence artificielle analyse l'image et généère une liste d'espèces candidates (appelées étiquettes), chacune associée à une probabilité. L'espèce affichée en première position est celle que l'intelligence artificielle estime la plus probable, suivie des autres classées par ordre décroissant de probabilité. Pour garantir la pertinence des suggestions et ne pas surcharger l'utilisateur d'informations avec des espèces peu probables, l'affichage est limité aux espèces dont la probabilité dépasse au seuil minimal, fixé à $0,001$ (soit $0,1\%$).
+Le processus fonctionne ainsi : lorsqu'un utilisateur soumet une photographie, l'algorithme d'intelligence artificielle analyse l'image et génère une liste d'espèces candidates (appelées étiquettes), chacune associée à une probabilité. L'espèce affichée en première position est celle que l'intelligence artificielle estime la plus probable, suivie des autres classées par ordre décroissant de probabilité. Pour garantir la pertinence des suggestions et ne pas surcharger l'utilisateur d'informations avec des espèces peu probables, l'affichage est limité aux espèces dont la probabilité dépasse le seuil minimal, fixé à $0,001$ (soit $0,1\%$).
 
 \vspace{0.2cm}
-
 
 Notre travail est basé sur une démarche d'optimisation de ce système, avec pour objectif de rendre le nombre d'étiquettes présentées adaptatif à la difficulté du problème d'identification : plus l'identification est facile, moins le système proposera d'options à l'utilisateur, et inversement pour les cas ambigus ou difficiles.
 
@@ -145,10 +144,10 @@ Notre étude s'est appuyée sur plusieurs jeux de données issus de Pl@ntnet, ch
 
 \vspace{0.2cm}
 
-Dans un premier temps, nous nous sommes familiarisées avec le jeu de données principal Pl@ntnet-CrowdSWE (pour South-West Europe), comprenant $\num{6 699 593}$ observations d'espèces végétales situées en Europe du Sud-Ouest. Ces observations ont été réalisées par $\num{823 251}$ utilisateurs de l'application Pl@ntNet, parmi lesquels nous distonguons deux catégories : 
+Dans un premier temps, nous nous sommes familiarisées avec le jeu de données principal Pl@ntnet-CrowdSWE (pour South-West Europe), comprenant $\num{6 699 593}$ observations d'espèces végétales situées en Europe du Sud-Ouest. Ces observations ont été réalisées par $\num{823 251}$ utilisateurs de l'application Pl@ntNet, parmi lesquels nous distinguons deux catégories : 
 \begin{itemize}
     \item \textbf{Les experts :} au nombre de $98$, ce sont des botaniques professionnels ou des amateurs très expérimentés dont nous admettons la véracité des identifications.
-    \item \textbf{Les non-experts :} constituent la majorité des contributeurs et comprennent tout les utilisateurs novices en botanique.
+    \item \textbf{Les non-experts :} constituent la majorité des contributeurs et comprennent tous les utilisateurs novices en botanique.
 \end{itemize}
 
 \vspace{0.2cm}
@@ -161,10 +160,10 @@ Les données contiennent les variables suivantes :
 \begin{itemize}
     \item Les identifiants uniques pour chaque utilisateur (avec leur expertise précisée).
     \item Les identifiants uniques pour chaque observation.
-    \item Les identifiants pour chaque espèce (un identifiant spécifique pour la base de données mondiale et un identidiant spécifique pour la base de données SWE).
+    \item Les identifiants pour chaque espèce (un identifiant spécifique pour la base de données mondiale et un identifiant spécifique pour la base de données SWE).
     \item Les noms scientifiques complets des espèces.
     \item Les prédictions générées par l'algorithme d'intelligence artificielle pour chaque observation avec leurs probabilités associées.
-    \item Ls métadonnées sur les images (date, localisation, type d'organe photographié).
+    \item Les métadonnées sur les images (date, localisation, type d'organe photographié).
     \item Les votes des utilisateurs sur les identifications et leurs propositions sur les observations.
 \end{itemize}
 
@@ -199,7 +198,7 @@ Dans un deuxième temps, nous avons travaillé avec un échantillon plus restrei
 
 \vspace{0.2cm}
 
-A partir de ces données, notre première tâche a consisté à croiser les différents tableaux pour créer un jeu de données unifié contenant toutes les informations nécessaires pour chaque observation. Pour cette fusion, nous avons privilégié le croisement basé sur les identifiants numériques des espèces plutôt que par le nom scientifique dans un but de gain de temps de traitement. Nous avons réalisé ces croisement à l'aide de plusieurs outils.
+À partir de ces données, notre première tâche a consisté à croiser les différents tableaux pour créer un jeu de données unifié contenant toutes les informations nécessaires pour chaque observation. Pour cette fusion, nous avons privilégié le croisement basé sur les identifiants numériques des espèces plutôt que par le nom scientifique dans un but de gain de temps de traitement. Nous avons réalisé ces croisements à l'aide de plusieurs outils.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -209,11 +208,11 @@ Pour mener à bien nos analyses, nous avons développé une chaîne de traitemen
 
 \subsubsection{Environnement de développement}
 
-Nous avons principalement utilisés les langages de programmation R via RStudio (\cite{RStudio}) ainsi que Python (\cite{Python}) pour le traitement des données et les analyses statistiques. Le fait d'avoir utiliser plusieurs langages nous a permis de tirer parti de leurs forces : R pour ses capacités graphiques et statistiques avancées et Python pour sa flexibilité dans la manipulation de grands volumes de données (possibilités de travailler avec des fichiers zippés).
+Nous avons principalement utilisé les langages de programmation R via RStudio (\cite{RStudio}) ainsi que Python (\cite{Python}) pour le traitement des données et les analyses statistiques. Le fait d'avoir utilisé plusieurs langages nous a permis de tirer parti de leurs forces : R pour ses capacités graphiques et statistiques avancées et Python pour sa flexibilité dans la manipulation de grands volumes de données (possibilités de travailler avec des fichiers zippés).
 
 \subsubsection{Bibliothèques R}
 
-Pour nos analyses sous R, nous avons mobilisés les packages suivants :
+Pour nos analyses sous R, nous avons mobilisé les packages suivants :
 \begin{itemize}
     \item \textbf{Manipulation des données :} \texttt{jsonlite} pour la lecture et l'écriture de fichiers JSON, \texttt{tibble} et \texttt{data.table} pour optimiser le traitement de grands tableaux de données, \texttt{dplyr} et \texttt{tidyr} pour les opérations de filtrage et de croisements de données.
     \item \textbf{Visualisation :} \texttt{ggplot2} pour la création de graphiques, \texttt{gridExtra} pour la composition de plusieurs graphiques, \texttt{htmlwidget} et \texttt{plotly} pour générer des visualisations interactives exportables.
@@ -224,11 +223,12 @@ Pour nos analyses sous R, nous avons mobilisés les packages suivants :
 
 Pour nos analyses sous Python, les bibliothèques dont nous avons fait usage sont :
 \begin{itemize}
-    \item \textbf{Gestion de fichiers :} \texttt{requests}, \texttt{io}  et \texttt{zipfile} pour la récupération et extraction de fichiers compressés, \texttt{json} et \texttt{tarfile} pour la manipulation de fichiers JSON et TAR (archives compressées), \texttt{os} et \texttt{glob} ppour la navigation et la recherche dans l'arborescence des fichiers.
+    \item \textbf{Gestion de fichiers :} \texttt{requests}, \texttt{io}  et \texttt{zipfile} pour la récupération et extraction de fichiers compressés, \texttt{json} et \texttt{tarfile} pour la manipulation de fichiers JSON et TAR (archives compressées), \texttt{os} et \texttt{glob} pour la navigation et la recherche dans l'arborescence des fichiers.
     \item \textbf{Analyse de données :} \texttt{pandas} pour la manipulation tabulaire des données et les opérations de fusion, \texttt{numpy} pour les calculs numériques vectorisés.
-    \item \textbf{Visualisation :} \texttt{matplotlib.pyplot} et \texttt{seaborn} pour la création de graphiques.
-    \item \textbf{Optimisation :} \texttt{tqdm} pour suivre visuellement la progresson des traitements, \texttt{math} pour utiliser des fonctions mathématiques avancées.
-    \item À compléter dès que le script du calcul de quantiles est fait. 
+    \item \textbf{Visualisation :} \texttt{matplotlib.pyplot}, \texttt{seaborn} pour la création de graphiques et \texttt{plotly.express(px)} pour créer des graphiques interactifs.
+    \item \textbf{Optimisation :} \texttt{tqdm} pour suivre visuellement la progression des traitements, \texttt{math} pour utiliser des fonctions mathématiques avancées.
+    \item \textbf{Aléatoire :} \texttt{random} pour mélanger et diviser les données de manière aléatoire mais reproductible.
+    \item \textbf{Exportation de graphique :} \texttt{kaleido} qui est une bibliothèque pour exporter des graphiques Plotly en images statiques.
 \end{itemize}
 
 \vspace{0.2cm}
@@ -257,7 +257,7 @@ Nous avons tout d'abord examiné la répartition des espèces photographiées en
   \label{fig1}
 \end{figure}
 
-Comme le montre la Figure $1$, les espèces les plus fréquemment photographiées par les utilisateurs de Pl@ntnet sont essentiellement des arbres vivaces, certains fruitiers, ou des fleurs comestibles, aux propriétés curatives et qui peuvent être aperçues dans toute la zone géographique étudiée. Le \textit{Prunus Spinosa L.} ou, plus communément, prunellier, arrive en tête des observations, suivi par d'autres espèces communes comme le \textit{Fagus Sylvatica L.} (hêtre commun) ou encore le \textit{Corylus avellana L.} (noisetier commun).
+Comme le montre la figure $1$, les espèces les plus fréquemment photographiées par les utilisateurs de Pl@ntnet sont essentiellement des arbres vivaces, certains fruitiers, ou des fleurs comestibles, aux propriétés curatives et qui peuvent être aperçues dans toute la zone géographique étudiée. Le \textit{Prunus Spinosa L.} ou, plus communément, prunellier, arrive en tête des observations, suivi par d'autres espèces communes comme le \textit{Fagus Sylvatica L.} (hêtre commun) ou encore le \textit{Corylus avellana L.} (noisetier commun).
 
 \vspace{0.2cm}
 
@@ -265,11 +265,11 @@ Cette distribution n'est pas surprenante puisqu'elle reflète à la fois l'abond
 
 \vspace{0.2cm}
 
-A l'autre extrémité, les espèces les moins observées (avec parfois une seule occurence dans la base), correspondent généralement à des plantes rares, présentent dans des zones très restreintes, ou simplement moins reconnaissables par le grand public.
+À l'autre extrémité, les espèces les moins observées (avec parfois une seule occurrence dans la base) correspondent généralement à des plantes rares, présentes dans des zones très restreintes, ou simplement moins reconnaissables par le grand public.
 
 \subsubsection{Relation entre fréquence d'observation et probabilités}
 
-Au-delà de la simple fréquence d'apparition des espèces, qui semble seulement impliquer un intérêt de l'observateur, nous nous sommes intéressées à la relation entre cette fréquence et la qualité des prédictions de l'algorithme d'intelligence artificielle. Pour cela, nous avons analysé les scores "Top $1$" attribyés par le système, c'est-à-dire la probabilité associée à l'espèce la plus probable selon l'algorithme. Nous avons obtenu les graphiques suivants :
+Au-delà de la simple fréquence d'apparition des espèces, qui semble seulement impliquer un intérêt de l'observateur, nous nous sommes intéressées à la relation entre cette fréquence et la qualité des prédictions de l'algorithme d'intelligence artificielle. Pour cela, nous avons analysé les scores "Top $1$" attribués par le système, c'est-à-dire la probabilité associée à l'espèce la plus probable selon l'algorithme. Nous avons obtenu les graphiques suivants :
 
 \begin{figure}[H]
 \centering
@@ -282,14 +282,14 @@ Au-delà de la simple fréquence d'apparition des espèces, qui semble seulement
 \caption{Nuages de points de la moyenne des scores ou des scores max en fonction du nombre d'observations}
 \end{figure}
 
-Ces deux graphiques révèlent plusieurs phénomènes interéssants.
+Ces deux graphiques révèlent plusieurs phénomènes intéressants.
 
-Contrairement à ce que l'on pourrait intuitivement penser, il n'existe pas de relation linéaire évidente entre la fréquence d'observation d'une espèce et la confiance moyenne du système dans ses prédictions. Des espèces très fréquentes peuvent recevoir des scores moyens relativement bas, tandis que certaines espèces rares obtiennent des scores élevées.
+Contrairement à ce que l'on pourrait intuitivement penser, il n'existe pas de relation linéaire évidente entre la fréquence d'observation d'une espèce et la confiance moyenne du système dans ses prédictions. Des espèces très fréquentes peuvent recevoir des scores moyens relativement bas, tandis que certaines espèces rares obtiennent des scores élevés.
 
 \vspace{0.2cm}
 
 Le \textit{Prunus Spinosa L.}
-, l'espèce la plus observées, présente un score moyen relativement élevé (proche de $0,6$), ce qui suggère que le système est généralement confiant dans son identification. Cela peut s'expliquer par ses caractéristiques morphologiques distinctives et possiblement par la qualité généralement bonne des photos de cette espèce commune.
+, l'espèce la plus observée, présente un score moyen relativement élevé (proche de $0,6$), ce qui suggère que le système est généralement confiant dans son identification. Cela peut s'expliquer par ses caractéristiques morphologiques distinctives et possiblement par la qualité généralement bonne des photos de cette espèce commune.
 
 \vspace{0.2cm}
 
@@ -299,16 +299,16 @@ Certaines espèces n'ayant qu'une seule observation présentent des scores très
 
 Plusieurs facteurs peuvent expliquer la variabilité observée dans les scores de prédiction : 
 \begin{itemize}
-    \item \textbf{Qualité des images :} les photos floues, mal cadrées, prises de trop loin ou dans des conditions d'éclairage défavorables résuident considérablement la performance de l'algorithme.
+    \item \textbf{Qualité des images :} les photos floues, mal cadrées, prises de trop loin ou dans des conditions d'éclairage défavorables réduisent considérablement la performance de l'algorithme.
     \item \textbf{Confusion entre espèces similaires :} certaines espèces appartenant au même genre partagent des caractéristiques morphologiques très proches, ce qui peut induire l'algorithme en erreur. Par exemple, différentes espèces de chênes ou de roses peuvent être difficiles à distinguer même pour des botanistes expérimentés.
     \item \textbf{Stade de développement de la plante :} une même espèce peut présenter des aspects très différents selon la saison (avec ou sans feuilles, en fleur ou non, avec ou sans fruit, etc.), ce qui peut affecter la confiance du système dans ses prédictions.
-    \item \textbf{Organe photographié :} les fleurs sont généralement plus distinctives et permettent une identification plus fiables que les feuilles ou les tiges, qui peuvent présenter plus de similarités entre espèces.
+    \item \textbf{Organe photographié :} les fleurs sont généralement plus distinctives et permettent une identification plus fiable que les feuilles ou les tiges, qui peuvent présenter plus de similarités entre espèces.
     \item \textbf{Effet d'apprentissage sur des images spécifiques :} comme mentionné précédemment, certaines espèces rares peuvent obtenir des scores très élevés si l'image soumise est similaire à celle utilisée pour l'entraînement du modèle.
 \end{itemize}
 
 \subsubsection{Impact du choix de l'utilisateur}
 
-Les espèces associées aux probabilités Top 1 ne sont pas systématiquement celles choisies par l'observateur qui peut décider de désigner une espèce de probabilités plus faibles également proposées par l'IA ou opter pour une toute autre espèce. Des utilisateurs n'ayant pas observé eux-mêmes, sur place, peuvent également choisir une espèce à l'instar de l'observateur. Nous avons admis par vote majoritaire que l'observateur a plus de poids que les autres votants sauf si les votants externes sont plus nombreux à valider une réponse qui diffère de l'observateur. Observons sur un échantillon plus restreint du jeu de données, les différences entre le Top 1 et le vote majoritaire. 
+Les espèces associées aux probabilités Top 1 ne sont pas systématiquement celles choisies par l'observateur, qui peut décider de désigner une espèce de probabilités plus faibles également proposées par l'IA ou opter pour une tout autre espèce. Des utilisateurs n'ayant pas observé eux-mêmes, sur place, peuvent également choisir une espèce à l'instar de l'observateur. Nous avons admis par vote majoritaire que l'observateur a plus de poids que les autres votants, sauf si les votants externes sont plus nombreux à valider une réponse qui diffère de l'observateur. Observons sur un échantillon plus restreint du jeu de données les différences entre le Top 1 et le vote majoritaire. 
 \begin{figure}[H]
     \centering
     \includegraphics[scale=0.3]{images/10_Most_Observed_Species_Users.png}
@@ -328,11 +328,11 @@ Si \textit{Prunus Spinosa L.} est toujours présente dans ce graphique, c'est l'
     \caption{Nuages de points de la moyenne des scores ou des scores max en fonction du nombre d'observations}
 \end{figure}
 
-La plante n'ayant été choisie qu'une seule fois dans cet échantillon est \textit{Daphne striata Tratt.}, un arbrisseau à fines fleurs roses et fruits rouges. Son score est pourtant assez bas, nous pouvons imaginer qu'elle n'était proposée par l'application qu'en deuxième ou troisième position. Pour ce qui est de la Mauve, sa probabilité est élevée, elle est possiblement le Top 1 de l'algorithme ce qui entraîne le choix de l'observateur. Outre ces deux espèces, nous remarquons qu'il y a plusieurs espèces aux scores très proches de $0$ qui ont été choisies, soit parce que l'IA n'était pas confiant et a proposé de nombreuses options ayant des probabilités minimes, soit les votants ont eux-mêmes été chercher une espèse en particulier parmi les espèces les moins évidentes selon l'IA.
+La plante n'ayant été choisie qu'une seule fois dans cet échantillon est \textit{Daphne striata Tratt.}, un arbrisseau à fines fleurs roses et fruits rouges. Son score est pourtant assez bas, nous pouvons imaginer qu'elle n'était proposée par l'application qu'en deuxième ou troisième position. Pour ce qui est de la Mauve, sa probabilité est élevée, elle est possiblement le Top 1 de l'algorithme, ce qui entraîne le choix de l'observateur. Outre ces deux espèces, nous remarquons qu'il y a plusieurs espèces aux scores très proches de $0$ qui ont été choisies, soit parce que l'IA n'était pas confiante et a proposé de nombreuses options ayant des probabilités minimes, soit parce que les votants ont eux-mêmes été chercher une espèce en particulier parmi les espèces les moins évidentes selon l'IA.
 
 \vspace{0.2cm}
 
-Ces observations préliminaires nous ont confirmé la nécessité d'une approche adaptative pour la présentation des résultats aux utilisateurs. En effet, un système qui proposerait un nombre fixe d'expèces candidates serait soit top restrictif dans les cas difficiles (risquant d'oublier la bonne espcèce), soit trop verbeux dans les cas simples (noyant l'utilisateur sous des propositions inutiles).
+Ces observations préliminaires nous ont confirmé la nécessité d'une approche adaptative pour la présentation des résultats aux utilisateurs. En effet, un système qui proposerait un nombre fixe d'espèces candidates serait soit trop restrictif dans les cas difficiles (risquant d'oublier la bonne espèce), soit trop verbeux dans les cas simples (noyant l'utilisateur sous des propositions inutiles).
 
 \vspace{0.2cm}
 
@@ -342,7 +342,7 @@ La prédiction conforme, que nous allons introduire dans la section suivante, of
 
 \subsection{Prédiction conforme}
 
-La prédiction conforme est un cadre statistique qui permet de quantifier l'incertitude des prédictions faites par des algorithmes d'apprentissage automatique, y compris les réseaux de neurones utilisés dans Pl@ntnet. Contrairement aux autres approches comme bootstrap qui repose sur des hypothèses paramétriqus, la prédiction conforme offre des garanties de couverture valables même pour des échantillons de taille finie, sans hypothèses fortes sur la distribution des données (\cite{ShaferVovk}).
+La prédiction conforme est un cadre statistique qui permet de quantifier l'incertitude des prédictions faites par des algorithmes d'apprentissage automatique, y compris les réseaux de neurones utilisés dans Pl@ntnet. Contrairement aux autres approches comme le bootstrap qui reposent sur des hypothèses paramétriques, la prédiction conforme offre des garanties de couverture valables même pour des échantillons de taille finie, sans hypothèses fortes sur la distribution des données (\cite{ShaferVovk}).
 
 \subsubsection{Cadre mathématiques}
 
@@ -359,7 +359,7 @@ Cette garantie de couverture est valable sous l'hypothèse que les paires $(X_i,
 
 \vspace{0.2cm}
 
-De plus, cela nécessite certaines conditions supplémentaires. La première va être de ne pas poser d'hypothèse sur $P$. Ensuite, nous ne devons pas non plus utiliser toutes les prédictions possibles car nous voulons un nombre de précision fini mais également raisonnable. Pour finir, nous voulons adapter notre stratégie à la dureté du problème, c'est-à-dire que plus il est facile de prédire $Y_{n+1}$ à partir de $X_{n+1}$ et plus notre ensemble $\hat C_n(X_{n+1})$ devra être petit.
+De plus, cela nécessite certaines conditions supplémentaires. La première va être de ne pas poser d'hypothèse sur $P$. Ensuite, nous ne devons pas non plus utiliser toutes les prédictions possibles, car nous voulons un nombre de prédictions fini, mais également raisonnable. Pour finir, nous voulons adapter notre stratégie à la dureté du problème, c'est-à-dire que plus il est facile de prédire $Y_{n+1}$ à partir de $X_{n+1}$ et plus notre ensemble $\hat C_n(X_{n+1})$ devra être petit.
 
 \vspace{0.2cm}
 
@@ -373,8 +373,8 @@ La construction des ensembles de prédiction conforme repose sur l'utilisation d
 
 La procédure de base comporte trois étapes : 
 \begin{itemize}
-    \item \textbf{Définition des vraies étiquettes :} pour les observations expertes, nous sommes partis du principe que quand un expert avait donné une étiquette elle était considérée comme correcte. Pour les observations non expertes, nous avons appliqués la méthode du vote majoritaire, que nous détaillerons par la suite, pour déterminer quel était le vrai label.
-    \item \textbf{Calcul des scores de non-conformité :} pour chaque paire $(X_i, Y_i)$, on calcule un score $s(X_i, Y_i)$ qu indique à quel point cette paire est inhabituelle selon le modèle.
+    \item \textbf{Définition des vraies étiquettes :} pour les observations expertes, nous sommes partis du principe que, quand un expert avait donné une étiquette, elle était considérée comme correcte. Pour les observations non expertes, nous avons appliqué la méthode du vote majoritaire, que nous détaillerons par la suite, pour déterminer quel était le vrai label.
+    \item \textbf{Calcul des scores de non-conformité :} pour chaque paire $(X_i, Y_i)$, on calcule un score $s(X_i, Y_i)$ qui indique à quel point cette paire est inhabituelle selon le modèle.
     \item \textbf{Construction de l'ensemble de prédiction :} pour un nouvel exemple $X_{n+1}$, on construit l'ensemble de prédiction en incluant toutes les classes $y$ pour lesquelles le score $s(X_{n+1}, y)$ est inférieur au quantile $(1- \alpha)$.
 \end{itemize}
 
@@ -392,33 +392,33 @@ $$ s_1(X_i, Y_i) = 1 - p_{Y_i}(X_i) $$ où $p_{Y_i}(X_i)$ est la probabilité pr
 \vspace{0.2cm}
 
 Le score cumulatif APS (Adaptive Prediction Sets) se calcule comme suit : 
-$$ s_2(X_i, Y_i) = \sum_{j=1}^{r(X_i, Y_i)-1} p_{(j)}(X_i) $$ où $p_{(j)}(X_i)$ représente la $j$-ième plus grande probabilité prédite par le modèle pour l'observation $X_i$, et $r(X_i, Y_i)$ est le rang de la vraie classe $Y_i$ dans dans ce classement. Cette fonction de score, introduite par \cite{Romano}, permet de construire des ensembles de prédiction dont la taille s'adapte à la difficulté du problème.
+$$ s_2(X_i, Y_i) = \sum_{j=1}^{r(X_i, Y_i)-1} p_{(j)}(X_i) $$ où $p_{(j)}(X_i)$ représente la $j$-ième plus grande probabilité prédite par le modèle pour l'observation $X_i$, et $r(X_i, Y_i)$ est le rang de la vraie classe $Y_i$ dans ce classement. Cette fonction de score, introduite par \cite{Romano}, permet de construire des ensembles de prédiction dont la taille s'adapte à la difficulté du problème.
 
 \vspace{0.2cm}
 
-Le score $s_2$ présente l'avantage de produire des ensembles de prédiction dont la taille varie en fonction de la confiance du modèle : pour les cas faciles où la vraie classe reçoit une probabilité dans celles les plus élevées (donc un rang faible), la somme sera petite et l'ensemble de prédiction contiendra peu de classes. Au contraire, pour les cas difficiles, l'ensemble sera plus grand pour maintenir la garantei de couverture.
+Le score $s_2$ présente l'avantage de produire des ensembles de prédiction dont la taille varie en fonction de la confiance du modèle : pour les cas faciles où la vraie classe reçoit une probabilité dans celles les plus élevées (donc un rang faible), la somme sera petite et l'ensemble de prédiction contiendra peu de classes. Au contraire, pour les cas difficiles, l'ensemble sera plus grand pour maintenir la garantie de couverture.
 
 \subsubsection{Spécificités de notre approche}
 
-Dans le contexte de notre projet sur Pl@ntent, nous avons dû adapter la méthode stabdard pour tenir compte de plusieurs spécificités.
+Dans le contexte de notre projet sur Pl@ntent, nous avons dû adapter la méthode standard pour tenir compte de plusieurs spécificités.
 
 \vspace{0.2cm}
 
-Comme indiqués plus tôt, les scores que nous avons récupérés étaient tronqués, ne conservant que les probabilités supérieures à un certain seuil ($1/1000$). Pour gérer ce problème, nous avons décidé de considérer que les classes non présentes dans la liset avaient une probabilité de $1/1000$, ce qu inous a permis d'appliquer les formules de scores sans souci.
+Comme indiqué plus tôt, les scores que nous avons récupérés étaient tronqués, ne conservant que les probabilités supérieures à un certain seuil ($1/1000$). Pour gérer ce problème, nous avons décidé de considérer que les classes non présentes dans la liste avaient une probabilité de $1/1000$, ce qui nous a permis d'appliquer les formules de scores sans souci.
 
 \vspace{0.2cm}
 
-Une étape importante consistait à établir une vérité terrain fiable pour chaque observation, c'est-à-dire déterminer quel label était le vrai pour chaque observation. Pour les observations avec le vote d'un utilisateur expert, nous avons directement utilisé leur identification comme référence absolue. Pour les observations sans validation experte, nous avons appliqué une méthode de vote majoritaire parmi les identifications fournies par les utilisateurs. C'est-à-dire que nous avons compté le nombre de réponse par label donné, en donnant un poids plus important à l'utilisateur ayant pris la photo car c'est le seul à avoir réellement vu la plante, et avons posé que c'était l'espèce avec le plus de votes qui été le label correct. En cas d'égalité entr deux espèces candidates, nous avons sélectionné aléatoireement l'une d'entre elles.
+Une étape importante consistait à établir une vérité terrain fiable pour chaque observation, c'est-à-dire à déterminer quel label était le vrai pour chaque observation. Pour les observations avec le vote d'un utilisateur expert, nous avons directement utilisé leur identification comme référence absolue. Pour les observations sans validation experte, nous avons appliqué une méthode de vote majoritaire parmi les identifications fournies par les utilisateurs. C'est-à-dire que nous avons compté le nombre de réponses par label donné, en donnant un poids plus important à l'utilisateur ayant pris la photo, car c'est le seul à avoir réellement vu la plante, et avons posé que c'était l'espèce avec le plus de votes qui était le label correct. En cas d'égalité entre deux espèces candidates, nous avons sélectionné aléatoirement l'une d'entre elles.
 
 \vspace{0.2cm}
 
-Ces adaptations nous ont permis d'appliquer avec succès le cadre de prédiction conforme à notre problématique d'identification des plantes, pour pouvoir par la suite déterminer nos ensemble de prédiction.
+Ces adaptations nous ont permis d'appliquer avec succès le cadre de prédiction conforme à notre problématique d'identification des plantes, pour pouvoir par la suite déterminer nos ensembles de prédiction.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsection{Méthodologie d'évaluation et validation croisée}
 
-Au-delà de la définition théorique des scores de non-conformité, nous avons dpu concevoir une méthodologie pour évaluer l'efficacité de notre approche conforme. Pour garantir des résultats statistiquement validess, nous avons adopté une stratégie de division des données qui permet à la fois de calibrer nos modèles mais également d'en tester les performances sur des échantillons indépendants pour pouvoir les comparer.
+Au-delà de la définition théorique des scores de non-conformité, nous avons dû concevoir une méthodologie pour évaluer l'efficacité de notre approche conforme. Pour garantir des résultats statistiquement valides, nous avons adopté une stratégie de division des données qui permet à la fois de calibrer nos modèles, mais également d'en tester les performances sur des échantillons indépendants pour pouvoir les comparer.
 
 \subsubsection{Division des données}
 
@@ -446,7 +446,7 @@ Cette structure nous permet d'évaluer non seulement l'impact du choix de la fon
 
 \vspace{0.2cm}
 
-Pour assurer la représentativité de nos échantillons, nous avons divisé les données expertes aléatoirement et avons vérifié que les deux groupes créés étaient bien similaires en terme de scores.
+Pour assurer la représentativité de nos échantillons, nous avons divisé les données expertes aléatoirement et avons vérifié que les deux groupes créés étaient bien similaires en termes de scores.
 
 \subsubsection{Calcul des quantiles}
 
@@ -454,21 +454,21 @@ Une fois les données divisées, l'étape suivante a consisté à calculer les q
 
 \vspace{0.2cm}
 
-Pour chaque configuration, nous avons procédé commencé par récupérer les scores pour chaque observation du jeu de calibration que nous avons précédemment calculé. Puis, nous avons calculé le quantile $\frac{[(n+1)(1 - \alpha)]}{n}$, où $\alpha = 0,05$ représente notre niveau d'erreur souhaité et $n$ est le nombre d'observations dans notre ensemble d'apprentissage. Enfin, nous avons implémenté une fonction qui, pour toute nouvelle observation, calcule les scores de non-conformité pour chaque classe possible et inclut dans l'ensemble de prédiction toutes les classes dont le score est inférieur au quantile calculé précédemment.
+Pour chaque configuration, nous avons commencé par récupérer les scores pour chaque observation du jeu de calibration que nous avons précédemment calculé. Puis, nous avons calculé le quantile $\frac{[(n+1)(1 - \alpha)]}{n}$, où $\alpha = 0,05$ représente notre niveau d'erreur souhaité et $n$ est le nombre d'observations dans notre ensemble d'apprentissage. Enfin, nous avons implémenté une fonction qui, pour toute nouvelle observation, calcule les scores de non-conformité pour chaque classe possible et inclut dans l'ensemble de prédiction toutes les classes dont le score est inférieur au quantile calculé précédemment.
 
 \vspace{0.2cm}
 
-Pour le calcul concret du quantile, nous avons utilisé la fonction quantile de Python, adapté pour notre large volume de données. Nous avons obtenu les résultats suivants : 
+Pour le calcul concret du quantile, nous avons utilisé la fonction quantile de Python, adaptée pour notre large volume de données. Nous avons obtenu les résultats suivants : 
 
 \begin{center}
     \begin{tabular}{|l|c|}
         \hline
         Configuration & Quantile calculé \\
         \hline
-        Score $s_1$ + données non expertes & $0.??$ \\
-        Score $s_1$ + données expertes & $0.??$ \\
-        Score $s_2$ + données non expertes & $0.??$ \\
-        Score $s_2$ + données expertes & $0.??$ \\
+        Score $s_1$ + données non expertes & $0.9990$ \\
+        Score $s_1$ + données expertes & $0.9649$ \\
+        Score $s_2$ + données non expertes & $0.7618$ \\
+        Score $s_2$ + données expertes & $0.5614$ \\
         \hline
         \end{tabular}
     \end{center}
@@ -479,7 +479,14 @@ Ces quantiles sont des seuils critiques : un score élevé indique une faible co
 
 \vspace{0.2cm}
 
-INTERPRETATION DU TABLEAU A FAIRE
+Analysons le tableau : 
+
+\begin{itemize}
+    \item Score s1 (non experts) de $0.9990$ : un seuil très élevé, ce qui signifie que la plupart des données non expertes ont des valeurs faibles, à l'exception d'une petite portion qui dépasse ce seuil.
+    \item Score s1 (experts) de $0.9649$ : un seuil plus bas que les non-experts, ce qui indique que les données des experts sont plus cohérentes et ont une répartition moins extrême.
+    \item Score s2 (non experts) de $0.7618$ : comparé à s1, ce seuil est plus bas, ce qui montre que la variabilité de ce score est moins marquée dans les données des non-experts.
+    \item Score s2 (experts) de $0,5614$ : le plus bas des quatre seuils, ce qui pourrait signifier que les scores s2 des experts sont généralement plus homogènes et moins extrêmes.
+\end{itemize}
 
 \subsubsection{Calcul des autres variables}
 
@@ -487,38 +494,38 @@ Pour évaluer l'efficacité de notre approche de prédiction conforme, nous avon
 
 \vspace{0.2cm}
 
-Le taux de couverture représente la proportion des osbervations pour lesquelles la vraie classe est incluse dans l'ensemble de prédiction. Idéalement, ce taux devrait être supérieur ou égal à $1- \alpha$, c'est-à-dire à $95\%$.
+Le taux de couverture représente la proportion des observations pour lesquelles la vraie classe est incluse dans l'ensemble de prédiction. Idéalement, ce taux devrait être supérieur ou égal à $1- \alpha$, c'est-à-dire à $95\%$.
 
 \vspace{0.2cm}
 
-De plus, nous avons calculé la taille moyenne des ensemble de prédiction qui correspond au nombre moyen de classes incluses dans les ensembles de prédiction. Pour une meilleure expérience utilisateur, cette taille doit être aussi petite que possible tout en maintenant le taux de couverture cible.
+De plus, nous avons calculé la taille moyenne des ensembles de prédiction, qui correspond au nombre moyen de classes incluses dans les ensembles de prédiction. Pour une meilleure expérience utilisateur, cette taille doit être aussi petite que possible tout en maintenant le taux de couverture cible.
 
 \vspace{0.2cm}
 
-Les résultats que nous avons obtenu serons détaillés dans la partie suivante, afin de pouvoir comparer nos modèles en même temps.
+Les résultats que nous avons obtenus seront détaillés dans la partie suivante, afin de pouvoir comparer nos modèles en même temps.
 
 \section{Résultats et discussion}
 
-Après avoir défini notre méthodologie et implémenté les algorithmes correspondants, nous avons procédé à l'évaluation systématique des quatres configurations décriutes précédemment à l'aide des variables calculées. Cette section présente les résultats obtenus, analyse leurs implications en pratique et discutte de la généralisation de notre approche à l'ensemble des données Pl@ntnet.
+Après avoir défini notre méthodologie et implémenté les algorithmes correspondants, nous avons procédé à l'évaluation systématique des quatre configurations décrites précédemment à l'aide des variables calculées. Cette section présente les résultats obtenus, analyse leurs implications en pratique et discute de la généralisation de notre approche à l'ensemble des données Pl@ntnet.
 
 \subsection{Analyse comparative}
 
-A la suite de nos calculs pour mesurer l'efficacité des nos modèles, les résultats obtenus pour nos quatre configurations sont résumés dans le tableau suivant :
+À la suite de nos calculs pour mesurer l'efficacité de nos modèles, les résultats obtenus pour nos quatre configurations sont résumés dans le tableau suivant :
 
 \begin{center}
 \begin{tabular}{|c|c|c|c|}
     \hline
     Configuration & Taux de couverture & Taille moyenne & Taille médiane \\
     \hline
-    $s_1$ + non expert & $??\%$ & $??$ & $??$ \\
-    $s_1$ + expert & $??\%$ & $??$ & $??$ \\
-    $s_2$ + non expert & $??\%$ & $??$ & $??$ \\
-    $s_2$ + expert & $??\%$ & $??$ & $??$ \\
+    $s_1$ + non expert & $100\%$ & $??$ & $??$ \\
+    $s_1$ + expert & $94.82\%$ & $??$ & $??$ \\
+    $s_2$ + non expert & $97.98\%$ & $0.06$ & $??$ \\
+    $s_2$ + expert & $94.91\%$ & $0.06$ & $??$ \\
     \hline
     \end{tabular}
 \end{center}
     
-Ces résutats révèlent plusieurs tendances importantes ????
+Ces résultats révèlent plusieurs tendances importantes ????
 
 \subsection{Traitement du jeu de données complet}
 
@@ -534,7 +541,7 @@ Les analyses sur l'ensemble complet des données étaient encore en cours au mom
 
 \subsection{Perspectives d'intégration dans l'application}
 
-L'intégration de notre système de prédiction conforme dans l'application Pl@ntnet nécessiterait quelques ajustement supplémentaires :
+L'intégration de notre système de prédiction conforme dans l'application Pl@ntnet nécessiterait quelques ajustements supplémentaires :
 \begin{itemize}
     \item \textbf{Calcul en temps réel} : notre approche actuelle, basée sur des calculs de quantiles préalables, pourrait être adaptée pour permettre un calcul en temps réel des ensembles de prédiction pour chaque nouvelle observation soumise par un utilisateur.
     \item \textbf{Mise à jour périodique} : les quantiles utilisés pour déterminer les seuils de décision devraient être recalculés périodiquement (par exemple, mensuellement) pour refléter l'évolution du modèle de base et des distributions de probabilités qu'il génère.
@@ -550,15 +557,15 @@ Si le temps l'avait permis, nous aurions souhaité développer un exemple d'inte
 
 \section{Conclusion}
 
-Dans ce projet, nous avons abordé la problématique de l'incertitude dans l'identification automatique des plantes, un défi majeur pour l'application Pl@ntnet qui repose sur des données collectées par une vaste communauté d'utilisateurs aux expertises avriées. Notre approche s'est articulée autour de la prédiction conforme, un cadre statistique qui permet de transformer des sorties probabilistes d'un modèle de classification en ensembles de prédiction dotés de garanties de couverture.
+Dans ce projet, nous avons abordé la problématique de l'incertitude dans l'identification automatique des plantes, un défi majeur pour l'application Pl@ntnet qui repose sur des données collectées par une vaste communauté d'utilisateurs aux expertises avérées. Notre approche s'est articulée autour de la prédiction conforme, un cadre statistique qui permet de transformer des sorties probabilistes d'un modèle de classification en ensembles de prédiction dotés de garanties de couverture.
 
 \vspace{0.2cm}
 
-A partir d'un jeu de données de plus de $6$ millions d'observations d'espèces végétales en Eruope du Sud-Ouest, nous avons développé une méthodologie permettant d'adapter dynamiquement le nombre de suggestions d'espèces en fonction de la difficulté d'identification de chaque image. 
+À partir d'un jeu de données de plus de $6$ millions d'observations d'espèces végétales en Europe du Sud-Ouest, nous avons développé une méthodologie permettant d'adapter dynamiquement le nombre de suggestions d'espèces en fonction de la difficulté d'identification de chaque image. 
 
 \vspace{0.2cm}
 
-Cette approche présente plusieurs avantages par rapport au système actuel de Pl@ntnet, notamment parce qu'elle fournit une garantit statistique que la vraie espèce est incluse dans l'ensemble des suggestions avec une probabilité d'au moin $95\%$. De plus, elle réduit le nombre de suggestions dans les cas faciles, tout en élergissant les propositions dans les cas ambigus pour maintenir la garantie de couverture.
+Cette approche présente plusieurs avantages par rapport au système actuel de Pl@ntnet, notamment parce qu'elle fournit une garantie statistique que la vraie espèce est incluse dans l'ensemble des suggestions avec une probabilité d'au moin $95\%$. De plus, elle réduit le nombre de suggestions dans les cas faciles, tout en élargissant les propositions dans les cas ambigus pour maintenir la garantie de couverture.
 
 \vspace{0.2cm}
 
