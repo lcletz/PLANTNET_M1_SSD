@@ -7,7 +7,7 @@
 \usepackage[french]{babel}  % Utiliser le package babel pour le français
 \usepackage{csquotes}         % Ajouter csquotes pour babel
 \usepackage[T1]{fontenc}      % Corriger l'encodage pour le français
-\usepackage[colorlinks=true, linkcolor=blue]{hyperref}  % Liens cliquables en bleu sans les encadrer
+\usepackage[colorlinks=true, linkcolor=black]{hyperref}  % Liens cliquables en bleu sans les encadrer
 \usepackage{amssymb}    % pour les symboles mathématiques
 \usepackage{float}      % Pour le placement précis des figures avec [H]
 \usepackage{microtype}
@@ -56,7 +56,7 @@
 
 % Logo de l'application centré
 \begin{textblock*}{3cm}(5cm,0.5cm)
-    \includegraphics[width=6cm]{images/plantenet.png}  % Remplacer par le bon fichier
+    \includegraphics[width=6cm]{images/plantenet.png}
 \end{textblock*}
 
 % Informations
@@ -146,7 +146,7 @@ Notre étude s'est appuyée sur plusieurs jeux de données issus de Pl@ntnet, ch
 
 Dans un premier temps, nous nous sommes familiarisées avec le jeu de données principal Pl@ntnet-CrowdSWE (pour South-West Europe), comprenant $\num{6 699 593}$ observations d'espèces végétales situées en Europe du Sud-Ouest. Ces observations ont été réalisées par $\num{823 251}$ utilisateurs de l'application Pl@ntNet, parmi lesquels nous distinguons deux catégories : 
 \begin{itemize}
-    \item \textbf{Les experts :} au nombre de $98$, ce sont des botaniques professionnels ou des amateurs très expérimentés dont nous admettons la véracité des identifications.
+    \item \textbf{Les experts :} au nombre de $98$, ce sont des botanistes professionnels ou des amateurs très expérimentés dont nous admettons la véracité des identifications.
     \item \textbf{Les non-experts :} constituent la majorité des contributeurs et comprennent tous les utilisateurs novices en botanique.
 \end{itemize}
 
@@ -160,7 +160,7 @@ Les données contiennent les variables suivantes :
 \begin{itemize}
     \item Les identifiants uniques pour chaque utilisateur (avec leur expertise précisée).
     \item Les identifiants uniques pour chaque observation.
-    \item Les identifiants pour chaque espèce (un identifiant spécifique pour la base de données mondiale et un identifiant spécifique pour la base de données SWE).
+    \item Les identifiants pour chaque espèce (un identifiant spécifique pour ceux dans la base de données mondiale et un identifiant spécifique pour ceux dans la base de données SWE).
     \item Les noms scientifiques complets des espèces.
     \item Les prédictions générées par l'algorithme d'intelligence artificielle pour chaque observation avec leurs probabilités associées.
     \item Les métadonnées sur les images (date, localisation, type d'organe photographié).
@@ -225,10 +225,10 @@ Pour nos analyses sous Python, les bibliothèques dont nous avons fait usage son
 \begin{itemize}
     \item \textbf{Gestion de fichiers :} \texttt{requests}, \texttt{io}  et \texttt{zipfile} pour la récupération et extraction de fichiers compressés, \texttt{json} et \texttt{tarfile} pour la manipulation de fichiers JSON et TAR (archives compressées), \texttt{os} et \texttt{glob} pour la navigation et la recherche dans l'arborescence des fichiers.
     \item \textbf{Analyse de données :} \texttt{pandas} pour la manipulation tabulaire des données et les opérations de fusion, \texttt{numpy} pour les calculs numériques vectorisés.
-    \item \textbf{Visualisation :} \texttt{matplotlib.pyplot}, \texttt{seaborn} pour la création de graphiques et \texttt{plotly.express(px)} pour créer des graphiques interactifs.
+    \item \textbf{Visualisation :} \texttt{matplotlib pyplot}, \texttt{seaborn} pour la création de graphiques et \texttt{plotly express(px)} pour créer des graphiques interactifs.
     \item \textbf{Optimisation :} \texttt{tqdm} pour suivre visuellement la progression des traitements, \texttt{math} pour utiliser des fonctions mathématiques avancées.
     \item \textbf{Aléatoire :} \texttt{random} pour mélanger et diviser les données de manière aléatoire mais reproductible.
-    \item \textbf{Exportation de graphique :} \texttt{kaleido} qui est une bibliothèque pour exporter des graphiques Plotly en images statiques.
+    \item \textbf{Exportation de graphique :} \texttt{kaleido} qui est une bibliothèque pour exporter des graphiques issus de \texttt{plotly} en images statiques.
 \end{itemize}
 
 \vspace{0.2cm}
@@ -252,7 +252,7 @@ Nous avons tout d'abord examiné la répartition des espèces photographiées en
 
 \begin{figure}[H]
   \centering
-  \includegraphics[scale=0.3]{images/10_Most_Observed_Species.png}
+  \includegraphics[scale=0.35]{images/10_Most_Observed_Species.png}
   \caption{Histogramme des $10$ espèces végétales les plus osbervées}
   \label{fig1}
 \end{figure}
@@ -274,15 +274,17 @@ Au-delà de la simple fréquence d'apparition des espèces, qui semble seulement
 \begin{figure}[H]
 \centering
 \begin{minipage}{0.5\textwidth}
-  \includegraphics[width=0.8\linewidth]{images/mean_rd.png}
+  \includegraphics[width=0.9\linewidth]{images/mean_rd.png}
 \end{minipage}%
 \begin{minipage}{0.5\textwidth}
-  \includegraphics[width=0.8\linewidth]{images/max_rd.png}
+  \includegraphics[width=0.9\linewidth]{images/max_rd.png}
 \end{minipage}
 \caption{Nuages de points de la moyenne des scores ou des scores max en fonction du nombre d'observations}
 \end{figure}
 
 Ces deux graphiques révèlent plusieurs phénomènes intéressants.
+
+\vspace{0.2cm}
 
 Contrairement à ce que l'on pourrait intuitivement penser, il n'existe pas de relation linéaire évidente entre la fréquence d'observation d'une espèce et la confiance moyenne du système dans ses prédictions. Des espèces très fréquentes peuvent recevoir des scores moyens relativement bas, tandis que certaines espèces rares obtiennent des scores élevés.
 
@@ -311,19 +313,21 @@ Plusieurs facteurs peuvent expliquer la variabilité observée dans les scores d
 Les espèces associées aux probabilités Top 1 ne sont pas systématiquement celles choisies par l'observateur, qui peut décider de désigner une espèce de probabilités plus faibles également proposées par l'IA ou opter pour une tout autre espèce. Des utilisateurs n'ayant pas observé eux-mêmes, sur place, peuvent également choisir une espèce à l'instar de l'observateur. Nous avons admis par vote majoritaire que l'observateur a plus de poids que les autres votants, sauf si les votants externes sont plus nombreux à valider une réponse qui diffère de l'observateur. Observons sur un échantillon plus restreint du jeu de données les différences entre le Top 1 et le vote majoritaire. 
 \begin{figure}[H]
     \centering
-    \includegraphics[scale=0.3]{images/10_Most_Observed_Species_Users.png}
+    \includegraphics[scale=0.35]{images/10_Most_Observed_Species_Users.png}
     \caption{Histogramme des $10$ espèces végétales les plus osbervées}
     \label{fig2}
-\end{figure}67461
+\end{figure}
 
-Si \textit{Prunus Spinosa L.} est toujours présente dans ce graphique, c'est l'espèce \textit{Malva sylvestris L.}, une fleur au mauve intense, qui est en tête. Sur ces $67 461$ observations (un centième des données totales), elle est donc la plus souvent choisie par les utilisateurs. Ce graphique seul indique que l'espèce prédite en première par l'IA, celle en qui l'algorithme est le plus confiant, n'est pas toujours ce que l'utilisateur compte choisir. Il est envisageable que les espèces proposées par l'IA dans son Top K se ressemblent : il existe par exemple plusieurs espèces d'iris ou de lotus partageant donc des caractéristiques communes, on parle de "familles".
+\vspace{0.2cm}
+
+Si \textit{Prunus Spinosa L.} est toujours présente dans ce graphique, c'est l'espèce \textit{Malva sylvestris L.}, une fleur au mauve intense, qui est en tête. Sur ces $\num{67 461}$ observations (un centième des données totales), elle est donc la plus souvent choisie par les utilisateurs. Ce graphique seul indique que l'espèce prédite en première par l'intelligence artificielle, celle en qui l'algorithme est le plus confiant, n'est pas toujours ce que l'utilisateur compte choisir. Il est envisageable que les espèces proposées par l'inteligence artificielle dans son Top K se ressemblent : il existe par exemple plusieurs espèces d'iris ou de lotus partageant donc des caractéristiques communes, on parle de "familles".
 \begin{figure}[H]
     \centering
     \begin{minipage}{0.5\textwidth}
-      \includegraphics[width=0.8\linewidth]{images/mean_rd_users.png}
+      \includegraphics[width=0.9\linewidth]{images/mean_rd_users.png}
     \end{minipage}%
     \begin{minipage}{0.5\textwidth}
-      \includegraphics[width=0.8\linewidth]{images/max_rd_users.png}
+      \includegraphics[width=0.9\linewidth]{images/max_rd_users.png}
     \end{minipage}
     \caption{Nuages de points de la moyenne des scores ou des scores max en fonction du nombre d'observations}
 \end{figure}
@@ -378,6 +382,8 @@ La procédure de base comporte trois étapes :
     \item \textbf{Construction de l'ensemble de prédiction :} pour un nouvel exemple $X_{n+1}$, on construit l'ensemble de prédiction en incluant toutes les classes $y$ pour lesquelles le score $s(X_{n+1}, y)$ est inférieur au quantile $(1- \alpha)$.
 \end{itemize}
 
+\vspace{0.2cm}
+
 Cette procédure garantit que la probabilité que l'ensemble de prédiction contienne la vraie classe est d'au moins $1- \alpha$, c'est-à-dire $95\%$.
 
 \subsubsection{Fonctions de scores}
@@ -408,7 +414,11 @@ Comme indiqué plus tôt, les scores que nous avons récupérés étaient tronqu
 
 \vspace{0.2cm}
 
-Une étape importante consistait à établir une vérité terrain fiable pour chaque observation, c'est-à-dire à déterminer quel label était le vrai pour chaque observation. Pour les observations avec le vote d'un utilisateur expert, nous avons directement utilisé leur identification comme référence absolue. Pour les observations sans validation experte, nous avons appliqué une méthode de vote majoritaire parmi les identifications fournies par les utilisateurs. C'est-à-dire que nous avons compté le nombre de réponses par label donné, en donnant un poids plus important à l'utilisateur ayant pris la photo, car c'est le seul à avoir réellement vu la plante, et avons posé que c'était l'espèce avec le plus de votes qui était le label correct. En cas d'égalité entre deux espèces candidates, nous avons sélectionné aléatoirement l'une d'entre elles.
+Une étape importante consistait à établir une vérité terrain fiable pour chaque observation, c'est-à-dire à déterminer quel label était le vrai pour chaque observation. Pour les observations avec le vote d'un utilisateur expert, nous avons directement utilisé leur identification comme référence absolue. Pour les observations sans validation experte, nous avons appliqué une méthode de vote majoritaire parmi les identifications fournies par les utilisateurs. C'est-à-dire que nous avons compté le nombre de réponses par label donné, en donnant un poids plus important à l'utilisateur ayant pris la photo (poids égal à $3$), car c'est le seul à avoir réellement vu la plante, et avons posé que c'était l'espèce avec le plus de votes qui était le label correct. En cas d'égalité entre deux espèces candidates, nous avons sélectionné aléatoirement l'une d'entre elles.
+
+\vspace{0.2cm}
+
+De plus, un autre problème s'est posé à nous après le calcul des scores. En effet, certaines observations présentaient des scores supérieurs à $1$, ce qui, s'agissant de valeurs dérivées de probabilités, n'est pas cohérent puisqu'ils devraient être compris entre $0$ et $1$. Après avoir examiné les quelques cas pour lesquels nous avons rencontré cette anomalie, nous avons constaté que ce phénomène n'apparaissait que pour les scores APS et uniquement pour des observations présentant des particularités au niveau de l'acquisition des données. Par exemple, nous avons identifié des cas où plusieurs plantes étaient présentes sur une même observation, ce qui engendrait une confusion pour l'algorithme qui ne pouvait déterminer avec précision quelle espèce identifier en priorité. Étant donné que ces cas problématiques étaient relativement rares ($149$ observations sur l'ensemble de notre échantillon de données), nous avons choisi de les exclure de notre analyse pour préserver l'intégrité de nos résultats.
 
 \vspace{0.2cm}
 
@@ -482,10 +492,10 @@ Ces quantiles sont des seuils critiques : un score élevé indique une faible co
 Analysons le tableau : 
 
 \begin{itemize}
-    \item Score s1 (non experts) de $0.9990$ : un seuil très élevé, ce qui signifie que la plupart des données non expertes ont des valeurs faibles, à l'exception d'une petite portion qui dépasse ce seuil.
-    \item Score s1 (experts) de $0.9649$ : un seuil plus bas que les non-experts, ce qui indique que les données des experts sont plus cohérentes et ont une répartition moins extrême.
-    \item Score s2 (non experts) de $0.7618$ : comparé à s1, ce seuil est plus bas, ce qui montre que la variabilité de ce score est moins marquée dans les données des non-experts.
-    \item Score s2 (experts) de $0,5614$ : le plus bas des quatre seuils, ce qui pourrait signifier que les scores s2 des experts sont généralement plus homogènes et moins extrêmes.
+    \item \textbf{Score s1 (non experts) :} ce seuil de plus de $0,99$ est très élevé et suggère une distribution asymétrique des scores, où la grande majorité des observations non expertes présentent des valeurs inférieures à ce seuil. Cela pourrait s'expliquer par une tendance des utilisateurs non experts à identifier principalement des espèces que l'algorithme reconnaît avec une forte confiance, ou à valider systématiquement les propositions de rang élevé du système.
+    \item \textbf{Score s1 (experts) :} un seuil de $0,96$ et donc plus bas que les non-experts, ce qui indique que les experts sont davantage susceptibles d'identifier correctement des espèces pour lesquelles l'algorithme présente une confiance moindre, ce qui semble cohérent avec leur niveau de compétence en botanique.
+    \item \textbf{Score s2 (non experts) :} la transition vers le score cumulatif APS entraîne une baisse importante du quantile jusqu'à $0,76$. Cette différence avec $s_1$ montre que la prise en compte du rang de la vraie classe et des probabilités cumulées des classes plus fortement prédites produit une distribution plus équilibrée des scores.
+    \item \textbf{Score s2 (experts) :} le plus bas des quatre seuils avec une valeur de $0,56$, ce qui indique que les experts identifient généralement des espèces qui apparaissent dans les premiers rangs des prédictions de l'algorithme. Cette valeur proche de $0,5$ est particulièrement intéressante car elle suggère que, pour les experts, la vraie espèce figure souvent parmi les premières propositions du système, totalisant environ la moitié de la masse de probabilité.
 \end{itemize}
 
 \subsubsection{Calcul des autres variables}
