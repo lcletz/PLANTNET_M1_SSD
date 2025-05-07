@@ -477,7 +477,7 @@ Pour le calcul concret du quantile, nous avons utilisé la fonction quantile de 
         \hline
         Score $s_1$ + données non expertes & $0.9990$ \\
         Score $s_1$ + données expertes & $0.9649$ \\
-        Score $s_2$ + données non expertes & $0.7618$ \\
+        Score $s_2$ + données non expertes & $0.7538$ \\
         Score $s_2$ + données expertes & $0.5614$ \\
         \hline
         \end{tabular}
@@ -527,15 +527,23 @@ Après avoir défini notre méthodologie et implémenté les algorithmes corresp
     \hline
     Configuration & Taux de couverture & Taille moyenne & Taille médiane \\
     \hline
-    $s_1$ + non expert & $100\%$ & $??$ & $??$ \\
-    $s_1$ + expert & $94.82\%$ & $??$ & $??$ \\
-    $s_2$ + non expert & $97.98\%$ & $0.06$ & $??$ \\
-    $s_2$ + expert & $94.91\%$ & $0.06$ & $??$ \\
+    $s_1$ + non expert & $100\%$ & $0.3188$ & $0.2128$ \\
+    $s_1$ + expert & $94.82\%$ & $0.2819$ & $0.1957$ \\
+    $s_2$ + non expert & $97.92\%$ & $0.0423$ & $0$ \\
+    $s_2$ + expert & $94.91\%$ & $0.0231$ & $0$ \\
     \hline
     \end{tabular}
 \end{center}
     
-Ces résultats révèlent plusieurs tendances importantes ????
+Ces résultats révèlent plusieurs tendances importantes concernant l'effet du score choisi ($s_1$ ou $s_2$) et de la nature des données de calibration (expertes vs non-expertes) sur les performances finales du modèle.
+
+Analysons le tableau : 
+
+\begin{itemize}
+    \item \textbf{Score $s_1$ vs score $s_2$ :} le passage de $s_1$ à $s_2$ entraîne une réduction significative de la taille moyenne et médiane des ensembles de prédiction, sans affecter drastiquement le taux de couverture. Cela indique que $s_2$ permet de construire des ensembles plus compacts (donc plus utiles pour l'utilisateur) tout en maintenant un bon niveau de fiabilité.
+    \item \textbf{Influence des données de calibration :} les configurations basées sur les données non-expertes ont tendance à produire des ensembles de prédiction légèrement plus larges, ce qui est cohérent avec le fait qu’elles compensent une calibration moins précise par une plus grande prudence. Les calibrations avec données expertes produisent des ensembles plus serrés, reflétant une meilleure qualité de calibration malgré la taille d’échantillon plus réduite.
+    \item \textbf{Zéros dans la médiane ($s_2$) :} la médiane nulle pour les modèles basés sur $s_2$ ne signifie pas que les ensembles de prédiction sont vides, mais reflète au contraire une très bonne performance de l'algorithme. En effet, dans un grand nombre de cas, la classe correcte est prédite en première position, ce qui donne un score cumulatif de non-conformité nul. Cela témoigne du fait que, dans ces cas, l'ensemble de prédiction contient uniquement la première classe proposée, ce qui est optimal à la fois en termes de concision et de précision.
+\end{itemize}
 
 \subsection{Traitement du jeu de données complet}
 
