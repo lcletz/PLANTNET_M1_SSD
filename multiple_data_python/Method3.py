@@ -1,23 +1,28 @@
 # %%
+# 1. Charger les scores non experts depuis le zip
+import zipfile
 import json
 import numpy as np
 
-# 1. Charger les données NON-EXPERTES pour calibration
-with open("5_scores_non_experts.json", "r") as f:
-    non_expert_data3 = json.load(f)
-
-# Score s2 = "sum_until_correct"
-calibration_scores2 = [
-    values["sum_until_correct"][0]  # Prendre la première valeur de la liste
-    for values in non_expert_data3.values()
-    if "sum_until_correct" in values  # Vérifier que la clé existe
-]
-
-# 2. Calcul du quantile à 95%
+zip_path = "15353081.zip"
 confidence = 0.95
-quantile3 = np.quantile(calibration_scores2, confidence)
+scores = []
 
-print(f"Quantile à {confidence*100:.0f}% basé sur les non-experts (score s2) : {quantile3:.4f}")
+with zipfile.ZipFile(zip_path, 'r') as zip_ref:
+    for i in range(1, 35):
+        filename = f"scores_nonexp_{i:02d}.json"
+        if filename in zip_ref.namelist():
+            with zip_ref.open(filename) as f:
+                data = json.load(f)
+                for valeurs in data.values():
+                    if "sum_until_correct" in valeurs and isinstance(valeurs["sum_until_correct"], list):
+                        scores.append(valeurs["sum_until_correct"][0])
+        else:
+            print(f"[Info] Fichier manquant : {filename}")
+
+# 2. Calculer le quantile
+quantile3 = np.quantile(scores, confidence)
+print(f"\nQuantile à {confidence*100:.0f}% basé sur les non-experts : {quantile3:.4f}")
 
 # 3. Charger les données de la moitié des scores des EXPERTS pour test
 with open("expert_scores2.json", "r") as f:
@@ -37,7 +42,7 @@ print("\nRésultats du test sur moitié des données expertes :")
 for i, (status, score) in enumerate(results):
     print(f"Plante {i+1:02d} - Score : {score:.4f} → {status}")
 
-# Esse que il y a des plantes avec des scores non conforme ?
+# Est-ce qu'il y a des plantes avec des scores non conformes ?
 # %%
 import json
 
@@ -46,10 +51,10 @@ with open("expert_scores2.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 # Définir le seuil de conformité
-threshold = 0.7618
+quantile3
 
 # Extraire les scores correctement
-non_conformes = {plante: valeurs["sum_until_correct"][0] for plante, valeurs in data.items() if valeurs["sum_until_correct"][0] > threshold}
+non_conformes = {plante: valeurs["sum_until_correct"][0] for plante, valeurs in data.items() if valeurs["sum_until_correct"][0] > quantile3}
 
 # Afficher les résultats
 print("Plantes non conformes :", non_conformes)
@@ -111,21 +116,22 @@ fig.show()
 # Enregistrement PNG statique
 fig.write_image("graphique_method3.png")
 
-# %% Calculs :
-# 1. Taux de couverture
-nb_total = len(df3)
-nb_conformes = df3["Conforme"].sum()
-taux_couverture = (nb_conformes / nb_total) * 100
-print(f"\nTaux de couverture (méthode 3, s2) : {taux_couverture:.2f}% ({nb_conformes} sur {nb_total})")
+# %%
+# Calcul du pourcentage de plantes conformes
+nb_total3 = len(df3)
+nb_conformes3 = df3["Conforme"].sum()
+taux_couverture3 = (nb_conformes3 / nb_total3) * 100
+print(f"\nTaux de couverture (méthode 3, s2) : {taux_couverture3:.2f}% ({nb_conformes3} sur {nb_total3})")
 
-# 2. Taille moyenne des ensembles de prédiction
-ensemble_sizes = [
-    v["sum_until_correct"][0]
-    for v in data.values()
-    if "sum_until_correct" in v
-]
+# Filtrer les scores en dessous ou égaux au quantile
+scores_sous_quantile3 = [s for s in df3["Score_s2"] if s <= quantile3]
 
-taille_moyenne = np.mean(ensemble_sizes)
-print(f"Taille moyenne des ensembles de prédiction (méthode 3 - s2) : {taille_moyenne:.2f}")
+# Calcul de la moyenne et de la médiane
+moyenne3 = np.mean(scores_sous_quantile3)
+mediane3 = np.median(scores_sous_quantile3)
 
+# Affichage des résultats
+print(f"Taille des données ≤ quantile : {len(scores_sous_quantile3)}")
+print(f"Taille moyenne des scores ≤ quantile : {moyenne3:.4f}")
+print(f"Taille médiane des scores ≤ quantile : {mediane3:.4f}")
 # %%

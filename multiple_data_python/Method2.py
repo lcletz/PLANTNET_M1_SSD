@@ -38,7 +38,7 @@ print("\nRésultats du test sur moitié des données expertes :")
 for i, (status, score) in enumerate(results):
     print(f"Plante {i+1:02d} - Score : {score:.4f} → {status}")
 
-# Esse que il y a des plantes avec des scores non conforme ?
+# Est-ce qu'il y a des plantes avec des scores non conformes ?
 # %%
 import json
 
@@ -47,10 +47,10 @@ with open("expert_scores2.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 # Définir le seuil de conformité
-threshold = 0.9578
+quantile2
 
 # Extraire les scores correctement
-non_conformes = {plante: valeurs["one_minus_prob"][0] for plante, valeurs in data.items() if valeurs["one_minus_prob"][0] > threshold}
+non_conformes = {plante: valeurs["one_minus_prob"][0] for plante, valeurs in data.items() if valeurs["one_minus_prob"][0] > quantile2}
 
 # Afficher les résultats
 print("Plantes non conformes :", non_conformes)
@@ -112,10 +112,22 @@ fig.show()
 # Enregistrement PNG statique
 fig.write_image("graphique_method2.png")
 
-# %% Calcul du pourcentage de plantes conformes
-nb_total = len(df2)
-nb_conformes = df2["Conforme"].sum()
-taux_couverture = (nb_conformes / nb_total) * 100
-print(f"\nTaux de couverture (méthode 2, s1) : {taux_couverture:.2f}% ({nb_conformes} sur {nb_total})")
+# %% 
+# Calcul du pourcentage de plantes conformes
+nb_total2 = len(df2)
+nb_conformes2 = df2["Conforme"].sum()
+taux_couverture2 = (nb_conformes2 / nb_total2) * 100
+print(f"\nTaux de couverture (méthode 2, s1) : {taux_couverture2:.2f}% ({nb_conformes2} sur {nb_total2})")
+
+# Filtrer les scores en dessous ou égaux au quantile
+scores_sous_quantile2 = [s for s in df2["Score_s1"] if s <= quantile2]
+
+# Calcul de la moyenne et de la médiane
+moyenne2 = np.mean(scores_sous_quantile2)
+mediane2 = np.median(scores_sous_quantile2)
+
+print(f"Taille des données ≤ quantile : {len(scores_sous_quantile2)}")
+print(f"Taille moyenne des scores ≤ quantile : {moyenne2:.4f}")
+print(f"Taille médiane des scores ≤ quantile : {mediane2:.4f}")
 
 # %%
