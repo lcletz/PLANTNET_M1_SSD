@@ -3,7 +3,7 @@ import json
 import numpy as np
 
 # 1. Charger les données NON-EXPERTES pour calibration
-with open("5_scores_non_experts.json", "r") as f:
+with open("scores_nonexp.json", "r") as f:
     non_expert_data = json.load(f)
 
 # Score s1 = "one_minus_prob"
