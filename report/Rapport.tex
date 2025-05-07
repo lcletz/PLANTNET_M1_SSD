@@ -348,6 +348,55 @@ La prédiction conforme, que nous allons introduire dans la section suivante, of
 
 La prédiction conforme est un cadre statistique qui permet de quantifier l'incertitude des prédictions faites par des algorithmes d'apprentissage automatique, y compris les réseaux de neurones utilisés dans Pl@ntnet. Contrairement aux autres approches comme le bootstrap qui reposent sur des hypothèses paramétriques, la prédiction conforme offre des garanties de couverture valables même pour des échantillons de taille finie, sans hypothèses fortes sur la distribution des données (\cite{ShaferVovk}).
 
+\vspace{0.2cm}
+
+\begin{figure}[H]
+    \centering
+    \begin{tabular}{@{}c@{\hspace{1mm}}c@{\hspace{1mm}}c@{}}
+        % Première image et prédiction
+        \begin{minipage}[t]{0.33\textwidth}
+            \centering
+            \includegraphics[width=\linewidth,height=5cm,keepaspectratio]{images/Daphne_1.jpeg}
+            \vspace{0.5cm}
+            \[ \left\{ \begin{array}{@{}p{3.3cm}@{\hspace{2mm}}r@{}}
+                \footnotesize\textcolor{magenta}{Daphne striata Tratt.} & \footnotesize 0,9556 \\
+                \footnotesize Daphne cneorum L. & \footnotesize 0,0274 \\
+                \footnotesize Daphne alpina L. & \footnotesize 0,0026
+            \end{array} \right\} \]
+        \end{minipage}
+        & 
+        % Deuxième image et prédiction
+        \begin{minipage}[t]{0.33\textwidth}
+            \centering
+            \includegraphics[width=\linewidth,height=5cm,keepaspectratio]{images/Daphne_2.jpeg}
+            \vspace{0.5cm}
+            \[ \left\{ \begin{array}{@{}p{3.3cm}@{\hspace{2mm}}r@{}}
+                \footnotesize\textcolor{magenta}{Daphne striata Tratt.} & \footnotesize 0,7547 \\
+                \footnotesize Daphne cneorum L. & \footnotesize 0,2100 \\
+                \footnotesize Daphne mezereum L. & \footnotesize 0,0045 \\
+                \footnotesize Daphne alpina L. & \footnotesize 0,0020 \\
+                \footnotesize Daphne sericea Vahl & \footnotesize 0,0014
+            \end{array} \right\} \]
+        \end{minipage}
+        &
+        % Troisième image et prédiction
+        \begin{minipage}[t]{0.33\textwidth}
+            \centering
+            \includegraphics[width=\linewidth,height=5cm,keepaspectratio]{images/Daphne_3.jpeg}
+            \vspace{0.5cm}
+            \[ \left\{ \begin{array}{@{}p{3.3cm}@{\hspace{2mm}}r@{}}
+                \footnotesize Daphne cneorum L. & \footnotesize 0,6062 \\
+                \footnotesize\textcolor{magenta}{Daphne striata Tratt.} & \footnotesize 0,3214 \\
+                \footnotesize Daphne mezereum L. & \footnotesize 0,0040 \\
+                \footnotesize Daphne alpina L. & \footnotesize 0,0033 \\
+                \footnotesize Daphne laureola L. & \footnotesize 0,0012
+            \end{array} \right\} \]
+        \end{minipage}
+    \end{tabular}
+    \caption{Exemples d'ensemble de prédiction sur des images de Pl@ntNet. Nous montrons trois exemples progressivement plus difficiles de la classe \textit{Daphne striata Tratt.} et les ensembles de prédiction (c.-à-d., $C(X_{\text{test}})$) générés par prédiction conforme.}
+    \label{fig:prediction_sets}
+\end{figure}
+
 \subsubsection{Cadre mathématiques}
 
 Nous considérons $(X_i, Y_i)$ des paires constituées de caractéristiques ($X_i$) et de réponses ($Y_i$) indépendantes et identiquement distribuées issues d'une distribution inconnue $P$, avec $i = 1, \dots, n$. Dans notre contexte, $X_i$ représente les caractéristiques extraites d'une image de plante, et $Y_i \in \{1, 2, \dots, K\}$ l'indice de la véritable espèce parmi les $K$ possibles. Notre espace des caractéristiques est $X = \mathbb R^d$ et notre espace des réponses est $Y = \mathbb R$.
@@ -363,7 +412,7 @@ Cette garantie de couverture est valable sous l'hypothèse que les paires $(X_i,
 
 \vspace{0.2cm}
 
-De plus, cela nécessite certaines conditions supplémentaires. La première va être de ne pas poser d'hypothèse sur $P$. Ensuite, nous ne devons pas non plus utiliser toutes les prédictions possibles, car nous voulons un nombre de prédictions fini, mais également raisonnable. Pour finir, nous voulons adapter notre stratégie à la dureté du problème, c'est-à-dire que plus il est facile de prédire $Y_{n+1}$ à partir de $X_{n+1}$ et plus notre ensemble $\hat C_n(X_{n+1})$ devra être petit.
+De plus, cela nécessite certaines conditions supplémentaires. La première va être de ne pas poser d'hypothèse sur $P$. Ensuite, nous ne devons pas non plus utiliser toutes les prédictions possibles, car nous voulons un nombre de prédictions fini, mais également raisonnable. Pour finir, nous voulons adapter notre stratégie à la dureté du problème, c'est-à-dire que plus il est facile de prédire $Y_{n+1}$ à partir de $X_{n+1}$ et plus notre ensemble $\hat C_n(X_{n+1})$ devra être petit, comme illustré en exemple dans la \autoref{fig:prediction_sets}.
 
 \vspace{0.2cm}
 
