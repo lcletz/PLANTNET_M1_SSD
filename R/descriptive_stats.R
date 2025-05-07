@@ -3,6 +3,7 @@ library(dplyr)
 library(ggplot2)
 library(tibble)
 library(knitr)
+library(grid)
 library(purrr)
 library(plotly)
 library(htmlwidgets)
@@ -68,7 +69,9 @@ p1 <- ggplot(top_plants, aes(x = reorder(plant_class, count), y = count, fill = 
   geom_bar(stat = "identity", fill = '#b4a7d5ff') +
 coord_flip() +
   labs(title = "", x = "Espèces", y = "Nombre d'observations") +
-  theme_minimal()
+  theme_minimal() +
+  theme(axis.text = element_text(size = 12),
+        axis.title = element_text(size = 16))
 plot(p1)
 
 #*Prunus spinosa L.* is the most observed plant, it is a blackthorne shrub/sloe bush. Its ID in the CrowdSWE database is 251.
@@ -80,7 +83,6 @@ bottom_plants <- merged_df %>%
 # observed at least once (3617 species)
 
 not_observed_plants <- merged_df %>% top_n(-1, count)
-
 
 ## Bivariate Analysis
 
@@ -115,6 +117,25 @@ kable(bp_summarise, caption='Observed-only-once Species Scores Summary')
 
 #The scores for these species go from 0.001 to 0.997, it's still really scattered. But the mean is at 0.392 and the median at 0.344, we can see these species are more likely to get low scores.
 
+#Clean table for report
+special_plant <- bottom_plants %>%
+  filter(plant_id == 13150)
+
+other_plants <- bottom_plants %>%
+  filter(plant_id != 13150) %>%
+  slice_sample(n = 9)
+
+bind_rows(special_plant, other_plants) %>%
+  select(plant_id, plant_class) %>%
+  gt() %>%
+  tab_style(
+    style = list(cell_fill(color = "#b4a7d5ff")),
+    locations = cells_body()
+  ) %>%
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_body(columns = c(plant_class))
+  )
 
 ### Top 200 most observed species
 
@@ -267,7 +288,9 @@ p4 <- ggplot(rd_2000_df, aes(x = count, y = max_score)) +
     y = "Score Max"
   ) +
   theme_bw() +
-  theme(legend.position = "none")
+  theme(legend.position = "none") +
+  theme(axis.text = element_text(size = 10),
+        axis.title = element_text(size = 14))
 plot(p4)
 
 
@@ -287,7 +310,8 @@ rd_2000_least_observed <- rd_2000_df %>%
 
 
 p4 <- ggplot(rd_2000_df, aes(x = count, y = mean_score)) +
-  geom_point(size = 2, color='#b4a7d5ff') +
+  geom_point(aes(color = "Une espèce"), size = 2, show.legend = TRUE) +
+  scale_color_manual(values = c("Une espèce" = "#b4a7d5ff")) +
   geom_segment(data = rd_2000_most_observed,
                aes(x = count, y = mean_score - 0.2,
                    xend = count, yend = mean_score),
@@ -295,8 +319,7 @@ p4 <- ggplot(rd_2000_df, aes(x = count, y = mean_score)) +
                color = "black") +
   geom_text(data = rd_2000_most_observed,
             aes(x = count - 2000, y = mean_score - 0.2, label = plant_class),
-            color = "black"
-  ) +
+            color = "black") +
   geom_segment(data = rd_2000_least_observed,
                aes(x = count + 6000, y = mean_score,
                    xend = count, yend = mean_score),
@@ -304,15 +327,21 @@ p4 <- ggplot(rd_2000_df, aes(x = count, y = mean_score)) +
                color = "black") +
   geom_text(data = rd_2000_least_observed,
             aes(x = count + 9000, y = mean_score, label = plant_class),
-            color = "black"
-  ) +
+            color = "black") +
   labs(
     title = "",
     x = "Nombre d'observations",
-    y = "Score Moyen"
+    y = "Score Moyen",
+    color = NULL
   ) +
   theme_bw() +
-  theme(legend.position = "none")
+  theme(
+    axis.text = element_text(size = 10),
+    axis.title = element_text(size = 14),
+    legend.position = "left",
+    legend.text = element_text(size = 12)
+  )
+
 plot(p4)
 
 ## Same previous things but instead of using Top 1 predicted AI answers, we go through a sample of users answers
@@ -353,13 +382,23 @@ p1 <- ggplot(top_plants, aes(x = reorder(name, count), y = count, fill = name)) 
   geom_bar(stat = "identity", fill = '#b4a7d5ff') +
   coord_flip() +
   labs(title = "", x = "Espèces", y = "Nombre d'observations") +
-  theme_minimal()
+  theme_minimal() +
+  theme(axis.text = element_text(size = 12),
+        axis.title = element_text(size = 16))
 plot(p1)
 
 valid_plants <- correct_answers %>%
-  semi_join(merged_df, by = "id_SWE") %>%
+  semi_join(merged_df, by = "id_SWE")
+
+special_plant <- valid_plants %>%
+  filter(name == "Daphne striata Tratt.")
+
+other_plants <- valid_plants %>%
+  filter(name != "Daphne striata Tratt.") %>%
   slice_sample(n = 3000)
 
+valid_plants <- bind_rows(special_plant, other_plants)
+  
 rd_3000_plants <- valid_plants %>%
   inner_join(merged_df, by = "id_SWE") %>% 
   select(-name.y)
@@ -375,11 +414,11 @@ rd_3000_df <- rd_3000_plants %>%
 rd_3000_most_observed <- rd_3000_df %>%
   filter(count == max(count, na.rm = TRUE))
 rd_3000_least_observed <- rd_3000_df %>%
-  filter(count == min(count, na.rm = TRUE)) %>% 
-  slice_sample(n = 1)
+  filter(count == min(count, na.rm = TRUE)) %>%
+  filter(name.x == 'Daphne striata Tratt.')
 
 
-p4 <- ggplot(rd_3000_df, aes(x = count, y = max_score)) +
+p6 <- ggplot(rd_3000_df, aes(x = count, y = max_score)) +
   geom_point(size = 2, color='#b4a7d5ff') +
   geom_segment(data = rd_3000_most_observed,
                aes(x = count, y = max_score - 0.2,
@@ -405,8 +444,10 @@ p4 <- ggplot(rd_3000_df, aes(x = count, y = max_score)) +
     y = "Score Max"
   ) +
   theme_bw() +
-  theme(legend.position = "none")
-plot(p4)
+  theme(legend.position = "none") +
+  theme(axis.text = element_text(size = 10),
+        axis.title = element_text(size = 14))
+plot(p6)
 
 rd_3000_df <- rd_3000_plants %>%
   group_by(name.x) %>%
@@ -424,7 +465,8 @@ rd_3000_least_observed <- rd_3000_df %>%
 
 
 p4 <- ggplot(rd_3000_df, aes(x = count, y = mean_score)) +
-  geom_point(size = 2, color='#b4a7d5ff') +
+  geom_point(aes(color = "Une espèce"), size = 2, show.legend = TRUE) +
+  scale_color_manual(values = c("Une espèce" = "#b4a7d5ff")) +
   geom_segment(data = rd_3000_most_observed,
                aes(x = count, y = mean_score - 0.2,
                    xend = count, yend = mean_score),
@@ -446,8 +488,39 @@ p4 <- ggplot(rd_3000_df, aes(x = count, y = mean_score)) +
   labs(
     title = "",
     x = "Nombre d'observations",
-    y = "Score Moyen"
+    y = "Score Moyen",
+    color = NULL
   ) +
   theme_bw() +
-  theme(legend.position = "none")
+  theme(legend.position = "none") +
+  theme(
+    axis.text = element_text(size = 10),
+    axis.title = element_text(size = 14),
+    legend.position = "left",
+    legend.text = element_text(size = 12)
+  )
 plot(p4)
+
+#Clean table for least chosen by users
+other_plants <- sample(unique(unlist(valid_plants$name)), size = 9)
+
+other_plants_df <- ai_classes_df %>%
+  filter(name %in% other_plants)
+colnames(other_plants_df) <- c("plant_class", "plant_id")
+
+special_plant <- special_plant %>% select(name, id_SWE)
+colnames(special_plant) <- c("plant_class", "plant_id")
+
+other_plants_df <- other_plants_df[, c("plant_id", "plant_class")]
+special_plant <- special_plant[, c("plant_id", "plant_class")]
+
+bind_rows(special_plant, other_plants_df) %>%
+  gt() %>%
+  tab_style(
+    style = list(cell_fill(color = "#b4a7d5ff")),
+    locations = cells_body()
+  ) %>%
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_body(columns = c(plant_class))
+  )
