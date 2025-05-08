@@ -93,7 +93,7 @@ fig = px.scatter(
     color="Conforme",
     color_discrete_sequence=["#B08FC7"],
     hover_data=["Plante_ID"],
-    title="s1 scores of the tested plants and 95% quantile threshold",
+    title="Method1 : s1 + non expert",
     labels={"Score_s1": "Score de non-conformité s1", "index": "Index plante"}
 )
 
@@ -103,10 +103,12 @@ fig.add_vline(
     line_dash="dash",
     line_color="red",
     annotation_text=f"Quantile 95% = {quantile1:.3f}",
-    annotation_position="top right"
+    annotation_position="top left",  
+    annotation_font_size=12
 )
 
 fig.update_layout(
+    xaxis=dict(range=[0, 1.1]),  
     yaxis_title="Plants tested",
     xaxis_title="Score s1",
     showlegend=True

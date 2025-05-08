@@ -87,7 +87,7 @@ fig = px.scatter(
     color="Conforme",
     color_discrete_map={True: "#B08FC7", False: "#FF69B4"},  
     hover_data=["Plante_ID"],
-    title="s2 scores of the tested plants and 95% quantile threshold",
+    title="Method4 : s2 + expert",
     labels={"Score_s2": "Score cumulatif s2", "index": "Index plante"}
 )
 
