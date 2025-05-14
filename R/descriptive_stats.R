@@ -53,7 +53,7 @@ p0 <- ggplot(sup100_count_plants, aes(x = reorder(plant_class, count), y = count
   geom_bar(stat = 'identity', fill = '#b4a7d5ff') +
   scale_y_log10() +
   labs(title = "Count (>=100) of Observations Distribution on Logarithmic Scale", x = 'Species', y = 'Number of observations') +
-  theme_minimal()+
+  theme_minimal() +
   theme(axis.text.x = element_blank())
 
 p0_interactive <- ggplotly(p0)
@@ -83,6 +83,31 @@ bottom_plants <- merged_df %>%
 # observed at least once (3617 species)
 
 not_observed_plants <- merged_df %>% top_n(-1, count)
+
+#Barplot:
+count_df <- merged_df %>%
+  mutate(count_by = cut(
+    count,
+    breaks = c(-1, 0, 1, 100, 500, 1000, 5000, 10000, Inf),
+    labels = c("0", "1", "2–100", "101–500", "501–1000", "1001–5000", "5001–10000", "10000+"),
+    right = TRUE
+  ))
+count_df <- count_df %>%
+  count(count_by)
+
+p1bis <- ggplot(count_df, aes(x = count_by, y = n)) +
+  geom_bar(stat = "identity", fill = '#b4a') +
+  geom_text(
+    data = filter(count_df, count_by %in% c("1", "10000+")),
+    aes(label = n),
+    vjust = -0.5,
+    size = 4
+  ) +
+  labs(title = "", x = "Nombre d'observations", y = "Nombre d'espèces") +
+  theme_minimal() +
+  theme(axis.text = element_text(size = 12),
+        axis.title = element_text(size = 16))
+plot(p1bis)
 
 ## Bivariate Analysis
 
@@ -136,107 +161,6 @@ bind_rows(special_plant, other_plants) %>%
     style = cell_text(weight = "bold"),
     locations = cells_body(columns = c(plant_class))
   )
-
-### Top 200 most observed species
-
-top_200_plants <- merged_df %>%
-  arrange(desc(count)) %>%
-  slice_head(n = 200) %>%
-  select(plant_id, plant_class, count)
-
-top_200_plants <- ai_answers_df %>%
-  inner_join(top_200_plants, by = "plant_id")
-
-top_200_plants <- top_200_plants %>%
-  left_join(ai_scores_df, by = "obs_id")
-
-top_200_df <- top_200_plants %>%
-  group_by(plant_class) %>%
-  summarise(
-    count = first(count),
-    max_score = max(score, na.rm = TRUE)
-  ) %>%
-  arrange(desc(count))
-
-
-p2 <- ggplot(top_200_df, aes(x = count, y = max_score)) +
-  geom_point(size = 3) +
-  labs(
-    title = "Max Score for 200 Most Observed Plants",
-    x = "Count of Observations",
-    y = "Max Score"
-  ) +
-  theme_bw() +
-  theme(legend.position = "none")
-plot(p2)
-
-### 2000 most observed species
-
-top_2000_plants <- merged_df %>%
-  arrange(desc(count)) %>%
-  slice_head(n = 2000) %>%
-  select(plant_id, plant_class, count)
-
-top_2000_plants <- ai_answers_df %>%
-  inner_join(top_2000_plants, by = "plant_id")
-
-top_2000_plants <- top_2000_plants %>%
-  left_join(ai_scores_df, by = "obs_id")
-
-top_2000_df <- top_2000_plants %>%
-  group_by(plant_class) %>%
-  summarise(
-    count = first(count),
-    max_score = max(score, na.rm = TRUE)
-  ) %>%
-  arrange(desc(count))
-
-top_2000_most_observed <- top_2000_df %>%
-  filter(count == max(count, na.rm = TRUE))
-top_2000_least_observed <- top_2000_df %>%
-  filter(count == min(count, na.rm = TRUE))
-top_2000_min_score <- top_2000_df %>%
-  filter(max_score == min(max_score, na.rm = TRUE))
-
-
-p3 <- ggplot(top_2000_df, aes(x = count, y = max_score)) +
-  geom_point(size = 2) +
-  geom_segment(data = top_2000_most_observed,
-               aes(x = count, y = max_score - 0.2,
-                   xend = count, yend = max_score),
-               arrow = arrow(length = unit(0.3, "cm")),
-               color = "red") +
-  geom_text(data = top_2000_most_observed,
-            aes(x = count - 2000, y = max_score - 0.2, label = plant_class),
-            color = "red"
-  ) +
-  geom_segment(data = top_2000_least_observed,
-               aes(x = count + 6000, y = max_score - 0.15,
-                   xend = count, yend = max_score),
-               arrow = arrow(length = unit(0.3, "cm")),
-               color = "red") +
-  geom_text(data = top_2000_least_observed,
-            aes(x = count + 8000, y = max_score - 0.16, label = plant_class),
-            color = "red", fontface = "bold"
-  ) +
-  geom_segment(data = top_2000_min_score,
-               aes(x = count + 6000, y = max_score,
-                   xend = count, yend = max_score),
-               arrow = arrow(length = unit(0.3, "cm")),
-               color = "red") +
-  geom_text(data = top_2000_min_score,
-            aes(x = count + 9000, y = max_score, label = plant_class),
-            color = "red"
-  ) +
-  labs(
-    title = "Max Score for Top 2000 Most Observed Plants",
-    x = "Count of Observations",
-    y = "Max Score"
-  ) +
-  theme_bw() +
-  theme(legend.position = "none")
-plot(p3)
-
 
 ## 2000 random species
 
@@ -375,6 +299,33 @@ colnames(plant_counts) <- c("id_SWE","count")
 merged_df <- ai_classes_df %>%
   left_join(plant_counts, by = "id_SWE")
 merged_df$count[is.na(merged_df$count)] <- 0
+
+#Barplot:
+count_df <- merged_df %>%
+  mutate(count_by = cut(
+    count,
+    breaks = c(-1, 0, 1, 20, 50, 100, 150, 200, Inf),
+    labels = c("0", "1", "2-20", "21–50", "51–100", "101–150", "151–200", "200+"),
+    right = TRUE
+  ))
+count_df <- count_df %>%
+  count(count_by) %>%
+  slice(-1)
+
+p1bis <- ggplot(count_df, aes(x = count_by, y = n)) +
+  geom_bar(stat = "identity", fill = '#b4a') +
+  geom_text(
+    data = filter(count_df, count_by %in% c("1", "200+")),
+    aes(label = n),
+    vjust = -0.5,
+    size = 4
+  ) +
+  labs(title = "", x = "Nombre d'observations", y = "Nombre d'espèces") +
+  theme_minimal() +
+  theme(axis.text = element_text(size = 12),
+        axis.title = element_text(size = 16))
+plot(p1bis)
+
 
 top_plants <- merged_df %>% top_n(10, count)
 

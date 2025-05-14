@@ -252,38 +252,28 @@ Cette complémentarité des outils nous a permis d'aborder efficacement les diff
 
 \subsection{Statistiques descriptives}
 
-Bien avant de nous atteler aux analyses plus poussées comme les algorithmes de prédiction conformes ou les calculs des scores, nous avons réalisé une série de statistiques descriptives sur le premier jeu de données. Ces analyses préliminaires nous ont permis de mieux comprendre la nature des données et d'identifier certains phénomènes intéressants.
+Bien avant de nous atteler aux analyses plus poussées comme les algorithmes de prédiction conforme ou les calculs des scores, nous avons réalisé une série de statistiques descriptives sur les premiers jeux de données. Ces analyses préliminaires nous ont permis de mieux comprendre la nature des données et d'identifier certains phénomènes intéressants.
 
 \subsubsection{Distribution des espèces observées}
 
-Nous avons tout d'abord examiné la répartition des espèces photographiées en Europe du Sud-Ouest.
+Nous avons tout d'abord examiné la répartition des espèces "Top 1" en Europe du Sud-Ouest. Ce que nous appelons le "Top 1" est l'espèce qui apparait en tête des scores prédits par l'algorithme de l'application après que la photographie a été prise. Cette position traduit la certitude de l'IA en la reconnaissance de l'espèce et s'il s'avère que c'est la bonne prédiction alors cela reflète également la qualité des prédictions pour cette espèce. Nous allons considérer dans un premier temps qu'il s'agit là de la vérité observée, la bonne espèce photographiée, et étudions sa répartition :
 
 \begin{figure}[H]
 \centering
-\begin{minipage}{0.55\textwidth}
-  \includegraphics[width=\linewidth]{images/10_Most_Observed_Species.png}
-\end{minipage}%
-\hfill
-\begin{minipage}{0.4\textwidth}
-  \includegraphics[width=\linewidth]{images/10_Least_Observed_Species.png}
-\end{minipage}
-\caption{Histogramme des $10$ espèces végétales les plus observées (à gauche) et liste des $10$ moins observées (à droite)}
-\label{fig:hist1}
+\includegraphics[width=\linewidth]{images/figure1.jpg}
+\label{fig1}
+\caption{Histogramme du nombre d'observations par espèce avec les 10 espèces les plus observées et 4 des moins observées}
 \end{figure}
 
-Comme le montre la \autoref{fig:hist1}, les espèces les plus fréquemment photographiées par les utilisateurs de Pl@ntnet sont essentiellement des arbres vivaces, certains fruitiers, ou des fleurs comestibles, aux propriétés curatives et qui peuvent être aperçues dans toute la zone géographique étudiée. Le \textit{Prunus Spinosa L.} ou, plus communément, prunellier, arrive en tête des observations, suivi par d'autres espèces communes comme le \textit{Fagus Sylvatica L.} (hêtre commun) ou encore le \textit{Corylus avellana L.} (noisetier commun).
+Comme le montre la figure \ref{fig1}, les espèces "Top 1" les plus fréquentes, dont nous allons dire qu'elles sont les plus fréquemment photographiées par les utilisaeur de Pl@ntNet, sont essentiellement des arbres vivaces, certains fruitiers, ou des fleurs comestibles, aux propriétés curatives et qui peuvent être aperçues dans toute la zone géographique étudiée. Le \textit{Prunus Spinosa L.} ou, plus communément, prunellier, arrive en tête des observations, suivi par d'autres espèces communes comme le \textit{Fagus Sylvatica L.} (hêtre commun) ou encore le \textit{Corylus avellana L.} (noisetier commun). Cette distribution n'est pas surprenante puisqu'elle reflète à la fois l'abondance de ces espèces dans l'écosystème méditerranéen et l'intérêt qu'elle suscite auprès du grand public, soit pour leur valeur décorative, soit pour leurs usages alimentaires ou médicinaux.
 
 \vspace{0.2cm}
 
-Cette distribution n'est pas surprenante puisqu'elle reflète à la fois l'abondance de ces espèces dans l'écosystème méditerranéen et l'intérêt qu'elle suscite auprès du grand public, soit pour leur valeur décorative, soit pour leurs usages alimentaires ou médicinaux.
-
-\vspace{0.2cm}
-
-À l'autre extrémité, les espèces les moins observées (avec parfois une seule occurrence dans la base) correspondent généralement à des plantes rares, présentes dans des zones très restreintes, ou simplement moins reconnaissables par le grand public.
+À l'autre extrémité, les espèces les moins observées (avec parfois une seule occurrence dans la base) correspondent généralement à des plantes rares, présentes dans des zones très restreintes ou éloignées de l'Europe du Sud-Ouest, ou simplement moins reconnaissables et moins intéressantes aux yeux du public. Nous comptons par exemple le \textit{Pavonia Spinifex (L.) Cav.}, un arbuste à fleurs jaunes originaire des Caraïbes, le \textit{Citrus paradisi Macfad.}, communément nommé "pomélo" originaire d'Amérique du Nord ou le \textit{Teucrium murcicum Sennen}, une toute petite herbe méditerranéenne.
 
 \subsubsection{Relation entre fréquence d'observation et probabilités}
 
-Au-delà de la simple fréquence d'apparition des espèces, qui semble seulement impliquer un intérêt de l'observateur, nous nous sommes intéressées à la relation entre cette fréquence et la qualité des prédictions de l'algorithme d'intelligence artificielle. Pour cela, nous avons analysé les scores "Top $1$" attribués par le système, c'est-à-dire la probabilité associée à l'espèce la plus probable selon l'algorithme. Nous avons obtenu les graphiques suivants :
+Au-delà de la simple fréquence d'apparition de ces espèces, qui semble seulement impliquer un intérêt de l'observateur, nous nous sommes intéressées à la relation entre cette fréquence et la qualité des prédictions de l'algorithme d'intelligence artificielle, et donc ces fameuses probabilités associées à l'espèce "Top 1".  Nous avons obtenu les graphiques suivants :
 
 \begin{figure}[H]
 \centering
@@ -296,11 +286,11 @@ Au-delà de la simple fréquence d'apparition des espèces, qui semble seulement
 \caption{Nuages de points de la moyenne des scores ou des scores max en fonction du nombre d'observations}
 \end{figure}
 
-Ces deux graphiques, comptant chacun 2000 observations sélectionnées aléatoirement, révèlent plusieurs phénomènes intéressants.
+Ces deux graphes, comptant chacun 2000 observations sélectionnées aléatoirement, révèlent plusieurs phénomènes intéressants.
 
 \vspace{0.2cm}
 
-Contrairement à ce que l'on pourrait intuitivement penser, il n'existe pas de relation linéaire évidente entre la fréquence d'observation d'une espèce et la confiance moyenne du système dans ses prédictions. Des espèces très fréquentes peuvent recevoir des scores moyens relativement bas, tandis que certaines espèces rares obtiennent des scores élevés.
+Contrairement à ce que l'on pourrait intuitivement penser, il n'existe pas de relation linéaire évidente entre la fréquence d'observation d'une espèce et la confiance moyenne du système dans ses prédictions. Des espèces très fréquentes peuvent recevoir des scores moyens relativement bas, tandis que certaines espèces rares obtiennent des scores élevés. Les probabilités sont éparses, l'algorithme n'est pas systématiquement confiant : il renvoit sûrement plusieurs espèces ayant des scores voisins en "Top 2", "Top 3", etc. sur lesquels nous devrons nous pencher.
 
 \vspace{0.2cm}
 
@@ -308,7 +298,7 @@ Le \textit{Prunus Spinosa L.}, l'espèce la plus observée, présente un score m
 
 \vspace{0.2cm}
 
-Certaines espèces n'ayant qu'une seule observation présentent des scores très élevés, proches de $1$. Ce phénomène pourrait s'expliquer par le processus d'apprentissage du modèle : si l'intelligence artificielle a été entraînée sur des images similaires à cette unique observation dans notre jeu de données, elle peut la reconnaître avec une grande confiance. Nous pouvons tout à fait le discerner sur les précédents graphes, le \textit{Pavonia Spinifex (L.) Cav.}, un arbuste à fleurs jaunes originaire des Caraïbes, a vu s'être attribué une probabilité autour de $0,35$, ce qui est plutôt correct pour une espèce n'appartenant normalement pas à la flore d'Europe du Sud-Ouest.
+Certaines espèces n'ayant qu'une seule observation présentent des scores très élevés, proches de $1$. Ce phénomène pourrait s'expliquer par le processus d'apprentissage du modèle : si l'intelligence artificielle a été entraînée sur des images similaires à cette unique observation dans notre jeu de données, elle peut la reconnaître avec une grande confiance. Nous pouvons tout à fait le discerner sur les précédents graphes puisque le \textit{Pavonia Spinifex (L.) Cav.} a vu s'être attribué une probabilité autour de $0,35$, ce qui est plutôt correct pour une espèce n'appartenant normalement pas à la flore d'Europe du Sud-Ouest.
 
 %%%%%% PAVONIA SPINIFEX : https://identify.plantnet.org/fr/k-world-flora/species/Pavonia%20spinifex%20%28L.%29%20Cav./data %%%%%%
 %%%%%% PRUNUS SPINOSA : https://identify.plantnet.org/fr/k-world-flora/species/Prunus%20spinosa%20L./data %%%%%%
@@ -337,24 +327,21 @@ Plusieurs facteurs peuvent expliquer la variabilité observée dans les scores d
 
 \subsubsection{Impact du choix de l'utilisateur}
 
-Les espèces associées aux probabilités Top 1 ne sont pas systématiquement celles choisies par l'observateur, qui peut décider de désigner une espèce de probabilités plus faibles également proposées par l'IA ou opter pour une tout autre espèce. Des utilisateurs n'ayant pas observé eux-mêmes, sur place, peuvent également choisir une espèce à l'instar de l'observateur. Nous avons admis par vote majoritaire que l'observateur a plus de poids que les autres votants, sauf si les votants externes sont plus nombreux à valider une réponse qui diffère de l'observateur. Observons sur un échantillon plus restreint du jeu de données les différences entre le Top 1 et le vote majoritaire. 
+Les espèces associées aux probabilités "Top 1" ne sont pas systématiquement celles choisies par l'observateur, qui peut décider de désigner une espèce de probabilités plus faibles également proposées par l'IA ou opter pour une tout autre espèce. Des utilisateurs n'ayant pas observé eux-mêmes, sur place, peuvent également choisir une espèce à l'instar de l'observateur. Nous avons admis par vote majoritaire que l'observateur a plus de poids que les autres votants, sauf si les votants externes sont plus nombreux à valider une réponse qui diffère de l'observateur. Nous allons étudier un échantillon de $67 461$ observations (environ un centième des données totales). Observons sur cet échantillon les différences entre le "Top 1" (\ref{fig1}) et le vote majoritaire.
 
 \begin{figure}[H]
 \centering
-\begin{minipage}{0.55\textwidth}
-  \includegraphics[width=\linewidth]{images/10_Most_Observed_Species_Users.png}
-\end{minipage}%
-\hfill
-\begin{minipage}{0.4\textwidth}
-  \includegraphics[width=\linewidth]{images/10_Least_Observed_Species_Users.png}
-\end{minipage}
-\caption{Histogramme des $10$ espèces végétales les plus choisies (à gauche) et liste des moins choisies (à droite)}
+\includegraphics[width=\linewidth]{images/figure3.jpg}
+\caption{Histogramme du nombre d'observations par espèce avec les 10 espèces les plus choisies et 4 des moins choisies}
 \end{figure}
-
 
 \vspace{0.2cm}
 
-Si \textit{Prunus Spinosa L.} est toujours présente dans ce graphique, c'est l'espèce \textit{Malva sylvestris L.}, une fleur au mauve intense, qui est en tête. Sur ces $\num{67 461}$ observations (un centième des données totales), elle est donc la plus souvent choisie par les utilisateurs. Ce graphique seul indique que l'espèce prédite en première par l'intelligence artificielle, celle en qui l'algorithme est le plus confiant, n'est pas toujours ce que l'utilisateur compte choisir. Il est envisageable que les espèces proposées par l'inteligence artificielle dans son Top K se ressemblent : il existe par exemple plusieurs espèces d'iris ou de lotus partageant donc des caractéristiques communes, on parle de "familles".
+Si \textit{Prunus Spinosa L.} est toujours présente dans ce graphique, c'est l'espèce \textit{Malva sylvestris L.}, une fleur au mauve intense, qui est en tête. Elle est donc la plus souvent choisie par les utilisateurs pour cet échantillon. Ce graphique seul indique que l'espèce prédite en première par l'intelligence artificielle, celle en qui l'algorithme est le plus confiant, n'est pas toujours ce que l'utilisateur compte choisir. Il est envisageable que les espèces proposées par l'inteligence artificielle dans son "Top K" se ressemblent : il existe par exemple plusieurs espèces d'iris ou de lotus partageant donc des caractéristiques communes, on parle de "familles".
+
+\vspace{0.2cm}
+
+Parmi les espèces les moins choisies par les utilisateurs, nous notons la \textit{Daphne striata Tratt.}, un arbrisseau à fines fleurs roses produisant des baies qui ressemblent à des œufs, le \textit{Crepis bursifolia L.}, une fleur jaune courante dans l'Hérault et le Var mais qui ne s'observe que vers Mai-Juin, ou le \textit{Cencrhus setaceus (Forssk.) Morrone}, une herbe envahissante dans toute l'Afrique. Ce sont des espèces faciles à reconnaître mais peu courantes.
 
 \begin{figure}[H]
     \centering
@@ -371,11 +358,11 @@ Puisque l'échantillon étudié est moins conséquent que celui de la première 
 
 \vspace{0.2cm}
 
-La Mauve, choisie plus de 200 fois dans cet échantillon, possède en moyenne une probabilité assez basse. Cela suggère qu'elle n'a pas toujours été l'espèce Top $1$ mais qu'elle a tout de même été validée par l'observateur ou par les votants à la majorité. Les quelques fois où elle a été la première proposition de l'algorithme a entrainé le choix de l'observateur à opter pour cette espèce, c'est après une plante d'une couleur intense et d'une forme assez particulière que l'observateur a pu remarquer.
+La Mauve, choisie plus de 200 fois dans cet échantillon, possède en moyenne une probabilité assez basse. Cela suggère qu'elle n'a pas toujours été l'espèce Top $1$ mais qu'elle a tout de même été validée par l'observateur ou par les votants à la majorité. Les quelques fois où elle a été la première proposition de l'algorithme a entrainé le choix de l'observateur à opter pour cette espèce, c'est après tout une plante d'une couleur intense et d'une forme assez particulière que l'observateur a pu remarquer.
 
 \vspace{0.2cm}
 
-Une des plantes n'ayant été choisie qu'une seule fois dans cet échantillon est la \textit{Daphne striata Tratt.}, un arbrisseau à fines fleurs roses produisant des baies qui ressemblent à des œufs. Son score est pourtant assez bas, nous pouvons imaginer qu'elle n'était proposée par l'application qu'en deuxième ou troisième position.  
+Une des plantes n'ayant été choisie qu'une seule fois dans cet échantillon est la \textit{Daphne striata Tratt.}. Son score est pourtant assez bas, nous pouvons imaginer qu'elle n'était proposée par l'application qu'en deuxième ou troisième position. Comme cité plus tôt, c'est un curieux arbrisseau qui est facile à identifier par l'observateur donc ce dernier a pu la choisir sans trop d'hésitation malgré le manque de confiance de l'IA.
 
 \vspace{0.2cm}
 
