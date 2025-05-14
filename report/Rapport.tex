@@ -91,7 +91,11 @@ La reconnaissance des plantes est une problématique clé en botanique, avec des
 
 \vspace{0.2cm}
 
-Cependant, garantir la fiabilité des prédictions reste un défi majeur. Les données collectées, bien que nombreuses, peuvent être de qualité variable en raison des conditions de prise de vue (lumière, angle, netteté), de la diversité des espèces et de l'expertise variable des contributeurs. Pour améliorer la précision de l'application, il ne suffit pas d’optimiser la classification : nous devons également quantifier l’incertitude des prédictions et adapter dynamiquement la sortie du modèle en fonction du niveau de confiance.
+Les travaux de recherche sur l'identification automatique des plantes ont considérablement évolué ces dernières années. Initialement, les efforts se sont concentrés sur la comparaison des approches algorithmiques pour maximiser la performance (comme en témoignent les challenges Pl@ntCLEF), puis sur la comparaison avec l'expertise humaine \cite{Bonnet}. La stratégie dominante consistait alors à accumuler un maximum de données sur un maximum d'espèces pour améliorer l'apprentissage. Cependant, avec l'augmentation constante du nombre d'espèces à identifier et la rareté des données pour la majorité d'entre elles, les performances des systèmes atteignent aujourd'hui certaines limites. Dans ce contexte, quantifier et gérer l'incertitude des prédictions devient un enjeu majeur pour continuer à améliorer les systèmes d'identification automatique des plantes.
+
+\vspace{0.2cm}
+
+Garantir la fiabilité des prédictions reste effectivement un défi majeur. Les données collectées, bien que nombreuses, peuvent être de qualité variable en raison des conditions de prise de vue (lumière, angle, netteté), de la diversité des espèces et de l'expertise variable des contributeurs. Pour améliorer la précision de l'application, il ne suffit pas d’optimiser la classification : nous devons également quantifier l’incertitude des prédictions et adapter dynamiquement la sortie du modèle en fonction du niveau de confiance.
 
 \vspace{0.2cm}
 
@@ -99,7 +103,7 @@ Dans ce travail, nous nous sommes intégrées au projet Pl@ntNet avec un objecti
 
 \vspace{0.2cm}
 
-Pour répondre à cette problématique, nous avons utilisé la prédiction conforme, une approche statistique permettant de transformer les sorties probabilistes d'un modèle de classification en ensembles de prédiction avec des garanties de couverture. Contrairement aux méthodes classiques, la prédiction conforme offre des garanties valides même pour des échantillons de taille finie et sans hypothèses fortes sur la distribution des données.
+Pour répondre à cette problématique, nous avons utilisé la prédiction conforme, une approche statistique permettant de transformer les sorties probabilistes d'un modèle de classification en ensembles de prédiction avec des garanties de couverture. Contrairement aux méthodes classiques, la prédiction conforme offre des garanties valides même pour des échantillons de taille finie et sans hypothèses fortes sur la distribution des données \cite{Angelopoulos}.
 
 \vspace{0.2cm}
 
@@ -173,20 +177,24 @@ Le tableau ci-dessous résume les principales caractéristiques de ce jeu de don
 
 \vspace{0.2cm}
 
-\begin{center}
-\begin{tabular}{|c|c|}
+\begin{table}[H]
+\centering
+\begin{tabular}{|l|r|}
     \hline
     Caractéristique & Valeur \\
     \hline
     Zone géographique  & Europe du Sud-Ouest  \\
     Nombre d'observations & $\num{6 699 593}$  \\
+    Nombre d'observations expertes & $\num{26 501}$ \\
     Nombre d'utilisateurs  & $\num{823 251}$  \\
     Nombre d'utilisateurs experts  & $98$  \\
     Nombre d'espèces observées  & $\num{17 247}$  \\
     Période couverte  & $2015-2023$  \\
     \hline
     \end{tabular}
-\end{center}
+\caption{Caractéristiques principales du jeu de données Pl@ntNet-CrowdSWE}
+\label{tab:recap des caractéristiques}
+\end{table}
     
 \vspace{0.2cm}
 
@@ -194,7 +202,7 @@ Ces données sont réparties dans $7$ fichiers au format JSON (JavaScript Object
 
 \vspace{0.2cm}
 
-Dans un deuxième temps, nous avons travaillé avec un échantillon plus restreint de $\num{67 466}$ observations afin de faciliter le développement et les tests de nos algorithmes, permettant une exécution plus rapide qu'avec l'ensemble complet des $7$ millions de données. Cette approche nous a permit d'itérer efficacement sur nos modèles avant de les généraliser sur le jeu de données intégral.
+Dans un deuxième temps, nous avons travaillé avec un échantillon plus restreint de $\num{67 466}$ observations afin de faciliter le développement et les tests de nos algorithmes, permettant une exécution plus rapide qu'avec l'ensemble complet des $7$ millions de données. Cette approche nous a permit d'itérer efficacement sur nos modèles avant de les généraliser, dans un dernier temps, sur l'intégralité du jeu de données.
 
 \vspace{0.2cm}
 
@@ -260,9 +268,10 @@ Nous avons tout d'abord examiné la répartition des espèces photographiées en
   \includegraphics[width=\linewidth]{images/10_Least_Observed_Species.png}
 \end{minipage}
 \caption{Histogramme des $10$ espèces végétales les plus observées (à gauche) et liste des $10$ moins observées (à droite)}
+\label{fig:hist1}
 \end{figure}
 
-Comme le montre la figure $1$, les espèces les plus fréquemment photographiées par les utilisateurs de Pl@ntnet sont essentiellement des arbres vivaces, certains fruitiers, ou des fleurs comestibles, aux propriétés curatives et qui peuvent être aperçues dans toute la zone géographique étudiée. Le \textit{Prunus Spinosa L.} ou, plus communément, prunellier, arrive en tête des observations, suivi par d'autres espèces communes comme le \textit{Fagus Sylvatica L.} (hêtre commun) ou encore le \textit{Corylus avellana L.} (noisetier commun).
+Comme le montre la \autoref{fig:hist1}, les espèces les plus fréquemment photographiées par les utilisateurs de Pl@ntnet sont essentiellement des arbres vivaces, certains fruitiers, ou des fleurs comestibles, aux propriétés curatives et qui peuvent être aperçues dans toute la zone géographique étudiée. Le \textit{Prunus Spinosa L.} ou, plus communément, prunellier, arrive en tête des observations, suivi par d'autres espèces communes comme le \textit{Fagus Sylvatica L.} (hêtre commun) ou encore le \textit{Corylus avellana L.} (noisetier commun).
 
 \vspace{0.2cm}
 
@@ -570,7 +579,8 @@ Pour chaque configuration, nous avons commencé par récupérer les scores pour 
 
 Pour le calcul concret du quantile, nous avons utilisé la fonction quantile de Python, adaptée pour notre large volume de données. Nous avons obtenu les résultats suivants : 
 
-\begin{center}
+\begin{table}[H]
+\centering
     \begin{tabular}{|l|c|}
         \hline
         Configuration & Quantile calculé \\
@@ -581,7 +591,9 @@ Pour le calcul concret du quantile, nous avons utilisé la fonction quantile de 
         Score $s_2$ + données expertes & $0.5614$ \\
         \hline
         \end{tabular}
-    \end{center}
+    \caption{Configuration des scores et des données avec les résultats de leurs quantiles}
+    \label{fig: scores et quantiles}
+\end{table}
 
 \vspace{0.2cm}
 
@@ -622,7 +634,8 @@ Après avoir défini notre méthodologie et implémenté les algorithmes corresp
 
 À la suite de nos calculs pour mesurer l'efficacité de nos modèles, les résultats obtenus pour nos quatre configurations sont résumés dans le tableau suivant :
 
-\begin{center}
+\begin{table}[H]
+\centering
 \begin{tabular}{|c|c|c|c|}
     \hline
     Configuration & Taux de couverture & Taille moyenne & Taille médiane \\
@@ -633,7 +646,8 @@ Après avoir défini notre méthodologie et implémenté les algorithmes corresp
     $s_2$ + expert & $94.91\%$ & $0.0231$ & $0$ \\
     \hline
     \end{tabular}
-\end{center}
+\caption{Configuration et caractéristiques obtenues (couverture, tailles moyenne et médiane)}
+\end{table}
     
 Ces résultats révèlent plusieurs tendances importantes concernant l'effet du score choisi ($s_1$ ou $s_2$) et de la nature des données de calibration (expertes vs non-expertes) sur les performances finales du modèle.
 
@@ -649,7 +663,7 @@ Analysons le tableau :
 
 Afin de confirmer si les taux de couverture observés respectaient réellement la garantie théorique de $95\%$, nous avons appliqué un test statistique du Chi-deux ($\chi^2$) d’adéquation pour chaque méthode. L’hypothèse nulle $H_0$ stipule que le taux de couverture est égal à $95\%$ contre l'hypothèse $H_1$ qui stipule que le taux de couverture est différent de $95\%$. Voici un résumé des résultats obtenus pour chaque configuration :
 
-\begin{table}[h]
+\begin{table}[H]
     \centering
     \begin{tabular}{|l|c|c|c|c|}
         \hline
@@ -696,18 +710,6 @@ Les taux de couverture obtenus varient très peu selon le choix de la graine uti
 \end{itemize}
 
 Nous pouvons remarquer que les résultats sont robustes au split aléatoire des données expertes. Donc le choix de la graine n’affecte pas significativement les taux de couverture, ce qui confirme que la calibration sur une moitié raisonnablement tirée des experts donne des résultats stables.
-
-\subsection{Traitement du jeu de données complet}
-
-Encouragés par les résultats prometteurs obtenus sur notre échantillon de $\num{67 466}$ observations, nous avons entrepris d'étendre notre approche à l'intégralité des $\num{6 699 593}$ observations de la base de données Pl@ntnet-CrowdSWE. Cette mise à l'échelle présentait des défis considérables, principalement sur le plan technique.
-
-\vspace{0.2cm}
-
-Le traitement de près de $7$ millions d'observations, chacune associée à un vecteur de probabilités potentiellement long (jusqu'à plusieurs centaines de classes candidates), a nécessité plusieurs adaptations. Mais malgré des optimisations, le traitement complet des données a nécessité plusieurs jours de calcul sur des machines puissantes, soulignant la difficulté que représente l'application de méthodes de prédiction conforme à des jeux de données massifs.
-
-\vspace{0.2cm}
-
-Les analyses sur l'ensemble complet des données étaient encore en cours au moment de la rédaction de ce rapport, mais les résultats préliminaires obtenus ont pu tout de même être traités et donner de la matière à ce rapport.
 
 \subsection{Perspectives d'intégration dans l'application}
 
