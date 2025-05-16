@@ -1,0 +1,156 @@
+---
+title: "Summary for different set sizes"
+author: "CLETZ Laura"
+date: "2025-05-16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+In order to evaluate and visualize the sizes obtained via the different calibration methods, we need the following packages:
+```{r}
+library(jsonlite)
+library(dplyr)
+library(ggplot2)
+```
+
+We also need two JSON files that can be downloaded from *Zenodo*:
+```{r}
+download.file("https://zenodo.org/records/15355864/files/expert_processed.json?download=1", destfile = 'data/expert_processed.json')
+download.file("https://zenodo.org/records/15441471/files/expert_score2.json?download=1", destfile = 'data/expert_score2.json')
+
+processed_exp <- fromJSON('data/expert_processed.json')
+test_set <- fromJSON('data/expert_scores2.json')
+```
+
+We are only interested in the (number of) probabilities from the test set:
+```{r}
+processed_exp <- processed_exp[names(processed_exp) %in% names(test_set)]
+proba_list <- lapply(processed_exp, function(df) df$proba)
+```
+
+## Size of final set of labels for each methods
+We have set our $\alpha$ at 0.05 since we are interested in a 95% coverage.
+
+The quantile for the method "s1 + non-experts" is 0,999 then:
+```{r}
+size_1 <- sapply(proba_list, function(p) sum(p > 1-0.999))
+```
+
+The quantile for the method "s1 + experts" is 0.9649 then:
+```{r}
+size_2 <- sapply(proba_list, function(p) sum(p > 1-0.9649))
+```
+
+The quantile for the method "s2 + non-experts" is 0,7538, then:
+```{r}
+size_3 <- sapply(proba_list, function(p) sum(p > 1-0.7538))
+```
+
+The quantile for the method "s2 + experts" is 0,5614, then:
+```{r}
+size_4 <- sapply(proba_list, function(p) sum(p > 1-0.5614))
+```
+
+## Summaries 
+```{r}
+summary(size_1)
+```
+
+```{r}
+summary(size_2)
+```
+
+```{r}
+summary(size_3)
+```
+
+```{r}
+summary(size_4)
+```
+
+# Barplots 
+```{r}
+size_1_df <- data.frame(count = unname(size_1))
+
+ggplot(size_1_df, aes(x = count)) +
+  geom_histogram(binwidth = 1, fill = '#b4a7d5ff', color = 'white') +
+  labs(
+    title = 'Méthode "s1 + non-experts"',
+    x = "Taille de l'ensemble",
+    y = "Nombre d'observations"
+  ) +
+  theme_minimal(base_size = 14)
+```
+
+```{r}
+size_2_df <- data.frame(count = unname(size_2))
+
+interest_values <- size_2_df %>%
+  count(count) %>%
+  filter(count > 8 | count == 1)
+
+ggplot(size_2_df, aes(x = count)) +
+  geom_histogram(binwidth = 1, fill = '#b4a7d5ff', color = 'white') +
+  geom_text(
+    data = interest_values,
+    aes(x = count, y = n, label = n),
+    vjust = -0.5,
+    size = 4
+  ) +
+  labs(
+    title = 'Méthode "s1 + experts"',
+    x = "Taille de l'ensemble",
+    y = "Nombre d'observations"
+  ) +
+  theme_minimal(base_size = 14)
+```
+
+```{r}
+size_3_df <- data.frame(count = unname(size_3))
+
+interest_values <- size_3_df %>%
+  count(count) %>%
+  filter(count > 2 | count == 0)
+
+ggplot(size_3_df, aes(x = count)) +
+  geom_histogram(binwidth = 1, fill = '#b4a7d5ff', color = 'white') +
+  geom_text(
+    data = interest_values,
+    aes(x = count, y = n, label = n),
+    vjust = -0.5,
+    size = 4
+  ) +
+  labs(
+    title = 'Méthode "s2 + non-experts"',
+    x = "Taille de l'ensemble",
+    y = "Nombre d'observations"
+  ) +
+  theme_minimal(base_size = 14)
+```
+
+
+```{r}
+size_4_df <- data.frame(count = unname(size_4))
+
+interest_values <- size_4_df %>%
+  count(count) %>%
+  filter(count > 2 | count == 0)
+
+ggplot(size_4_df, aes(x = count)) +
+  geom_histogram(binwidth = 1, fill = '#b4a7d5ff', color = 'white') +
+  geom_text(
+    data = interest_values,
+    aes(x = count, y = n, label = n),
+    vjust = -0.5,
+    size = 4
+  ) +
+  labs(
+    title = 'Méthode "s2 + experts"',
+    x = "Taille de l'ensemble",
+    y = "Nombre d'observations"
+  ) +
+  theme_minimal(base_size = 14)
+```
