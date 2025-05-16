@@ -212,7 +212,7 @@ Dans un deuxième temps, nous avons travaillé avec un échantillon plus restrei
 
 \subsection{Outils}
 
-Pour mener à bien nos analyses, nous avons développé une chaîne de traitements combinant plusieurs langages et outils de programmation. Tous nos codes sont disponibles en libre accès sur notre \href{https://github.com/lcletz/PLANTNET_M1_SSD}{Github}.
+Pour mener à bien nos analyses, nous avons développé une chaîne de traitements combinant plusieurs langages et outils de programmation. Tous nos codes sont disponibles en libre accès sur notre \href{https://github.com/lcletz/PLANTNET_M1_SSD}{Github} ainsi que les données partagées entre nous au fur et à mesure de l'étude sur la plateforme Zenodo : l'ensemble des \href{https://zenodo.org/records/15355864}{données post-traitement}, les \href{https://zenodo.org/records/15353081}{scores} calculées sur les données traitées qui ont en suite été divisées en \href{https://zenodo.org/records/15358242}{non-experts} et \href{https://zenodo.org/records/15441471}{experts}.
 
 \subsubsection{Environnement de développement}
 
@@ -224,10 +224,11 @@ Pour nos analyses sous R, nous avons mobilisé les packages suivants :
 \begin{itemize}
     \item \textbf{Manipulation des données :} \texttt{jsonlite} pour la lecture et l'écriture de fichiers JSON, \texttt{tibble} et \texttt{data.table} pour optimiser le traitement de grands tableaux de données, \texttt{dplyr} et \texttt{tidyr} pour les opérations de filtrage et de croisements de données.
     \item \textbf{Visualisation :} \texttt{ggplot2} pour la création de graphiques, \texttt{gridExtra} pour la composition de plusieurs graphiques, \texttt{htmlwidget} et \texttt{plotly} pour générer des visualisations interactives exportables.
-    \item \textbf{Traitement fonctionnel :} \texttt{purrr} pour appliquer des fonctions prenant en entrée des vecteurs dans les listes larges.
+    \item \textbf{Traitement fonctionnel :} \texttt{purrr} pour appliquer des fonctions prenant en entrée des vecteurs dans les listes larges, \texttt{stringr} pour manipuler des chaînes de caractères.
+    \item \textbf{Repérage temporel :} \texttt{progress} pour chronométrer et estimer la durée des algorithmes.
 \end{itemize}
 
-\subsubsection{Bibliothèque Python}
+\subsubsection{Bibliothèques Python}
 
 Pour nos analyses sous Python, les bibliothèques dont nous avons fait usage sont :
 \begin{itemize}
