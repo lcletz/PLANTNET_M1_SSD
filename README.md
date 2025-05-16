@@ -9,47 +9,69 @@ Name of supervisors:
 
 The team members are :
 
-- AIGOIN Emilie
-- CLETZ Laura
-- THOMAS Anne-Laure
+- AIGOIN Emilie (emilie.aigoin@etu.umontpellier.fr)
+- CLETZ Laura (laura.cletz@etu.umontpellier.fr)
+- THOMAS Anne-Laure (anne-laure.thomas@etu.umontpellier.fr)
 
-## Introduction:
+---
 
-PL@ntnet is a mobile plant recognition application used by 20 million users around the world, generating valuable observations for research. The algorithm can identify more than 50,000 species, but lacks valid images for most of them, which leads to frequent errors in predictions. This project explores the application of the "conformal pre -prediction" approach to quantify the uncertainty of the predictions of the model, guaranteeing a controlled error rate. It is based on the PL@ntnet-crowdswe database to assess the efficiency of this method.
+PL@ntnet is a mobile plant recognition application used by 20 million users around the world, generating valuable observations for research. The algorithm can identify more than 50,000 species, but lacks valid images for most of them, which leads to frequent errors in predictions. This project is based on the Pl@ntnet-crowdswe database, i.e. around 7 mn observations of species of flora in south-western Europe, and will be divided into two sub-projects:
+- statistical analysis of the data (scores, occurrences, etc.)
+- conformal prediction's calibration and testing, in order to quantify the uncertainty of the model's predictions, while guaranteeing a controlled error rate.
 
 Here is a diagram of the architecture of our project, detailing the location of each folder and file:
 
 ```PLANTNET
     ├── PlantNetM1SSD/
-    |     ├── R/
-    |     |   |── data.R
-    |     |   ├── fetch_data.R
-    |     |   ├── first_plots.R
-    |     |   ├── limited_data.R
-    |     |   ├── samples_processing.R
-    |     |   ├── samples_test.R
-    │     │   └── truth_data.R 
-    |     ├── .Rbuildignore
-    |     ├── .Rhistory
-    |     ├── DESCRIPTION
-    |     ├── NAMESPACE
-    │     └── PlantNetM1SSD.Rproj
-    ├── R_plot/ 
-    │     ├── Données.Rmd   
-    │     └── Visualization.Rmd
-    ├── data_python/
-    │     ├── code_extraction.py  
-    │     └── code_figure_ai_answers.py
-    ├── multiple_data/
-    │     └── Script.py
-    ├── multiple_data_python/
-    │     ├── extracted_tasks.json.py
-    │     ├── script.py  
-    │     └── script2.py
-    ├── slides/
-    │     └── Réunion 2.pptx
-    ├── .RData 
-    ├── .Rhistory
-    ├── .gitignore
-    └── README.md
+    │    ├── Analyses _Plantnet_300K/
+    │    │   ├── readme.md
+    │    │   └── Visualisation.Rmd
+    │    ├── croisement_data/
+    │    │   ├── ai.Rmd
+    │    │   ├── Comptage_réponses.Rmd
+    │    │   ├── croisement.Rmd
+    │    │   ├── Predictions.Rmd
+    │    │   ├── Scores.Rmd
+    │    │   ├── Step1_predictions.Rmd
+    │    │   ├── Step2_answer.Rmd
+    │    │   ├── Step3_croisements.Rmd
+    │    │   ├── Step4_scores.Rmd
+    │    │   ├── Step5_graphiques_nonexp.Rmd
+    │    │   ├── Step5_graphiques.Rmd
+    │    │   └── test_set_sizes.Rmd
+    │    ├── data_python/
+    │    │   ├── code_extraction.py
+    │    │   └── figures.py
+    │    ├── multiple_data_python/
+    │    │   ├── Expert_scores_division.py
+    │    │   ├── extracted_tasks.py
+    │    │   ├── Method1.py
+    │    │   ├── Method2.py
+    │    │   ├── Method3.py
+    │    │   ├── Method4.py
+    │    │   ├── scores_non_expertes.py
+    │    │   ├── script_croisement.py
+    │    │   ├── script_outpul_final.py
+    │    │   └── script_output.py
+    │    ├── PlantNet_M1_SSD.Rproj
+    │    ├── PlantNetM1SSD_0.1.0.tar.gz
+    │    ├── R/
+    │    │   ├── data.Rmd
+    │    │   ├── descriptive_stats.R
+    │    │   ├── main_script.R
+    │    │   ├── majority_vote.Rmd
+    │    │   ├── samples_merge.Rmd
+    │    │   ├── samples_processing.Rmd
+    │    │   └── user_answers_crossing.Rmd
+    │    ├── README.md
+    │    ├── report/
+    │    │   ├── images/
+    │    │   ├── journal.tex
+    │    │   ├── Rapport.fdb_latexmk
+    │    │   ├── Rapport.fls
+    │    │   ├── Rapport.log
+    │    │   ├── Rapport.pdf
+    │    │   ├── Rapport.tex
+    │    │   └── references.bib
+    │    └── slides/
 ```
