@@ -106,40 +106,52 @@ fig = px.scatter(
     color="Conforme",
     color_discrete_map={"Vrai": "#B08FC7", "Faux": "#FF69B4"},
     title="Méthode 3 : s2 + non expert",
-    labels={"Score_s2": "Score s2", "Index": "Observations testées", "Conforme": "Conformité"},
+    labels={"Score_s1": "Score s2", "Index": "Observations testées", "Conforme": "Conformité"},
     opacity=0.4
 )
 
-# Ligne de seuil (quantile)
+# Ajouter une ligne verticale de seuil
 fig.add_vline(
     x=quantile3,
     line_dash="dash",
     line_color="red",
     annotation_text=f"Quantile 95% = {quantile3:.4f}",
     annotation_position="top left",
-    annotation_font_size=12
+    annotation_font_size=6
 )
 
-# Mise à jour des axes
 fig.update_layout(
-    width=800,
-    height=500,
+    width=400,
+    height=250,
+    title_font_size=8,
+    margin=dict(l=5, r=5, t=15, b=20),
     showlegend=True,
-    margin=dict(l=60, r=30, t=50, b=60),
+    legend=dict(
+        font=dict(size=6),      
+        x=1,
+        y=0.5,
+        xanchor='left',
+        yanchor='middle',
+        borderwidth=0
+    ),
     yaxis=dict(
         tickformat="",
-        showticklabels=False  
+        showticklabels=False,
+        title_font=dict(size=8),
+        tickfont=dict(size=8)
     ),
     xaxis=dict(
         range=[0, 1],
-        dtick=0.1
-    )
+        dtick=0.1,
+        tickfont=dict(size=8),
+        title_font=dict(size=8)
+    ),
 )
 
 fig.show()
 
 # Sauvegarde
-fig.write_image("graphique_methode3.svg")
+fig.write_image("graphique_methode3.svg", width=400, height=250, scale=2)
 
 # %% Calcul du pourcentage de plantes conformes
 nb_total3 = len(df_method3)

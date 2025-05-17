@@ -111,29 +111,41 @@ fig.add_vline(
     line_color="red",
     annotation_text=f"Quantile 95% = {quantile2:.4f}",
     annotation_position="top left",
-    annotation_font_size=12
+    annotation_font_size=6
 )
 
-# Mise à jour des axes
 fig.update_layout(
-    width=800,
-    height=500,
+    width=400,
+    height=250,
+    title_font_size=8,
+    margin=dict(l=5, r=5, t=15, b=20),
     showlegend=True,
-    margin=dict(l=60, r=30, t=50, b=60),
+    legend=dict(
+        font=dict(size=6),      
+        x=1,
+        y=0.5,
+        xanchor='left',
+        yanchor='middle',
+        borderwidth=0
+    ),
     yaxis=dict(
         tickformat="",
-        showticklabels=False  
+        showticklabels=False,
+        title_font=dict(size=8),
+        tickfont=dict(size=8)
     ),
     xaxis=dict(
         range=[0, 1],
-        dtick=0.1
-    )
+        dtick=0.1,
+        tickfont=dict(size=8),
+        title_font=dict(size=8)
+    ),
 )
 
 fig.show()
 
 # Sauvegarde
-fig.write_image("graphique_methode2.svg")
+fig.write_image("graphique_methode2.svg", width=400, height=250, scale=2)
 
 # %% Calcul du pourcentage de plantes conformes
 nb_total2 = len(df_method2)
