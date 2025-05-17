@@ -89,24 +89,24 @@ scores_s2 = [v["sum_until_correct"][0] for v in expert_test_data.values() if "su
 # Construire le DataFrame
 df_method3 = pd.DataFrame({
     "Plante_ID": plante_ids,
-    "Score_s2": scores_s2
+    "Score s2": scores_s2
 })
 
 # Ajouter un index pour l’axe Y
 df_method3["Index"] = range(len(df_method3))
 
 # Déterminer la conformité
-df_method3["Conforme"] = df_method3["Score_s2"].apply(lambda x: "Vrai" if x < quantile3 else "Faux")
+df_method3["Conforme"] = df_method3["Score s2"].apply(lambda x: "Vrai" if x < quantile3 else "Faux")
 
 # Création du nuage de points
 fig = px.scatter(
     df_method3,
-    x="Score_s2",
+    x="Score s2",
     y="Index",
     color="Conforme",
     color_discrete_map={"Vrai": "#B08FC7", "Faux": "#FF69B4"},
     title="Méthode 3 : s2 + non expert",
-    labels={"Score_s1": "Score s2", "Index": "Observations testées", "Conforme": "Conformité"},
+    labels={"Score s2": "Score s2", "Index": "Observations testées", "Conforme": "Conformité"},
     opacity=0.4
 )
 

@@ -589,20 +589,44 @@ Pour le calcul concret du quantile, nous avons utilisé la fonction quantile de 
 
 Ces quantiles sont des seuils critiques : un score élevé indique une faible confiance, donc, pour le $s_1$, nous incluons toutes les classes dont le score est inférieur au quantile. Pour le $s_2$, nous incluons les classes jusqu'à ce que leur somme cumulée dépasse le quantile.
 
+\newpage
+
+\begin{figure}[htbp]
+    \centering
+    \includesvg[width=0.46\textwidth]{images/graphique_methode1}\hfill
+    \includesvg[width=0.46\textwidth]{images/graphique_methode2}
+    \caption{Graphiques des deux premières configurations}
+    \label{fig:graphiques_methode1_methode2}
+\end{figure}
+
+\begin{figure}[htbp]
+    \centering
+    \includesvg[width=0.46\textwidth]{images/graphique_methode3}\hfill
+    \includesvg[width=0.46\textwidth]{images/graphique_methode4}
+    \caption{Graphiques des deux dernières configurations}
+    \label{fig:graphiques_methode3_methode4}
+\end{figure}
+
+Analysons le \autoref{tab: scores et quantiles} ainsi que les \autoref{fig:graphiques_methode1_methode2} et \autoref{fig:graphiques_methode3_methode4} associés :
+
 \vspace{0.2cm}
 
-?? 4 graphiques des quantiles ??
-
-\vspace{0.2cm}
-
-Analysons le \autoref{tab: scores et quantiles} ainsi que les graphiques associés : 
-
+Le tableau met en évidence les quantiles obtenus selon différentes configurations :
 \begin{itemize}
-    \item \textbf{Score s1 (non experts) :} ce seuil de plus de $0,99$ est très élevé et montre que notre groupe de test ne se comporte donc pas comme notre groupe de calibration. Il suggère une distribution asymétrique des scores, où la grande majorité des observations non expertes présentent des valeurs inférieures à ce seuil. Cela pourrait s'expliquer par une tendance des utilisateurs non experts à identifier principalement des espèces que l'algorithme reconnaît avec une forte confiance, ou à valider systématiquement les propositions de rang élevé du système.
-    \item \textbf{Score s1 (experts) :} un seuil de $0,96$ et donc plus bas que les non-experts, ce qui indique que les experts sont davantage susceptibles d'identifier correctement des espèces pour lesquelles l'algorithme présente une confiance moindre, ce qui semble cohérent avec leur niveau de compétence en botanique.
-    \item \textbf{Score s2 (non experts) :} la transition vers le score cumulatif APS entraîne une baisse importante du quantile. Cette différence avec $s_1$ montre que la prise en compte du rang de la vraie classe et des probabilités cumulées des classes plus fortement prédites produit une distribution plus équilibrée des scores.
-    \item \textbf{Score s2 (experts) :} le plus bas des quatre seuils avec une valeur de $0,56$, ce qui indique que les experts identifient généralement des espèces qui apparaissent dans les premiers rangs des prédictions de l'algorithme. Cette valeur proche de $0,5$ est particulièrement intéressante car elle suggère que, pour les experts, la vraie espèce figure souvent parmi les premières propositions du système, totalisant environ la moitié de la masse de probabilité.
+    \item \textbf{Score s1 + données non expertes :} quantile le plus élevé ($0,9990$), traduisant une approche plus permissive.
+    \item \textbf{Score s1 + données expertes :} quantile de $0,9649$, témoignant d’une amélioration en termes de sélectivité.
+    \item \textbf{Score s2 + données non expertes :} $0,7538$, soit une baisse significative du quantile.
+    \item \textbf{Score s2 + données expertes :} $0,5614$, ce qui indique une approche plus stricte, réduisant les incertitudes.
 \end{itemize}
+
+Ces résultats soulignent le rôle des quantiles comme seuil critique dans la prise de décision. Un quantile élevé reflète une tolérance accrue aux écarts (donc une confiance moindre dans la sélection), tandis qu’un quantile plus bas indique une sélection plus exigeante. Chaque score ajuste ainsi la sensibilité du modèle selon le type de données utilisées.
+
+\vspace{0.2cm}
+
+Les \autoref{fig:graphiques_methode1_methode2} et \autoref{fig:graphiques_methode3_methode4} illustrent la répartition des observations testées selon les scores s1 et s2, en distinguant les données expertes et non expertes.\\
+L’axe des abscisses représente les types de score, tandis que l’axe des ordonnées indique les observations testées issues de notre jeu de test. La ligne rouge en pointillé marque le seuil du quantile. Les couleurs différenciées permettent de visualiser la conformité des observations : en violet les observations conformes, en rose celles jugées non conformes.\\
+L’analyse montre que le score s2 tend à réduire la proportion d’observations acceptées, en particulier lorsqu’il est appliqué aux données expertes. Cela suggère une méthode plus rigoureuse, favorisant un filtrage plus strict.\\
+En conclusion, ces résultats démontrent que le choix du score ainsi que la nature des données influencent de manière significative le processus de sélection des observations.
 
 \vspace{0.2cm}
 
