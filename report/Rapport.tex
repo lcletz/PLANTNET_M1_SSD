@@ -437,7 +437,8 @@ La prédiction conforme est un cadre statistique qui permet de quantifier l'ince
                 \footnotesize\textcolor{magenta}{Daphne striata Tratt.} & \footnotesize 0,3214 \\
                 \footnotesize Daphne mezereum L. & \footnotesize 0,0040 \\
                 \footnotesize Daphne alpina L. & \footnotesize 0,0033 \\
-                \footnotesize Daphne laureola L. & \footnotesize 0,0012
+                \footnotesize Daphne laureola L. & \footnotesize 0,0012 \\
+                \footnotesize Hyacinthus orientalis & \footnotesize 0.0011
             \end{array} \right\} \]
         \end{minipage}
     \end{tabular}
@@ -641,10 +642,10 @@ Après avoir défini notre méthodologie et implémenté les algorithmes corresp
     \hline
     \textbf{Configuration} & \textbf{Taux de couverture} & \textbf{Taille moyenne} & \textbf{Taille médiane} \\
     \hline
-    $s_1$ + non expert & $100\%$ & $15.47$ & $10$ \\
-    $s_1$ + expert & $94.82\%$ & $2.134$ & $2$ \\
-    $s_2$ + non expert & $97.92\%$ & $1.113$ & $1$ \\
-    $s_2$ + expert & $94.91\%$ & $0.896$ & $1$ \\
+    $s_1$ + non expert & $96.45\%$ & $15.47$ & $10.00$ \\
+    $s_1$ + expert & $94.82\%$ & $2.13$ & $2.00$ \\
+    $s_2$ + non expert & $97.92\%$ & $1.11$ & $1.00$ \\
+    $s_2$ + expert & $94.91\%$ & $0.90$ & $1.00$ \\
     \hline
     \end{tabular}
 \caption{Configuration et caractéristiques obtenues (couverture, tailles moyenne et médiane)}
@@ -662,33 +663,9 @@ Analysons le tableau :
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\subsection{Validation statistique des taux de couverture (test du $\chi^2$)}
-
-Afin de confirmer si les taux de couverture observés respectaient réellement la garantie théorique de $95\%$, nous avons appliqué un test statistique du Chi-deux ($\chi^2$) d’adéquation pour chaque méthode. L’hypothèse nulle $H_0$ stipule que le taux de couverture est égal à $95\%$ contre l'hypothèse $H_1$ qui stipule que le taux de couverture est différent de $95\%$. Voici un résumé des résultats obtenus pour chaque configuration :
-
-\begin{table}[H]
-    \centering
-    \begin{tabular}{|l|c|c|c|c|}
-        \hline
-        \textbf{Configuration} & \textbf{Statistique $\chi^2$} & \textbf{Test} & \textbf{Conclusion} \\
-        \hline
-        $s_1$ + non expert & $753.03$ & $> 3.8415$ & Rejet de $H_0$ (trop élevée) \\
-        $s_1$ + expert & $1.05$ & $< 3.8415$  & Conserve $H_0$ \\
-        $s_2$ + non expert & $282.54$ & $> 3.8415$ & Rejet de $H_0$ \\
-        $s_2$ + expert & $2.09$ & $< 3.8415$ & Conserve $H_0$ \\
-        \hline
-    \end{tabular}
-    \caption{Résumé des tests de $\chi^2$}
-    \label{tab:Tests du Chi-2}
-\end{table}
-
-Ces résultats montrent que lorsque la calibration est effectuée sur des données non expertes, la couverture obtenue est significativement trop élevée, trahissant une surestimation du quantile. À l’inverse, les calibrations effectuées sur des données expertes respectent bien la garantie de $95\%$ et passent le test sans rejeter $H_0$, validant ainsi la bonne calibration.
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \subsection{Analyse de la robustesse au tirage aléatoire (graine de séparation)}
 
-Pour vérifier si la division aléatoire des données influençait les performances, nous avons répété notre expérience avec plusieurs graines  ($123$ et $545$). Les résultats obtenus pour les méthodes calibrées sont présentés ci-dessous :
+Pour vérifier si la division aléatoire des données influençait les performances, nous avons répété notre expérience avec plusieurs graines ($123$ et $545$). Les résultats présentés ci-dessus proviennent de la graine $42$. Les performances obtenues pour les méthodes calibrées sont présentées ci-dessous :
 
 \begin{table}[h]
     \centering
@@ -696,7 +673,7 @@ Pour vérifier si la division aléatoire des données influençait les performan
         \hline
         \textbf{Configuration} & \textbf{Graine $42$} & \textbf{Graine $123$} & \textbf{Graine $545$} & \textbf{Ecart-max} \\
         \hline
-        $s_1$ + non expert & $100\%$ & $100\%$ & $100\%$ & $0\%$ \\
+        $s_1$ + non expert & $96.45\%$ & $96.52\%$ & $96.66\%$ & $0.21\%$ \\
         $s_1$ + expert & $94.82\%$ & $94.95\%$ & $95.14\%$ & $0.32\%$ \\
         $s_2$ + non expert & $97.92\%$ & $98.02\%$ & $97.91\%$ & $0.11\%$ \\
         $s_2$ + expert & $94.91\%$ & $95.08\%$ & $94.91\%$ & $0.17\%$ \\
@@ -716,7 +693,27 @@ Les taux de couverture obtenus varient très peu selon le choix de la graine uti
 
 Nous pouvons remarquer que les résultats sont robustes au split aléatoire des données expertes. Donc le choix de la graine n’affecte pas significativement les taux de couverture, ce qui confirme que la calibration sur une moitié raisonnablement tirée des experts donne des résultats stables.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Validation statistique des taux de couverture (test du $\chi^2$)}
+
+Afin de confirmer si les taux de couverture observés respectaient réellement la garantie théorique de $95\%$, nous avons appliqué un test statistique du Chi-deux ($\chi^2$) d’adéquation pour chaque méthode. L’hypothèse nulle $H_0$ stipule que le taux de couverture est égal à $95\%$ contre l'hypothèse $H_1$ qui stipule que le taux de couverture est différent de $95\%$. Voici un résumé des résultats obtenus pour chaque configuration :
+
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|l|c|c|c|c|}
+        \hline
+        \textbf{Configuration} & \textbf{Statistique $\chi^2$} & \textbf{Test} & \textbf{Conclusion} \\
+        \hline
+        $s_1$ + non expert & $87.25$ & $> 3.8415$ & Rejet de $H_0$ \\
+        $s_1$ + expert & $1.05$ & $< 3.8415$  & Conserve $H_0$ \\
+        $s_2$ + non expert & $282.54$ & $> 3.8415$ & Rejet de $H_0$ (trop élevée) \\
+        $s_2$ + expert & $2.09$ & $< 3.8415$ & Conserve $H_0$ \\
+        \hline
+    \end{tabular}
+    \caption{Résumé des tests de $\chi^2$}
+    \label{tab:Tests du Chi-2}
+\end{table}
+
+Ces résultats montrent que lorsque la calibration est effectuée sur des données non expertes, la couverture obtenue est significativement trop élevée, trahissant une surestimation du quantile. À l’inverse, les calibrations effectuées sur des données expertes respectent bien la garantie de $95\%$ et passent le test sans rejeter $H_0$, validant ainsi la bonne calibration.
 
 \subsection{Perspectives d'intégration dans l'application}
 
@@ -726,6 +723,10 @@ L'intégration de notre système de prédiction conforme dans l'application Pl@n
     \item \textbf{Mise à jour périodique} : les quantiles utilisés pour déterminer les seuils de décision devraient être recalculés périodiquement (par exemple, mensuellement) pour refléter l'évolution du modèle de base et des distributions de probabilités qu'il génère.
     \item \textbf{Interface utilisateur} : la présentation des résultats pourrait être adaptée pour expliquer clairement aux utilisateurs la nature adaptative des suggestions et la garantie statistique associée.
 \end{itemize}
+
+\vspace{0.2cm}
+
+Si nous intégrions notre travail à partir du quantile que nous avons calculé à l'aide du deuxième score (score cumulatif) sur les données expertes, nous aurions obtenu, si nous reprennons l'exemple de la \autoref{fig:prediction_sets}, alors nous obtiendrons une taille de $1$ seule espèce prédite pour chacune des observations. Cela s'explique par le fait qu'il n'y a que la première prédiction dont la probabilité était supérieure à $1 - 0,5614$. Cependant, pour la dernière plante, étant donné que la photographie est de mauvaise qualité, ce n'est pas la bonne espèce qui est prédite (elle fait partie de $5\%$ d'erreur).
 
 \vspace{0.2cm}
 
