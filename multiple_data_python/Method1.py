@@ -55,83 +55,97 @@ non_conformes = {
 print("Plantes non conformes :", non_conformes)
 print("Nombre total de plantes non conformes :", len(non_conformes))
 
+#%% Plante : Daphne Striata Tratt.
+
+# Liste des IDs de plantes à vérifier
+plante_ids = ["1004046780", "1014153815", "1011331452", "1013910015"]
+
+# Vérification
+for pid in plante_ids:
+    if pid in non_conformes:
+        print(f"La plante {pid} est non conforme avec un score de {non_conformes[pid]:.4f}")
+    else:
+        print(f"La plante {pid} est conforme.")
+
 # %% Visualisation
+import json
 import pandas as pd
 import plotly.express as px
-import kaleido
 
 # Recharger les données expertes testées
 with open("expert_scores2.json", "r", encoding="utf-8") as f:
     expert_test_data = json.load(f)
 
+# Extraire les IDs et les scores s1
 plante_ids = list(expert_test_data.keys())
-scores = [v["one_minus_prob"][0] for v in expert_test_data.values() if "one_minus_prob" in v]
+scores_s1 = [v["one_minus_prob"][0] for v in expert_test_data.values() if "one_minus_prob" in v]
 
-df = pd.DataFrame({
+# Créer le DataFrame
+df_method1 = pd.DataFrame({
     "Plante_ID": plante_ids,
-    "Score_s1": scores
+    "Score_s1": scores_s1
 })
 
-df["Conforme"] = df["Score_s1"] < quantile1
+# Ajouter un index pour l’axe Y
+df_method1["Index"] = range(len(df_method1))
 
-# Histogramme
-fig = px.histogram(
-    df,
+# Ajouter la conformité et la traduire
+df_method1["Conforme"] = df_method1["Score_s1"].apply(lambda x: "Vrai" if x < quantile1 else "Faux")
+
+# Création du nuage de points
+fig = px.scatter(
+    df_method1,
     x="Score_s1",
+    y="Index",
     color="Conforme",
-    nbins=30,
-    color_discrete_sequence=["#B08FC7", "#FF69B4"],
-    title="s1 + non expert",
-    labels={"Score_s1"}
+    color_discrete_map={"Vrai": "#B08FC7", "Faux": "#FF69B4"},
+    title="Méthode 1 : s1 + non expert",
+    labels={"Score_s1": "Score s1", "Index": "Observations testées", "Conforme": "Conformité"},
+    opacity=0.4
 )
 
+# Ajouter une ligne verticale de seuil
 fig.add_vline(
     x=quantile1,
     line_dash="dash",
     line_color="red",
-    annotation_text=f"Quantile 95% = {quantile1:.3f}",
+    annotation_text=f"Quantile 95% = {quantile1:.4f}",
     annotation_position="top left",
     annotation_font_size=12
 )
 
+# Mise à jour des axes
 fig.update_layout(
     width=800,
     height=500,
-    bargap=0.1,
-    xaxis=dict(
-        title="Score de non-conformité s1",
-        tickformat=".2f",
-        range=[0, 1],
-        tick0=0,
-        dtick=0.2
-    ),
+    showlegend=True,
+    margin=dict(l=60, r=30, t=50, b=60),
     yaxis=dict(
-        title="Nombre de plantes",
-        tickmode="auto"  
+        tickformat="",
+        showticklabels=False  
     ),
-    showlegend=True
+    xaxis=dict(
+        range=[0, 1],
+        dtick=0.1
+    )
 )
-
-fig.update_layout(margin=dict(l=60, r=30, t=50, b=60))
 
 fig.show()
 
 # Sauvegarde
-fig.write_image("histogramme_method1.png")
-fig.write_image("histogramme_method1.svg")
+fig.write_image("graphique_methode1.svg")
 
 # %% Statistiques supplémentaires
-nb_total = len(df)
-nb_conformes = df["Conforme"].sum()
+nb_total = len(df_method1)
+nb_conformes = (df_method1["Conforme"] == "Vrai").sum()
 taux_couverture = (nb_conformes / nb_total) * 100
 print(f"\nTaux de couverture (méthode 1, s1) : {taux_couverture:.2f}% ({nb_conformes} sur {nb_total})")
 
-scores_sous_quantile1 = [s for s in df["Score_s1"] if s < quantile1]
+scores_sous_quantile1 = [s for s in df_method1["Score_s1"] if s < quantile1]
 moyenne1 = np.mean(scores_sous_quantile1)
 mediane1 = np.median(scores_sous_quantile1)
 
 print(f"Taille des données inférieures au quantile : {len(scores_sous_quantile1)}")
 print(f"Score moyen des données inférieures au quantile : {moyenne1:.4f}")
 print(f"Score médian des données inférieures au quantile : {mediane1:.4f}")
-
 # %%

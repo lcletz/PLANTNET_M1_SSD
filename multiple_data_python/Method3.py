@@ -42,8 +42,7 @@ print("\nRésultats du test sur moitié des données expertes :")
 for i, (status, score) in enumerate(results):
     print(f"Plante {i+1:02d} - Score : {score:.4f} → {status}")
 
-# Est-ce qu'il y a des plantes avec des scores non conformes ?
-# %%
+# %% Est-ce qu'il y a des plantes avec des scores non conformes ?
 import json
 
 # Charger les données JSON
@@ -60,83 +59,96 @@ non_conformes = {plante: valeurs["sum_until_correct"][0] for plante, valeurs in 
 print("Plantes non conformes :", non_conformes)
 print("Nombre total de plantes non conformes :", len(non_conformes))  
 
+#%% Plante : Daphne Striata Tratt.
+
+# Liste des IDs de plantes à vérifier
+plante_ids = ["1004046780", "1014153815", "1011331452", "1013910015"]
+
+# Vérification
+for pid in plante_ids:
+    if pid in non_conformes:
+        print(f"La plante {pid} est non conforme avec un score de {non_conformes[pid]:.4f}")
+    else:
+        print(f"La plante {pid} est conforme.")
+        
 # %% Visualisation
 import json
 import pandas as pd
+import numpy as np
 import plotly.express as px
 import kaleido
 
-# Recharger les données expertes testées
+# Charger les données expertes
 with open("expert_scores2.json", "r", encoding="utf-8") as f:
     expert_test_data = json.load(f)
 
-# Extraire les IDs et les scores
+# Extraire les IDs et les scores s2 (sum_until_correct)
 plante_ids = list(expert_test_data.keys())
-scores = [v["sum_until_correct"][0] for v in expert_test_data.values() if "sum_until_correct" in v]
+scores_s2 = [v["sum_until_correct"][0] for v in expert_test_data.values() if "sum_until_correct" in v]
 
-# Recréer le DataFrame
-df3 = pd.DataFrame({
+# Construire le DataFrame
+df_method3 = pd.DataFrame({
     "Plante_ID": plante_ids,
-    "Score_s2": scores
+    "Score_s2": scores_s2
 })
 
-# Déterminer la conformité par rapport au quantile
-df3["Conforme"] = df3["Score_s2"] < quantile3
+# Ajouter un index pour l’axe Y
+df_method3["Index"] = range(len(df_method3))
 
-# Histogramme
-fig = px.histogram(
-    df3,
+# Déterminer la conformité
+df_method3["Conforme"] = df_method3["Score_s2"].apply(lambda x: "Vrai" if x < quantile3 else "Faux")
+
+# Création du nuage de points
+fig = px.scatter(
+    df_method3,
     x="Score_s2",
+    y="Index",
     color="Conforme",
-    nbins=30,
-    color_discrete_sequence=["#B08FC7", "#FF69B4"],
-    title="s2 + non expert",
-    labels={"Score_s2"}
+    color_discrete_map={"Vrai": "#B08FC7", "Faux": "#FF69B4"},
+    title="Méthode 3 : s2 + non expert",
+    labels={"Score_s2": "Score s2", "Index": "Observations testées", "Conforme": "Conformité"},
+    opacity=0.4
 )
 
+# Ligne de seuil (quantile)
 fig.add_vline(
     x=quantile3,
     line_dash="dash",
     line_color="red",
-    annotation_text=f"Quantile 95% = {quantile3:.3f}",
+    annotation_text=f"Quantile 95% = {quantile3:.4f}",
     annotation_position="top left",
     annotation_font_size=12
 )
 
+# Mise à jour des axes
 fig.update_layout(
     width=800,
     height=500,
-    bargap=0.1,
-    xaxis=dict(
-        title="Score_s2 : Score cumulatif s2",
-        tickformat=".2f",
-        range=[0, 1],
-        tick0=0,
-        dtick=0.2
-    ),
+    showlegend=True,
+    margin=dict(l=60, r=30, t=50, b=60),
     yaxis=dict(
-        title="Nombre de plantes",
-        tickmode="auto"  
+        tickformat="",
+        showticklabels=False  
     ),
-    showlegend=True
+    xaxis=dict(
+        range=[0, 1],
+        dtick=0.1
+    )
 )
-
-fig.update_layout(margin=dict(l=60, r=30, t=50, b=60))
 
 fig.show()
 
 # Sauvegarde
-fig.write_image("histogramme_method3.png")
-fig.write_image("histogramme_method3.svg")
+fig.write_image("graphique_methode3.svg")
 
 # %% Calcul du pourcentage de plantes conformes
-nb_total3 = len(df3)
-nb_conformes3 = df3["Conforme"].sum()
+nb_total3 = len(df_method3)
+nb_conformes3 = (df_method3["Conforme"] == "Vrai").sum()
 taux_couverture3 = (nb_conformes3 / nb_total3) * 100
 print(f"\nTaux de couverture (méthode 3, s2) : {taux_couverture3:.2f}% ({nb_conformes3} sur {nb_total3})")
 
 # Filtrer les scores en dessous du quantile
-scores_sous_quantile3 = [s for s in df3["Score_s2"] if s < quantile3]
+scores_sous_quantile3 = [s for s in df_method3["Score_s2"] if s < quantile3]
 
 # Calcul de la moyenne et de la médiane
 moyenne3 = np.mean(scores_sous_quantile3)
@@ -146,4 +158,5 @@ mediane3 = np.median(scores_sous_quantile3)
 print(f"Taille des données inférieures au quantile : {len(scores_sous_quantile3)}")
 print(f"Score moyen des données inférieures au quantile : {moyenne3:.4f}")
 print(f"Score médian des données inférieures au quantile : {mediane3:.4f}")
+
 # %%
