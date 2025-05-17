@@ -647,31 +647,9 @@ Analysons le tableau :
     \item \textbf{Zéros dans la médiane ($s_2$) :} la médiane nulle pour les modèles basés sur $s_2$ ne signifie pas que les ensembles de prédiction sont vides, mais reflète au contraire une très bonne performance de l'algorithme. En effet, dans un grand nombre de cas, la classe correcte est prédite en première position, ce qui donne un score cumulatif de non-conformité nul. Cela témoigne du fait que, dans ces cas, l'ensemble de prédiction contient uniquement la première classe proposée, ce qui est optimal à la fois en termes de concision et de précision.
 \end{itemize}
 
-\subsection{Validation statistique des taux de couverture (test du $\chi^2$)}
-
-Afin de confirmer si les taux de couverture observés respectaient réellement la garantie théorique de $95\%$, nous avons appliqué un test statistique du Chi-deux ($\chi^2$) d’adéquation pour chaque méthode. L’hypothèse nulle $H_0$ stipule que le taux de couverture est égal à $95\%$ contre l'hypothèse $H_1$ qui stipule que le taux de couverture est différent de $95\%$. Voici un résumé des résultats obtenus pour chaque configuration :
-
-\begin{table}[H]
-    \centering
-    \begin{tabular}{|l|c|c|c|c|}
-        \hline
-        \textbf{Configuration} & \textbf{Couverture observée} & \textbf{Statistique $\chi^2$} & \textbf{Test} & \textbf{Conclusion} \\
-        \hline
-        $s_1$ + non expert & $96.45\%$ & $87.25$ & $> 3.8415$ & Rejet de $H_0$ \\
-        $s_1$ + expert & $94.82\%$ & $1.05$ & $< 3.8415$  & Conserve $H_0$ \\
-        $s_2$ + non expert & $97.92\%$ & $282.54$ & $> 3.8415$ & Rejet de $H_0$ (trop élevée) \\
-        $s_2$ + expert & $94.91\%$ & $2.09$ & $< 3.8415$ & Conserve $H_0$ \\
-        \hline
-    \end{tabular}
-    \caption{Résumé des tests de $\chi^2$}
-    \label{tab:Tests du Chi-2}
-\end{table}
-
-Ces résultats montrent que lorsque la calibration est effectuée sur des données non expertes, la couverture obtenue est significativement trop élevée, trahissant une surestimation du quantile. À l’inverse, les calibrations effectuées sur des données expertes respectent bien la garantie de $95\%$ et passent le test sans rejeter $H_0$, validant ainsi la bonne calibration.
-
 \subsection{Analyse de la robustesse au tirage aléatoire (graine de séparation)}
 
-Pour vérifier si la division aléatoire des données influençait les performances, nous avons répété notre expérience avec plusieurs graines  ($123$ et $545$). Les résultats obtenus pour les méthodes calibrées sont présentés ci-dessous :
+Pour vérifier si la division aléatoire des données influençait les performances, nous avons répété notre expérience avec plusieurs graines ($123$ et $545$). Les résultats présentés ci-dessus proviennent de la graine $42$. Les performances obtenues pour les méthodes calibrées sont présentées ci-dessous :
 
 \begin{table}[h]
     \centering
@@ -698,6 +676,28 @@ Les taux de couverture obtenus varient très peu selon le choix de la graine uti
 \end{itemize}
 
 Nous pouvons remarquer que les résultats sont robustes au split aléatoire des données expertes. Donc le choix de la graine n’affecte pas significativement les taux de couverture, ce qui confirme que la calibration sur une moitié raisonnablement tirée des experts donne des résultats stables.
+
+\subsection{Validation statistique des taux de couverture (test du $\chi^2$)}
+
+Afin de confirmer si les taux de couverture observés respectaient réellement la garantie théorique de $95\%$, nous avons appliqué un test statistique du Chi-deux ($\chi^2$) d’adéquation pour chaque méthode. L’hypothèse nulle $H_0$ stipule que le taux de couverture est égal à $95\%$ contre l'hypothèse $H_1$ qui stipule que le taux de couverture est différent de $95\%$. Voici un résumé des résultats obtenus pour chaque configuration :
+
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|l|c|c|c|c|}
+        \hline
+        \textbf{Configuration} & \textbf{Couverture observée} & \textbf{Statistique $\chi^2$} & \textbf{Test} & \textbf{Conclusion} \\
+        \hline
+        $s_1$ + non expert & $96.45\%$ & $87.25$ & $> 3.8415$ & Rejet de $H_0$ \\
+        $s_1$ + expert & $94.82\%$ & $1.05$ & $< 3.8415$  & Conserve $H_0$ \\
+        $s_2$ + non expert & $97.92\%$ & $282.54$ & $> 3.8415$ & Rejet de $H_0$ (trop élevée) \\
+        $s_2$ + expert & $94.91\%$ & $2.09$ & $< 3.8415$ & Conserve $H_0$ \\
+        \hline
+    \end{tabular}
+    \caption{Résumé des tests de $\chi^2$}
+    \label{tab:Tests du Chi-2}
+\end{table}
+
+Ces résultats montrent que lorsque la calibration est effectuée sur des données non expertes, la couverture obtenue est significativement trop élevée, trahissant une surestimation du quantile. À l’inverse, les calibrations effectuées sur des données expertes respectent bien la garantie de $95\%$ et passent le test sans rejeter $H_0$, validant ainsi la bonne calibration.
 
 \subsection{Perspectives d'intégration dans l'application}
 
