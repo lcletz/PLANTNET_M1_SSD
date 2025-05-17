@@ -260,10 +260,10 @@ Bien avant de nous atteler aux analyses plus poussées comme les algorithmes de 
 Nous avons tout d'abord examiné la répartition des espèces "Top 1" en Europe du Sud-Ouest. Ce que nous appelons le "Top 1" est l'espèce qui apparait en tête des scores prédits par l'algorithme de l'application après que la photographie a été prise. Cette position traduit la certitude de l'IA en la reconnaissance de l'espèce et s'il s'avère que c'est la bonne prédiction alors cela reflète également la qualité des prédictions pour cette espèce. Nous allons considérer dans un premier temps qu'il s'agit là de la vérité observée, la bonne espèce photographiée, et étudions sa répartition :
 
 \begin{figure}[H]
-\centering
-\includegraphics[width=\linewidth]{images/figure1.jpg}
-\caption{Histogramme du nombre d'observations par espèce avec les 10 espèces les plus observées et 4 des moins observées}
-\label{fig1}
+    \centering
+    \includesvg[width=\linewidth]{images/figure1.svg}
+    \caption{Histogramme du nombre d'observations par espèce avec les 10 espèces les plus observées et 4 des moins observées}
+    \label{fig1}
 \end{figure}
 
 Comme le montre la \autoref{fig1}, les espèces "Top 1" les plus fréquentes, dont nous allons dire qu'elles sont les plus fréquemment photographiées par les utilisaeur de Pl@ntNet, sont essentiellement des arbres vivaces, certains fruitiers, ou des fleurs comestibles, aux propriétés curatives et qui peuvent être aperçues dans toute la zone géographique étudiée. Le \textit{Prunus Spinosa L.} ou, plus communément, prunellier, arrive en tête des observations, suivi par d'autres espèces communes comme le \textit{Fagus Sylvatica L.} (hêtre commun) ou encore le \textit{Corylus avellana L.} (noisetier commun). Cette distribution n'est pas surprenante puisqu'elle reflète à la fois l'abondance de ces espèces dans l'écosystème méditerranéen et l'intérêt qu'elle suscite auprès du grand public, soit pour leur valeur décorative, soit pour leurs usages alimentaires ou médicinaux.
@@ -331,9 +331,9 @@ Plusieurs facteurs peuvent expliquer la variabilité observée dans les scores d
 Les espèces associées aux probabilités "Top 1" ne sont pas systématiquement celles choisies par l'observateur, qui peut décider de désigner une espèce de probabilités plus faibles également proposées par l'IA ou opter pour une tout autre espèce. Des utilisateurs n'ayant pas observé eux-mêmes, sur place, peuvent également choisir une espèce à l'instar de l'observateur. Nous avons admis par vote majoritaire que l'observateur a plus de poids que les autres votants, sauf si les votants externes sont plus nombreux à valider une réponse qui diffère de l'observateur. Nous allons étudier un échantillon de $67 461$ observations (environ un centième des données totales). Observons sur cet échantillon les différences entre le "Top 1" (\ref{fig1}) et le vote majoritaire.
 
 \begin{figure}[H]
-\centering
-\includegraphics[width=\linewidth]{images/figure3.jpg}
-\caption{Histogramme du nombre d'observations par espèce avec les 10 espèces les plus choisies et 4 des moins choisies}
+    \centering
+    \includesvg[width=\linewidth]{images/figure3.svg}
+    \caption{Histogramme du nombre d'observations par espèce avec les 6 espèces les plus choisies et 4 des moins choisies}
 \end{figure}
 
 \vspace{0.2cm}

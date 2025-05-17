@@ -5,6 +5,7 @@ library(tibble)
 library(knitr)
 library(grid)
 library(purrr)
+library(gt)
 library(plotly)
 library(htmlwidgets)
 set.seed(9204)
@@ -327,7 +328,7 @@ p1bis <- ggplot(count_df, aes(x = count_by, y = n)) +
 plot(p1bis)
 
 
-top_plants <- merged_df %>% top_n(10, count)
+top_plants <- merged_df %>% top_n(6, count)
 
 p1 <- ggplot(top_plants, aes(x = reorder(name, count), y = count, fill = name)) +
   geom_bar(stat = "identity", fill = '#b4a7d5ff') +
