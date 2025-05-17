@@ -31,7 +31,7 @@
 
 % Informations du document
 
-\title{Projet Pl@ntnet}
+\title{Projet Pl@ntNet}
 \author{Émilie Aigoin}
 \date{January 2025}
 
@@ -95,11 +95,11 @@ Les travaux de recherche sur l'identification automatique des plantes ont consid
 
 \vspace{0.2cm}
 
-Garantir la fiabilité des prédictions reste effectivement un défi majeur. Les données collectées, bien que nombreuses, peuvent être de qualité variable en raison des conditions de prise de vue (lumière, angle, netteté), de la diversité des espèces et de l'expertise variable des contributeurs. Pour améliorer la précision de l'application, il ne suffit pas d’optimiser la classification : nous devons également quantifier l’incertitude des prédictions et adapter dynamiquement la sortie du modèle en fonction du niveau de confiance.
+Garantir la fiabilité des prédictions et simplifier les sorties utilisateurs reste effectivement un défi majeur. Les données collectées, bien que nombreuses, peuvent être de qualité variable en raison des conditions de prise de vue (lumière, angle, netteté), de la diversité des espèces et de l'expertise variable des contributeurs. Pour améliorer la précision de l'application, il ne suffit pas d’optimiser la classification : nous devons également quantifier l’incertitude des prédictions et adapter dynamiquement la sortie du modèle en fonction du niveau de confiance demandé par l'utilisateur.
 
 \vspace{0.2cm}
 
-Dans ce travail, nous nous sommes intégrées au projet Pl@ntNet avec un objectif précis : améliorer la fiabilité des prédictions en les rendant adaptatives. Plutôt que de fournir une unique réponse avec une probabilité associée, notre objectif était de générer un ensemble de prédictions dont la probabilité de contenir la bonne espèce atteint un niveau de garantie satisfaisant (fixé comme étant $95\%$). Cet ensemble doit être le plus restreint possible pour éviter les suggestions inutiles, tout en s'ajustant automatiquement en fonction de la difficulté de l’identification : être plus précis pour les cas évidents et plus large pour les situations ambiguës.
+Dans ce travail, nous nous sommes intégrées au projet Pl@ntNet avec un objectif précis : améliorer la fiabilité des prédictions en les rendant adaptatives. Plutôt que de fournir une unique réponse avec une probabilité associée ou de fournir un nombre de réponses trop important qui noie l'utilisateur sous trop d'informations, notre objectif était de générer un ensemble de prédictions dont la probabilité de contenir la bonne espèce atteint un niveau de garantie satisfaisant (fixé comme étant $95\%$). Cet ensemble doit être le plus restreint possible pour éviter les suggestions inutiles, tout en s'ajustant automatiquement en fonction de la difficulté de l’identification : être plus précis pour les cas évidents et plus large pour les situations ambiguës.
 
 \vspace{0.2cm}
 
@@ -107,7 +107,7 @@ Pour répondre à cette problématique, nous avons utilisé la prédiction confo
 
 \vspace{0.2cm}
 
-Dans la suite de ce rapport, nous détaillerons notre approche en commençant par une présentation approfondie de l'application Pl@ntnet et des données utilisées, suivie d'analyses statistiques descriptives. Nous introduirons ensuite le cadre théorique de la prédiction conforme avant de présenter notre méthodologie, nos résultats principaux et leurs implications pour l'amélioration de l'application.
+Dans la suite de ce rapport, nous détaillerons notre approche en commençant par une présentation approfondie de l'application Pl@ntNet et des données utilisées, suivie d'analyses statistiques descriptives. Nous introduirons ensuite le cadre théorique de la prédiction conforme avant de présenter notre méthodologie, nos résultats principaux et leurs implications pour l'amélioration de l'application.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -116,13 +116,13 @@ Dans la suite de ce rapport, nous détaillerons notre approche en commençant pa
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\subsection{Application Pl@ntnet}
+\subsection{Application Pl@ntNet}
 
 Pl@ntNet est un projet de sciences participatives accessible sous forme d’application mobile gratuite, mais également via une \href{https://identify.plantnet.org/fr}{interface en ligne}. Développé conjointement par l'Institut National de Recherche Informatique et Automatique (INRIA), le Centre de coopération International en Recherche Agronomique (CIRAD) et l'Institut de Recherche pour le Développement (IRD), ce projet a été lancé en $2009$ et recense plus de $20$ millions d'utilisateurs dans le monde en $2024$. 
 
 \vspace{0.2cm}
 
-Son objectif principal est d'aider le grand public et les professionnels à identifier les espèces végétales à partir de photographies. L'application s'appuie sur des algorithmes d'intelligence artificielle qui analysent les caractéristiques visuelles des plantes (écorce, feuilles, fruits, fleurs, etc.) pour proposer des identifications. Au-delà de la reconnaissance des plantes, Pl@ntnet permet également de cartographier la distribution géographique des espèces végétales en fonction de la localisation des photographies partagées par les utilisateurs.
+Son objectif principal est d'aider le grand public et les professionnels en botanique à identifier les espèces végétales à partir de photographies. L'application s'appuie sur des algorithmes d'intelligence artificielle qui analysent les caractéristiques visuelles des plantes (écorce, feuilles, fruits, fleurs, etc.) pour proposer des identifications. Au-delà de la reconnaissance des plantes, Pl@ntNet permet également de cartographier la distribution géographique des espèces végétales en fonction de la localisation des photographies partagées par les utilisateurs.
 
 \vspace{0.2cm}
 
@@ -144,11 +144,11 @@ Toutes les interactions entre les utilisateurs et le système (incluant les imag
 
 \subsection{Présentation du jeu de données}
 
-Notre étude s'est appuyée sur plusieurs jeux de données issus de Pl@ntnet, chacun présentant des caractéristiques spécifiques en termes de taille, de structure et de variables.
+Notre étude s'est appuyée sur plusieurs jeux de données issus de Pl@ntNet, chacun présentant des caractéristiques spécifiques en termes de taille, de structure et de variables.
 
 \vspace{0.2cm}
 
-Dans un premier temps, nous nous sommes familiarisées avec le jeu de données principal Pl@ntnet-CrowdSWE (pour South-West Europe), comprenant $\num{6 699 593}$ observations d'espèces végétales situées en Europe du Sud-Ouest. Ces observations ont été réalisées par $\num{823 251}$ utilisateurs de l'application Pl@ntNet, parmi lesquels nous distinguons deux catégories : 
+Dans un premier temps, nous nous sommes familiarisées avec le jeu de données principal Pl@ntNet-CrowdSWE (pour South-West Europe), comprenant $\num{6 699 593}$ observations d'espèces végétales situées en Europe du Sud-Ouest. Ces observations ont été réalisées par $\num{823 251}$ utilisateurs de l'application Pl@ntNet, parmi lesquels nous distinguons deux catégories : 
 \begin{itemize}
     \item \textbf{Les experts :} au nombre de $98$, ce sont des botanistes professionnels ou des amateurs très expérimentés dont nous admettons la véracité des identifications.
     \item \textbf{Les non-experts :} constituent la majorité des contributeurs et comprennent tous les utilisateurs novices en botanique.
@@ -181,7 +181,7 @@ Le tableau ci-dessous résume les principales caractéristiques de ce jeu de don
 \centering
 \begin{tabular}{|l|r|}
     \hline
-    Caractéristique & Valeur \\
+    \textbf{Caractéristique} & \textbf{Valeur} \\
     \hline
     Zone géographique  & Europe du Sud-Ouest  \\
     Nombre d'observations & $\num{6 699 593}$  \\
@@ -262,11 +262,11 @@ Nous avons tout d'abord examiné la répartition des espèces "Top 1" en Europe 
 \begin{figure}[H]
 \centering
 \includegraphics[width=\linewidth]{images/figure1.jpg}
-\label{fig1}
 \caption{Histogramme du nombre d'observations par espèce avec les 10 espèces les plus observées et 4 des moins observées}
+\label{fig1}
 \end{figure}
 
-Comme le montre la figure \ref{fig1}, les espèces "Top 1" les plus fréquentes, dont nous allons dire qu'elles sont les plus fréquemment photographiées par les utilisaeur de Pl@ntNet, sont essentiellement des arbres vivaces, certains fruitiers, ou des fleurs comestibles, aux propriétés curatives et qui peuvent être aperçues dans toute la zone géographique étudiée. Le \textit{Prunus Spinosa L.} ou, plus communément, prunellier, arrive en tête des observations, suivi par d'autres espèces communes comme le \textit{Fagus Sylvatica L.} (hêtre commun) ou encore le \textit{Corylus avellana L.} (noisetier commun). Cette distribution n'est pas surprenante puisqu'elle reflète à la fois l'abondance de ces espèces dans l'écosystème méditerranéen et l'intérêt qu'elle suscite auprès du grand public, soit pour leur valeur décorative, soit pour leurs usages alimentaires ou médicinaux.
+Comme le montre la \autoref{fig1}, les espèces "Top 1" les plus fréquentes, dont nous allons dire qu'elles sont les plus fréquemment photographiées par les utilisaeur de Pl@ntNet, sont essentiellement des arbres vivaces, certains fruitiers, ou des fleurs comestibles, aux propriétés curatives et qui peuvent être aperçues dans toute la zone géographique étudiée. Le \textit{Prunus Spinosa L.} ou, plus communément, prunellier, arrive en tête des observations, suivi par d'autres espèces communes comme le \textit{Fagus Sylvatica L.} (hêtre commun) ou encore le \textit{Corylus avellana L.} (noisetier commun). Cette distribution n'est pas surprenante puisqu'elle reflète à la fois l'abondance de ces espèces dans l'écosystème méditerranéen et l'intérêt qu'elle suscite auprès du grand public, soit pour leur valeur décorative, soit pour leurs usages alimentaires ou médicinaux.
 
 \vspace{0.2cm}
 
@@ -394,7 +394,7 @@ La prédiction conforme, que nous allons introduire dans la section suivante, of
 
 \subsection{Prédiction conforme}
 
-La prédiction conforme est un cadre statistique qui permet de quantifier l'incertitude des prédictions faites par des algorithmes d'apprentissage automatique, y compris les réseaux de neurones utilisés dans Pl@ntnet. Contrairement aux autres approches comme le bootstrap qui reposent sur des hypothèses paramétriques, la prédiction conforme offre des garanties de couverture valables même pour des échantillons de taille finie, sans hypothèses fortes sur la distribution des données (\cite{ShaferVovk}).
+La prédiction conforme est un cadre statistique qui permet de quantifier l'incertitude des prédictions faites par des algorithmes d'apprentissage automatique, y compris les réseaux de neurones utilisés dans Pl@ntNet. Contrairement aux autres approches comme le bootstrap qui reposent sur des hypothèses paramétriques, la prédiction conforme offre des garanties de couverture valables même pour des échantillons de taille finie, sans hypothèses fortes sur la distribution des données (\cite{ShaferVovk}).
 
 \vspace{0.2cm}
 
@@ -571,7 +571,7 @@ Pour le calcul concret du quantile, nous avons utilisé la fonction quantile de 
 \centering
     \begin{tabular}{|l|c|}
         \hline
-        Configuration & Quantile calculé \\
+        \textbf{Configuration} & \textbf{Quantile calculé} \\
         \hline
         Score $s_1$ + données non expertes & $0.9990$ \\
         Score $s_1$ + données expertes & $0.9649$ \\
@@ -580,7 +580,7 @@ Pour le calcul concret du quantile, nous avons utilisé la fonction quantile de 
         \hline
         \end{tabular}
     \caption{Configuration des scores et des données avec les résultats de leurs quantiles}
-    \label{fig: scores et quantiles}
+    \label{tab: scores et quantiles}
 \end{table}
 
 \vspace{0.2cm}
@@ -589,34 +589,47 @@ Ces quantiles sont des seuils critiques : un score élevé indique une faible co
 
 \vspace{0.2cm}
 
-Analysons le tableau : 
+?? 4 graphiques des quantiles ??
+
+\vspace{0.2cm}
+
+Analysons le \autoref{tab: scores et quantiles} ainsi que les graphiques associés : 
 
 \begin{itemize}
-    \item \textbf{Score s1 (non experts) :} ce seuil de plus de $0,99$ est très élevé et suggère une distribution asymétrique des scores, où la grande majorité des observations non expertes présentent des valeurs inférieures à ce seuil. Cela pourrait s'expliquer par une tendance des utilisateurs non experts à identifier principalement des espèces que l'algorithme reconnaît avec une forte confiance, ou à valider systématiquement les propositions de rang élevé du système.
+    \item \textbf{Score s1 (non experts) :} ce seuil de plus de $0,99$ est très élevé et montre que notre groupe de test ne se comporte donc pas comme notre groupe de calibration. Il suggère une distribution asymétrique des scores, où la grande majorité des observations non expertes présentent des valeurs inférieures à ce seuil. Cela pourrait s'expliquer par une tendance des utilisateurs non experts à identifier principalement des espèces que l'algorithme reconnaît avec une forte confiance, ou à valider systématiquement les propositions de rang élevé du système.
     \item \textbf{Score s1 (experts) :} un seuil de $0,96$ et donc plus bas que les non-experts, ce qui indique que les experts sont davantage susceptibles d'identifier correctement des espèces pour lesquelles l'algorithme présente une confiance moindre, ce qui semble cohérent avec leur niveau de compétence en botanique.
-    \item \textbf{Score s2 (non experts) :} la transition vers le score cumulatif APS entraîne une baisse importante du quantile jusqu'à $0,76$. Cette différence avec $s_1$ montre que la prise en compte du rang de la vraie classe et des probabilités cumulées des classes plus fortement prédites produit une distribution plus équilibrée des scores.
+    \item \textbf{Score s2 (non experts) :} la transition vers le score cumulatif APS entraîne une baisse importante du quantile. Cette différence avec $s_1$ montre que la prise en compte du rang de la vraie classe et des probabilités cumulées des classes plus fortement prédites produit une distribution plus équilibrée des scores.
     \item \textbf{Score s2 (experts) :} le plus bas des quatre seuils avec une valeur de $0,56$, ce qui indique que les experts identifient généralement des espèces qui apparaissent dans les premiers rangs des prédictions de l'algorithme. Cette valeur proche de $0,5$ est particulièrement intéressante car elle suggère que, pour les experts, la vraie espèce figure souvent parmi les premières propositions du système, totalisant environ la moitié de la masse de probabilité.
 \end{itemize}
 
-\subsubsection{Calcul des autres variables}
+\vspace{0.2cm}
+
+Une fois ces quantiles obtenus, nous avons pu les utiliser afin de tester la validité de notre modèle.
+
+\subsubsection{Test sur nos données expertes}
 
 Pour évaluer l'efficacité de notre approche de prédiction conforme, nous avons mesuré deux métriques principales sur nos ensembles de test que sont le taux de couverture et leur taille moyenne. 
 
 \vspace{0.2cm}
 
-Le taux de couverture représente la proportion des observations pour lesquelles la vraie classe est incluse dans l'ensemble de prédiction. Idéalement, ce taux devrait être supérieur ou égal à $1- \alpha$, c'est-à-dire à $95\%$.
+Le taux de couverture représente la proportion des observations pour lesquelles la vraie classe est incluse dans l'ensemble de prédiction, c'est-à-dire que nous avons conservé toutes les classes pour lesquelles leur probabilité était supérieure à $1 -$ quantile. Idéalement, ce taux devrait être aux alentours de $1- \alpha$, c'est-à-dire à $95\%$.
 
 \vspace{0.2cm}
 
-De plus, nous avons calculé la taille moyenne des ensembles de prédiction, qui correspond au nombre moyen de classes incluses dans les ensembles de prédiction. Pour une meilleure expérience utilisateur, cette taille doit être aussi petite que possible tout en maintenant le taux de couverture cible.
+De plus, nous avons calculé la taille moyenne des ensembles de prédiction, qui correspond au nombre moyen de classes proposées pour chaque observation. Pour une meilleure expérience utilisateur, cette taille doit être le plus proche de $1$ possible tout en maintenant le taux de couverture cible (optimalité quand l'intelligence artificielle propose une seule espèce de plante et qu'elle est correcte).
 
 \vspace{0.2cm}
 
 Les résultats que nous avons obtenus seront détaillés dans la partie suivante, afin de pouvoir comparer nos modèles en même temps.
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \section{Résultats et discussion}
 
-Après avoir défini notre méthodologie et implémenté les algorithmes correspondants, nous avons procédé à l'évaluation systématique des quatre configurations décrites précédemment à l'aide des variables calculées. Cette section présente les résultats obtenus, analyse leurs implications en pratique et discute de la généralisation de notre approche à l'ensemble des données Pl@ntnet.
+Après avoir défini notre méthodologie et implémenté les algorithmes correspondants, nous avons procédé à l'évaluation systématique des quatre configurations décrites précédemment à l'aide des variables calculées. Cette section présente les résultats obtenus, analyse leurs implications en pratique et discute de la généralisation de notre approche à l'ensemble des données Pl@ntNet.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsection{Analyse comparative}
 
@@ -626,12 +639,12 @@ Après avoir défini notre méthodologie et implémenté les algorithmes corresp
 \centering
 \begin{tabular}{|c|c|c|c|}
     \hline
-    Configuration & Taux de couverture & Taille moyenne & Taille médiane \\
+    \textbf{Configuration} & \textbf{Taux de couverture} & \textbf{Taille moyenne} & \textbf{Taille médiane} \\
     \hline
-    $s_1$ + non expert & $100\%$ & $0.3188$ & $0.2128$ \\
-    $s_1$ + expert & $94.82\%$ & $0.2819$ & $0.1957$ \\
-    $s_2$ + non expert & $97.92\%$ & $0.0423$ & $0$ \\
-    $s_2$ + expert & $94.91\%$ & $0.0231$ & $0$ \\
+    $s_1$ + non expert & $100\%$ & $15.47$ & $10$ \\
+    $s_1$ + expert & $94.82\%$ & $2.134$ & $2$ \\
+    $s_2$ + non expert & $97.92\%$ & $1.113$ & $1$ \\
+    $s_2$ + expert & $94.91\%$ & $0.896$ & $1$ \\
     \hline
     \end{tabular}
 \caption{Configuration et caractéristiques obtenues (couverture, tailles moyenne et médiane)}
@@ -647,6 +660,8 @@ Analysons le tableau :
     \item \textbf{Zéros dans la médiane ($s_2$) :} la médiane nulle pour les modèles basés sur $s_2$ ne signifie pas que les ensembles de prédiction sont vides, mais reflète au contraire une très bonne performance de l'algorithme. En effet, dans un grand nombre de cas, la classe correcte est prédite en première position, ce qui donne un score cumulatif de non-conformité nul. Cela témoigne du fait que, dans ces cas, l'ensemble de prédiction contient uniquement la première classe proposée, ce qui est optimal à la fois en termes de concision et de précision.
 \end{itemize}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \subsection{Validation statistique des taux de couverture (test du $\chi^2$)}
 
 Afin de confirmer si les taux de couverture observés respectaient réellement la garantie théorique de $95\%$, nous avons appliqué un test statistique du Chi-deux ($\chi^2$) d’adéquation pour chaque méthode. L’hypothèse nulle $H_0$ stipule que le taux de couverture est égal à $95\%$ contre l'hypothèse $H_1$ qui stipule que le taux de couverture est différent de $95\%$. Voici un résumé des résultats obtenus pour chaque configuration :
@@ -655,12 +670,12 @@ Afin de confirmer si les taux de couverture observés respectaient réellement l
     \centering
     \begin{tabular}{|l|c|c|c|c|}
         \hline
-        \textbf{Configuration} & \textbf{Couverture observée} & \textbf{Statistique $\chi^2$} & \textbf{Test} & \textbf{Conclusion} \\
+        \textbf{Configuration} & \textbf{Statistique $\chi^2$} & \textbf{Test} & \textbf{Conclusion} \\
         \hline
-        $s_1$ + non expert & $100\%$ & $753.03$ & $> 3.8415$ & Rejet de $H_0$ (trop élevée) \\
-        $s_1$ + expert & $94.82\%$ & $1.05$ & $< 3.8415$  & Conserve $H_0$ \\
-        $s_2$ + non expert & $97.92\%$ & $282.54$ & $> 3.8415$ & Rejet de $H_0$ \\
-        $s_2$ + expert & $94.91\%$ & $2.09$ & $< 3.8415$ & Conserve $H_0$ \\
+        $s_1$ + non expert & $753.03$ & $> 3.8415$ & Rejet de $H_0$ (trop élevée) \\
+        $s_1$ + expert & $1.05$ & $< 3.8415$  & Conserve $H_0$ \\
+        $s_2$ + non expert & $282.54$ & $> 3.8415$ & Rejet de $H_0$ \\
+        $s_2$ + expert & $2.09$ & $< 3.8415$ & Conserve $H_0$ \\
         \hline
     \end{tabular}
     \caption{Résumé des tests de $\chi^2$}
@@ -668,6 +683,8 @@ Afin de confirmer si les taux de couverture observés respectaient réellement l
 \end{table}
 
 Ces résultats montrent que lorsque la calibration est effectuée sur des données non expertes, la couverture obtenue est significativement trop élevée, trahissant une surestimation du quantile. À l’inverse, les calibrations effectuées sur des données expertes respectent bien la garantie de $95\%$ et passent le test sans rejeter $H_0$, validant ainsi la bonne calibration.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsection{Analyse de la robustesse au tirage aléatoire (graine de séparation)}
 
@@ -699,9 +716,11 @@ Les taux de couverture obtenus varient très peu selon le choix de la graine uti
 
 Nous pouvons remarquer que les résultats sont robustes au split aléatoire des données expertes. Donc le choix de la graine n’affecte pas significativement les taux de couverture, ce qui confirme que la calibration sur une moitié raisonnablement tirée des experts donne des résultats stables.
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \subsection{Perspectives d'intégration dans l'application}
 
-L'intégration de notre système de prédiction conforme dans l'application Pl@ntnet nécessiterait quelques ajustements supplémentaires :
+L'intégration de notre système de prédiction conforme dans l'application Pl@ntNet nécessiterait quelques ajustements supplémentaires :
 \begin{itemize}
     \item \textbf{Calcul en temps réel} : notre approche actuelle, basée sur des calculs de quantiles préalables, pourrait être adaptée pour permettre un calcul en temps réel des ensembles de prédiction pour chaque nouvelle observation soumise par un utilisateur.
     \item \textbf{Mise à jour périodique} : les quantiles utilisés pour déterminer les seuils de décision devraient être recalculés périodiquement (par exemple, mensuellement) pour refléter l'évolution du modèle de base et des distributions de probabilités qu'il génère.
@@ -717,7 +736,7 @@ Si le temps l'avait permis, nous aurions souhaité développer un exemple d'inte
 
 \section{Conclusion}
 
-Dans ce projet, nous avons abordé la problématique de l'incertitude dans l'identification automatique des plantes, un défi majeur pour l'application Pl@ntnet qui repose sur des données collectées par une vaste communauté d'utilisateurs aux expertises avérées. Notre approche s'est articulée autour de la prédiction conforme, un cadre statistique qui permet de transformer des sorties probabilistes d'un modèle de classification en ensembles de prédiction dotés de garanties de couverture.
+Dans ce projet, nous avons abordé la problématique de l'incertitude dans l'identification automatique des plantes, un défi majeur pour l'application Pl@ntNet qui repose sur des données collectées par une vaste communauté d'utilisateurs aux expertises avérées. Notre approche s'est articulée autour de la prédiction conforme, un cadre statistique qui permet de transformer des sorties probabilistes d'un modèle de classification en ensembles de prédiction dotés de garanties de couverture.
 
 \vspace{0.2cm}
 
@@ -725,7 +744,7 @@ Dans ce projet, nous avons abordé la problématique de l'incertitude dans l'ide
 
 \vspace{0.2cm}
 
-Cette approche présente plusieurs avantages par rapport au système actuel de Pl@ntnet, notamment parce qu'elle fournit une garantie statistique que la vraie espèce est incluse dans l'ensemble des suggestions avec une probabilité d'au moin $95\%$. De plus, elle réduit le nombre de suggestions dans les cas faciles, tout en élargissant les propositions dans les cas ambigus pour maintenir la garantie de couverture.
+Cette approche présente plusieurs avantages par rapport au système actuel de Pl@ntNet, notamment parce qu'elle fournit une garantie statistique que la vraie espèce est incluse dans l'ensemble des suggestions avec une probabilité d'au moin $95\%$. De plus, elle réduit le nombre de suggestions dans les cas faciles, tout en élargissant les propositions dans les cas ambigus pour maintenir la garantie de couverture.
 
 \vspace{0.2cm}
 
