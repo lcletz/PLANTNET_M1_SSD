@@ -29,7 +29,7 @@ test_scores = [v["one_minus_prob"][0] for v in expert_data_full
 
 # 4. Tester la conformité
 results = [
-    ("conforme" if score <= quantile2 else "non conforme", score)
+    ("conforme" if score < quantile2 else "non conforme", score)
     for score in test_scores
 ]
 
@@ -50,14 +50,13 @@ with open("expert_scores2.json", "r", encoding="utf-8") as f:
 quantile2
 
 # Extraire les scores correctement
-non_conformes = {plante: valeurs["one_minus_prob"][0] for plante, valeurs in data.items() if valeurs["one_minus_prob"][0] > quantile2}
+non_conformes = {plante: valeurs["one_minus_prob"][0] for plante, valeurs in data.items() if valeurs["one_minus_prob"][0] >= quantile2}
 
 # Afficher les résultats
 print("Plantes non conformes :", non_conformes)
 print("Nombre total de plantes non conformes :", len(non_conformes))  
 
-# Visualisation
-# %%
+# %% # Visualisation
 import json
 import pandas as pd
 import plotly.express as px
@@ -78,57 +77,69 @@ df2 = pd.DataFrame({
 })
 
 # Déterminer la conformité par rapport au quantile
-df2["Conforme"] = df2["Score_s1"] <= quantile2
+df2["Conforme"] = df2["Score_s1"] < quantile2
 
-# Créer le scatter plot avec les couleurs demandées
-fig = px.scatter(
+# Histogramme
+fig = px.histogram(
     df2,
     x="Score_s1",
-    y=df2.index,
     color="Conforme",
-    color_discrete_map={True: "#B08FC7", False: "#FF69B4"},  
-    hover_data=["Plante_ID"],
-    title="Method2 : s1 + expert",
-    labels={"Score_s1": "Score de non-conformité s1", "index": "Index plante"}
+    nbins=30,
+    color_discrete_sequence=["#B08FC7", "#FF69B4"],
+    title="s1 + expert",
+    labels={"Score_s1"}
 )
 
-# Ajouter la ligne rouge du quantile
 fig.add_vline(
     x=quantile2,
     line_dash="dash",
     line_color="red",
-    annotation_text=f"Quantile 95% = {quantile2:.4f}",
-    annotation_position="top left",  
+    annotation_text=f"Quantile 95% = {quantile2:.3f}",
+    annotation_position="top left",
+    annotation_font_size=12
 )
 
 fig.update_layout(
-    xaxis=dict(range=[0, 1.1]),
-    yaxis_title="Plants tested",
-    xaxis_title="Score s1",
+    width=800,
+    height=500,
+    bargap=0.1,
+    xaxis=dict(
+        title="Score de non-conformité s1",
+        tickformat=".2f",
+        range=[0, 1],
+        tick0=0,
+        dtick=0.2
+    ),
+    yaxis=dict(
+        title="Nombre de plantes",
+        tickmode="auto"  
+    ),
     showlegend=True
 )
 
+fig.update_layout(margin=dict(l=60, r=30, t=50, b=60))
+
 fig.show()
 
-# Enregistrement PNG statique
-fig.write_image("graphique_method2.png")
+# Sauvegarde
+fig.write_image("histogramme_method2.png")
+fig.write_image("histogramme_method2.svg")
 
-# %% 
-# Calcul du pourcentage de plantes conformes
+# %% Calcul du pourcentage de plantes conformes
 nb_total2 = len(df2)
 nb_conformes2 = df2["Conforme"].sum()
 taux_couverture2 = (nb_conformes2 / nb_total2) * 100
 print(f"\nTaux de couverture (méthode 2, s1) : {taux_couverture2:.2f}% ({nb_conformes2} sur {nb_total2})")
 
 # Filtrer les scores en dessous ou égaux au quantile
-scores_sous_quantile2 = [s for s in df2["Score_s1"] if s <= quantile2]
+scores_sous_quantile2 = [s for s in df2["Score_s1"] if s < quantile2]
 
 # Calcul de la moyenne et de la médiane
 moyenne2 = np.mean(scores_sous_quantile2)
 mediane2 = np.median(scores_sous_quantile2)
 
-print(f"Taille des données ≤ quantile : {len(scores_sous_quantile2)}")
-print(f"Taille moyenne des scores ≤ quantile : {moyenne2:.4f}")
-print(f"Taille médiane des scores ≤ quantile : {mediane2:.4f}")
+print(f"Taille des données inférieures au quantile : {len(scores_sous_quantile2)}")
+print(f"Score moyen des données inférieures au quantile : {moyenne2:.4f}")
+print(f"Score médian des données inférieures au quantile : {mediane2:.4f}")
 
 # %%
