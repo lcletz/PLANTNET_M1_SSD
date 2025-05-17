@@ -135,7 +135,7 @@ nb_conformes3 = df3["Conforme"].sum()
 taux_couverture3 = (nb_conformes3 / nb_total3) * 100
 print(f"\nTaux de couverture (méthode 3, s2) : {taux_couverture3:.2f}% ({nb_conformes3} sur {nb_total3})")
 
-# Filtrer les scores en dessous ou égaux au quantile
+# Filtrer les scores en dessous du quantile
 scores_sous_quantile3 = [s for s in df3["Score_s2"] if s < quantile3]
 
 # Calcul de la moyenne et de la médiane

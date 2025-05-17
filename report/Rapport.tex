@@ -628,10 +628,10 @@ Après avoir défini notre méthodologie et implémenté les algorithmes corresp
     \hline
     Configuration & Taux de couverture & Taille moyenne & Taille médiane \\
     \hline
-    $s_1$ + non expert & $100\%$ & $0.3188$ & $0.2128$ \\
-    $s_1$ + expert & $94.82\%$ & $0.2819$ & $0.1957$ \\
-    $s_2$ + non expert & $97.92\%$ & $0.0423$ & $0$ \\
-    $s_2$ + expert & $94.91\%$ & $0.0231$ & $0$ \\
+    $s_1$ + non expert & $96.45\%$ & $19.00$ & $10.00$ \\
+    $s_1$ + expert & $94.82\%$ & $2.13$ & $2.00$ \\
+    $s_2$ + non expert & $97.92\%$ & $1.11$ & $1.00$ \\
+    $s_2$ + expert & $94.91\%$ & $0.89$ & $1.00$ \\
     \hline
     \end{tabular}
 \caption{Configuration et caractéristiques obtenues (couverture, tailles moyenne et médiane)}
@@ -657,9 +657,9 @@ Afin de confirmer si les taux de couverture observés respectaient réellement l
         \hline
         \textbf{Configuration} & \textbf{Couverture observée} & \textbf{Statistique $\chi^2$} & \textbf{Test} & \textbf{Conclusion} \\
         \hline
-        $s_1$ + non expert & $100\%$ & $753.03$ & $> 3.8415$ & Rejet de $H_0$ (trop élevée) \\
+        $s_1$ + non expert & $96.45\%$ & $87.25$ & $> 3.8415$ & Rejet de $H_0$ \\
         $s_1$ + expert & $94.82\%$ & $1.05$ & $< 3.8415$  & Conserve $H_0$ \\
-        $s_2$ + non expert & $97.92\%$ & $282.54$ & $> 3.8415$ & Rejet de $H_0$ \\
+        $s_2$ + non expert & $97.92\%$ & $282.54$ & $> 3.8415$ & Rejet de $H_0$ (trop élevée) \\
         $s_2$ + expert & $94.91\%$ & $2.09$ & $< 3.8415$ & Conserve $H_0$ \\
         \hline
     \end{tabular}
@@ -679,7 +679,7 @@ Pour vérifier si la division aléatoire des données influençait les performan
         \hline
         \textbf{Configuration} & \textbf{Graine $42$} & \textbf{Graine $123$} & \textbf{Graine $545$} & \textbf{Ecart-max} \\
         \hline
-        $s_1$ + non expert & $100\%$ & $100\%$ & $100\%$ & $0\%$ \\
+        $s_1$ + non expert & $96.45\%$ & $96.52\%$ & $96.66\%$ & $0.21\%$ \\
         $s_1$ + expert & $94.82\%$ & $94.95\%$ & $95.14\%$ & $0.32\%$ \\
         $s_2$ + non expert & $97.92\%$ & $98.02\%$ & $97.91\%$ & $0.11\%$ \\
         $s_2$ + expert & $94.91\%$ & $95.08\%$ & $94.91\%$ & $0.17\%$ \\
