@@ -562,7 +562,7 @@ Une fois les données divisées, l'étape suivante a consisté à calculer les q
 
 \vspace{0.2cm}
 
-Pour chaque configuration, nous avons commencé par récupérer les scores pour chaque observation du jeu de calibration que nous avons précédemment calculé. Puis, nous avons calculé le quantile $\frac{[(n+1)(1 - \alpha)]}{n}$, où $\alpha = 0,05$ représente notre niveau d'erreur souhaité et $n$ est le nombre d'observations dans notre ensemble d'apprentissage. Enfin, nous avons implémenté une fonction qui, pour toute nouvelle observation, calcule les scores de non-conformité pour chaque classe possible et inclut dans l'ensemble de prédiction toutes les classes dont le score est inférieur au quantile calculé précédemment.
+Pour chaque configuration, nous avons commencé par récupérer les scores pour chaque observation du jeu de calibration que nous avons précédemment calculé. Puis, nous avons calculé le quantile à l'aide de la formule suivante : $$\frac{[(n+1)(1 - \alpha)]}{n}, \quad \text{avec } \alpha = 0,05$$ avec $\alpha$ qui représente notre niveau d'erreur souhaité et $n$ le nombre d'observations dans notre ensemble d'apprentissage. Enfin, nous avons implémenté une fonction qui, pour toute nouvelle observation, calcule les scores de non-conformité pour chaque classe possible et inclut dans l'ensemble de prédiction toutes les classes dont le score est inférieur au quantile calculé précédemment.
 
 \vspace{0.2cm}
 
@@ -649,23 +649,24 @@ Après avoir défini notre méthodologie et implémenté les algorithmes corresp
     \hline
     \end{tabular}
 \caption{Configuration et caractéristiques obtenues (couverture, tailles moyenne et médiane)}
+\label{tab3}
 \end{table}
     
-Ces résultats révèlent plusieurs tendances importantes concernant l'effet du score choisi ($s_1$ ou $s_2$) et de la nature des données de calibration (expertes vs non-expertes) sur les performances finales du modèle.
+Ces résultats révèlent plusieurs tendances importantes concernant l'effet du score choisi ($s_1$ vs $s_2$) et de la nature des données de calibration (expertes vs non-expertes) sur les performances finales du modèle.
 
-Analysons le tableau : 
+\vspace{0.2cm}
 
-\begin{itemize}
-    \item \textbf{Score $s_1$ vs score $s_2$ :} le passage de $s_1$ à $s_2$ entraîne une réduction significative de la taille moyenne et médiane des ensembles de prédiction, sans affecter drastiquement le taux de couverture. Cela indique que $s_2$ permet de construire des ensembles plus compacts (donc plus utiles pour l'utilisateur) tout en maintenant un bon niveau de fiabilité.
-    \item \textbf{Influence des données de calibration :} les configurations basées sur les données non-expertes ont tendance à produire des ensembles de prédiction légèrement plus larges, ce qui est cohérent avec le fait qu’elles compensent une calibration moins précise par une plus grande prudence. Les calibrations avec données expertes produisent des ensembles plus serrés, reflétant une meilleure qualité de calibration malgré la taille d’échantillon plus réduite.
-    \item \textbf{Zéros dans la médiane ($s_2$) :} la médiane nulle pour les modèles basés sur $s_2$ ne signifie pas que les ensembles de prédiction sont vides, mais reflète au contraire une très bonne performance de l'algorithme. En effet, dans un grand nombre de cas, la classe correcte est prédite en première position, ce qui donne un score cumulatif de non-conformité nul. Cela témoigne du fait que, dans ces cas, l'ensemble de prédiction contient uniquement la première classe proposée, ce qui est optimal à la fois en termes de concision et de précision.
-\end{itemize}
+Les configurations basées sur les données non-expertes ont tendance à produire des ensembles de prédiction légèrement plus larges que ce que nous avions comme objectif, ce qui pourrait indiquer que les scores de test (experts) ne se comporte pas de la même manière que ceux de la calibration (non experts). Les calibrations avec données expertes respectent le taux de couverture que nous nous étions fixé (de $95\%$), reflétant une meilleure qualité de calibration malgré la taille d’échantillon plus réduite. Nous vérifierons si les hypothèses de similarité des échantillons de calibrations et de tests sont respectés à l'aide d'un test du Chi-deux, plus tard dans notre rapport.
+
+\vspace{0.2cm}
+
+Si on cherche à comparer nos deux scores, nous pouvons voir qu'il y a une différence au niveau de la taille moyenne et médiane des ensembles de prédiction. En effet, on voit que les tailles sont plus faible lorsque nous utilisons le deuxième score sans affecter drastiquement le taux de couverture. Cela indique que $s_2$ permet de construire des ensembles plus compacts tout en maintenant un bon niveau de fiabilité. Cependant, le fait que la taille moyenne du score cumulatif et de la calibration sur les données expertes soit inférieure à $1$ et non et non experte soit égale à $1,11$ nous indique qu'il y a un grand nombre de cas où l'algorithme ne sort aucune prédiction à l'utilisateur et c'est un problème car l'objectif est d'être précis mais également d'apporter une réponse à l'utilisateur. Cela laisse à penser que le quantile est trop faible et donc ne propose pas de réponses avec un probabilité moyenne même si c'est la plus élevée.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsection{Analyse de la robustesse au tirage aléatoire (graine de séparation)}
 
-Pour vérifier si la division aléatoire des données influençait les performances, nous avons répété notre expérience avec plusieurs graines ($123$ et $545$). Les résultats présentés ci-dessus proviennent de la graine $42$. Les performances obtenues pour les méthodes calibrées sont présentées ci-dessous :
+Pour vérifier si la division aléatoire des données a influencé les performances, nous avons répété notre expérience avec plusieurs autres graines ($123$ et $545$). Les résultats présentés dans le \autoref{tab3} ci-dessus proviennent de la graine $42$. Les performances obtenues pour les méthodes calibrées sont présentées ci-dessous :
 
 \begin{table}[h]
     \centering
@@ -683,19 +684,15 @@ Pour vérifier si la division aléatoire des données influençait les performan
     \label{tab:couvertures_graines}
 \end{table}
 
-Les taux de couverture obtenus varient très peu selon le choix de la graine utilisée pour couper les données expertes :
+Les taux de couverture obtenus varient très peu selon le choix de la graine utilisée pour couper les données expertes. En effet, nous observons un écart maximal observé de $0.32\%$. De plus, les méthodes calibrées sur les non-experts restent systématiquement au-dessus de $95\%$ et les méthodes calibrées sur les experts restent très proches de $95\%$, sans variation notable.
 
-\begin{itemize}
-    \item L’écart maximal observé est de $0.32\%$.
-    \item Les méthodes calibrées sur les non-experts restent systématiquement au-dessus de $95\%$.
-    \item Les méthodes calibrées sur les experts restent très proches de $95\%$, parfois un peu en-dessous ou un peu au-dessus, mais sans variation notable.
-\end{itemize}
+\vspace{0.2cm}
 
-Nous pouvons remarquer que les résultats sont robustes au split aléatoire des données expertes. Donc le choix de la graine n’affecte pas significativement les taux de couverture, ce qui confirme que la calibration sur une moitié raisonnablement tirée des experts donne des résultats stables.
+Donc nous pouvons remarquer que les résultats sont robustes au split aléatoire des données expertes. Ainsi, le choix de la graine n’affecte pas significativement les taux de couverture, ce qui confirme que la calibration sur une moitié raisonnablement tirée des experts donne des résultats stables.
 
 \subsection{Validation statistique des taux de couverture (test du $\chi^2$)}
 
-Afin de confirmer si les taux de couverture observés respectaient réellement la garantie théorique de $95\%$, nous avons appliqué un test statistique du Chi-deux ($\chi^2$) d’adéquation pour chaque méthode. L’hypothèse nulle $H_0$ stipule que le taux de couverture est égal à $95\%$ contre l'hypothèse $H_1$ qui stipule que le taux de couverture est différent de $95\%$. Voici un résumé des résultats obtenus pour chaque configuration :
+Afin de confirmer si les taux de couverture observés respectaient réellement la garantie théorique de $95\%$, nous avons appliqué un test statistique du Chi-deux ($\chi^2$) d’adéquation pour chaque méthode. L’hypothèse nulle $(H_0)$ stipule que le taux de couverture est égal à $95\%$ contre l'hypothèse $(H_1)$ qui stipule que le taux de couverture est différent de $95\%$. Le seuil que nous appliquons ici pour déterminer si nous conservons ou rejetons $(H_0)$ est de $3,8415$. Voici un résumé des résultats obtenus pour chaque configuration :
 
 \begin{table}[H]
     \centering
@@ -703,9 +700,9 @@ Afin de confirmer si les taux de couverture observés respectaient réellement l
         \hline
         \textbf{Configuration} & \textbf{Statistique $\chi^2$} & \textbf{Test} & \textbf{Conclusion} \\
         \hline
-        $s_1$ + non expert & $87.25$ & $> 3.8415$ & Rejet de $H_0$ \\
+        $s_1$ + non expert & $87.25$ & $> 3.8415$ & Rejet de $H_0$ (supérieure au seuil) \\
         $s_1$ + expert & $1.05$ & $< 3.8415$  & Conserve $H_0$ \\
-        $s_2$ + non expert & $282.54$ & $> 3.8415$ & Rejet de $H_0$ (trop élevée) \\
+        $s_2$ + non expert & $282.54$ & $> 3.8415$ & Rejet de $H_0$ (supérieure au seuil) \\
         $s_2$ + expert & $2.09$ & $< 3.8415$ & Conserve $H_0$ \\
         \hline
     \end{tabular}
@@ -713,24 +710,41 @@ Afin de confirmer si les taux de couverture observés respectaient réellement l
     \label{tab:Tests du Chi-2}
 \end{table}
 
-Ces résultats montrent que lorsque la calibration est effectuée sur des données non expertes, la couverture obtenue est significativement trop élevée, trahissant une surestimation du quantile. À l’inverse, les calibrations effectuées sur des données expertes respectent bien la garantie de $95\%$ et passent le test sans rejeter $H_0$, validant ainsi la bonne calibration.
+Ces résultats montrent que, lorsque la calibration est effectuée sur des données non expertes, la couverture obtenue est significativement trop élevée, trahissant une surestimation du quantile. À l’inverse, les calibrations effectuées sur des données expertes respectent bien la garantie de $95\%$ et passent le test sans rejeter $H_0$, validant ainsi la bonne calibration.
 
 \subsection{Perspectives d'intégration dans l'application}
 
-L'intégration de notre système de prédiction conforme dans l'application Pl@ntNet nécessiterait quelques ajustements supplémentaires :
-\begin{itemize}
-    \item \textbf{Calcul en temps réel} : notre approche actuelle, basée sur des calculs de quantiles préalables, pourrait être adaptée pour permettre un calcul en temps réel des ensembles de prédiction pour chaque nouvelle observation soumise par un utilisateur.
-    \item \textbf{Mise à jour périodique} : les quantiles utilisés pour déterminer les seuils de décision devraient être recalculés périodiquement (par exemple, mensuellement) pour refléter l'évolution du modèle de base et des distributions de probabilités qu'il génère.
-    \item \textbf{Interface utilisateur} : la présentation des résultats pourrait être adaptée pour expliquer clairement aux utilisateurs la nature adaptative des suggestions et la garantie statistique associée.
-\end{itemize}
+\subsubsection{Implémentation dans l'application}
+
+L'objectif de ce travail est de rendre l'utilisation de l'application bien plus pratique pour les utilisateurs. Cela peut se faire grâce à plusieurs ajustements.
 
 \vspace{0.2cm}
 
-Si nous intégrions notre travail à partir du quantile que nous avons calculé à l'aide du deuxième score (score cumulatif) sur les données expertes, nous aurions obtenu, si nous reprennons l'exemple de la \autoref{fig:prediction_sets}, alors nous obtiendrons une taille de $1$ seule espèce prédite pour chacune des observations. Cela s'explique par le fait qu'il n'y a que la première prédiction dont la probabilité était supérieure à $1 - 0,5614$. Cependant, pour la dernière plante, étant donné que la photographie est de mauvaise qualité, ce n'est pas la bonne espèce qui est prédite (elle fait partie de $5\%$ d'erreur).
+Dans un premier temps, nous pourrions nous baser sur les quantiles que nous avons calculé (avec le deuxième score et les données expertes) afin de ne conserver que les prédictions d'espèces dont la probabilité dépasse le $1 -$ quantile. Ainsi, l'utilisateur aurait un nombre d'espèce proposées bien moins important et il lui serait plus facile et plus rapide de vérifier quelle proposition lui semble adéquat avec la plante qui se trouve devant lui.
+
+\vspace{0.2cm}
+
+Si nous reprennons l'exemple de la \autoref{fig:prediction_sets}, alors nous obtiendrons une taille de $1$ seule espèce prédite pour chacune des observations. Cela s'explique par le fait qu'il n'y a que la première prédiction dont la probabilité était supérieure à $1 - 0,5614$. Cependant, pour la dernière plante, étant donné que la photographie est de mauvaise qualité, ce n'est pas la bonne espèce qui est prédite (elle fait partie de $5\%$ d'erreur).
+
+\vspace{0.2cm}
+
+Dans un second temps, il serait intéressant que l'utilisateur puisse choisir le teux de couverture qu'il souhaite en fonction de la situation dans laquelle il se trouve, et donc, en fonction de ce qu'il choisit, que le nombre d'espèces proposées s'adapte. 
+
+\vspace{0.2cm}
+
+Par exemple, un utilisateur pressé pourrait vouloir un taux de couverture de $90\%$ (donc un quantile relativement faible), c'est-à-dire ne pas être certain d'avoir la bonne espèce mais avoir un nombre de proposition limité (seulement celles avec une probabilité $> 1 -$ quantile). D'un autre côté, un utilisateur qui veut absolument savoir précisément quelle plante il a devant lui pourrait sélectionner un taux de couverture de $99\%$ (donc un quantile très élevé), c'est-à-dire qu'il aura un nombre d'espèce élevé (même celles avec des faibles probabilité), ainsi il pourra vérifier à la main quelle plante il pense avoir devant lui et toutes celles probables lui seront proposées.
 
 \vspace{0.2cm}
 
 Si le temps l'avait permis, nous aurions souhaité développer un exemple d'interface utilisateur intégrant notre système de prédiction conforme, afin de démontrer concrètement l'amélioration potentielle de l'expérience utilisateur.
+
+\subsubsection{Ouverture}
+
+Si nous devions donner des perspectives d'amélioration à notre travail, il aurait été intéressant de calculer un quantile pour chaque espèce ou, au moins, pour chaque famille de plante. En effet, le taux de couverture de $95\%$ est une moyenne globale mais, étant donné que nous avons énormément de plantes, il se pourrait que certaines espèces soient bien plus faciles à reconnaître et donc que leur quantile soit bien plus élevé que certaines plantes peu observées ou difficiles à reconnaître. Ainsi, cela permettrait de pouvoir encore plus adapter le nombre de prédictions en fonction de l'observation.
+
+\vspace{0.2cm}
+
+De plus, nos calculs pourraient être effectués pour les données provenant d'autres régions du monde et plus uniquement sur les données d'Europe du Sud-Ouest que nous avons traitées.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -749,11 +763,7 @@ Cette approche présente plusieurs avantages par rapport au système actuel de P
 
 \vspace{0.2cm}
 
-Nos expériences ont démontré la supériorité du score ?? par rapport à ??, ainsi que l'importance de la qualité des données de calibration. La configuration combinant le score ?? avec une calibration sur données ?? a produit les résultats les plus convaincants, avec une taille moyenne d'ensemble de prédiction de ??, tout en maintenant le taux de couverture au-dessus de $95\%$.
-
-\vspace{0.2cm}
-
-Bien que le traitement de l'intégralité des $7$ millions d'observations ait posé des défis techniques nécessitant plusieurs jours de calcul, les résultats préliminaires sur notre échantillon démontrent la faisabilité de nos modèles.
+Nos expériences ont démontré l'importance de la qualité des données de calibration. La configuration combinant le score de la vraie classe avec une calibration sur données expertes a produit les résultats les plus convaincants, avec une taille médiane d'ensemble de prédiction de , tout en maintenant le taux de couverture au-dessus de $95\%$.
 
 \vspace{0.2cm}
 
@@ -761,16 +771,13 @@ De plus, les tests statistiques ont confirmé que les calibrations basées sur l
 
 \vspace{0.2cm}
 
-Ce projet ouvre plusieurs perspectives intéressantes pour des travaux futurs :
-
-\begin{itemize}
-    \item L'exploration d'autres fonctions de score potentiellement plus performantes.
-    \item L'adaptation de notre approche pour prendre en compte d'autres types d'incertitude, comme l'incertitude liée à la qualité des images ou à la variabilité saisonnière des caractéristiques morphologiques.
-\end{itemize}
+Ce projet ouvre plusieurs perspectives intéressantes pour des travaux futurs, notamment l'élargissement de nos travaux aux données d'autres secteurs géographiques, l'intégration de notre travail pour améliorer l'interface utilisateur dans l'application ainsi que l'adaptation des quantiles à des espèces ou des familles d'espèces.
 
 \vspace{0.2cm}
 
 En conclusion, notre étude démontre le potentiel de la prédiction conforme pour améliorer la fiabilité et l'expérience utilisateur des systèmes d'identification automatique des plantes, et plus généralement, de tout système de classification automatique confronté à des données de qualité variable et à des situations d'ambiguïté naturelle.
+
+\newpage
 
 \printbibliography
 
