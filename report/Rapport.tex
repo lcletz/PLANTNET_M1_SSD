@@ -90,11 +90,11 @@ Sous la direction (ou co-direction) de \\ \vspace{0.2cm}
 
 \section{Introduction}
 
-La reconnaissance des plantes est une problématique clé en botanique, avec des applications directes dans la conservation de la biodiversité, la gestion des écosystèmes ou encore la culture personnelle. Parmi les initiatives les plus importantes dans ce domaine, le projet Pl@ntNet joue un rôle central en proposant une application de reconnaissance automatique des plantes basée sur des données collectées par les utilisateurs. Cette approche de science participative permet de constituer une base de données massive et diversifiée de plus de $6$ millions d'observations pour la seule région de l'Europe du Sud-Ouest, impliquant plus de $\num{800000}$ contributeurs et couvrant plus de $\num{17000}$ espèces végétales. Ce qui est essentiel pour entraîner et affiner les modèles de classification.
+La reconnaissance des plantes est une problématique clé en botanique, avec des applications directes dans la conservation de la biodiversité, la gestion des écosystèmes ou encore la culture personnelle. Parmi les initiatives les plus importantes dans ce domaine, le projet Pl@ntNet joue un rôle central en proposant une application de reconnaissance automatique des plantes basée sur des données collectées par les utilisateurs. Cette approche de science participative permet de constituer une base de données massive et diversifiée de plus de $6$ millions d'observations pour la seule région de l'Europe du Sud-Ouest (SWE), impliquant plus de $\num{800000}$ contributeurs et couvrant plus de $\num{17000}$ espèces végétales. Ce qui est essentiel pour entraîner et affiner les modèles de classification.
 
 \vspace{0.2cm}
 
-Les travaux de recherche sur l'identification automatique des plantes ont considérablement évolué ces dernières années. Initialement, les efforts se sont concentrés sur la comparaison des approches algorithmiques pour maximiser la performance (comme en témoignent les challenges Pl@ntCLEF), puis sur la comparaison avec l'expertise humaine \cite{Bonnet}. La stratégie dominante consistait alors à accumuler un maximum de données sur un maximum d'espèces pour améliorer l'apprentissage. Cependant, avec l'augmentation constante du nombre d'espèces à identifier et la rareté des données pour la majorité d'entre elles, les performances des systèmes atteignent aujourd'hui certaines limites. Dans ce contexte, quantifier et gérer l'incertitude des prédictions devient un enjeu majeur pour continuer à améliorer les systèmes d'identification automatique des plantes.
+Les travaux de recherche sur l'identification automatique des plantes ont considérablement évolué ces dernières années. Initialement, les efforts se sont concentrés sur la comparaison des approches algorithmiques pour maximiser la performance (comme en témoignent les challenges Pl@ntCLEF), puis sur la comparaison avec l'expertise humaine (\cite{Bonnet}). La stratégie dominante consistait alors à accumuler un maximum de données sur un maximum d'espèces pour améliorer l'apprentissage. Cependant, avec l'augmentation constante du nombre d'espèces à identifier et la rareté des données pour la majorité d'entre elles, les performances des systèmes atteignent aujourd'hui certaines limites. Dans ce contexte, quantifier et gérer l'incertitude des prédictions devient un enjeu majeur pour continuer à améliorer les systèmes d'identification automatique des plantes.
 
 \vspace{0.2cm}
 
@@ -106,7 +106,7 @@ Dans ce travail, nous nous sommes intégrées au projet Pl@ntNet avec un objecti
 
 \vspace{0.2cm}
 
-Pour répondre à cette problématique, nous avons utilisé la prédiction conforme, une approche statistique permettant de transformer les sorties probabilistes d'un modèle de classification en ensembles de prédiction avec des garanties de couverture. Contrairement aux méthodes classiques, la prédiction conforme offre des garanties valides même pour des échantillons de taille finie et sans hypothèses fortes sur la distribution des données \cite{Angelopoulos}.
+Pour répondre à cette problématique, nous avons utilisé la prédiction conforme, une approche statistique permettant de transformer les sorties probabilistes d'un modèle de classification en ensembles de prédiction avec des garanties de couverture. Contrairement aux méthodes classiques, la prédiction conforme offre des garanties valides même pour des échantillons de taille finie et sans hypothèses fortes sur la distribution des données (\cite{Angelopoulos}).
 
 \vspace{0.2cm}
 
@@ -205,7 +205,7 @@ Ces données sont réparties dans $7$ fichiers au format JSON (JavaScript Object
 
 \vspace{0.2cm}
 
-Dans un deuxième temps, nous avons travaillé avec un échantillon plus restreint de $\num{67 466}$ observations afin de faciliter le développement et les tests de nos algorithmes, permettant une exécution plus rapide qu'avec l'ensemble complet des $7$ millions de données. Cette approche nous a permit d'itérer efficacement sur nos modèles avant de les généraliser, dans un dernier temps, sur l'intégralité du jeu de données.
+Dans un deuxième temps, nous avons travaillé avec un échantillon plus restreint de $\num{67 466}$ observations afin de faciliter le développement et les tests de nos algorithmes, permettant une exécution plus rapide qu'avec l'ensemble complet des $7$ millions de données. Cette approche nous a permis d'itérer efficacement sur nos modèles avant de les généraliser, dans un dernier temps, sur l'intégralité du jeu de données.
 
 \vspace{0.2cm}
 
@@ -265,7 +265,7 @@ Nous avons tout d'abord examiné la répartition des espèces "Top 1" en Europe 
 \begin{figure}[H]
     \centering
     \includesvg[width=\linewidth]{images/figure1.svg}
-    \caption{Histogramme du nombre d'observations par espèce avec les 10 espèces les plus observées et 4 des moins observées}
+    \caption{Histogramme du nombre d'observations par espèce avec les 10 espèces les plus observées et 5 des moins observées}
     \label{fig1}
 \end{figure}
 
@@ -273,7 +273,7 @@ Comme le montre la \autoref{fig1}, les espèces "Top 1" les plus fréquentes, do
 
 \vspace{0.2cm}
 
-À l'autre extrémité, les espèces les moins observées (avec parfois une seule occurrence dans la base) correspondent généralement à des plantes rares, présentes dans des zones très restreintes ou éloignées de l'Europe du Sud-Ouest, ou simplement moins reconnaissables et moins intéressantes aux yeux du public. Nous comptons par exemple le \textit{Pavonia Spinifex (L.) Cav.} (\autoref{fig:prunus}), un arbuste à fleurs jaunes originaire des Caraïbes, le \textit{Citrus paradisi Macfad.}, communément nommé "pomélo" originaire d'Amérique du Nord ou le \textit{Teucrium murcicum Sennen}, une toute petite herbe méditerranéenne.
+À l'autre extrémité, les espèces les moins observées (avec une seule occurrence dans la base) correspondent généralement à des plantes rares, présentes dans des zones très restreintes ou éloignées de l'Europe du Sud-Ouest, ou simplement moins reconnaissables et moins intéressantes aux yeux du public. Nous comptons par exemple le \textit{Pavonia Spinifex (L.) Cav.} (\autoref{fig:prunus}), un arbuste à fleurs jaunes originaire des Caraïbes, le \textit{Citrus paradisi Macfad.}, communément nommé "pomélo" originaire d'Amérique du Nord ou le \textit{Teucrium murcicum Sennen}, une toute petite herbe méditerranéenne.
 
 \subsubsection{Relation entre fréquence d'observation et probabilités}
 
@@ -290,7 +290,7 @@ Au-delà de la simple fréquence d'apparition de ces espèces, qui semble seulem
 \caption{Nuages de points de la moyenne des scores ou des scores max en fonction du nombre d'observations}
 \end{figure}
 
-Ces deux graphes, comptant chacun 2000 observations sélectionnées aléatoirement, révèlent plusieurs phénomènes intéressants.
+Ces deux graphes, comptant chacun $\num{2000}$ observations sélectionnées aléatoirement, révèlent plusieurs phénomènes intéressants.
 
 \vspace{0.2cm}
 
@@ -332,7 +332,7 @@ Plusieurs facteurs peuvent expliquer la variabilité observée dans les scores d
 
 \subsubsection{Impact du choix de l'utilisateur}
 
-Les espèces associées aux probabilités "Top 1" ne sont pas systématiquement celles choisies par l'observateur, qui peut décider de désigner une espèce de probabilités plus faibles également proposées par l'IA ou opter pour une tout autre espèce. Des utilisateurs n'ayant pas observé eux-mêmes, sur place, peuvent également choisir une espèce à l'instar de l'observateur. Nous avons admis par vote majoritaire que l'observateur a plus de poids que les autres votants. Nous allons étudier un échantillon de $\num{67 461}$ observations (environ un centième des données totales). Observons sur cet échantillon les différences entre le "Top 1" (\autoref{fig1}) et le vote majoritaire (\autoref{fig4}).
+Les espèces associées aux probabilités "Top 1" ne sont pas systématiquement celles choisies par l'observateur, qui peut décider de désigner une espèce de probabilité plus faible également proposée par l'IA ou opter pour une tout autre espèce. Des utilisateurs n'ayant pas observé eux-mêmes, sur place, peuvent également choisir une espèce à l'instar de l'observateur. Nous avons admis l'espèce correcte par vote majoritaire où l'observateur a plus de poids que les autres votants. Nous allons étudier un échantillon de $\num{67 461}$ observations (environ un centième des données totales). Observons sur cet échantillon les différences entre le "Top 1" (\autoref{fig1}) et le vote majoritaire (\autoref{fig4}).
 
 \begin{figure}[H]
     \centering
@@ -364,7 +364,7 @@ Puisque l'échantillon étudié est moins conséquent que celui de la première 
 
 \vspace{0.2cm}
 
-La Mauve, choisie plus de $200$ fois dans cet échantillon, possède en moyenne une probabilité assez basse. Cela suggère qu'elle n'a pas toujours été l'espèce Top $1$ mais qu'elle a tout de même été validée par l'observateur ou par les votants à la majorité. Les quelques fois où elle a été la première proposition de l'algorithme a entrainé le choix de l'observateur à opter pour cette espèce, c'est après tout une plante d'une couleur intense et d'une forme assez particulière que l'observateur a pu remarquer.
+La Mauve, choisie plus de $200$ fois dans cet échantillon, possède en moyenne une probabilité assez basse. Cela suggère qu'elle n'a pas toujours été l'espèce Top $1$ mais qu'elle a tout de même été validée par l'observateur ou par les votants à la majorité. Lorsqu'elle a été proposée par l'algorithme, même si elle n'était pas en première position ni avec une probabilité élevée, l'observateur a toutefois opté pour cette espèce. Cela pourrait s'expliquer par le fait que cette plante est d'une couleur intense et d'une forme assez particulière que l'observateur a pu remarquer et facilement reconnaître.
 
 \vspace{0.2cm}
 
@@ -372,7 +372,7 @@ Une des plantes n'ayant été choisie qu'une seule fois dans cet échantillon es
 
 \vspace{0.2cm}
 
-Outre ces deux espèces, nous remarquons qu'il y a plusieurs espèces aux scores très proches de $0$ qui ont été choisies, soit parce que l'IA n'était pas confiante et a proposée de nombreuses options ayant des probabilités minimes, soit parce que les votants ont eux-mêmes été chercher une espèce en particulier parmi les espèces les moins évidentes selon l'IA.
+Outre ces deux espèces, nous remarquons qu'il y a plusieurs espèces aux scores très proches de $0$ qui ont été choisies, soit parce que l'intelligence artificielle n'était pas confiante et a proposée de nombreuses options ayant des probabilités minimes, soit parce que les votants ont choisi une espèce en particulier parmi les espèces les moins évidentes selon l'IA.
 
 %%%%% MALVA SYLVESTRIS : https://identify.plantnet.org/k-world-flora/species/Malva%20sylvestris%20L./data#galleries %%%%%
 %%%%% DAPHNE STRIATA : https://identify.plantnet.org/fr/k-world-flora/species/Daphne%20striata%20Tratt./data#galleries %%%%%
@@ -444,7 +444,7 @@ La prédiction conforme est un cadre statistique qui permet de quantifier l'ince
                 \footnotesize Daphne mezereum L. & \footnotesize 0,0040 \\
                 \footnotesize Daphne alpina L. & \footnotesize 0,0033 \\
                 \footnotesize Daphne laureola L. & \footnotesize 0,0012 \\
-                \footnotesize Hyacinthus orientalis & \footnotesize 0.0011
+                \footnotesize Hyacinthus orientalis & \footnotesize 0,0011
             \end{array} \right\} \]
         \end{minipage}
     \end{tabular}
@@ -510,7 +510,7 @@ Le score $s_2$ présente l'avantage de produire des ensembles de prédiction don
 
 \subsubsection{Spécificités de notre approche}
 
-Dans le contexte de notre projet sur Pl@ntent, nous avons dû adapter la méthode standard pour tenir compte de plusieurs spécificités.
+Dans le contexte de notre projet sur Pl@ntNet, nous avons dû adapter la méthode standard pour tenir compte de plusieurs spécificités.
 
 \vspace{0.2cm}
 
@@ -538,10 +538,10 @@ Au-delà de la définition théorique des scores de non-conformité, nous avons 
 
 Notre stratégie de division s'articule autour de deux critères principaux : l'expertise des utilisateurs et le type de score utilisé. Cette approche nous a conduit à créer quatre configurations distinctes : 
 \begin{itemize}
-    \item \textbf{Modèle $1$ :} score $s_1$ (probabilité de la vraie classe) avec calibration sur toutes les données non-expertes et test sur la moitié des données expertes.
-    \item \textbf{Modèle $2$ :} score $s_1$ avec calibration sur la moitié des données expertes et test sur l'autre moitié des données expertes.
-    \item \textbf{Modèle $3$ :} score $s_2$ (score cumulatif APS) avec calibration sur toutes les données non-expertes et test sur la moitié des données expertes.
-    \item \textbf{Modèle $4$ :} score $s_2$ avec calibration sur la moitié des données expertes et test sur l'autre moitié des données expertes.
+    \item \textbf{Configuration $1$ :} score $s_1$ (probabilité de la vraie classe) avec calibration sur toutes les données non-expertes et test sur la moitié des données expertes.
+    \item \textbf{Configuration $2$ :} score $s_1$ avec calibration sur la moitié des données expertes et test sur l'autre moitié des données expertes.
+    \item \textbf{Configuration $3$ :} score $s_2$ (score cumulatif APS) avec calibration sur toutes les données non-expertes et test sur la moitié des données expertes.
+    \item \textbf{Configuration $4$ :} score $s_2$ avec calibration sur la moitié des données expertes et test sur l'autre moitié des données expertes.
 \end{itemize}
 
 \vspace{0.2cm}
@@ -550,7 +550,7 @@ Nous avons représenté cette configuration comme suit :
 \begin{figure}[H]
     \centering
     \includegraphics[scale=0.6]{images/Models.png}
-    \caption{Représentation de nos quatre modèles}
+    \caption{Représentation de nos quatre configurations}
     \label{models}
   \end{figure}
 
@@ -602,17 +602,13 @@ Ces quantiles sont des seuils critiques : un score élevé indique une faible co
         \includesvg[width=1.2\linewidth]{images/quantiles.svg}
     }
     \captionsetup{skip=-20pt}
-    \caption{Conservation des observations en fonction des quantiles des méthodes}
+    \caption{Conservation des observations en fonction des quantiles des configurations}
     \label{fig:quantiles}
 \end{figure}
 
-Analysons le \autoref{tab: scores et quantiles} ainsi que la \autoref{fig:quantiles} associée :
-
-\vspace{0.2cm}
-
-Le tableau met en évidence les quantiles obtenus selon différentes configurations :
+Analysons le \autoref{tab: scores et quantiles} ainsi que la \autoref{fig:quantiles} associée. Le tableau met en évidence les quantiles obtenus selon différentes configurations :
 \begin{itemize}
-    \item \textbf{Score s1 + données non expertes :} quantile le plus élevé ($0,9990$), traduisant une approche plus permissive qui conserve presque toutes les observations (mis à part celles pour lesquelles nous avons attribuée un score de $0,0001$ car elles n'avaient pas la bonne étiquette de proposée).
+    \item \textbf{Score s1 + données non expertes :} quantile le plus élevé ($0,9990$), traduisant une approche plus permissive qui conserve presque toutes les observations (mis à part celles pour lesquelles nous avons attribuée un score de $0,001$ car elles n'avaient pas la bonne étiquette de proposée).
     \item \textbf{Score s1 + données expertes :} quantile de $0,9649$, témoignant d’une amélioration en termes de sélectivité avec un peu plus d'observations non prises en compte.
     \item \textbf{Score s2 + données non expertes :} $0,7538$ pour le quantile, soit une baisse importante par rapport à la méthode précédente.
     \item \textbf{Score s2 + données expertes :} quantile de $0,5614$, ce qui indique une approche plus stricte, réduisant les incertitudes.
@@ -624,12 +620,12 @@ Ces résultats soulignent le rôle des quantiles comme seuil critique dans la pr
 
 \vspace{0.2cm}
 
-Les \autoref{fig:quantiles} illustre la répartition des observations testées selon les scores s1 et s2, en distinguant les données expertes et non expertes.
+La \autoref{fig:quantiles} illustre la répartition des observations testées selon les scores $s_1$ et $s_2$, en distinguant les données expertes et non expertes.
 L’axe des abscisses représente les types de score, tandis que l’axe des ordonnées indique les observations testées issues de notre jeu de test. La ligne rouge en pointillé marque le seuil du quantile. Les couleurs différenciées permettent de visualiser la conformité des observations : en violet les observations conformes, en rose celles jugées non conformes.
 
 \vspace{0.2cm}
 
-L’analyse montre que le score s2 tend à réduire la proportion d’observations acceptées, en particulier lorsqu’il est appliqué aux données expertes. Cela suggère une méthode plus rigoureuse, favorisant un filtrage plus strict.
+L’analyse montre que le score $s_2$ tend à réduire la proportion d’observations acceptées, en particulier lorsqu’il est appliqué aux données expertes. Cela suggère une méthode plus rigoureuse, favorisant un filtrage plus strict.
 
 \vspace{0.2cm}
 
@@ -641,7 +637,7 @@ Une fois ces quantiles obtenus, nous avons pu les utiliser afin de tester la val
 
 \subsubsection{Test sur nos données expertes}
 
-Pour évaluer l'efficacité de notre approche de prédiction conforme, nous avons mesuré deux métriques principales sur nos ensembles de test que sont le taux de couverture et leur taille moyenne. 
+Pour évaluer l'efficacité de notre approche de prédiction conforme, nous avons mesuré deux métriques principales sur nos ensembles de test que sont le taux de couverture et leurs tailles (moyenne et médiane). 
 
 \vspace{0.2cm}
 
@@ -649,7 +645,7 @@ Le taux de couverture représente la proportion des observations pour lesquelles
 
 \vspace{0.2cm}
 
-De plus, nous avons calculé la taille moyenne des ensembles de prédiction, qui correspond au nombre moyen de classes proposées pour chaque observation. Pour une meilleure expérience utilisateur, cette taille doit être le plus proche de $1$ possible tout en maintenant le taux de couverture cible (optimalité quand l'intelligence artificielle propose une seule espèce de plante et qu'elle est correcte).
+De plus, nous avons calculé la taille moyenne des ensembles de prédiction, qui correspond au nombre moyen de classes proposées pour chaque observation. Pour une meilleure expérience utilisateur, cette taille doit être le plus proche possible de $1$ tout en maintenant le taux de couverture cible (optimalité quand l'intelligence artificielle propose une seule espèce de plante et qu'elle est correcte).
 
 \vspace{0.2cm}
 
@@ -670,7 +666,7 @@ Après avoir défini notre méthodologie et implémenté les algorithmes corresp
 
 \begin{table}[H]
 \centering
-\begin{tabular}{|c|c|c|c|}
+\begin{tabular}{|l|c|c|c|}
     \hline
     \textbf{Configuration} & \textbf{Taux de couverture} & \textbf{Taille moyenne} & \textbf{Taille médiane} \\
     \hline
@@ -692,11 +688,11 @@ Les configurations basées sur les données non-expertes ont tendance à produir
 
 \vspace{0.2cm}
 
-Si on cherche à comparer nos deux scores, nous pouvons voir qu'il y a une différence au niveau de la taille moyenne et médiane des ensembles de prédiction. En effet, on voit que les tailles sont plus faible lorsque nous utilisons le deuxième score sans affecter drastiquement le taux de couverture. Cela indique que $s_2$ permet de construire des ensembles plus compacts tout en maintenant un bon niveau de fiabilité. Cependant, le fait que la taille moyenne du score cumulatif et de la calibration sur les données expertes soit inférieure à $1$ et non et non experte soit égale à $1,11$ nous indique qu'il y a un grand nombre de cas où l'algorithme ne sort aucune prédiction à l'utilisateur et c'est un problème car l'objectif est d'être précis mais également d'apporter une réponse à l'utilisateur. Cela laisse à penser que le quantile est trop faible et donc ne propose pas de réponses avec un probabilité moyenne même si c'est la plus élevée.
+Si nous cherchons à comparer nos deux scores, nous pouvons voir qu'il y a une différence au niveau de la taille moyenne et médiane des ensembles de prédiction. En effet, on voit que les tailles sont plus faible lorsque nous utilisons le deuxième score sans affecter drastiquement le taux de couverture. Cela indique que $s_2$ permet de construire des ensembles plus compacts tout en maintenant un bon niveau de fiabilité. Cependant, le fait que la taille moyenne du score cumulatif et de la calibration sur les données expertes soit inférieure à $1$ et non experte soit égale à $1,11$ nous indique qu'il y a un grand nombre de cas où l'algorithme ne sort aucune prédiction à l'utilisateur et c'est un problème car l'objectif est d'être précis mais également d'apporter une réponse à l'utilisateur. Cela laisse à penser que le quantile est trop faible et donc ne propose pas de réponses avec un probabilité moyenne même si c'est la plus élevée.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\subsection{Analyse de la robustesse au tirage aléatoire (graine de séparation)}
+\subsection{Analyse de la robustesse au tirage aléatoire}
 
 Pour vérifier si la division aléatoire des données a influencé les performances, nous avons répété notre expérience avec plusieurs autres graines ($123$ et $545$). Les résultats présentés dans le \autoref{tab3} ci-dessus proviennent de la graine $42$. Les performances obtenues pour les méthodes calibrées sont présentées ci-dessous :
 
@@ -716,7 +712,7 @@ Pour vérifier si la division aléatoire des données a influencé les performan
     \label{tab:couvertures_graines}
 \end{table}
 
-Les taux de couverture obtenus varient très peu selon le choix de la graine utilisée pour couper les données expertes. En effet, nous observons un écart maximal observé de $0.32\%$. De plus, les méthodes calibrées sur les non-experts restent systématiquement au-dessus de $95\%$ et les méthodes calibrées sur les experts restent très proches de $95\%$, sans variation notable.
+Les taux de couverture obtenus varient très peu selon le choix de la graine utilisée pour couper les données expertes. En effet, nous observons un écart maximal observé de $0,32\%$. De plus, les méthodes calibrées sur les non-experts restent systématiquement au-dessus de $95\%$ et les méthodes calibrées sur les experts restent très proches de $95\%$, sans variation notable.
 
 \vspace{0.2cm}
 
@@ -752,15 +748,15 @@ L'objectif de ce travail est de rendre l'utilisation de l'application bien plus 
 
 \vspace{0.2cm}
 
-Dans un premier temps, nous pourrions nous baser sur les quantiles que nous avons calculé (avec le deuxième score et les données expertes) afin de ne conserver que les prédictions d'espèces dont la probabilité dépasse le $1 -$ quantile. Ainsi, l'utilisateur aurait un nombre d'espèce proposées bien moins important et il lui serait plus facile et plus rapide de vérifier quelle proposition lui semble adéquat avec la plante qui se trouve devant lui.
+Dans un premier temps, nous pourrions nous baser sur les quantiles que nous avons calculé (avec le deuxième score et les données expertes) afin de ne conserver que les prédictions d'espèces dont la probabilité dépasse le $1 -$ quantile. Ainsi, l'utilisateur aurait un nombre d'espèces proposées bien moins important et il lui serait plus facile et plus rapide de vérifier quelle proposition lui semble adéquat avec la plante qui se trouve devant lui.
 
 \vspace{0.2cm}
 
-Si nous reprennons l'exemple de la \autoref{fig:prediction_sets}, alors nous obtiendrons une taille de $1$ seule espèce prédite pour chacune des observations. Cela s'explique par le fait qu'il n'y a que la première prédiction dont la probabilité était supérieure à $1 - 0,5614$. Cependant, pour la dernière plante, étant donné que la photographie est de mauvaise qualité, ce n'est pas la bonne espèce qui est prédite (elle fait partie de $5\%$ d'erreur).
+Si nous reprennons l'exemple de la \autoref{fig:prediction_sets}, alors nous obtiendrons une taille de une seule espèce prédite pour chacune des observations. Cela s'explique par le fait qu'il n'y a que la première prédiction dont la probabilité était supérieure à $1 - 0,5614$. Cependant, pour la dernière plante, étant donné que la photographie est de mauvaise qualité, ce n'est pas la bonne espèce qui est prédite (elle fait partie de $5\%$ d'erreur).
 
 \vspace{0.2cm}
 
-Dans un second temps, il serait intéressant que l'utilisateur puisse choisir le teux de couverture qu'il souhaite en fonction de la situation dans laquelle il se trouve, et donc, en fonction de ce qu'il choisit, que le nombre d'espèces proposées s'adapte. 
+Dans un second temps, il serait intéressant que l'utilisateur puisse choisir le taux de couverture qu'il souhaite en fonction de la situation dans laquelle il se trouve, et donc, en fonction de ce qu'il choisit, que le nombre d'espèces proposées s'adapte. 
 
 \vspace{0.2cm}
 
@@ -795,7 +791,7 @@ Cette approche présente plusieurs avantages par rapport au système actuel de P
 
 \vspace{0.2cm}
 
-Nos expériences ont démontré l'importance de la qualité des données de calibration. La configuration combinant le score de la vraie classe avec une calibration sur données expertes a produit les résultats les plus convaincants, avec une taille médiane d'ensemble de prédiction de , tout en maintenant le taux de couverture au-dessus de $95\%$.
+Nos expériences ont démontré l'importance de la qualité des données de calibration. La configuration combinant le score de la vraie classe avec une calibration sur données expertes a produit les résultats les plus convaincants, avec une taille médiane d'ensemble de prédiction de $2$, tout en maintenant le taux de couverture proche de $95\%$.
 
 \vspace{0.2cm}
 
@@ -808,8 +804,6 @@ Ce projet ouvre plusieurs perspectives intéressantes pour des travaux futurs, n
 \vspace{0.2cm}
 
 En conclusion, notre étude démontre le potentiel de la prédiction conforme pour améliorer la fiabilité et l'expérience utilisateur des systèmes d'identification automatique des plantes, et plus généralement, de tout système de classification automatique confronté à des données de qualité variable et à des situations d'ambiguïté naturelle.
-
-\newpage
 
 \printbibliography
 
