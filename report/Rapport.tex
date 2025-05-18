@@ -11,7 +11,9 @@
 \usepackage{amssymb}    % pour les symboles mathématiques
 \usepackage{float}      % Pour le placement précis des figures avec [H]
 \usepackage{microtype}
+\usepackage{caption}
 \usepackage{svg}
+\svgsetup{inkscape=inkscape}
 
 \usepackage{geometry}  % Pour ajuster les marges
 \geometry{top=2cm, bottom=2cm, left=2cm, right=2cm}
@@ -589,43 +591,45 @@ Pour le calcul concret du quantile, nous avons utilisé la fonction quantile de 
 
 Ces quantiles sont des seuils critiques : un score élevé indique une faible confiance, donc, pour le $s_1$, nous incluons toutes les classes dont le score est inférieur au quantile. Pour le $s_2$, nous incluons les classes jusqu'à ce que leur somme cumulée dépasse le quantile.
 
-\newpage
+\vspace{-0.4cm}
 
-\begin{figure}[htbp]
+\begin{figure}[H]
     \centering
-    \includesvg[width=0.46\textwidth]{images/graphique_methode1}\hfill
-    \includesvg[width=0.46\textwidth]{images/graphique_methode2}
-    \caption{Graphiques des deux premières configurations}
-    \label{fig:graphiques_methode1_methode2}
+    \makebox[\linewidth][c]{
+        \includesvg[width=1.2\linewidth]{images/quantiles.svg}
+    }
+    \captionsetup{skip=-20pt}
+    \caption{Conservation des observations en fonction des quantiles des méthodes}
+    \label{fig:quantiles}
 \end{figure}
 
-\begin{figure}[htbp]
-    \centering
-    \includesvg[width=0.46\textwidth]{images/graphique_methode3}\hfill
-    \includesvg[width=0.46\textwidth]{images/graphique_methode4}
-    \caption{Graphiques des deux dernières configurations}
-    \label{fig:graphiques_methode3_methode4}
-\end{figure}
-
-Analysons le \autoref{tab: scores et quantiles} ainsi que les \autoref{fig:graphiques_methode1_methode2} et \autoref{fig:graphiques_methode3_methode4} associés :
+Analysons le \autoref{tab: scores et quantiles} ainsi que la \autoref{fig:quantiles} associée :
 
 \vspace{0.2cm}
 
 Le tableau met en évidence les quantiles obtenus selon différentes configurations :
 \begin{itemize}
-    \item \textbf{Score s1 + données non expertes :} quantile le plus élevé ($0,9990$), traduisant une approche plus permissive.
-    \item \textbf{Score s1 + données expertes :} quantile de $0,9649$, témoignant d’une amélioration en termes de sélectivité.
-    \item \textbf{Score s2 + données non expertes :} $0,7538$, soit une baisse significative du quantile.
-    \item \textbf{Score s2 + données expertes :} $0,5614$, ce qui indique une approche plus stricte, réduisant les incertitudes.
+    \item \textbf{Score s1 + données non expertes :} quantile le plus élevé ($0,9990$), traduisant une approche plus permissive qui conserve presque toutes les observations (mis à part celles pour lesquelles nous avons attribuée un score de $0,0001$ car elles n'avaient pas la bonne étiquette de proposée).
+    \item \textbf{Score s1 + données expertes :} quantile de $0,9649$, témoignant d’une amélioration en termes de sélectivité avec un peu plus d'observations non prises en compte.
+    \item \textbf{Score s2 + données non expertes :} $0,7538$ pour le quantile, soit une baisse importante par rapport à la méthode précédente.
+    \item \textbf{Score s2 + données expertes :} quantile de $0,5614$, ce qui indique une approche plus stricte, réduisant les incertitudes.
 \end{itemize}
+
+\vspace{0.2cm}
 
 Ces résultats soulignent le rôle des quantiles comme seuil critique dans la prise de décision. Un quantile élevé reflète une tolérance accrue aux écarts (donc une confiance moindre dans la sélection), tandis qu’un quantile plus bas indique une sélection plus exigeante. Chaque score ajuste ainsi la sensibilité du modèle selon le type de données utilisées.
 
 \vspace{0.2cm}
 
-Les \autoref{fig:graphiques_methode1_methode2} et \autoref{fig:graphiques_methode3_methode4} illustrent la répartition des observations testées selon les scores s1 et s2, en distinguant les données expertes et non expertes.\\
-L’axe des abscisses représente les types de score, tandis que l’axe des ordonnées indique les observations testées issues de notre jeu de test. La ligne rouge en pointillé marque le seuil du quantile. Les couleurs différenciées permettent de visualiser la conformité des observations : en violet les observations conformes, en rose celles jugées non conformes.\\
-L’analyse montre que le score s2 tend à réduire la proportion d’observations acceptées, en particulier lorsqu’il est appliqué aux données expertes. Cela suggère une méthode plus rigoureuse, favorisant un filtrage plus strict.\\
+Les \autoref{fig:quantiles} illustre la répartition des observations testées selon les scores s1 et s2, en distinguant les données expertes et non expertes.
+L’axe des abscisses représente les types de score, tandis que l’axe des ordonnées indique les observations testées issues de notre jeu de test. La ligne rouge en pointillé marque le seuil du quantile. Les couleurs différenciées permettent de visualiser la conformité des observations : en violet les observations conformes, en rose celles jugées non conformes.
+
+\vspace{0.2cm}
+
+L’analyse montre que le score s2 tend à réduire la proportion d’observations acceptées, en particulier lorsqu’il est appliqué aux données expertes. Cela suggère une méthode plus rigoureuse, favorisant un filtrage plus strict.
+
+\vspace{0.2cm}
+
 En conclusion, ces résultats démontrent que le choix du score ainsi que la nature des données influencent de manière significative le processus de sélection des observations.
 
 \vspace{0.2cm}
