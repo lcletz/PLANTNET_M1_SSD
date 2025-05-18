@@ -260,7 +260,7 @@ Bien avant de nous atteler aux analyses plus poussées comme les algorithmes de 
 
 \subsubsection{Distribution des espèces observées}
 
-Nous avons tout d'abord examiné la répartition des espèces "Top 1" en Europe du Sud-Ouest. Ce que nous appelons le "Top 1" est l'espèce qui apparait en tête des scores prédits par l'algorithme de l'application après que la photographie a été prise. Cette position traduit la certitude de l'IA en la reconnaissance de l'espèce et s'il s'avère que c'est la bonne prédiction alors cela reflète également la qualité des prédictions pour cette espèce. Nous allons considérer dans un premier temps qu'il s'agit là de la vérité observée, la bonne espèce photographiée, et étudions sa répartition :
+Nous avons tout d'abord examiné la répartition des espèces "Top 1" en Europe du Sud-Ouest. Ce que nous appelons le "Top 1" est l'espèce qui apparait en tête des probabilités prédites par l'algorithme de l'application après que la photographie a été prise. Cette position traduit la certitude de l'IA en la reconnaissance de l'espèce et, s'il s'avère que c'est la bonne prédiction, alors cela reflète également la qualité des prédictions pour cette espèce. Nous allons considérer dans un premier temps qu'il s'agit là de la vérité observée, donc la bonne espèce photographiée, et étudions sa répartition :
 
 \begin{figure}[H]
     \centering
@@ -269,11 +269,11 @@ Nous avons tout d'abord examiné la répartition des espèces "Top 1" en Europe 
     \label{fig1}
 \end{figure}
 
-Comme le montre la \autoref{fig1}, les espèces "Top 1" les plus fréquentes, dont nous allons dire qu'elles sont les plus fréquemment photographiées par les utilisaeur de Pl@ntNet, sont essentiellement des arbres vivaces, certains fruitiers, ou des fleurs comestibles, aux propriétés curatives et qui peuvent être aperçues dans toute la zone géographique étudiée. Le \textit{Prunus Spinosa L.} ou, plus communément, prunellier, arrive en tête des observations, suivi par d'autres espèces communes comme le \textit{Fagus Sylvatica L.} (hêtre commun) ou encore le \textit{Corylus avellana L.} (noisetier commun). Cette distribution n'est pas surprenante puisqu'elle reflète à la fois l'abondance de ces espèces dans l'écosystème méditerranéen et l'intérêt qu'elle suscite auprès du grand public, soit pour leur valeur décorative, soit pour leurs usages alimentaires ou médicinaux.
+Comme le montre la \autoref{fig1}, les espèces "Top 1" les plus fréquentes, dont nous allons dire qu'elles sont les plus fréquemment photographiées par les utilisaeur de Pl@ntNet, sont essentiellement des arbres vivaces, certains fruitiers, ou des fleurs comestibles, aux propriétés curatives et qui peuvent être aperçues dans toute la zone géographique étudiée. Le \textit{Prunus Spinosa L.} (\autoref{fig:prunus}) ou, plus communément, prunellier, arrive en tête des observations, suivi par d'autres espèces communes comme le \textit{Fagus Sylvatica L.} (hêtre commun) ou encore le \textit{Corylus avellana L.} (noisetier commun). Cette distribution n'est pas surprenante puisqu'elle reflète à la fois l'abondance de ces espèces dans l'écosystème méditerranéen et l'intérêt qu'elle suscite auprès du grand public, soit pour leur valeur décorative, soit pour leurs usages alimentaires ou médicinaux.
 
 \vspace{0.2cm}
 
-À l'autre extrémité, les espèces les moins observées (avec parfois une seule occurrence dans la base) correspondent généralement à des plantes rares, présentes dans des zones très restreintes ou éloignées de l'Europe du Sud-Ouest, ou simplement moins reconnaissables et moins intéressantes aux yeux du public. Nous comptons par exemple le \textit{Pavonia Spinifex (L.) Cav.}, un arbuste à fleurs jaunes originaire des Caraïbes, le \textit{Citrus paradisi Macfad.}, communément nommé "pomélo" originaire d'Amérique du Nord ou le \textit{Teucrium murcicum Sennen}, une toute petite herbe méditerranéenne.
+À l'autre extrémité, les espèces les moins observées (avec parfois une seule occurrence dans la base) correspondent généralement à des plantes rares, présentes dans des zones très restreintes ou éloignées de l'Europe du Sud-Ouest, ou simplement moins reconnaissables et moins intéressantes aux yeux du public. Nous comptons par exemple le \textit{Pavonia Spinifex (L.) Cav.} (\autoref{fig:prunus}), un arbuste à fleurs jaunes originaire des Caraïbes, le \textit{Citrus paradisi Macfad.}, communément nommé "pomélo" originaire d'Amérique du Nord ou le \textit{Teucrium murcicum Sennen}, une toute petite herbe méditerranéenne.
 
 \subsubsection{Relation entre fréquence d'observation et probabilités}
 
@@ -316,6 +316,7 @@ Certaines espèces n'ayant qu'une seule observation présentent des scores très
   \includegraphics[width=0.9\linewidth]{images/pavonia_spinifex.jpeg}
 \end{minipage}
 \caption{Prunus Spinosa L. et Pavonia Spinifex (L.) Cav.}
+\label{fig:prunus}
 \end{figure}
 
 \subsubsection{Facteurs influençant la qualité des prédictions}
@@ -331,21 +332,22 @@ Plusieurs facteurs peuvent expliquer la variabilité observée dans les scores d
 
 \subsubsection{Impact du choix de l'utilisateur}
 
-Les espèces associées aux probabilités "Top 1" ne sont pas systématiquement celles choisies par l'observateur, qui peut décider de désigner une espèce de probabilités plus faibles également proposées par l'IA ou opter pour une tout autre espèce. Des utilisateurs n'ayant pas observé eux-mêmes, sur place, peuvent également choisir une espèce à l'instar de l'observateur. Nous avons admis par vote majoritaire que l'observateur a plus de poids que les autres votants, sauf si les votants externes sont plus nombreux à valider une réponse qui diffère de l'observateur. Nous allons étudier un échantillon de $67 461$ observations (environ un centième des données totales). Observons sur cet échantillon les différences entre le "Top 1" (\ref{fig1}) et le vote majoritaire.
+Les espèces associées aux probabilités "Top 1" ne sont pas systématiquement celles choisies par l'observateur, qui peut décider de désigner une espèce de probabilités plus faibles également proposées par l'IA ou opter pour une tout autre espèce. Des utilisateurs n'ayant pas observé eux-mêmes, sur place, peuvent également choisir une espèce à l'instar de l'observateur. Nous avons admis par vote majoritaire que l'observateur a plus de poids que les autres votants. Nous allons étudier un échantillon de $\num{67 461}$ observations (environ un centième des données totales). Observons sur cet échantillon les différences entre le "Top 1" (\autoref{fig1}) et le vote majoritaire (\autoref{fig4}).
 
 \begin{figure}[H]
     \centering
     \includesvg[width=\linewidth]{images/figure3.svg}
     \caption{Histogramme du nombre d'observations par espèce avec les 6 espèces les plus choisies et 4 des moins choisies}
+    \label{fig4}
 \end{figure}
 
 \vspace{0.2cm}
 
-Si \textit{Prunus Spinosa L.} est toujours présente dans ce graphique, c'est l'espèce \textit{Malva sylvestris L.}, une fleur au mauve intense, qui est en tête. Elle est donc la plus souvent choisie par les utilisateurs pour cet échantillon. Ce graphique seul indique que l'espèce prédite en première par l'intelligence artificielle, celle en qui l'algorithme est le plus confiant, n'est pas toujours ce que l'utilisateur compte choisir. Il est envisageable que les espèces proposées par l'inteligence artificielle dans son "Top K" se ressemblent : il existe par exemple plusieurs espèces d'iris ou de lotus partageant donc des caractéristiques communes, on parle de "familles".
+Si \textit{Prunus Spinosa L.} est toujours présente dans ce graphique, c'est l'espèce \textit{Malva sylvestris L.} (\autoref{fig:malva}), une fleur au mauve intense, qui est en tête. Elle est donc la plus souvent choisie par les utilisateurs pour cet échantillon. Ce graphique seul indique que l'espèce prédite en première par l'intelligence artificielle, celle en qui l'algorithme est le plus confiant, n'est pas toujours ce que l'utilisateur compte choisir. Il est envisageable que les espèces proposées par l'inteligence artificielle dans son "Top K" se ressemblent : il existe par exemple plusieurs espèces d'iris ou de lotus partageant donc des caractéristiques communes, on parle de "familles".
 
 \vspace{0.2cm}
 
-Parmi les espèces les moins choisies par les utilisateurs, nous notons la \textit{Daphne striata Tratt.}, un arbrisseau à fines fleurs roses produisant des baies qui ressemblent à des œufs, le \textit{Crepis bursifolia L.}, une fleur jaune courante dans l'Hérault et le Var mais qui ne s'observe que vers Mai-Juin, ou le \textit{Cencrhus setaceus (Forssk.) Morrone}, une herbe envahissante dans toute l'Afrique. Ce sont des espèces faciles à reconnaître mais peu courantes.
+Parmi les espèces les moins choisies par les utilisateurs dans cet échantillon, nous notons la \textit{Daphne striata Tratt.} (\autoref{fig:malva}), un arbrisseau à fines fleurs roses produisant des baies qui ressemblent à des œufs, le \textit{Crepis bursifolia L.}, une fleur jaune courante dans l'Hérault et le Var mais qui ne s'observe que vers Mai-Juin, ou le \textit{Cencrhus setaceus (Forssk.) Morrone}, une herbe envahissante dans toute l'Afrique. Ce sont des espèces faciles à reconnaître mais peu courantes.
 
 \begin{figure}[H]
     \centering
@@ -358,11 +360,11 @@ Parmi les espèces les moins choisies par les utilisateurs, nous notons la \text
     \caption{Nuages de points de la moyenne des scores ou des scores max en fonction du nombre d'observations}
 \end{figure}
 
-Puisque l'échantillon étudié est moins conséquent que celui de la première étude, 3000 observations ont été aléatoirement sélectionnées, soit 1000 observations supplémentaires, pour une meilleure intuition. 
+Puisque l'échantillon étudié est moins conséquent que celui de la première étude, $\num{3000}$ observations ont été aléatoirement sélectionnées, soit $\num{1000}$ observations supplémentaires, pour une meilleure intuition. 
 
 \vspace{0.2cm}
 
-La Mauve, choisie plus de 200 fois dans cet échantillon, possède en moyenne une probabilité assez basse. Cela suggère qu'elle n'a pas toujours été l'espèce Top $1$ mais qu'elle a tout de même été validée par l'observateur ou par les votants à la majorité. Les quelques fois où elle a été la première proposition de l'algorithme a entrainé le choix de l'observateur à opter pour cette espèce, c'est après tout une plante d'une couleur intense et d'une forme assez particulière que l'observateur a pu remarquer.
+La Mauve, choisie plus de $200$ fois dans cet échantillon, possède en moyenne une probabilité assez basse. Cela suggère qu'elle n'a pas toujours été l'espèce Top $1$ mais qu'elle a tout de même été validée par l'observateur ou par les votants à la majorité. Les quelques fois où elle a été la première proposition de l'algorithme a entrainé le choix de l'observateur à opter pour cette espèce, c'est après tout une plante d'une couleur intense et d'une forme assez particulière que l'observateur a pu remarquer.
 
 \vspace{0.2cm}
 
@@ -370,7 +372,7 @@ Une des plantes n'ayant été choisie qu'une seule fois dans cet échantillon es
 
 \vspace{0.2cm}
 
-Outre ces deux espèces, nous remarquons qu'il y a plusieurs espèces aux scores très proches de $0$ qui ont été choisies, soit parce que l'IA n'était pas confiante et a proposé de nombreuses options ayant des probabilités minimes, soit parce que les votants ont eux-mêmes été chercher une espèce en particulier parmi les espèces les moins évidentes selon l'IA.
+Outre ces deux espèces, nous remarquons qu'il y a plusieurs espèces aux scores très proches de $0$ qui ont été choisies, soit parce que l'IA n'était pas confiante et a proposée de nombreuses options ayant des probabilités minimes, soit parce que les votants ont eux-mêmes été chercher une espèce en particulier parmi les espèces les moins évidentes selon l'IA.
 
 %%%%% MALVA SYLVESTRIS : https://identify.plantnet.org/k-world-flora/species/Malva%20sylvestris%20L./data#galleries %%%%%
 %%%%% DAPHNE STRIATA : https://identify.plantnet.org/fr/k-world-flora/species/Daphne%20striata%20Tratt./data#galleries %%%%%
@@ -384,6 +386,7 @@ Outre ces deux espèces, nous remarquons qu'il y a plusieurs espèces aux scores
       \includegraphics[width=0.9\linewidth]{images/daphne_striata.jpeg}
     \end{minipage}
     \caption{Malva sylvestris L. et Daphne striata Tratt.}
+    \label{fig:malva}
 \end{figure}
 
 Ces observations préliminaires nous ont confirmé la nécessité d'une approche adaptative pour la présentation des résultats aux utilisateurs. En effet, un système qui proposerait un nombre fixe d'espèces candidates serait soit trop restrictif dans les cas difficiles (risquant d'oublier la bonne espèce), soit trop verbeux dans les cas simples (noyant l'utilisateur sous des propositions inutiles).
@@ -547,7 +550,7 @@ Nous avons représenté cette configuration comme suit :
 \begin{figure}[H]
     \centering
     \includegraphics[scale=0.6]{images/Models.png}
-    \caption{Représentation des modèles}
+    \caption{Représentation de nos quatre modèles}
     \label{models}
   \end{figure}
 
