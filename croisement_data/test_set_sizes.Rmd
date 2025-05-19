@@ -34,9 +34,9 @@ proba_list <- lapply(processed_exp, function(df) df$proba)
 ## Size of final set of labels for each methods
 We have set our $\alpha$ at 0.05 since we are interested in a 95% coverage.
 
-The quantile for the method "s1 + non-experts" is 0,999 then:
+The quantile for the method "s1 + non-experts" is 0.9990 then:
 ```{r}
-size_1 <- sapply(proba_list, function(p) sum(p > 1-0.999))
+size_1 <- sapply(proba_list, function(p) sum(p > 1-0.9990))
 ```
 
 The quantile for the method "s1 + experts" is 0.9649 then:
@@ -44,14 +44,14 @@ The quantile for the method "s1 + experts" is 0.9649 then:
 size_2 <- sapply(proba_list, function(p) sum(p > 1-0.9649))
 ```
 
-The quantile for the method "s2 + non-experts" is 0,7538, then:
+The quantile for the method "s2 + non-experts" is 0.9990, then:
 ```{r}
-size_3 <- sapply(proba_list, function(p) sum(p > 1-0.7538))
+size_3 <- sapply(proba_list, function(p) sum(p > 1-0.9990))
 ```
 
-The quantile for the method "s2 + experts" is 0,5614, then:
+The quantile for the method "s2 + experts" is 0.7932, then:
 ```{r}
-size_4 <- sapply(proba_list, function(p) sum(p > 1-0.5614))
+size_4 <- sapply(proba_list, function(p) sum(p > 1-0.7932))
 ```
 
 ## Summaries 
@@ -111,20 +111,10 @@ ggplot(size_2_df, aes(x = count)) +
 ```{r}
 size_3_df <- data.frame(count = unname(size_3))
 
-interest_values <- size_3_df %>%
-  count(count) %>%
-  filter(count > 2 | count == 0)
-
 ggplot(size_3_df, aes(x = count)) +
   geom_histogram(binwidth = 1, fill = '#b4a7d5ff', color = 'white') +
-  geom_text(
-    data = interest_values,
-    aes(x = count, y = n, label = n),
-    vjust = -0.5,
-    size = 4
-  ) +
   labs(
-    title = 'Méthode "s2 + non-experts"',
+    title = 'Méthode "s1 + non-experts"',
     x = "Taille de l'ensemble",
     y = "Nombre d'observations"
   ) +
@@ -137,7 +127,7 @@ size_4_df <- data.frame(count = unname(size_4))
 
 interest_values <- size_4_df %>%
   count(count) %>%
-  filter(count > 2 | count == 0)
+  filter(count != 2)
 
 ggplot(size_4_df, aes(x = count)) +
   geom_histogram(binwidth = 1, fill = '#b4a7d5ff', color = 'white') +

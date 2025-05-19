@@ -248,6 +248,27 @@ Pour nos analyses sous Python, les bibliothèques dont nous avons fait usage son
 Cette complémentarité des outils nous a permis d'aborder efficacement les différentes phases du projet : de l'exploration initiale des données à l'implémentation des algorithmes de prédiction conformes, en passant par la visualisation des résultats.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsection{Pré-traitement des données}
+
+Dans le contexte de notre projet sur Pl@ntNet, nous avons dû adapter la méthode standard pour tenir compte de plusieurs spécificités. 
+
+\vspace{0.2cm}
+
+Une étape importante consistait à établir une vérité terrain fiable pour chaque observation, c'est-à-dire à déterminer quel label était le vrai pour chaque observation. Pour les observations avec le vote d'un utilisateur expert, nous avons directement utilisé leur identification comme référence absolue. Pour les observations sans validation experte, nous avons appliqué une méthode de vote majoritaire parmi les identifications fournies par les utilisateurs. C'est-à-dire que nous avons compté le nombre de réponses par label donné, en donnant un poids plus important à l'utilisateur ayant pris la photo (poids égal à $3$), car c'est le seul à avoir réellement vu la plante, et avons posé que c'était l'espèce avec le plus de votes qui était le label correct. En cas d'égalité entre deux espèces candidates, nous avons sélectionné aléatoirement l'une d'entre elles.
+
+\vspace{0.2cm}
+
+Ces données séparées, nous avons pu lancer le premier algorithme de pré-traitement de celles-ci dont le but est de chercher dans chaque liste d'espèces, pour chaque observation, le label considéré comme la vérité terrain.
+
+\vspace{0.2cm}
+
+Comme les listes que nous avons récupérées étaient tronquées, ne conservant que les espèces dont la probabilité prédite est supérieure à un certain seuil ($1/1000$), nous avons décidé de considérer que les classes non présentes dans la liste avaient une probabilité de $1/1000$, ce qui nous a permis d'appliquer les formules de scores décrites dans la prochaine section sans souci.
+
+\vspace{0.2cm}
+
+Ces adaptations nous ont permis d'appliquer avec succès le cadre de prédiction conforme à notre problématique d'identification des plantes, pour pouvoir par la suite déterminer nos ensembles de prédiction.
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Analyses}
@@ -269,11 +290,11 @@ Nous avons tout d'abord examiné la répartition des espèces "Top 1" en Europe 
     \label{fig1}
 \end{figure}
 
-Comme le montre la \autoref{fig1}, les espèces "Top 1" les plus fréquentes, dont nous allons dire qu'elles sont les plus fréquemment photographiées par les utilisaeur de Pl@ntNet, sont essentiellement des arbres vivaces, certains fruitiers, ou des fleurs comestibles, aux propriétés curatives et qui peuvent être aperçues dans toute la zone géographique étudiée. Le \textit{Prunus Spinosa L.} (\autoref{fig:prunus}) ou, plus communément, prunellier, arrive en tête des observations, suivi par d'autres espèces communes comme le \textit{Fagus Sylvatica L.} (hêtre commun) ou encore le \textit{Corylus avellana L.} (noisetier commun). Cette distribution n'est pas surprenante puisqu'elle reflète à la fois l'abondance de ces espèces dans l'écosystème méditerranéen et l'intérêt qu'elle suscite auprès du grand public, soit pour leur valeur décorative, soit pour leurs usages alimentaires ou médicinaux.
+Comme le montre la \autoref{fig1}, les espèces "Top 1" les plus fréquentes, dont nous allons dire qu'elles sont les plus fréquemment photographiées par les utilisaeur de Pl@ntNet, sont essentiellement des arbres vivaces, certains fruitiers, ou des fleurs comestibles, aux propriétés curatives et qui peuvent être aperçues dans toute la zone géographique étudiée. Le \textit{Prunus Spinosa L.} (\autoref{fig:prunus}) ou, plus communément, prunellier, arrive en tête des observations, suivi par d'autres espèces communes comme le \textit{Fagus Sylvatica L.} (hêtre commun) ou encore le \textit{Corylus avellana L.} (noisetier commun). Cette distribution n'est pas surprenante puisqu'elle reflète à la fois l'abondance de ces espèces et l'intérêt qu'elle suscite auprès du grand public, soit pour leur valeur décorative, soit pour leurs usages alimentaires ou médicinaux.
 
 \vspace{0.2cm}
 
-À l'autre extrémité, les espèces les moins observées (avec une seule occurrence dans la base) correspondent généralement à des plantes rares, présentes dans des zones très restreintes ou éloignées de l'Europe du Sud-Ouest, ou simplement moins reconnaissables et moins intéressantes aux yeux du public. Nous comptons par exemple le \textit{Pavonia Spinifex (L.) Cav.} (\autoref{fig:prunus}), un arbuste à fleurs jaunes originaire des Caraïbes, le \textit{Citrus paradisi Macfad.}, communément nommé "pomélo" originaire d'Amérique du Nord ou le \textit{Teucrium murcicum Sennen}, une toute petite herbe méditerranéenne.
+À l'autre extrémité, les espèces les moins observées (avec une seule occurrence dans la base) correspondent généralement à des plantes rares, présentes dans des zones très restreintes ou éloignées de l'Europe du Sud-Ouest, ou simplement moins reconnaissables et moins intéressantes aux yeux du public. Nous comptons par exemple le \textit{Pavonia Spinifex (L.) Cav.} (\autoref{fig:prunus}), un arbuste à fleurs jaunes originaire des Caraïbes, le \textit{Citrus paradisi Macfad.}, un agrume hybride communément appelé "pomélo" ou le \textit{Teucrium murcicum Sennen}, une toute petite herbe méditerranéenne.
 
 \subsubsection{Relation entre fréquence d'observation et probabilités}
 
@@ -290,11 +311,11 @@ Au-delà de la simple fréquence d'apparition de ces espèces, qui semble seulem
 \caption{Nuages de points de la moyenne des scores ou des scores max en fonction du nombre d'observations}
 \end{figure}
 
-Ces deux graphes, comptant chacun $\num{2000}$ observations sélectionnées aléatoirement, révèlent plusieurs phénomènes intéressants.
+Ces deux graphes, comptant environ 1100 espèces distinctes désignées aléatoirement, révèlent plusieurs phénomènes intéressants. Nous les constaterons grâce à cette répartition des scores en fonction du nombre d'observations par espèces.
 
 \vspace{0.2cm}
 
-Contrairement à ce que l'on pourrait intuitivement penser, il n'existe pas de relation linéaire évidente entre la fréquence d'observation d'une espèce et la confiance moyenne du système dans ses prédictions. Des espèces très fréquentes peuvent recevoir des scores moyens relativement bas, tandis que certaines espèces rares obtiennent des scores élevés. Les probabilités sont éparses, l'algorithme n'est pas systématiquement confiant : il renvoit sûrement plusieurs espèces ayant des scores voisins en "Top 2", "Top 3", etc. sur lesquels nous devrons nous pencher.
+Contrairement à ce que nous pourrions intuitivement penser, il n'existe pas de relation linéaire évidente entre la fréquence d'observation d'une espèce et la confiance moyenne du système dans ses prédictions. Des espèces très fréquentes peuvent recevoir des scores moyens relativement bas, tandis que certaines espèces rares obtiennent des scores élevés. Les probabilités sont éparses, l'algorithme n'est pas systématiquement confiant : il renvoit sûrement plusieurs espèces ayant des scores voisins en "Top 2", "Top 3", etc. sur lesquels nous devrons nous pencher.
 
 \vspace{0.2cm}
 
@@ -360,8 +381,8 @@ Parmi les espèces les moins choisies par les utilisateurs dans cet échantillon
     \caption{Nuages de points de la moyenne des scores ou des scores max en fonction du nombre d'observations}
 \end{figure}
 
-Puisque l'échantillon étudié est moins conséquent que celui de la première étude, $\num{3000}$ observations ont été aléatoirement sélectionnées, soit $\num{1000}$ observations supplémentaires, pour une meilleure intuition. 
 
+Puisque l'échantillon étudié est moins conséquent que celui de la première étude, environ 1400 espèces ont été piochées aléatoirement, soit trois centaines supplémentaires, pour une meilleure intuition. 
 \vspace{0.2cm}
 
 La Mauve, choisie plus de $200$ fois dans cet échantillon, possède en moyenne une probabilité assez basse. Cela suggère qu'elle n'a pas toujours été l'espèce Top $1$ mais qu'elle a tout de même été validée par l'observateur ou par les votants à la majorité. Lorsqu'elle a été proposée par l'algorithme, même si elle n'était pas en première position ni avec une probabilité élevée, l'observateur a toutefois opté pour cette espèce. Cela pourrait s'expliquer par le fait que cette plante est d'une couleur intense et d'une forme assez particulière que l'observateur a pu remarquer et facilement reconnaître.
@@ -481,7 +502,7 @@ La construction des ensembles de prédiction conforme repose sur l'utilisation d
 
 La procédure de base comporte trois étapes : 
 \begin{itemize}
-    \item \textbf{Définition des vraies étiquettes :} pour les observations expertes, nous sommes partis du principe que, quand un expert avait donné une étiquette, elle était considérée comme correcte. Pour les observations non expertes, nous avons appliqué la méthode du vote majoritaire, que nous détaillerons par la suite, pour déterminer quel était le vrai label.
+    \item \textbf{Définition des vraies étiquettes :} pour les observations expertes, nous sommes partis du principe que, quand un expert avait donné une étiquette, elle était considérée comme correcte. Pour les observations non expertes, nous avons appliqué la méthode du vote majoritaire, que nous avons détaillé plus tôt, pour déterminer quel était le vrai label.
     \item \textbf{Calcul des scores de non-conformité :} pour chaque paire $(X_i, Y_i)$, on calcule un score $s(X_i, Y_i)$ qui indique à quel point cette paire est inhabituelle selon le modèle.
     \item \textbf{Construction de l'ensemble de prédiction :} pour un nouvel exemple $X_{n+1}$, on construit l'ensemble de prédiction en incluant toutes les classes $y$ pour lesquelles le score $s(X_{n+1}, y)$ est inférieur au quantile $(1- \alpha)$.
 \end{itemize}
@@ -507,26 +528,6 @@ $$ s_2(X_i, Y_i) = \sum_{j=1}^{r(X_i, Y_i)-1} p_{(j)}(X_i) $$ où $p_{(j)}(X_i)$
 \vspace{0.2cm}
 
 Le score $s_2$ présente l'avantage de produire des ensembles de prédiction dont la taille varie en fonction de la confiance du modèle : pour les cas faciles où la vraie classe reçoit une probabilité dans celles les plus élevées (donc un rang faible), la somme sera petite et l'ensemble de prédiction contiendra peu de classes. Au contraire, pour les cas difficiles, l'ensemble sera plus grand pour maintenir la garantie de couverture.
-
-\subsubsection{Spécificités de notre approche}
-
-Dans le contexte de notre projet sur Pl@ntNet, nous avons dû adapter la méthode standard pour tenir compte de plusieurs spécificités.
-
-\vspace{0.2cm}
-
-Comme indiqué plus tôt, les scores que nous avons récupérés étaient tronqués, ne conservant que les probabilités supérieures à un certain seuil ($1/1000$). Pour gérer ce problème, nous avons décidé de considérer que les classes non présentes dans la liste avaient une probabilité de $1/1000$, ce qui nous a permis d'appliquer les formules de scores sans souci.
-
-\vspace{0.2cm}
-
-Une étape importante consistait à établir une vérité terrain fiable pour chaque observation, c'est-à-dire à déterminer quel label était le vrai pour chaque observation. Pour les observations avec le vote d'un utilisateur expert, nous avons directement utilisé leur identification comme référence absolue. Pour les observations sans validation experte, nous avons appliqué une méthode de vote majoritaire parmi les identifications fournies par les utilisateurs. C'est-à-dire que nous avons compté le nombre de réponses par label donné, en donnant un poids plus important à l'utilisateur ayant pris la photo (poids égal à $3$), car c'est le seul à avoir réellement vu la plante, et avons posé que c'était l'espèce avec le plus de votes qui était le label correct. En cas d'égalité entre deux espèces candidates, nous avons sélectionné aléatoirement l'une d'entre elles.
-
-\vspace{0.2cm}
-
-De plus, un autre problème s'est posé à nous après le calcul des scores. En effet, certaines observations présentaient des scores supérieurs à $1$, ce qui, s'agissant de valeurs dérivées de probabilités, n'est pas cohérent puisqu'ils devraient être compris entre $0$ et $1$. Après avoir examiné les quelques cas pour lesquels nous avons rencontré cette anomalie, nous avons constaté que ce phénomène n'apparaissait que pour les scores APS et uniquement pour des observations présentant des particularités au niveau de l'acquisition des données. Par exemple, nous avons identifié des cas où plusieurs plantes étaient présentes sur une même observation, ce qui engendrait une confusion pour l'algorithme qui ne pouvait déterminer avec précision quelle espèce identifier en priorité. Étant donné que ces cas problématiques étaient relativement rares ($149$ observations sur l'ensemble de notre échantillon de données), nous avons choisi de les exclure de notre analyse pour préserver l'intégrité de nos résultats.
-
-\vspace{0.2cm}
-
-Ces adaptations nous ont permis d'appliquer avec succès le cadre de prédiction conforme à notre problématique d'identification des plantes, pour pouvoir par la suite déterminer nos ensembles de prédiction.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -560,7 +561,11 @@ Cette structure nous permet d'évaluer non seulement l'impact du choix de la fon
 
 \vspace{0.2cm}
 
-Pour assurer la représentativité de nos échantillons, nous avons divisé les données expertes aléatoirement et avons vérifié que les deux groupes créés étaient bien similaires en termes de scores.
+Pour assurer la représentativité de nos échantillons, nous avons divisé les données expertes aléatoirement et avons vérifié que les deux groupes créés étaient bien similaires en termes de scores
+
+\vspace{0.2cm}
+
+Un léger problème s'est posé à nous après le calcul des scores. En effet, certaines observations présentaient des scores supérieurs à $1$, ce qui, s'agissant de valeurs dérivées de probabilités, n'est pas cohérent puisqu'ils devraient être compris entre $0$ et $1$. Après avoir examiné les quelques cas pour lesquels nous avons rencontré cette anomalie, nous avons constaté que ce phénomène n'apparaissait que pour les scores APS et uniquement pour des observations présentant des particularités au niveau de l'acquisition des données. Par exemple, nous avons identifié des cas où plusieurs plantes étaient présentes sur une même observation, ce qui engendrait une confusion pour l'algorithme qui ne pouvait déterminer avec précision quelle espèce identifier en priorité. Étant donné que ces cas problématiques étaient relativement rares ($149$ observations sur l'ensemble de notre échantillon de données), nous avons choisi de les exclure de notre analyse pour préserver l'intégrité de nos résultats.
 
 \subsubsection{Calcul des quantiles}
 
@@ -608,8 +613,8 @@ Ces quantiles sont des seuils critiques : un score élevé indique une faible co
 
 Analysons le \autoref{tab: scores et quantiles} ainsi que la \autoref{fig:quantiles} associée. Le tableau met en évidence les quantiles obtenus selon différentes configurations :
 \begin{itemize}
-    \item \textbf{Score s1 + données non expertes :} quantile le plus élevé ($0,9990$), traduisant une approche plus permissive qui conserve presque toutes les observations (mis à part celles pour lesquelles nous avons attribuée un score de $0,001$ car elles n'avaient pas la bonne étiquette de proposée).
-    \item \textbf{Score s1 + données expertes :} quantile de $0,9649$, témoignant d’une amélioration en termes de sélectivité avec un peu plus d'observations non prises en compte.
+    \item \textbf{Score s1 + données non expertes :} quantile le plus élevé ($0,9990$), traduisant une approche plus permissive qui conserve presque toutes les espèces (mises à part celles pour lesquelles nous avons attribuée un score de $0,001$ car elles n'avaient pas la bonne étiquette de proposée).
+    \item \textbf{Score s1 + données expertes :} quantile de $0,9649$, témoignant d’une amélioration en termes de sélectivité avec un peu plus d'espèces non prises en compte.
     \item \textbf{Score s2 + données non expertes :} $0,7538$ pour le quantile, soit une baisse importante par rapport à la méthode précédente.
     \item \textbf{Score s2 + données expertes :} quantile de $0,5614$, ce qui indique une approche plus stricte, réduisant les incertitudes.
 \end{itemize}
