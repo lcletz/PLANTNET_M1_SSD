@@ -594,14 +594,9 @@ Pour le calcul concret du quantile, nous avons utilisé la fonction quantile de 
 
 Ces quantiles sont des seuils critiques : un score élevé indique une faible confiance, donc, pour le $s_1$, nous incluons toutes les classes dont le score est inférieur au quantile. Pour le $s_2$, nous incluons les classes jusqu'à ce que leur somme cumulée dépasse le quantile.
 
-\vspace{-0.4cm}
-
 \begin{figure}[H]
     \centering
-    \makebox[\linewidth][c]{
-        \includesvg[width=1.2\linewidth]{images/quantiles.svg}
-    }
-    \captionsetup{skip=-20pt}
+        \includegraphics[width=1\linewidth]{images/quantiles.png}
     \caption{Conservation des observations en fonction des quantiles des configurations}
     \label{fig:quantiles}
 \end{figure}
