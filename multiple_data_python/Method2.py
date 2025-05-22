@@ -1,4 +1,4 @@
-# %%
+# %% 1. Charger la moitié des scores experts pour calibration
 import json
 import numpy as np
 import pandas as pd
@@ -9,7 +9,6 @@ calibration_file = "expert_scores1.json"
 expert_file = "expert_scores2.json"
 confidence = 0.95
 
-# %% 1. Chargement des scores experts pour calibration
 with open(calibration_file, "r", encoding="utf-8") as f:
     expert_calib_data = json.load(f)
 
@@ -43,7 +42,7 @@ print("\nRésultats du test sur moitié des données expertes :")
 for i, (status, score) in enumerate(results, 1):
     print(f"Plante {i:02d} - Score : {score:.4f} → {status}")
 
-# %% 4. Identifier les plantes non conformes
+# %% 4. Identifier les plantes non conformes pour le set test
 non_conformes = {
     pid: valeurs["one_minus_prob"][0]
     for pid, valeurs in expert_test_data.items()
@@ -105,21 +104,53 @@ fig.update_layout(
 )
 
 fig.show()
-#fig.write_image("graphique_methode2.svg", width=400, height=250, scale=2)
+fig.write_image("graphique_methode2.svg", width=400, height=250, scale=2)
 
-# %% 7. Statistiques conformes à la calibration
+# %% 7. Statistiques conformes à la théorie de la calibration (Méthode 2)
 
-# Couverture correcte : sur les données de calibration (expert_scores1)
+# Calcul du taux de couverture sur les données de calibration (experts calibration)
 calibration_array = np.array(calibration_scores)
 nb_conformes_calib = np.sum(calibration_array < quantile2)
+nb_non_conformes_calib = len(calibration_array) - nb_conformes_calib
 taux_couverture_calib = (nb_conformes_calib / len(calibration_array)) * 100
 
-print(f"\n Taux de couverture (méthode 2, s1 - calibration) : {taux_couverture_calib:.2f}% ({nb_conformes_calib} sur {len(calibration_array)})")
+print(f"Taux de couverture observé : {taux_couverture_calib:.2f}%")
+print(f"Taille totale du set de calibration : {len(calibration_array)}")
+print(f"Nombre d'observations conformes : {nb_conformes_calib}")
+print(f"Nombre d'observations non conformes : {nb_non_conformes_calib}")
 
-# Statistiques descriptives sur les scores test (non utilisés pour la calibration)
-scores_sous_q2 = df2[df2["Score_s1"] < quantile2]["Score_s1"]
-print(f"Taille des données test inférieures au quantile : {len(scores_sous_q2)}")
-print(f"Score moyen test inférieur quantile : {scores_sous_q2.mean():.4f}")
-print(f"Score médian test inférieur quantile : {scores_sous_q2.median():.4f}")
+# %% 8. Test du Chi² : conformité au taux attendu (Méthode 2)
 
+from scipy.stats import chisquare
+
+# Données observées et attendues
+n_total = len(calibration_array)
+obs = [nb_conformes_calib, nb_non_conformes_calib]
+exp = [n_total * confidence, n_total * (1 - confidence)]
+
+print(f"Observés : conformes = {obs[0]}, non conformes = {obs[1]}")
+print(f"Attendus : conformes = {int(exp[0])}, non conformes = {int(exp[1])}")
+
+# Test statistique
+chi2_stat, p_value_m2 = chisquare(f_obs=obs, f_exp=exp)
+
+# Résultats du test
+print(f"Chi² = {chi2_stat:.2f}, p = {p_value_m2:.4e}")
+
+# Interprétation automatique
+alpha = 0.05
+if p_value_m2 < alpha:
+    interpretation = (
+        "Le test du Chi² indique que le taux de couverture observé "
+        "diffère significativement du taux attendu (95%).\n"
+        "L'hypothèse nulle est rejetée."
+    )
+else:
+    interpretation = (
+        "Le test du Chi² n'indique pas de différence significative entre "
+        "le taux de couverture observé et celui attendu (95%).\n"
+        "L'hypothèse nulle est conservée."
+    )
+
+print(interpretation)
 # %%

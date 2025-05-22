@@ -47,7 +47,7 @@ print("\nRésultats du test sur moitié des données expertes :")
 for i, (status, score) in enumerate(results):
     print(f"Plante {i+1:02d} - Score : {score:.4f} → {status}")
 
-# %% 4. Identifier les plantes non conformes
+# %% 4. Identifier les plantes non conformes (set de test "expert_scores2.json")
 non_conformes = {
     pid: valeurs["one_minus_prob"][0]
     for pid, valeurs in expert_data.items()
@@ -110,22 +110,54 @@ fig.update_layout(
 )
 
 fig.show()
-#fig.write_image("graphique_methode1.svg", width=400, height=250, scale=2)
+fig.write_image("graphique_methode1.svg", width=400, height=250, scale=2)
 
-# %% 
-# 7. Statistiques conformes à la théorie de la calibration
+# %% 7. Statistiques conformes à la théorie de la calibration
 
 # Calcul du taux de couverture uniquement sur les non-experts (set de calibration)
 scores_nonexp_array = np.array(scores_nonexp)
 nb_conformes_calibration = np.sum(scores_nonexp_array < quantile1)
+nb_non_conformes_calibration = len(scores_nonexp_array) - nb_conformes_calibration
 taux_couverture_calibration = (nb_conformes_calibration / len(scores_nonexp_array)) * 100
 
-print(f"\n Taux de couverture (méthode 1, s1 - calibration) : {taux_couverture_calibration:.2f}% ({nb_conformes_calibration} sur {len(scores_nonexp_array)})")
+print(f"Taux de couverture observé : {taux_couverture_calibration:.2f}%")
+print(f"Taille totale du set de calibration : {len(scores_nonexp_array)}")
+print(f"Nombre d'observations conformes : {nb_conformes_calibration}")
+print(f"Nombre d'observations non conformes : {nb_non_conformes_calibration}")
 
-# Statistiques sur les scores experts (set de test) – informatif seulement
-scores_sous_q1 = df[df["Score_s1"] < quantile1]["Score_s1"]
-print(f"Taille des données test inférieures au quantile : {len(scores_sous_q1)}")
-print(f"Score moyen test inférieur quantile : {scores_sous_q1.mean():.4f}")
-print(f"Score médian test inférieur quantile : {scores_sous_q1.median():.4f}")
+# %% 8. Test du Chi² : conformité du taux de couverture avec l'hypothèse théorique
+
+from scipy.stats import chisquare
+
+# Observés et attendus
+n_total = len(scores_nonexp_array)
+obs = [nb_conformes_calibration, nb_non_conformes_calibration]
+exp = [n_total * confidence, n_total * (1 - confidence)]
+
+print(f"Observés : conformes = {obs[0]}, non conformes = {obs[1]}")
+print(f"Attendus : conformes = {int(exp[0])}, non conformes = {int(exp[1])}")
+
+# Test du Chi²
+chi2_stat, p_value = chisquare(f_obs=obs, f_exp=exp)
+
+# Résultats
+print(f"Chi² = {chi2_stat:.2f}, p = {p_value:.4e}")
+
+# Interprétation
+alpha = 0.05
+if p_value < alpha:
+    interpretation = (
+        "Le test du Chi² indique que le taux de couverture observé "
+        "diffère significativement du taux attendu (95%).\n"
+        "L'hypothèse nulle est rejetée."
+    )
+else:
+    interpretation = (
+        "Le test du Chi² n'indique pas de différence significative entre "
+        "le taux de couverture observé et celui attendu (95%).\n"
+        "L'hypothèse nulle est conservée."
+    )
+
+print(interpretation)
 
 # %%
