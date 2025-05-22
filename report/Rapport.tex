@@ -585,9 +585,9 @@ Pour le calcul concret du quantile, nous avons utilisé la fonction quantile de 
         \hline
         \textbf{Configuration} & \textbf{Quantile calculé} \\
         \hline
-        Score $s_1$ + données non expertes & $0.9990$ \\
+        Score $s_1$ (Soft max) + données non expertes & $0.9990$ \\
         Score $s_1$ + données expertes & $0.9649$ \\
-        Score $s_2$ + données non expertes & $0.7538$ \\
+        Score $s_2$ (APS) + données non expertes & $0.7538$ \\
         Score $s_2$ + données expertes & $0.5614$ \\
         \hline
         \end{tabular}
@@ -606,12 +606,23 @@ Ces quantiles sont des seuils critiques : un score élevé indique une faible co
     \label{fig:quantiles}
 \end{figure}
 
-Analysons le \autoref{tab: scores et quantiles} ainsi que la \autoref{fig:quantiles} associée. Le tableau met en évidence les quantiles obtenus selon différentes configurations :
+Analysons le \autoref{tab: scores et quantiles} ainsi que la \autoref{fig:quantiles} associée.
+Ce tableau présente les quantiles calculés pour chaque configuration de score ($s_1$ ou $s_2$) et de type de données (expertes ou non expertes).
+
+Il est important de noter que les quantiles obtenus pour $s_1$ et $s_2$ ne sont pas directement comparables, car ces scores mesurent des choses différentes et sont définis sur des échelles distinctes :
 \begin{itemize}
-    \item \textbf{Score s1 + données non expertes :} quantile le plus élevé ($0,9990$), traduisant une approche plus permissive qui conserve presque toutes les espèces (mises à part celles pour lesquelles nous avons attribuée un score de $0,001$ car elles n'avaient pas la bonne étiquette de proposée).
-    \item \textbf{Score s1 + données expertes :} quantile de $0,9649$, témoignant d’une amélioration en termes de sélectivité avec un peu plus d'espèces non prises en compte.
-    \item \textbf{Score s2 + données non expertes :} $0,7538$ pour le quantile, soit une baisse importante par rapport à la méthode précédente.
-    \item \textbf{Score s2 + données expertes :} quantile de $0,5614$, ce qui indique une approche plus stricte, réduisant les incertitudes.
+    \item Le score $s_1$ est une transformation simple de la probabilité du bon label, donc toujours compris entre $0$ et $1$.
+    \item Le score $s_2$ est une somme cumulative de probabilités, qui peut dépasser $1$ si de nombreuses classes précèdent la bonne.
+\end{itemize}
+
+Autrement dit, un quantile plus bas pour $s_2$ ne signifie pas nécessairement une méthode plus stricte que $s_1$, mais reflète plutôt la nature différente du score. C’est pourquoi l’interprétation doit se faire au sein d’un même score, en comparant les données expertes vs non expertes.
+
+Voici ce que l’on observe pour chaque configuration :
+\begin{itemize}
+\item \textbf{Score $s_1$ + données non expertes :} quantile très élevé ($0.9990$), indiquant une approche très permissive (presque toutes les classes sont incluses).
+\item \textbf{Score $s_1$ + données expertes :} quantile plus faible ($0.9649$), traduisant une meilleure sélectivité.
+\item \textbf{Score $s_2$ + données non expertes :} quantile de $0.7538$, relativement élevé dans l’échelle propre à $s_2$.
+\item \textbf{Score $s_2$ + données expertes :} quantile encore plus faible ($0.5614$), qui peut suggérer moins bonne adaptation du modèle, mais uniquement dans le cadre du score $s_2$.
 \end{itemize}
 
 \vspace{0.2cm}
@@ -620,8 +631,7 @@ Ces résultats soulignent le rôle des quantiles comme seuil critique dans la pr
 
 \vspace{0.2cm}
 
-La \autoref{fig:quantiles} illustre la répartition des observations testées selon les scores $s_1$ et $s_2$, en distinguant les données expertes et non expertes.
-L’axe des abscisses représente les types de score, tandis que l’axe des ordonnées indique les observations testées issues de notre jeu de test. La ligne rouge en pointillé marque le seuil du quantile. Les couleurs différenciées permettent de visualiser la conformité des observations : en violet les observations conformes, en rose celles jugées non conformes.
+La \autoref{fig:quantiles} illustre la répartition des observations testées selon les scores $s_1$ et $s_2$, en distinguant les données expertes et non expertes. L’axe des abscisses représente les types de score, tandis que l’axe des ordonnées indique les scores de non-conformité calculés pour chaque observation testée. Chaque point correspond à une observation : la valeur affichée représente le score de non-conformité associé à la vraie espèce (le bon label) pour cette observation. La ligne rouge en pointillé marque le seuil du quantile utilisé pour la prédiction conforme. Les couleurs différenciées permettent de visualiser la conformité des observations : en violet les observations conformes (c’est-à-dire dont la vraie espèce est incluse dans l’ensemble de prédiction), en rose celles jugées non conformes.
 
 \vspace{0.2cm}
 
@@ -645,7 +655,7 @@ Le taux de couverture représente la proportion des observations pour lesquelles
 
 \vspace{0.2cm}
 
-De plus, nous avons calculé la taille moyenne des ensembles de prédiction, qui correspond au nombre moyen de classes proposées pour chaque observation. Pour une meilleure expérience utilisateur, cette taille doit être le plus proche possible de $1$ tout en maintenant le taux de couverture cible (optimalité quand l'intelligence artificielle propose une seule espèce de plante et qu'elle est correcte).
+De plus, nous avons calculé la taille moyenne des ensembles de prédiction, qui correspond au nombre moyen de classes proposées pour chaque observation. Pour une meilleure expérience utilisateur, cette taille doit être la plus petite possible parmi les ensembles non vides, pour garantir une réponse concise et pertinente à l'utilisateur, tout en maintenant une couverture adéquate.
 
 \vspace{0.2cm}
 
@@ -670,9 +680,9 @@ Après avoir défini notre méthodologie et implémenté les algorithmes corresp
     \hline
     \textbf{Configuration} & \textbf{Taux de couverture} & \textbf{Taille moyenne} & \textbf{Taille médiane} \\
     \hline
-    $s_1$ + non expert & $96.45\%$ & $15.47$ & $10.00$ \\
+    $s_1$ (Softmax) + non expert & $96.45\%$ & $15.47$ & $10.00$ \\
     $s_1$ + expert & $94.82\%$ & $2.13$ & $2.00$ \\
-    $s_2$ + non expert & $97.92\%$ & $1.11$ & $1.00$ \\
+    $s_2$ (APS) + non expert & $97.92\%$ & $1.11$ & $1.00$ \\
     $s_2$ + expert & $94.91\%$ & $0.90$ & $1.00$ \\
     \hline
     \end{tabular}
@@ -684,7 +694,7 @@ Ces résultats révèlent plusieurs tendances importantes concernant l'effet du 
 
 \vspace{0.2cm}
 
-Les configurations basées sur les données non-expertes ont tendance à produire des ensembles de prédiction légèrement plus larges que ce que nous avions comme objectif, ce qui pourrait indiquer que les scores de test (experts) ne se comporte pas de la même manière que ceux de la calibration (non experts). Les calibrations avec données expertes respectent le taux de couverture que nous nous étions fixé (de $95\%$), reflétant une meilleure qualité de calibration malgré la taille d’échantillon plus réduite. Nous vérifierons si les hypothèses de similarité des échantillons de calibrations et de tests sont respectés à l'aide d'un test du Chi-deux, plus tard dans notre rapport.
+Les configurations basées sur les données non-expertes ont tendance à produire des ensembles de prédiction légèrement plus larges que ce que nous avions comme objectif, ce qui pourrait indiquer que les scores de test (experts) ne se comporte pas de la même manière que ceux de la calibration (non experts). Les calibrations avec données expertes respectent le taux de couverture que nous nous étions fixé (de $95\%$), reflétant une meilleure qualité de calibration malgré la taille d’échantillon plus réduite. Nous vérifierons si le taux de couverture observé diffère significativement du taux attendu de $95 \%$, à l’aide d’un test du Chi-deux, plus tard dans notre rapport.
 
 \vspace{0.2cm}
 
