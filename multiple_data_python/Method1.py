@@ -1,100 +1,85 @@
-# %%
-# 1. Charger les scores non experts depuis le zip
+# %% Méthode 1 : Analyse des scores non experts et comparaison avec les experts
 import zipfile
 import json
 import numpy as np
+import pandas as pd
+import plotly.express as px
 
-zip_path = "15353081.zip"
+# Paramètres
+zip_path = "15464436.zip"
 confidence = 0.95
-scores = []
+prefix_nonexp = "scores_nonexp_"
+expert_file = "expert_scores2.json"
 
-with zipfile.ZipFile(zip_path, 'r') as zip_ref:
+# %% 1. Extraction des scores non experts
+scores_nonexp = []
+
+with zipfile.ZipFile(zip_path, 'r') as archive:
     for i in range(1, 35):
-        filename = f"scores_nonexp_{i:02d}.json"
-        if filename in zip_ref.namelist():
-            with zip_ref.open(filename) as f:
+        filename = f"{prefix_nonexp}{i:02d}.json"
+        if filename in archive.namelist():
+            with archive.open(filename) as f:
                 data = json.load(f)
-                for valeurs in data.values():
-                    if "one_minus_prob" in valeurs and isinstance(valeurs["one_minus_prob"], list):
-                        scores.append(valeurs["one_minus_prob"][0])
+                for val in data.values():
+                    if "one_minus_prob" in val and isinstance(val["one_minus_prob"], list):
+                        scores_nonexp.append(val["one_minus_prob"][0])
         else:
             print(f"[Info] Fichier manquant : {filename}")
 
-# 2. Calculer le quantile
-quantile1 = np.quantile(scores, confidence)
+if not scores_nonexp:
+    raise ValueError("Aucun score non expert trouvé. Veuillez vérifier les fichiers dans le zip.")
+
+# %% 2. Calcul du quantile basé sur les non-experts
+quantile1 = np.quantile(scores_nonexp, confidence)
 print(f"\nQuantile à {confidence*100:.0f}% basé sur les non-experts : {quantile1:.4f}")
 
-# 3. Charger les données de la moitié des scores des EXPERTS pour test
-with open("expert_scores2.json", "r") as f:
-    expert_data_full = json.load(f).values()  
+# %% 3. Chargement et test sur les scores experts
+with open(expert_file, "r", encoding="utf-8") as f:
+    expert_data = json.load(f)
 
-test_scores = [v["one_minus_prob"][0] for v in expert_data_full 
-               if v.get("one_minus_prob") and isinstance(v["one_minus_prob"], list)]
+expert_scores_s1 = [v["one_minus_prob"][0] for v in expert_data.values()
+                    if "one_minus_prob" in v and isinstance(v["one_minus_prob"], list)]
 
-# 4. Tester la conformité
-results = [
-    ("conforme" if score < quantile1 else "non conforme", score)
-    for score in test_scores
-]
+# Conformité
+results = [("conforme" if s < quantile1 else "non conforme", s) for s in expert_scores_s1]
 
-# Affichage
 print("\nRésultats du test sur moitié des données expertes :")
 for i, (status, score) in enumerate(results):
     print(f"Plante {i+1:02d} - Score : {score:.4f} → {status}")
 
-# %% Identifier les non conformes
-with open("expert_scores2.json", "r", encoding="utf-8") as f:
-    data = json.load(f)
-
+# %% 4. Identifier les plantes non conformes
 non_conformes = {
-    plante: valeurs["one_minus_prob"][0]
-    for plante, valeurs in data.items()
-    if valeurs["one_minus_prob"][0] >= quantile1
+    pid: valeurs["one_minus_prob"][0]
+    for pid, valeurs in expert_data.items()
+    if "one_minus_prob" in valeurs and valeurs["one_minus_prob"][0] >= quantile1
 }
 
 print("Plantes non conformes :", non_conformes)
 print("Nombre total de plantes non conformes :", len(non_conformes))
 
-#%% Plante : Daphne Striata Tratt.
-
-# Liste des IDs de plantes à vérifier
+# %% 5. Vérification de cas spécifiques
 plante_ids = ["1004046780", "1014153815", "1011331452", "1013910015"]
-
-# Vérification
 for pid in plante_ids:
     if pid in non_conformes:
         print(f"La plante {pid} est non conforme avec un score de {non_conformes[pid]:.4f}")
     else:
         print(f"La plante {pid} est conforme.")
 
-# %% Visualisation
-import json
-import pandas as pd
-import plotly.express as px
+# %% 6. Visualisation interactive
+plante_ids = list(expert_data.keys())
+scores_s1 = [v["one_minus_prob"][0] for v in expert_data.values() if "one_minus_prob" in v]
 
-# Recharger les données expertes testées
-with open("expert_scores2.json", "r", encoding="utf-8") as f:
-    expert_test_data = json.load(f)
-
-# Extraire les IDs et les scores s1
-plante_ids = list(expert_test_data.keys())
-scores_s1 = [v["one_minus_prob"][0] for v in expert_test_data.values() if "one_minus_prob" in v]
-
-# Créer le DataFrame
-df_method1 = pd.DataFrame({
+# Création du DataFrame
+df = pd.DataFrame({
     "Plante_ID": plante_ids,
     "Score_s1": scores_s1
 })
 
-# Ajouter un index pour l’axe Y
-df_method1["Index"] = range(len(df_method1))
+df["Index"] = range(len(df))
+df["Conforme"] = df["Score_s1"].apply(lambda x: "Vrai" if x < quantile1 else "Faux")
 
-# Ajouter la conformité et la traduire
-df_method1["Conforme"] = df_method1["Score_s1"].apply(lambda x: "Vrai" if x < quantile1 else "Faux")
-
-# Création du nuage de points
 fig = px.scatter(
-    df_method1,
+    df,
     x="Score_s1",
     y="Index",
     color="Conforme",
@@ -104,12 +89,11 @@ fig = px.scatter(
     opacity=0.4
 )
 
-# Ajouter une ligne verticale de seuil
 fig.add_vline(
     x=quantile1,
     line_dash="dash",
     line_color="red",
-    annotation_text=f"Quantile 95% = {quantile1:.4f}",
+    annotation_text=f"Quantile {confidence*100:.0f}% = {quantile1:.4f}",
     annotation_position="top left",
     annotation_font_size=6
 )
@@ -120,44 +104,28 @@ fig.update_layout(
     title_font_size=8,
     margin=dict(l=5, r=5, t=15, b=5),
     showlegend=True,
-    legend=dict(
-        font=dict(size=6),      
-        x=1,
-        y=0.5,
-        xanchor='left',
-        yanchor='middle',
-        borderwidth=0
-    ),
-    yaxis=dict(
-        tickformat="",
-        showticklabels=False,
-        title_font=dict(size=8),
-        tickfont=dict(size=8)
-    ),
-    xaxis=dict(
-        range=[0, 1],
-        dtick=0.1,
-        tickfont=dict(size=8),
-        title_font=dict(size=8)
-    ),
+    legend=dict(font=dict(size=6), x=1, y=0.5, xanchor='left', yanchor='middle', borderwidth=0),
+    yaxis=dict(showticklabels=False, title_font=dict(size=8), tickfont=dict(size=8)),
+    xaxis=dict(range=[0, 1], dtick=0.1, tickfont=dict(size=8), title_font=dict(size=8))
 )
 
 fig.show()
+#fig.write_image("graphique_methode1.svg", width=400, height=250, scale=2)
 
-# Sauvegarde
-fig.write_image("graphique_methode1.svg", width=400, height=250, scale=2)
+# %% 
+# 7. Statistiques conformes à la théorie de la calibration
 
-# %% Statistiques supplémentaires
-nb_total = len(df_method1)
-nb_conformes = (df_method1["Conforme"] == "Vrai").sum()
-taux_couverture = (nb_conformes / nb_total) * 100
-print(f"\nTaux de couverture (méthode 1, s1) : {taux_couverture:.2f}% ({nb_conformes} sur {nb_total})")
+# Calcul du taux de couverture uniquement sur les non-experts (set de calibration)
+scores_nonexp_array = np.array(scores_nonexp)
+nb_conformes_calibration = np.sum(scores_nonexp_array < quantile1)
+taux_couverture_calibration = (nb_conformes_calibration / len(scores_nonexp_array)) * 100
 
-scores_sous_quantile1 = [s for s in df_method1["Score_s1"] if s < quantile1]
-moyenne1 = np.mean(scores_sous_quantile1)
-mediane1 = np.median(scores_sous_quantile1)
+print(f"\n Taux de couverture (méthode 1, s1 - calibration) : {taux_couverture_calibration:.2f}% ({nb_conformes_calibration} sur {len(scores_nonexp_array)})")
 
-print(f"Taille des données inférieures au quantile : {len(scores_sous_quantile1)}")
-print(f"Score moyen des données inférieures au quantile : {moyenne1:.4f}")
-print(f"Score médian des données inférieures au quantile : {mediane1:.4f}")
+# Statistiques sur les scores experts (set de test) – informatif seulement
+scores_sous_q1 = df[df["Score_s1"] < quantile1]["Score_s1"]
+print(f"Taille des données test inférieures au quantile : {len(scores_sous_q1)}")
+print(f"Score moyen test inférieur quantile : {scores_sous_q1.mean():.4f}")
+print(f"Score médian test inférieur quantile : {scores_sous_q1.median():.4f}")
+
 # %%
