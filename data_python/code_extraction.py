@@ -1,4 +1,4 @@
-#%%
+# %%
 import requests
 import zipfile
 import io
@@ -11,10 +11,10 @@ def fetch_data(url):
         response.raise_for_status()
         return response.content
     except requests.exceptions.RequestException as e:
-        print(f"Error fetching data: {e}")
+        print(f"Erreur lors du téléchargement des données : {e}")
         return None
 
-def extract_and_save_data(zip_content, output_dir="/home/anne-laure/projet/PLANTNET_M1_SSD/extracted_data", num_lines=5000):
+def extract_and_save_data(zip_content, output_dir="extracted_data", num_lines=5000):
     """Extrait un nombre limité de lignes (par défaut 5000) depuis le fichier ZIP et les enregistre."""
     os.makedirs(output_dir, exist_ok=True)  # Crée le dossier si nécessaire
     
@@ -32,14 +32,14 @@ def extract_and_save_data(zip_content, output_dir="/home/anne-laure/projet/PLANT
                 with open(relative_path, 'wb') as out_file:
                     for _ in range(num_lines):
                         line = f.readline()
-                        if not line:  # Si la ligne est vide, arrête de lire
+                        if not line:  # Arrête si la ligne est vide
                             break
                         out_file.write(line)
             
-            print(f"Saved first {num_lines} lines of {file_name} to {relative_path}")
+            print(f"Enregistré les {num_lines} premières lignes de {file_name} dans {relative_path}")
 
-def extract_and_save_all_data(zip_content, output_dir="/home/anne-laure/projet/PLANTNET_M1_SSD/data"):
-    """Extrait et sauvegarde tout le contenu d'un fichier ZIP."""
+def extract_and_save_all_data(zip_content, output_dir="data"):
+    """Extrait et enregistre tout le contenu d'un fichier ZIP."""
     os.makedirs(output_dir, exist_ok=True)
     
     with zipfile.ZipFile(io.BytesIO(zip_content)) as z:
@@ -54,20 +54,20 @@ def extract_and_save_all_data(zip_content, output_dir="/home/anne-laure/projet/P
                 with open(relative_path, 'wb') as out_file:
                     for line in f:
                         out_file.write(line)
-            print(f"Saved {file_name} to {relative_path}")
+            print(f"{file_name} enregistré dans {relative_path}")
 
 if __name__ == "__main__":
     url = "https://zenodo.org/record/10782465/files/plantnet_swe.zip"
     zip_content = fetch_data(url)
     
     if zip_content:
-        print("Data fetched successfully:")
+        print("Données téléchargées avec succès.")
         
         # Limite le nombre de lignes à extraire (par exemple 100000)
-        num_lines = 100000  # Change ce nombre si tu veux plus ou moins de lignes extraites
+        num_lines = 100000  # Modifier ce nombre pour ajuster la quantité de lignes extraites
         extract_and_save_data(zip_content, num_lines=num_lines)
         
-        # Si tu veux tout extraire sans limite de lignes, tu peux utiliser cette fonction :
+        # Pour tout extraire sans limite de lignes, utiliser la fonction suivante :
         # extract_and_save_all_data(zip_content)
 
 # %%
