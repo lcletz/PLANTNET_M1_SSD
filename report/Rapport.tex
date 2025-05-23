@@ -585,10 +585,10 @@ Pour le calcul concret du quantile, nous avons utilisé la fonction quantile de 
         \hline
         \textbf{Configuration} & \textbf{Quantile calculé} \\
         \hline
-        Score $s_1$ (Soft max) + données non expertes & $0.9990$ \\
+        Score $s_1$ (soft max) + données non expertes & $0.9990$ \\
         Score $s_1$ + données expertes & $0.9649$ \\
-        Score $s_2$ (APS) + données non expertes & $0.7538$ \\
-        Score $s_2$ + données expertes & $0.5614$ \\
+        Score $s_2$ (APS) + données non expertes & $0.9990$ \\
+        Score $s_2$ + données expertes & $0.7932$ \\
         \hline
         \end{tabular}
     \caption{Configuration des scores et des données avec les résultats de leurs quantiles}
@@ -597,7 +597,7 @@ Pour le calcul concret du quantile, nous avons utilisé la fonction quantile de 
 
 \vspace{0.2cm}
 
-Ces quantiles sont des seuils critiques : un score élevé indique une faible confiance, donc, pour le $s_1$, nous incluons toutes les classes dont le score est inférieur au quantile. Pour le $s_2$, nous incluons les classes jusqu'à ce que leur somme cumulée dépasse le quantile.
+Ces quantiles sont des seuils critiques, c'est-à-dire que pour le premier score (qui correspond au score soft max), nous incluons dans notre ensemble de prédiction toutes les classes dont le score est inférieur au quantile. Pour le deuxième scpre (qui correspond au score cumulatif APS), nous incluons les classes jusqu'à ce que leur somme cumulée dépasse le quantile.
 
 \begin{figure}[H]
     \centering
@@ -609,21 +609,13 @@ Ces quantiles sont des seuils critiques : un score élevé indique une faible co
 Analysons le \autoref{tab: scores et quantiles} ainsi que la \autoref{fig:quantiles} associée.
 Ce tableau présente les quantiles calculés pour chaque configuration de score ($s_1$ ou $s_2$) et de type de données (expertes ou non expertes).
 
-Il est important de noter que les quantiles obtenus pour $s_1$ et $s_2$ ne sont pas directement comparables, car ces scores mesurent des choses différentes et sont définis sur des échelles distinctes :
-\begin{itemize}
-    \item Le score $s_1$ est une transformation simple de la probabilité du bon label, donc toujours compris entre $0$ et $1$.
-    \item Le score $s_2$ est une somme cumulative de probabilités, qui peut dépasser $1$ si de nombreuses classes précèdent la bonne.
-\end{itemize}
+\vspace{0.2cm}
+
+Il est important de noter que les quantiles obtenus pour $s_1$ et $s_2$ ne sont pas directement comparables, car ces scores se calculent de manière différentes et sont définis sur des échelles distinctes. Mais il vont nous servir par la suite à définir nos ensembles de prédiction et pouvoir comparer nos configurations.
+
+\vspace{0.2cm}
 
 Autrement dit, un quantile plus bas pour $s_2$ ne signifie pas nécessairement une méthode plus stricte que $s_1$, mais reflète plutôt la nature différente du score. C’est pourquoi l’interprétation doit se faire au sein d’un même score, en comparant les données expertes vs non expertes.
-
-Voici ce que l’on observe pour chaque configuration :
-\begin{itemize}
-\item \textbf{Score $s_1$ + données non expertes :} quantile très élevé ($0.9990$), indiquant une approche très permissive (presque toutes les classes sont incluses).
-\item \textbf{Score $s_1$ + données expertes :} quantile plus faible ($0.9649$), traduisant une meilleure sélectivité.
-\item \textbf{Score $s_2$ + données non expertes :} quantile de $0.7538$, relativement élevé dans l’échelle propre à $s_2$.
-\item \textbf{Score $s_2$ + données expertes :} quantile encore plus faible ($0.5614$), qui peut suggérer moins bonne adaptation du modèle, mais uniquement dans le cadre du score $s_2$.
-\end{itemize}
 
 \vspace{0.2cm}
 
@@ -635,7 +627,7 @@ La \autoref{fig:quantiles} illustre la répartition des observations testées se
 
 \vspace{0.2cm}
 
-L’analyse montre que le score $s_2$ tend à réduire la proportion d’observations acceptées, en particulier lorsqu’il est appliqué aux données expertes. Cela suggère une méthode plus rigoureuse, favorisant un filtrage plus strict.
+Donc, nous pouvons voir que le score $s_2$ tend à réduire la proportion d’observations acceptées, en particulier lorsqu’il est appliqué aux données expertes.
 
 \vspace{0.2cm}
 
@@ -647,11 +639,11 @@ Une fois ces quantiles obtenus, nous avons pu les utiliser afin de tester la val
 
 \subsubsection{Test sur nos données expertes}
 
-Pour évaluer l'efficacité de notre approche de prédiction conforme, nous avons mesuré deux métriques principales sur nos ensembles de test que sont le taux de couverture et leurs tailles (moyenne et médiane). 
+Pour évaluer l'efficacité de notre approche de prédiction conforme, nous avons mesuré deux métriques principales que sont le taux de couverture et leurs tailles (moyenne et médiane) que nous avons calculé sur nos ensembles de prédiction construit à partie de nos données de test. 
 
 \vspace{0.2cm}
 
-Le taux de couverture représente la proportion des observations pour lesquelles la vraie classe est incluse dans l'ensemble de prédiction, c'est-à-dire que nous avons conservé toutes les classes pour lesquelles leur probabilité était supérieure à $1 -$ quantile. Idéalement, ce taux devrait être aux alentours de $1- \alpha$, c'est-à-dire à $95\%$.
+Le taux de couverture représente la proportion des observations pour lesquelles la vraie classe est incluse dans l'ensemble de prédiction. Idéalement, ce taux devrait être aux alentours de $1- \alpha$, c'est-à-dire à $95\%$.
 
 \vspace{0.2cm}
 
@@ -680,10 +672,10 @@ Après avoir défini notre méthodologie et implémenté les algorithmes corresp
     \hline
     \textbf{Configuration} & \textbf{Taux de couverture} & \textbf{Taille moyenne} & \textbf{Taille médiane} \\
     \hline
-    $s_1$ (Softmax) + non expert & $96.45\%$ & $15.47$ & $10.00$ \\
-    $s_1$ + expert & $94.82\%$ & $2.13$ & $2.00$ \\
-    $s_2$ (APS) + non expert & $97.92\%$ & $1.11$ & $1.00$ \\
-    $s_2$ + expert & $94.91\%$ & $0.90$ & $1.00$ \\
+    $s_1$ (Softmax) + non expert & $96.45\%$ & $16.05$ & $10.00$ \\
+    $s_1$ + expert & $94.82\%$ & $2.16$ & $2.00$ \\
+    $s_2$ (APS) + non expert & $96.45\%$ & $11.24$ & $7.00$ \\
+    $s_2$ + expert & $94.76\%$ & $4.01$ & $2.00$ \\
     \hline
     \end{tabular}
 \caption{Configuration et caractéristiques obtenues (couverture, tailles moyenne et médiane)}
@@ -694,11 +686,19 @@ Ces résultats révèlent plusieurs tendances importantes concernant l'effet du 
 
 \vspace{0.2cm}
 
-Les configurations basées sur les données non-expertes ont tendance à produire des ensembles de prédiction légèrement plus larges que ce que nous avions comme objectif, ce qui pourrait indiquer que les scores de test (experts) ne se comporte pas de la même manière que ceux de la calibration (non experts). Les calibrations avec données expertes respectent le taux de couverture que nous nous étions fixé (de $95\%$), reflétant une meilleure qualité de calibration malgré la taille d’échantillon plus réduite. Nous vérifierons si le taux de couverture observé diffère significativement du taux attendu de $95 \%$, à l’aide d’un test du Chi-deux, plus tard dans notre rapport.
+Les configurations basées sur les données non-expertes ont tendance à produire des ensembles de prédiction couvrant plus de bon labels que ce que nous avions défini, ce qui pourrait indiquer que les scores de test (experts) ne se comportent pas de la même manière que ceux de la calibration (non experts). Les calibrations avec données expertes respectent le taux de couverture que nous nous étions fixé (de $95\%$), reflétant une meilleure qualité de calibration malgré la taille d’échantillon plus réduite. Nous vérifierons si le taux de couverture est significativement différent du taux attendu de $95\%$, à l’aide d’un test du Chi-deux, plus tard dans notre rapport.
 
 \vspace{0.2cm}
 
-Si nous cherchons à comparer nos deux scores, nous pouvons voir qu'il y a une différence au niveau de la taille moyenne et médiane des ensembles de prédiction. En effet, on voit que les tailles sont plus faible lorsque nous utilisons le deuxième score sans affecter drastiquement le taux de couverture. Cela indique que $s_2$ permet de construire des ensembles plus compacts tout en maintenant un bon niveau de fiabilité. Cependant, le fait que la taille moyenne du score cumulatif et de la calibration sur les données expertes soit inférieure à $1$ et non experte soit égale à $1,11$ nous indique qu'il y a un grand nombre de cas où l'algorithme ne sort aucune prédiction à l'utilisateur et c'est un problème car l'objectif est d'être précis mais également d'apporter une réponse à l'utilisateur. Cela laisse à penser que le quantile est trop faible et donc ne propose pas de réponses avec un probabilité moyenne même si c'est la plus élevée.
+Si nous cherchons à comparer nos deux scores, nous pouvons voir qu'il y a une différence au niveau de la taille moyenne et médiane des ensembles de prédiction. En effet, nous pouvons voir que, lorsque nous utilisons les données non expertes en tant que données de calibration, nous obtenons des tailles d'ensemble bien plus importante que lorsque nous utilisons les données expertes, pouvant ainsi expliquer en partie pourquoi nous obtenons des taux de couvertures plus importants dans ces cas-là. De plus, nous voyons que les tailles médianes sont similaires pour les configurations $2$ et $4$. Le fait que le nombre de label par observations soit de $2$ pour la médiane nous indique que les tailles semblent raisonnable et qu'il n'y a pas besoin d'un nombre de label très important pour respecter le taux de couverture attendu, ce qui est une bonne chose.
+
+\vspace{0.2cm}
+
+Pour essayer de comparer l'utilisation de l'un ou l'autre des scores, nous pouvons dire que les tailles moyennes sont différentes, avec celle de la configuration $4$ près de deux fois supérieure à celle de la deuxième. Cela pourrait s'expliquer par le fait qu'il y a sûrement des valeurs extrêmes avec un nombre de label très important pour certaines observations, ce qui fait monter la moyenne mais en laissant la médiane similaire.
+
+\vspace{0.2cm}
+
+Si nous devions conclure sur une configuration optimale, nous prendrons les groupes de calibration et les groupes de test pour les données expertes. En ce qui concerne le score, les deux semblent donner des ensembles cohérents mais nous privilégierons le premier score (soft max) pour sa taille moyenne inférieure à celle du score APS.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
