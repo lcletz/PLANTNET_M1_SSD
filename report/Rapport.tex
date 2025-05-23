@@ -126,7 +126,7 @@ Pl@ntNet est un projet de sciences participatives accessible sous forme d’appl
 
 \vspace{0.2cm}
 
-Son objectif principal est d'aider le grand public et les professionnels en botanique à identifier les espèces végétales à partir de photographies. L'application s'appuie sur des algorithmes d'intelligence artificielle qui analysent les caractéristiques visuelles des plantes (écorce, feuilles, fruits, fleurs, etc.) pour proposer des identifications. Au-delà de la reconnaissance des plantes, Pl@ntNet permet également de cartographier la distribution géographique des espèces végétales en fonction de la localisation des photographies partagées par les utilisateurs.
+Son objectif principal est d'aider le grand public et les professionnels en botanique à identifier les espèces végétales à partir de photographies. L'application s'appuie sur des algorithmes d'intelligence artificielle (IA) qui analysent les caractéristiques visuelles des plantes (écorce, feuilles, fruits, fleurs, etc.) pour proposer des identifications. Au-delà de la reconnaissance des plantes, Pl@ntNet permet également de cartographier la distribution géographique des espèces végétales en fonction de la localisation des photographies partagées par les utilisateurs.
 
 \vspace{0.2cm}
 
@@ -134,7 +134,7 @@ Pl@ntNet est basée sur un principe d’apprentissage coopératif et itératif. 
 
 \vspace{0.2cm}
 
-Le processus fonctionne ainsi : lorsqu'un utilisateur soumet une photographie, l'algorithme d'intelligence artificielle analyse l'image et génère une liste d'espèces candidates (appelées étiquettes), chacune associée à une probabilité. L'espèce affichée en première position est celle que l'intelligence artificielle estime la plus probable, suivie des autres classées par ordre décroissant de probabilité. Pour garantir la pertinence des suggestions et ne pas surcharger l'utilisateur d'informations avec des espèces peu probables, l'affichage est limité aux espèces dont la probabilité dépasse le seuil minimal, fixé à $0,001$ (soit $0,1\%$).
+Le processus fonctionne ainsi : lorsqu'un utilisateur soumet une photographie, l'algorithme d'intelligence artificielle analyse l'image et génère une liste d'espèces candidates (appelées "étiquettes" ou "labels"), chacune associée à une probabilité. L'espèce affichée en première position est celle que l'intelligence artificielle estime la plus probable, suivie des autres classées par ordre décroissant de probabilité. Pour garantir la pertinence des suggestions et ne pas surcharger l'utilisateur d'informations avec des espèces peu probables, l'affichage est limité aux espèces dont la probabilité dépasse le seuil minimal, fixé à $0,001$ (soit $0,1\%$).
 
 \vspace{0.2cm}
 
@@ -148,7 +148,7 @@ Toutes les interactions entre les utilisateurs et le système (incluant les imag
 
 \subsection{Présentation du jeu de données}
 
-Notre étude s'est appuyée sur plusieurs jeux de données extraits de Pl@ntNet. Ces extractions de la base, normalement non-accessible au public et organisée de manière relativement complexe, ont été rendues accessibles principalement à des fins de recherche et présentent, plus clairement et intuitivement, chacune des caractéristiques spécifiques en termes de taille, de structure et de variables, qui comprennent en sus les annotations des utilisateurs.
+Notre étude s'est appuyée sur plusieurs jeux de données extraits de Pl@ntNet. Ces extractions de la base, qui est normalement non-accessible au public et organisée de manière relativement complexe, ont été rendues accessibles principalement à des fins de recherche. Elles présentent plus clairement et intuitivement chacune des caractéristiques spécifiques en termes de taille, de structure et de variables, qui comprennent en sus les annotations des utilisateurs.
 
 \vspace{0.2cm}
 
@@ -216,7 +216,7 @@ Dans un deuxième temps, nous avons travaillé avec un échantillon plus restrei
 
 \subsection{Outils}
 
-Pour mener à bien nos analyses, nous avons développé une chaîne de traitements combinant plusieurs langages et outils de programmation. Tous nos codes sont disponibles en libre accès sur notre \href{https://github.com/lcletz/PLANTNET_M1_SSD}{Github} ainsi que les données partagées entre nous au fur et à mesure de l'étude sur la plateforme Zenodo : l'ensemble des \href{https://zenodo.org/records/15355864}{données post-traitement}, les \href{https://zenodo.org/records/15353081}{scores} calculées sur les données traitées qui ont en suite été divisées en \href{https://zenodo.org/records/15358242}{non-experts} et \href{https://zenodo.org/records/15441471}{experts}.
+Pour mener à bien nos analyses, nous avons développé une chaîne de traitements combinant plusieurs langages et outils de programmation. Tous nos codes sont disponibles en libre accès sur notre \href{https://github.com/lcletz/PLANTNET_M1_SSD}{Github} ainsi que les données partagées entre nous au fur et à mesure de l'étude sur la plateforme Zenodo : l'ensemble des \href{https://zenodo.org/records/15355864}{données post-traitement}, les \href{https://zenodo.org/records/15464436}{scores} calculées sur les données traitées qui ont en suite été divisées en \href{https://zenodo.org/records/15441507}{non-experts et experts}.
 
 \subsubsection{Environnement de développement}
 
@@ -243,6 +243,7 @@ Pour nos analyses sous Python, les bibliothèques dont nous avons fait usage son
     \item \textbf{Aléatoire :} \texttt{random} pour mélanger et diviser les données de manière aléatoire mais reproductible.
     \item \textbf{Exportation de graphique :} \texttt{kaleido} qui est une bibliothèque pour exporter des graphiques issus de \texttt{plotly} en images statiques.
     \item \textbf{Test du $\chi^2$ :} \texttt{scipy.stats} qui fournit des outils statistiques, notamment la fonction \texttt{chisquare} utilisée pour évaluer si la distribution observée des classes prédites diffère significativement d'une distribution attendue.
+    \item \textbf{Comparaison de quantiles} : \texttt{mapie.conformity scores} pour comparer les ordres de grandeurs des quantiles que nous avons calculé.
 \end{itemize}
 
 \vspace{0.2cm}
@@ -261,11 +262,11 @@ Une étape importante consistait à établir une vérité terrain fiable pour ch
 
 \vspace{0.2cm}
 
-Ces données séparées, nous avons pu lancer le premier algorithme de pré-traitement de celles-ci dont le but est de chercher dans chaque liste d'espèces, pour chaque observation, le label considéré comme la vérité terrain.
+Nous avons pu lancer le premier algorithme de pré-traitement sur les données séparées entre experts et non-experts. Le but est de chercher dans chaque liste d'espèces, pour chaque observation, le label considéré comme la vérité terrain.
 
 \vspace{0.2cm}
 
-Comme les listes que nous avons récupérées étaient tronquées, ne conservant que les espèces dont la probabilité prédite est supérieure à un certain seuil ($1/1000$), nous avons décidé de considérer que les classes non présentes dans la liste avaient une probabilité de $1/1000$, ce qui nous a permis d'appliquer les formules de scores décrites dans la prochaine section sans souci.
+Comme les listes que nous avons récupérées étaient tronquées, ne conservant que les espèces dont la probabilité prédite est supérieure à un certain seuil ($1/1000$), nous avons décidé de considérer que les classes non présentes dans la liste avaient une probabilité de $1/1000$, ce qui nous a permis d'appliquer les formules de scores décrites dans la prochaine section.
 
 \vspace{0.2cm}
 
@@ -279,7 +280,7 @@ Ces adaptations nous ont permis d'appliquer avec succès le cadre de prédiction
 
 \subsection{Statistiques descriptives}
 
-Bien avant de nous atteler aux analyses plus poussées comme les algorithmes de prédiction conforme ou les calculs des scores, nous avons réalisé une série de statistiques descriptives sur les premiers jeux de données. Ces analyses préliminaires nous ont permis de mieux comprendre la nature des données et d'identifier certains phénomènes intéressants.
+Bien avant de nous atteler aux analyses plus poussées comme les algorithmes de prédiction conforme ou les calculs des scores, nous avons réalisé une série de statistiques descriptives. Ces analyses préliminaires nous ont permis de mieux comprendre la nature des données et d'identifier certains phénomènes intéressants.
 
 \subsubsection{Distribution des espèces observées}
 
@@ -313,7 +314,7 @@ Au-delà de la simple fréquence d'apparition de ces espèces, qui semble seulem
 \caption{Nuages de points de la moyenne des scores ou des scores max en fonction du nombre d'observations}
 \end{figure}
 
-Ces deux graphes, comptant environ $\num{1100}$ espèces distinctes désignées aléatoirement, révèlent plusieurs phénomènes intéressants. Nous les constaterons grâce à cette répartition des scores en fonction du nombre d'observations par espèces.
+Ces deux graphes, comptant environ $\num{1100}$ espèces distinctes désignées aléatoirement, révèlent plusieurs phénomènes intéressants. Nous allons les constater ci-après à l'aide de cette répartition des scores en fonction du nombre d'observations par espèces.
 
 \vspace{0.2cm}
 
@@ -368,11 +369,11 @@ Les espèces associées aux probabilités "Top 1" ne sont pas systématiquement 
 
 \vspace{0.2cm}
 
-Si \textit{Prunus Spinosa L.} est toujours présente dans ce graphique, c'est l'espèce \textit{Malva sylvestris L.} (\hyperref[fig:malva]{\textcolor{purple}{figure 6}}), une fleur au mauve intense, qui est en tête. Elle est donc la plus souvent choisie par les utilisateurs pour cet échantillon. Ce graphique seul indique que l'espèce prédite en première par l'intelligence artificielle, celle en qui l'algorithme est le plus confiant, n'est pas toujours ce que l'utilisateur compte choisir. Il est envisageable que les espèces proposées par l'inteligence artificielle dans son "Top K" se ressemblent : il existe par exemple plusieurs espèces d'iris ou de lotus partageant donc des caractéristiques communes, on parle de "familles".
+Si \textit{Prunus Spinosa L.} est toujours présente dans ce graphique, c'est l'espèce \textit{Malva sylvestris L.} (\hyperref[fig:malva]{\textcolor{purple}{figure 6}}), une fleur au mauve intense, qui est en tête. Elle est donc la plus souvent choisie par les utilisateurs pour cet échantillon. Ce graphique seul indique que l'espèce prédite en premier par l'intelligence artificielle, celle en qui l'algorithme est le plus confiant, n'est pas toujours ce que l'utilisateur compte choisir. Il est envisageable que les espèces proposées par l'inteligence artificielle dans son "Top K" se ressemblent : il existe par exemple plusieurs espèces d'iris ou de lotus partageant des caractéristiques communes, on parle de "familles".
 
 \vspace{0.2cm}
 
-Parmi les espèces les moins choisies par les utilisateurs dans cet échantillon, nous notons la \textit{Daphne striata Tratt.} (\hyperref[fig:malva]{\textcolor{purple}{figure 6}}), un arbrisseau à fines fleurs roses produisant des baies qui ressemblent à des œufs, le \textit{Crepis bursifolia L.}, une fleur jaune courante dans l'Hérault et le Var mais qui ne s'observe que vers Mai-Juin, ou le \textit{Cencrhus setaceus (Forssk.) Morrone}, une herbe envahissante dans toute l'Afrique. Ce sont des espèces faciles à reconnaître mais peu courantes.
+Parmi les espèces les moins choisies par les utilisateurs dans cet échantillon, nous notons la \textit{Daphne striata Tratt.} (\hyperref[fig:malva]{\textcolor{purple}{figure 6}}), un arbrisseau à fines fleurs roses produisant des baies qui ressemblent à des œufs, le \textit{Crepis bursifolia L.}, une fleur jaune courante dans l'Hérault et le Var mais qui ne s'observe que vers mai-juin, ou le \textit{Cenchrus setaceus (Forssk.) Morrone}, une herbe envahissante dans toute l'Afrique. Ce sont des espèces faciles à reconnaître mais peu courantes.
 
 \begin{figure}[H]
     \centering
@@ -386,7 +387,7 @@ Parmi les espèces les moins choisies par les utilisateurs dans cet échantillon
 \end{figure}
 
 
-Puisque l'échantillon étudié est moins conséquent que celui de la première étude, environ 1400 espèces ont été piochées aléatoirement, soit trois centaines supplémentaires, pour une meilleure intuition. 
+Puisque l'échantillon étudié est moins conséquent que celui de la première étude, alors environ $\num{1400}$ espèces ont été piochées aléatoirement, soit trois centaines supplémentaires, pour une meilleure intuition. 
 
 \vspace{0.2cm}
 
@@ -417,7 +418,6 @@ Outre ces deux espèces, nous remarquons qu'il y a plusieurs espèces aux scores
 
 Ces observations préliminaires nous ont confirmé la nécessité d'une approche adaptative pour la présentation des résultats aux utilisateurs. En effet, un système qui proposerait un nombre fixe d'espèces candidates serait soit trop restrictif dans les cas difficiles (risquant d'oublier la bonne espèce), soit trop verbeux dans les cas simples (noyant l'utilisateur sous des propositions inutiles).
 
-\vspace{0.2cm}
 \vspace{0.2cm}
 
 La prédiction conforme, que nous allons introduire dans la section suivante, offre plus précisément le cadre mathématique nécessaire pour adapter dynamiquement le nombre de suggestions en fonction de la difficulté de chaque cas d'identification.
@@ -477,7 +477,7 @@ La prédiction conforme est un cadre statistique qui permet de quantifier l'ince
 
 \subsubsection{Cadre mathématiques}
 
-Nous considérons $(X_i, Y_i)$ des paires constituées de caractéristiques ($X_i$) et de réponses ($Y_i$) indépendantes et identiquement distribuées issues d'une distribution inconnue $P$, avec $i = 1, \dots, n$. Dans notre contexte, $X_i$ représente les caractéristiques extraites d'une image de plante, et $Y_i \in \{1, 2, \dots, K\}$ l'indice de la véritable espèce parmi les $K$ possibles. Notre espace des caractéristiques est $X = \mathbb R^d$ et notre espace des réponses est $Y = \mathbb R$.
+Nous considérons $(X_i, Y_i)$ des paires constituées de caractéristiques ($X_i$) et de réponses ($Y_i$) indépendantes et identiquement distribuées issues d'une distribution inconnue $P$, avec $i = 1, \dots, n$. Dans notre contexte, $X_i$ représente les caractéristiques extraites d'une image de plante, et $Y_i \in \{1, 2, \dots, K\}$ l'indice de la véritable espèce parmi les $K$ possibles. Notre espace des caractéristiques est $\mathcal{X} = \mathbb R^d$ et notre espace des réponses est $\mathcal{Y} = \mathbb R$.
 
 \vspace{0.2cm}
 
@@ -519,7 +519,7 @@ Dans notre contexte de classification, plusieurs fonctions de score sont possibl
 
 \vspace{0.2cm}
 
-Le score basé sur la probabilité de la vraie classe (\cite{Vovk}) se calcule comme suit : 
+Le score basé sur la probabilité de la vraie classe (\cite{Vovk}), appelée softmax, se calcule comme suit : 
 $$ s_1(X_i, Y_i) = 1 - p_{Y_i}(X_i) $$ où $p_{Y_i}(X_i)$ est la probabilité prédite par le modèle pour le vrai label. Plus cette probabilité est élevée et plus le score est faible, ce qui est souhaitable.
 
 \vspace{0.2cm}
@@ -529,7 +529,7 @@ $$ s_2(X_i, Y_i) = \sum_{j=1}^{r(X_i, Y_i)-1} p_{(j)}(X_i) $$ où $p_{(j)}(X_i)$
 
 \vspace{0.2cm}
 
-Le score $s_2$ présente l'avantage de produire des ensembles de prédiction dont la taille varie en fonction de la confiance du modèle : pour les cas faciles où la vraie classe reçoit une probabilité dans celles les plus élevées (donc un rang faible), la somme sera petite et l'ensemble de prédiction contiendra peu de classes. Au contraire, pour les cas difficiles, l'ensemble sera plus grand pour maintenir la garantie de couverture.
+Ces scores présentent l'avantage de produire des ensembles de prédiction dont la taille varie en fonction de la confiance du modèle : pour les cas faciles où la vraie classe reçoit une probabilité dans celles les plus élevées (donc un rang faible), la somme sera petite et l'ensemble de prédiction contiendra peu de classes. Au contraire, pour les cas difficiles, l'ensemble sera plus grand pour maintenir la garantie de couverture.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -539,9 +539,9 @@ Au-delà de la définition théorique des scores de non-conformité, nous avons 
 
 \subsubsection{Division des données}
 
-Notre stratégie de division s'articule autour de deux critères principaux : l'expertise des utilisateurs et le type de score utilisé. Cette approche nous a conduit à créer quatre configurations distinctes : 
+Notre stratégie de division s'articule autour de deux critères principaux : l'expertise des utilisateurs et le type de score utilisé. En ce qui concerne les scores des données expertes, nous les avons séparés en une moitié qui pourra servir d'ensemble de calibration, et une seconde moitié qui servira toujours d'ensemble de test. Cette approche nous a conduit à créer quatre configurations distinctes : 
 \begin{itemize}
-    \item \textbf{Configuration $1$ :} score $s_1$ (probabilité de la vraie classe) avec calibration sur toutes les données non-expertes et test sur la moitié des données expertes.
+    \item \textbf{Configuration $1$ :} score $s_1$ (score softmax) avec calibration sur toutes les données non-expertes et test sur la moitié des données expertes.
     \item \textbf{Configuration $2$ :} score $s_1$ avec calibration sur la moitié des données expertes et test sur l'autre moitié des données expertes.
     \item \textbf{Configuration $3$ :} score $s_2$ (score cumulatif APS) avec calibration sur toutes les données non-expertes et test sur la moitié des données expertes.
     \item \textbf{Configuration $4$ :} score $s_2$ avec calibration sur la moitié des données expertes et test sur l'autre moitié des données expertes.
@@ -552,7 +552,7 @@ Notre stratégie de division s'articule autour de deux critères principaux : l'
 Nous avons représenté ces configurations comme suit : 
 \begin{figure}[H]
     \centering
-    \includegraphics[scale=0.6]{images/Models.png}
+    \includegraphics[height = 6.8cm]{images/Models.png}
     \caption{Représentation de nos quatre configurations}
     \label{models}
   \end{figure}
@@ -563,19 +563,23 @@ Cette structure nous permet d'évaluer non seulement l'impact du choix de la fon
 
 \vspace{0.2cm}
 
-Pour assurer la représentativité de nos échantillons, nous avons divisé les données expertes aléatoirement et avons vérifié que les deux groupes créés étaient bien similaires en termes de scores
+Pour assurer la représentativité de nos échantillons, nous avons divisé les données expertes aléatoirement et avons vérifié que les deux groupes créés étaient bien similaires en termes de scores.
 
 \vspace{0.2cm}
 
 Un léger problème s'est posé à nous après le calcul des scores. En effet, certaines observations présentaient des scores supérieurs à $1$, ce qui, s'agissant de valeurs dérivées de probabilités, n'est pas cohérent puisqu'ils devraient être compris entre $0$ et $1$. Après avoir examiné les quelques cas pour lesquels nous avons rencontré cette anomalie, nous avons constaté que ce phénomène n'apparaissait que pour les scores APS et uniquement pour des observations présentant des particularités au niveau de l'acquisition des données. Par exemple, nous avons identifié des cas où plusieurs plantes étaient présentes sur une même observation, ce qui engendrait une confusion pour l'algorithme qui ne pouvait déterminer avec précision quelle espèce identifier en priorité. Étant donné que ces cas problématiques étaient relativement rares ($149$ observations sur l'ensemble de notre échantillon de données), nous avons choisi de les exclure de notre analyse pour préserver l'intégrité de nos résultats.
 
+\vspace{0.2cm}
+
+Nous avons également remarqué qu'il y a environ $7\%$ de nos données dont le vrai label n'était pas compris dans nos ensembles, et ce possiblement dû à la troncature des labels avec une probabilité inférieure à $0,001$. Nous avons donc décidé d'imputer un score de $0,999$ pour ces observations-là, dans les deux types de scores que nous utilisons. Nous pouvons donc nous attendre à un léger biais dans le calcul des quantiles ci-dessous.
+
 \subsubsection{Calcul des quantiles}
 
 Une fois les données divisées, l'étape suivante a consisté à calculer les quantiles des scores de non-conformité qui nous permettraient de construire nos ensembles de prédiction avec le niveau de garantie souhaitée de $95\%$.
 
-\vspace{0.2cm}
+\vspace{3cm}
 
-Pour chaque configuration, nous avons commencé par récupérer les scores pour chaque observation du jeu de calibration que nous avons précédemment calculé. Puis, nous avons calculé le quantile à l'aide de la formule suivante : $$\frac{[(n+1)(1 - \alpha)]}{n}, \quad \text{avec } \alpha = 0,05$$ avec $\alpha$ qui représente notre niveau d'erreur souhaité et $n$ le nombre d'observations dans notre ensemble d'apprentissage. Enfin, nous avons implémenté une fonction qui, pour toute nouvelle observation, calcule les scores de non-conformité pour chaque classe possible et inclut dans l'ensemble de prédiction toutes les classes dont le score est inférieur au quantile calculé précédemment.
+Pour chaque configuration, nous avons commencé par récupérer les scores pour chaque observation du jeu de calibration que nous avons précédemment calculé. Puis, nous avons calculé le quantile à l'aide de la formule suivante : $$\frac{\lceil(n+1)(1 - \alpha)\rceil}{n}, \quad \text{avec } \alpha = 0,05$$ où $\alpha$ représente notre niveau d'erreur souhaité et $n$ le nombre d'observations dans notre ensemble d'apprentissage. Enfin, nous avons implémenté une fonction qui, pour toute nouvelle observation, calcule les scores de non-conformité pour chaque classe possible et inclut dans l'ensemble de prédiction toutes les classes dont le score est inférieur au quantile calculé précédemment.
 
 \vspace{0.2cm}
 
@@ -587,7 +591,7 @@ Pour le calcul concret du quantile, nous avons utilisé la fonction quantile de 
         \hline
         \textbf{Configuration} & \textbf{Quantile calculé} \\
         \hline
-        Score $s_1$ (soft max) + données non expertes & $0.9990$ \\
+        Score $s_1$ (softmax) + données non expertes & $0.9990$ \\
         Score $s_1$ + données expertes & $0.9649$ \\
         Score $s_2$ (APS) + données non expertes & $0.9990$ \\
         Score $s_2$ + données expertes & $0.7932$ \\
@@ -597,23 +601,15 @@ Pour le calcul concret du quantile, nous avons utilisé la fonction quantile de 
     \label{tab: scores et quantiles}
 \end{table}
 
-\vspace{0.2cm}
-
-Ces quantiles sont des seuils critiques, c'est-à-dire que pour le premier score (qui correspond au score soft max), nous incluons dans notre ensemble de prédiction toutes les classes dont le score est inférieur au quantile. Pour le deuxième score (qui correspond au score cumulatif APS), nous incluons les classes jusqu'à ce que leur somme cumulée dépasse le quantile.
-
-\begin{figure}[H]
-    \centering
-        \includegraphics[width=1\linewidth]{images/quantiles.png}
-    \caption{Conservation des observations en fonction des quantiles des configurations}
-    \label{fig:quantiles}
-\end{figure}
-
-Analysons le \hyperref[tab: scores et quantiles]{\textcolor{purple}{tableau 2}} ainsi que la \hyperref[fig:quantiles]{\textcolor{purple}{figure 9}} associée.
-Ce tableau présente les quantiles calculés pour chaque configuration de score ($s_1$ ou $s_2$) et de type de données (expertes ou non expertes).
+Le \hyperref[tab: scores et quantiles]{\textcolor{purple}{tableau 2}} présente les quantiles calculés pour chaque configuration de score ($s_1$ ou $s_2$) et de type de données (expertes ou non expertes).
 
 \vspace{0.2cm}
 
-Il est important de noter que les quantiles obtenus pour $s_1$ et $s_2$ ne sont pas directement comparables, car ces scores se calculent de manière différentes et sont définis sur des échelles distinctes. Mais il vont nous servir par la suite à définir nos ensembles de prédiction et pouvoir comparer nos configurations.
+Ces quantiles sont des seuils critiques, c'est-à-dire que pour le premier score (qui correspond au score softmax), nous incluons dans notre ensemble de prédiction toutes les classes dont le score est inférieur au quantile. Pour le deuxième score (qui correspond au score cumulatif APS), nous incluons les classes jusqu'à ce que leur somme cumulée dépasse le quantile.
+
+\vspace{0.2cm}
+
+Il est important de noter que les quantiles obtenus pour $s_1$ et $s_2$ ne sont pas directement comparables, car ces scores se calculent de manière différente et sont définis sur des échelles distinctes. Mais il vont nous servir par la suite à définir nos ensembles de prédiction et pouvoir comparer nos configurations.
 
 \vspace{0.2cm}
 
@@ -623,17 +619,26 @@ Autrement dit, un quantile plus bas pour $s_2$ ne signifie pas nécessairement u
 
 Ces résultats soulignent le rôle des quantiles comme seuil critique dans la prise de décision. Un quantile élevé reflète une tolérance accrue aux écarts (donc une confiance moindre dans la sélection), tandis qu’un quantile plus bas indique une sélection plus exigeante. Chaque score ajuste ainsi la sensibilité du modèle selon le type de données utilisées.
 
+\begin{figure}[H]
+    \centering
+        \includegraphics[height = 9.5cm]{images/quantiles.png}
+    \caption{Conservation des observations en fonction des quantiles des configurations}
+    \label{fig:quantiles}
+\end{figure}
+
+La \hyperref[fig:quantiles]{\textcolor{purple}{figure 9}} illustre la répartition des observations testées selon les scores $s_1$ et $s_2$, en distinguant les données expertes et non expertes. L’axe des abscisses représente les scores, tandis que l’axe des ordonnées indique les $\num{13251}$ observations testées pour chaque configuration. Chaque point correspond à une observation : la valeur affichée représente le score de non-conformité associé à la vraie espèce (le bon label) pour cette observation. La ligne rouge en pointillé marque le seuil du quantile utilisé pour la prédiction conforme. Les couleurs différenciées permettent de visualiser la conformité des observations : en violet les observations conformes (c’est-à-dire dont la vraie espèce est incluse dans l’ensemble de prédiction), en rose celles jugées non conformes.
+
 \vspace{0.2cm}
 
-La \hyperref[fig:quantiles]{\textcolor{purple}{figure 9}} illustre la répartition des observations testées selon les scores $s_1$ et $s_2$, en distinguant les données expertes et non expertes. L’axe des abscisses représente les types de score, tandis que l’axe des ordonnées indique les scores de non-conformité calculés pour chaque observation testée. Chaque point correspond à une observation : la valeur affichée représente le score de non-conformité associé à la vraie espèce (le bon label) pour cette observation. La ligne rouge en pointillé marque le seuil du quantile utilisé pour la prédiction conforme. Les couleurs différenciées permettent de visualiser la conformité des observations : en violet les observations conformes (c’est-à-dire dont la vraie espèce est incluse dans l’ensemble de prédiction), en rose celles jugées non conformes.
+Nous pouvons voir que les scores des observations sont bien plus répartis pour les deux graphiques du haut. Il n'y a pas moins d'observations sur les deux autres graphiques, elles sont juste concentrées à $0$. Cela peut s'expliquer par le fait que, si le premier label est notre vérité terrain, alors son score cumulatif APS sera nul.
 
 \vspace{0.2cm}
 
-Donc, nous pouvons voir que le score $s_2$ tend à réduire la proportion d’observations acceptées, en particulier lorsqu’il est appliqué aux données expertes.
+Nous pouvons également remarquer que le score $s_2$ tend à réduire la proportion d’observations acceptées, en particulier lorsqu’il est appliqué aux données expertes.
 
 \vspace{0.2cm}
 
-En conclusion, ces résultats démontrent que le choix du score ainsi que la nature des données influencent de manière significative le processus de sélection des observations.
+En conclusion, ces résultats démontrent que le choix du score ainsi que la nature des données influencent le processus de sélection des observations.
 
 \vspace{0.2cm}
 
@@ -641,7 +646,7 @@ Une fois ces quantiles obtenus, nous avons pu les utiliser afin de tester la val
 
 \subsubsection{Test sur nos données expertes}
 
-Pour évaluer l'efficacité de notre approche de prédiction conforme, nous avons mesuré deux métriques principales que sont le taux de couverture et leurs tailles (moyenne et médiane) que nous avons calculé sur nos ensembles de prédiction construit à partie de nos données de test. 
+Pour évaluer l'efficacité de notre approche de prédiction conforme, nous avons mesuré deux métriques principales que sont le taux de couverture et les tailles moyennes et médianes des ensembles de prédiction que nous avons construit à partir de nos données de test. 
 
 \vspace{0.2cm}
 
@@ -649,7 +654,7 @@ Le taux de couverture représente la proportion des observations pour lesquelles
 
 \vspace{0.2cm}
 
-De plus, nous avons calculé la taille moyenne des ensembles de prédiction, qui correspond au nombre moyen de classes proposées pour chaque observation. Pour une meilleure expérience utilisateur, cette taille doit être la plus petite possible parmi les ensembles non vides, pour garantir une réponse concise et pertinente à l'utilisateur, tout en maintenant une couverture adéquate.
+De plus, nous avons calculé les tailles des ensembles de prédiction, qui correspond au nombre moyen et médian des classes proposées pour chaque observation. Pour une meilleure expérience utilisateur, cette taille doit être la plus petite possible parmi les ensembles non vides, pour garantir une réponse concise et pertinente à l'utilisateur, tout en maintenant une couverture adéquate.
 
 \vspace{0.2cm}
 
@@ -660,7 +665,7 @@ Les résultats que nous avons obtenus seront détaillés dans la partie suivante
 
 \section{Résultats et discussion}
 
-Après avoir défini notre méthodologie et implémenté les algorithmes correspondants, nous avons procédé à l'évaluation systématique des quatre configurations décrites précédemment à l'aide des variables calculées. Cette section présente les résultats obtenus, analyse leurs implications en pratique et discute de la généralisation de notre approche à l'ensemble des données Pl@ntNet.
+Après avoir défini notre méthodologie et implémenté les algorithmes correspondants, nous avons procédé à l'évaluation des quatre configurations décrites précédemment à l'aide des variables calculées. Cette section présente les résultats obtenus, analyse leurs implications en pratique et discute de la généralisation de notre approche à l'ensemble des données Pl@ntNet.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -674,13 +679,13 @@ Après avoir défini notre méthodologie et implémenté les algorithmes corresp
     \hline
     \textbf{Configuration} & \textbf{Taux de couverture} & \textbf{Taille moyenne} & \textbf{Taille médiane} \\
     \hline
-    $s_1$ (Softmax) + non expert & $96.45\%$ & $15.47$ & $10.00$ \\
+    $s_1$ (softmax) + non expert & $96.45\%$ & $15.47$ & $10.00$ \\
     $s_1$ + expert & $94.82\%$ & $2.13$ & $2.00$ \\
     $s_2$ (APS) + non expert & $96.45\%$ & $11.21$ & $7.00$ \\
     $s_2$ + expert & $94.76\%$ & $4.51$ & $2.00$ \\
     \hline
     \end{tabular}
-\caption{Configuration et caractéristiques obtenues (couverture, tailles moyenne et médiane)}
+\caption{Configuration et caractéristiques obtenues (couverture, taille moyenne et médiane)}
 \label{tab3}
 \end{table}
     
@@ -688,19 +693,23 @@ Ces résultats révèlent plusieurs tendances importantes concernant l'effet du 
 
 \vspace{0.2cm}
 
-Les configurations basées sur les données non-expertes ont tendance à produire des ensembles de prédiction couvrant plus de bon labels que ce que nous avions défini, ce qui pourrait indiquer que les scores de test (experts) ne se comportent pas de la même manière que ceux de la calibration (non experts). Les calibrations avec données expertes respectent le taux de couverture que nous nous étions fixé (de $95\%$), reflétant une meilleure qualité de calibration malgré la taille d’échantillon plus réduite. Nous vérifierons si le taux de couverture est significativement différent du taux attendu de $95\%$, à l’aide d’un test du Chi-deux, plus tard dans notre rapport.
+Les configurations basées sur les données non-expertes ont tendance à produire des ensembles de prédiction couvrant plus de bon labels que ce que nous avions défini, ce qui pourrait indiquer que les scores de test (experts) ne se comportent pas de la même manière que ceux de la calibration (non experts). Les calibrations avec données expertes respectent le taux de couverture que nous avions fixé (de $95\%$), reflétant une meilleure qualité de calibration malgré la taille d’échantillon plus réduite. Nous vérifierons si le taux de couverture est significativement différent du taux attendu de $95\%$, à l’aide d’un test du Chi-deux, plus tard dans notre rapport.
 
 \vspace{0.2cm}
 
-Si nous cherchons à comparer nos deux scores, nous pouvons voir qu'il y a une différence au niveau de la taille moyenne et médiane des ensembles de prédiction. En effet, nous pouvons voir que, lorsque nous utilisons les données non expertes en tant que données de calibration, nous obtenons des tailles d'ensemble bien plus importante que lorsque nous utilisons les données expertes, pouvant ainsi expliquer en partie pourquoi nous obtenons des taux de couvertures plus importants dans ces cas-là. De plus, nous voyons que les tailles médianes sont similaires pour les configurations $2$ et $4$. Le fait que le nombre de label par observations soit de $2$ pour la médiane nous indique que les tailles semblent raisonnable et qu'il n'y a pas besoin d'un nombre de label très important pour respecter le taux de couverture attendu, ce qui est une bonne chose.
+Si nous cherchons à comparer nos deux scores, nous pouvons voir qu'il y a une différence au niveau de la taille moyenne et médiane des ensembles de prédiction. En effet, nous pouvons voir que, lorsque nous utilisons les données non expertes en tant que données de calibration, nous obtenons des tailles d'ensemble bien plus importante que lorsque nous utilisons les données expertes. Il se trouve que les taux de couverture associés sont plus importants dans ces cas-là, ce qui pourrait être lié. 
 
 \vspace{0.2cm}
 
-Pour essayer de comparer l'utilisation de l'un ou l'autre des scores, nous pouvons dire que les tailles moyennes sont différentes, avec celle de la configuration $4$ près de deux fois supérieure à celle de la deuxième. Cela pourrait s'expliquer par le fait qu'il y a sûrement des valeurs extrêmes avec un nombre de label très important pour certaines observations, ce qui fait monter la moyenne mais en laissant la médiane similaire.
+De plus, nous voyons que les tailles médianes sont similaires pour les configurations $2$ et $4$. Le fait que le nombre de labels par observations soit de $2$ pour la médiane nous indique que les tailles semblent raisonnables et qu'il n'y a pas besoin d'un nombre de labels très important pour respecter le taux de couverture attendu, ce qui est une bonne chose.
 
 \vspace{0.2cm}
 
-Si nous devions conclure sur une configuration optimale, nous prendrons les groupes de calibration et les groupes de test pour les données expertes. En ce qui concerne le score, les deux semblent donner des ensembles cohérents mais nous privilégierons le premier score (soft max) pour sa taille moyenne inférieure à celle du score APS.
+Pour essayer de comparer l'utilisation de l'un ou l'autre des scores, nous pouvons dire que les tailles moyennes sont différentes, avec celle de la configuration $4$ près de deux fois supérieure à celle de la deuxième. Cela pourrait s'expliquer par le fait qu'il y a sûrement des valeurs extrêmes avec un nombre de label très important pour certaines observations, ce qui fait monter la moyenne tout en laissant la médiane similaire.
+
+\vspace{0.2cm}
+
+Si nous devions conclure sur une configuration optimale, nous prendrions les groupes de calibration et les groupes de test pour les données expertes. En ce qui concerne le score, les deux semblent donner des ensembles cohérents mais nous privilégierons le premier score (softmax) pour sa taille moyenne inférieure à celle du score APS.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -708,7 +717,7 @@ Si nous devions conclure sur une configuration optimale, nous prendrons les grou
 
 Pour vérifier si la division aléatoire des données a influencé les performances, nous avons répété notre expérience avec plusieurs autres graines ($123$ et $545$). Les résultats présentés dans le \hyperref[tab3]{\textcolor{purple}{tableau 3}} ci-dessus proviennent de la graine $42$. Les performances obtenues pour les méthodes calibrées sont présentées ci-dessous :
 
-\begin{table}[h]
+\begin{table}[H]
     \centering
     \begin{tabular}{|l|c|c|c|c|}
         \hline
@@ -732,7 +741,7 @@ Donc nous pouvons remarquer que les résultats sont robustes au split aléatoire
 
 \subsection{Validation statistique des taux de couverture (test du $\chi^2$)}
 
-Afin de confirmer si les taux de couverture observés respectaient réellement la garantie théorique de $95\%$, nous avons appliqué un test statistique du Chi-deux ($\chi^2$) d’adéquation pour chaque méthode. L’hypothèse nulle $(H_0)$ stipule que le taux de couverture est égal à $95\%$ contre l'hypothèse $(H_1)$ qui stipule que le taux de couverture est différent de $95\%$. Le seuil que nous appliquons ici pour déterminer si nous conservons ou rejetons $(H_0)$ est de $3,8415$. Voici un résumé des résultats obtenus pour chaque configuration :
+Afin de confirmer si les taux de couverture observés respectaient réellement la garantie théorique de $95\%$, nous avons appliqué un test statistique du Chi-deux ($\chi^2$) d’adéquation pour chaque méthode. L’hypothèse nulle $(H_0)$ stipule que le taux de couverture est égal à $95\%$ contre l'hypothèse $(H_1)$ qui stipule que le taux de couverture est différent de $95\%$. Le seuil que nous appliquons ici pour déterminer si nous conservons ou rejetons $(H_0)$ est de $3,8415$ pour un nombre de degré de liberté égal à $1$. Voici un résumé des résultats obtenus pour chaque configuration :
 
 \begin{table}[H]
     \centering
@@ -750,7 +759,7 @@ Afin de confirmer si les taux de couverture observés respectaient réellement l
     \label{tab:Tests du Chi-2}
 \end{table}
 
-Ces résultats montrent que, lorsque la calibration est effectuée sur des données non expertes, la couverture obtenue est significativement trop élevée, trahissant une surestimation du quantile. À l’inverse, les calibrations effectuées sur des données expertes respectent bien la garantie de $95\%$ et passent le test sans rejeter $H_0$, validant ainsi la bonne calibration.
+Ces résultats montrent que, lorsque la calibration est effectuée sur des données non expertes, la couverture obtenue est élevée, trahissant une surestimation du quantile. À l’inverse, les calibrations effectuées sur des données expertes respectent bien la garantie de $95\%$ et passent le test sans rejeter $H_0$, validant ainsi la bonne calibration.
 
 \subsection{Perspectives d'intégration dans l'application}
 
@@ -760,11 +769,51 @@ L'objectif de ce travail est de rendre l'utilisation de l'application bien plus 
 
 \vspace{0.2cm}
 
-Dans un premier temps, nous pourrions nous baser sur les quantiles que nous avons calculé (avec le deuxième score et les données expertes) afin de ne conserver que les prédictions d'espèces dont la probabilité dépasse le $1 -$ quantile. Ainsi, l'utilisateur aurait un nombre d'espèces proposées bien moins important et il lui serait plus facile et plus rapide de vérifier quelle proposition lui semble adéquat avec la plante qui se trouve devant lui.
+Dans un premier temps, nous pourrions nous baser sur les quantiles que nous avons calculé (avec le premier score et les données expertes) afin de ne conserver que les prédictions d'espèces dont la probabilité dépasse le $1 -$ quantile. Ainsi, l'utilisateur aurait un nombre d'espèces proposées bien moins important et il lui serait plus facile et plus rapide de vérifier quelle proposition lui semble adéquat avec la plante qui se trouve devant lui.
 
 \vspace{0.2cm}
 
-Si nous reprenons l'exemple de la \hyperref[fig:prediction_sets]{\textcolor{purple}{figure 7}}, alors nous obtiendrons une taille de une seule espèce prédite pour chacune des observations. Cela s'explique par le fait qu'il n'y a que la première prédiction dont la probabilité était supérieure à $1 - 0,5614$. Cependant, pour la dernière plante, étant donné que la photographie est de mauvaise qualité, ce n'est pas la bonne espèce qui est prédite (elle fait partie de $5\%$ d'erreur).
+\begin{figure}[H]
+    \centering
+    \begin{tabular}{@{}c@{\hspace{1mm}}c@{\hspace{1mm}}c@{}}
+        % Première image et prédiction
+        \begin{minipage}[t]{0.33\textwidth}
+            \centering
+            \includegraphics[width=\linewidth,height=4.5cm,keepaspectratio]{images/Daphne_1.jpeg}
+            \[ \left\{ \begin{array}{@{}p{3.3cm}@{\hspace{2mm}}r@{}}
+                \footnotesize\textcolor{magenta}{Daphne striata Tratt.} & \footnotesize 0,9556
+            \end{array} \right\} \]
+        \end{minipage}
+        & 
+        % Deuxième image et prédiction
+        \begin{minipage}[t]{0.33\textwidth}
+            \centering
+            \includegraphics[width=\linewidth,height=4.5cm,keepaspectratio]{images/Daphne_2.jpeg}
+            \[ \left\{ \begin{array}{@{}p{3.3cm}@{\hspace{2mm}}r@{}}
+                \footnotesize\textcolor{magenta}{Daphne striata Tratt.} & \footnotesize 0,7547 \\
+                \footnotesize Daphne cneorum L. & \footnotesize 0,2100
+            \end{array} \right\} \]
+        \end{minipage}
+        &
+        % Troisième image et prédiction
+        \begin{minipage}[t]{0.33\textwidth}
+            \centering
+            \includegraphics[width=\linewidth,height=4.5cm,keepaspectratio]{images/Daphne_3.jpeg}
+            \[ \left\{ \begin{array}{@{}p{3.3cm}@{\hspace{2mm}}r@{}}
+                \footnotesize Daphne cneorum L. & \footnotesize 0,6062 \\
+                \footnotesize\textcolor{magenta}{Daphne striata Tratt.} & \footnotesize 0,3214 \\
+                \footnotesize Daphne mezereum L. & \footnotesize 0,0040 \\
+                \footnotesize Daphne alpina L. & \footnotesize 0,0033 \\
+                \footnotesize Daphne laureola L. & \footnotesize 0,0012 \\
+                \footnotesize Hyacinthus orientalis & \footnotesize 0,0011
+            \end{array} \right\} \]
+        \end{minipage}
+    \end{tabular}
+    \caption{Exemple d'ensembles de prédiction de la \hyperref[fig:prediction_sets]{\textcolor{purple}{figure 7}} avec la configuration 2}
+    \label{fig:prediction_setbis}
+\end{figure}
+
+Si nous reprenons l'exemple de la \hyperref[fig:prediction_sets]{\textcolor{purple}{figure 7}}, alors nous obtiendrons une taille d'une seule espèce prédite pour la première, de deux pour la seconde et nous les garderons toutes pour la dernière observation, comme nous pouvons le voir dans la \hyperref[fig:prediction_setbis]{\textcolor{purple}{figure 10}}. Cela s'explique par le fait qu'il n'y a que dans la première observation que la première prédiction a une probabilité supérieure à $1 - 0,9649$. Cependant, pour la dernière observation, étant donné que l'image est de mauvaise qualité, de nombreux labels restent proposés reflétant l'adaptabilité du modèle.
 
 \vspace{0.2cm}
 
@@ -772,7 +821,7 @@ Dans un second temps, il serait intéressant que l'utilisateur puisse choisir le
 
 \vspace{0.2cm}
 
-Par exemple, un utilisateur pressé pourrait vouloir un taux de couverture de $90\%$ (donc un quantile relativement faible), c'est-à-dire ne pas être certain d'avoir la bonne espèce mais avoir un nombre de proposition limité (seulement celles avec une probabilité $> 1 -$ quantile). D'un autre côté, un utilisateur qui veut absolument savoir précisément quelle plante il a devant lui pourrait sélectionner un taux de couverture de $99\%$ (donc un quantile très élevé), c'est-à-dire qu'il aura un nombre d'espèce élevé (même celles avec des faibles probabilités), ainsi il pourra vérifier à la main quelle plante il pense avoir devant lui et toutes celles probables lui seront proposées.
+Par exemple, un utilisateur pressé pourrait vouloir un taux de couverture de $90\%$, c'est-à-dire ne pas être certain d'avoir la bonne espèce mais avoir un nombre de proposition limité (seulement celles avec une probabilité $> 1 -$ quantile). D'un autre côté, un utilisateur qui veut absolument savoir précisément quelle plante il a devant lui pourrait sélectionner un taux de couverture de $99\%$, c'est-à-dire qu'il aura un nombre d'espèces élevé (même celles avec des faibles probabilités), ainsi il pourra prendre le temps de comparer la plante qu'il pense avoir devant lui et toutes celles probables qui lui seront proposées.
 
 \vspace{0.2cm}
 
@@ -799,7 +848,7 @@ Dans ce projet, nous avons abordé la problématique de l'incertitude dans l'ide
 
 \vspace{0.2cm}
 
-Cette approche présente plusieurs avantages par rapport au système actuel de Pl@ntNet, notamment parce qu'elle fournit une garantie statistique que la vraie espèce est incluse dans l'ensemble des suggestions avec une probabilité d'au moin $95\%$. De plus, elle réduit le nombre de suggestions dans les cas faciles, tout en élargissant les propositions dans les cas ambigus pour maintenir la garantie de couverture.
+Cette approche présente plusieurs avantages par rapport au système actuel de Pl@ntNet, notamment parce qu'elle fournit une garantie statistique que la vraie espèce est incluse dans l'ensemble des suggestions avec une probabilité d'au moins $95\%$. De plus, elle réduit le nombre de suggestions dans les cas faciles, tout en élargissant les propositions dans les cas ambigus pour maintenir la garantie de couverture.
 
 \vspace{0.2cm}
 
