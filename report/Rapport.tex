@@ -7,6 +7,7 @@
 \usepackage[french]{babel}  % Utiliser le package babel pour le français
 \usepackage{csquotes}         % Ajouter csquotes pour babel
 \usepackage[T1]{fontenc}      % Corriger l'encodage pour le français
+\usepackage{xcolor}
 \usepackage[colorlinks=true, linkcolor=black]{hyperref}  % Liens cliquables en bleu sans les encadrer
 \usepackage{amssymb}    % pour les symboles mathématiques
 \usepackage{float}      % Pour le placement précis des figures avec [H]
@@ -285,16 +286,16 @@ Nous avons tout d'abord examiné la répartition des espèces "Top 1" en Europe 
 
 \begin{figure}[H]
     \centering
-    \includesvg[width=\linewidth]{images/figure1.svg}
+    \includesvg[height=10cm]{images/figure1.svg}
     \caption{Histogramme du nombre d'observations par espèce avec les 10 espèces les plus observées et 5 des moins observées}
     \label{fig1}
 \end{figure}
 
-Comme le montre la \autoref{fig1}, les espèces "Top 1" les plus fréquentes, dont nous allons dire qu'elles sont les plus fréquemment photographiées par les utilisaeur de Pl@ntNet, sont essentiellement des arbres vivaces, certains fruitiers, ou des fleurs comestibles, aux propriétés curatives et qui peuvent être aperçues dans toute la zone géographique étudiée. Le \textit{Prunus Spinosa L.} (\autoref{fig:prunus}) ou, plus communément, prunellier, arrive en tête des observations, suivi par d'autres espèces communes comme le \textit{Fagus Sylvatica L.} (hêtre commun) ou encore le \textit{Corylus avellana L.} (noisetier commun). Cette distribution n'est pas surprenante puisqu'elle reflète à la fois l'abondance de ces espèces et l'intérêt qu'elle suscite auprès du grand public, soit pour leur valeur décorative, soit pour leurs usages alimentaires ou médicinaux.
+Comme le montre la \hyperref[fig1]{\textcolor{purple}{figure 1}}, les espèces "Top 1" les plus fréquentes, dont nous allons dire qu'elles sont les plus fréquemment photographiées par les utilisaeur de Pl@ntNet, sont essentiellement des arbres vivaces, certains fruitiers, ou des fleurs comestibles, aux propriétés curatives et qui peuvent être aperçues dans toute la zone géographique étudiée. Le \textit{Prunus Spinosa L.} (\hyperref[fig:prunus]{\textcolor{purple}{figure 3}}) ou, plus communément, prunellier, arrive en tête des observations, suivi par d'autres espèces communes comme le \textit{Fagus Sylvatica L.} (hêtre commun) ou encore le \textit{Corylus avellana L.} (noisetier commun). Cette distribution n'est pas surprenante puisqu'elle reflète à la fois l'abondance de ces espèces et l'intérêt qu'elle suscite auprès du grand public, soit pour leur valeur décorative, soit pour leurs usages alimentaires ou médicinaux.
 
 \vspace{0.2cm}
 
-À l'autre extrémité, les espèces les moins observées (avec une seule occurrence dans la base) correspondent généralement à des plantes rares, présentes dans des zones très restreintes ou éloignées de l'Europe du Sud-Ouest, ou simplement moins reconnaissables et moins intéressantes aux yeux du public. Nous comptons par exemple le \textit{Pavonia Spinifex (L.) Cav.} (\autoref{fig:prunus}), un arbuste à fleurs jaunes originaire des Caraïbes, le \textit{Citrus paradisi Macfad.}, un agrume hybride communément appelé "pomélo" ou le \textit{Teucrium murcicum Sennen}, une toute petite herbe méditerranéenne.
+À l'autre extrémité, les espèces les moins observées (avec une seule occurrence dans la base) correspondent généralement à des plantes rares, présentes dans des zones très restreintes ou éloignées de l'Europe du Sud-Ouest, ou simplement moins reconnaissables et moins intéressantes aux yeux du public. Nous comptons par exemple le \textit{Pavonia Spinifex (L.) Cav.} (\hyperref[fig:prunus]{\textcolor{purple}{figure 3}}), un arbuste à fleurs jaunes originaire des Caraïbes, le \textit{Citrus paradisi Macfad.}, un agrume hybride communément appelé "pomélo" ou le \textit{Teucrium murcicum Sennen}, une toute petite herbe méditerranéenne.
 
 \subsubsection{Relation entre fréquence d'observation et probabilités}
 
@@ -311,7 +312,7 @@ Au-delà de la simple fréquence d'apparition de ces espèces, qui semble seulem
 \caption{Nuages de points de la moyenne des scores ou des scores max en fonction du nombre d'observations}
 \end{figure}
 
-Ces deux graphes, comptant environ 1100 espèces distinctes désignées aléatoirement, révèlent plusieurs phénomènes intéressants. Nous les constaterons grâce à cette répartition des scores en fonction du nombre d'observations par espèces.
+Ces deux graphes, comptant environ $\num{1100}$ espèces distinctes désignées aléatoirement, révèlent plusieurs phénomènes intéressants. Nous les constaterons grâce à cette répartition des scores en fonction du nombre d'observations par espèces.
 
 \vspace{0.2cm}
 
@@ -353,22 +354,24 @@ Plusieurs facteurs peuvent expliquer la variabilité observée dans les scores d
 
 \subsubsection{Impact du choix de l'utilisateur}
 
-Les espèces associées aux probabilités "Top 1" ne sont pas systématiquement celles choisies par l'observateur, qui peut décider de désigner une espèce de probabilité plus faible également proposée par l'IA ou opter pour une tout autre espèce. Des utilisateurs n'ayant pas observé eux-mêmes, sur place, peuvent également choisir une espèce à l'instar de l'observateur. Nous avons admis l'espèce correcte par vote majoritaire où l'observateur a plus de poids que les autres votants. Nous allons étudier un échantillon de $\num{67 461}$ observations (environ un centième des données totales). Observons sur cet échantillon les différences entre le "Top 1" (\autoref{fig1}) et le vote majoritaire (\autoref{fig4}).
+Les espèces associées aux probabilités "Top 1" ne sont pas systématiquement celles choisies par l'observateur, qui peut décider de désigner une espèce de probabilité plus faible également proposée par l'IA ou opter pour une tout autre espèce. Des utilisateurs n'ayant pas observé eux-mêmes, sur place, peuvent également choisir une espèce à l'instar de l'observateur. Nous avons admis l'espèce correcte par vote majoritaire où l'observateur a plus de poids que les autres votants. Nous allons étudier un échantillon de $\num{67 461}$ observations (environ un centième des données totales). Observons sur cet échantillon les différences entre le "Top 1" (\hyperref[fig1]{\textcolor{purple}{figure 1}}) et le vote majoritaire (\hyperref[fig4]{\textcolor{purple}{figure 4}}).
+
+\vspace{-0.4cm}
 
 \begin{figure}[H]
     \centering
-    \includesvg[width=\linewidth]{images/figure3.svg}
+    \includesvg[height=10cm]{images/figure3.svg}
     \caption{Histogramme du nombre d'observations par espèce avec les 6 espèces les plus choisies et 4 des moins choisies}
     \label{fig4}
 \end{figure}
 
 \vspace{0.2cm}
 
-Si \textit{Prunus Spinosa L.} est toujours présente dans ce graphique, c'est l'espèce \textit{Malva sylvestris L.} (\autoref{fig:malva}), une fleur au mauve intense, qui est en tête. Elle est donc la plus souvent choisie par les utilisateurs pour cet échantillon. Ce graphique seul indique que l'espèce prédite en première par l'intelligence artificielle, celle en qui l'algorithme est le plus confiant, n'est pas toujours ce que l'utilisateur compte choisir. Il est envisageable que les espèces proposées par l'inteligence artificielle dans son "Top K" se ressemblent : il existe par exemple plusieurs espèces d'iris ou de lotus partageant donc des caractéristiques communes, on parle de "familles".
+Si \textit{Prunus Spinosa L.} est toujours présente dans ce graphique, c'est l'espèce \textit{Malva sylvestris L.} (\hyperref[fig:malva]{\textcolor{purple}{figure 6}}), une fleur au mauve intense, qui est en tête. Elle est donc la plus souvent choisie par les utilisateurs pour cet échantillon. Ce graphique seul indique que l'espèce prédite en première par l'intelligence artificielle, celle en qui l'algorithme est le plus confiant, n'est pas toujours ce que l'utilisateur compte choisir. Il est envisageable que les espèces proposées par l'inteligence artificielle dans son "Top K" se ressemblent : il existe par exemple plusieurs espèces d'iris ou de lotus partageant donc des caractéristiques communes, on parle de "familles".
 
 \vspace{0.2cm}
 
-Parmi les espèces les moins choisies par les utilisateurs dans cet échantillon, nous notons la \textit{Daphne striata Tratt.} (\autoref{fig:malva}), un arbrisseau à fines fleurs roses produisant des baies qui ressemblent à des œufs, le \textit{Crepis bursifolia L.}, une fleur jaune courante dans l'Hérault et le Var mais qui ne s'observe que vers Mai-Juin, ou le \textit{Cencrhus setaceus (Forssk.) Morrone}, une herbe envahissante dans toute l'Afrique. Ce sont des espèces faciles à reconnaître mais peu courantes.
+Parmi les espèces les moins choisies par les utilisateurs dans cet échantillon, nous notons la \textit{Daphne striata Tratt.} (\hyperref[fig:malva]{\textcolor{purple}{figure 6}}), un arbrisseau à fines fleurs roses produisant des baies qui ressemblent à des œufs, le \textit{Crepis bursifolia L.}, une fleur jaune courante dans l'Hérault et le Var mais qui ne s'observe que vers Mai-Juin, ou le \textit{Cencrhus setaceus (Forssk.) Morrone}, une herbe envahissante dans toute l'Afrique. Ce sont des espèces faciles à reconnaître mais peu courantes.
 
 \begin{figure}[H]
     \centering
@@ -431,8 +434,7 @@ La prédiction conforme est un cadre statistique qui permet de quantifier l'ince
         % Première image et prédiction
         \begin{minipage}[t]{0.33\textwidth}
             \centering
-            \includegraphics[width=\linewidth,height=5cm,keepaspectratio]{images/Daphne_1.jpeg}
-            \vspace{0.5cm}
+            \includegraphics[width=\linewidth,height=4.5cm,keepaspectratio]{images/Daphne_1.jpeg}
             \[ \left\{ \begin{array}{@{}p{3.3cm}@{\hspace{2mm}}r@{}}
                 \footnotesize\textcolor{magenta}{Daphne striata Tratt.} & \footnotesize 0,9556 \\
                 \footnotesize Daphne cneorum L. & \footnotesize 0,0274 \\
@@ -443,8 +445,7 @@ La prédiction conforme est un cadre statistique qui permet de quantifier l'ince
         % Deuxième image et prédiction
         \begin{minipage}[t]{0.33\textwidth}
             \centering
-            \includegraphics[width=\linewidth,height=5cm,keepaspectratio]{images/Daphne_2.jpeg}
-            \vspace{0.5cm}
+            \includegraphics[width=\linewidth,height=4.5cm,keepaspectratio]{images/Daphne_2.jpeg}
             \[ \left\{ \begin{array}{@{}p{3.3cm}@{\hspace{2mm}}r@{}}
                 \footnotesize\textcolor{magenta}{Daphne striata Tratt.} & \footnotesize 0,7547 \\
                 \footnotesize Daphne cneorum L. & \footnotesize 0,2100 \\
@@ -457,8 +458,7 @@ La prédiction conforme est un cadre statistique qui permet de quantifier l'ince
         % Troisième image et prédiction
         \begin{minipage}[t]{0.33\textwidth}
             \centering
-            \includegraphics[width=\linewidth,height=5cm,keepaspectratio]{images/Daphne_3.jpeg}
-            \vspace{0.5cm}
+            \includegraphics[width=\linewidth,height=4.5cm,keepaspectratio]{images/Daphne_3.jpeg}
             \[ \left\{ \begin{array}{@{}p{3.3cm}@{\hspace{2mm}}r@{}}
                 \footnotesize Daphne cneorum L. & \footnotesize 0,6062 \\
                 \footnotesize\textcolor{magenta}{Daphne striata Tratt.} & \footnotesize 0,3214 \\
@@ -469,7 +469,7 @@ La prédiction conforme est un cadre statistique qui permet de quantifier l'ince
             \end{array} \right\} \]
         \end{minipage}
     \end{tabular}
-    \caption{Exemples d'ensemble de prédiction sur des images de Pl@ntNet. Nous montrons trois exemples progressivement plus difficiles de la classe \textit{Daphne striata Tratt.} et les ensembles de prédiction (c.-à-d., $C(X_{\text{test}})$) générés par prédiction conforme.}
+    \caption{Exemple d'ensembles de prédiction (c.-à-d., $C(X_{\text{test}})$) progressivement plus difficiles générés par prédiction conforme, sur des images de Pl@ntNet de la classe \textit{Daphne striata Tratt}.}
     \label{fig:prediction_sets}
 \end{figure}
 
@@ -488,7 +488,7 @@ Cette garantie de couverture est valable sous l'hypothèse que les paires $(X_i,
 
 \vspace{0.2cm}
 
-De plus, cela nécessite certaines conditions supplémentaires. La première va être de ne pas poser d'hypothèse sur $P$. Ensuite, nous ne devons pas non plus utiliser toutes les prédictions possibles, car nous voulons un nombre de prédictions fini, mais également raisonnable. Pour finir, nous voulons adapter notre stratégie à la dureté du problème, c'est-à-dire que plus il est facile de prédire $Y_{n+1}$ à partir de $X_{n+1}$ et plus notre ensemble $\hat C_n(X_{n+1})$ devra être petit, comme illustré en exemple dans la \autoref{fig:prediction_sets}.
+De plus, cela nécessite certaines conditions supplémentaires. La première va être de ne pas poser d'hypothèse sur $P$. Ensuite, nous ne devons pas non plus utiliser toutes les prédictions possibles, car nous voulons un nombre de prédictions fini, mais également raisonnable. Pour finir, nous voulons adapter notre stratégie à la dureté du problème, c'est-à-dire que plus il est facile de prédire $Y_{n+1}$ à partir de $X_{n+1}$ et plus notre ensemble $\hat C_n(X_{n+1})$ devra être petit, comme illustré en exemple dans la \hyperref[fig:prediction_sets]{\textcolor{purple}{figure 7}}.
 
 \vspace{0.2cm}
 
@@ -547,7 +547,7 @@ Notre stratégie de division s'articule autour de deux critères principaux : l'
 
 \vspace{0.2cm}
 
-Nous avons représenté cette configuration comme suit : 
+Nous avons représenté ces configurations comme suit : 
 \begin{figure}[H]
     \centering
     \includegraphics[scale=0.6]{images/Models.png}
@@ -606,7 +606,7 @@ Ces quantiles sont des seuils critiques, c'est-à-dire que pour le premier score
     \label{fig:quantiles}
 \end{figure}
 
-Analysons le \autoref{tab: scores et quantiles} ainsi que la \autoref{fig:quantiles} associée.
+Analysons le \hyperref[tab: scores et quantiles]{\textcolor{purple}{tableau 2}} ainsi que la \hyperref[fig:quantiles]{\textcolor{purple}{figure 9}} associée.
 Ce tableau présente les quantiles calculés pour chaque configuration de score ($s_1$ ou $s_2$) et de type de données (expertes ou non expertes).
 
 \vspace{0.2cm}
@@ -623,7 +623,7 @@ Ces résultats soulignent le rôle des quantiles comme seuil critique dans la pr
 
 \vspace{0.2cm}
 
-La \autoref{fig:quantiles} illustre la répartition des observations testées selon les scores $s_1$ et $s_2$, en distinguant les données expertes et non expertes. L’axe des abscisses représente les types de score, tandis que l’axe des ordonnées indique les scores de non-conformité calculés pour chaque observation testée. Chaque point correspond à une observation : la valeur affichée représente le score de non-conformité associé à la vraie espèce (le bon label) pour cette observation. La ligne rouge en pointillé marque le seuil du quantile utilisé pour la prédiction conforme. Les couleurs différenciées permettent de visualiser la conformité des observations : en violet les observations conformes (c’est-à-dire dont la vraie espèce est incluse dans l’ensemble de prédiction), en rose celles jugées non conformes.
+La \hyperref[fig:quantiles]{\textcolor{purple}{figure 9}} illustre la répartition des observations testées selon les scores $s_1$ et $s_2$, en distinguant les données expertes et non expertes. L’axe des abscisses représente les types de score, tandis que l’axe des ordonnées indique les scores de non-conformité calculés pour chaque observation testée. Chaque point correspond à une observation : la valeur affichée représente le score de non-conformité associé à la vraie espèce (le bon label) pour cette observation. La ligne rouge en pointillé marque le seuil du quantile utilisé pour la prédiction conforme. Les couleurs différenciées permettent de visualiser la conformité des observations : en violet les observations conformes (c’est-à-dire dont la vraie espèce est incluse dans l’ensemble de prédiction), en rose celles jugées non conformes.
 
 \vspace{0.2cm}
 
@@ -672,10 +672,10 @@ Après avoir défini notre méthodologie et implémenté les algorithmes corresp
     \hline
     \textbf{Configuration} & \textbf{Taux de couverture} & \textbf{Taille moyenne} & \textbf{Taille médiane} \\
     \hline
-    $s_1$ (Softmax) + non expert & $96.45\%$ & $16.05$ & $10.00$ \\
-    $s_1$ + expert & $94.82\%$ & $2.16$ & $2.00$ \\
-    $s_2$ (APS) + non expert & $96.45\%$ & $11.24$ & $7.00$ \\
-    $s_2$ + expert & $94.76\%$ & $4.01$ & $2.00$ \\
+    $s_1$ (Softmax) + non expert & $96.45\%$ & $15.47$ & $10.00$ \\
+    $s_1$ + expert & $94.82\%$ & $2.13$ & $2.00$ \\
+    $s_2$ (APS) + non expert & $96.45\%$ & $11.21$ & $7.00$ \\
+    $s_2$ + expert & $94.76\%$ & $4.51$ & $2.00$ \\
     \hline
     \end{tabular}
 \caption{Configuration et caractéristiques obtenues (couverture, tailles moyenne et médiane)}
@@ -704,7 +704,7 @@ Si nous devions conclure sur une configuration optimale, nous prendrons les grou
 
 \subsection{Analyse de la robustesse au tirage aléatoire}
 
-Pour vérifier si la division aléatoire des données a influencé les performances, nous avons répété notre expérience avec plusieurs autres graines ($123$ et $545$). Les résultats présentés dans le \autoref{tab3} ci-dessus proviennent de la graine $42$. Les performances obtenues pour les méthodes calibrées sont présentées ci-dessous :
+Pour vérifier si la division aléatoire des données a influencé les performances, nous avons répété notre expérience avec plusieurs autres graines ($123$ et $545$). Les résultats présentés dans le \hyperref[tab3]{\textcolor{purple}{tableau 3}} ci-dessus proviennent de la graine $42$. Les performances obtenues pour les méthodes calibrées sont présentées ci-dessous :
 
 \begin{table}[h]
     \centering
@@ -713,16 +713,16 @@ Pour vérifier si la division aléatoire des données a influencé les performan
         \textbf{Configuration} & \textbf{Graine $42$} & \textbf{Graine $123$} & \textbf{Graine $545$} & \textbf{Ecart-max} \\
         \hline
         $s_1$ + non expert & $96.45\%$ & $96.52\%$ & $96.66\%$ & $0.21\%$ \\
-        $s_1$ + expert & $94.82\%$ & $94.95\%$ & $95.14\%$ & $0.32\%$ \\
-        $s_2$ + non expert & $97.92\%$ & $98.02\%$ & $97.91\%$ & $0.11\%$ \\
-        $s_2$ + expert & $94.91\%$ & $95.08\%$ & $94.91\%$ & $0.17\%$ \\
+        $s_1$ + expert & $94.82\%$ & $94.95\%$ & $95.15\%$ & $0.33\%$ \\
+        $s_2$ + non expert & $96.45\%$ & $96.52\%$ & $96.66\%$ & $0.21\%$ \\
+        $s_2$ + expert & $94.76\%$ & $95.01\%$ & $95.24\%$ & $0.48\%$ \\
         \hline
     \end{tabular}
     \caption{Résumé des couvertures avec les différentes graines}
     \label{tab:couvertures_graines}
 \end{table}
 
-Les taux de couverture obtenus varient très peu selon le choix de la graine utilisée pour couper les données expertes. En effet, nous observons un écart maximal observé de $0,32\%$. De plus, les méthodes calibrées sur les non-experts restent systématiquement au-dessus de $95\%$ et les méthodes calibrées sur les experts restent très proches de $95\%$, sans variation notable.
+Les taux de couverture obtenus varient très peu selon le choix de la graine utilisée pour couper les données expertes. En effet, nous observons un écart maximal observé de $0,48\%$. De plus, les méthodes calibrées sur les non-experts restent systématiquement au-dessus de $95\%$ et les méthodes calibrées sur les experts restent très proches de $95\%$, sans variation notable.
 
 \vspace{0.2cm}
 
@@ -738,10 +738,10 @@ Afin de confirmer si les taux de couverture observés respectaient réellement l
         \hline
         \textbf{Configuration} & \textbf{Statistique $\chi^2$} & \textbf{Test} & \textbf{Conclusion} \\
         \hline
-        $s_1$ + non expert & $87.25$ & $> 3.8415$ & Rejet de $H_0$ (supérieure au seuil) \\
-        $s_1$ + expert & $1.05$ & $< 3.8415$  & Conserve $H_0$ \\
-        $s_2$ + non expert & $282.54$ & $> 3.8415$ & Rejet de $H_0$ (supérieure au seuil) \\
-        $s_2$ + expert & $2.09$ & $< 3.8415$ & Conserve $H_0$ \\
+        $s_1$ + non expert & $58.90$ & $> 3.8415$ & Rejet de $H_0$ (supérieure au seuil) \\
+        $s_1$ + expert & $0.87$ & $< 3.8415$  & Conservation de $H_0$ \\
+        $s_2$ + non expert & $58.90$ & $> 3.8415$ & Rejet de $H_0$ (supérieure au seuil) \\
+        $s_2$ + expert & $1.57$ & $< 3.8415$ & Conservation de $H_0$ \\
         \hline
     \end{tabular}
     \caption{Résumé des tests de $\chi^2$}
@@ -762,7 +762,7 @@ Dans un premier temps, nous pourrions nous baser sur les quantiles que nous avon
 
 \vspace{0.2cm}
 
-Si nous reprenons l'exemple de la \autoref{fig:prediction_sets}, alors nous obtiendrons une taille de une seule espèce prédite pour chacune des observations. Cela s'explique par le fait qu'il n'y a que la première prédiction dont la probabilité était supérieure à $1 - 0,5614$. Cependant, pour la dernière plante, étant donné que la photographie est de mauvaise qualité, ce n'est pas la bonne espèce qui est prédite (elle fait partie de $5\%$ d'erreur).
+Si nous reprenons l'exemple de la \hyperref[fig:prediction_sets]{\textcolor{purple}{figure 7}}, alors nous obtiendrons une taille de une seule espèce prédite pour chacune des observations. Cela s'explique par le fait qu'il n'y a que la première prédiction dont la probabilité était supérieure à $1 - 0,5614$. Cependant, pour la dernière plante, étant donné que la photographie est de mauvaise qualité, ce n'est pas la bonne espèce qui est prédite (elle fait partie de $5\%$ d'erreur).
 
 \vspace{0.2cm}
 
