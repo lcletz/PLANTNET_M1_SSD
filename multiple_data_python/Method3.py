@@ -15,7 +15,7 @@ with zipfile.ZipFile(zip_path, 'r') as zip_ref:
                 data = json.load(f)
                 for valeurs in data.values():
                     if "sum_until_correct" in valeurs and isinstance(valeurs["sum_until_correct"], list):
-                        scores_s2.extend(valeurs["sum_until_correct"])  # On ajoute tous les éléments à plat
+                        scores_s2.extend(valeurs["sum_until_correct"]) 
         else:
             print(f"[Info] Fichier manquant : {filename}")
 
@@ -67,7 +67,7 @@ for pid in plante_ids:
     else:
         print(f"La plante {pid} est conforme.")
 
-# %% 7. Visualisation avec Plotly en prenant le max de chaque liste (plus représentatif)
+# %% 7. Visualisation avec Plotly 
 import pandas as pd
 import plotly.express as px
 
@@ -110,13 +110,13 @@ fig.add_vline(
 )
 
 fig.update_layout(
-    width=400,
-    height=250,
-    title_font_size=8,
-    margin=dict(l=5, r=5, t=15, b=20),
+    width=600,
+    height=300,
+    title_font_size=14,
+    margin=dict(l=10, r=10, t=40, b=10),
     showlegend=True,
     legend=dict(
-        font=dict(size=6),
+        font=dict(size=10),
         x=1,
         y=0.5,
         xanchor='left',
@@ -126,55 +126,48 @@ fig.update_layout(
     yaxis=dict(
         tickformat="",
         showticklabels=False,
-        title_font=dict(size=8),
-        tickfont=dict(size=8)
+        title_font=dict(size=12),
+        tickfont=dict(size=12)
     ),
     xaxis=dict(
         range=[0, 1],
         dtick=0.1,
-        tickfont=dict(size=8),
-        title_font=dict(size=8)
+        tickfont=dict(size=12),
+        title_font=dict(size=12)
     ),
 )
 
 fig.show()
-fig.write_image("graphique_methode3.svg", width=400, height=250, scale=2)
+fig.write_image("graphique_methode3.svg")
 
-# %% 8. Statistiques conformes à la théorie de la calibration
+# %% 8. Calcul du taux de couverture sur notre set test
+nb_total_experts3 = len(df3)
+nb_conformes_experts3 = df3["Conforme"].value_counts().get("Vrai", 0)
+nb_non_conformes_experts3 = nb_total_experts3 - nb_conformes_experts3
+taux_couverture_experts3 = (nb_conformes_experts3 / nb_total_experts3) * 100
+
+print(f"Taux de couverture observé : {taux_couverture_experts3:.2f}%")
+print(f"Taille totale du set test : {nb_total_experts3}")
+print(f"Nombre d'observations conformes : {nb_conformes_experts3}")
+print(f"Nombre d'observations non conformes : {nb_non_conformes_experts3}")
+
+# %% 8. Test du Chi² 
 
 from scipy.stats import chisquare
 
-calibration_array_m3 = np.array(scores_s2)  # tous les éléments non experts
-quantile_m3 = quantile3
-confidence_m3 = confidence
+obs_exp3 = [nb_conformes_experts3, nb_non_conformes_experts3]
+exp_exp3 = [nb_total_experts3 * confidence, nb_total_experts3 * (1 - confidence)]
 
-nb_conformes_m3 = np.sum(calibration_array_m3 < quantile_m3)
-nb_non_conformes_m3 = len(calibration_array_m3) - nb_conformes_m3
-taux_couverture_m3 = (nb_conformes_m3 / len(calibration_array_m3)) * 100
+print(f"Observés : conformes = {obs_exp3[0]}, non conformes = {obs_exp3[1]}")
+print(f"Attendus : conformes = {int(exp_exp3[0])}, non conformes = {int(exp_exp3[1])}")
 
-print(f"Taux de couverture observé : {taux_couverture_m3:.2f}%")
-print(f"Taille du set de calibration : {len(calibration_array_m3)}")
-print(f"Nombre de conformes : {nb_conformes_m3}")
-print(f"Nombre de non conformes : {nb_non_conformes_m3}")
+chi2_stat_exp3, p_value3 = chisquare(f_obs=obs_exp3, f_exp=exp_exp3)
 
-# %% 9. Test du Chi² : conformité au taux attendu
+print(f"Chi² = {chi2_stat_exp3:.2f}, p = {p_value3:.4e}")
 
-expected_m3 = [
-    len(calibration_array_m3) * confidence_m3,
-    len(calibration_array_m3) * (1 - confidence_m3)
-]
-
-observed_m3 = [nb_conformes_m3, nb_non_conformes_m3]
-
-print(f"Observés : conformes = {observed_m3[0]}, non conformes = {observed_m3[1]}")
-print(f"Attendus : conformes = {int(expected_m3[0])}, non conformes = {int(expected_m3[1])}")
-
-chi2_stat_m3, p_value_m3 = chisquare(f_obs=observed_m3, f_exp=expected_m3)
-
-print(f"Chi² = {chi2_stat_m3:.2f}, p = {p_value_m3:.4e}")
-
+# Interprétation automatique
 alpha = 0.05
-if p_value_m3 < alpha:
+if p_value3 < alpha:
     interpretation = (
         "Le test du Chi² indique que le taux de couverture observé "
         "diffère significativement du taux attendu (95%).\n"
@@ -188,4 +181,69 @@ else:
     )
 
 print(interpretation)
+
+#%%
+import json
+import numpy as np
+
+def create_prediction_set_one_minus_prob(predictions, threshold):
+    prediction_set = []
+    for pred in predictions:
+        score = 1 - pred['proba']
+        if score < threshold:
+            prediction_set.append(pred['name'])
+    return prediction_set
+
+def create_prediction_set_sum_until_correct_simulation(predictions, threshold):
+    sorted_preds = sorted(predictions, key=lambda x: -x['proba'])
+    
+    # On va tester toutes les positions possibles comme si elles étaient correctes
+    set_sizes = []
+    
+    for correct_name in [p['name'] for p in sorted_preds]:
+        cumulative = 0
+        prediction_set = []
+        for pred in sorted_preds:
+            prediction_set.append(pred['name'])
+            cumulative += pred['proba']
+            # On s'arrête si on a inclus la bonne prédiction ET que la somme cumulative dépasse le quantile
+            if pred['name'] == correct_name and cumulative >= threshold:
+                break
+        set_sizes.append(len(prediction_set))
+    
+    # On prend la taille minimale du set 
+    return min(set_sizes) if set_sizes else 0
+
+def compute_avg_median_set_size(raw_data, threshold, score_type):
+    set_sizes = []
+
+    for obs_id, predictions in raw_data.items():
+        if score_type == "one_minus_prob":
+            pred_set = create_prediction_set_one_minus_prob(predictions, threshold)
+            set_sizes.append(len(pred_set))
+
+        elif score_type == "sum_until_correct":
+            
+            size = create_prediction_set_sum_until_correct_simulation(predictions, threshold)
+            set_sizes.append(size)
+
+    avg_size = np.mean(set_sizes)
+    median_size = np.median(set_sizes)
+    return avg_size, median_size
+
+# Chargement des données
+with open("expert_processed.json", "r") as f:
+    expert_processed = json.load(f)
+
+threshold = quantile3
+
+# Choix du mode
+score_type = "sum_until_correct"
+
+# Calcul
+avg, median = compute_avg_median_set_size(expert_processed, threshold, score_type)
+
+print(f"Taille moyenne : {avg:.2f}")
+print(f"Taille médiane : {median}")
+
 # %%

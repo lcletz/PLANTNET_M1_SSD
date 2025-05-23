@@ -99,49 +99,43 @@ fig.add_vline(
 )
 
 fig.update_layout(
-    width=400,
-    height=250,
-    title_font_size=8,
-    margin=dict(l=5, r=5, t=15, b=5),
+    width=600,
+    height=300,
+    title_font_size=14,
+    margin=dict(l=10, r=10, t=40, b=10),
     showlegend=True,
-    legend=dict(font=dict(size=6), x=1, y=0.5, xanchor='left', yanchor='middle', borderwidth=0),
-    yaxis=dict(showticklabels=False, title_font=dict(size=8), tickfont=dict(size=8)),
-    xaxis=dict(range=[0, 1], dtick=0.1, tickfont=dict(size=8), title_font=dict(size=8))
+    legend=dict(font=dict(size=10), x=1, y=0.5, xanchor='left', yanchor='middle', borderwidth=0),
+    yaxis=dict(showticklabels=False, title_font=dict(size=12), tickfont=dict(size=12)),
+    xaxis=dict(range=[0, 1], dtick=0.1, tickfont=dict(size=12), title_font=dict(size=12))
 )
 
 fig.show()
-fig.write_image("graphique_methode1.svg", width=400, height=250, scale=2)
+fig.write_image("graphique_methode1.svg")
 
-# %% 7. Statistiques conformes à la théorie de la calibration
+# %% 7. Calcul du taux de couverture sur notre set test
+nb_total_experts = len(df)
+nb_conformes_experts = df["Conforme"].value_counts().get("Vrai", 0)
+nb_non_conformes_experts = nb_total_experts - nb_conformes_experts
+taux_couverture_experts = (nb_conformes_experts / nb_total_experts) * 100
 
-# Calcul du taux de couverture uniquement sur les non-experts (set de calibration)
-scores_nonexp_array = np.array(scores_nonexp)
-nb_conformes_calibration = np.sum(scores_nonexp_array < quantile1)
-nb_non_conformes_calibration = len(scores_nonexp_array) - nb_conformes_calibration
-taux_couverture_calibration = (nb_conformes_calibration / len(scores_nonexp_array)) * 100
+print(f"Taux de couverture observé : {taux_couverture_experts:.2f}%")
+print(f"Taille totale du set test : {nb_total_experts}")
+print(f"Nombre d'observations conformes : {nb_conformes_experts}")
+print(f"Nombre d'observations non conformes : {nb_non_conformes_experts}")
 
-print(f"Taux de couverture observé : {taux_couverture_calibration:.2f}%")
-print(f"Taille totale du set de calibration : {len(scores_nonexp_array)}")
-print(f"Nombre d'observations conformes : {nb_conformes_calibration}")
-print(f"Nombre d'observations non conformes : {nb_non_conformes_calibration}")
-
-# %% 8. Test du Chi² : conformité du taux de couverture avec l'hypothèse théorique
+# %% 8. Test du Chi² 
 
 from scipy.stats import chisquare
 
-# Observés et attendus
-n_total = len(scores_nonexp_array)
-obs = [nb_conformes_calibration, nb_non_conformes_calibration]
-exp = [n_total * confidence, n_total * (1 - confidence)]
+obs_exp = [nb_conformes_experts, nb_non_conformes_experts]
+exp_exp = [nb_total_experts * confidence, nb_total_experts * (1 - confidence)]
 
-print(f"Observés : conformes = {obs[0]}, non conformes = {obs[1]}")
-print(f"Attendus : conformes = {int(exp[0])}, non conformes = {int(exp[1])}")
+print(f"Observés : conformes = {obs_exp[0]}, non conformes = {obs_exp[1]}")
+print(f"Attendus : conformes = {int(exp_exp[0])}, non conformes = {int(exp_exp[1])}")
 
-# Test du Chi²
-chi2_stat, p_value = chisquare(f_obs=obs, f_exp=exp)
+chi2_stat_exp, p_value = chisquare(f_obs=obs_exp, f_exp=exp_exp)
 
-# Résultats
-print(f"Chi² = {chi2_stat:.2f}, p = {p_value:.4e}")
+print(f"Chi² = {chi2_stat_exp:.2f}, p = {p_value:.4e}")
 
 # Interprétation
 alpha = 0.05
@@ -161,3 +155,58 @@ else:
 print(interpretation)
 
 # %%
+import json
+import numpy as np
+
+# Fonction pour créer l'ensemble de prédiction selon le score
+def create_prediction_set(predictions, threshold, score_type):
+    prediction_set = []
+
+    if score_type == "one_minus_prob":
+        for pred in predictions:
+            score = 1 - pred['proba']
+            if score < threshold:
+                prediction_set.append(pred['name'])
+
+    elif score_type == "sum_until_correct":
+        sorted_preds = sorted(predictions, key=lambda x: -x['proba'])
+        cumulative = 0
+        for pred in sorted_preds:
+            if cumulative < threshold:
+                prediction_set.append(pred['name'])
+            cumulative += pred['proba']
+
+    return prediction_set
+
+# Fonction pour calculer la taille moyenne et médiane
+def compute_avg_median_set_size(raw_data, threshold, score_type):
+    set_sizes = []
+
+    for obs_id, predictions in raw_data.items():
+        pred_set = create_prediction_set(predictions, threshold, score_type)
+        set_sizes.append(len(pred_set))
+
+    avg_size = np.mean(set_sizes)
+    median_size = np.median(set_sizes)
+    return avg_size, median_size
+
+# Charger les fichiers
+with open("expert_scores2.json", "r") as f:
+    expert_scores = json.load(f)
+
+with open("expert_processed.json", "r") as f:
+    expert_processed = json.load(f)
+
+# Filtrer les observations communes
+common_ids = set(expert_scores.keys()) & set(expert_processed.keys())
+filtered_processed = {k: expert_processed[k] for k in common_ids}
+
+# Définir le type de score et le seuil
+score_type = "one_minus_prob"  
+threshold = quantile1
+
+# Calcul des tailles
+avg, median = compute_avg_median_set_size(filtered_processed, threshold, score_type)
+
+print(f"Taille moyenne : {avg:.2f}")
+print(f"Taille médiane : {median}")
