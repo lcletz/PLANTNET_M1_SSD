@@ -242,6 +242,7 @@ Pour nos analyses sous Python, les bibliothèques dont nous avons fait usage son
     \item \textbf{Optimisation :} \texttt{tqdm} pour suivre visuellement la progression des traitements, \texttt{math} pour utiliser des fonctions mathématiques avancées.
     \item \textbf{Aléatoire :} \texttt{random} pour mélanger et diviser les données de manière aléatoire mais reproductible.
     \item \textbf{Exportation de graphique :} \texttt{kaleido} qui est une bibliothèque pour exporter des graphiques issus de \texttt{plotly} en images statiques.
+    \item \textbf{Test du $\chi^2$ :} \texttt{scipy.stats} qui fournit des outils statistiques, notamment la fonction \texttt{chisquare} utilisée pour évaluer si la distribution observée des classes prédites diffère significativement d'une distribution attendue.
 \end{itemize}
 
 \vspace{0.2cm}
@@ -386,6 +387,7 @@ Parmi les espèces les moins choisies par les utilisateurs dans cet échantillon
 
 
 Puisque l'échantillon étudié est moins conséquent que celui de la première étude, environ 1400 espèces ont été piochées aléatoirement, soit trois centaines supplémentaires, pour une meilleure intuition. 
+
 \vspace{0.2cm}
 
 La Mauve, choisie plus de $200$ fois dans cet échantillon, possède en moyenne une probabilité assez basse. Cela suggère qu'elle n'a pas toujours été l'espèce Top $1$ mais qu'elle a tout de même été validée par l'observateur ou par les votants à la majorité. Lorsqu'elle a été proposée par l'algorithme, même si elle n'était pas en première position ni avec une probabilité élevée, l'observateur a toutefois opté pour cette espèce. Cela pourrait s'expliquer par le fait que cette plante est d'une couleur intense et d'une forme assez particulière que l'observateur a pu remarquer et facilement reconnaître.
@@ -597,7 +599,7 @@ Pour le calcul concret du quantile, nous avons utilisé la fonction quantile de 
 
 \vspace{0.2cm}
 
-Ces quantiles sont des seuils critiques, c'est-à-dire que pour le premier score (qui correspond au score soft max), nous incluons dans notre ensemble de prédiction toutes les classes dont le score est inférieur au quantile. Pour le deuxième scpre (qui correspond au score cumulatif APS), nous incluons les classes jusqu'à ce que leur somme cumulée dépasse le quantile.
+Ces quantiles sont des seuils critiques, c'est-à-dire que pour le premier score (qui correspond au score soft max), nous incluons dans notre ensemble de prédiction toutes les classes dont le score est inférieur au quantile. Pour le deuxième score (qui correspond au score cumulatif APS), nous incluons les classes jusqu'à ce que leur somme cumulée dépasse le quantile.
 
 \begin{figure}[H]
     \centering
