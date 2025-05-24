@@ -8,7 +8,20 @@
 \usepackage{csquotes}         % Ajouter csquotes pour babel
 \usepackage[T1]{fontenc}      % Corriger l'encodage pour le français
 \usepackage{xcolor}
-\usepackage[colorlinks=true, linkcolor=black]{hyperref}  % Liens cliquables en bleu sans les encadrer
+
+% Configuration des couleurs pour les liens
+\definecolor{darkgreen}{RGB}{50,205,50}  % Définir un vert foncé
+
+% Configuration d'hyperref APRÈS biblatex
+\usepackage[style=apa, backend=biber]{biblatex}
+\addbibresource{references.bib}
+
+% Configuration d'hyperref avec les bonnes couleurs
+\usepackage[colorlinks=true, 
+            linkcolor=black,
+            citecolor=darkgreen,    % Couleur pour les citations
+            urlcolor=magenta]{hyperref}
+
 \usepackage{amssymb}    % pour les symboles mathématiques
 \usepackage{float}      % Pour le placement précis des figures avec [H]
 \usepackage{microtype}
@@ -22,10 +35,6 @@
 % Ajout d'un espace insécable entre les décimales
 \usepackage{siunitx}
 \sisetup{output-decimal-marker = {,}, group-separator = {\,}, group-minimum-digits = 4}
-
-
-\usepackage[style=apa, backend=biber]{biblatex}
-\addbibresource{references.bib}
 
 \usepackage{tocloft} % Pour modifier l'apparence du sommaire
 \setlength{\cftbeforesecskip}{10pt} % Espacement entre les sections
@@ -206,7 +215,7 @@ Ces données sont réparties dans $7$ fichiers au format JSON (JavaScript Object
 
 \vspace{0.2cm}
 
-Dans un deuxième temps, nous avons travaillé avec un échantillon plus restreint de $\num{67 466}$ observations afin de faciliter le développement et les tests de nos algorithmes, permettant une exécution plus rapide qu'avec l'ensemble complet des $7$ millions de données. Cette approche nous a permis d'itérer efficacement sur nos modèles avant de les généraliser, dans un dernier temps, sur l'intégralité du jeu de données.
+Dans un deuxième temps, nous avons travaillé avec un échantillon plus restreint de $\num{67 466}$ observations afin de faciliter le développement et les tests de nos algorithmes, permettant une exécution plus rapide qu'avec l'ensemble complet des $7$ millions d'observations. Cette approche nous a permis d'itérer efficacement sur nos modèles avant de les généraliser, dans un dernier temps, sur l'intégralité du jeu de données.
 
 \vspace{0.2cm}
 
@@ -216,7 +225,7 @@ Dans un deuxième temps, nous avons travaillé avec un échantillon plus restrei
 
 \subsection{Outils}
 
-Pour mener à bien nos analyses, nous avons développé une chaîne de traitements combinant plusieurs langages et outils de programmation. Tous nos codes sont disponibles en libre accès sur notre \href{https://github.com/lcletz/PLANTNET_M1_SSD}{Github} ainsi que les données partagées entre nous au fur et à mesure de l'étude sur la plateforme Zenodo : l'ensemble des \href{https://zenodo.org/records/15355864}{données post-traitement}, les \href{https://zenodo.org/records/15464436}{scores} calculées sur les données traitées qui ont en suite été divisées en \href{https://zenodo.org/records/15441507}{non-experts et experts}.
+Pour mener à bien nos analyses, nous avons développé une chaîne de traitements combinant plusieurs langages et outils de programmation. Tous nos codes sont disponibles en libre accès sur notre \href{https://github.com/lcletz/PLANTNET_M1_SSD}{Github} ainsi que les données partagées entre nous au fur et à mesure de l'étude sur la plateforme Zenodo : l'ensemble des \href{https://zenodo.org/records/15355864}{données post-traitement}, les \href{https://zenodo.org/records/15464436}{scores} calculés sur les données traitées qui ont en suite été divisées en \href{https://zenodo.org/records/15441507}{non-experts et experts}.
 
 \subsubsection{Environnement de développement}
 
@@ -243,12 +252,12 @@ Pour nos analyses sous Python, les bibliothèques dont nous avons fait usage son
     \item \textbf{Aléatoire :} \texttt{random} pour mélanger et diviser les données de manière aléatoire mais reproductible.
     \item \textbf{Exportation de graphique :} \texttt{kaleido} qui est une bibliothèque pour exporter des graphiques issus de \texttt{plotly} en images statiques.
     \item \textbf{Test du $\chi^2$ :} \texttt{scipy.stats} qui fournit des outils statistiques, notamment la fonction \texttt{chisquare} utilisée pour évaluer si la distribution observée des classes prédites diffère significativement d'une distribution attendue.
-    \item \textbf{Comparaison de quantiles} : \texttt{mapie.conformity scores} pour comparer les ordres de grandeurs des quantiles que nous avons calculé.
+    \item \textbf{Comparaison de quantiles} : \texttt{mapie.conformity scores} pour comparer les ordres de grandeurs des quantiles que nous avons calculés.
 \end{itemize}
 
 \vspace{0.2cm}
 
-Cette complémentarité des outils nous a permis d'aborder efficacement les différentes phases du projet : de l'exploration initiale des données à l'implémentation des algorithmes de prédiction conformes, en passant par la visualisation des résultats.
+Cette complémentarité des outils nous a permis d'aborder efficacement les différentes phases du projet : de l'exploration initiale des données à l'implémentation des algorithmes de prédiction conforme, en passant par la visualisation des résultats.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -426,7 +435,7 @@ La prédiction conforme, que nous allons introduire dans la section suivante, of
 
 \subsection{Prédiction conforme}
 
-La prédiction conforme est un cadre statistique qui permet de quantifier l'incertitude des prédictions faites par des algorithmes d'apprentissage automatique, y compris les réseaux de neurones utilisés dans Pl@ntNet. Contrairement aux autres approches comme le bootstrap qui reposent sur des hypothèses paramétriques, la prédiction conforme offre des garanties de couverture valables même pour des échantillons de taille finie, sans hypothèses fortes sur la distribution des données (\cite{ShaferVovk}).
+La prédiction conforme est un cadre statistique qui permet de quantifier l'incertitude des prédictions faites par des algorithmes d'apprentissage automatique, y compris les réseaux de neurones utilisés dans Pl@ntNet. Contrairement à certaines approches qui reposent sur des hypothèses paramétriques, la prédiction conforme offre des garanties de couverture valables même pour des échantillons de taille finie, sans hypothèses fortes sur la distribution des données (\cite{ShaferVovk}).
 
 \vspace{0.2cm}
 
@@ -477,7 +486,7 @@ La prédiction conforme est un cadre statistique qui permet de quantifier l'ince
 
 \subsubsection{Cadre mathématiques}
 
-Nous considérons $(X_i, Y_i)$ des paires constituées de caractéristiques ($X_i$) et de réponses ($Y_i$) indépendantes et identiquement distribuées issues d'une distribution inconnue $P$, avec $i = 1, \dots, n$. Dans notre contexte, $X_i$ représente les caractéristiques extraites d'une image de plante, et $Y_i \in \{1, 2, \dots, K\}$ l'indice de la véritable espèce parmi les $K$ possibles. Notre espace des caractéristiques est $\mathcal{X} = \mathbb R^d$ et notre espace des réponses est $\mathcal{Y} = \mathbb R$.
+Nous considérons $(X_i, Y_i)$ des paires constituées de caractéristiques ($X_i$) et de réponses ($Y_i$) indépendantes et identiquement distribuées issues d'une distribution inconnue $P$, avec $i = 1, \dots, n$. Dans notre contexte, $X_i$ représente les caractéristiques extraites d'une image de plante, et $Y_i \in \{1, 2, \dots, K\}$ l'indice de la véritable espèce parmi les $K$ possibles. Notre espace des caractéristiques est $\mathcal{X} = \mathbb R^d$, avec $d$ le nombre d'informations sur l'observation $X_i$, et notre espace des réponses est $\mathcal{Y} = \{1, 2, \dots, K\}$.
 
 \vspace{0.2cm}
 
