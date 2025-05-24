@@ -26,6 +26,13 @@ Here is a diagram of the architecture of our project, detailing the location of 
     │    ├── Analyses _Plantnet_300K/
     │    │   ├── readme.md
     │    │   └── Visualisation.Rmd
+    │    ├── Conformal_prediction
+    │    │   ├── Expert_scores_division.py
+    │    │   ├── Method1.py
+    │    │   ├── Method2.py
+    │    │   ├── Method3.py
+    │    │   ├── Method4.py
+    │    │   └──conformal_package_test.py
     │    ├── croisement_data/
     │    │   ├── ai.Rmd
     │    │   ├── Comptage_réponses.Rmd
@@ -41,14 +48,8 @@ Here is a diagram of the architecture of our project, detailing the location of 
     │    │   └── test_set_sizes.Rmd
     │    ├── data_python/
     │    │   ├── code_extraction.py
-    │    │   └── figures.py
-    │    ├── multiple_data_python/
-    │    │   ├── Expert_scores_division.py
     │    │   ├── extracted_tasks.py
-    │    │   ├── Method1.py
-    │    │   ├── Method2.py
-    │    │   ├── Method3.py
-    │    │   ├── Method4.py
+    │    │   ├── figures.py
     │    │   ├── scores_non_expertes.py
     │    │   ├── script_croisement.py
     │    │   ├── script_outpul_final.py

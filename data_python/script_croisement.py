@@ -299,7 +299,6 @@ traiter_predictions_partielles(chemin_predictions_folder)
 import json
 import os
 
-# !!!! à changer !!!
 chemin = "/home/anne-laure/projet/PLANTNET_M1_SSD/multiple_data_python"
 
 # Changer le répertoire actuel vers ce dossier
